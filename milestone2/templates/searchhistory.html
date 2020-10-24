@@ -1,0 +1,14 @@
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+
+  <h3>Search History page</h3>
+
+{% for searchhistory in searchhistoryquery%}
+<h3>{{searchhistory.searchtext}}</h3>
+<p>{{searchhistory.date}}</p>
+{% endfor %}
+
+{% endblock content %}
