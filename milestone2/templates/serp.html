@@ -4,13 +4,6 @@
 
 {% block content %}
 
-{% if user.is_authenticated %}
-Hi {{ user.email }}!
-{% else %}
-<p>You are not logged in</p>
-{% endif %}
-
-
 <div class="container">
   <h2> ETD Search</h2>
   <form method="post">
@@ -18,8 +11,20 @@ Hi {{ user.email }}!
     {{form.as_p}}
     <button class="btn btn-success ml-2" type="submit">Search</button>
   </form>
+  <br>
 </div>
 
-
+{% if msg%}
+  <h6> Found about {{output|length}} results</h6>
+  <br>
+  {% for item in output %}
+    <h5>{{item.title}}</h5>
+    <p>{{item.contributor_author}}
+    ,{{item.identifier_uri}}</p>
+    <br>
+  {%endfor%}
+{%else%}
+  <h5>{{output.0}}</h5>
+{% endif %}
 
 {% endblock content %}

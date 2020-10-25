@@ -131,6 +131,7 @@ AUTH_USER_MODEL = 'users.User' #new
 LOGIN_REDIRECT_URL = 'home'
 LOGOUT_REDIRECT_URL = 'home'
 
+#seeting to email using gmail account
 DEFAULT_FROM_EMAIL = 'tedlawebtest@gmail.com'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'tedlawebtest@gmail.com'

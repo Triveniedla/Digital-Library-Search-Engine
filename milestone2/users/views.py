@@ -21,6 +21,9 @@ from django.contrib.auth import get_user_model
 from .token_generator import account_activation_token
 from .models import SearchHistoryModel
 
+
+from .elasticsearchETD import elasticsearchfun
+
 def SignUpView(request):
     form_class = CustomUserCreationForm
 
@@ -92,19 +95,69 @@ class HomePageView(TemplateView):
     def post(self,request):
         form=HomeForm(request.POST)
         if form.is_valid():
-            textsearch= form.cleaned_data['textsearch']
-            form=HomeForm()
+            searchtext= form.cleaned_data['searchtext']
+            whattosearch={'searchtext':searchtext}
+            if request.user.is_authenticated:
+                searchhistorystore=form.save(commit=False)
+                searchhistorystore.user=request.user
+                searchhistorystore.searchtext=searchtext
+                searchhistorystore.save()
+            request.session["whattosearch"]=whattosearch
+
+            return redirect('serp')
+
+
+
         else:
-            output="Not valid input"
+            msg=0
+            searchtext = ""
+            output=["Not valid input"]
 
-        if request.user.is_authenticated:
-            searchhistorystore=form.save(commit=False)
-            searchhistorystore.user=request.user
-            searchhistorystore.searchtext=textsearch
-            searchhistorystore.save()
 
-        args={'form':form,'text':textsearch}
+        args={'form':form,'msg':msg,'output':output,'text':searchtext}
         return render(request,self.template_name,args)
+#-------------------------------------
+def SERPView(request):
+    template_name = 'serp.html'
+
+    print(request.session["whattosearch"])
+
+    if request.method=='GET':
+        whattosearch=request.session["whattosearch"]
+        searchtext=whattosearch["searchtext"]
+        output,msg = elasticsearchfun(request.session["whattosearch"])
+        form=HomeForm()
+        args={'form':form,'msg':msg,'output':output,'text':searchtext}
+        return render(request,template_name,args)
+
+    if request.method=='POST':
+
+        form=HomeForm(request.POST)
+        if form.is_valid():
+            searchtext= form.cleaned_data['searchtext']
+            whattosearch={'searchtext':searchtext}
+            if request.user.is_authenticated:
+                searchhistorystore=form.save(commit=False)
+                searchhistorystore.user=request.user
+                searchhistorystore.searchtext=searchtext
+                searchhistorystore.save()
+            request.session["whattosearch"]=whattosearch
+            return redirect('serp')
+
+        else:
+            msg=0
+            searchtext = ""
+            output=["Not valid input"]
+
+
+        form=HomeForm()
+        args={'form':form,'msg':msg,'output':output,'text':searchtext}
+        return render(request,template_name,args)
+
+    args={'form':form,'msg':0,'output':["Some issue with SERPView"],'text':''}
+    return render(request,template_name,args)
+
+
 #-------------------------------------
 #class for HomePageView and elastic search
 def SearchHistoryView(request):

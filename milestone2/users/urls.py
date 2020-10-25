@@ -18,10 +18,12 @@ path('reset/<uidb64>/<token>/',
  auth_views.PasswordResetConfirmView.as_view(template_name="registration/password_reset_confirm.html"),
  name="password_reset_confirm"),
 
+#Activating account
  path('activate/<uidb64>/<token>/', views.activateaccount, name='activate'),
-
  path('accountconfirmation/', views.accountconfirmation, name='accountconfirmation'),
 
  path('searchhistory/',views.SearchHistoryView, name='searchhistory'),
+
+ path('serp/',views.SERPView,name='serp'),
 
 ]
