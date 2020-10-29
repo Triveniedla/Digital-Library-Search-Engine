@@ -1,30 +1,41 @@
 <!-- templates/home.html -->
 {% extends 'base.html' %}
-{% block title %}Home{% endblock title %}
+{% block title %}SERP{% endblock title %}
 
 {% block content %}
 
-<div class="container">
-  <h2> ETD Search</h2>
-  <form method="post">
-    {%csrf_token%}
-    {{form.as_p}}
-    <button class="btn btn-success ml-2" type="submit">Search</button>
-  </form>
-  <br>
-</div>
+{% include "advancesearch.html" %}
 
 {% if msg%}
-  <h6> Found about {{output|length}} results</h6>
-  <br>
+  <p> Found about {{output|length}} results for <b>{{text}}</b></p>
+
   {% for item in output %}
-    <h5>{{item.title}}</h5>
-    <p>{{item.contributor_author}}
-    ,{{item.identifier_uri}}</p>
-    <br>
+    <div class="row">
+      <div class="column" style="background-color:#eee;">
+
+        <a href={{item.identifier_sourceurl}}><b>{{item.title}}</b></a>
+        <brsmall>
+        {{item.contributor_author}},
+        {{item.date_issued}},
+        {{item.contributor_department}}
+
+        <brsmall>
+        <b>Abstract</b>: {{item.description_abstract|slice:":210"}}...
+        <form action="/serpdetails/" method="POST" style="display: inline-block;" target="_blank">
+          {%csrf_token%}
+            <button type="submit" name="handle" value={{item.handle}} style="border:none;color: blue;" >More details</button>
+        </form>
+
+      </div>
+    </div>
+    <brsmall>
   {%endfor%}
+
 {%else%}
   <h5>{{output.0}}</h5>
 {% endif %}
+
+
+
 
 {% endblock content %}

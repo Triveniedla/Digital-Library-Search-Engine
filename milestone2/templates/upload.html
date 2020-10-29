@@ -1,0 +1,18 @@
+<!-- templates/upload.html -->
+{% extends 'base.html' %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+<!-- Users can upload files by using upload button -->
+<h2>Upload files</h2>
+<br>
+<br>
+<!--multipart/form-data must be included for uploading a document-->
+<form method="POST" enctype="multipart/form-data">
+    {%csrf_token%}
+    {{form.as_p}}
+     <!-- accept="application/pdf" is used to accept only pdf-->
+    <button type="submit" accept="application/pdf">Upload file</button>
+</form>
+
+{% endblock content %}

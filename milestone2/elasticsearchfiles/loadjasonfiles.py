@@ -6,7 +6,7 @@ if __name__ == '__main__':
 
     directory='D:/courses/Fall2020/cs518-WebProgramming/dissertation/'
     res = requests.get('http://localhost:9200')
-    # pprint.pprint(res.content)
+    pprint.pprint(res.content)
     es = Elasticsearch([{'host': 'localhost', 'port': '9200'}])
 
     i=1

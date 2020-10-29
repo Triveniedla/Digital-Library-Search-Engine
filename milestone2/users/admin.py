@@ -1,3 +1,4 @@
+# <!-- columns in database table -->
 from django.contrib import admin
 
 # Register your models here.
