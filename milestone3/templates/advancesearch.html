@@ -1,0 +1,65 @@
+<div class="container">
+    <h2> ETD Search</h2>
+    <form method="post" >
+        {%csrf_token%}
+        <!-- {{form.as_p}} -->
+        <div class="fieldWrapper" style=" width: 700px;" >
+            {{ form.searchtext.errors }}
+            {{ form.searchtext.label_tag }}
+            {{ form.searchtext }}
+        </div>
+        <br>
+
+        <div id="advancedSearch" style=" width: 700px;" hidden>
+            <div class="fieldWrapper">
+                {{ form.contributor_department.errors }}
+                {{ form.contributor_department.label_tag }}
+                {{ form.contributor_department }}
+                <br>
+            </div>
+
+            <div class="fieldWrapper">
+                {{ form.contributor_author.errors }}
+                {{ form.contributor_author.label_tag }}
+                {{ form.contributor_author }}
+            </div>
+            <br>
+
+            <div class="fieldWrapper">
+                {{ form.contributor_committeechair.errors }}
+                {{ form.contributor_committeechair.label_tag }}
+                {{ form.contributor_committeechair }}
+            </div>
+            <br>
+
+            <div class="fieldWrapper">
+                {{ form.description_degree.errors }}
+                {{ form.description_degree.label_tag }}
+                {{ form.description_degree }}
+            </div>
+            <br>
+
+            <div class="fieldWrapper">
+                Dates between:
+                {{ form.date1.errors }}
+                {{ form.date1.label_tag }}
+                {{ form.date1 }}
+
+                {{ form.date2.errors }}
+                {{ form.date2.label_tag }}
+                {{ form.date2 }}
+            </div>
+        </div>
+
+        <br>
+        <button class="btn btn-success ml-2" type="submit" style="display: inline-block;margin: 0;">Search</button>
+    </form>
+    <button type="btn btn-information" name="button" onclick="document.getElementById('advancedSearch').removeAttribute('hidden')
+      "style="border:none;color: blue;background-color: white;font-size: 14px;">Advanced Search</button>
+    {% if user.is_authenticated %}
+    <div>
+        <a href="{% url 'upload' %}">Upload</a>
+    </div>
+    {%endif%}
+
+</div>
