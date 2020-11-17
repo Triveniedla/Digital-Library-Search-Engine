@@ -38,4 +38,7 @@ path('reset/<uidb64>/<token>/',
 
  path('upload/',views.UploadView,name='upload'),
 
+ path('saveitem/',views.SaveItemView,name='saveitem'),
+ path('deleteitem/',views.DeleteItemView,name='deleteitem'),
+
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

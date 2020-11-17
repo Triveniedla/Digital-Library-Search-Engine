@@ -4,9 +4,9 @@ from django.shortcuts import render
 from django.urls import reverse_lazy
 from django.views.generic import CreateView,TemplateView
 
-from .forms import CustomUserCreationForm,HomeForm,UploadForm
+from .forms import CustomUserCreationForm,HomeForm,UploadForm,SaveItemForm
 from .token_generator import account_activation_token
-from .models import SearchHistoryModel,HandleModel
+from .models import SearchHistoryModel,HandleModel,SaveItemModel
 from .elasticsearchETD import elasticsearchfun
 
 from django.contrib import messages
@@ -447,3 +447,74 @@ def ClearHistoryView(request):
         else:
             SearchHistoryModel.objects.filter(id=searchid).delete()
         return redirect('searchhistory')
+
+#-------------------------------------
+def getuseritems(request):
+    usersitems=SaveItemModel.objects.filter(user_id=request.user.id)
+    output=[]
+    for arg in usersitems:
+        whattosearch={"handle":arg.handle}
+        dumoutput,msg=elasticsearchfun(whattosearch,type="handlequery")
+        dumoutput[0]["id"]=arg.id
+        output.append(dumoutput[0])
+    return output
+
+def SaveItemView(request):
+
+    template_name = 'saveitem.html'    
+    if request.method == 'GET':
+        if request.user.is_authenticated:
+            form=SaveItemForm()
+            output=getuseritems(request)
+            numresults=len(output)
+            output=paginationfun(output,request,5)
+
+            args={'form':form,'msgtext':"",'output':output,'numresults':numresults} 
+            return render(request,template_name,args)
+        else:
+            return redirect('home')
+
+    if request.method == 'POST':
+        handle=request.POST.get('handle',None)
+
+        try:
+            form=SaveItemForm()
+            saveitems=form.save(commit=False)
+            saveitems.user=request.user
+            saveitems.handle=handle
+            saveitems.save()
+            return redirect('saveitem')
+        except:
+            form=SaveItemForm()
+            output=getuseritems(request)
+            numresults=len(output)
+            output=paginationfun(output,request,5)
+
+            args={'form':form,'msgtext':"Already saved",'output':output,'numresults':numresults} 
+            return render(request,template_name,args)
+
+#-------------------------------------
+#class for HomePageView and elastic search
+def DeleteItemView(request):    
+    if request.method == 'GET':
+        return redirect('saveitem')
+    if request.method == 'POST':
+        saveitemid=request.POST.get('saveitemid',None)        
+        if int(saveitemid)==-1:
+            SaveItemModel.objects.filter(user_id=request.user.id).delete()
+        else:
+            SaveItemModel.objects.filter(id=saveitemid).delete()
+        return redirect('saveitem')
+
+def paginationfun(output,request,numpages):
+
+    page = request.GET.get('page', 1)
+    paginator = Paginator(output, numpages)
+    try:
+        output = paginator.page(page)
+    except PageNotAnInteger:
+        output = paginator.page(1)
+    except EmptyPage:
+        output = paginator.page(paginator.num_pages)
+    
+    return output

@@ -34,3 +34,8 @@ class HandleModel(models.Model):
     handle=models.CharField(max_length=500)
     user=models.ForeignKey(User,on_delete=models.CASCADE,)
     date=models.DateTimeField(auto_now=True)
+
+class SaveItemModel(models.Model):
+    user=models.ForeignKey(User,on_delete=models.CASCADE,)
+    handle=models.CharField(max_length=500,blank=False,unique=True)
+    date=models.DateTimeField(auto_now=True)
