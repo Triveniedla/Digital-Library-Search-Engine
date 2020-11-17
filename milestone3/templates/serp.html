@@ -1,5 +1,7 @@
 <!-- templates/home.html -->
 {% extends 'base.html' %}
+{% load highlight_search %}
+
 {% block title %}SERP{% endblock title %}
 
 {% block content %}
@@ -7,7 +9,7 @@
 {% include "advancesearch.html" %}
 
 {% if msg%}
-  <p> Found about {{numresults}} results for <b>{{text}}</b></p>
+  <p> Found about {{numresults}} results for <b>{{totsearchtext}}</b></p>
 
   {% include "pagination.html" %}
   
@@ -15,7 +17,7 @@
     <div class="row">
       <div class="column" style="background-color:#eee;">
 
-        <a href={{item.identifier_sourceurl}}><b>{{item.title}}</b></a>
+        <a href={{item.identifier_sourceurl}}><b>{{item.title|highlight_search:searchtext}}</b></a>
         <brsmall>
         {{item.contributor_author}},
         {{item.date_issued}},
@@ -23,7 +25,7 @@
         {{item.description_degree}}
 
         <brsmall>
-        <b>Abstract</b>: {{item.description_abstract|slice:":210"}}...
+        <b>Abstract</b>: {{item.description_abstract|slice:":210"|highlight_search:searchtext}}...
         <form action="/serpdetails/" method="POST" style="display: inline-block;" target="_blank">
           {%csrf_token%}
             <button type="submit" name="handle" value={{item.handle}} style="border:none;color: blue;" >More details</button>
@@ -37,7 +39,7 @@
   {% include "pagination.html" %}
  
 {%else%}
-  <p> Searching for <b>{{text}}</b></p>
+  <p> Searching for <b>{{totsearchtext}}</b></p>
 
   <h5>{{output.0}}</h5>
 {% endif %}

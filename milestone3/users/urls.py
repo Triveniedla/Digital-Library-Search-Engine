@@ -30,6 +30,8 @@ path('reset/<uidb64>/<token>/',
 
  path('searchhistory/',views.SearchHistoryView, name='searchhistory'),
 
+ path('clearhistory/', views.ClearHistoryView, name='clearhistory'),
+
  path('serp/',views.SERPView,name='serp'),
 
  path('serpdetails/',views.SERPdetailsView,name='serpdetails'),

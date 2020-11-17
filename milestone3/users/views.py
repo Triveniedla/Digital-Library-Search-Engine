@@ -108,7 +108,6 @@ def SignUpView(request):
         msg =""
 
     return render(request, 'signup.html', {'form': form,'msg':msg})
-
 #----------------------------------------------------
 def activateaccount(request, uidb64, token):
 
@@ -174,6 +173,27 @@ def historysave(request,form,whattosearch):
         searchhistorystore=form.save(commit=False)
         searchhistorystore.user=request.user
         searchhistorystore.searchtext=whattosearch['title']
+
+        try:
+            searchhistorystore.contributor_department=whattosearch['contributor_department']
+        except:
+            pass
+        try:
+            searchhistorystore.contributor_author=whattosearch['contributor_author']
+        except:
+            pass
+        try:
+            searchhistorystore.contributor_committeechair=whattosearch['contributor_committeechair']
+        except:
+            pass
+
+        try:
+            searchhistorystore.description_degree=whattosearch['description_degree']
+        except:
+            pass
+
+        searchhistorystore.date1=str(whattosearch['date1'])
+        searchhistorystore.date2=str(whattosearch['date2'])
         searchhistorystore.save()
 #-----------------------------------------
 def bleachcleanfun(form,arg):
@@ -223,13 +243,15 @@ def SERPView(request):
         except EmptyPage:
             output = paginator.page(paginator.num_pages)
 
-        searchtext=''
+        totsearchtext=''
         for key in whattosearch.keys():
             if key not in ['date1','date2']:
-                searchtext=searchtext+whattosearch[key]+", "
-        searchtext=searchtext+"between "+whattosearch['date1']+" and "+whattosearch['date2']
+                totsearchtext=totsearchtext+whattosearch[key]+", "
+        totsearchtext=totsearchtext+"between "+whattosearch['date1']+" and "+whattosearch['date2']
+        searchtext = whattosearch["title"]
 
-        args={'form':form,'msg':msg,'output':output,'text':searchtext,'numresults':numresults}
+        args={'form':form,'msg':msg,'output':output,'totsearchtext':totsearchtext,
+        'searchtext':searchtext,'numresults':numresults}
         return render(request,template_name,args)
 
     if request.method=='POST':
@@ -246,10 +268,12 @@ def SERPView(request):
             output=["Not valid input"]
 
         form=HomeForm()
-        args={'form':form,'msg':msg,'output':output,'text':searchtext,'numresults':0}
+        args={'form':form,'msg':msg,'output':output,'totsearchtext':searchtext,
+        'searchtext':searchtext,'numresults':0}
         return render(request,template_name,args)
 
-    args={'form':form,'msg':0,'output':["Some issue with SERPview"],'text':'','numresults':0}
+    args={'form':form,'msg':msg,'output':["Some issue with SERPview"],'totsearchtext':'',
+    'searchtext':'','numresults':0}
     return render(request,template_name,args)
 #----------------------------------------
 #function for accountconfirmation
@@ -366,23 +390,60 @@ def SearchHistoryView(request):
     template_name = 'searchhistory.html'
 
     if request.method == 'GET':
-        searchhistoryquery=SearchHistoryModel.objects.filter(user_id=request.user.id)
-        args={"searchhistoryquery":searchhistoryquery}
-        return render(request,template_name,args)
+        if request.user.is_authenticated:
+            searchhistoryquery=SearchHistoryModel.objects.filter(user_id=request.user.id).order_by('date').reverse()
+
+            page = request.GET.get('page', 1)
+            paginator = Paginator(searchhistoryquery, 15)
+            try:
+                output = paginator.page(page)
+            except PageNotAnInteger:
+                output = paginator.page(1)
+            except EmptyPage:
+                output = paginator.page(paginator.num_pages)
+
+            args={"output":output}
+            return render(request,template_name,args)
+        return redirect('home')
 
     if request.method == 'POST':
         searchid=request.POST.get('searchid',None)
+        searchhistoryquery=SearchHistoryModel.objects.filter(id=searchid)
+        
+        whattosearch={}            
+        for arg in searchhistoryquery:
+            whattosearch["title"]=arg.searchtext
+            whattosearch['date1']=arg.date1
+            whattosearch['date2']=arg.date2
 
-        if int(searchid)==-1:
-            SearchHistoryModel.objects.filter(user_id=request.user.id).delete()
-            return redirect('searchhistory')        
-        else:
-            searchhistoryquery=SearchHistoryModel.objects.filter(id=searchid)
-            
-            date2 = str(date.today())
-            date1 = '1940-01-01'
-            whattosearch={'date1':date1,'date2':date2}
-            for arg in searchhistoryquery:
-                whattosearch["title"]=arg.searchtext
+            if len(arg.contributor_author)!=0:
+                whattosearch['contributor_author']=arg.contributor_author
+
+            if len(arg.contributor_committeechair)!=0:
+                whattosearch['contributor_committeechair']=arg.contributor_committeechair
+
+            if len(arg.contributor_department)!=0:
+                whattosearch['contributor_department']=arg.contributor_department
+
+            if len(arg.description_degree)!=0:
+                whattosearch['contributor_degree']=arg.description_degree
+
+            form=HomeForm()
+            historysave(request,form,whattosearch)
             request.session["whattosearch"]=whattosearch
             return redirect('serp')
+
+#-------------------------------------
+#class for HomePageView and elastic search
+def ClearHistoryView(request):
+    
+    if request.method == 'GET':
+        return redirect('searchhistory')
+
+    if request.method == 'POST':
+        searchid=request.POST.get('searchid',None)        
+        if int(searchid)==-1:
+            SearchHistoryModel.objects.filter(user_id=request.user.id).delete()
+        else:
+            SearchHistoryModel.objects.filter(id=searchid).delete()
+        return redirect('searchhistory')

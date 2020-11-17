@@ -6,7 +6,7 @@ from django.contrib.auth import get_user_model
 from django.contrib.auth.admin import UserAdmin as OrigUserAdmin
 
 from .forms import CustomUserCreationForm, CustomUserChangeForm
-from .models import User
+from .models import User, SearchHistoryModel, HandleModel
 
 User = get_user_model()
 
@@ -19,3 +19,6 @@ class UserAdmin(OrigUserAdmin):
     list_display = (
     'id', 'first_name', 'last_name', 'email', 'is_active','is_staff'
     )
+
+admin.site.register(HandleModel)
+admin.site.register(SearchHistoryModel)

@@ -44,7 +44,8 @@ class HomeForm(forms.ModelForm):
 
     class Meta:
         model=SearchHistoryModel
-        fields=('searchtext',)
+        fields=('searchtext','contributor_author','contributor_department',
+        'contributor_committeechair','description_degree',)
 
 #-------------------------For uploading files-------------------------------------------------
 class UploadForm(forms.ModelForm):
