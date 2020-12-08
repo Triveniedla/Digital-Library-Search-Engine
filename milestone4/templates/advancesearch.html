@@ -13,8 +13,10 @@
 
           </div>
           <div class="col-md-4">             
-              <img onclick="startDictation()" src="//i.imgur.com/cHidSVu.gif" />
+            <i onclick="startDictation()"  class="fa fa-microphone" style="font-size:24px"></i>
+            &nbsp;
              <button class="btn btn-success col-md-3" type="submit">Search</button>
+             &nbsp;
 
              {% if user.is_authenticated %}
              <a href="{% url 'upload' %}">Upload</a> 
