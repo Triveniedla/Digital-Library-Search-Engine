@@ -1,0 +1,103 @@
+body {
+	background: url("https://images.unsplash.com/photo-1483900523126-bc184ddcee6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+a {
+	color: white;
+}
+
+.topmenu {
+	width: 100%;
+	background-color: #000;
+}
+
+.topmenu a {
+	float: left;
+	padding: 12px;
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topmenu a:hover {
+	background-color: #000;
+}
+
+.home{
+	background-color: #4CAF50;
+	float: left;
+}
+
+.signup {
+	width: 100%;
+	background-color: #000;
+}
+
+.signup a {
+	float: right;
+	padding: 12px;
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.signup a:hover {
+	background-color: #000;
+}
+
+
+
+
+@media screen and (max-width: 500px) {
+	.navbar a {
+		float: none;
+		display: block;
+	}
+}
+
+.search {
+	width: 100%;
+	position: relative;
+	display: flex;
+}
+
+.searchbox {
+	width: 100%;
+	border: 3px solid #00B4CC;
+	border-right: none;
+	padding: 5px;
+	height: 30px;
+	border-radius: 5px 0 0 5px;
+	outline: none;
+	color: #9DBFAF;
+	font-size: 25px;
+}
+
+.searchbox:focus {
+	color: #00B4CC;
+	font-size: 25px;
+}
+
+.searchButton {
+	width: 40px;
+	height: 46px;
+	border: 1px solid #00B4CC;
+	background: #00B4CC;
+	text-align: center;
+	color: #fff;
+	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.wrap {
+	width: 30%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}

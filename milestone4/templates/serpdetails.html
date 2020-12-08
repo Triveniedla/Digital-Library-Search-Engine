@@ -1,0 +1,58 @@
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+
+  <b>Title: </b>{{output.0.title}}
+  <br>
+  <b>Author: </b>{{output.0.contributor_author}}
+  <br>
+  <b>Author email: </b>{{output.0.Authoremail}}
+  <br>
+  <b>Committee chair: </b>{{output.0.contributor_committeechair}}
+  <br>
+  <b>Committee chair email: </b>{{output.0.Advisoremail}}
+  <br>
+  <b>Committee members: </b>{{output.0.contributor_committeemember}}
+  <br>
+  <b>Abstract: </b> {{output.0.description_abstract}}
+  <br>
+  <b>Degree level: </b> {{output.0.degree_level}}
+  <br>
+  <b>Publisher: </b> {{output.0.publisher}}
+  <br>
+  <b>Keywords: </b> {{output.0.subject}}
+  <br>
+  <b>Type: </b> {{output.0.type}}
+  <br>
+  <b>Date issued: </b> {{output.0.date_issued}}
+  <br>
+  <b>Sourceurl: </b> <a href={{output.0.identifier_sourceurl}}><b>{{output.0.identifier_sourceurl}}</b></a>
+  <br>
+  <b>Identifier url: </b> <a href={{output.0.identifier_uri}}><b>{{output.0.identifier_uri}}</b></a>
+  <br>
+
+  <b>Downloads</b>
+  {% if pdfmsg%}
+  <br>
+  {% for item in pdfnames %}
+      <a href={{item.url}} target="_blank">
+        <button class="fa fa-download" type="submit" style="background-color: rgb(15, 167, 15);
+        border: none;
+        color: white;
+        padding: 5px 5px;
+        cursor: pointer;
+        font-size: 14px; display: inline-block;margin: 0;">
+        {{item.name}}</button></a>
+  {%endfor%}
+  <brbig>
+  <brbig>
+  <brbig>
+  <br>
+  {%else%}
+    <h5>PDF files not found</h5>
+  {% endif %}
+
+
+{% endblock content %}

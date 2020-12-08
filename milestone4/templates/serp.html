@@ -1,0 +1,116 @@
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+{% load highlight_search %}
+
+{% block title %}SERP{% endblock title %}
+
+{% block content %}
+
+{% include "advancesearch.html" %}
+
+{% if msg%}
+  <p> Found about {{numresults}} results for <b>{{totsearchtext}}</b></p>
+
+  {% include "pagination.html" %}
+ 
+  {% for item in output %}
+    <div class="row">
+      <div class="column" style="background-color:#eee;">
+
+        <a href={{item.identifier_sourceurl}}><b>{{item.title|highlight_search:searchtext}}</b></a>
+        <brsmall>
+        {{item.contributor_author}},
+        {{item.date_issued}},
+        {{item.contributor_department}},
+        {{item.description_degree}}
+
+        <brsmall>
+        <b>Abstract</b>: {{item.description_abstract|slice:":210"|highlight_search:searchtext}}...
+        <!-- <b>Abstract</b>: {{item.description_abstract|slice:":210"}}... -->
+        <form action="/serpdetails/" method="POST" style="display: inline-block;" target="_blank">
+          {%csrf_token%}
+
+            <button type="submit" name="handle" value={{item.handle}} style="border:none;color: blue;" >More details</button>
+        </form>
+
+        <br>
+
+        {% if user.is_authenticated %} 
+
+          {% if item.liked %}
+              <a name="{{item.handle}}" style="border:none; font-size:30px;color: blue;" class="likebutton" id="co">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
+           {% else %}       
+            <a name="{{item.handle}}" style="font-size:30px;color: black;" class="likebutton" id="co">
+              <i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
+          {% endif %}
+
+          <span class="" id="{{item.handle}}">{{item.totlikes}}</span> Likes
+
+          &nbsp; &nbsp;
+          <form action="/saveitem/" method="POST" style="display: inline-block;" target="_blank">
+            {%csrf_token%}
+              <button class="btn btn-success btn-sm" type="submit" name="handle" value={{item.handle}} style="border:none;color: bwhite;" >Save</button>
+          </form>
+        {% endif %}
+
+        &nbsp; &nbsp;
+
+        {% if item.pdfmsg%}
+         
+          {% for pdfname in item.pdfnames %}
+              <a href={{pdfname.url}} target="_blank">
+                <button class="fa fa-download" type="submit" style="background-color: rgb(15, 167, 15);
+                border: none;
+                color: white;
+                padding: 5px 5px;
+                cursor: pointer;
+                font-size: 14px; display: inline-block;margin: 0;">
+                {{pdfname.name}}</button>
+              </a>
+          {%endfor%}
+        {% endif %}
+
+
+        
+      </div>
+    </div>
+    <brsmall>
+  {%endfor%}
+
+  {% include "pagination.html" %}
+ 
+{%else%}
+  <p> Searching for <b>{{totsearchtext}}</b></p>
+
+  <h5>{{output.0}}</h5>
+{% endif %}
+
+<script>
+  $(document).ready(function(){
+
+    $(".likebutton").click(function(){
+      $.ajax({
+        url:'/likeitem',
+        type:'GET',
+        data:{handle: $(this).attr('name')},
+        success: function(result){
+
+          document.getElementById(result['handle']).innerHTML=result['likecount']
+
+          selector = document.getElementsByName(result['handle']);
+
+          if(result['liked']) {$(selector).css("color","blue"); }
+          else {$(selector).css("color","black");}},
+          error: function(xhr, errmsg, err) { }
+     });
+   });
+  });
+
+
+
+
+</script>
+
+
+{% endblock content %}
