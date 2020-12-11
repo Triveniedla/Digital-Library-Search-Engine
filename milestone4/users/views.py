@@ -541,6 +541,7 @@ def LikeItemView(request):
             likeitems.user=request.user
             likeitems.handle=handle
             likeitems.save()
+            
         result={}
         result["liked"]=len(likeditems.filter(user_id=request.user.id,handle=handle))
         result["handle"]=handle

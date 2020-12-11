@@ -217,7 +217,7 @@ class elasticsearchETD:
         return output,msg
 
 #------------ELastic search function access elasticsearch class-----------------
-def elasticsearchfun(whattosearch,type="allquery"):
+def elasticsearchfun(whattosearch,type="multiquery"):
 
     whattosearch=copy.deepcopy(whattosearch)
 
@@ -228,7 +228,7 @@ def elasticsearchfun(whattosearch,type="allquery"):
         output=["Cannot reach ElasticSearch on http://localhost:9200"]
     else:
         msg=1
-        if type=="allquery":
+        if type=="multiquery":
             date1=whattosearch["date1"]
             date2=whattosearch["date2"]
             del whattosearch["date1"]
