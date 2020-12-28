@@ -142,7 +142,7 @@ LOGOUT_REDIRECT_URL = 'home'
 #seeting to email using gmail account
 DEFAULT_FROM_EMAIL = 'tedlawebtest@gmail.com'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'tedlawebtest@gmail.com'
-EMAIL_HOST_PASSWORD = 'S123456789s'
+EMAIL_HOST_USER = '*****@gmail.com'
+EMAIL_HOST_PASSWORD = '******'
 EMAIL_PORT = '587'
 EMAIL_USE_TLS = True
