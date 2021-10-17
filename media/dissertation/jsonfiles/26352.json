@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Boquet, Grant Michael",
+  "contributor_committeechair": "Ball, Joseph A.",
+  "contributor_committeemember": [
+    "Haskell, Peter E.",
+    "Renardy, Michael J.",
+    "Linnell, Peter A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:07:57Z",
+  "date_adate": "2010-03-15",
+  "date_available": "2014-03-14T20:07:57Z",
+  "date_issued": "2010-02-19",
+  "date_rdate": "2010-03-15",
+  "date_sdate": "2010-03-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We relate linear constant coefficient systems of partial difference equations (a discretization of a system of linear partial differential equations) satisfying some collection of scalar polynomial equations to systems defined over the coordinate ring of an algebraic variety. This motivates the extension of behavioral systems theory (a generalization of classical systems theory where inputs and outputs are lumped together) to the setting where the ring of operators is an affine domain and the signal space is restricted to signals which satisfy the same scalar polynomial equations. By recognizing the role of the kernel representationâ  s GrÃ¶bner basis in the Cauchy problem, we extend notions of controllability from the classical behavioral setting to accommodate this generalization. We then address the question as to when an autonomous behavior admits a LivÅ¡ic-system state-space representation, where the state update equations are overdetermined leading to the requirement that the input and output signals satisfy their own compatibility difference equations. This leads to a frequency domain setting involving input and output holomorphic vector bundles and a transfer function given by a meromorphic bundle map. An analogue of the Hankel realization theorem developed by J. Ball and V. Vinnikov then leads to a LivÅ¡ic-system state-space representation for an autonomous behavior satisfying some natural additional conditions.",
+  "description_provenance": [
+    "Author Email: gboquet@vt.edu",
+    "Advisor Email: phaskell@math.vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Advisor Email: linnell@math.vt.edu",
+    "Advisor Email: joball@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:57Z (GMT). No. of bitstreams: 1 Boquet_GM_D_2010.pdf: 939418 bytes, checksum: c78a8c7fc2d866ba228815931d04386f (MD5)   Previous issue date: 2010-02-19"
+  ],
+  "handle": "26352",
+  "identifier_other": "etd-03032010-180226",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03032010-180226/",
+  "identifier_uri": "http://hdl.handle.net/10919/26352",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Boquet_GM_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "algebraic geometry",
+    "Multidimensional linear systems",
+    "vessels",
+    "autonomous behavioral systems",
+    "LivÅ¡ic systems"
+  ],
+  "title": "Geometric Properties of Over-Determined Systems of Linear Partial Difference Equations",
+  "type": "Dissertation"
+}

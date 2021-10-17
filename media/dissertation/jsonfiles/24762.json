@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Meyer, Kevin Joseph",
+  "contributor_committeechair": "Baird, Donald G",
+  "contributor_committeemember": [
+    "Achenie, Luke E",
+    "Wapperom, Peter",
+    "Martin, Stephen Michael"
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2013-12-19T09:00:21Z",
+  "date_available": "2013-12-19T09:00:21Z",
+  "date_issued": "2013-12-18",
+  "degree_discipline": "Chemical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This work is concerned with the prediction of short (SGF) and long glass fiber (LGF) orientation in a center-gated disk and end-gated plaque injection molding test geometry using a simulation method that has not been attempted previously. Previous work has used assumptions to simplify the fiber orientation geometry (assuming a thin cavity) or flow field (neglecting fountain flow and entry regions). LGF orientation is predicted in a center-gated disk injection molding geometry including the advancing front and simulating the sprue and gate region (SGM method) so that no assumption about fiber orientation at the mold entrance has to be made. Using a semi-flexible fiber model and orientation parameters obtained through rheology, increased agreement was found between predicted and experimentally obtained values of orientation using the SGM method and a semi-flexible fiber model than was found using a Hele-Shaw approximation. The SGM method was applied to the end-gated plaque to predict SGF orientation both along and away from the centerline using an objective (reduced strain closure model) and non-objective (strain reduction factor model) orientation model. The predicted values of the strain reduction factor model showed reasonable agreement with experimentally obtained values of orientation throughout the three-dimensional cavity when using orientation parameters fit to experimental orientation data. Furthermore it was found that the objective model predicted results very similar to the non-objective model suggesting that objectivity may not play a role in predicting orientation in more complex geometries such as an end-gated plaque. Finally, the SGM method was applied to the end-gated plaque geometry to predict LGF orientation using a rigid and semi-flexible fiber model. It was found that the SGM method and the semi-flexible fiber model provides orientation predictions that are similar to experimentally obtained values of orientation.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-19T09:00:21Z (GMT). No. of bitstreams: 1 Meyer_KJ_D_2013.pdf: 15029843 bytes, checksum: cc713013071b91e7a28fcde73a9aaa22 (MD5)   Previous issue date: 2013-12-18",
+  "format_medium": "ETD",
+  "handle": "24762",
+  "identifier_other": "vt_gsexam:1592",
+  "identifier_uri": "http://hdl.handle.net/10919/24762",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Injection Molding",
+    "Composites",
+    "Computational Modeling"
+  ],
+  "title": "Improved Prediction of Glass Fiber Orientation in Basic Injection Molding Geometries",
+  "type": "Dissertation"
+}

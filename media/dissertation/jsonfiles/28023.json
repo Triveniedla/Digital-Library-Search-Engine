@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Harper, Scott Jeffery",
+  "contributor_committeechair": "Athanas, Peter M.",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Varadarajan, Srinidhi",
+    "Davis, Nathaniel J. IV",
+    "Jones, Mark T."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:57Z",
+  "date_adate": "2003-07-03",
+  "date_available": "2014-03-14T20:12:57Z",
+  "date_issued": "2003-04-30",
+  "date_rdate": "2003-07-03",
+  "date_sdate": "2003-06-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Network processors are becoming a predominant feature in the field of network hardware. As new network protocols emerge and data speeds increase, contemporary general-purpose network processors are entering their second generation and academic research is being actively conducted into new techniques for the design and implementation of these systems. At the same time, systems ranging from secured military communications equipment to consumer devices are being updated to provide network connectivity. Many of these devices require, or would benefit from, the inclusion of device security in addition to data security. Whether it is a top-secret encryption scheme that must be concealed or a personal device that needs protection against unauthorized use, security of the device itself is becoming an important factor in system design. Unfortunately, current network processor solutions were not developed with device security in mind. A secure adaptive network processor can provide the means to fill this gap while continuing to provide full support for emerging communication protocols. This dissertation describes the concept and structure of one such device. Analysis of the hardware security provided by the proposed device is provided to highlight strengths and weaknesses, while a prototype system is developed to allow it to be embedded into practical applications for investigation. Two such applications are developed, using the device to provide support for both a secure network edge device and a user-adaptable network gateway. Results of these experiments indicate that the proposed device is useful both as a hardware security measure and as a basis for user adaptation of information-handling systems.",
+  "description_provenance": [
+    "Author Email: harper@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: srinidhi@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:57Z (GMT). No. of bitstreams: 1 harper_dissertation_etd.pdf: 1208756 bytes, checksum: d2adf193a24998e0ba87c4cb461b69f1 (MD5)   Previous issue date: 2003-04-30"
+  ],
+  "handle": "28023",
+  "identifier_other": "etd-06122003-153755",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06122003-153755/",
+  "identifier_uri": "http://hdl.handle.net/10919/28023",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "harper_dissertation_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "FPGA",
+    "Network Processing",
+    "Reconfiguration",
+    "Security"
+  ],
+  "title": "A Secure Adaptive Network Processor",
+  "type": "Dissertation"
+}

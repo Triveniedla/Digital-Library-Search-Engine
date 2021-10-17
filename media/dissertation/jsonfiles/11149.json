@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Vugrin, Eric D.",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "Borggaard, Jeffrey T.",
+    "Herdman, Terry L.",
+    "Cliff, Eugene M."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2011-08-22T19:00:31Z",
+  "date_adate": "2004-04-29",
+  "date_available": "2011-08-22T19:00:31Z",
+  "date_issued": "2004-04-22",
+  "date_rdate": "2004-04-29",
+  "date_sdate": "2004-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "For more than 100 years, the Navier-Stokes equations and various linearizations have been used as a model to study fluid dynamics. Recently, attention has been directed toward studying the nonnormality of linearized problems and developing convergent numerical schemes for simulation of these sytems.  Numerical schemes for optimal control problems often require additional properties that may not be necessary for simulation; these properties can be critical when studying nonnormal problems.  This research is concerned with approximating infinite dimensional optimal control problems with nonnormal system operators. We examine three different finite element methods for a specific convection-diffusion equation and prove convergence of the infinitesimal generators.  Additionally, for two of these schemes, we prove convergence of the associated feedback gains.  We apply these three schemes to control problems and compare the performance of all three methods.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:31Z (GMT). No. of bitstreams: 1  dissert.pdf: 593607 bytes, checksum: 4c38ed10aa1b72c35df017ffa9f9c139 (MD5)    Previous issue date: 2004-04-22",
+    "Author Email: evugrin@vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Advisor Email: borggajt@math.vt.edu",
+    "Advisor Email: herdman@icam.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11149",
+  "identifier_other": "etd-04282004-164740",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282004-164740",
+  "identifier_uri": "http://hdl.handle.net/10919/11149",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissert.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "convection-diffusion equation",
+    "nonnormal",
+    "linear quadratic regulator problems"
+  ],
+  "title": "On Approximation and Optimal Control of Nonnormal Distributed Parameter Systems",
+  "type": "Dissertation"
+}

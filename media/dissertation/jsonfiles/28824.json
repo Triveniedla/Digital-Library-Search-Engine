@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Farrar, David B",
+  "contributor_committeechair": "Smith, Eric P.",
+  "contributor_committeemember": [
+    "Spitzner, Dan J.",
+    "ye, keying",
+    "Prins, Samantha C. Bates",
+    "Hoeschele, Ina"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:15:47Z",
+  "date_adate": "2006-10-06",
+  "date_available": "2014-03-14T20:15:47Z",
+  "date_issued": "2006-08-15",
+  "date_rdate": "2006-10-06",
+  "date_sdate": "2006-08-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We develop statistical methods for evaluation of regional variation of ecological stressor-response relationships, and regional variation in temporal profiles of water quality, for application to data from monitoring stations on bodies of water.  To evaluate regional variation in regression relationships, we use model-based clustering procedures with class-specific regression models.  Units for clustering are taken to be basins, or combinations of basins and ecoregions.  We rely on a Bayesian formulation and sample the posterior distribution using a Markov chain Monte Carlo algorithm.  Two general approaches to the label-switching problem are considered, each leading to procedures that we apply in data analyses.  Two applications are presented.  We explore some relationships among priors with a Dirichlet distribution for class probabilities.  We compare two rank-based criteria for grouping stations according to similarities in temporal profiles.  The two criteria are illustrated in a hierarchical cluster analysis based on measurements of a water quality variable.",
+  "description_provenance": [
+    "Author Email: dfarrar@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: dan.spitzner@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: sprins@vt.edu",
+    "Advisor Email: inah@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:47Z (GMT). No. of bitstreams: 1 farrarDissertationSeptETD.pdf: 1488545 bytes, checksum: 4c003348fb031b846e7e2b14882427f9 (MD5)   Previous issue date: 2006-08-15"
+  ],
+  "handle": "28824",
+  "identifier_other": "etd-08292006-153235",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08292006-153235/",
+  "identifier_uri": "http://hdl.handle.net/10919/28824",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "farrarDissertationSeptETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ecoregion",
+    "environmental",
+    "ecological stressor"
+  ],
+  "title": "Some Model-Based and Distance-Based Clustering Methods for Characterization of Regional Ecological Stressor-Response Patterns and Regional Environmental Quality Trends",
+  "type": "Dissertation"
+}

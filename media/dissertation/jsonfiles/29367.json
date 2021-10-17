@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Chang, James",
+  "contributor_committeechair": "Collura, John",
+  "contributor_committeemember": [
+    "Tignor, Samuel C.",
+    "Dion, Francois",
+    "Rakha, Hesham Ahmed",
+    "Triantis, Konstantinos P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:17:38Z",
+  "date_adate": "2002-12-13",
+  "date_available": "2014-03-14T20:17:38Z",
+  "date_issued": "2002-06-03",
+  "date_rdate": "2003-12-13",
+  "date_sdate": "2002-10-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recent progress in technology has facilitated the design, testing, and deployment of traffic signal priority strategies for transit buses. However, a clear consensus has not emerged regarding the evaluation of these strategies. Each agency implementing these strategies can have differing goals, and there are often conflicting issues, needs, and concerns among the various stakeholders. This research attempts to assist in the evaluation of such strategies by presenting an evaluation framework and plan that provides a systematic method to assess potential impacts. The results of the research include the development of specific measures corresponding to particular objectives, with descriptions to facilitate their use by agencies evaluating traffic signal priority. The use of this framework and plan is illustrated on the Columbia Pike corridor in Arlington, Virginia with the use of the INTEGRATION simulation package. In building upon prior efforts on this corridor, this work presents a method of simulating conditional granting of priority to late buses in an attempt to investigate the impacts of priority on service reliability. Using the measures developed in this research, statistically significant improvements of 3.2% were found for bus service reliability and 0.9% for bus efficiency, while negative other traffic-related impacts were found in the form of increases in overall delay to the corridor of 1.0% on a vehicle basis or 0.6% on a person basis. Areas identified for future research include extensions to INTEGRATION to permit consideration of real-time conditional priority, further exploration of the relationship between components of bus travel times, and examination of the role of passenger loads on priority operation and impacts.",
+  "description_provenance": [
+    "Author Email: jachang@vt.edu",
+    "Advisor Email: satignor@vt.edu",
+    "Advisor Email: fdion@vtti.vt.edu",
+    "Advisor Email: rakha@vtti.vt.edu",
+    "Advisor Email: jcollura@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:38Z (GMT). No. of bitstreams: 2  etd.pdf: 847768 bytes, checksum: dba6fdc544dc1de8086bb0748c07f9b7 (MD5)  vita.pdf: 8391 bytes, checksum: 409b48de2e2e8d335220157077d92b62 (MD5)    Previous issue date: 2002-06-03"
+  ],
+  "handle": "29367",
+  "identifier_other": "etd-10252002-181921",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10252002-181921/",
+  "identifier_uri": "http://hdl.handle.net/10919/29367",
+  "language_iso": "en_US",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "etd.pdf",
+    "vita.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below. I certify that the version I submitted is the same as that approved by my advisory committee. I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known. I retain all other ownership rights to the copyright of the thesis, dissertation or project report. I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Simulation",
+    "Signal priority",
+    "Bus transit",
+    "Evaluation"
+  ],
+  "title": "Evaluation of Service Reliability Impacts of Traffic Signal Priority Strategies for Bus Transit",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Carter, Arthur E.",
+  "contributor_committeechair": "Ragsdale, Cliff T.",
+  "contributor_committeemember": [
+    "Rees, Loren Paul",
+    "Cook, Deborah F.",
+    "Matheson, Lance Arthur",
+    "Brown, Evelyn C."
+  ],
+  "contributor_department": "Management Science and Information Technology",
+  "date_accessioned": "2014-03-14T20:10:46Z",
+  "date_adate": "2003-04-29",
+  "date_available": "2014-03-14T20:10:46Z",
+  "date_issued": "2003-04-21",
+  "date_rdate": "2004-04-29",
+  "date_sdate": "2003-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The multiple traveling salesmen problem (MTSP) is an extension of the traveling salesman problem with many production and scheduling applications.  The TSP has been well studied including methods of solving the problem with genetic algorithms.  The MTSP has also been studied and solved with GAs in the form of the vehicle-scheduling problem.  This work presents a new modeling methodology for setting up the MTSP to be solved using a GA.  The advantages of the new model are compared to existing models both mathematically and experimentally.  The model is also used to model and solve a multi line production problem in a spreadsheet environment.  The new model proves itself to be an effective method to model the MTSP for solving with GAs.  The concept of the MTSP is then used to model and solve with a GA the use of one salesman make many tours to visit all the cities instead of using one continuous trip to visit all the cities.  While this problem uses only one salesman, it can be modeled as a MTSP and has many applications for people who must visit many cities on a number of short trips.  The method used effectively creates a schedule while considering all required constraints.",
+  "description_provenance": [
+    "Author Email: arcarter@vt.edu",
+    "Advisor Email: crags@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: dcook@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: evebrown@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:46Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 415985 bytes, checksum: d03a216f922c3b381aacc34056b2116a (MD5)   Previous issue date: 2003-04-21"
+  ],
+  "handle": "27258",
+  "identifier_other": "etd-04252003-123556",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252003-123556/",
+  "identifier_uri": "http://hdl.handle.net/10919/27258",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Spreadsheets",
+    "Scheduling",
+    "Multiple Traveling Salesmen Problem",
+    "Genetic Algorithms",
+    "Artificial Intelligence"
+  ],
+  "title": "Design and Application of Genetic Algorithms for the Multiple Traveling Salesperson Assignment Problem",
+  "type": "Dissertation"
+}

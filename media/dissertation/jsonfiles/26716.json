@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Koutris, Andreas",
+  "contributor_committeechair": "Spanos, Aris",
+  "contributor_committeemember": [
+    "Ashley, Richard A.",
+    "Heracleous, Maria",
+    "Yau, Jeffrey",
+    "Yang, Dennis T.",
+    "McGuirk, Anya M."
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2014-03-14T20:09:10Z",
+  "date_adate": "2006-04-26",
+  "date_available": "2014-03-14T20:09:10Z",
+  "date_issued": "2006-03-31",
+  "date_rdate": "2006-04-26",
+  "date_sdate": "2006-04-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The unit root revolution in time series modeling has created substantial interest in non- stationarity and its implications for empirical modeling. Beyond the original interest in trend vs. diÂ¤erence non-stationarity, there has been renewed interest in testing and modeling structural breaks. The focus of my dissertation is on testing for departures from stationarity in a broader framework where unit root, mean trends and structural break non-stationarity constitute only a small subset of the possible forms of non-stationarity. In the â ¦rst chapter the most popular testing procedures for the assumption, in view of the fact that general forms of non-stationarity render each observation unique, I develop a testing procedure using a resampling scheme which is based on a Maximum Entropy replication algorithm. The proposed misspeciâ ¦cation testing procedure relies on resampling techniques to enhance the informational content of the observed data in an attempt to capture heterogeneity â  locallyâ   using rolling window estimators of the primary moments of the stochastic process. This provides an eÂ¤ective way to enhance the sample information in order to assess the presence of departures from stationarity. Depending on the sample size, the method utilizes overlapping or non-overlapping window estimates. The eÂ¤ectiveness of the testing procedure is assessed using extensive Monte Carlo simulations. The use of rolling non-overlapping windows improves the method by improving both the size and power of the test. In particular, the new test has empirical size very close to the nominal and very high power for a variety of departures from stationarity. The proposed procedure is then applied on seven macroeconomic series in the fourth chapter. Finally, the optimal choice of orthogonal polynomials, for hypothesis testing, is investigated in the last chapter.",
+  "description_provenance": [
+    "Author Email: akoutris@vt.edu",
+    "Advisor Email: ashleyr@vt.edu",
+    "Advisor Email: aris@vt.edu",
+    "Advisor Email: mheracle@vt.edu",
+    "Advisor Email: jyau@vt.edu",
+    "Advisor Email: deyang@vt.edu",
+    "Advisor Email: anya.mcguirk@sas.com",
+    "Made available in DSpace on 2014-03-14T20:09:10Z (GMT). No. of bitstreams: 1 Andreas_Koutris_Dissertation.pdf: 733219 bytes, checksum: ca44beafbec3cf87354ce0490ec9501d (MD5)   Previous issue date: 2006-03-31"
+  ],
+  "handle": "26716",
+  "identifier_other": "etd-04092006-225731",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04092006-225731/",
+  "identifier_uri": "http://hdl.handle.net/10919/26716",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Andreas_Koutris_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Maximum Entropy Bootstrap",
+    "Non-Stationarity",
+    "Parameter/Structural Stability"
+  ],
+  "title": "Testing for Structural Change: Evaluation of the Current Methodologies, a Misspecification Testing Perspective and Applications",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Popescu, Sorin Cristian",
+  "contributor_committeechair": "Wynne, Randolph H.",
+  "contributor_committeemember": [
+    "Scrivani, John A.",
+    "Nelson, Ross F.",
+    "Prisley, Stephen P.",
+    "Campbell, James B. Jr.",
+    "Oderwald, Richard G."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:10:24Z",
+  "date_adate": "2002-04-26",
+  "date_available": "2014-03-14T20:10:24Z",
+  "date_issued": "2002-04-12",
+  "date_rdate": "2003-04-26",
+  "date_sdate": "2002-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The main study objective was to develop robust processing and analysis techniques to facilitate the use of small-footprint lidar data for estimating forest biophysical parameters measuring individual trees identifiable on the three-dimensional lidar surface. This study derived the digital terrain model from lidar data using an iterative slope-based algorithm and developed processing methods for directly measuring tree height, crown diameter, and stand density. The lidar system used for this study recorded up to four returns per pulse, with an average footprint of 0.65 m and an average distance between laser shots of 0.7 m. The lidar data set was acquired over deciduous, coniferous, and mixed stands of varying age classes and settings typical of the southeastern United States (37Â° 25' N, 78Â° 41' W). Lidar processing techniques for identifying and measuring individual trees included data fusion with multispectral optical data and local filtering with both square and circular windows of variable size. The window size was based on canopy height and forest type. The crown diameter was calculated as the average of two values measured along two perpendicular directions from the location of each tree top, by fitting a four-degree polynomial on both profiles. The ground-truth plot design followed the U.S. National Forest Inventory and Analysis (FIA) field data layout. The lidar-derived tree measurements were used with regression models and cross-validation to estimate plot level field inventory data, including volume, basal area, and biomass. FIA subplots of 0.017 ha each were pooled together in two categories, deciduous trees and pines. For the pine plots, lidar measurements explained 97% of the variance associated with the mean height of dominant trees. For deciduous plots, regression models explained 79% of the mean height variance for dominant trees. Results for estimating crown diameter were similar for both pines and deciduous trees, with R2 values of 0.62-0.63 for the dominant trees. R2 values for estimating biomass were 0.82 for pines (RMSE 29 Mg/ha) and 0.32 for deciduous (RMSE 44 Mg/ha). Overall, plot level tree height and crown diameter calculated from individual tree lidar measurements were particularly important in contributing to model fit and prediction of forest volume and biomass.",
+  "description_provenance": [
+    "Author Email: spopescu@vt.edu",
+    "Advisor Email: scrivanij@dof.state.va.us",
+    "Advisor Email: ross@ltpmail.gsfc.nasa.gov",
+    "Advisor Email: wynne@vt.edu",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: jayhawk@vt.edu",
+    "Advisor Email: oderwald@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:24Z (GMT). No. of bitstreams: 1 SorinPopescu_Dissertation.pdf: 3219377 bytes, checksum: 32484a9bfa132d447b665f9c60ffd931 (MD5)   Previous issue date: 2002-04-12"
+  ],
+  "handle": "27109",
+  "identifier_other": "etd-04222002-111533",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04222002-111533/",
+  "identifier_uri": "http://hdl.handle.net/10919/27109",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SorinPopescu_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "DEM",
+    "forest inventory",
+    "lidar",
+    "volume",
+    "canopy height model",
+    "biomass"
+  ],
+  "title": "Estimating Plot-Level Forest Biophysical Parameters Using Small_Footprint Airborne Lidar Measurements",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Baldwin, Mark W.",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Conners, Richard W.",
+    "Centeno, Virgilio A.",
+    "Brown, Gary S.",
+    "Prather, Carl L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:33Z",
+  "date_adate": "2008-04-11",
+  "date_available": "2014-03-14T20:08:33Z",
+  "date_issued": "2008-02-29",
+  "date_rdate": "2009-04-11",
+  "date_sdate": "2008-03-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The advent of synchronized wide-area frequency measurements obtained from frequency disturbance recorders and phasor measurement units has presented the power industry with special opportunities to study power system dynamics.  I propose the use of wide-area frequency measurements in identifying system disturbances based on power system post-event modal properties. <p> In this work, power system dynamics are examined from an internal system energy viewpoint.  Since an electric power system is composed of coupled rotating machines (large generators) which have air gap magnetic fields that are essentially static, or quasi-static, the power system may be modeled as a system with energy stored in quasi-static magnetic fields.  The magnetic fields in the machines do change with time but may be modeled as static as far as wave propagation is concerned.  The dynamic model that I develop treats this magnetic energy specifically as potential energy.  Each rotating machine also contains an inertia due to the mass and motion of its rotor train and so each machine contains a rotational kinetic energy.  Thus the internal system energy for a power system dynamic model may be considered to be contained in potential (magnetic) and kinetic (rotating mass) energies.  This notion of internal energy lends itself to the use of a state-space model where each system state is associated with either a kinetic energy or a potential energy.  An n-machine system would have a total of 2n states and would thus be a 2n-th order system.  For many power system disturbances, I postulate that a linearized version of this model may be used to examine system natural response in terms of frequency and phasor measurements.  The disturbances that I will investigate include generator and line outages.  For any particular outage, the power system exhibits a very specific natural response in terms of its kinetic and potential energies.  Kinetic energy in the system is directly related to each specific machine's rotational speed.  I propose that the kinetic energy corresponds directly with bus frequencies through a linear transformation.  Likewise magnetic field energy in each machine corresponds directly with a torque angle.  The potential energy in the system thus corresponds directly with bus angles through a linear transformation.</p><p> The primary focus of this work is on frequency deviation modal characteristics â   specifically damped oscillation frequencies, mode shapes, and damping ratios.  This work presents how specific disturbances on a power system will lead to specific oscillation frequencies in the deviation quantities and that these oscillation frequencies may be used to identify the disturbance.  The idea of disturbance identification stems out of previous work done in locating disturbances by using a distributed parameter (DP) model of an electric power system.  This DP model, which assumes a wave-like motion of frequency and phase quantities, was used to locate disturbances via a triangulation method.  This present work, instead of using a DP model of the power system, assumes lumped parameters and focuses on disturbance identification strictly via modal characteristics â   particularly oscillation frequency in the frequency deviations.  This model is not concerned with geographic location but focuses on system topology, loading, and machine mass as lumped parameters.  Advantages of disturbance identification include mainly reliability enhancements but can also be used in marketing applications.</p><p> The state-space model used to realize this theory is verified via simulation using small, \"academic\" systems which should prove useful in classroom settings.  Additionally the model is verified on a larger test system in order prove its validity and potential usefulness on large power systems.</p>",
+  "description_provenance": [
+    "Author Email: mwbaldwi@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: cprather@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:33Z (GMT). No. of bitstreams: 1 MB_dissertation_r4.pdf: 2943255 bytes, checksum: 8ec4dd65e71b64ed6e951931cf2dca38 (MD5)   Previous issue date: 2008-02-29"
+  ],
+  "handle": "26522",
+  "identifier_other": "etd-03272008-134630",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03272008-134630/",
+  "identifier_uri": "http://hdl.handle.net/10919/26522",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MB_dissertation_r4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "disturbance identification",
+    "state-space model",
+    "wide-area monitoring",
+    "modal analysis",
+    "FNET",
+    "electromechanics"
+  ],
+  "title": "Modal Analysis Techniques in Wide-Area Frequency Monitoring Systems",
+  "type": "Dissertation"
+}

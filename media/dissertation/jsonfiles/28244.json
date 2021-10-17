@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Goyal, Vijay Kumar",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Plaut, Raymond H.",
+    "Thangjitham, Surot",
+    "Singh, Mahendra P.",
+    "Johnson, Eric R."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:50Z",
+  "date_adate": "2002-07-24",
+  "date_available": "2014-03-14T20:13:50Z",
+  "date_issued": "2002-07-02",
+  "date_rdate": "2003-07-24",
+  "date_sdate": "2002-07-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Because of the inherent complexity of fiber-reinforced laminated composites, it can be challenging to manufacture composite structures according to their exact design specifications, resulting in unwanted material and geometric uncertainties. Thus the understanding of the effect of uncertainties in laminated structures on their static and dynamic responses is highly important for a reliable design of such structures. In this research, we focus on the deterministic and probabilistic stability analysis of laminated structures subject to subtangential loading, a combination of conservative and nonconservative tangential loads, using the dynamic criterion.  Thus a shear-deformable laminated beam element, including warping effects, is derived to study the deterministic and probabilistic response of laminated beams. This twenty-one degrees of freedom element can be used for solving both static and dynamic problems. In the first-order shear deformable model used here we have employed a more accurate method to obtain the transverse shear correction factor. The dynamic version of the principle of virtual work for laminated composites is expressed in its nondimensional form and the element tangent stiffness and mass matrices are obtained using analytical integration. The stability is studied by giving the structure a small disturbance about an equilibrium configuration, and observing if the resulting response remains small.  In order to study the dynamic behavior by including uncertainties into the problem, three models were developed: Exact Monte Carlo Simulation, Sensitivity-Based Monte Carlo Simulation, and Probabilistic FEA. These methods were integrated into the developed finite element analysis. Also, perturbation and sensitivity analysis have been used to study nonconservative problems, as well as to study the stability analysis using the dynamic criterion.",
+  "description_provenance": [
+    "Author Email: vgoyal@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:50Z (GMT). No. of bitstreams: 1 phd3.pdf: 2112648 bytes, checksum: cfed54ce6176780adde6861cd6466345 (MD5)   Previous issue date: 2002-07-02"
+  ],
+  "handle": "28244",
+  "identifier_other": "etd-07102002-135308",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07102002-135308/",
+  "identifier_uri": "http://hdl.handle.net/10919/28244",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "phd3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dynamic Stability",
+    "Nonconservative Loading",
+    "Finite Element",
+    "Probabilistic Mechanics",
+    "Uncertainties",
+    "Laminated Beams"
+  ],
+  "title": "Dynamic Stability of Uncertain Laminated Beams Subjected to Subtangential Loads",
+  "type": "Dissertation"
+}

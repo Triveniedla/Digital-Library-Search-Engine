@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Ning, Puqi",
+  "contributor_committeecochair": [
+    "Wang, Fei Fred",
+    "Ngo, Khai D. T."
+  ],
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Centeno, Virgilio A.",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:11Z",
+  "date_adate": "2010-06-01",
+  "date_available": "2014-03-14T20:12:11Z",
+  "date_issued": "2010-05-04",
+  "date_rdate": "2011-11-19",
+  "date_sdate": "2010-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In recent years, the SiC power semiconductor has emerged as an attractive alternative that pushes the limitations of junction temperature, power rating, and switching frequency of Si devices. These advanced properties will lead converters to higher power density. However, the reliability of the SiC semiconductor is still under investigation, and at the same time, the standard Si device packages do not meet the requirement of high temperature operation. In order to take full advantage of SiC semiconductor devices, high density, high temperature device packaging needs to be developed.  <p> In this dissertation, a high temperature wirebond package for multi-chip phase-leg power module using SiC devices was designed, developed, fabricated and tested. The details of the material selection and thermo-mechanical reliability evaluation are described. High temperature power test shows that the presented package can perform well at the high junction temperature. <p> In order to increase the power density, reduce the parasitic parameters, and enhance the electrical, thermo-mechanical performance over wirebond packages, planar package is utilized to better take advantages of SiC device. This dissertation proposed a novel package, in which the interconnections can be formed on small dimensional pads and   enclosed pads that may baffle the regular solder based connection in other planar packages. Electrical and thermo-mechanical tests of the prototype module demonstrate the functionality and reliability of the presented planar packaging methodology. <p> In this dissertation, together with the design example, the manual module layout design and automatic module layout design process are also presented. Furthermore, a systematic optimal design process and parametric study of the heatsink-fan cooling system by applying the analytical model is described. This dissertation also established a systematic testing procedure which can rapidly detect defects and reduce the risk in high temperature packaging testing. Finally, a wirebond module and a planar module are designed for 175 ÂºC junction temperature and 250 ÂºC junction temperatures. All the key concepts and ideas developed in this work are implemented in the prototype module development and then verified by the experimental results.",
+  "description_provenance": [
+    "Author Email: ning06@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: fred.wang@utk.edu",
+    "Advisor Email: kdtn@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:11Z (GMT). No. of bitstreams: 1 Ning_P_D_2010.pdf: 2756137 bytes, checksum: 794d4c98572a089b6ebdb6545a758dfa (MD5)   Previous issue date: 2010-05-04"
+  ],
+  "handle": "27766",
+  "identifier_other": "etd-05172010-170211",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172010-170211/",
+  "identifier_uri": "http://hdl.handle.net/10919/27766",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ning_P_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "SiC devices",
+    "high temperature",
+    "high power density",
+    "planar package",
+    "wirebond package"
+  ],
+  "title": "Design and Development of High Density High Temperature Power Module with Cooling System",
+  "type": "Dissertation"
+}

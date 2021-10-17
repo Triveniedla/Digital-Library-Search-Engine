@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Qin, Nan",
+  "contributor_committeechair": "Stevens, Ann M.",
+  "contributor_committeemember": [
+    "Yang, Zhaomin",
+    "Walker, Richard A.",
+    "Popham, David L.",
+    "Larson, Timothy J."
+  ],
+  "contributor_department": "Biology",
+  "date_accessioned": "2014-03-14T20:14:27Z",
+  "date_adate": "2008-08-18",
+  "date_available": "2014-03-14T20:14:27Z",
+  "date_issued": "2008-07-22",
+  "date_rdate": "2009-08-18",
+  "date_sdate": "2008-07-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Quorum sensing is a bacterial signaling system that controls gene expression in a population density-dependent manner. In Gram-negative proteobacteria, the cell density control of luminescence was first observed in the symbiotic marine bacterium Vibrio fischeri and this system is one of the best studied quorum sensing systems. Two-dimensional sodium dodecyl sulfate-polyacrylamide (2D-SDS) gel electrophoresis analysis previously identified several non-Lux proteins in V. fischeri MJ-100 whose expression was dependent on LuxR and 3-oxo-hexanoyl-L-homoserine lactone (3-oxo-C6-HSL). A lacZ reporter was used to show that the promoters for qsrP, acfA, and ribB were directly activated via LuxR-3-oxo-C6-HSL in recombinant Escherichia coli. The sites of transcription initiation were established via primer extension analysis. Based on the position of the lux box-binding site near position â  40, all three promoters appear to have a class II-type promoter structure. Real-time reverse transcription-PCR was used to study the temporal expression of qsrP, acfA, and ribB during the exponential and stationary phases of growth, and electrophoretic mobility shift assays were used to compare the binding affinities of LuxR to the promoters under investigation.  In order to fully characterize the LuxR regulon in V. fischeri ES114, microarray analysis was performed in the Greenberg lab (University of Washington) and 18 LuxR-3-oxo-C6-HSL regulated promoters were found including 2 genes (qsrP and acfA) identified previously in MJ-100 in addition to the well-studied lux operon. In collaboration with them, full-length purified LuxR protein was used to show direct interaction between the LuxR protein and 7 genes/operons newly identified out of 13 genes/operons examined.  The binding affinity between LuxR proteins and those genes was also measured. Based on the sequence of the lux boxes of the known genes regulated by LuxR and LitR, a position specific weight matrix (PSWM) was created and used to search through the intergenic regions of the V. fischeri ES114 genome. Some potential LuxR and LitR-regulated genes with high score were tested experimently to confirm direct activation. For the LuxR regulon, these possible LuxR-regulated promoters were cloned into a lacZ reporter and tested for their LuxR dependence. Beyond the genes found in microarray, the promoter of the intergenic region VFA0658-0659 was found to be activated by LuxR and 3-oxo-C6-HSL. For the LitR regulon, two LitR-regulated genes found in the microarray were also identified using PSWM and confirmed by real-time PCR to be dependent on LitR for expression. EMSA experiments showed that LitR can specifically bind to the litR boxes of LitR-regulated genes, litR and VF0170 which confirmed that the regulation is direct.",
+  "description_provenance": [
+    "Author Email: nqin@vt.edu",
+    "Advisor Email: zmyang@vt.edu",
+    "Advisor Email: rawalker@vt.edu",
+    "Advisor Email: dpopham@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:27Z (GMT). No. of bitstreams: 1 NanAug12.pdf: 4098921 bytes, checksum: 50404cb1b2cb51263c1f8f0779f99ee4 (MD5)   Previous issue date: 2008-07-22"
+  ],
+  "handle": "28433",
+  "identifier_other": "etd-07282008-122002",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07282008-122002/",
+  "identifier_uri": "http://hdl.handle.net/10919/28433",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "NanAug12.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "LuxR",
+    "transcriptional regulation",
+    "regulon",
+    "LitR",
+    "quorum sensing",
+    "luminescence",
+    "Vibrio fischeri"
+  ],
+  "title": "Analysis of the Regulons Controlled by Transcriptional Regulators LuxR and LitR in Vibrio fischeri",
+  "type": "Dissertation"
+}

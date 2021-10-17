@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Reed, Corey William",
+  "contributor_committeechair": "Oyama, Shigeo Ted",
+  "contributor_committeemember": [
+    "Davis, Richey M.",
+    "Durrill, Preston L.",
+    "Cox, David F.",
+    "Hanson, Brian E."
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:12:54Z",
+  "date_adate": "2005-06-21",
+  "date_available": "2014-03-14T20:12:54Z",
+  "date_issued": "2005-05-27",
+  "date_rdate": "2005-06-21",
+  "date_sdate": "2005-06-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation describes the current and common problem of removing low concentrations of pollutants known as volatile organic compounds (VOCs) from large volume gas emissions.  Silica-supported manganese oxide catalysts with loadings of 3, 10, 15, and 20 wt. % (as MnO2) were characterized using x-ray absorption spectroscopy and x-ray diffraction (XRD).  The edge positions in the x-ray absorption spectra indicated that the oxidation state for the manganese decreased with increasing metal oxide loading from a value close to that of Mn2O3 (+3) to a value approximating that of Mn3O4 (+2&#8532;).  The XRD was consistent with these results as the diffractograms for the supported catalysts of higher manganese oxide loading matched those of a Mn3O4 reference.  The reactivity of the silica-supported manganese oxide catalysts in acetone oxidation using ozone as an oxidant was studied over the temperature range of 300 to 600 K.  Both oxygen and ozone produced mainly CO2 as the product of oxidation, but in the case of ozone the reaction temperature and activation energy were significantly reduced.  The effect of metal oxide loading was investigated, and the activity for acetone oxidation was greater for a 10 wt. % MnOx/SiO2 catalyst sample compared to a 3 wt. % MnOx/SiO2 sample.  A detailed mechanistic study of acetone oxidation using ozone was performed on a 10 wt. % silica-supported manganese oxide catalyst utilizing Raman spectroscopy, temperature programmed desorption (TPD), and kinetic measurements.  In situ Raman spectroscopy at reaction conditions identified a band at 2930 cm-1 due to an adsorbed acetone species on the silica support and a band at 890 cm-1 due to an adsorbed peroxide species on the manganese oxide.  A steady-state kinetic analysis, which varied acetone partial pressure (101 â   405 Pa), ozone partial pressure (101 â   1013 Pa), and temperature (318, 333, 343, and 373 K), was used to determine reaction rate expressions, while a transient kinetic study (318 K) was used to determine the role of the adsorbed species in the reaction mechanism.  It was found that the rates of the acetone and ozone reactions were equally well described by both a power rate law and a Langmuir-Hinshelwood expression.  The transient experiments showed that the rates of formation and reaction of the observed peroxide surface species did not correspond to the overall reaction rate, and it was concluded that it was not directly involved in the rate determining step of the reaction.  A mechanism is proposed involving the reaction of an adsorbed acetone intermediate with an atomically adsorbed oxygen species via a dual site surface reaction to form complete oxidation products.",
+  "description_provenance": [
+    "Author Email: coreed@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: pdurrill@vt.edu",
+    "Advisor Email: dfcox@vt.edu",
+    "Advisor Email: hanson@vt.edu",
+    "Advisor Email: oyama@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:54Z (GMT). No. of bitstreams: 5 00_Chapter0_Cover_FinalVersion.pdf: 369547 bytes, checksum: 5b05eab518b1ec9a337031540d4105cb (MD5) 01_Chapter1_Introduction_FinalVersion.pdf: 231830 bytes, checksum: b70b393f772422c423c74588fbdac918 (MD5) 04_Chapter4_Conclusions_FinalVersion.pdf: 186982 bytes, checksum: 264d0f52e7166d8b2af3e0a8e03f2057 (MD5) 02_Chapter2_CharacterizationandReactivity_FinalVersion.pdf: 1074185 bytes, checksum: 7a26bfcd80626c222483d0abe9036dcc (MD5) 03_Chapter3_KineticsandMechanism_FinalVersion.pdf: 737861 bytes, checksum: a29a067122da5a8e081220b559b74c4a (MD5)   Previous issue date: 2005-05-27"
+  ],
+  "handle": "28000",
+  "identifier_other": "etd-06092005-105941",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06092005-105941/",
+  "identifier_uri": "http://hdl.handle.net/10919/28000",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "00_Chapter0_Cover_FinalVersion.pdf",
+    "01_Chapter1_Introduction_FinalVersion.pdf",
+    "04_Chapter4_Conclusions_FinalVersion.pdf",
+    "02_Chapter2_CharacterizationandReactivity_FinalVersion.pdf",
+    "03_Chapter3_KineticsandMechanism_FinalVersion.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "EXAFS",
+    "acetone",
+    "Raman",
+    "ozone",
+    "manganese",
+    "XANES",
+    "kinetics",
+    "mechanism",
+    "reactivity",
+    "catalysis"
+  ],
+  "title": "VOC Catalytic Oxidation on Manganese Oxide Catalysts Using Ozone",
+  "type": "Dissertation"
+}

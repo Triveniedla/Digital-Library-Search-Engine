@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Decker, Jeramy Bruyn",
+  "contributor_committeechair": "Mauldon, Matthew",
+  "contributor_committeemember": [
+    "Dershowitz, William",
+    "Westman, Erik Christian",
+    "Dove, Joseph E.",
+    "Gutierrez, Marte S."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:10:40Z",
+  "date_adate": "2007-04-27",
+  "date_available": "2014-03-14T20:10:40Z",
+  "date_issued": "2007-04-20",
+  "date_rdate": "2007-04-27",
+  "date_sdate": "2007-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Fractures and fracture networks govern the mechanical and fluid flow behavior of rock masses. Tunneling and other rock mechanics applications therefore require the characterization of rock fractures based on geological data. Field investigations produce only a limited amount of data from boreholes, outcrops, cut slopes, and geophysical surveys. In tunneling, the process of excavation creates a priceless opportunity to gather more data during construction. Typically, however, these data are not utilized due to the impedance of sampling and analysis on the flow of construction, and safety concerns with sampling within unlined tunnel sections. However, the use of this additional data would increase the overall safety, quality, and cost savings of tunneling.  <p> This study deals with several aspects of the above, with the goal of creating methods and tools to allow engineers and geologists to gather and analysis fracture data in tunnels without interrupting the excavation and without compromising safety. Distribution-independent trace density and mean trace length estimators are developed using principles of stereology. An optimization technique is developed utilizing Differential Evolution to infer fracture size and shape from trace data obtained on two or more nonparallel sampling planes. A method of producing nearly bias free empirical trace length CDFâ  s is also introduced. These new methods and tools were validated using Monte Carlo simulations. A field study was conducted in an existing tunnel allowing the above methods and tools to be further validated and tested. A relational database was developed to aid in storage, retrieval, and analysis of field data. Fracture models were built and updated using fracture data from within the tunnel. Utilization of state of the art imaging techniques allowed for remote sampling and analysis, which were enhanced by the use of 3d visualization techniques.",
+  "description_provenance": [
+    "Author Email: jbdecker@vt.edu",
+    "Advisor Email: dersh@golder.com",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: jodove@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: mauldon@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:40Z (GMT). No. of bitstreams: 1 JeramyDeckerDissertation.pdf: 3657035 bytes, checksum: efcddb3312c30c4d3ffb301d9cc1d97c (MD5)   Previous issue date: 2007-04-20"
+  ],
+  "handle": "27220",
+  "identifier_other": "etd-04242007-160555",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242007-160555/",
+  "identifier_uri": "http://hdl.handle.net/10919/27220",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JeramyDeckerDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "tunnels",
+    "3d visualization",
+    "database",
+    "mean fracture size",
+    "fracture intensity measures",
+    "Monte Carlo method",
+    "stereology",
+    "fractures",
+    "trace length",
+    "trace density"
+  ],
+  "title": "Building, Updating and Verifying Fracture Models in Real Time for Hard Rock Tunneling",
+  "type": "Dissertation"
+}

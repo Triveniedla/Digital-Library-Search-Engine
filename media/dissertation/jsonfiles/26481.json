@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Smith, Dwight Eldridge",
+  "contributor_committeechair": "Mahan, James Robert",
+  "contributor_committeemember": [
+    "Volino, Ralph",
+    "Thole, Karen A.",
+    "Vick, Brian L.",
+    "Schulman, Robert S."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:08:22Z",
+  "date_adate": "2004-06-22",
+  "date_available": "2014-03-14T20:08:22Z",
+  "date_issued": "2002-12-16",
+  "date_rdate": "2004-06-22",
+  "date_sdate": "2004-03-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents three different aspects of the incorporation of directionality into the Monte Carlo ray-trace (MCRT) environment: (1) the development of a methodology for using directional surface optical data, (2) the measurement of the bi-directional reflectivity functions for two different surfaces, and (3) MCRT simulations performed using these directional data sets.   <p> The methodology presented is based upon a rigorous analytical formulation and is capable of performing simulations of radiation exchange involving directional emission, absorption and reflection given the bi-directional reflectivity functions (BDRF) of the participating surfaces.  A wavelet compression technique is presented for the management of extremely large directional data sets.  The BDRFs of two different surfaces were acquired using a Surface Optics Corporation model SOC-250 bi-directional reflectometer.  These data were processed according to the methodology presented and an MCRT code was used to simulate the action of the SOC-250 in measuring radiant energy reflected from the surfaces of the two samples when illuminated by the source of the SOC-250. Another MCRT code was used to simulate the radiant energy reflected into a plane at the exit of an open-ended rectangular box when the entrance to the box is illuminated by source of the SOC-250.  The RMS error between the MCRT simulations of sampling using the SOC-250 and the measured data were determined and then divided by the mean BDRF level of the measured data (RMS/mean[rho]) to provide an estimate of convergence.  The RMS/mean[rho] was observed to fall from as much as 138 to 0.84 for  the aluminum substrate coated with Krylon Shortcuts Hunter Green Satin aerosol paint as the number of energy bundles emitted in the MCRT simulation went from 103 to 106 at an incident zenith angle of 40 deg.  The RMS/mean[rho] was observed to fall from as much as 2.2 to 0.2 for the Norton (150 Fine grit) all-purpose sandpaper coated with Krylon Shortcuts Hunter Green Satin aerosol paint as the number of energy bundles emitted in the MCRT simulation went from 103 to 106 at an incident zenith angle of 40 deg.",
+  "description_provenance": [
+    "Author Email: dsmith@usna.edu",
+    "Advisor Email: robert.mahan@wanadoo.fr",
+    "Made available in DSpace on 2014-03-14T20:08:22Z (GMT). No. of bitstreams: 2 Vita.PDF: 27370 bytes, checksum: 8c2c8032e49c38bc49a5adde9dcfd222 (MD5) Dissertation_etd.pdf: 8980988 bytes, checksum: d0cf63c0074737dd65917666cf359fa9 (MD5)   Previous issue date: 2002-12-16"
+  ],
+  "handle": "26481",
+  "identifier_other": "etd-03232004-111141",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03232004-111141/",
+  "identifier_uri": "http://hdl.handle.net/10919/26481",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Vita.PDF",
+    "Dissertation_etd.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Carlo Ray-trace",
+    "Wavelets",
+    "BDRF",
+    "BRDF",
+    "Radiative Exchange",
+    "Bi-directional Reflectivity"
+  ],
+  "title": "An Application of Wavelet Techniques to Bi-directionality in the Monte Carlo Ray Trace Environment",
+  "type": "Dissertation"
+}

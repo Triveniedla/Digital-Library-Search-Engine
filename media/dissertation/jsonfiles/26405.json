@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Suharko, Arief  Bimantoro",
+  "contributor_committeechair": "Sherali, Hanif D.",
+  "contributor_committeemember": [
+    "Trani, Antonio A.",
+    "Midkiff, Scott F.",
+    "Kobza, John E.",
+    "Jacobson, Sheldon H."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:08:07Z",
+  "date_adate": "1998-02-04",
+  "date_available": "2014-03-14T20:08:07Z",
+  "date_issued": "1997-12-05",
+  "date_rdate": "1998-02-04",
+  "date_sdate": "1997-12-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Prior to 1980, the practice in multilevel autorack management was to load the railcars at various origin points, ship them to the destination ramps, unload them, and then return each car to the loading point where it originated. Recognizing the inefficiency of such a practice with respect to the fleet size that had to be maintained, and the associated poor utilization due to the excessive empty miles logged, a consolidation of the railcars was initiated and completed by February 1982. Under this pooling program, a central management was established to control the repositioning of three types of empty railcars for eight principal automobile manufacturers. Today, the practice is to consolidate the fleets of all automobile manufacturers for each equipment type, and to solve the distribution problem of repositioning empty multilevel autoracks of each type from points at which they are unloaded to automobile assembly facilities where they need to be reloaded. Each such problem is referred to in the railroad industry as a repositioning scenario.  In this dissertation, we present two tactical models to assist in the task of centrally managing the distribution of empty railcars on a day-to-day basis for each repositioning scenario. These models take into account various practical issues such as uncertainties, priorities with respect to time and demand locations, multiple objectives related to minimizing different types of latenesses in delivery, and blocking issues. It is also of great practical interest to the central management team to have the ability to conduct various sensitivity analyses in its operation. Accordingly, the system provides for the capability to investigate various what-if scenarios such as fixing decisions on running a specified block of cars (control orders) along certain routes as dictated by business needs, and handling changes in supplies, demands, priorities, and transit time characteristics. Moreover, the solution methodology provides a flexible decision-making capability by permitting a series of runs based on a sequential decision-fixing process in a real-time operational mode. A turn-around response of about five minutes per scenario (on a Pentium PC or equivalent) is desired in practice.  This dissertation begins by developing several progressive formulations that incorporate many practical considerations in the empty railroad car distribution planning system. We investigate the performance of two principal models in this progression to gain more insights into the implementation aspects of our approach. The first model (TDSS1: Tactical Decision Support System-1) considers all the identified features of the problem except for blocking, and results in a network formulation of the problem. This model examines various practical issues such as time and demand location-based priorities as well as uncertainty in data within a multiple objective framework.  In the second model (TDSS2: Tactical Decision Support System-2), we add a substantial degree of complexity by addressing blocking considerations. Enforcement of block formation renders the model as a network flow problem with side-constraints and discrete side-variables. We show how the resulting mixed-integer-programming formulation can be enhanced via some partial convex hull constructions using the Reformulation-Linearization Technique (RLT). This tightening of the underlying linear programming relaxation is shown to permit the solution of larger problem sizes, and enables the exact solution of certain scenarios having 5,000 - 8,000 arcs. However, in order to accommodate the strict run-time limit requirements imposed in practice for larger scenarios having about 150,000 arcs, various heuristics are developed to solve this problem. In using a combination of proposed strategies, 23 principal heuristics, plus other hybrid variants, are composed for testing.  By examining the performance of various exact and heuristic procedures with respect to speed of operation and the quality of solutions produced on a test-bed of real problems, we prescribe recommendations for a production code to be used in practice. Besides providing a tool to aid in the decision-making process, a principal utility of the developed system is that it provides the opportunity to conduct various what-if analyses. The effects of many of the practical considerations that have been incorporated in TDSS2 can be studied via such sensitivity analyses. A special graphical user interface has been implemented that permits railcar distributors to investigate the effects of varying supplies, demands, and routes, retrieving railcars from storage, diverting en-route railcars, and exploring various customer or user-driven fixed dispositions. The user has the flexibility, therefore, to sequentially compose a decision to implement on a daily basis by using business judgment to make suggestions and studying the consequent response prompted by the model. This system is currently in use by the TTX company, Chicago, Illinois, in order to make distribution decisions for the railroad and automobile industries.  The dissertation concludes by presenting a system flowchart for the overall implemented approach, a summary of our research and provides recommendations for future algorithmic enhancements based on Lagrangian relaxation techniques.  NOTE: (03/2011) An updated copy of this ETD was added after there were patron reports of problems with the file.",
+  "description_provenance": [
+    "Author Email: suharko@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:07Z (GMT). No. of bitstreams: 2 etd.pdf: 771682 bytes, checksum: ce0b804c015c2139c8e8309365c0fbe9 (MD5) etd_2011.pdf: 861596 bytes, checksum: c968b153fc7a22a51086fe702ca1fb1b (MD5)   Previous issue date: 1997-12-05"
+  ],
+  "handle": "26405",
+  "identifier_other": "etd-03098-16310",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03098-16310/",
+  "identifier_uri": "http://hdl.handle.net/10919/26405",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "etd.pdf",
+    "etd_2011.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Repositioning Scenario",
+    "Empty Railcar Management",
+    "Tactical Planning Model"
+  ],
+  "title": "Tactical Network Flow and Discrete Optimization Models and Algorithms for the Empty Railcar Transportation Problem",
+  "type": "Dissertation"
+}

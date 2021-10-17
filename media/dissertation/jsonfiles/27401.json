@@ -1,0 +1,47 @@
+{
+  "contributor_author": "LoPinto, Frank Anthony",
+  "contributor_committeechair": "Ragsdale, Cliff T.",
+  "contributor_committeemember": [
+    "Tillar, Roberta Russell",
+    "Matheson, Lance Arthur",
+    "Zobel, Christopher W.",
+    "Rees, Loren Paul"
+  ],
+  "contributor_department": "Business Information Technology",
+  "date_accessioned": "2014-03-14T20:11:09Z",
+  "date_adate": "2004-04-30",
+  "date_available": "2014-03-14T20:11:09Z",
+  "date_issued": "2004-04-26",
+  "date_rdate": "2005-04-30",
+  "date_sdate": "2004-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Implementing an e-market for limited supply perishable asset (LiSPA) products is a problem at the intersection of online purchasing and distributed decision support systems (DistDSS).  In this dissertation, we introduce and define LiSPA products, provide real-world examples, develop a framework for a distributed system to implement an e-market for LiSPA products, and provide proof-of-concept for the two major components of the framework. The DistDSS framework requires customers to instantiate agents that learn their preferences and evaluate products on their behalf.  Accurately eliciting and modeling customer preferences in a quick and easy manner is a major hurdle for implementing this agent-based system.  A methodology is developed for this problem using conjoint analysis and neural networks. The framework also contains a model component that is addressed in this work.  The model component is presented as a mediator of customer negotiation that uses the agent-based preference models mentioned above and employs a linear programming model to maximize overall satisfaction of the total market.",
+  "description_provenance": [
+    "Author Email: flopinto@vt.edu",
+    "Advisor Email: rrussell@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: crags@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:09Z (GMT). No. of bitstreams: 1 LoPinto_ETD.pdf: 540544 bytes, checksum: 33bcba3041ca368fda0b129ed04d236b (MD5)   Previous issue date: 2004-04-26"
+  ],
+  "handle": "27401",
+  "identifier_other": "etd-04282004-110741",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282004-110741/",
+  "identifier_uri": "http://hdl.handle.net/10919/27401",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LoPinto_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Preferences",
+    "Linear Programming",
+    "Web Services",
+    "Decision Support Systems",
+    "Agents",
+    "Conjoint Analysis"
+  ],
+  "title": "An Agent-Based Distributed Decision Support System Framework for Mediated Negotiation",
+  "type": "Dissertation"
+}

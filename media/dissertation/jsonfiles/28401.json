@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Otieno, Bennett Sango",
+  "contributor_committeechair": "Anderson-Cook, Christine M.",
+  "contributor_committeemember": [
+    "Ye, Keying",
+    "Terrell, George R.",
+    "Prins, Samantha C. Bates",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:19Z",
+  "date_adate": "2002-07-30",
+  "date_available": "2014-03-14T20:14:19Z",
+  "date_issued": "2002-07-25",
+  "date_rdate": "2003-07-30",
+  "date_sdate": "2002-07-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Circular or Angular data occur in many fields of applied statistics. A common problem of interest in circular data is estimating a preferred direction and its corresponding distribution. This problem is complicated by the so-called wrap-around effect, which exists because there is no minimum or maximum on the circle. The usual statistics employed for linear data are inappropriate for directional data, as they do not account for the circular nature of directional data. Common choices for summarizing the preferred direction are the sample circular mean, and sample circular median. A newly proposed circular analog of the Hodges-Lehmann estimator is proposed, as an alternative estimate of preferred direction. The new measure of preferred direction is a robust compromise between circular mean and circular median. Theoretical results show that the new measure of preferred direction is asymptotically more efficient than the circular median and that its asymptotic efficiency relative to the circular mean is quite comparable. Descriptions of how to use the methods for constructing confidence intervals and testing hypotheses are provided. Simulation results demonstrate the relative strengths and weaknesses of the new approach for a variety of distributions.",
+  "description_provenance": [
+    "Author Email: sango@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: sbates@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:19Z (GMT). No. of bitstreams: 1 dcirc3.pdf: 1056355 bytes, checksum: f5a3c438d44f7d14c7b86043134efede (MD5)   Previous issue date: 2002-07-25"
+  ],
+  "handle": "28401",
+  "identifier_other": "etd-07262002-104720",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07262002-104720/",
+  "identifier_uri": "http://hdl.handle.net/10919/28401",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dcirc3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Preferred Direction",
+    "Circular Data",
+    "Hodges-Lehmann Estimator"
+  ],
+  "title": "An Alternative Estimate of Preferred Direction for Circular Data",
+  "type": "Dissertation"
+}

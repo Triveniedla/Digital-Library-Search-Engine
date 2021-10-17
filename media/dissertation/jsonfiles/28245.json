@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Massey, Thomas Christopher",
+  "contributor_committeechair": "Adjerid, Slimane",
+  "contributor_committeemember": [
+    "Johnson, Lee W.",
+    "Beattie, Christopher A.",
+    "Borggaard, Jeffrey T.",
+    "Rogers, Robert C."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:50Z",
+  "date_adate": "2002-07-15",
+  "date_available": "2014-03-14T20:13:50Z",
+  "date_issued": "2002-07-03",
+  "date_rdate": "2003-07-15",
+  "date_sdate": "2002-07-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A Flexible Galerkin Finite Element Method (FGM) is a hybrid class of finite element methods that combine the usual continuous Galerkin method with the now popular discontinuous Galerkin method (DGM). A detailed description of the formulation of the FGM on a hyperbolic partial differential equation, as well as the data structures used in the FGM algorithm is presented. Some hp-convergence results and computational cost are included. Additionally, an a posteriori error estimate for the DGM applied to a two-dimensional hyperbolic partial differential equation is constructed. Several examples, both linear and nonlinear, indicating the effectiveness of the error estimate are included.",
+  "description_provenance": [
+    "Author Email: thmassey@math.vt.edu",
+    "Advisor Email: johnsonl@math.vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: borggajt@origin.icam.vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:50Z (GMT). No. of bitstreams: 1 main.pdf: 13804989 bytes, checksum: 23a78afc5d4ff3a664fe24a7d5ab6ad5 (MD5)   Previous issue date: 2002-07-03"
+  ],
+  "handle": "28245",
+  "identifier_other": "etd-07102002-142105",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07102002-142105/",
+  "identifier_uri": "http://hdl.handle.net/10919/28245",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "main.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "a posteriori error estimation",
+    "finite elements",
+    "flexible discontinuous Galerkin",
+    "hyperbolic partial differential equations"
+  ],
+  "title": "A Flexible Galerkin Finite Element Method with an A Posteriori Discontinuous Finite Element Error Estimation for Hyperbolic Problems",
+  "type": "Dissertation"
+}

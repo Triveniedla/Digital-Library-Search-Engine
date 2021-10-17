@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Kelly, Jeffrey J.",
+  "contributor_committeechair": "Neyfeh, Ali H.",
+  "contributor_committeemember": [
+    "Mook, Dean T.",
+    "Henneke, Edmund G. II",
+    "Watson, Layne T.",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:17:47Z",
+  "date_adate": "2008-10-30",
+  "date_available": "2014-03-14T20:17:47Z",
+  "date_issued": "1981-01-05",
+  "date_rdate": "2008-10-30",
+  "date_sdate": "2008-10-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>A linear model based on the wave-envelope technique is used to study the propagation of axisymmetric and spinning acoustic modes in hard-walled and lined nonuniform circular ducts carrying near sonic mean flows. This method is valid for large as well as small axial variations, as long as the mean flow does not separate.</p><p> The wave-envelope technique is based on solving for the envelopes of the quasiparallel acoustic modes that exist in the duct instead oÂ£ solving for the actual wave, thereby reducing the computational time and the round-off error encountered in purely numerical techniques.</p><p> The influence of the throat Mach number, frequency, boundary-layer thickness and liner admittance on both upstream and downstream propagation of acoustic modes is considered.</p><p> A numerical procedure, which is stable for cases of strong interaction, for analysis of nonlinear acoustic propagation through nearly sonic mean flows is also developed. This procedure is a combination of the Adams-PECE integration scheme and the singular value decomposition scheme. It does not develop the numerical instability associated with the Runge-Kutta and matrix inversion methods for nearly sonic duct flows. The numerical results show that an impedance condition can be satisfied at the duct exit and a corresponding solution obtained. The numerical results confirm that the nonlinearity intensifies the acoustic disturbance in the throat region, reduces the intensity of the fundamental frequency at the duct exit, and increases the reflections. This implies that the mode conversion properties of variable area ducts can reflect and focus the acoustic signal to the vicinity of the throat in high subsonic flows. Also the numerical results indicate that a shock develops if certain limits on the input parameters are exceeded.</p>",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:17:47Z (GMT). No. of bitstreams: 1 LD5655.V856_1981.K455.pdf: 3400079 bytes, checksum: 688f312f6e41070b51bbb3a77b20d8ee (MD5)   Previous issue date: 1981-01-05",
+  "format_medium": "BTD",
+  "handle": "29404",
+  "identifier_other": "etd-10302008-120426",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10302008-120426/",
+  "identifier_uri": "http://hdl.handle.net/10919/29404",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1981.K455.pdf",
+  "subject": "Noise control",
+  "subject_lcc": "LD5655.V856 1981.K455",
+  "title": "Acoustic propagation in nonuniform circular ducts carrying near sonic mean flows",
+  "type": "Dissertation"
+}

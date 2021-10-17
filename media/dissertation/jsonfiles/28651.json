@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Barbosa, Peter Mantovanelli",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Chen, Dan Y.",
+    "Boroyevich, Dushan",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:12Z",
+  "date_adate": "2002-08-22",
+  "date_available": "2014-03-14T20:15:12Z",
+  "date_issued": "2002-07-31",
+  "date_rdate": "2003-08-22",
+  "date_sdate": "2002-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Front-end converters with power factor correction (PFC) capability are widely used in distributed power systems (DPSs). Most of the front-end converters are implemented using a two-stage approach, which consists of a PFC stage followed by a DC/DC converter. The purpose of the front-end converter is to regulate the DC output voltage, supply all the load converters connected to the distributed bus, guarantee current sharing, and charge a bank of batteries to provide backup energy when the power grid breaks down.  One of the main concerns of the power supply industry is to obtain a front-end converter with a low-cost PFC stage, while still complying with required harmonic standards, especially for high-power three-phase applications. Having this statement in mind, the main objective of this dissertation is to study front-end converters for DPS applications with PFC to meet harmonic standards, while still maintaining low cost and performance indices.  To realize the many aforementioned objectives, this dissertation is divided into two main parts: (1) two-stage front-end converters suitable for telecom applications, and (2) single-stage low-cost AC/DC converters suitable for mainframe computers and server applications. The use of discontinuous conduction mode (DCM) boost rectifiers is extensively explored to achieve simplicity, while reducing the cost for DPS applications. Interleaving of DCM boost rectifiers is also explored as an alternative approach to further reduce the system cost by reducing the filtering requirements. All the solutions discussed are implemented for 3kW applications, while 6kW is obtained by interleaving two converters.",
+  "description_provenance": [
+    "Author Email: pbarbosa@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:12Z (GMT). No. of bitstreams: 1 Barbosa_ETD.pdf: 2737944 bytes, checksum: 33b49e0b6ec92811f506abad6bb152ee (MD5)   Previous issue date: 2002-07-31"
+  ],
+  "handle": "28651",
+  "identifier_other": "etd-08142002-075617",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142002-075617/",
+  "identifier_uri": "http://hdl.handle.net/10919/28651",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Barbosa_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "front-end converters",
+    "interleaved converters",
+    "distributed power systems",
+    "three-phase rectifiers"
+  ],
+  "title": "Three-Phase Power Factor Correction Circuits for Low-Cost Distributed Power Systems",
+  "type": "Dissertation"
+}

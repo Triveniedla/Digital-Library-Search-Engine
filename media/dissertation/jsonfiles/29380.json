@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Blumer, Aric David",
+  "contributor_committeechair": "Patterson, Cameron D.",
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Broadwater, Robert P.",
+    "Jones, Mark T.",
+    "Mortveit, Henning S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:42Z",
+  "date_adate": "2007-11-16",
+  "date_available": "2014-03-14T20:17:42Z",
+  "date_issued": "2007-10-15",
+  "date_rdate": "2007-11-16",
+  "date_sdate": "2007-10-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The run-time reconfiguration of Field Programmable Gate Arrays (FPGAs) opens new avenues to hardware reuse. Through the use of process migration between hardware and software, an FPGA provides a parallel execution cache. Busy processes can be migrated into hardware-based, parallel processors, and idle processes can be migrated out increasing the utilization of the hardware. The application of hardware/software process migration to the acceleration of Register Transfer Level (RTL) circuit simulation is developed and analyzed. RTL code can exhibit a form of locality of reference such that executing processes tend to be executed again. This property is termed executive temporal locality, and it can be exploited by migration systems to accelerate RTL simulation.  In this dissertation, process migration is first formally modeled using Finite State Machines (FSMs). Upon FSMs are built programs, processes, migration realms, and the migration of process state within a realm. From this model, a taxonomy of migration realms is developed. Second, process migration is applied to the RTL simulation of digital circuits. The canonical form of an RTL process is defined, and transformations of HDL code are justified and demonstrated. These transformations allow a simulator to identify basic active units within the simulation and combine them to balance the load across a set of processors. Through the use of input monitors, executive locality of reference is identified and demonstrated on a set of six RTL designs. Finally, the implementation of a migration system is described which utilizes Virtual Machines (VMs) and Real Machines (RMs) in existing FPGAs. Empirical and algorithmic models are developed from the data collected from the implementation to evaluate the effect of optimizations and migration algorithms.",
+  "description_provenance": [
+    "Author Email: aric@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: hmortvei@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:42Z (GMT). No. of bitstreams: 1 etd2.pdf: 1940761 bytes, checksum: 3b9d688245438b78ab2d8773d933d356 (MD5)   Previous issue date: 2007-10-15"
+  ],
+  "handle": "29380",
+  "identifier_other": "etd-10262007-144416",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10262007-144416/",
+  "identifier_uri": "http://hdl.handle.net/10919/29380",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "RTL Simulation",
+    "Process Migration",
+    "Run-time Reconfiguration",
+    "Reconfigurable Computing",
+    "Formal Modeling",
+    "Canonical RTL",
+    "Executive Locality of Reference"
+  ],
+  "title": "Register Transfer Level Simulation Acceleration via Hardware/Software Process Migration",
+  "type": "Dissertation"
+}

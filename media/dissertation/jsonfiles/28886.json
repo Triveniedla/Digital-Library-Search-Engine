@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hosder, Serhat",
+  "contributor_committeechair": "Grossman, Bernard M.",
+  "contributor_committeemember": [
+    "Mason, William H.",
+    "Schetz, Joseph A.",
+    "Haftka, Raphael T.",
+    "Neel, Reece E.",
+    "Simpson, Roger L."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:58Z",
+  "date_adate": "2004-09-13",
+  "date_available": "2014-03-14T20:15:58Z",
+  "date_issued": "2004-07-29",
+  "date_rdate": "2005-09-13",
+  "date_sdate": "2004-09-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new noise metric has been developed that may be used for optimization problems involving aerodynamic noise from a clean wing. The modeling approach uses a classical trailing edge noise theory as the starting point. The final form of the noise metric includes characteristic velocity and length scales that are obtained from three-dimensional, steady, RANS simulations with a two- equation k-omega turbulence model. The noise metric is not the absolute value of the noise intensity, but an accurate relative noise measure as shown in the validation studies. One of the unique features of the new noise metric is the modeling of the length scale, which is directly related to the turbulent structure of the flow at the trailing edge. The proposed noise metric model has been formulated so that it can capture the effect of different design variables on the clean wing airframe noise such as the aircraft speed, lift coefficient, and wing geometry. It can also capture three-dimensional effects which become important at high lift coefficients, since the characteristic velocity and the length scales are allowed to vary along the span of the wing.   Noise metric validation was performed with seven test cases that were selected from a two-dimensional NACA 0012 experimental database. The agreement between the experiment and the predictions obtained with the new noise metric was very good at various speeds, angles of attack, and Reynolds Number, which showed that the noise metric is capable of capturing the variations in the trailing edge noise as a relative noise measure when different flow conditions and parameters are changed.  Parametric studies were performed to investigate the effect of different design variables on the noise metric. Two-dimensional parametric studies were done using two symmetric NACA four-digit  airfoils (NACA 0012 and NACA 0009) and two supercritical (SC(2)-0710 and SC(2)-0714) airfoils. The three-dimensional studies were performed with two versions of a conventional transport wing at realistic approach conditions. The twist distribution of the baseline wing was changed to obtain a modified wing which was used to investigate the effect of the twist on the trailing edge noise.   An example study with NACA 0012 and NACA 0009 airfoils demonstrated a reduction in the trailing edge noise by decreasing the thickness ratio and the lift coefficient, while increasing the chord length to keep the same lift at a constant speed. Both two- and three-dimensional studies demonstrated that the trailing edge noise remains almost constant at low lift coefficients and gets larger at higher lift values. The increase in the noise metric can be dramatic when there is separation on the wing. Three-dimensional effects observed in the wing cases indicate the importance of calculating the noise metric with a characteristic velocity and length scale that vary along the span. The twist change does not have a significant effect on the noise at low lift coefficients, however it may give significant noise reduction at higher lift values.   The results obtained in this study show the importance of the lift coefficient on the airframe noise of a clean wing and favors having a larger wing area to reduce the lift coefficient for minimizing the noise. The results also point to the fact that the noise reduction studies should be performed in a multidisciplinary design and optimization framework, since many of the parameters that change the trailing edge noise also affect the other aircraft design requirements. It's hoped that the noise metric developed here can aid in such multidisciplinary design and optimization studies.",
+  "description_provenance": [
+    "Author Email: shosder@vt.edu",
+    "Advisor Email: grossman@nianet.org",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: haftka@ufl.edu",
+    "Advisor Email: neel@aerosft.com",
+    "Advisor Email: simpson@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:58Z (GMT). No. of bitstreams: 1 thesis_shosder.pdf: 6496099 bytes, checksum: ea092a495349e4ba063bdeede068f238 (MD5)   Previous issue date: 2004-07-29"
+  ],
+  "handle": "28886",
+  "identifier_other": "etd-09072004-093109",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09072004-093109/",
+  "identifier_uri": "http://hdl.handle.net/10919/28886",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis_shosder.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Computational Fluid Dynamics",
+    "Multidisciplinary Design and Optimization",
+    "Trailing Edge Noise",
+    "Aeroacoustics",
+    "Airframe Noise"
+  ],
+  "title": "Clean Wing Airframe Noise Modeling for Multidisciplinary Design and Optimization",
+  "type": "Dissertation"
+}

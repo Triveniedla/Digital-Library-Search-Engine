@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Zhang, Po",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Heflin, James R.",
+    "Safaai-Jazi, Ahmad",
+    "Poon, Ting-Chung",
+    "Besieris, Ioannis M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:50:48Z",
+  "date_adate": "2003-12-02",
+  "date_available": "2011-08-22T18:50:48Z",
+  "date_issued": "2003-09-19",
+  "date_rdate": "2003-12-02",
+  "date_sdate": "2003-09-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Fiber-optic Bragg grating (FBG) sensors are a very attractive technology for the measurement of strain and temperature. They have many advantages over conventional sensors in sensing applications such as sensitivity, immunity to electromagnetic interferences,large bandwidths,capability of remote operation and the potential power to sense micro strain at high temperature. They can be directly embedded into many structures such as concrete to evaluate the material deformation.   FBGs are fabricated by photo-inscribing through a phase mask technology on a photosensitive fiber. A periodic refractive index is formed in the fiber core, introducing a reflection at the Bragg wavelength. Since the FBG is characterized by a low insertion loss and controllable reflectance, it has the potential to be multiplexed in very large numbers.  The major purpose of this dissertation research is to develop an innovative, high- resolution fiber Bragg grating sensing system using photon-counting optical time domain reflectometry (pc-OTDR) based multiplexing technology. The system uses a Fresnel reflection OTDR with a zero deadzone to detect FBG sensors, which improves both the system detection ability and spatial resolution.  A low reflectance FBG with broad bandwidth has been developed that is appropriate for the pc-OTDR measurement. Hundred of multiplexed sensors have been implemented in this system. Two theoretical analyses and preliminary results are presented. The greatest advantage of the system is to increase the maximum multiplexing sensor number to one thousand within a short fiber range.   Self-referencing demodulation is necessary to eliminate multiplexed system noise caused by the source power fluctuation and fiber bending effects. A referencing FBG with a different wavelength from the sensing FBG has to be introduced to achieve compensation of disturbances in the measurement. The spectral properties of the FBGs and the combination of WDM/TDM are also discussed to evaluate multiplexing sensor performance. The sensor crosstalk and other noise performances are assessed to evaluate the possibility of large scale multiplexing.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:50:48Z (GMT). No. of bitstreams: 2  ETD_title.pdf: 372275 bytes, checksum: a34a2edbc8b8f45c8abb172f92c9fcef (MD5)  ETD_text.pdf: 4336744 bytes, checksum: fc20c9070979aad7a538098e4661f384 (MD5)    Previous issue date: 2003-09-19",
+    "Author Email: pozhang@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: tcpoon@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11064",
+  "identifier_other": "etd-09222003-111523",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09222003-111523",
+  "identifier_uri": "http://hdl.handle.net/10919/11064",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ETD_title.pdf",
+    "ETD_text.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "FBG",
+    "Multiplexing PC-OTDR",
+    "optical fiber",
+    "Photon counting"
+  ],
+  "title": "High-resolution Photon Counting OTDR based Interrogation of Multiplexing Broadband FBG Sensors",
+  "type": "Dissertation"
+}

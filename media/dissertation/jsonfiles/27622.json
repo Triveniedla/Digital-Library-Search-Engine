@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Li, Yinan",
+  "contributor_committeechair": "Chen, Ing-Ray",
+  "contributor_committeemember": [
+    "Rahmandad, Hazhir",
+    "Ramakrishnan, Naren",
+    "Lu, Chang-Tien",
+    "Gracanin, Denis"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:11:48Z",
+  "date_adate": "2012-06-04",
+  "date_available": "2014-03-14T20:11:48Z",
+  "date_issued": "2012-04-30",
+  "date_rdate": "2012-06-04",
+  "date_sdate": "2012-05-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation research, we design and analyze integrated mobility and service manage- ment for network cost minimization in Wireless Mesh Networks (WMNs). We first investigate the problem of mobility management in WMNs for which we propose two efficient per-user mobility management schemes based on pointer forwarding, and then a third one that integrates routing- based location update and pointer forwarding for further performance improvement.  We further study integrated mobility and service management for which we propose protocols that support efficient mobile data access services with cache consistency management, and mobile multicast services. We also investigate reliable and secure integrated mobility and service man- agement in WMNs, and apply the idea to the design of a protocol for secure and reliable mobile multicast. The most salient feature of our protocols is that they are optimal on a per-user basis (or on a per-group basis for mobile multicast), that is, the overall network communication cost incurred is minimized for each individual user (or group). Per-user based optimization is critical because mobile users normally have vastly different mobility and service characteristics. Thus, the overall cost saving due to per-user based optimization is cumulatively significant with an increasing mobile user population.  To evaluate the performance of our proposed protocols, we develop mathematical models and computational procedures used to compute the network communication cost incurred and build simulation systems for validating the results obtained from analytical modeling. We identify optimal design settings under which the network cost is minimized for our mobility and service management protocols in WMNs. Intensive comparative performance studies are carried out to compare our protocols with existing work in the literature. The results show that our protocols significantly outperform existing protocols under identical environmental and operational settings.  We extend the design notion of integrated mobility and service management for cost minimiza- tion to MANETs and propose a scalable dual-region mobility management scheme for location- based routing. The basic design concept is to use local regions to complement home regions and have mobile nodes in the home region of a mobile node serve as location servers for that node. We develop a mathematical model to derive the optimal home region size and local region size under which overall network cost incurred is minimized. Through a comparative performance study, we show that dual-region mobility management outperforms existing mobility management schemes based on static home regions.",
+  "description_provenance": [
+    "Author Email: yinan926@vt.edu",
+    "Advisor Email: hazhir@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:48Z (GMT). No. of bitstreams: 1 Li_Y_D_2012.pdf: 3081246 bytes, checksum: a37897e843ddd1cf74156e396d658243 (MD5)   Previous issue date: 2012-04-30"
+  ],
+  "handle": "27622",
+  "identifier_other": "etd-05092012-132554",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05092012-132554/",
+  "identifier_uri": "http://hdl.handle.net/10919/27622",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Li_Y_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mobile multicast services",
+    "cache consistency management",
+    "mobile data access",
+    "integrated mobility and service management",
+    "wireless mesh networks",
+    "performance analysis",
+    "security"
+  ],
+  "title": "Integrated Mobility and Service Management for Network Cost Minimization in Wireless Mesh Networks",
+  "type": "Dissertation"
+}

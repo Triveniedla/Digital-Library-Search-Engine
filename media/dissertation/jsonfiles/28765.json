@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Souri, Davood",
+  "contributor_committeechair": "Salehi-Isfahani, Djavad",
+  "contributor_committeemember": [
+    "Yang, Dennis T.",
+    "Mills, Bradford F.",
+    "Vining, G. Geoffrey",
+    "Ashley, Richard A."
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2014-03-14T20:15:34Z",
+  "date_adate": "2004-08-26",
+  "date_available": "2014-03-14T20:15:34Z",
+  "date_issued": "2004-08-23",
+  "date_rdate": "2007-08-26",
+  "date_sdate": "2004-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> This dissertation is intended to provide a statistical foundation for the IV models and shed lights on a number of issues related to the IV method. The first chapter shows that the theoretical Instrumental Variable model can be derived by reparameterization of a well-specified statistical model defined on the joint distribution of the involved random variables as the actual (local) data generation process. This reveals the covariance structure of the error terms of the usual theory-driven instrumental variable model. The revealed covariance structure of the IV model have important implications, particularly, for designing simulation studies. </p><p>  Monte Carlo simulations are used to reexamine the Nelson and Startz (1990a) findings regarding the performance of IV estimators when the instruments are weak. The results from the simulation exercises indicate that the sampling distribution of ^Î <sub>IV</sub>  is concentrated around ^Î <sub>OLS</sub>.   </p><p> The second chapter considers the underlying joint distribution function of the instrumental variable (IV) model and presents an alternative  definition for the exogenous and relevant instruments. The paper extracts a system of independent and orthogonal equations that covers up a non-orthogonal structural model and argues that the estimated IV regression is well-specified if the underlying system of equations is well-specified. It proposes a new instrument relevancy measure that does not suffer from the first-stage <i>R<sup>2</sup></i> deficiencies. </p><p> Third chapter argues the application of the IV method in estimation of models with omitted variable. The paper considers the implicit parametrization of statistical models and presents five conditions for an appropriate instruments. Two of them are empirically measurable and can be tested. This improves the literature by adding one more objective criterion for the selection of instruments. This chapter applies the IV method to estimate the rate of return to education in Iran. It argues that the education of two cohorts of Iranians was delayed or cut short by the Cultural Revolution. Therefore, the Cultural Revolution, as an exogenous shock to the supply of education, establishes the year of birth as the exogenous and relevant instrument for education. Using the standard Mincerian earnings function with control for experience, ethnicity, location of residence and sector of employment, the instrumental variable estimate of the return to schooling is equal to 5.6&#37;. The estimation results indicate that the Iranian labor market values degrees more than years of schooling.</p>",
+  "description_provenance": [
+    "Author Email: dsouri@vt.edu",
+    "Advisor Email: deyang@vt.edu",
+    "Advisor Email: bfmills@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: salehi@vt.edu",
+    "Advisor Email: ashleyr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:34Z (GMT). No. of bitstreams: 1 Souri_ETD.pdf: 803221 bytes, checksum: 601a0b6c86774d1e46d136b5e6044eea (MD5)   Previous issue date: 2004-08-23"
+  ],
+  "handle": "28765",
+  "identifier_other": "etd-08232004-180017",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232004-180017/",
+  "identifier_uri": "http://hdl.handle.net/10919/28765",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Souri_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Natural experiment",
+    "Return to schooling",
+    "Specification",
+    "Instrument relevancy",
+    "Instrumental variable method",
+    "Weak instruments"
+  ],
+  "title": "Theoretical and Applied Essays on the Instrumental Variable Method",
+  "type": "Dissertation"
+}

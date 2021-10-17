@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Tam, Mary Christina",
+  "contributor_committeechair": "Crawford, Daniel T.",
+  "contributor_committeemember": [
+    "Tanko, James M.",
+    "Morris, John R.",
+    "Tissue, Brian M.",
+    "Yee, Gordon T."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:10:38Z",
+  "date_adate": "2006-05-02",
+  "date_available": "2014-03-14T20:10:38Z",
+  "date_issued": "2006-04-18",
+  "date_rdate": "2006-05-02",
+  "date_sdate": "2006-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Coupled cluster (CC) and density functional theory (DFT) are highly regarded as robust quantum chemical methods for accurately predicting a wide variety of properties, such as molecular structures, thermochemical data, vibrational spectra, etc., but there has been little focus on the theoretical prediction of optical rotation.  This property, also referred to as circular birefringence, is inherent to all chiral molecules and occurs because such samples exhibit different refractive indices for left- and right- circularly polarized light.  This thesis focuses on the theoretical prediction of this chiroptic property using CC and DFT quantum chemical models.  Several  small chiral systems have been studied, including (S)-methyloxirane, (R)-epichlorohydrin, (R)-methylthiirane, and the conformationally flexible molecules, (R)-3-chloro-1-butene and (R)-2-chlorobutane.  All predicted results have been compared to recently published gas-phase cavity ringdown polarimetry data. When applicable, well-converged Gibbs free energy differences among confomers were determined using complete-basis-set extrapolations of CC energies in order to obtain Boltzmann-averaged specific rotations. The overall results indicate that the theoretical rotation is highly dependent on the choice of optimized  geometry and basis set (diffuse functions are shown to be extremely important), and that there is a large difference between the CC and DFT predicted values, with DFT usually predicting magnitudes that are larger than those of coupled cluster theory.",
+  "description_provenance": [
+    "Author Email: mtam@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Advisor Email: jrmorris@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Advisor Email: tissue@vt.edu",
+    "Advisor Email: gyee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:38Z (GMT). No. of bitstreams: 1 TAM_thesis.pdf: 864081 bytes, checksum: 4bd7435f9dc0600fb4c868bc78442fa4 (MD5)   Previous issue date: 2006-04-18"
+  ],
+  "handle": "27214",
+  "identifier_other": "etd-04242006-152120",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242006-152120/",
+  "identifier_uri": "http://hdl.handle.net/10919/27214",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "TAM_thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "coupled cluster theory",
+    "density functional theory",
+    "optical rotation"
+  ],
+  "title": "Ab initio Calculations of Optical Rotation",
+  "type": "Dissertation"
+}

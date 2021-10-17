@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Stewart, Eric C",
+  "contributor_committeechair": [
+    "Patil, Mayuresh J",
+    "Canfield, Robert Arthur"
+  ],
+  "contributor_committeemember": [
+    "Snyder, Richard Dean",
+    "Kapania, Rakesh K"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-01-12T09:00:13Z",
+  "date_available": "2014-01-12T09:00:13Z",
+  "date_issued": "2014-01-11",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation presents shape and structural optimization studies on flapping wings for micro air vehicles. The design space of the optimization includes the wing planform and the structural properties that are relevant to the wing model being analyzed. The planform design is parameterized using a novel technique called modified Zimmerman, which extends the concept of Zimmerman planforms to include four ellipses rather than two. Three wing types are considered: rigid, plate-like deformable, and membrane. The rigid wing requires no structural design variables. The structural design variables for the plate-like wing are the thickness distribution polynomial coefficients. The structural variables for the membrane wing control the in-plane distributed forces which modulate the structural deformation of the wing.  The rigid wing optimization is performed using the modified Zimmerman method to describe the wing. A quasi-steady aerodynamics model is used to calculate the thrust and input power required during the flapping cycle. An assumed inflow model is derived based on lifting-line theory and is used to better approximate the effects of the induced drag on the wing. A multi-objective optimization approach is used since more than one aspect is considered in flapping wing design. The the epsilon-constraint approach is used to calculate the Pareto optimal solutions that maximize the cycle-average thrust while minimizing the peak input power and the wing mass.   An aeroelastic model is derived to calculate the aerodynamic performance and the structural response of the deformable wings. A linearized unsteady vortex lattice method is tightly coupled to a linear finite element model. The model is cost effective and the steady-state solution is solved by inverting a matrix. The aeroelastic model is used to maximize the thrust produced over one flapping cycle while minimizing the input power.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-12T09:00:13Z (GMT). No. of bitstreams: 1 Stewart_EC_D_2014.pdf: 4345309 bytes, checksum: 1e56efe1b06c238a0b220e1830046d5c (MD5)   Previous issue date: 2014-01-11",
+  "format_medium": "ETD",
+  "handle": "24808",
+  "identifier_other": "vt_gsexam:1991",
+  "identifier_uri": "http://hdl.handle.net/10919/24808",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Flapping Wing",
+    "Micro Air Vehicle (MAV)",
+    "Multi-objective Optimization",
+    "Unsteady Vortex Lattice Method (UVLM)",
+    "Finite Element Analysis (FEA)",
+    "Aeroelastic Optimization"
+  ],
+  "title": "Shape and Structural Optimization of Flapping Wings",
+  "type": "Dissertation"
+}

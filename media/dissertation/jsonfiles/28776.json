@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Andrews, Christopher Power",
+  "contributor_committeechair": "North, Christopher L.",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Bowman, Douglas A.",
+    "Quek, Francis K. H.",
+    "Stasko, John T."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:37Z",
+  "date_adate": "2011-09-14",
+  "date_available": "2014-03-14T20:15:37Z",
+  "date_issued": "2011-08-09",
+  "date_rdate": "2011-09-14",
+  "date_sdate": "2011-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Display technology has developed significantly over the last decade, and it is becoming increasingly feasible to construct large, high-resolution displays. Prior work has shown a number of key performance advantages for these displays that can largely be attributed to the replacement of virtual navigation (e.g., panning and zooming) with physical navigation (e.g., moving, turning, glancing). This research moves beyond the question of performance or efficiency and examines ways in which the large, high-resolution display can support the cognitive demanding task of sensemaking. The core contribution of this work is to show that the physical properties of large, high- resolution displays create a fundamentally different environment from conventional displays, one that is inherently spatial, resulting in support for a greater range of embodied resources. To support this, we describe a series of studies that examined the process of sensemaking on one of these displays. These studies illustrate how the display becomes a cognitive partner of the the analyst, encouraging the use of the space for the externalization of the analystâ  s thought process or findings. We particularly highlight how the flexibility of the space sup- ports the use of incremental formalism, a process of gradually structuring information as understanding grows. Building on these observations, we have developed a new sensemaking environment called Analystâ  s Workspace (AW), which makes use of a large, high-resolution display as a core component of its design. The primary goal of AW is to provide an environment that unifies the activities of foraging and synthesis into a single investigative thread. AW addresses this goal through the use of an integrated spatial environment in which full text documents serve as primary sources of information, investigative tools for pursuing leads, and sensemaking artifacts that can be arranged in the space to encode information about relationships between events and entities. This work also provides a collection of design principles that fell out of the development of AW, and that we hope can guide future development of analytic tools on large, high-resolution displays.",
+  "description_provenance": [
+    "Author Email: cpa@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: dbowman@vt.edu",
+    "Advisor Email: quek@vt.edu",
+    "Advisor Email: john.stasko@cc.gatech.edu",
+    "Advisor Email: north@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:37Z (GMT). No. of bitstreams: 1 Andrews_CP_D_2011.pdf: 72689157 bytes, checksum: 11d7673c2dd98c05e3d0ea3eac448ac8 (MD5)   Previous issue date: 2011-08-09"
+  ],
+  "handle": "28776",
+  "identifier_other": "etd-08232011-160350",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232011-160350/",
+  "identifier_uri": "http://hdl.handle.net/10919/28776",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Andrews_CP_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "physical navigation",
+    "space",
+    "sensemaking",
+    "embodiment",
+    "large displays"
+  ],
+  "title": "Space to Think: Sensemaking and Large, High-Resolution Displays",
+  "type": "Dissertation"
+}

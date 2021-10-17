@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Remillieux, Marcel C",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Johnson, Martin E.",
+    "Fuller, Christopher R.",
+    "Ravetta, Patricio A.",
+    "Reichard, Georg"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:35Z",
+  "date_adate": "2010-05-06",
+  "date_available": "2014-03-14T20:11:35Z",
+  "date_issued": "2010-05-03",
+  "date_rdate": "2010-05-06",
+  "date_sdate": "2010-05-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recent progresses by the aircraft industry in the development of a quieter supersonic transport have opened the possibility of overland supersonic flights, which are currently banned by aviation authorities in most countries. For the ban to be lifted, the sonic booms the aircraft generate at supersonic speed must be acceptable from a human-perception point of view, in particular inside buildings. The problem of the transmission of sonic booms inside buildings can be divided in several aspects such as the external pressure loading, structure vibration, and interior acoustic response. Past investigations on this problem have tackled all these aspects but were limited to simple structures and often did not account for the coupled fluid-structure interaction. A more comprehensive work that includes all the effects of sonic booms to ultimately predict the noise exposure inside realistic building structures, e.g. residential houses, has never been reported. Thus far, these effects could only be investigated experimentally, e.g. flight tests.  In this research, a numerical model and a computer code are developed within the above context to predict the vibro-acoustic response of simplified building structures exposed to sonic booms, at low frequency. The model is applicable to structures with multiple rectangular cavities, isolated or interconnected with openings. The response of the fluid-structure system, including their fully coupled interaction, is computed in the time domain using a modal-decomposition approach for both the structural and acoustic systems. In the dynamic equations, the structural displacement is expressed in terms of summations over the â  in vacuoâ   normal modes of vibration. The interior pressure is expressed in terms of summations over the acoustic modes of the rooms with perfectly reflecting surfaces (hard walls). This approach is simple to implement and computationally efficient at low frequency, when the modal density is relatively low.  The numerical model is designed specifically for this application and includes several novel formulations. Firstly, a new shell finite-element is derived to model the structural components typically used in building construction that have orthotropic characteristics such as plaster-wood walls, floors, and siding panels. The constitutive matrix for these types of components is formulated using simple analytical expressions based on the orthotropic constants of an equivalent orthotropic plate. This approach is computationally efficient since there is no need to model all the individual subcomponents of the assembly (studs, sheathing, etc.) and their interconnections. Secondly, a dedicated finite-element module is developed that implements the new shell element for orthotropic components as well as a conventional shell element for isotropic components, e.g. window panels and doors. The finite element module computes the â  in vacuoâ   structural modes of vibration. The modes and external pressure distribution are then used to compute modal loads. This dedicated finite-element module has the main advantage of overcoming the need, and subsequent complications, for using a large commercial finite-element program. Lastly, a novel formulation is developed for the fully coupled fluid-structure model to handle room openings and compute the acoustic response of interconnected rooms. The formulation is based on the Helmholtz resonator approach and is applicable to the very low frequency-range, when the acoustic wavelength is much larger than the opening dimensions.  Experimental validation of the numerical model and computer code is presented for three test cases of increasing complexity. The first test structure consists of a single plaster-wood wall backed by a rigid rectangular enclosure. The structure is excited by sonic booms generated with a speaker. The second test structure is a single room made of plaster-wood walls with two double-panel windows and a door. The third test structure consists of the first room to which a second room with a large window assembly was added. Several door configurations of the structure are tested to validate the formulation for room openings. This latter case is the most realistic one as it involves the interaction of several structural components with several interior cavities. For the last two test cases, sonic booms with realistic durations and amplitudes were generated using an explosive technique. Numerical predictions are compared to the experimental data for the three test cases and show a good overall agreement.  Finally, results from a parametric study are presented for the case of the single wall backed by a rigid enclosure. The effects of sonic-boom shape, e.g. rise time and duration, and effects of the structure geometry on the fluid-structure response to sonic booms are investigated.",
+  "description_provenance": [
+    "Author Email: mremilli@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: cfuller@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: pravetta@vt.edu",
+    "Advisor Email: reichard@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:35Z (GMT). No. of bitstreams: 2 Remillieux_MC_D_2010_Copyright.pdf: 128116 bytes, checksum: 0189e53f543e7b0f9ea3c9b19f4ec2be (MD5) Remillieux_MC_D_2010.pdf: 4231125 bytes, checksum: b827868b93bad1d676ec653e0487841e (MD5)   Previous issue date: 2010-05-03"
+  ],
+  "handle": "27543",
+  "identifier_other": "etd-05042010-234842",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05042010-234842/",
+  "identifier_uri": "http://hdl.handle.net/10919/27543",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Remillieux_MC_D_2010_Copyright.pdf",
+    "Remillieux_MC_D_2010.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "sonic boom",
+    "residential building",
+    "fluid-structure interaction",
+    "vibration response",
+    "finite-element method",
+    "modal decomposition",
+    "interior acoustic response"
+  ],
+  "title": "Development of a Model for Predicting the Transmission of Sonic Booms into Buildings at Low Frequency",
+  "type": "Dissertation"
+}

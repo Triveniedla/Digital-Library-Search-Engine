@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Bai, Feiming",
+  "contributor_committeechair": "Viehland, Dwight D.",
+  "contributor_committeemember": [
+    "Hendricks, Robert W.",
+    "Clark, David E.",
+    "Li, Jie-Fang",
+    "Reynolds, William T. Jr."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:13:11Z",
+  "date_adate": "2006-08-25",
+  "date_available": "2014-03-14T20:13:11Z",
+  "date_issued": "2006-04-28",
+  "date_rdate": "2006-08-25",
+  "date_sdate": "2006-06-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The integration of sensors, actuators, and control systems is an ongoing process in a wide range of applications covering automotive, medical, military, and consumer electronic markets. Four major families of ceramic and metallic actuators are under development: piezoelectrics, electrostrictors, magnetostrictors, and shape-memory alloys. All of these materials undergo at least two phase transformations with coupled thermodynamic order parameters. These transformations lead to complex domain wall behaviors, which are driven by electric fields (ferroelectrics), magnetic fields (ferromagnetics), or mechanical stress (ferroelastics) as they transform from nonferroic to ferroic states, contributing to the sensing and actuating capabilities.  This research focuses on two multiferroic crystals, Pb(Mg1/3Nb2/3)O3-PbTiO3 and Fe-Ga, which are characterized by the co-existence and coupling of ferroelectric polarization and ferroelastic strain, or ferro-magnetization and ferroelastic strain. These materials break the conventional boundary between piezoelectric and electrostrictors, or magnetostrictors and shape-memory alloys. Upon applying field or in a poled condition, they yield not only a large strain but also a large strain over field ratio, which is desired and much benefits for advanced actuator and sensor applications. In this thesis, particular attention has been given to understand the structure-property relationships of these two types of materials from atomic to the nano/macro scale. X-ray and neutron diffraction were used to obtain the lattice structure and phase transformation characteristics. Piezoresponse and magnetic force microscopy were performed to establish the dependence of domain configurations on composition, thermal history and applied fields.   It has been found that polar nano regions (PNRs) make significant contributions to the enhanced electromechanical properties of PMN-x%PT crystals via assisting intermediate phase transformation. With increasing PT concentration, an evolution of PNRï  PND (polar nano domains)-> micron-domains-> macro-domains was found. In addition, a domain hierarchy was observed for the compositions near a morphotropic phase boundary (MPB) on various length scales ranging from nanometer to millimeter. The existence of a domain hierarchy down to the nm scale fulfills the requirement of low domain wall energy, which is necessary for polarization rotation. Thus, upon applying an E-field along <001> direction(s) in a composition near the MPB, low symmetry phase transitions (monoclinic or orthorhombic) can easily be induced. For PMN-30%PT, a complete E-T (electric field vs temperature) diagram has been established.  As for Fe-x at.% Ga alloys, short-range Ga-pairs serve as both magnetic and magnetoelastic defects, coupling magnetic domains with bulk elastic strain, and contributing to enhanced magnetostriction. Such short-range ordering was evidenced by a clear 2theta peak broadening on neutron scattering profiles near A2-DO3 phase boundary. In addition, a strong degree of preferred [100] orientation was found in the magnetic domains of Fe-12 at.%Ga and Fe-20 at.%Ga alloys with the A2 or A2+DO3 structures, which clearly indicates a deviation from cubic symmetry; however, no domain alignment was found in Fe-25 at.%Ga with the DO3 structure. Furthermore, an increasing degree of domain fluctuations was found during magnetization rotation, which may be related to short-range Ga-pairs cluster with a large local anisotropy constant, due to a lower-symmetry structure.",
+  "description_provenance": [
+    "Author Email: fbai@vt.edu",
+    "Advisor Email: robert.hendricks@vt.edu",
+    "Advisor Email: dclark@vt.edu",
+    "Advisor Email: jiefang@mse.vt.edu",
+    "Advisor Email: viehland@mse.vt.edu",
+    "Advisor Email: reynolds@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:11Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 4608030 bytes, checksum: 05750bd9f9382d18300ef20a95304691 (MD5)   Previous issue date: 2006-04-28"
+  ],
+  "handle": "28055",
+  "identifier_other": "etd-06162006-144640",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06162006-144640/",
+  "identifier_uri": "http://hdl.handle.net/10919/28055",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "domain-engineering",
+    "multiferroic",
+    "piezoresponse force microscopy",
+    "functional materials",
+    "magnetic force microcopy",
+    "magnetostriciton",
+    "ferroelectricity"
+  ],
+  "title": "Structure-Property Relationships of Multifeorric Materials: A Nano Perspective",
+  "type": "Dissertation"
+}

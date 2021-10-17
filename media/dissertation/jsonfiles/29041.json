@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Conrad, Katarina Terzic",
+  "contributor_committeechair": "Rogers, Robert C.",
+  "contributor_committeemember": [
+    "Sun, Shu-Ming",
+    "Day, Martin V.",
+    "Haskell, Peter E."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:16:30Z",
+  "date_adate": "2011-10-13",
+  "date_available": "2014-03-14T20:16:30Z",
+  "date_issued": "2011-09-09",
+  "date_rdate": "2011-10-13",
+  "date_sdate": "2011-09-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this thesis we analyze the buckling behavior of an infinitely long, thin, uniform, inextensible, elastic plate that has a steady current flowing along its length. We are concerned with the derivation of the nonlinear equations of motion using nonlinear continuum mechanics, and subsequent analysis of the buckling behavior of the plate under electromagnetic self-forces. In particular, we concentrate on how the body-forces that result from the applied current determine the buckled configurations. We derive both analytical and numerical results, and in the process develop a novel boundary value problem solver for integro-differential equations in addition to a predictor-corrector algorithm to continue solutions with respect to the control parameters. We take a relatively complex problem in magneto-solid mechanics and elasticity theory and form a realistic model that sheds light on the bifurcation and buckling behavior resulting from the electromagnetic-field- induced self-forces that are derived in their full, exact form using Biot-Savart Law.",
+  "description_provenance": [
+    "Author Email: katarina.conrad@gmail.com",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: daymv@math.vt.edu",
+    "Advisor Email: phaskell@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:30Z (GMT). No. of bitstreams: 1 Conrad_KT_D_2011.pdf: 1431364 bytes, checksum: bdc63eaf6286ea4ae7208c4b8c40c518 (MD5)   Previous issue date: 2011-09-09"
+  ],
+  "handle": "29041",
+  "identifier_other": "etd-09202011-234436",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09202011-234436/",
+  "identifier_uri": "http://hdl.handle.net/10919/29041",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Conrad_KT_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "self-forces",
+    "bifurcation",
+    "beam buckling",
+    "nonlinear continuum mechanics"
+  ],
+  "title": "Analysis of the Buckling States of an Infinite Plate Conducting Current",
+  "type": "Dissertation"
+}

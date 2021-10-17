@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Ball, Arthur",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Lu, Guo-Quan",
+    "Liu, Yilu",
+    "Xu, Ming"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:53Z",
+  "date_adate": "2009-05-11",
+  "date_available": "2014-03-14T20:09:53Z",
+  "date_issued": "2009-11-18",
+  "date_rdate": "2009-05-11",
+  "date_sdate": "2009-04-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "DC/DC Power converter design has been following a trend of reducing size while also increasing performance for the last several years.  This push for higher power output and smaller footprint and profile requires integration and higher switching frequencies in order to continue.  Higher frequencies require physical integration to eliminate problems induced by parasitics, which increase losses.    GEâ  s Power Overlay and Philipâ  s PCB integration schemes have been clear steps in the quest to reduce size with new system design techniques.  However, both have downsides.  GE  Power Overlay embeds the devices inside a milled AlN ceramic cavity and then layers interconnections on top using polyimide dielectric interlayers.  The milling of AlN ceramic is a very costly and time consuming task due to the brittleness of the material, and the interlayers add additional complexity to the fabrication process.  Philipâ  s PCB integration was primarily aimed at integrating passives along with the PCB process for reduction of size.  Inductor windings and capacitive layers were built up along with FR4 epoxy layers using typical PCB fabrication methods.  However, unlike GEâ  s Power Overlay, the substrate material was several times lower in thermal conductivity which invariably has corresponding thermal penalties.  The work presented here reconciles the good of both integration techniques.  Initially called Embedded Power, alumina ceramic was used as the substrate and rather than milling holes for the devices, holes were laser cut all the way through and interconnections were made by using interlayers and sputtered copper deposition, similar to GEâ  s method.  Integration of passives was done using LTCC ferrite to make an inductor of thin profile, rather than embedding cores and windings inside PCB.  However, fabrication remained time consuming due to numerous solder masking and sputtering steps and thermal performance was not optimized due to the use of alumina ceramic.  A revised design method called Stacked Power is presented in this dissertation that follows on the work of Embedded Power, but improves on it by simplifying fabrication through the elimination of thermally-restrictive interlayers, as well as time consuming sputtering and electroplating of copper interconnections.  Instead, AlN Direct Bonded Copper is used as a multifunctional material thanks to its many-times-greater thermal conductivity than PCB or alumina, solderable device dies are implemented in a vertical fashion, and interconnections are simply made using copper straps soldered into place.  For applications where moisture contamination and breakdown isolation are potential problems, dip conformal coating can easily be applied, replacing laborious solder masking.    The work in this dissertation describes the fabrication methodology for Stacked Power, demonstrates the thermal advantages, and shows examples of high-frequency buck converters that achieve super-high levels of power density in the smallest of volumes and require no more thermal management than modest airflow.   The added cost incurred with aluminum nitride is traded for distinct advantages in terms of low-profile, low airflow requirements for the power output, capability of natural convection for use in locations where fans are prohibitive and compact size for ease of implementation.",
+  "description_provenance": [
+    "Author Email: aball@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: mixu3@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:53Z (GMT). No. of bitstreams: 1 ArthurETDrev2.pdf: 10474690 bytes, checksum: 8cfc47bb181013826530e0ce195a1796 (MD5)   Previous issue date: 2009-11-18"
+  ],
+  "handle": "26947",
+  "identifier_other": "etd-04172009-174047",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04172009-174047/",
+  "identifier_uri": "http://hdl.handle.net/10919/26947",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ArthurETDrev2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "integration",
+    "converter",
+    "thermal",
+    "POL",
+    "high power density",
+    "DC/DC"
+  ],
+  "title": "Thermal and Electrical Considerations for the Design of Highly-Integrated Point-of-Load Converters",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Chen, Rengang",
+  "contributor_committeechair": "van Wyk, Jacobus Daniel",
+  "contributor_committeemember": [
+    "Wang, Fei Fred",
+    "Lee, Fred C.",
+    "Boroyevich, Dushan",
+    "Lu, Guo-Quan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:43Z",
+  "date_adate": "2005-01-18",
+  "date_available": "2014-03-14T20:06:43Z",
+  "date_issued": "2004-11-23",
+  "date_rdate": "2005-01-18",
+  "date_sdate": "2005-01-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Because of the switching action, power electronics converters are potentially large EMI noise sources to nearby equipment. EMI filters are necessary to ensure electromagnetic compatibility. Conventional discrete EMI filters usually consist of a large number of components, with different shapes, sizes and form factors. The manufacturing of these components requires different processing and packaging technologies, of which many include labor-intensive processing steps. In addition, due to the parasitics of discrete components, high-frequency attenuation of the filter is reduced and the effective filter frequency range is limited. As a result, discrete EMI filters are usually bulky, high profile, and have poor high-frequency performance. With an aim to solving these issues, this study explores the integration of EMI filters. The goal is to achieve a smaller size, lower profile, better performance and reduced fabrication time and cost via structural, functional and processing integration. The key technology for EMI filter integration is planar electromagnetic integration, which has been a topic of research over the last few years. Most of the previous applications of this technology for switch mode power supplies (SMPSs) were focused on the integration of high frequency power passive electromagnetic components, such as HF transformers, resonant/choke inductors and resonant/blocking capacitors. Almost no work has been done on the subject of EMI filter integration. Since the major function of EMI filters is to attenuate, instead of propagate, energy at the switching frequency and its harmonics, the required technology and design objectives are very different from those of other components. High-frequency modeling of the integrated structure becomes more essential since the high-frequency performance becomes the major concern. New technology and a new model need to be developed for EMI filter integration. To bridge this gap between existing technologies and what is necessary for EMI filter integration, this dissertation addresses technologies and modeling of integrated EMI filters. Suitable integration technologies are developed, which include reducing the equivalent series inductance (ESL) and equivalent parallel capacitance (EPC), and increasing, instead of reducing, the high frequency losses. Using the multi-conductor lossy transmission-line theory, a new frequency domain model of integrated LC structure is developed and verified by experimental results. Through detailed electromagnetic analysis, the equations to calculate the required model parameters are derived. With the developed frequency domain and electromagnetic model, the characteristic of integrated LC modules can be predicted using geometry and material data. With the knowledge obtained from preliminary experimental study of two integrated EMI filter prototypes, a technology is developed to cancel structural winding capacitance of filter inductors. This can be realized by simply embedding a thin conductive shield layer between the inductor windings. With the resultant equivalent circuit and structural winding capacitance model, optimal design of the shield layer is achieved so that EPC can be almost completely cancelled. Applying this technology, an improved integrated EMI filter with a much simpler structure, a much smaller size and profile, and much better HF performance is designed, constructed and verified by experiment. The completed parametric and sensitivity study shows that this is potentially a very suitable technology for mass production. The integrated RF EMI filter is studied, as well. Its frequency domain model is developed based on multi-conductor lossy transmission-line theory. With the model parameters extracted from the finite element analysis (FEA) tool and the characterized material properties, the predicted filter characteristic complies very well with that of the actual measurement. This model and modeling methodology are successfully extended to study the RF CM&DM EMI filter structure, which has not been done before. To model more complicated structures, and to study the interaction between the RF EMI filter and its peripheral circuitry, a PSpice model with frequency dependent parameters is given. Combining the structural winding capacitance cancellation and the integrated RF CM&DM EMI filter technologies, a new integrated EMI filter structure is proposed. The calculation results show that it has the merits of the two employed technologies, hence it will have the best overall performance.",
+  "description_provenance": [
+    "Author Email: rchen@vt.edu",
+    "Advisor Email: wangfred@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:43Z (GMT). No. of bitstreams: 1 ETD_RChen.pdf: 8416853 bytes, checksum: 27483f011ba785cb01b586eb331ccae6 (MD5)   Previous issue date: 2004-11-23"
+  ],
+  "handle": "25992",
+  "identifier_other": "etd-01132005-182131",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01132005-182131/",
+  "identifier_uri": "http://hdl.handle.net/10919/25992",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_RChen.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Electromagnetics",
+    "Power Passive Integration",
+    "Integrated EMI filter",
+    "Power Electronics",
+    "Transmission-line"
+  ],
+  "title": "Integrated EMI Filters for Switch Mode Power Supplies",
+  "type": "Dissertation"
+}

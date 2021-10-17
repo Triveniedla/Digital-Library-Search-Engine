@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Reusch, David Clayton",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Lu, Guo-Quan",
+    "De La Ree Lopez, Jaime",
+    "Ngo, Khai D. T.",
+    "Patil, Mayuresh J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:48Z",
+  "date_adate": "2012-04-26",
+  "date_available": "2014-03-14T20:09:48Z",
+  "date_issued": "2012-04-16",
+  "date_rdate": "2012-04-26",
+  "date_sdate": "2012-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The increased power consumption and power density demands of modern technologies combined with the focus on global energy savings have increased the demands on DC/DC power supplies. DC/DC converters are ubiquitous in everyday life, found in products ranging from small handheld electronics requiring a few watts to warehouse sized server farms demanding over 50 megawatts. To improve efficiency and power density while reducing complexity and cost the modular building block approach is gaining popularity. These modular building blocks replace individually designed specialty power supplies, providing instead an optimized complete solution. To meet the demands for lower loss and higher power density, higher efficiency and higher frequency must be targeted in future designs. The objective of this dissertation is to explore and propose methods to improve the power density and performance of point of load modules ranging from 10 to 600W.",
+  "description_provenance": [
+    "Author Email: dreusch@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: KDTN@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:48Z (GMT). No. of bitstreams: 1 Reusch_4_15_12_Final.pdf: 8423257 bytes, checksum: 64709bec87e378406fb031cb1823d9af (MD5)   Previous issue date: 2012-04-16"
+  ],
+  "handle": "26920",
+  "identifier_other": "etd-04162012-151740",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162012-151740/",
+  "identifier_uri": "http://hdl.handle.net/10919/26920",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Reusch_4_15_12_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bus converter",
+    "gallium nitride",
+    "magnetic integration",
+    "point-of-load converter",
+    "high frequency",
+    "High power density"
+  ],
+  "title": "High Frequency, High Power Density Integrated Point of Load and Bus Converters",
+  "type": "Dissertation"
+}

@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Davis, Bradley",
+  "contributor_committeechair": "Brown, Gary S.",
+  "contributor_committeemember": [
+    "Besieris, Ioannis M.",
+    "de Wolf, David A.",
+    "Kohler, Werner E.",
+    "Stutzman, Warren L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:32Z",
+  "date_adate": "2000-07-07",
+  "date_available": "2014-03-14T20:13:32Z",
+  "date_issued": "2000-06-13",
+  "date_rdate": "2001-07-07",
+  "date_sdate": "2000-06-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The intent of this dissertation is to obtain estimates of the effects of natural terrain features on the propagation and scattering of waves. It begins with the rough knife obstruction case, moves into rough surfaces and finally concludes with several approaches to a foliage covered rough surface. Each of these problems is encountered in radar, remote sensing and communication systems.   <p>    The first topic in this dissertation is the study of the effect of random edge roughness on the diffraction of a wave. This has been accomplished by approximating the field beyond the diffracting half-plane through the use of spectral techniques and the Kirchhoff approximation. The relationships developed for the mean or average diffracted field and the incoherent diffracted power are studied for a range of electrophysical parameters that are representative of the situation encountered in a point-to-point communications link with blockage by a rough edged half plane. The interpretation of the results is facilitated by the observation that the total diffracted field is a superposition of the incident field and the edge-diffracted field. When the roughness on the edge increases, the edge diffracted-field becomes more incoherent and the phase interference consequently diminishes, leading to an attenuation of the oscillations in the coherent or mean total field. The model also addresses the effects of the knife edge in directions off the line-of-sight path as well as its effects on pulse propagation.   <p>     Next, rough surface scattering effects are addressed. Extending the idea of the knife edge diffraction, this dissertation builds on the topic of a wedge on a plane by adapting the Method of Multiple Ordered Interactions (MOMI) to the dielectric surface. In this development, the coupled integral equations governing the scattering by a dielectric surface are combined into a single equation wherein the lossy dielectric enters the solution as a perturbation of the result for a perfectly conducting surface. Hence, the solution is not only exact, but as the loss increases, the convergence is rapid. Next, the Kirchhoff approximation is expanded to a two-frequency form for use with the later chapters which deal with pulse scattering by rough surfaces. Example waveform calculations are given.  <p>      Propagation and scattering by a volume of scatterers over a surface is then examined. Starting from the radiative transfer equations, a model is developed herein for scattering from vegetated rough terrain. It assumes completely incoherent scattering and includes contributions from both the vegetation and the surface scattering along with a relatively simple accounting for their interaction. The model is developed into a form that easily separates the three primary components of the scattering problem - the radar system, the geometry, and the environment, and then recombines them through a multiple convolution.   <p>     Extending the basic model to volumes for which multiple scattering is important is accomplished through the use of effective parameters. These effective parameters are obtained by comparing the model with pulsed radar data at normal incidence, i.e., looking directly down through the foliage and onto the ground. Hence, our overall model is a hybrid approach wherein the basic physics are retained in the simple solution. It is then extended to a more complicated environment through the use of these effective parameters. Example waveform calculations are given.  <p>    The simple model assumes that multiple interactions are insignificant and that only narrow-band signals and narrow-beamwidth antenna patterns are used. Consequently, a more general radiative transfer approach is applied to the propagation of a beam through the random medium. This effort is a test of the narrow beamwidth and  forward-backward scattering approximations implicit in the convolutional model. Next, the same convolutional model is developed using wave theory in order to clarify the assumptions and lend some physical meaning to the free parameters of the convolutional model. First the single scatter theory, with strictly forward and backward scattering is shown to be equivalent to the convolutional approach derived with radiative transfer theory. Next, multiple scattering in a discrete random medium is investigated in the \"extended\" Twersky approximation [Tsolakis, 1985]. This development leads to the mean Green's function for the medium, a form of the Distorted Wave Born Approximation and to a two-frequency radiative transfer equation. This transfer equation is then shown to simplify under the forward-backward assumption, eventually leading to a form which is compatible with the convolutional result.  <p> Finally, the effects of multiple scattering between the volume and its boundary, the rough surface, have been investigated. Using a numerical implementation (MOMI) of a scatterer over a rough surface, the orders of significant multiple interactions between the rough surface and the volume scattering components have been simulated. It is demonstrated that foliage components well above the rough surface may be treated as non-interacting; this includes components other than the trunks, which were not simulated. However, it is evident that multiple scattering effects may be significant for large objects near the rough surface.   <p>    This work has been supported by grants from the Bradley Department of Electrical and Computer Engineering, National Science Foundation, and the Virginia Space Grant Consortium. Additional support has been provided by the U.S. Air Force at Hansom Airforce Base under grant F19628-96-C-0071, and U.S. Army Research Office under grant DAAG55-97-1-0164.",
+  "description_provenance": [
+    "Author Email: brdavispe@ieee.org",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: dadewolf@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:32Z (GMT). No. of bitstreams: 1 VTetd.pdf: 1847307 bytes, checksum: 87917522e4cde79f25dbad91fa698773 (MD5)   Previous issue date: 2000-06-13"
+  ],
+  "handle": "28137",
+  "identifier_other": "etd-06272000-12330015",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06272000-12330015/",
+  "identifier_uri": "http://hdl.handle.net/10919/28137",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "VTetd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "propagation",
+    "scattering"
+  ],
+  "title": "Propagation and Scattering of Waves by Terrain Features",
+  "type": "Dissertation"
+}

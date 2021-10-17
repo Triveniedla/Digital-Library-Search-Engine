@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zhao, Qun",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Huang, Alex Q.",
+    "Boroyevich, Dushan",
+    "Chen, Dan Y."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:34Z",
+  "date_adate": "2003-03-27",
+  "date_available": "2014-03-14T20:07:34Z",
+  "date_issued": "2003-02-03",
+  "date_rdate": "2004-03-27",
+  "date_sdate": "2003-02-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents the derivation, analysis and application issues of advanced topologies with coupled inductors. The proposed innovative solutions can achieve significant performance improvement compared to the state-of-the-art technology. New applications call for high-efficiency high step-up DC-DC converters. The basic topologies suffer from extreme duty ratios and severe rectifier reverse recovery. Utilizing coupled inductor is a simple solution to avoid extreme duty ratios, but the leakage inductance associated with the coupled inductor induces severe voltage stress and loss. An innovative solution is proposed featuring with efficient leakage energy recovery and alleviated rectifier reverse recovery. Impressive efficiency improvement is achieved with a simple topology structure. The coupled inductor switching cell is identified. Topology variations and evaluations are also addressed. The concept that utilizes coupled inductors to alleviate rectifier reverse recovery is then extended, and new topologies suitable for other applications are generated. The proposed concept is demonstrated to solve the severe rectifier reverse recovery that occurs in continuous current mode (CCM) boost converters. Significant profile reduction and power density improvement can be achieved in front-end CCM power factor correction (PFC) boost converters, which are the overwhelmingly choice for use in telecommunications and server applications.  This dissertation also proposes topologies to realize the single-stage parallel PFC by utilizing coupled inductors. Compared to the state-of-the-art single-stage PFC converters, the proposed topologies introduce a new power flow pattern that minimizes the bulk-capacitor voltage stress and the switch current stress.",
+  "description_provenance": [
+    "Author Email: quzhao@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: dusan@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:34Z (GMT). No. of bitstreams: 1 ETD_QunZhao_Mar23_2003.pdf: 4894239 bytes, checksum: 6a8fdca83667a3acee3f5e45c19af48e (MD5)   Previous issue date: 2003-02-03"
+  ],
+  "handle": "26224",
+  "identifier_other": "etd-02172003-211948",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02172003-211948/",
+  "identifier_uri": "http://hdl.handle.net/10919/26224",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_QunZhao_Mar23_2003.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "coupled inductors",
+    "reverse recovery",
+    "DC-DC",
+    "power factor correction",
+    "high step-up"
+  ],
+  "title": "Performance Improvement of Power Conversion by Utilizing Coupled Inductors",
+  "type": "Dissertation"
+}

@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Evans, Katie Allison",
+  "contributor_committeechair": "King, Belinda B.",
+  "contributor_committeemember": [
+    "Herdman, Terry L.",
+    "Rogers, Robert C.",
+    "Borggaard, Jeffrey T.",
+    "Burns, John A.",
+    "Zietsman, Lizette"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2011-08-22T18:50:48Z",
+  "date_adate": "2003-12-02",
+  "date_available": "2011-08-22T18:50:48Z",
+  "date_issued": "2003-11-21",
+  "date_rdate": "2004-12-02",
+  "date_sdate": "2003-12-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Distributed parameter systems (DPS) are systems defined on infinite dimensional spaces. This includes problems governed by partial differential equations (PDEs) and delay differential equations. In order to numerically implement a controller for a physical system we often first approximate the PDE and the PDE controller using some finite dimensional scheme. However, control design at this level will typically give rise to controllers that are inherently large-scale. This presents a challenge since we are interested in the design of robust, real-time controllers for physical systems. Therefore, a reduction in the size of the model and/or controller must take place at some point. Traditional methods to obtain lower order controllers involve reducing the model from that for the PDE, and then applying a standard control design technique. One such model reduction technique is balanced truncation. However, it has been argued that this type of method may have an inherent weakness since there is a loss of physical information from the high order, PDE approximating model prior to control design. In an attempt to capture characteristics of the PDE controller before the reduction step, alternative techniques have been introduced that can be thought of as controller reduction methods as opposed to model reduction methods. One such technique is LQG balanced truncation. Only recently has theory for LQG balanced truncation been developed in the infinite dimensional setting. In this work, we numerically investigate the viability of LQG balanced truncation as a suitable means for designing low order, robust controllers for distributed parameter systems. We accomplish this by applying both balanced reduction techniques, coupled with LQG, MinMax and central control designs for the low order controllers, to the cable mass, Klein-Gordon, and Euler-Bernoulli beam PDE systems. All numerical results include a comparison of controller performance and robustness properties of the closed loop systems.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:50:48Z (GMT). No. of bitstreams: 1 etd.pdf: 27973882 bytes, checksum: b82082a4df0a23ea0f312cb3b39b05c6 (MD5)   Previous issue date: 2003-11-21",
+    "Author Email: evanska@engr.orst.edu",
+    "Advisor Email: herdman@math.vt.edu",
+    "Advisor Email: bbking@engr.orst.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: burns@math.vt.edu",
+    "Advisor Email: lzietsma@gmu.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11063",
+  "identifier_other": "etd-12012003-114553",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12012003-114553",
+  "identifier_uri": "http://hdl.handle.net/10919/11063",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Balanced Truncation",
+    "Central Control Design",
+    "Euler-Bernoulli beam",
+    "Klein-Gordon Equation",
+    "Cable Mass System",
+    "LQG Balancing"
+  ],
+  "title": "Reduced Order Controllers for Distributed Parameter Systems",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Akbar, Ihsan Ali",
+  "contributor_committeechair": "Tranter, William H.",
+  "contributor_committeemember": [
+    "Buehrer, Richard Michael",
+    "Beattie, Christopher A.",
+    "Baumann, William T.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:03Z",
+  "date_adate": "2007-03-06",
+  "date_available": "2014-03-14T20:07:03Z",
+  "date_issued": "2007-01-22",
+  "date_rdate": "2010-03-06",
+  "date_sdate": "2007-02-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Being one of the fastest growing fields of engineering, wireless has gained the attention of researchers and commercial businesses all over the world. Extensive research is underway to improve the performance of existing systems and to introduce cutting edge wireless technologies that can make high speed wireless communications possible.  The first part of this dissertation deals with discrete channel models that are used for simulating error traces produced by wireless channels. Most of the time, wireless channels have memory and we rely on discrete time Markov models to simulate them. The primary advantage of using these models is rapid experimentation and prototyping. Efficient estimation of the parameters of a Markov model (including its number of states) is important to reproducing and/or forecasting channel statistics accurately. Although the parameter estimation of Markov processes has been studied extensively, its order estimation problem has been addressed only recently. In this report, we investigate the existing order estimation techniques for Markov chains and hidden Markov models. Performance comparison with semi-hidden Markov models is also discussed. Error source modeling in slow and fast fading conditions is also considered in great detail. Cognitive Radio is an emerging technology in wireless communications that can improve the utilization of radio spectrum by incorporating some intelligence in its design. It can adapt with the environment and can change its particular transmission or reception  parameters to execute its tasks without interfering with the licensed users. One problem that CR network usually faces is the difficulty in detecting and classifying its low power signal that is present in the environment. Most of the time traditional energy detection techniques fail to detect these signals because of their low SNRs. In the second part of this thesis, we address this problem by using higher order statistics of incoming signals and classifying them by using the pattern recognition capabilities of HMMs combined with cased-based learning approach.  This dissertation also deals with dynamic spectrum allocation in cognitive radio using HMMs. CR networks that are capable of using frequency bands assigned to licensed users, apart from utilizing unlicensed bands such as UNII radio band or ISM band, are also called Licensed Band Cognitive Radios. In our novel work, the dynamic spectrum management or dynamic frequency allocation is performed by the help of HMM predictions. This work is based on the idea that if Markov models can accurately model spectrum usage patterns of different licensed users, then it should also correctly predict the spectrum holes and use these frequencies for its data transmission. Simulations have shown that HMMs prediction results are quite accurate and can help in avoiding CR interference with the primary licensed users and vice versa. At the same time, this helps in sending its data over these channels more reliably.",
+  "description_provenance": [
+    "Author Email: iakbar@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:03Z (GMT). No. of bitstreams: 1 IAA_Dissertation.pdf: 2368537 bytes, checksum: 24ce762f6dfdcc8efaf57b318103cfc6 (MD5)   Previous issue date: 2007-01-22"
+  ],
+  "handle": "26089",
+  "identifier_other": "etd-02012007-170212",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02012007-170212/",
+  "identifier_uri": "http://hdl.handle.net/10919/26089",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "IAA_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dynamic spectrum allocation",
+    "cyclostationarity",
+    "cognitive radio",
+    "error source modeling",
+    "semi-hidden Markov models",
+    "fading channels",
+    "Markov chains",
+    "hidden Markov models"
+  ],
+  "title": "Statistical Analysis of Wireless Systems Using Markov Models",
+  "type": "Dissertation"
+}

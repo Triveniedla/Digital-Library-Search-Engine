@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Jose, Bijoy  Antony",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Hsiao, Michael S.",
+    "Schaumont, Patrick Robert",
+    "Vullikanti, Anil Kumar S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:04Z",
+  "date_adate": "2011-08-31",
+  "date_available": "2014-03-14T20:15:04Z",
+  "date_issued": "2011-08-02",
+  "date_rdate": "2011-08-31",
+  "date_sdate": "2011-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Due to the ever increasing complexity of safety-critical applications, handwritten code is being replaced by automatically generated code derived from a high level specification. Code generation from high level specification requires a model of computation with an underlying formalism and correctness-preserving refinement steps to generate the lower level application code. Such software synthesis techniques are said to be â  correct-by-constructionâ  . Synchronous programming languages such as Esterel, LUSTRE, which are based on a synchronous model of computation are used for sequential code generation. They work on a synchrony assumption (zero time intraprocess computation and zero time inter process communication) at the specification level. Early versions of synchronous languages followed an execution pattern where an iteration of software was mapped to an interval between ticks of an external reference clock. Since this external reference tick was unrelated to variables (or signals) within the software, redundant operations such as reading of ports, computation of guards were performed for each tick. In this dissertation, we highlight some of these performance issues and missed optimization opportunities. Also we show how a multi-clock (or polychronous) formalism, where each variable has an independent rate of execution associated with it, can avoid these problems.  An existing polychronous language named SIGNAL, creates a hierarchy of clocks based on the rate of execution of individual variables, to form a root clock which acts a reference tick. We seek to replace the clock analysis with a technique to form a unique order of events without a reference time line. For this purpose, we present a new polychronous formalism termed Multi-rate Instantaneous Channel connected Data Flow (MRICDF). Our new synthesis technique inspects the specification to identify a master trigger at a Boolean equation level to act as the reference tick. Furthermore, we attempt to make polychronous specification based software synthesis more accessible to practicing engineers, by constructing a software tool EmCodeSyn, with a visual environment for specification and a more intuitive analysis technique. Our Boolean approach to sequential synthesis of embedded software has multiple implementations, each of which utilizes existing academic software tools. Optimizations are proposed to minimize synthesis time by simplifying the input to these external tools. Weaknesses in causal loop analysis techniques applied by existing synthesis tools are highlighted and solutions for performing time efficient loop analysis are integrated into EmCodeSyn. We have also determined that a part of the non-synthesizable polychronous specifications can be used to generate correct multi-threaded code. Additionally, we investigate composition of polychronous modules and propose properties that are necessary to guarantee agreement on shared signals.",
+  "description_provenance": [
+    "Author Email: bijoyaj@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Advisor Email: akumar@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:04Z (GMT). No. of bitstreams: 1 Jose_BA_D_2011.pdf: 2001033 bytes, checksum: 166e88cf3d2a5d1fa17cdee40b495e7a (MD5)   Previous issue date: 2011-08-02"
+  ],
+  "handle": "28622",
+  "identifier_other": "etd-08112011-161349",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112011-161349/",
+  "identifier_uri": "http://hdl.handle.net/10919/28622",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Jose_BA_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "synchronous systems",
+    "Model driven code generation",
+    "software synthesis",
+    "multi-threading",
+    "polychronous formalism"
+  ],
+  "title": "Formal Model Driven Software Synthesis for Embedded Systems",
+  "type": "Dissertation"
+}

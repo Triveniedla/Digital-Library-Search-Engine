@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Schuh, Anna Kristine",
+  "contributor_committeechair": "Camelio, Jaime A.",
+  "contributor_committeemember": [
+    "Van Aken, Eileen Morton",
+    "Woodall, William H",
+    "Kleiner, Brian M"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2013-11-13T09:00:08Z",
+  "date_available": "2013-11-13T09:00:08Z",
+  "date_issued": "2013-05-10",
+  "degree_discipline": "Industrial and Systems Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "When unsafe conditions arise in a workplace, they may result in employee accidents and fatalities. However, if these problems are detected early, new hazard controls and safety initiatives can be introduced in order to actively reduce or prevent the occurrence of these events. Unfortunately, many safety systems currently monitor and report data that has been aggregated over long time periods, making it difficult to realize and respond to pattern shifts in a timely manner.  When monitoring a process over time, a commonly used tool is statistical process control charting. Traditionally used in manufacturing, control charts indicate a deviation from historically \"normal\" or \"in-control\" behavior and have become increasingly common in healthcare and public health monitoring. This dissertation studies the use of control charts to monitor the frequency of occupational safety incidents, with the overarching goal of investigating the effects of data aggregation on the detection performance of these charts.  Specifically, this dissertation 1) qualitatively establishes the need for more frequent monitoring of safety incidents; 2) investigates the comparative performance of control charts with aggregated and non-aggregated data for the detection of increased accident frequency, using a case study with data from an industrial partner; 3) more generally compares the performance of these charts for a Poisson process with a range of simulated process shifts; and 4) discusses the potential future challenges of including accident severity in quantitative safety monitoring systems. The comprehensive results indicate that lower degrees of data aggregation are preferred, and suggestions for better data collection and employee communication practices are offered to aid the transition for companies.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-11-13T09:00:08Z (GMT). No. of bitstreams: 2 Schuh_AK_D_2013.pdf: 881460 bytes, checksum: e3805fcd42a11402ed60c41fc32d4b0a (MD5) Schuh_AK_D_2013_support_1.pdf: 198723 bytes, checksum: 6f66d63bcb8e3349a0868ef10e2626e1 (MD5)   Previous issue date: 2013-05-10",
+  "format_medium": "ETD",
+  "handle": "24068",
+  "identifier_other": "vt_gsexam:481",
+  "identifier_uri": "http://hdl.handle.net/10919/24068",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Occupational Safety",
+    "Accident Surveillance",
+    "Accident Frequency",
+    "Accident Severity",
+    "Statistical Monitoring",
+    "Control Charts"
+  ],
+  "title": "Occupational Safety Surveillance Using a Statistical Monitoring Approach",
+  "type": "Dissertation"
+}

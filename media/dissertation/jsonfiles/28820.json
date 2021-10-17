@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wang, Guanying",
+  "contributor_committeechair": "Butt, Ali R. A.",
+  "contributor_committeemember": [
+    "Cameron, Kirk W.",
+    "Feng, Wu-Chun",
+    "Nikolopoulos, Dimitrios S.",
+    "Pandey, Prashant"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:47Z",
+  "date_adate": "2012-09-13",
+  "date_available": "2014-03-14T20:15:47Z",
+  "date_issued": "2012-08-27",
+  "date_rdate": "2012-09-13",
+  "date_sdate": "2012-08-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Scale of data generated and processed is exploding in the Big Data era. The MapReduce system popularized by open-source Hadoop is a powerful tool for the exploding data problem, and is widely employed in many areas involving large scale of data. In many circumstances, hypothetical MapReduce systems must be evaluated, e.g. to provision a new MapReduce system to provide certain performance goal, to upgrade a currently running system to meet increasing business demands, to evaluate novel network topology, new scheduling algorithms, or resource arrangement schemes. The traditional trial-and-error solution involves the time-consuming and costly process in which a real cluster is first built and then benchmarked. In this dissertation, we propose to simulate MapReduce systems and evaluate hypothetical MapReduce systems using simulation. This simulation approach offers significantly lower turn-around time and lower cost than experiments. Simulation cannot entirely replace experiments, but can be used as a preliminary step to reveal potential flaws and gain critical insights.  We studied MapReduce systems in detail and developed a comprehensive performance model for MapReduce, including sub-task phase level performance models for both map and reduce tasks and a model for resource contention between multiple processes running in concurrent. Based on the performance model, we developed a comprehensive simulator for MapReduce, MRPerf. MRPerf is the first full-featured MapReduce simulator. It supports both workload simulation and resource contention, and it still offers the most complete features among all MapReduce simulators to date. Using MRPerf, we conducted two case studies to evaluate scheduling algorithms in MapReduce and shared storage in MapReduce, without building real clusters.  Furthermore, in order to further integrate simulation and performance prediction into MapReduce systems and leverage predictions to improve system performance, we developed online prediction framework for MapReduce, which periodically runs simulations within a live Hadoop MapReduce system. The framework can predict task execution within a window in near future. These predictions can be used by other components in MapReduce systems in order to improve performance. Our results show that the framework can achieve high prediction accuracy and incurs negligible overhead. We present two potential use cases, prefetching and dynamic adapting scheduler.",
+  "description_provenance": [
+    "Author Email: wanggy@vt.edu",
+    "Advisor Email: butta@vt.edu",
+    "Advisor Email: cameron@vt.edu",
+    "Advisor Email: wfeng@vt.edu",
+    "Advisor Email: d.nikolopoulos@qub.ac.uk",
+    "Advisor Email: ppandey@gmail.com",
+    "Made available in DSpace on 2014-03-14T20:15:47Z (GMT). No. of bitstreams: 1 Wang_G_D_2012.pdf: 1137281 bytes, checksum: db36f2c442dc30ca990c702cd0d9838b (MD5)   Previous issue date: 2012-08-27"
+  ],
+  "handle": "28820",
+  "identifier_other": "etd-08282012-152556",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08282012-152556/",
+  "identifier_uri": "http://hdl.handle.net/10919/28820",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wang_G_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "performance prediction",
+    "performance modeling",
+    "simulation",
+    "MapReduce",
+    "Hadoop"
+  ],
+  "title": "Evaluating MapReduce System Performance: A Simulation Approach",
+  "type": "Dissertation"
+}

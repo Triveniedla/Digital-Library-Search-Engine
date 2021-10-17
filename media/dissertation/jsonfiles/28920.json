@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Skolthanarat, Siriya",
+  "contributor_committeechair": "Centeno, Virgilio A.",
+  "contributor_committeemember": [
+    "Liu, Yilu",
+    "De La Ree Lopez, Jaime",
+    "Wang, Fei Fred",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:05Z",
+  "date_adate": "2009-10-26",
+  "date_available": "2014-03-14T20:16:05Z",
+  "date_issued": "2009-08-26",
+  "date_rdate": "2009-10-26",
+  "date_sdate": "2009-09-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation focuses on the modeling and control of WECS (Wind Energy Conversion System) in a multi-machine system. As one of the fastest growing renewable energy resources, the trend of wind energy changes to variable speed wind turbines. The concept of the variable speed is based on the variable speed according to the instantaneous wind speed of wind turbines. Since the utility grid requires the stable frequency and magnitude voltages, there must be grid interconnection of the wind farm and the utility grid. The grid interconnection must support the concept of the variable speed wind turbines. Since each wind turbine locates in a different location in a wind site, it receives the different wind speed. Hence the grid interconnection must convert the variable frequency and magnitude output voltages of the wind turbines to a synchronous frequency and magnitude voltages associated to the grid. With the new technologies of power semiconductor devices, the power converter can operate with high voltage, high current, and high switching frequency. This results in a higher power capacity of a wind farm. Nonetheless, the power converters generate harmonic distortions to the utility grid. The harmonic distortions components in the voltages and currents of the grid degrade the power quality. This results in the damage of electrical components in the power system such as capacitor banks, inductors, protection devices, etc. The harmonic distortions can be reduced with the technology of the multi-level inverter. It is required that the wind energy provides the real and reactive power control for frequency and voltage stability. In order to achieve the power control, the modeling and control of the power electronic grid interconnection is presented in this dissertation. The grid interconnection is modeled with linearization techniques. The models in frequency domain in the form of transfer functions are used to design the compensators in the control system. The model is considered as a SISO (Single Input Single Output) system to design the compensators in SISO tool of MATLAB. The selected control system is current control that can control the real and reactive powers independently. Furthermore, since the grid interconnection is modeled separately for each sub-system, the control system is verified with integration of the sub-systems. The grid interconnection is modeled in Simulink and simulated in the PSCAD. In reality, the power system is comprised of multi-machines. They affect the power system stability, reliability, and quality. The dynamic modeling of an aggregated wind farm with synchronous generator and grid interconnection in a multi-machine system is presented. The test system is a 10-bus system with three generators and three loads. The dynamic modeling involves the power flow calculations that determine the equilibrium points of the system. The system is modeled with differential equations of wind turbines, synchronous generators, and grid interconnection. The system is modeled in the time domain in state space form. The system characteristics can be determined by poles or eigen values obtained from the characteristic equations. Since the system is MIMO (Multi Input Multi Output) system, the optimal control theory is used to reduce the deviation of system behaviors during disturbances. The LQR (Linear Quadratic Regulator) is utilized to control the system with eigen value assignment method. Simulation results in Simulink are illustrated.",
+  "description_provenance": [
+    "Author Email: sskoltha@vt.edu",
+    "Advisor Email: vcenteno@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: fred.wang@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:05Z (GMT). No. of bitstreams: 1 Skolthanarat_S_D_2009.pdf: 2418856 bytes, checksum: baf507592a5534fa95c1ea28877744af (MD5)   Previous issue date: 2009-08-26"
+  ],
+  "handle": "28920",
+  "identifier_other": "etd-09092009-020426",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09092009-020426/",
+  "identifier_uri": "http://hdl.handle.net/10919/28920",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Skolthanarat_S_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dynamic modeling",
+    "harmonic distortion",
+    "grid interconnection",
+    "Wind energy"
+  ],
+  "title": "The Modeling and Control of a Wind Farm and Grid Interconnection in a multi-machine system",
+  "type": "Dissertation"
+}

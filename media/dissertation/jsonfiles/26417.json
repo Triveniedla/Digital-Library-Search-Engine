@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Lee, Jeong  Heon",
+  "contributor_committeechair": "Buehrer, Richard Michael",
+  "contributor_committeemember": [
+    "Hou, Yiwei Thomas",
+    "Reed, Jeffrey Hugh",
+    "Yang, Yaling",
+    "Taaffe, Michael R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:09Z",
+  "date_adate": "2011-03-14",
+  "date_available": "2014-03-14T20:08:09Z",
+  "date_issued": "2011-03-04",
+  "date_rdate": "2011-03-14",
+  "date_sdate": "2011-03-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "While significant research effort has been dedicated to wireless position location over the past decades, most location security aspects have been overlooked. Recently, with the proliferation of diverse wireless devices and the desire to determine their position, there is an increasing concern about the security of location information which can be spoofed or disrupted by adversaries or unreliable signal sources. This dissertation addresses the problem of securing a radio location system against location spoofing, specifically the characterization, analysis, detection, and localization of location spoofing attacks by focusing on fundamental location estimation issues.   The objective of this dissertation is four-fold. First, it provides an overview of fundamental security issues for position location, particularly associated with range-based localization. Of particular interest are security risks and vulnerabilities in location estimation, types of localization  attacks, and their impact. The second objective is to characterize the effects of signal strength and beamforming attacks on range estimates and the resulting position estimate.  The characterization can be generalized to a variety of location spoofing attacks and provides insight into the anomalous behavior of range and location estimators when under attack. Through this effort we can also identify effective attacks that are of particular interest to attack detection and localization. The third objective is to develop an effective technique for attack detection which requires neither prior environmental nor statistical knowledge. This is accomplished by exploiting the bilateral behavior of a hybrid framework using two received signal strength (RSS) based location estimators. We show that the resulting approach is effective at detecting attacks with the detection rate increasing with the severity of the induced location error. The last objective of this dissertation is to develop a localization method resilient to attacks and other adverse effects.   Since the detection and localization approach relies solely on RSS measurements in order to be applicable to a wide range of wireless systems and scenarios, this dissertation focuses on RSS-based position location. Nevertheless, many of the basic concepts and results can be applied to any range-based positioning system.",
+  "description_provenance": [
+    "Author Email: jeonghel@vt.edu",
+    "Advisor Email: hou@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Advisor Email: taaffe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:09Z (GMT). No. of bitstreams: 1 Lee_J_D_2011.pdf: 4675410 bytes, checksum: a71db2d5a4e866150e0a24afccfb6413 (MD5)   Previous issue date: 2011-03-04"
+  ],
+  "handle": "26417",
+  "identifier_other": "etd-03122011-233633",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03122011-233633/",
+  "identifier_uri": "http://hdl.handle.net/10919/26417",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lee_J_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Location Security",
+    "Attack Detection",
+    "Secure Positioning",
+    "Location Estimation"
+  ],
+  "title": "Physical Layer Security for Wireless Position Location in the Presence of Location Spoofing",
+  "type": "Dissertation"
+}

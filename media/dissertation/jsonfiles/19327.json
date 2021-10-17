@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Feng, Weiyi",
+  "contributor_committeechair": "Lee, Fred C",
+  "contributor_committeemember": [
+    "Wicks, Alfred L",
+    "Boroyevich, Dushan",
+    "Stilwell, Daniel J",
+    "Mattavelli, Paolo"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-04-20T08:00:10Z",
+  "date_available": "2013-04-20T08:00:10Z",
+  "date_issued": "2013-04-19",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "With the fast development of communication systems, computers and consumer electronics, the power supplies for telecoms, servers, desktops, laptops, flat-panel TVs, LED lighting, etc. are required for more power delivery with smaller spaces. The LLC resonant converter has been widely adopted for these applications due to the advantages in high efficiency, high power density and holdup time operation capability.<br />However, unlike PWM converters, the control of the LLC resonant converter is much more difficult because of the fast dynamic characteristic of the resonant tank. In some highly dynamic processes like the load transient, start-up, over-load protection and burst operation, it is hard to control the current and voltage stresses and oscillations in the resonant tank. Moreover, to meet the high power density requirement, the LLC is required to operate at a high switching frequency. Thus the driving of the synchronous rectifier (SR) poses a design challenge as well. <br />To analyze the fast dynamic characteristic, a graphic state-plane technique has been adopted for a class of resonant converters. In this work, it has been extended to the LLC resonant converter. First of all, the LLC steady state and dynamic behaviors are analyzed in the state plane. After that, a simplified implementation of the optimal trajectory control is proposed to significantly improve the load transient response: the new steady state can be tracked in the minimal period of time. <br />With the advantages of the state-trajectory analysis and digital control, the LLC soft start-up is optimized as well. The current and voltage stress is limited in the resonant tank during the start-up process. The output voltage is built up quickly and smoothly. <br />Furthermore, the LLC burst mode is investigated and optimized in the state plane. Several optimal switching patterns are proposed to improve the light load efficiency and minimize the dynamic oscillations. During the burst on-time, the LLC can be controlled to track the steady state of the best efficiency load condition in one-pulse time. Thus, high light-load efficiency is accomplished. <br />Finally, an intelligent SR driving scheme is proposed and its simple digital implementation is introduced. By sensing the SR drain to source voltage and detecting the paralleled body diode conduction, the SR gate driving signal can be tuned within all operating frequency regions. <br />In conclusion, this work not only solves some major academic problems about analysis and control of the LLC resonant converter based on the graphic state plane, but also makes significant contributions to the industry by improving the LLC transient responses and overall efficiency.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-20T08:00:10Z (GMT). No. of bitstreams: 1 Feng_W_D_2013.pdf: 7742170 bytes, checksum: 653b2079dcfa6b13d801bf69efb1fd66 (MD5)   Previous issue date: 2013-04-19",
+  "format_medium": "ETD",
+  "handle": "19327",
+  "identifier_other": "vt_gsexam:405",
+  "identifier_uri": "http://hdl.handle.net/10919/19327",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "State-trajectory",
+    "optimal control",
+    "LLC resonant converter"
+  ],
+  "title": "State-Trajectory Analysis and Control of LLC Resonant Converters",
+  "type": "Dissertation"
+}

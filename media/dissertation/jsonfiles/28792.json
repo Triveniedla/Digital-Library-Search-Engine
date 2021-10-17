@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Potter, Dustin Paul",
+  "contributor_committeechair": "Laubenbacher, Reinhard C.",
+  "contributor_committeecochair": "Haskell, Peter E.",
+  "contributor_committeemember": [
+    "Jarrah, Abdul Salam",
+    "Duca, Karen"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:41Z",
+  "date_adate": "2005-10-14",
+  "date_available": "2014-03-14T20:15:41Z",
+  "date_issued": "2005-08-03",
+  "date_rdate": "2005-10-14",
+  "date_sdate": "2005-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Functional genetics is the study of the genes present in a genome of an organism, the complex interplay of all genes and their environment being the primary focus of study.  The motivation for such studies is the premise that gene expression patterns in a cell are characteristic of its current state.  The availability of the entire genome for many organisms now allows scientists unparalleled opportunities to characterize, classify, and manipulate genes or gene networks involved in metabolism, cellular differentiation, development, and disease. <p> System-wide studies of biological systems have been made possible by the advent of high-throughput and large-scale tools such as microarrays which are capable of measuring the mRNA levels of all genes in a genome.  Tools and methods for the integration, visualization, and modeling of the large-scale data obtained in typical systems biology experiments are indispensable. Our work focuses on a method that integrates gene expression values obtained from microarray experiments with biological functional information related to the genes measured in order to make global comparisons of multiple experiments. <p> In our method, the integrated data is represented as a lattice and, using appropriate measures, a reference experiment can be compared to samples from a database of similar experiments, and a ranking of similarity is returned. In this work, support for the validity of our method is demonstrated both theoretically and empirically: a mathematical description of the lattice structure with respect to the integrated information is developed and the method is applied to data sets of both simulated and reported microarray experiments. A fast algorithm for constructing the lattice representation is also developed.",
+  "description_provenance": [
+    "Author Email: dpotter@vbi.vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: haskell@calvin.math.vt.edu",
+    "Advisor Email: ajarrah@vbi.vt.edu",
+    "Advisor Email: kduca@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:41Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1924573 bytes, checksum: 24345c9293a280d2a9cfb81c7fb3fad0 (MD5)   Previous issue date: 2005-08-03"
+  ],
+  "handle": "28792",
+  "identifier_other": "etd-08252005-085118",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252005-085118/",
+  "identifier_uri": "http://hdl.handle.net/10919/28792",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "microarray analysis",
+    "integrative methods",
+    "combinatorics",
+    "Formal Concept Analysis",
+    "bioinformatics"
+  ],
+  "title": "A combinatorial approach to scientific exploration of gene expression data: An integrative method using Formal Concept Analysis for the comparative analysis of microarray data",
+  "type": "Dissertation"
+}

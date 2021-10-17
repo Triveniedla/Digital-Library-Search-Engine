@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Hagen, Thomas Ch.",
+  "contributor_committeechair": "Renardy, Michael J.",
+  "contributor_committeemember": [
+    "Herdman, Terry L.",
+    "Rogers, Robert C.",
+    "Renardy, Yuriko Y.",
+    "Baird, Donald G."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:17:53Z",
+  "date_adate": "1998-05-11",
+  "date_available": "2014-03-14T20:17:53Z",
+  "date_issued": "1998-12-01",
+  "date_rdate": "1998-05-11",
+  "date_sdate": "1998-11-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> The production of long, thin polymeric fibers is a main   objective of the textile industry. Melt-spinning is   a particularly simple and effective technique.  In this work,  we shall discuss the equations of melt-spinning   in viscous and viscoelastic flow. These quasilinear hyperbolic  equations model the uniaxial extension of a fluid thread  before its solidification.  <p>   We will address the following topics:  first we shall prove existence, uniqueness, and regularity  of solutions. Our solution strategy will be developed in detail for  the viscous case. For non-Newtonian and isothermal flows, we shall  outline the general ideas.  Our solution technique consists of energy estimates and fixed-point   arguments in appropriate Banach spaces. The existence result for  a simple transport equation  is the key to understanding the quasilinear case. The second issue of  this exposition will be the stability of the unforced frost   line formation.   We will give a rigorous justification that, in the viscous regime,   the linearized equations   obey the ``Principle of Linear Stability''.   As a consequence, we are allowed to relate the stability of the associated strongly continuous semigroup to the numerical resolution of the spectrum of its   generator. By using a spectral collocation method,   we shall derive numerical results on the eigenvalue distribution,   thereby confirming  prior results on the stability of the steady-state solution.",
+  "description_provenance": [
+    "Author Email: thagen@math.vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:53Z (GMT). No. of bitstreams: 1 hagenetd.pdf: 687092 bytes, checksum: 246333a347b25034a56c61c4f4b5a265 (MD5)   Previous issue date: 1998-12-01"
+  ],
+  "handle": "29437",
+  "identifier_other": "etd-110298-102457",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-110298-102457/",
+  "identifier_uri": "http://hdl.handle.net/10919/29437",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "hagenetd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Fiber Spinning",
+    "Linear Stability",
+    "Quasilinear Hyperbolic Equations",
+    "Spectral Determinacy"
+  ],
+  "title": "Elongational Flows in Polymer Processing",
+  "type": "Dissertation"
+}

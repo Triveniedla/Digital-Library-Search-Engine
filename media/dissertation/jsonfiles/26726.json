@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Klongcheongsan, Thananart",
+  "contributor_committeechair": "Tauber, Uwe C.",
+  "contributor_committeemember": [
+    "Khodaparast, Giti A.",
+    "Kulkarni, Rahul V.",
+    "Park, Kyungwha"
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:09:13Z",
+  "date_adate": "2009-04-28",
+  "date_available": "2014-03-14T20:09:13Z",
+  "date_issued": "2009-03-31",
+  "date_rdate": "2009-04-28",
+  "date_sdate": "2009-04-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We investigate the nonequilibrium steady state of driven magnetic flux lines in type-II superconductors subject to strong point or columnar pinning centers and the aging dynamics of nonequilibrium relaxation process in the presence of weak point pinning centers. We employ a three-dimensional elastic line model and Metropolis Monte Carlo simulations. For the first part, we characterize the system by means of the force-velocity / current-voltage curve, static structure factor, mean vortex radius of gyration, number of double-kink and half-loop excitations, and velocity / voltage noise features. We compare the results for the above quantities for randomly distributed point and columnar defects. Most of both numerical works have been done in two-dimensional systems such as thin film in which the structure of flux lines is treated as a point-like particle. Our main point of investigation in this paper is to demonstrate that the vortex structure and its other transport properties may exhibit a remarkable variety of complex phenomena in three-dimensional or bulk superconductors. The second part devotes to the study of aging phenomena in the absence of a driving force in disordered superconductors with much weaker point disorder. By investigating the density autocorrelation function, we observe all three crucial properties of the aging phenomena; slow power-law relaxation, breaking of time-translation invariance, and the presence of the dynamical scaling. We measure the dynamical exponents b and lambda_c/z and compare to other work. We find exponent values increase for increasing pinning strength, smaller interaction range, lower temperature, and denser defect density while the exponents measured in other approach tend to decrease.",
+  "description_provenance": [
+    "Author Email: vmi2004@vt.edu, klongcheongsant@hotmail.com",
+    "Advisor Email: tauber@vt.edu",
+    "Advisor Email: khoda@vt.edu",
+    "Advisor Email: kulkarni@vt.edu",
+    "Advisor Email: kyungwha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:13Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 6138409 bytes, checksum: 42742a63fe3641dc669474be2f48fab4 (MD5)   Previous issue date: 2009-03-31"
+  ],
+  "handle": "26726",
+  "identifier_other": "etd-04092009-154918",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04092009-154918/",
+  "identifier_uri": "http://hdl.handle.net/10919/26726",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Aging Dynamics",
+    "Nonequilibrium Steady States",
+    "Type-II Superconductors"
+  ],
+  "title": "Driven Magnetic Flux Lines in Type-II Superconductors: Nonequilibrium Steady States and Relaxation Properties",
+  "type": "Dissertation"
+}

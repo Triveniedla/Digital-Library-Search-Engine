@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kompella, Sastry Venkata Subrahmanya",
+  "contributor_committeechair": "Hou, Yiwei Thomas",
+  "contributor_committeemember": [
+    "DaSilva, Luiz A.",
+    "Reed, Jeffrey Hugh",
+    "Sherali, Hanif D.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:57Z",
+  "date_adate": "2006-08-29",
+  "date_available": "2014-03-14T20:13:57Z",
+  "date_issued": "2006-07-05",
+  "date_rdate": "2006-08-29",
+  "date_sdate": "2006-07-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Video communications play a vital role in present and future wireless ad hoc networks. One of the key requirements for a successful deployment of multimedia applications in multihop wireless networks is the ability to provide an acceptable video quality, even under a highly dynamic and perhaps unfriendly (or hostile) environment (e.g., in the presence of frequent node/link failure, interference, shadowing, fading, and so forth).  Existing ad hoc routing protocols work well for data communications, but are not optimized for video, which is sensitive to latency and packet loss. Moreover, traditional end system based error control mechanisms alone cannot guarantee a sustainable video quality. Conventional QoS approaches typically optimize one or more network layer metrics, but they are usually agnostic to any kind of application layer performance. Consequently, new methodologies must be explored to improve the performance of video applications in multihop wireless networks.    This dissertation directly addresses this important problem area by leveraging recent advances in video coding techniques along with novel cross-layer formulations and powerful optimization techniques. We follow an application centric cross-layer approach to address multimedia service provisioning over ad hoc networks. Our research efforts show that video communications over multihop wireless networks can substantially benefit from a cross-layer design principle by factoring in application layer video quality into routing algorithmic designs at the network layer. There are three components in this investigation, namely, (1) concurrent routing, (2) path selection and rate allocation, and (3) multipath routing for multiple description video. Each component addresses one or more unique challenges that hinder video communications in multihop wireless networks. Although we expect that a cross-layer approach will be more effective than a network centric (single-layer) approach in addressing application performance, it also brings in complex problems that cannot be effectively solved using traditional methods, and thus, calls for the design of customized algorithms.   In concurrent routing, we focus on issues that arise while supporting multiple concurrent video communication sessions in an ad hoc network. These sessions compete for limited network resources (such as bandwidth) while interacting with each other. Such inter-session interactions couple the performance of an individual flow with that of other flows. Applying a video centric cross-layer design principle, we model the end-to-end video distortion as a function of network layer behavior, and formulate a network-wide optimal routing problem that minimizes the total video distortion. Results based on computational experiments performed using randomly generated network topologies establish the relative efficacy and robustness of the proposed genetic algorithm based solution approach. Specifically, we demonstrate that our approach outperforms other trajectory based metaheuristic approaches as well as with conventional network centric routing algorithms such as shortest path and disjoint shortest path routing.   The joint path selection and rate allocation problem considers not only selecting the best set of paths for video communication, but also, computing the optimal video encoding rate and partitioning it among the chosen set of paths. The end-to-end video distortion is modeled as a function of network layer resources by capturing the tight coupling that exists between the optimal encoding rate for each video session, the selection of paths for video transmission, and the allocation of traffic among these selected paths. This problem is formulated as a nonlinear nonconvex programming problem, for which a tight linear programming relaxation is constructed via the Reformulation-Linearization Technique (RLT). This construct is embedded within a specialized branch-and-bound algorithm to achieve global optimality. Computational experience is reported for various problem instances, and the results validate the robustness of the proposed algorithmic procedure. The results exhibit the advantage of the solution approach over the popularly used max-min rate allocation scheme.   The emergence of Multiple Description (MD) coding technique offers great potential for multipath routing of video in multihop wireless networks.  In  studying multipath routing for MD coding, we show that MD coded video, when used in combination with multipath routing in wireless networks, has tremendous advantages over traditional layered video coding techniques. We discuss how to implement an MD video codec and formulate a cross-layer optimization problem that can find a set of optimal paths, (one for each description) such that the overall video quality at the receiver is maximized. We further devise a specialized RLT-based branch-and-bound solution procedure for the ensuing 0-1 mixed integer nonconvex optimization problem. Convergence behavior of the proposed solution procedure is observed for various network topologies and the results further demonstrate the performance advantage of the proposed cross-layer approach over non-cross-layer approaches.   The scope of this research is highly interdisciplinary. It intersects video communication, networking, optimization, and algorithm design. We expect that the theoretical and algorithmic results of this investigation will serve as important building blocks in developing a comprehensive methodology for addressing complex cross-layer problems in the area of wireless ad hoc networks.",
+  "description_provenance": [
+    "Author Email: sastryk@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: reedjh@exchange.vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:57Z (GMT). No. of bitstreams: 1 Sastry_dissertation.pdf: 1190709 bytes, checksum: ae71cfc53e2e0264fcb317aa088628cb (MD5)   Previous issue date: 2006-07-05"
+  ],
+  "handle": "28281",
+  "identifier_other": "etd-07132006-165542",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07132006-165542/",
+  "identifier_uri": "http://hdl.handle.net/10919/28281",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Sastry_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "optimization",
+    "multiple description video",
+    "multipath routing",
+    "multimedia",
+    "cross-layer design",
+    "ad hoc networks"
+  ],
+  "title": "Video Communications over Dynamic Ad Hoc Networks",
+  "type": "Dissertation"
+}

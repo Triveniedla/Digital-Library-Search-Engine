@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Do, Hyunsun",
+  "contributor_committeechair": "Roe-Hoan Yoon",
+  "contributor_committeemember": [
+    "Scott Hendricks",
+    "Pavlos Vlachos",
+    "Sunghwan Jung",
+    "Gerald luttrell"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:13:58Z",
+  "date_adate": "2010-08-02",
+  "date_available": "2014-03-14T20:13:58Z",
+  "date_issued": "2010-06-08",
+  "date_rdate": "2013-05-07",
+  "date_sdate": "2010-07-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Flotation is a process of separating particulate materials of different surface properties in a hydrodynamic environment, and is used extensively for separating different minerals from each other in the mining industry. In this process, air bubbles are introduced at the bottom of a particulate suspension (pulp), so that bubbles coated with hydrophobic particles rise to the top and form a froth phase while hydrophobic particles stay in suspension. The selectivity of the flotation process is determined by the hydrophobicity of the particulate materials involved, while the kinetics of the process is controlled by the hydrodynamic conditions and the disjoining pressures in the thin aqueous films between air bubbles and particles. <p>  In the present work, a mathematical model for the flotation process has been developed by considering both the hydrodynamic and surface chemical parameters. The model can describe the events occurring in both the pulp and froth phases of a mechanically-agitated flotation cell. The pulp-phase model is based on predicting the kinetics of bubble-particle attachment using the DLVO extended to include contributions from hydrophobic force and the theory of turbulent collision. The froth-phase model is based on predicting the rate of bubble-particle detachment by considering bubble coarsening and water recovery. The predictions from the overall flotation model are in general agreement with the results obtained in single-bubble flotation experiments and the flotation test results reported in literature. Since the model has been developed largely from first principles, it has predictive and diagnostic capabilities.",
+  "description_provenance": [
+    "Author Email: doh@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: sunnyjsh@vt.edu",
+    "Advisor Email: ryoon@vt.edu",
+    "Advisor Email: luttrell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:58Z (GMT). No. of bitstreams: 1 Do_H_D_2010_v2.pdf: 2102367 bytes, checksum: edadc932ac675582ba0733d6c46995c8 (MD5)   Previous issue date: 2010-06-08"
+  ],
+  "handle": "28285",
+  "identifier_other": "etd-07132010-125302",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07132010-125302/",
+  "identifier_uri": "http://hdl.handle.net/10919/28285",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Do_H_D_2010_v2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "flotation model",
+    "flotation",
+    "hydrophobic force",
+    "froth model",
+    "extended DLVO theory",
+    "foam",
+    "film rupture",
+    "drainage"
+  ],
+  "title": "Development of a turbulent flotation model from first principles",
+  "type": "Dissertation"
+}

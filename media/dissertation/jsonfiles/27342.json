@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wu, Yufei",
+  "contributor_committeechair": "Woerner, Brian D.",
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "Gray, Festus Gail",
+    "Johnson, Lee W.",
+    "Athanas, Peter M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:00Z",
+  "date_adate": "2000-04-27",
+  "date_available": "2014-03-14T20:11:00Z",
+  "date_issued": "2000-04-12",
+  "date_rdate": "2001-04-27",
+  "date_sdate": "2000-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Parallel concatenated convolutional codes (PCCCs), called \"turbo codes\" by their discoverers, have been shown to perform close to the Shannon bound at bit error rates (BERs) between 1e-4 and 1e-6. Serial concatenated convolutional codes (SCCCs), which perform better than PCCCs at BERs lower than 1e-6, were developed borrowing the same principles as PCCCs, including code concatenation, pseudorandom interleaving and iterative decoding.  The first part of this dissertation introduces the fundamentals of concatenated convolutional codes. The theoretical and simulated BER performance of PCCC and SCCC are discussed. Encoding and decoding structures are explained, with emphasis on the Log-MAP decoding algorithm and the general soft-input soft-output (SISO) decoding module. Sliding window techniques, which can be employed to reduce memory requirements, are also briefly discussed.  The second part of this dissertation presents four major contributions to the field of concatenated convolutional coding developed through this research. First, the effects of quantization and fixed point arithmetic on the decoding performance are studied. Analytic bounds and modular renormalization techniques are developed to improve the efficiency of SISO module implementation without compromising the performance. Second, a new stopping criterion, SDR, is discovered. It is found to perform well with lowest cost when evaluating its complexity and performance in comparison with existing criteria. Third, a new type-II code combining automatic repeat request (ARQ) technique is introduced which makes use of the related PCCC and SCCC. Fourth, a new code-assisted synchronization technique is presented, which uses a list approach to leverage the simplicity of the correlation technique and the soft information of the decoder. In particular, the variant that uses SDR criterion achieves superb performance with low complexity.   Finally, the third part of this dissertation discusses the FPGA-based implementation of the turbo decoder, which is the fruit of cooperation with fellow researchers.",
+  "description_provenance": [
+    "Author Email: yufei@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: fggray@vt.edu",
+    "Advisor Email: johnsonl@math.vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:00Z (GMT). No. of bitstreams: 1 etd.pdf: 2167305 bytes, checksum: 31b31688940ddad2a02b2a58ad336549 (MD5)   Previous issue date: 2000-04-12"
+  ],
+  "handle": "27342",
+  "identifier_other": "etd-04272000-13530058",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272000-13530058/",
+  "identifier_uri": "http://hdl.handle.net/10919/27342",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "parallel concatenated convolutional code",
+    "turbo codes",
+    "serial concatenated convolutional code",
+    "wireless communications",
+    "channel coding"
+  ],
+  "title": "Implementation of Parallel and Serial Concatenated Convolutional Codes",
+  "type": "Dissertation"
+}

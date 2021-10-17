@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Alsaeed, Ali A.",
+  "contributor_committeechair": "Kirk, R. Gordon",
+  "contributor_committeemember": [
+    "Vick, Brian L.",
+    "Taheri, Saied",
+    "Kraige, Luther Glenn",
+    "Kasarda, Mary E. F."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:01Z",
+  "date_adate": "2010-05-05",
+  "date_available": "2014-03-14T20:09:01Z",
+  "date_issued": "2010-04-05",
+  "date_rdate": "2012-04-24",
+  "date_sdate": "2010-04-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The turbocharger industry is booming recently, and there is an urgent need for new evaluations of the overall design. As the oil prices continue to rise, along with the new emissions regulations strictly enforced for the in-road as well as the off-road vehicles, the transition to turbocharged engines, and especially for diesel engines, has become irresistible. Higher power, smaller engines, reduced emissions, and overall better efficiency are the main concerns. By means of the recent development in the computational tools, a new era of the product development has emerged. <p> Most diesel engine turbochargers incorporate floating-ring bearings that use the engineâ  s oil for lubrication. The high-speed turbocharger is known to have subsynchronous vibrations at high amplitudes for a wide speed range that could reach 150,000 rpm. The bearing fluid-film whirl instability is the main source of the subsynchronous vibration. The nonlinear reaction forces inside the bearings are usually causing the rotor to whirl in a limit cycle but may become large enough to cause permanent damages. Additionally, the lubrication oil may leak at higher rates through the seals into the engine or the exhaust emissions. <p> This dissertation investigates methods for improving the dynamic stability of the high-speed automotive turbochargers, especially designed for heavy-duty diesel engines that are used for example in heavy machinery, trucks, tractors, etc. The study utilizes the available modern computational tools in rotor-dynamics in addition to the locally developed supportive computer codes. This research is a major part of the turbocharger dynamic analysis supporting the current extensive experimental tests in the Virginia Tech Rotor Dynamics Laboratory for the product development of different high-speed diesel engine turbochargers. <p> The study begins with the method of enhanced-performance hydrodynamic bearings. The aim is to modify the inner surface of the bearing for better dynamic characteristics. The finite-element model of the turbocharger rotor shaft with linearized bearing dynamic coefficients is developed. The system is solved for eigenvalues and eigenvectors in order to evaluate the dynamic stability. The first phase of the study demonstrated that there are two modes of instability that persist during much of the operating speed range, and one of the modes exhibits serious subsynchronous vibration levels at the higher speeds. The first unstable mode builds up at very low speeds forming a conical shape, where both rotor shaft ends whirl forward out-of-phase. The second unstable mode has a cylindrical shape with slight bending, where both rotor ends whirl forward in-phase. The outcome of the study is that the inner surface of the bearing has direct influence on the turbocharger dynamic stability. However, a fixed hydrodynamic bearing may not give total linear stability of the system if it is used without additional damper. <p> The second method is to analytically design flexible damped bearing-supports in order to improve the dynamic characteristics of the rotor-bearing system. The finite-element model of the turbocharger rotor with linearized bearing dynamic coefficients is used to solve for the logarithmic decrements and hence the stability map. The design process attempts to find the optimum dynamic characteristics of the flexible damped bearing-support that would give best dynamic stability of the rotor-bearing system. The method is successful in greatly improving the dynamic stability of the turbocharger and may also lead to a total linear stability throughout the entire speed range when used besides the enhanced-performance hydrodynamic bearings. <p> The study also presents a new method for improving the dynamic stability by inducing the turbocharger rotor unbalance in order to suppress the subsynchronous vibrations. The finite-element model of the turbocharger rotor with floating-ring bearings is numerically solved for the nonlinear time-transient response. The compressor and the turbine unbalance are induced and the dynamic stability is computed. The turbocharger model with linearized floating-ring bearings is also solved for eigenvalues and eigenvectors to predict the modes of instability. The linear analysis demonstrates that the forward whirling mode of the floating-ring at the compressor end becomes also unstable at the higher turbocharger speeds, in addition to the unstable forward conical and cylindrical modes. The numerical predictions are also compared to the former experimental results of a typical turbocharger. The results of the study show that the subsynchronous frequency amplitude of the dominant first mode is reduced when inducing either the compressor or the turbine unbalance at a certain level. <p> In addition to the study of the stability improvement methods, the dissertation investigates the other internal and external effects on the turbocharger rotor-bearing system. The radial aerodynamic forces that may develop inside the centrifugal compressor and the turbine volutes due to pressure variation of the circulating gas are numerically predicted for magnitudes, directions, and locations. The radial aerodynamic forces are numerically simulated as static forces in the turbocharger finite-element model with floating-ring bearings and solved for nonlinear time-transient response. The numerical predictions of the radial aerodynamic forces are computed with correlation to the earlier experimental results of the same turbocharger. The outcomes of the investigation demonstrated a significant influence of the radial aerodynamic loads on the turbocharger dynamic stability and the bearing reaction forces. The numerical predictions are also compared to the former experimental results for validation. <p> The external effect of the engine-induced vibration on the turbocharger dynamic stability is studied. The engine-induced excitations are numerically simulated as time-forcing functions on the rotor-bearings of the turbocharger finite-element model with floating-ring bearings in order to solve for the nonlinear time-transient response. The compressor radial aerodynamic forces are combined to the engine-induced excitations to numerically predict the total nonlinear transient response. The results of the study show that there are considerable amplitudes at the engine-excitation frequency in the subsynchronous region that may also have similar amplitude at the second harmonic. Additionally, the magnitudes of the engine-induced vibration have an effect on the turbocharger dynamic stability. The numerical predictions are compared to the former experimental tests for turbocharger dynamic stability.",
+  "description_provenance": [
+    "Author Email: 3A@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: staheri@vt.edu",
+    "Advisor Email: kraige@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: gokirk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:01Z (GMT). No. of bitstreams: 1 Alsaeed_AA_D_2010.pdf: 5368075 bytes, checksum: a5704fdf7db7e718a61d630940f96a3d (MD5)   Previous issue date: 2010-04-05"
+  ],
+  "handle": "26664",
+  "identifier_other": "etd-04062010-115219",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04062010-115219/",
+  "identifier_uri": "http://hdl.handle.net/10919/26664",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Alsaeed_AA_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "turbocharger",
+    "vibration",
+    "stability",
+    "fluid-film bearing",
+    "unbalance",
+    "rotor-dynamics"
+  ],
+  "title": "A Study of Methods for Improving the Dynamic Stability of High-Speed Turbochargers",
+  "type": "Dissertation"
+}

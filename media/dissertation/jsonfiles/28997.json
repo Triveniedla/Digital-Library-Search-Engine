@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Han, Dae-Seob",
+  "contributor_committeechair": "Asryan, Levon V.",
+  "contributor_committeemember": [
+    "Khodaparast, Giti A.",
+    "Lu, Guo-Quan",
+    "Guido, Louis J."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:16:20Z",
+  "date_adate": "2009-11-04",
+  "date_available": "2014-03-14T20:16:20Z",
+  "date_issued": "2009-09-02",
+  "date_rdate": "2010-11-04",
+  "date_sdate": "2009-09-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work develops a comprehensive theoretical model for a semiconductor laser, which exploits tunneling-injection of electrons and holes into quantum dots (QDs) from two separate quantum wells (QWs). The potential of such a tunneling-injection QD laser for temperature-stable and high-power operation is studied under the realistic conditions of out-tunneling leakage of carriers from QDs (and hence parasitic recombination outside QDs) and the presence of the wetting layer (WL). The following topics are included in the dissertation:  1) Characteristic temperature of a tunneling-injection QD laser  The threshold current density jth and the characteristic temperature T0 are mainly controlled by the recombination in the QWs. Even in the presence of out-tunneling from QDs and recombination outside QDs, the tunneling-injection laser shows the potential for significant improvement of temperature stability of jth â   the characteristic temperature T0 remains very high (above 300 K at room temperature) and not significantly affected by the QD size fluctuations.  2) Output power of a tunneling-injection QD laser  Closed-form expressions for the light-current characteristic (LCC) and carrier population across the layered structure are derived. Even in the presence of out-tunneling leakage from QDs, the intensity of parasitic recombination outside QDs is shown to remain restricted with increasing injection current. As a consequence, the LCC of a tunneling-injection QD laser exhibits a remarkable feature â   it becomes increasingly linear, and the slope efficiency grows closer to unity at high injection currents. The linearity is due to the fact that the current paths connecting the opposite sides of the structure lie entirely within QDs â   in view of the three-dimensional confinement in QDs, the out-tunneling fluxes of carriers from dots are limited.  3) Effect of the WL on the output power of a tunneling-injection QD laser  In the Stranski-Krastanow self-assembling growth mode, a two-dimensional WL is initially grown followed by the formation of QDs. Due to thermal escape of carriers from QDs, there will be bipolar population and hence electron-hole recombination in the WL, even in a tunneling-injection structure. Since the opposite sides of a tunneling-injection structure are only connected by the current paths through QDs, and the WL is located in the n-side of the structure, the only source of holes for the WL is provided by QDs. It is shown that, due to the zero-dimensional nature of QDs, the rate of the hole supply to the WL remains limited with increasing injection current. For this reason, as in the other parts of the structure outside QDs (QWs and optical confinement layer), the parasitic electron-hole recombination remains restricted in the WL. As a result, even in the presence of the WL, the LCC of a tunneling-injection QD laser becomes increasingly linear at high injection currents, which is a further demonstration of the potential of such a laser for high-power operation.",
+  "description_provenance": [
+    "Author Email: dshan@vt.edu, dshan93@gmail.com",
+    "Advisor Email: khodapar@vt.edu",
+    "Advisor Email: asryan@mse.vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: guido@mse.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:20Z (GMT). No. of bitstreams: 1 Han_DS_D_2009.pdf: 1543626 bytes, checksum: 16f24793f6f2e5ba8e7a88101f361722 (MD5)   Previous issue date: 2009-09-02"
+  ],
+  "handle": "28997",
+  "identifier_other": "etd-09162009-030236",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09162009-030236/",
+  "identifier_uri": "http://hdl.handle.net/10919/28997",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Han_DS_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "quantum dot lasers",
+    "semiconductor lasers"
+  ],
+  "title": "Theory of Tunneling-Injection Quantum Dot Lasers",
+  "type": "Dissertation"
+}

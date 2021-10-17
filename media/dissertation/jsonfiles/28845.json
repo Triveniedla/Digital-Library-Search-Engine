@@ -1,0 +1,61 @@
+{
+  "contributor_author": "Xiao, Hai",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Besieris, Ioannis M.",
+    "Ng, Fai",
+    "Jacobs, Ira",
+    "May, Russell G."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:51Z",
+  "date_adate": "2000-09-04",
+  "date_available": "2014-03-14T20:15:51Z",
+  "date_issued": "2000-08-24",
+  "date_rdate": "2001-09-04",
+  "date_sdate": "2000-09-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "To fulfill the objective of providing robust and reliable fiber optic pressure sensors capable of operating in harsh environments, this dissertation presents the detailed research work on the design, modeling, implementation, analysis, and performance evaluation of the novel fiber optic self-calibrated interferometric/intensity-based (SCIIB) pressure sensor system.  By self-referencing its two channels outputs, for the first time to our knowledge, the developed SCIIB technology can fully compensate for the fluctuation of source power and the variations of fiber losses. Based on the SCIIB principle, both multimode and single-mode fiber-based SCIIB sensor systems were designed and successfully implemented. To achieve all the potential advantages of the SCIIB technology, the novel controlled thermal bonding method was proposed, designed, and developed to fabricate high performance fiber optic Fabry-Perot sensor probes with excellent mechanical strength and temperature stability. Mathematical models of the sensor in response to the pressure and temperature are studied to provide a guideline for optimal design of the sensor probe. The solid and detailed noise analysis is also presented to provide a better understanding of the performance limitation of the SCIIB system. Based on the system noise analysis results, optimization measures are proposed to improve the system performance. Extensive experiments have also been conducted to systematically evaluate the performance of the instrumentation systems and the sensor probes. The major test results give us the confidence to believe that the development of the fiber optic SCIIB pressure sensor system provides a reliable pressure measurement tool capable of operating in high pressure, high temperature harsh environments.",
+  "description_provenance": [
+    "Author Email: hxiao@vt.edu",
+    "Advisor Email: ibesieris@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: rmay@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:51Z (GMT). No. of bitstreams: 14 Chapter8.pdf: 18177 bytes, checksum: 76cb8ec44ef4e03fd4bbf2325b7c2811 (MD5) Chapter2.pdf: 90818 bytes, checksum: 33074c3348067d14943f2948e90cd475 (MD5) Chapter5.pdf: 34314 bytes, checksum: a3dd5b97aa50b559ba2a7873fd0673db (MD5) Chapter7.pdf: 260358 bytes, checksum: 3d49c8de23df523fbab00d9cfff68841 (MD5) Vita.pdf: 4850 bytes, checksum: 6ca8c8bcfb1b6f605acf7b9c0e652aaa (MD5) Abstract.pdf: 5125 bytes, checksum: 47b75a534753a0739b6281a1f630b801 (MD5) Table-of-contents.pdf: 11918 bytes, checksum: 754a372dbe14b3bfb3072419f482f49b (MD5) Acknowledgements.pdf: 4996 bytes, checksum: 50093b5fbdcae2a0e7e8a54d13d7cc74 (MD5) Chapter3.pdf: 142175 bytes, checksum: a43f07b6e8bba2718c442b4452989335 (MD5) Reference.pdf: 27865 bytes, checksum: cd4f69aca8d32a07986911c1f849709f (MD5) Chapter4.pdf: 251148 bytes, checksum: ebef0ae31292e0d8b6a5f33a680f7939 (MD5) Chapter6.pdf: 194058 bytes, checksum: 63dcfedf2598ba5129be187833ed1907 (MD5) Chapter1.pdf: 47645 bytes, checksum: f5c44b9f864d745801bceefd8515993c (MD5) Cover.pdf: 5180 bytes, checksum: 892a6386e2bd912a7f6d95130519793e (MD5)   Previous issue date: 2000-08-24"
+  ],
+  "handle": "28845",
+  "identifier_other": "etd-09012000-11270039",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09012000-11270039/",
+  "identifier_uri": "http://hdl.handle.net/10919/28845",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter8.pdf",
+    "Chapter2.pdf",
+    "Chapter5.pdf",
+    "Chapter7.pdf",
+    "Vita.pdf",
+    "Abstract.pdf",
+    "Table-of-contents.pdf",
+    "Acknowledgements.pdf",
+    "Chapter3.pdf",
+    "Reference.pdf",
+    "Chapter4.pdf",
+    "Chapter6.pdf",
+    "Chapter1.pdf",
+    "Cover.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Fiber Optic",
+    "Sensor",
+    "Pressure Sensor",
+    "Harsh Environments",
+    "Optical Fiber"
+  ],
+  "title": "Self-Calibrated Interferometric/Intensity-Based Fiber Optic Pressure Sensors",
+  "type": "Dissertation"
+}

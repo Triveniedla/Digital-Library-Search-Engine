@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Lucas, Bruce",
+  "contributor_committeechair": "Liu, Y. A.",
+  "contributor_committeemember": [
+    "Baird, Donald G.",
+    "Davis, Richey M.",
+    "McGrath, James E.",
+    "Long, Timothy E."
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:17:41Z",
+  "date_adate": "2005-11-22",
+  "date_available": "2014-03-14T20:17:41Z",
+  "date_issued": "2005-08-25",
+  "date_rdate": "2006-11-22",
+  "date_sdate": "2005-10-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dissertation describes and assembles the building blocks for sound and accurate models for solid-state polymerization process systems of condensation polymers, particularly poly(ethylene terephthalate) and nylon-6. The work centers on an approach for modeling commercial-scale, as opposed to laboratory-scale, systems. The focus is not solely on coupled polymerization and diffusion, but extends to crystallization, physical properties, and phase equilibrium, which all enhance the robustness of the complete model.  There are three applications demonstrating the utility of the model for a variety of real, industrial plant operations. One of the validated simulation models is for commercial production of three different grades of solid-state PET. There are also validated simulation models for the industrial leaching and solid-state polymerization of nylon-6 covering a range of operating conditions. The results of these studies justify our mixing-cell modeling approach as well as the inclusion of all relevant fundamental concepts.  The first several chapters discuss in detail the engineering fundamentals that we must consider for modeling these polymerization process systems. These include physical properties, phase equilibrium, crystallization, diffusion, polymerization, and additional modeling considerations.  The last two chapters cover the modeling applications.",
+  "description_provenance": [
+    "Author Email: blucas@vt.edu",
+    "Advisor Email: dbaird@vt.edu",
+    "Advisor Email: design@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: jmcgrath@vt.edu",
+    "Advisor Email: telong@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:41Z (GMT). No. of bitstreams: 1 BruceLucasDissertation2005.pdf: 1350711 bytes, checksum: dfd0337b4e808efc5259be722f7c7e70 (MD5)   Previous issue date: 2005-08-25"
+  ],
+  "handle": "29378",
+  "identifier_other": "etd-10262005-082012",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10262005-082012/",
+  "identifier_uri": "http://hdl.handle.net/10919/29378",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BruceLucasDissertation2005.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "nylon-6",
+    "poly(ethylene terephthalate)",
+    "polymerization kinetics",
+    "crystallization kinetics",
+    "simulation",
+    "model",
+    "diffusion",
+    "physical properties"
+  ],
+  "title": "Fundamental Modeling of Solid-State Polymerization Process Systems for Polyesters and Polyamides",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Smith, Theodore Brooke",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Bui, Trong",
+    "Grossman, Bernard M.",
+    "Devenport, William J.",
+    "Simpson, Roger L."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:17:35Z",
+  "date_adate": "2001-11-02",
+  "date_available": "2014-03-14T20:17:35Z",
+  "date_issued": "2001-09-10",
+  "date_rdate": "2002-11-02",
+  "date_sdate": "2001-10-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A series of direct-measuring skin friction gages were developed for a high-speed, high-temperature environment of the turbulent boundary layer in flows such as that in supersonic combustion ramjet (scramjet) engines, with a progression from free-jet ground tests to a design for an actual hypersonic scramjet-integrated flight vehicle.  The designs were non-nulling, with a sensing head that was flush with the model wall and surrounded by a small gap.  Thus, the shear force due to the flow along the wall deflects the head, inducing a measurable strain.  Strain gages were used to detect the strain.  The gages were statically calibrated using a direct force method.  The designs were verified by testing in a well-documented Mach 2.4 cold flow.  Results of the cold-flow tests were repeatable and within 15% of the value of Cf estimated from simple theory.  The first gage design incorporated a cantilever beam with semiconductor strain gages to sense the shear on the floating head.  Cooling water was routed both internally and around the external housing in order to control the temperature of the strain gages.  This first gage was installed and tested in a rocket-based-combined-cycle (RBCC) engine model operating in the scramjet mode.  The free-jet facility provided a Mach 6.4 flow with P0 = 1350 psia (9310 kPa) and T0 = 2800 Â°R (1555 Â°K). Local wall temperatures were measured between 850 and 900 Â°R (472-500 Â°K).  Output from the RBCC scramjet tests was reasonable and repeatable.  A second skin friction gage was designed for and tested in a wind tunnel model of the Hyper-X flight vehicle scramjet engine.  These unsuccessful tests revealed the need for a radically different skin friction gage design.  The third and final skin friction gage was specifically developed to be installed on the Hyper-X flight vehicle.  Rather than the cantilever beam and semiconductor strain gages, the third skin friction gage made use of a flexure ring and metal foil strain gages to sense the shear.  The water-cooling and oil-fill used on the previous skin friction sensors were eliminated.  It was qualified for flight through a rigorous series of environmental tests, including pressure, temperature, vibration, and heat flux tests.  Finally, the third skin friction gage was tested in the Hyper-X Engine Model (HXEM), a full-scale-partial-width wind tunnel model of the flight vehicle engine.  These tests were conducted at Mach 6.5 enthalpy with P0 = 555 psia (3827 kPa) and h0 = 900 Btu/lbm in a freejet facility.  The successful testing in the wind tunnel scramjet model provided the final verification of the gage before installation in the flight vehicle engine.  The development, testing, and results of all three skin friction gages are discussed.",
+  "description_provenance": [
+    "Author Email: tbsmith@starpower.net",
+    "Advisor Email: trong.bui@dfrc.nasa.gov",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: simpson@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:35Z (GMT). No. of bitstreams: 1 completedissert.pdf: 3515114 bytes, checksum: 30e96905be4ab86762dd79ac9630d67f (MD5)   Previous issue date: 2001-09-10"
+  ],
+  "handle": "29351",
+  "identifier_other": "etd-10242001-125622",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10242001-125622/",
+  "identifier_uri": "http://hdl.handle.net/10919/29351",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "completedissert.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "X-43A",
+    "scramjet",
+    "skin friction",
+    "hypersonic",
+    "Hyper-X"
+  ],
+  "title": "Development and Ground Testing of Direct Measuring Skin Friction Gages for High Enthalpy Supersonic Flight Tests",
+  "type": "Dissertation"
+}

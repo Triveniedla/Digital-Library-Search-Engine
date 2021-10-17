@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Mitra, Rudrajit",
+  "contributor_committeechair": "Westman, Erik Christian",
+  "contributor_committeemember": [
+    "Gutierrez, Marte S.",
+    "Karfakis, Mario G.",
+    "Iannacchione, Anthony T.",
+    "Novak, Thomas"
+  ],
+  "contributor_department": "Mining and Minerals Engineering",
+  "date_accessioned": "2014-03-14T20:10:05Z",
+  "date_adate": "2006-04-26",
+  "date_available": "2014-03-14T20:10:05Z",
+  "date_issued": "2006-04-05",
+  "date_rdate": "2006-04-26",
+  "date_sdate": "2006-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Underground mining has one of the highest fatal injury rates among any of the industries in the United States, which is more than five times the national average of the other industries (MSHA). Many of these incidents take place due to stress redistribution resulting from mine workings. Thus it is very important to develop some tools to predict this failure in advance and prevent any fatalities arising from the failure.   The current study uses two tools â   numerical modeling and laboratory tomography - to image the stress distribution in laboratory rock samples as they are uniaxially loaded. The discrete element code, PFC3D, is used. The laboratory properties of the rock sample need to be converted to the micro-properties of the particles in the model. Currently no theory exists for this conversion. In the current study an equation has been developed for this process. Based on the usersâ   input, the equation determines the micro-properties for the model. Further, various techniques to study the stress redistribution from these models at the particle level are discussed.   Tomography is a non-destructive technique through which the interior of a body can be imaged without penetrating the surface by any physical means. In the current study sensors were attached around the rock sample and tomograms were obtained at certain intervals of the load. Initially, an indentation load was applied on a rectangular block to study the comparison between the stress and the velocity in two dimensions. In the last part of the study three-dimensional tomograms were obtained from the rock samples as they were loaded to failure.",
+  "description_provenance": [
+    "Author Email: rmitra@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: mario@vt.edu",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: aai3@cdc.gov",
+    "Advisor Email: tomnovak@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:05Z (GMT). No. of bitstreams: 1 Dissertation-Mitra.pdf: 6925536 bytes, checksum: 687a0d06a82b4eb693c0101ba5ab1046 (MD5)   Previous issue date: 2006-04-05"
+  ],
+  "handle": "27005",
+  "identifier_other": "etd-04192006-115436",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192006-115436/",
+  "identifier_uri": "http://hdl.handle.net/10919/27005",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-Mitra.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Stress Redistribution",
+    "Tomography",
+    "Numerical Modeling"
+  ],
+  "title": "Imaging of Stress in Rock Samples using Numerical Modeling and Laboratory Tomography",
+  "type": "Dissertation"
+}

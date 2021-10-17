@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Ohanian, Osgar John",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Kochersberger, Kevin Bruce",
+    "Kurdila, Andrew J.",
+    "Mason, William H.",
+    "Wilson, Sam B."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:59Z",
+  "date_adate": "2011-05-17",
+  "date_available": "2014-03-14T20:11:59Z",
+  "date_issued": "2011-05-04",
+  "date_rdate": "2011-05-17",
+  "date_sdate": "2011-05-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ducted fan vehicles possess a superior ability to maximize payload capacity while minimizing vehicle size.  Their ability to both hover and fly at high speed is a key advantage for information-gathering missions, particularly when close proximity to a target is essential.  However, the ducted fanâ  s aerodynamic characteristics pose difficulties for stable vehicle flight and therefore require complex control algorithms.  In particular, they exhibit a large nose-up pitching moment during wind gusts and when transitioning from hover to forward flight.       Understanding ducted fan aerodynamic behavior and how it can be altered through flow control techniques are the two prime objectives of this work.  This dissertation provides a new paradigm for modeling the ducted fanâ  s nonlinear behavior and new methods for changing the duct aerodynamics using active flow control. Steady and piezoelectric synthetic jet blowing are employed in the flow control concepts and are compared.      The new aerodynamic model captures the nonlinear characteristics of the force, moment, and power data for a ducted fan, while representing these terms in a set of simple equations.  The model attains excellent agreement with current and legacy experimental data using twelve non-dimensional constants.      Synthetic jet actuators (SJA) have potential for use in flow control applications in UAVs with limited size, weight, and power budgets.  Piezoelectric SJAs for a ducted fan vehicle were developed through two rounds of experimental designs.  The final SJA design attained peak jet velocities in the range of 225 ft/sec (69 m/s) for a 0.03â   x 0.80â   rectangular slot.      To reduce the magnitude of the nose-up pitching moment in cross-winds, two flow control concepts were explored: flow separation control at the duct lip, and flow turning at the duct trailing edge using a CoandÄ  surface. Both concepts were experimentally proven to be successful.  Synthetic jets and steady jets were capable of modifying the ducted fan flow to reduce pitching moment, but some cases required high values of steady blowing to create significant responses. Triggering leading edge separation on the duct lip was one application where synthetic jets showed comparable performance to steady jets operating at a blowing coefficient an order of magnitude higher.",
+  "description_provenance": [
+    "Author Email: oohanian@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: kbk@vt.edu",
+    "Advisor Email: kurdila@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: sambwilson3@mac.com",
+    "Made available in DSpace on 2014-03-14T20:11:59Z (GMT). No. of bitstreams: 2 Ohanian_OJ_D_2011_Copyright.pdf: 227096 bytes, checksum: e3dd69c6627d4b4b789536b228d7b9ce (MD5) Ohanian_OJ_D_2011.pdf: 10875126 bytes, checksum: 3c67bf0db238b0d6d643c0275af69953 (MD5)   Previous issue date: 2011-05-04"
+  ],
+  "handle": "27687",
+  "identifier_other": "etd-05122011-155823",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05122011-155823/",
+  "identifier_uri": "http://hdl.handle.net/10919/27687",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Ohanian_OJ_D_2011_Copyright.pdf",
+    "Ohanian_OJ_D_2011.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "non-dimensional",
+    "micro air vehicle",
+    "UAV",
+    "MAV",
+    "unmanned aerial vehicle",
+    "aerodynamic modeling",
+    "flow control",
+    "synthetic jets",
+    "rotor",
+    "shrouded propeller",
+    "ducted fan"
+  ],
+  "title": "Ducted Fan Aerodynamics and Modeling, with Applications of Steady and Synthetic Jet Flow Control",
+  "type": "Dissertation"
+}

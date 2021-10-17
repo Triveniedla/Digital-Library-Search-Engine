@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Suris Pietri, Jorge Alberto",
+  "contributor_committeechair": "Athanas, Peter M.",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Butt, Ali R. A.",
+    "Reed, Jeffrey Hugh",
+    "Patterson, Cameron D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:27Z",
+  "date_adate": "2009-08-26",
+  "date_available": "2014-03-14T20:15:27Z",
+  "date_issued": "2009-08-07",
+  "date_rdate": "2009-08-26",
+  "date_sdate": "2009-08-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A large body of work has been produced in the area of productivity enhancers for the design of both Software-Deï¬ ned Radio and Field Programmable Gate Arrays systems. These tool  are created with the goal of aiding the user in the process of instantiating a design. They do not address, however, a speciï¬ c use-case in which the user does not know or care about  what the design of his system is. In this work, analysis-based design is presented and applied to FPGA-based SDRs. The RapidRadio framework abstracts away much of the knowledge  required for analyzing an unknown signal and building an FPGA-based receiver. Resource utilization is traded-oï¬  for reduced implementation time and increased ï¬ exibility. Automatic modulation classiï¬ cation is done with blind parameter estimation. Unlike other contemporary work, no a priori knowledge about the signal being classiï¬ ed is assumed.  This leads to the development of a system that does not depend on perfect synchronization to classify the signal. A new quasi-generic synchronization architecture that allows the  synchronization of multiple modulations schemes is presented. The result of the modulation classiï¬ cation is used to automatically create an FPGA-based radio receiver.",
+  "description_provenance": [
+    "Author Email: jasuris@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: butta@vt.edu",
+    "Advisor Email: reedh@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:27Z (GMT). No. of bitstreams: 1 Suris_JA_D_2009.pdf: 4507557 bytes, checksum: 563084941105d1e6750508beac85c50f (MD5)   Previous issue date: 2009-08-07"
+  ],
+  "handle": "28729",
+  "identifier_other": "etd-08192009-221317",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08192009-221317/",
+  "identifier_uri": "http://hdl.handle.net/10919/28729",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Suris_JA_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Productivity",
+    "Rapid Prototyping",
+    "FPGA",
+    "Automation",
+    "Synchronization",
+    "Signal Classification",
+    "Synthesis"
+  ],
+  "title": "Rapid Radio: Analysis-Based Receiver Deployment",
+  "type": "Dissertation"
+}

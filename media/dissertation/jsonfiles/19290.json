@@ -1,0 +1,36 @@
+{
+  "contributor_author": "DeValve, Caleb Joshua",
+  "contributor_committeechair": "Pitchumani, Ranga",
+  "contributor_committeemember": [
+    "Priya, Shashank",
+    "Case, Scott W",
+    "Tarazaga, Pablo Alberto",
+    "Paul, Mark R"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-03-19T08:00:06Z",
+  "date_available": "2013-03-19T08:00:06Z",
+  "date_issued": "2013-03-18",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Fiber-reinforced composites (FRCs) offer a stronger and lighter weight alternative to traditional materials used in engineering components such as wind turbine blades and rotorcraft structures. Composites for these applications are often fabricated using liquid molding techniques, such as injection molding or resin transfer molding. One significant issue during these processing methods is void formation due to incomplete wet-out of the resin within the fiber preform, resulting in discontinuous material properties and localized failure zones in the material. A fundamental understanding of the resin evolution during processing is essential to designing processing conditions for void-free filling, which is the first objective of the dissertation. Secondly, FRCs used in rotorcraft experience severe vibrational loads during service, and improved damping characteristics of the composite structure are desirable. To this end, a second goal is to explore the use of matrix-embedded nanoscale reinforcements to augment the inherent damping capabilities in FRCs.<br /><br />The first objective is addressed through a computational modeling and simulation of the infiltrating dual-scale resin flow through the micro-architectures of woven fibrous preforms, accounting for the capillary effects within the fiber bundles. An analytical model is developed for the longitudinal permeability of flow through fibrous bundles and applied to simulations which provide detailed predictions of local air entrapment locations as the resin permeates the preform. Generalized design plots are presented for predicting the void content and processing time in terms of the Capillary and Reynolds Numbers governing the molding process.<br /><br />The second portion of the research investigates the damping enhancement provided to FRC\\'s in static and rotational configurations by different types and weight fractions of matrix-embedded carbon nanotubes (CNTs) in high fiber volume fraction composites. The damping is measured using dynamic mechanical analysis (DMA) and modal analysis techniques, and the results show that the addition of CNTs can increase the material damping by up to 130%. Numerical simulations are conducted to explore the CNT vibration damping effects in rotating composite structures, and demonstrate that the vibration settling times and the maximum displacement amplitudes of the different structures may be reduced by up to 72% and 50%, respectively, with the addition of CNTs.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-19T08:00:06Z (GMT). No. of bitstreams: 1 DeValve_CJ_D_2013.pdf: 9000957 bytes, checksum: ae855b910deb5944095025af7d672b8f (MD5)   Previous issue date: 2013-03-18",
+  "format_medium": "ETD",
+  "handle": "19290",
+  "identifier_other": "vt_gsexam:418",
+  "identifier_uri": "http://hdl.handle.net/10919/19290",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "fiber-reinforced composites",
+    "carbon nanotubes",
+    "analytical longitudinal permeability",
+    "void formation",
+    "material damping"
+  ],
+  "title": "Investigations on Void Formation in Composite Molding Processes and Structural Damping in Fiber-Reinforced Composites with Nanoscale Reinforcements",
+  "type": "Dissertation"
+}

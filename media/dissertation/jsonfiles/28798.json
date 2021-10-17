@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Wang, Yi",
+  "contributor_committeechair": "Bowman, Douglas A.",
+  "contributor_committeemember": [
+    "Krum, David",
+    "North, Christopher L.",
+    "Smith-Jackson, Tonya L.",
+    "Quek, Francis K. H."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:42Z",
+  "date_adate": "2010-09-29",
+  "date_available": "2014-03-14T20:15:42Z",
+  "date_issued": "2010-08-05",
+  "date_rdate": "2010-09-29",
+  "date_sdate": "2010-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "pictures. Videos have been increasingly used in multiple applications, including surveillance, teleconferencing, learning and experience sharing. Since a video captures a scene from a particular viewpoint, it can often be understood better if presented within a larger spatial context. We call such interactive visualizations that combine videos with their spatial context â  Contextualized Videosâ  . Over recent years, multiple innovative Contextualized Video interfaces have been proposed to taking advantage of the latest computer graphics and video processing technologies. These interfaces opened a huge design space with numerous design possibilities, each with its own benefits and limitations. To avoid piecemeal understanding of the design space, this dissertation systematically designs and evaluates Contextualized Video interfaces based on a taxonomy of tasks that can potentially benefit from Contextualized Videos. This dissertation first formalizes a design space. New designs are created incrementally along the four major dimensions of the design space. These designs are then empirically compared through a series of controlled experiments using multiple tasks. The tasks are carefully selected from a task taxonomy, which helps to avoid piecemeal understanding of the effect of the designs. Our design practices and empirical evaluations result in a set of design guidelines on how to choose proper designs according to the characteristics of the tasks and the users. Finally, we demonstrate how to apply the design guidelines to prototype a complex interface for a specific video surveillance application.",
+  "description_provenance": [
+    "Author Email: samywang@gmail.com",
+    "Advisor Email: dbowman@vt.edu",
+    "Advisor Email: krum@ict.usc.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: quek@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:42Z (GMT). No. of bitstreams: 7 Wang_Yi_D_2010_6.wmv: 8126090 bytes, checksum: a79959885dc2e8f4fce0a44df22a1f0b (MD5) Wang_Yi_D_2010_5.wmv: 8390096 bytes, checksum: 65b250262cfe27775a87d6980dc9486b (MD5) Wang_Yi_D_2010_4.wmv: 6742090 bytes, checksum: f71b0400938283c1673e13cef1188ffd (MD5) Wang_Yi_D_2010_3.wmv: 5366014 bytes, checksum: d876494e563e2a3665d6e0298c92413c (MD5) Wang_Yi_D_2010_2.wmv: 6502098 bytes, checksum: 96ff528a60c1be0b1ab74583b81c66ea (MD5) Wang_Yi_D_2010.pdf: 4137470 bytes, checksum: 84d0105a43d8cf44b9d4912008edcb9d (MD5) Wang_Yi_D_2010_3.wmv: 5366014 bytes, checksum: d876494e563e2a3665d6e0298c92413c (MD5)   Previous issue date: 2010-08-05"
+  ],
+  "handle": "28798",
+  "identifier_other": "etd-08252010-125536",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252010-125536/",
+  "identifier_uri": "http://hdl.handle.net/10919/28798",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Wang_Yi_D_2010_6.wmv",
+    "Wang_Yi_D_2010_5.wmv",
+    "Wang_Yi_D_2010_4.wmv",
+    "Wang_Yi_D_2010_3.wmv",
+    "Wang_Yi_D_2010_2.wmv",
+    "Wang_Yi_D_2010.pdf",
+    "Wang_Yi_D_2010_3.wmv"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "visualization",
+    "Contextualized Videos",
+    "3D",
+    "navigation",
+    "video surveillance"
+  ],
+  "title": "Design and Evaluation of Contextualized Video Interfaces",
+  "type": "Dissertation"
+}

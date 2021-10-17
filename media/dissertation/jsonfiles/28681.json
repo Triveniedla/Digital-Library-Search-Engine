@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Seigler, Thomas Michael",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeecochair": "Sanders, Brian",
+  "contributor_committeemember": [
+    "Robertshaw, Harry H.",
+    "Leo, Donald J.",
+    "Mason, William H.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:18Z",
+  "date_adate": "2005-09-14",
+  "date_available": "2014-03-14T20:15:18Z",
+  "date_issued": "2005-08-02",
+  "date_rdate": "2005-09-14",
+  "date_sdate": "2005-08-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The following work is directed towards an evaluation of aircraft that undergo structural shape change for the purpose of optimized flight and maneuvering control authority. Dynamical equations are derived for a morphing aircraft based on two primary representations; a general non-rigid model and a multi-rigid-body. A simplified model is then proposed by considering the altering structural portions to be composed of a small number of mass particles. The equations are then extended to consider atmospheric flight representations where the longitudinal and lateral equations are derived. Two aspects of morphing control are considered. The first is a regulation problem in which it is desired to maintain stability in the presence of large changes in both aerodynamic and inertial properties. From a baseline aircraft model various wing planform designs were constructed using Datcom to determine the required aerodynamic contributions. Based on nonlinear numerical evaluations adequate stabilization control was demonstrated using a robust linear control design. In maneuvering, divergent characteristics were observed at high structural transition rates. The second aspect considered is the use of structural changes for improved flight performance. A variable span aircraft is then considered in which asymmetric wing extension is used to effect the rolling moment. An evaluation of the variable span aircraft is performed in the context of bank-to-turn guidance in which an input-output control law is implemented.",
+  "description_provenance": [
+    "Author Email: tseigler@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: Brian.Sanders@wpafb.af.mil",
+    "Made available in DSpace on 2014-03-14T20:15:18Z (GMT). No. of bitstreams: 1 Seigler05_Dissertation.pdf: 1097007 bytes, checksum: 66a147b0f6dce87d0089bf16b5add625 (MD5)   Previous issue date: 2005-08-02"
+  ],
+  "handle": "28681",
+  "identifier_other": "etd-08162005-134143",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08162005-134143/",
+  "identifier_uri": "http://hdl.handle.net/10919/28681",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Seigler05_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Flight Dynamics",
+    "Flight Control",
+    "Morphing Aircraft"
+  ],
+  "title": "Dynamics and Control of Morphing Aircraft",
+  "type": "Dissertation"
+}

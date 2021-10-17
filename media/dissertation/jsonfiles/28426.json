@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Wang, Yanping",
+  "contributor_committeechair": "Smith, Eric P.",
+  "contributor_committeecochair": "Ye, Keying",
+  "contributor_committeemember": [
+    "Myers, Raymond H.",
+    "Anderson-Cook, Christine M.",
+    "Birch, Jeffrey B."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:24Z",
+  "date_adate": "2002-07-31",
+  "date_available": "2014-03-14T20:14:24Z",
+  "date_issued": "2002-07-23",
+  "date_rdate": "2003-07-31",
+  "date_sdate": "2002-07-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Optimal experimental designs for generalized linear models have received increasing attention in recent years. Yet, most of the current research focuses on binary data models especially the one-variable first-order logistic regression model. This research extends this topic to count data models. The primary goal of this research is to develop efficient and robust experimental designs for the Poisson regression model in toxicity studies.  D-optimal designs for both the one-toxicant second-order model and the two-toxicant interaction model are developed and their dependence upon the model parameters is investigated. Application of the D-optimal designs is very limited due to the fact that these optimal designs, in terms of ED levels, depend upon the unknown parameters. Thus, some practical designs like equally spaced designs and conditional D-optimal designs, which, in terms of ED levels, are independent of the parameters, are studied. It turns out that these practical designs are quite efficient when the design space is restricted.  Designs found in terms of ED levels like D-optimal designs are not robust to parameters misspecification. To deal with this problem, sequential designs are proposed for Poisson regression models. Both fully sequential designs and two-stage designs are studied and they are found to be efficient and robust to parameter misspecification. For experiments that involve two or more toxicants, restrictions on the survival proportion lead to restricted design regions dependent on the unknown parameters. It is found that sequential designs perform very well under such restrictions.  In most of this research, the log link is assumed to be the true link function for the model. However, in some applications, more than one link functions fit the data very well. To help identify the link function that generates the data, experimental designs for discrimination between two competing link functions are investigated. T-optimal designs for discrimination between the log link and other link functions such as the square root link and the identity link are developed. To relax the dependence of T-optimal designs on the model truth, sequential designs are studied, which are found to converge to T-optimal designs for large experiments.",
+  "description_provenance": [
+    "Author Email: yawang6@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:24Z (GMT). No. of bitstreams: 1 thesis.pdf: 1538982 bytes, checksum: 454041c7408a3d26b5114815268e47e2 (MD5)   Previous issue date: 2002-07-23"
+  ],
+  "handle": "28426",
+  "identifier_other": "etd-07282002-150028",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07282002-150028/",
+  "identifier_uri": "http://hdl.handle.net/10919/28426",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Poisson Regression Model",
+    "Design Optimality",
+    "Experimental Design"
+  ],
+  "title": "Optimal Experimental Designs for the Poisson Regression Model in Toxicity Studies",
+  "type": "Dissertation"
+}

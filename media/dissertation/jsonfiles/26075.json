@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Tonks, Michael James",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Scott, Elaine P.",
+    "Kapania, Rakesh K.",
+    "Murphy, Kent A.",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:07:01Z",
+  "date_adate": "2006-02-09",
+  "date_available": "2014-03-14T20:07:01Z",
+  "date_issued": "2006-01-23",
+  "date_rdate": "2007-02-09",
+  "date_sdate": "2006-01-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this work was to design, analyze and test a fast response fiber-optic temperature probe and sensor.  The sensor is intended for measuring rapid temperature changes such as produced by a blast wave formed by a detonation.  This work was performed in coordination with Luna Innovations Incorporated, and the design is based on extensions of an existing fiber-optic temperature sensor developed by Luna.  The sensor consists of a glass fiber with an optical wafer attached to the tip.  A basic description of the principles behind the fiber-optic temperature sensor and an accompanying demodulation system is provided.    For experimental validation tests, shock tubes were used to simulate the blast wave experienced at a distance of 3.0 m from the detonation of 22.7 kg of TNT.  The flow conditions were predicted using idealized shock tube theory.  The temperature sensors were tested in three configurations, flush at the end of the shock tube, extended on a probe 2.54 cm into the flow and extended on a probe 12.7 cm into the flow.  The total temperature was expected to change from 300 K to 1130 K for the flush wall experiments and from 300 K to 960 K for the probe experiments.  During the initial 0.1 milliseconds of the data the temperature only changed 8 K when the sensors were flush in the end of the shock tube.  The sensor temperature changed 36 K during the same time when mounted on a probe in the flow.  Schlieren pictures were taken of the flow in the shock tube to further understand the shock tube environment.  Contrary to ideal shock tube theory, it was discovered that the flow did not remain stagnant in the end of the shock tube after the shock reflects from the end of the shock tube.  Instead, the effects of turbulence were recorded with the fiber-optic sensors, and this turbulence was also captured in the schlieren photographs.  A fast-response thermocouple was used to collect data for comparison with the fiber-optic sensor, and the fiber-optic sensor was proven to have a faster response time compared to the thermocouple.  When the sensors were extended 12.7 cm into the flow, the fiber-optic sensors recorded a temperature change of 143 K compared to 38 K recorded by the thermocouple during the 0.5 millisecond test.  This corresponds to 22% of the change of total temperature in the air recorded by the fiber-optic sensor and only 6% recorded by the thermocouple.  Put another way, the fiber-optic sensor experience a rate of temperature change equal to 2.9x105 K/s and the thermocouple changed at a rate of 0.79x105 K/s.  The data recorded from the fiber-optic sensor also contained much less noise than the thermocouple data.  An unsteady finite element thermal model was created using ANSYS to predict the temperature response of the sensor.  Test cases with known analytical solutions were used to verify the ANSYS modeling procedures.  The shock tube flow environment was also modeled with Fluent, a commercially available CFD code.  Fluent was used to determine the heat transfer between the shock tube flow and the sensor.  The convection film coefficient for the flow was predicted by Fluent to be 27,150 W/m2K for the front of the wafer and 13,385 W/m2K for the side.  The Fluent results were used with the ANSYS model to predict the response of the fiber-optic sensor when exposed to the shock tube flow.  The results from the Fluent/ANSYS model were compared to the fiber-optic measurements taken in the shock tube.  It was seen that the heat flux to the sensor was slightly over-predicted by the model, and the heat losses from the wafer were also over-predicted. Since the prediction fell within the uncertainty of the measurement, it was found to be in good agreement with the measured values.  Inverse heat transfer methods were used to determine the total temperature of the flow from the measured data.  Both the total temperature and the film coefficient were determined simultaneously during this process.  It was found that for short testing times, there were many possible solutions.  In order to obtain ultimate success with this method, the uncertainty of the demodulation system must be improved and/or the simple analytical thermal model used to predict the response of the sensor needs to match the physical sensor.  Whenever possible, longer testing times should be employed.  Promising suggestions for extending this approach are provided.",
+  "description_provenance": [
+    "Author Email: mtonks@vt.edu",
+    "Advisor Email: scottep@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: wdevenpo@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:01Z (GMT). No. of bitstreams: 1 Dissertation_mtonks.pdf: 14403067 bytes, checksum: b164d16c0eb260658656a3d4975d4e2d (MD5)   Previous issue date: 2006-01-23"
+  ],
+  "handle": "26075",
+  "identifier_other": "etd-01302006-151504",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01302006-151504/",
+  "identifier_uri": "http://hdl.handle.net/10919/26075",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_mtonks.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "temperature sensors",
+    "fiber-optic",
+    "shock tube",
+    "inverse heat transfer",
+    "computational modeling"
+  ],
+  "title": "Modeling and Testing of Fast Response, Fiber-Optic Temperature Sensors",
+  "type": "Dissertation"
+}

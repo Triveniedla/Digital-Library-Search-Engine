@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Shen, Fabin",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Safaai-Jazi, Ahmad",
+    "Jacobs, Ira",
+    "Liu, Yilu",
+    "Indebetouw, Guy J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:10Z",
+  "date_adate": "2006-08-15",
+  "date_available": "2014-03-14T20:13:10Z",
+  "date_issued": "2006-06-01",
+  "date_rdate": "2006-08-15",
+  "date_sdate": "2006-06-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Distributed temperature and strain sensing is demanded for a wide range of applications including real-time monitoring of industrial processes, health monitoring of civil infrastructures, etc. Optical fiber distributed sensors have attracted tremendous research interests in the past decade to meet the requirements of such applications.  This research presents a multiplexed sensor array for distributed temperature and strain sensing that can multiplex a large number of UV-induced sensors along a single fiber. The objective of this research is to develop a quasi-distributed sensing technology that will greatly increase the multiplexing capacity of a sensor network and can measure temperature and strain with a high accuracy and high resolution.  UV-induced intrinsic Fabry-Perot interferometric (IFPI) optical fiber sensors, which have low reflectance and low power loss, are good candidates for multiplexed sensors networks.  Partial reflectors are constructed by irradiating photosensitive fiber with a UV laser beam. A pair of reflectors will form a Fabry-Perot interferometer that can be used for temperature and strain sensing. A sensor fabrication system based on a pulsed excimer laser and a shadow mask is developed.  A spectrum-based measurement system is presented to measure the interference fringes of IFPI sensors. A swept coherent light source is used as the light source. The spectral responses of the IFPI sensors at different wavelengths are measured. A frequency division multiplexing (FDM) scheme is proposed. Multiple sensors with different optical path differences (OPD) have different sub-carrier frequencies in the measured spectrum of the IFPI sensors. The multiplexing capacity of the sensor system and the crosstalk between sensors are analyzed.   Frequency estimation based digital signal processing algorithms are developed to determine the absolute OPDs of the IFPI sensors. Digital filters are used to select individual frequency components and filter out the noise. The frequency and phase of the filtered signal are estimated by means of peak finding and phase linear regression methods. The performance of the signal processing algorithms is analyzed.  Experimental results for temperature and strain measurement are demonstrated. The discrimination of the temperature and strain cross sensitivity is investigated. Experimental results show that UV-induced IFPI sensors in a FDM scheme have good measurement accuracy for temperature and strain sensing and potentially have a large multiplexing capacity.",
+  "description_provenance": [
+    "Author Email: fashen1@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:10Z (GMT). No. of bitstreams: 1 Dissertation_Shen.pdf: 1110854 bytes, checksum: e2166cf4661616cbebf2cc8d640d7019 (MD5)   Previous issue date: 2006-06-01"
+  ],
+  "handle": "28053",
+  "identifier_other": "etd-06162006-005309",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06162006-005309/",
+  "identifier_uri": "http://hdl.handle.net/10919/28053",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Shen.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fiber Optic Sensors",
+    "UV-induced",
+    "Multiplexing",
+    "FDM",
+    "Temperature",
+    "Strain",
+    "Distributed Sensing",
+    "Intrinsic Fabry-Perot Interferometers"
+  ],
+  "title": "UV-Induced Intrinsic Fabry-Perot Interferometric Fiber Sensors and Their Multiplexing for Quasi-Distributed Temperature and Strain Sensing",
+  "type": "Dissertation"
+}

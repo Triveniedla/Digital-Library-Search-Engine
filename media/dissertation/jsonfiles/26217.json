@@ -1,0 +1,45 @@
+{
+  "contributor_author": "El-Bakly, Ahmed Mostafa",
+  "contributor_committeechair": "Riad, Sedki Mohamed",
+  "contributor_committeemember": [
+    "Scales, Wayne A.",
+    "Besieris, Ioannis M.",
+    "Elshabini-Riad, Aicha A.",
+    "Su, Wansheng"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:32Z",
+  "date_adate": "1999-02-24",
+  "date_available": "2014-03-14T20:07:32Z",
+  "date_issued": "1999-02-12",
+  "date_rdate": "1999-02-24",
+  "date_sdate": "1999-02-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "To properly design the microwave components such as transmission lines, filters, capacitors, inductors, and many others, it is important to know the characteristics of the construction materials at microwave frequencies. One of the most reliable techniques in material characterization at microwave frequencies is the coplaner coupled stripline resonator technique. This technique is an enhancement to the classical stripline resonator technique. In this technique, the measured resonance frequency and quality factor of the resonator are used to determine the complex permitivity.  One of the main problems in this technique is the proper modeling of the coupling gaps. In this dissertation we will introduce an accurate model of the coupling gap, which will shows that the capacitive behavior of the gap is not pure capacitive as known before, but it turns into more complex one at higher frequencies depending on the dimensions of the gap primarily. The second main problem is the limitation in the frequency range for accurate measurements. At higher frequencies, the coupling reaches its peak value for a given stripline resulting in excessive loading to the resonator and thus a lowered Q value. In this frequency range, measurement of the dielectric properties looses its accuracy because the lowered Q values which means inaccuracies in determining the resonant frequencies as well as great error in determining the Qc and Qd terms. In this dissertation, attempts to remedy this problem by introducing two different approaches to get an improved design for the coplaner coupled stripline resonator are presented.  The first approach to optimize the design of the coplaner coupled stripline resonator is based on optimizing the dimensions of the coplaner coupled stripline resonator three sections (coplaner, transition region, and the center stripline).  In the second approach, a reactive stub (via) is introduced in the coupling gap between the coplaner line and the center stripline. The added stub is designed to improve the Q values of the structure resonances. Simulations of different designs of the coplaner coupled stripline resonator using different stub dimensions are presented. Advantages and disadvantages of these designs as well as the solution to their resonance frequency shift problems are discussed as well.",
+  "description_provenance": [
+    "Author Email: aelbakly@vt.edu",
+    "Advisor Email: wayne@starchild.ee.vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: ariad@vt.edu",
+    "Advisor Email: wansheng_su@notesgw.hns.com",
+    "Made available in DSpace on 2014-03-14T20:07:32Z (GMT). No. of bitstreams: 1 AhmedDiss.pdf: 3397066 bytes, checksum: 4bd29118131a4d55e2a93fe92f81fad9 (MD5)   Previous issue date: 1999-02-12"
+  ],
+  "handle": "26217",
+  "identifier_other": "etd-021599-133448",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-021599-133448/",
+  "identifier_uri": "http://hdl.handle.net/10919/26217",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "AhmedDiss.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Material Characterization",
+    "Gaps",
+    "Stripline Resonator",
+    "Stripline"
+  ],
+  "title": "Optimization Study of the Stripline Resonator Technique for Dielectric Characterization",
+  "type": "Dissertation"
+}

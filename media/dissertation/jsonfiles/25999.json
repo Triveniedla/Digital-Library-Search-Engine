@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Adamec, Vaclav",
+  "contributor_committeechair": "Cassell, Bennet G.",
+  "contributor_committeemember": [
+    "Pearson, Ronald E.",
+    "Nickerson, Stephen C.",
+    "Smith, Eric P.",
+    "Notter, David R."
+  ],
+  "contributor_department": "Dairy Science",
+  "date_accessioned": "2014-03-14T20:06:45Z",
+  "date_adate": "2002-01-17",
+  "date_available": "2014-03-14T20:06:45Z",
+  "date_issued": "2002-01-07",
+  "date_rdate": "2003-01-17",
+  "date_sdate": "2002-01-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Intensive selection for increased milk production over many generations has led to growing genetic similarity and increased relationships in dairy population. In the current study, inbreeding depression was estimated for number of days to first service, summit milk, conception by 70 days non-return, and calving rate with a linear mixed model (LMM) approach and for calving difficulty, calf mortality with a Bayesian threshold model (BTM) for categorical traits. Effectiveness of classical and unknown parentage group procedures to estimate inbreeding coefficients was evaluated depending on completeness of a 5-generation pedigree. A novel method derived from the classical formula to estimate inbreeding was utilized to evaluate completeness of pedigrees. Two different estimates of maternal inbreeding were fitted in separate models as a linear covariate in combined LMM analyses (Holstein registered and grade cows and Jersey cows) or separate analyses (registered Holstein cows) by parity (1-4) with fetal inbreeding. Impact of inbreeding type, model, data structure, and treatment of herd-year-season (HYS) on magnitude and size of inbreeding depression were assessed. Grade Holstein datasets were sampled and analyzed by percentage of pedigree present (0-30%, 30-70% and 70-100%). BTM analyses (sire-mgs) were performed using Gibbs sampling for parities 1, 2 and 3 fitting maternal inbreeding only. In LMM analyses of grade data, the least pedigree and diagonal A matrix performed the worst. Significant inbreeding effects were obtained in most traits in cows of parity 1. Fetal inbreeding depression was mostly lower than that from maternal inbreeding. Inbreeding depression in binary traits was the most difficult to evaluate. Analyses with non-additive effects included in LMM, for data by inbreeding level and by age group should be preferred to estimate inbreeding depression. In BTM inbreeding effects were strongly related to dam parity and calf sex. Largest effects were obtained from parity 1 cows giving birth to male calves (0.417% and 0.252% for dystocia and calf mortality) and then births to female calves (0.300% and 0.203% for dystocia and calf mortality). Female calves from mature cows were the least affected (0.131% and 0.005% for dystocia and calf mortality). Data structure was found to be a very important factor to attainment of  convergence in distribution.",
+  "description_provenance": [
+    "Author Email: vadamec@vt.edu",
+    "Advisor Email: rep@vt.edu",
+    "Advisor Email: snickers@vt.edu",
+    "Advisor Email: bcassell@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: drnotter@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:45Z (GMT). No. of bitstreams: 1 ETD.pdf: 4141901 bytes, checksum: e9672fdb83a7e7d972e567566c9f1caf (MD5)   Previous issue date: 2002-01-07"
+  ],
+  "handle": "25999",
+  "identifier_other": "etd-01152002-163035",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01152002-163035/",
+  "identifier_uri": "http://hdl.handle.net/10919/25999",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Reproduction",
+    "Mixed Models",
+    "Categorical Variables",
+    "Inbreeding"
+  ],
+  "title": "THE EFFECT OF MATERNAL AND FETAL INBREEDING ON DYSTOCIA, CALF SURVIVAL, DAYS TO FIRST SERVICE AND NON-RETURN PERFORMANCE IN U.S. DAIRY CATTLE",
+  "type": "Dissertation"
+}

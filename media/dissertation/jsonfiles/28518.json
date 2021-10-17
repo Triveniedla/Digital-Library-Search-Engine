@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Viswanathan, Aroon Kumar",
+  "contributor_committeechair": "Tafti, Danesh K.",
+  "contributor_committeemember": [
+    "Ng, Fai",
+    "Devenport, William J.",
+    "Diller, Thomas E.",
+    "Hajj, Muhammad R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:44Z",
+  "date_adate": "2006-09-08",
+  "date_available": "2014-03-14T20:14:44Z",
+  "date_issued": "2006-07-31",
+  "date_rdate": "2006-09-08",
+  "date_sdate": "2006-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Detached Eddy Simulations (DES) is a hybrid URANS-LES technique that was proposed to obtain computationally feasible solutions of high Reynolds number flows undergoing massive separation with reliable accuracy. Since its inception, DES has been applied to a wide variety of flow fields, but mostly limited to unbounded external aerodynamic flows. This is the first study to apply and validate DES to predict the internal flow and heat transfer in non-canonical flows of industrial relevance. The prediction capabilities of DES in capturing the effects of Coriolis forces, which are induced by rotation, and centrifugal buoyancy forces, which are induced by thermal gradients, are also authenticated.  The accurate prediction of turbulent flows is sensitive to the level of turbulence predicted by the turbulence scheme. By treating the regions of interest in LES mode, DES allows the unsteadiness in these regions to develop and hence predicts the turbulence levels accurately. Additionally, this permits DES to capture the effects of system rotation and buoyancy. Computations on a rotating system (a sudden expansion duct) and a system subjected to thermal gradients (cavity with a heated wall) validate the prediction capability of DES.   The application of DES is further extended to a non-canonical, internal flow which is of relevance in internal cooling of gas turbine blades. Computations of the fully developed flow and heat transfer shows that DES surpasses several shortcomings of the RANS model on which it is based. DES accurately predicts the primary and secondary flow features, the turbulence characteristics and the heat transfer in stationary ducts and in rotating ducts, where the effects of Coriolis forces and centrifugal buoyancy forces are dominant. DES computations are carried out at a computational cost that is almost an order of magnitude less than the LES with little compromise on the accuracy.  However, the capabilities of DES in predicting the transition to turbulence are inadequate, as highlighted by the flow features and the heat transfer in the developing region of the duct. But once the flow becomes fully turbulent, DES predicts the flow physics and shows good quantitative agreement with the experiments and LES.",
+  "description_provenance": [
+    "Author Email: aroonkv@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:44Z (GMT). No. of bitstreams: 1 ViswanathanDissertationMEPhDModified.pdf: 10189702 bytes, checksum: cd875ecaea5be77658c075db9b9816bc (MD5)   Previous issue date: 2006-07-31"
+  ],
+  "handle": "28518",
+  "identifier_other": "etd-08042006-141944",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08042006-141944/",
+  "identifier_uri": "http://hdl.handle.net/10919/28518",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ViswanathanDissertationMEPhDModified.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Detached Eddy Simulations (DES)",
+    "turbine blade internal cooling",
+    "ribbed ducts",
+    "centrifugal buoyancy",
+    "Coriolis forces"
+  ],
+  "title": "Detached Eddy Simulation of Turbulent Flow and Heat Transfer in Turbine Blade Internal Cooling Ducts",
+  "type": "Dissertation"
+}

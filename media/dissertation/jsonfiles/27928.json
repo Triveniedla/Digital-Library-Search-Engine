@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Kim, Kyou  Wook",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "Tranter, William H.",
+    "McCrickard, Donald Scott",
+    "da Silva, Claudio R. C. M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:40Z",
+  "date_adate": "2008-07-09",
+  "date_available": "2014-03-14T20:12:40Z",
+  "date_issued": "2008-05-08",
+  "date_rdate": "2008-07-09",
+  "date_sdate": "2008-06-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The tremendous ongoing growth of wireless digital communications has raised spectrum shortage and security issues. In particular, the need for new spectrum is the main obstacle in continuing this growth. Recent studies on radio spectrum usage have shown that pre-allocation of spectrum bands to specific wireless communication applications leads to poor utilization of those allocated bands. Therefore, research into new techniques for efficient spectrum utilization is being aggressively pursued by academia, industry, and government. Such research efforts have given birth to two concepts: Cognitive Radio (CR) and Dynamic Spectrum Access (DSA) network. CR is believed to be the key enabling technology for DSA network implementation. CR based DSA (cDSA) networks utilizes white spectrum for its operational frequency bands. White spectrum is the set of frequency bands which are unoccupied temporarily by the users having first rights to the spectrum (called primary users). The main goal of cDSA networks is to access of white spectrum. For proper access, CR nodes must identify the right cDSA network and the absence of primary users before initiating radio transmission. To solve the cDSA network access problem, methods are proposed to design unique second-order cyclic features using Orthogonal Frequency Division Multiplexing (OFDM) pilots. By generating distinct OFDM pilot patterns and measuring spectral correlation characteristics of the cyclostationary OFDM signal, CR nodes can detect and uniquely identify cDSA networks. For this purpose, the second-order cyclic features of OFDM pilots are investigated analytically and through computer simulation. Based on analysis results, a general formula for estimating the dominant cycle frequencies is developed. This general formula is used extensively in cDSA network identification and OFDM signal detection, as well as pilot pattern estimation. CR spectrum awareness capability can be enhanced when it can classify the modulation type of incoming signals at low and varying signal-to-noise ratio. Signal classification allows CR to select a suitable demodulation process at the receiver and to establish a communication link. For this purpose, a threshold-based technique is proposed which utilizes cycle-frequency domain profile for signal detection and feature extraction. Hidden Markov Models (HMMs) are proposed for the signal classifier. The spectrum awareness capability of CR can be undermined by spoofing radio nodes. Automatic identification of malicious or malfunctioning radio signal transmitters is a major concern for CR information assurance. To minimize the threat from spoofing radio devices, radio signal fingerprinting using second-order cyclic features is proposed as an approach for Specific Emitter Identification (SEI). The feasibility of this approach is demonstrated through the identification of IEEE 802.11a/g OFDM signals from different Wireless Local Area Network (WLAN) card manufactures using HMMs.",
+  "description_provenance": [
+    "Author Email: kyouwook@vt.edu, ct2kwkim@samsung.com, ct2kwkim@gmail.com",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:40Z (GMT). No. of bitstreams: 1 Kyouwoong_Kim_Dissertation_Updated_a.pdf: 4539230 bytes, checksum: df83e1b7569aa55131815a2c8defec88 (MD5)   Previous issue date: 2008-05-08"
+  ],
+  "handle": "27928",
+  "identifier_other": "etd-06022008-173056",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06022008-173056/",
+  "identifier_uri": "http://hdl.handle.net/10919/27928",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kyouwoong_Kim_Dissertation_Updated_a.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "OFDM",
+    "Cognitive Radio",
+    "Cyclostationarity",
+    "Dynamic Spectrum Access Network",
+    "Signal Detection",
+    "Signal Classification",
+    "Specific Emitter Identification",
+    "Hidden Markov Model"
+  ],
+  "title": "Exploiting Cyclostationarity for Radio Environmental Awareness in Cognitive Radios",
+  "type": "Dissertation"
+}

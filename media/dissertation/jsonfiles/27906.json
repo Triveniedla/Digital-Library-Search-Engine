@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Tentor, Lawrence B.",
+  "contributor_committeechair": "Wicks, Alfred L.",
+  "contributor_committeemember": [
+    "Robertshaw, Harry H.",
+    "Inman, Daniel J.",
+    "Ahmadian, Mehdi",
+    "Cudney, Harley H."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:37Z",
+  "date_adate": "2002-09-26",
+  "date_available": "2014-03-14T20:12:37Z",
+  "date_issued": "2000-09-14",
+  "date_rdate": "2003-09-26",
+  "date_sdate": "2002-05-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Tuned vibration absorbers (TVA) have been discussed in literature since the early twentieth century.  These devices are implemented to suppress the systemâ  s vibration by transferring energy to the absorber mass.  This research examines an electromagnetic tuned vibration absorber that can have its tuned frequency altered by gap and current variation.  The advantage of an adjustable TVA is that the system can be tuned to various excitation frequencies to cancel vibration.  This research examines a unique embodiment using permanent magnets and an electromagnetic absorber to alter the system dynamics.  The focus is to allow changes in tuned frequency to cancel system vibrations.  This research develops the electromagnetic theory, presents absorber system simulations, and tests the dynamic absorberâ  s response.  The electromagnetic field is investigated to determine the field between a stationary magnet and the absorber electromagnet.  This field can be numerically calculated as the superposition of four constituent fields.  With the electromagnetic field determined, the force to displacement relation between the stationary magnet and the absorber electromagnet is calculated.  The best fit is determined to be an inverse square relationship.  Once the spring force relation is determined, the damping mechanisms are discussed and experiments proposed to isolate the different damping mechanisms.  In the simulations, it is found that by having an adjustable electromagnetic TVA the natural frequency can be adjusted 2-3% with a +10 amp input and over 50% for a variable gap.  The advantage of the variable gap is that it may be adjusted once and then no additional energy is needed, while the advantage of the variable current is that the system may be rapidly altered.  The experiments are undertaken to test the constructed absorber for the spring and damping force.  The tests confirm the spring force relation and quantify the high damping present in the tested configuration.  Then the absorber system transfer functions are recorded.  The absorber is then applied to a single degree of freedom system to verify its cancellation results by a gap variation.",
+  "description_provenance": [
+    "Author Email: LTentor@VT.edu",
+    "Advisor Email: AWicks@VT.edu",
+    "Made available in DSpace on 2014-03-14T20:12:37Z (GMT). No. of bitstreams: 1 01Dissertation.pdf: 1560884 bytes, checksum: 71453261a9cc9fd2c4646a957d72051e (MD5)   Previous issue date: 2000-09-14"
+  ],
+  "handle": "27906",
+  "identifier_other": "etd-05272002-194631",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05272002-194631/",
+  "identifier_uri": "http://hdl.handle.net/10919/27906",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "01Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Electromagnetic Fields",
+    "Tuned Vibration Absorber"
+  ],
+  "title": "Characterization of an Electromagnetic Tuned Vibration Actuator",
+  "type": "Dissertation"
+}

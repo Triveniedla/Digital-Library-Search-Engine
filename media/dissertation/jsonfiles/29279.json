@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Xi, Hong",
+  "contributor_committeechair": "Scales, Wayne A.",
+  "contributor_committeemember": [
+    "Besieris, Ioannis M.",
+    "Brown, Gary S.",
+    "Safaai-Jazi, Ahmad",
+    "Beattie, Christopher A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:23Z",
+  "date_adate": "2004-10-22",
+  "date_available": "2014-03-14T20:17:23Z",
+  "date_issued": "2004-09-06",
+  "date_rdate": "2004-10-22",
+  "date_sdate": "2004-10-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Stimulated electromagnetic emission (SEE) produced by interactions of high-power radio waves with the Earth's ionosphere is currently a topic of significant interest in ionospheric modification physics. SEE is believed to be produced by nonlinear wave-wave interactions involving the electromagnetic and electrostatic plasma waves in the altitude region where the pump wave frequency is near the upper hybrid resonance frequency. The most prominent upshifted feature in the SEE spectrum is the broad upshifted maximum (BUM). In this study, the instability processes thought to be responsible to the BUM spectra in the SEE experiments are discussed and analyzed using theoretical and electrostatic particle-in-cell (PIC) models.<br> <br> From characteristics of this feature, a four-wave parametric decay process has been studied as a viable mechanism for its production. The object is to (1) investigate the early time nonlinear development of the four-wave decay instability by using theoretical and numerical simulation models, (2) study the variation of the four-wave decay instability spectral features for a wide range of plasma and pump wave parameters, and (3) access its possible role in the production of the BUM spectral feature. Results of this investigation show that there is good agreement between predictions of the proposed theoretical model and the numerical simulation experiments. The simulation electric field power spectrum exhibits many of the important features of the experimental observations. The numerical simulation results show that consideration of the full nonlinear development of the four-wave parametric instability is crucial in providing insight into the asymmetric nature of the wave frequency spectrum observed during the experiments.<br> <br> The velocity-space ring-plasma instability, another generation mechanism for the BUM spectra, is studied using a theoretical model. The theoretical calculations show that the growth rate is larger in the region of the upper hybrid wave than that of the electron Bernstein wave. In addition, the effects of various plasma parameters are analyzed and it is predicted that the BUM should be more prominent with a hotter ring, at the direction perpendicular to the magnetic field, or in a closer region of cyclotron harmonic. A detailed comparison of the velocity space ring-plasma instability and the four-wave parametric process is presented where both the differences and the possible relations are discussed.",
+  "description_provenance": [
+    "Author Email: hoxi@vt.edu",
+    "Advisor Email: wscales@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:23Z (GMT). No. of bitstreams: 1 hong_xi_etd.pdf: 1813751 bytes, checksum: ed7d2246d164ec856e99219c4ae793f7 (MD5)   Previous issue date: 2004-09-06"
+  ],
+  "handle": "29279",
+  "identifier_other": "etd-10152004-191708",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10152004-191708/",
+  "identifier_uri": "http://hdl.handle.net/10919/29279",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "hong_xi_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "SEE",
+    "BUM",
+    "Ring-Plasma Instability",
+    "Four Wave Decay Process",
+    "Numerical Simulation",
+    "Particle-In-Cell Code"
+  ],
+  "title": "Theoretical and Numerical Studies of Frequency Up-shifted Ionospheric Stimulated Radiation",
+  "type": "Dissertation"
+}

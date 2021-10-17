@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Tatting, Brian  F.",
+  "contributor_committeechair": "Gürdal, Zafer",
+  "contributor_committeemember": [
+    "Johnson, Eric R.",
+    "Meirovitch, Leonard",
+    "Librescu, Liviu",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:17:28Z",
+  "date_adate": "1998-11-02",
+  "date_available": "2014-03-14T20:17:28Z",
+  "date_issued": "1998-10-13",
+  "date_rdate": "1998-11-02",
+  "date_sdate": "1998-10-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An investigation of the possible performance improvements of thin circular cylindrical shells through the use of the variable stiffness concept is presented. The variable stiffness concept implies that the stiffness parameters change spatially throughout the structure. This situation is achieved mainly through the use of curvilinear fibers within a fiber-reinforced composite laminate, though the possibility of thickness variations and discrete stiffening elements is also allowed. These three mechanisms are incorporated into the constitutive laws for thin shells through the use of Classical Lamination Theory. The existence of stiffness variation within the structure warrants a formulation of the static equilibrium equations from the most basic principles. The governing equations include sufficient detail to correctly model several types of nonlinearity, including the formation of a nonlinear shell boundary layer as well as the Brazier effect due to nonlinear bending of long cylinders. Stress analysis and initial buckling estimates are formulated for a general variable stiffness cylinder. Results and comparisons for several simplifications of these highly complex governing equations are presented so that the ensuing numerical solutions are considered reliable and efficient enough for in-depth optimization studies. Four distinct cases of loading and stiffness variation are chosen to investigate possible areas of improvement that the variable stiffness concept may offer over traditional constant stiffness and/or stiffened structures. The initial investigation deals with the simplest solution for cylindrical shells in which all quantities are constant around the circumference of the cylinder. This axisymmetric case includes a stiffness variation exclusively in the axial direction, and the only pertinent loading scenarios include constant loads of axial compression, pressure, and torsion. The results for these cases indicate that little improvement over traditional laminates exists through the use of curvilinear fibers, mainly due to the presence of a weak link area within the stiffness variation that limits the ultimate load that the structure can withstand. Rigorous optimization studies reveal that even though slight increases in the critical loads can be produced for designs with an arbitrary variation of the fiber orientation angle, the improvements are not significant when compared to traditional design techniques that utilize ring stiffeners and frames. The second problem that is studied involves arbitrary loading of a cylinder with a stiffness variation that changes only in the circumferential direction. The end effects of the cylinder are ignored, so that the problem takes the form of an analysis of a cross-section for a short cylinder segment. Various load cases including axial compression, pressure, torsion, bending, and transverse shear forces are investigated. It is found that the most significant improvements in load-carrying capability exist for cases which involve loads that also vary around the circumference of the shell, namely bending and shear forces. The stiffness variation of the optimal designs contribute to the increased performance in two ways: lowering the stresses in the critical areas through redistribution of the stresses; and providing a relatively stiff region that alters the buckling behavior of the structure. These results led to an in-depth optimization study involving weight optimization of a fuselage structure subjected to typical design constraints. Comparisons of the curvilinear fiber format to traditional stiffened structures constructed of isotropic and composite materials are included. It is found that standard variable stiffness designs are quite comparable in terms of weight and load-carrying capability yet offer the added advantage of tailorability of distinct regions of the structure that experience drastically different loading conditions. The last two problems presented in this work involve the nonlinear phenomenon of long tubes under bending. Though this scenario is not as applicable to fuselage structures as the previous problems, the mechanisms that produce the nonlinear effect are ideally suited to be controlled by the variable stiffness concept. This is due to the fact that the dominating influence for long cylinders under bending is the ovalization of the cross-section, which is governed mainly by the stiffness parameters of the cylindrical shell. Possible improvement of the critical buckling moments for these structures is investigated using either a circumferential or axial stiffness variation. For the circumferential case involving infinite length cylinders, it is found that slight improvements can be observed by designing structures that resist the cross-sectional deformation yet do not detract from the buckling resistance at the critical location. The results also indicate that bucking behavior is extremely dependent on cylinder length. This effect is most easily seen in the solution of finite length cylinders under bending that contain an axial stiffness variation. For these structures, the only mechanism that exhibits improved response are those that effectively shorten the length of the cylinder, thus reducing the cross-sectional deformation due to the forced restraint at the ends. It was found that the use of curvilinear fibers was not able to achieve this effect in sufficient degree to resist the deformation, but that ring stiffeners produced the desired response abmirably. Thus it is shown that the variable stiffness concept is most effective at improving the bending response of long cylinders through the use of a circumferential stiffness variation.",
+  "description_provenance": [
+    "Author Email: tatting@vt.edu",
+    "Advisor Email: zgurdal@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:28Z (GMT). No. of bitstreams: 1 Thesis.pdf: 5609838 bytes, checksum: 51dbf651edbfb84ba4062df2b6f27472 (MD5)   Previous issue date: 1998-10-13"
+  ],
+  "handle": "29313",
+  "identifier_other": "etd-10198-11378",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10198-11378/",
+  "identifier_uri": "http://hdl.handle.net/10919/29313",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "cylinder",
+    "composite",
+    "stiffness",
+    "curvilinear fiber",
+    "Brazier effect"
+  ],
+  "title": "Analysis and Design of Variable Stiffness Composite Cylinders",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Vaudrey, Michael Allen",
+  "contributor_committeechair": "Saunders, William R.",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Robertshaw, Harry H.",
+    "Leo, Donald J.",
+    "Vandsburger, Uri"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:58Z",
+  "date_adate": "2001-09-10",
+  "date_available": "2014-03-14T20:15:58Z",
+  "date_issued": "2001-08-28",
+  "date_rdate": "2002-09-10",
+  "date_sdate": "2001-09-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Self-excited systems are open loop unstable plants having a nonlinearity that prevents an exponentially increasing time response.  The resulting limit cycle is induced by any slight disturbance that causes the response of the system to grow to the saturation level of the nonlinearity.  Because there is no external disturbance, control of these self-excited systems requires that the open loop system dynamics are altered so that any unstable open loop poles are stabilized in the closed loop.  \tThis work examines a variety of adaptive control approaches for controlling a thermoacoustic instability, a physical self-excited system.  Initially, a static feedback controller loopshaping design and associated system identification method is presented.  This design approach is shown to effectively stabilize an unstable Rijke tube combustor while preventing the creation of additional controller induced instabilities.  The loopshaping design method is then used in conjunction with a trained artificial neural network to demonstrate stabilizing control in the presence of changing plant dynamics over a wide variety of operating conditions.  However, because the ANN is designed specifically for a single combustor/actuator arrangement, its limited portability is a distinct disadvantage.    \tFiltered-X least mean squares (LMS) adaptive feedback control approaches are examined when applied to both stable and unstable plants.  An identification method for approximating the relevant plant dynamics to be modeled is proposed and shown to effectively stabilize the self-excited system in simulations and experiments.  The adaptive feedback controller is further analyzed for robust performance when applied to the stable, disturbance rejection control problem.  It is shown that robust stability cannot be guaranteed because arbitrarily small errors in the plant model can generate gradient divergence and unstable feedback loops.  \t  \tFinally, a time-averaged-gradient (TAG) algorithm is investigated for use in controlling self-excited systems such as the thermoacoustic instability.  The TAG algorithm is shown to be very effective in stabilizing the unstable dynamics using a variety of controller parameterizations, without the need for plant estimation information from the system to be controlled.",
+  "description_provenance": [
+    "Author Email: mike@adaptivetechinc.com",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: uri@SHAKTI.ME.VT.EDU",
+    "Made available in DSpace on 2014-03-14T20:15:58Z (GMT). No. of bitstreams: 1 MAV_ETD_09_01.pdf: 1821200 bytes, checksum: 0b0622174e61ad92af121af4d12838a9 (MD5)   Previous issue date: 2001-08-28"
+  ],
+  "handle": "28884",
+  "identifier_other": "etd-09072001-130418",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09072001-130418/",
+  "identifier_uri": "http://hdl.handle.net/10919/28884",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MAV_ETD_09_01.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "combustion control",
+    "thermoacoustic instability",
+    "time averaged gradient",
+    "least mean square algorithms",
+    "neural network",
+    "adaptive feedback"
+  ],
+  "title": "Adaptive Control Methods for Non-Linear Self-Excited Systems",
+  "type": "Dissertation"
+}

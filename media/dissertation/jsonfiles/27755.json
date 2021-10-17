@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Johnson, Deborah Cumaraswamy",
+  "contributor_committeechair": "Dean, Dennis R.",
+  "contributor_committeemember": [
+    "White, Robert H.",
+    "Winkel, Brenda S. J.",
+    "Larson, Timothy J."
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2014-03-14T20:12:09Z",
+  "date_adate": "2006-08-02",
+  "date_available": "2014-03-14T20:12:09Z",
+  "date_issued": "2006-05-05",
+  "date_rdate": "2009-08-02",
+  "date_sdate": "2006-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A system was developed for the controlled expression of genes in Azotobacter vinelandii by using genomic fusions to the sucrose catabolic regulon.  This system was used for the functional analysis of the A. vinelandii isc genes, whose products are involved in the maturation of [Fe-S] proteins.  For this analysis the scrX gene, contained within the sucrose catabolic regulon, was replaced by the A. vinelandii iscS, iscU, iscA, hscB, hscA, fdx, iscX gene cluster, resulting in duplicate genomic copies of these genes, one whose expression is directed by the normal isc regulatory elements (Pisc) and the other whose expression is directed by the scrX promoter (PscrX).  Functional analysis of [Fe-S] protein maturation components was achieved by placing a mutation within a particular Pisc-controlled gene with subsequent repression of the corresponding PscrX-controlled component by growth on glucose as the carbon source.    This experimental strategy was used to show that IscS, IscU, HscBA and Fdx are essential in A. vinelandii and that their depletion results in a deficiency in the maturation of aconitase, an enzyme that requires a [4Fe-4S] cluster for its catalytic activity.  Depletion of IscA results in null growth only when cells are cultured under conditions of elevated oxygen, marking the first null phenotype associated with the loss of a bacterial IscA-type protein.  Furthermore, the null growth phenotype of cells depleted for HscBA could be partially reversed by culturing cells under conditions of low oxygen.  These results are interpreted to indicate that HscBA and IscA could have functions related to the protection or repair of the primary IscS/IscU machinery when grown under aerobic conditions.  Conserved amino acid residues within IscS, IscU, and IscA that are essential for their respective functions and/or display a partial or complete dominant-negative growth phenotype were also identified using this system.  Inactivation of the IscR repressor protein resulted in a slow growth phenotype that could be specifically attributed to the elevated expression of an intact [Fe-S] cluster biosynthetic system.   This system was also used to investigate the extent to which the two [Fe-S] biosynthetic systems in A. vinelandii, Nif and Isc, can perform overlapping functions.  Under normal laboratory growth conditions, no cross-talk between the two systems could be detected. However, elevated expression of Isc components as a consequence of inactivation of the IscR repressor protein results in a modest ability of the Isc [Fe-S] protein maturation components to replace the function of Nif-specific [Fe-S] protein maturation components.  Similarly, when expressed at very high levels the Nif-specific [Fe-S] protein maturation components could functionally replace the Isc components.  Oxygen levels were also found to affect the ability of the Nif and Isc systems to perform common functions.  Nevertheless, the lack of significant reciprocal cross-talk between the Nif and Isc systems when they are produced only at levels necessary to satisfy their respective physiological functions, indicates a high level of target specificity with respect to [Fe-S] protein maturation.",
+  "description_provenance": [
+    "Author Email: dejohns4@vt.edu",
+    "Advisor Email: rhwhite@vt.edu",
+    "Advisor Email: winkel@vt.edu",
+    "Advisor Email: deandr@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:09Z (GMT). No. of bitstreams: 2 Chapters_Ref_Appendices_Vita.pdf: 1813564 bytes, checksum: f5b82d84d937be068b179c89e6ccda7d (MD5) Abstract_Contents.pdf: 37651 bytes, checksum: 425a02f0c8e8e92253c12fe7f4e0b7dd (MD5)   Previous issue date: 2006-05-05"
+  ],
+  "handle": "27755",
+  "identifier_other": "etd-05172006-163655",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172006-163655/",
+  "identifier_uri": "http://hdl.handle.net/10919/27755",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapters_Ref_Appendices_Vita.pdf",
+    "Abstract_Contents.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Nif",
+    "Isc",
+    "[Fe-S] cluster biosynthesis",
+    "Azotobacter vinelandii"
+  ],
+  "title": "Controlled Expression and Functional Analysis of the Iron-Sulfur Cluster Biosynthetic Machinery in Azotobacter vinelandii",
+  "type": "Dissertation"
+}

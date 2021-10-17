@@ -1,0 +1,69 @@
+{
+  "contributor_author": "Britton, Jeremy Paul",
+  "contributor_committeecochair": [
+    "Little, John C.",
+    "Filz, George M."
+  ],
+  "contributor_committeemember": [
+    "Mitchell, James K.",
+    "Westman, Erik Christian",
+    "Widdowson, Mark A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:09Z",
+  "date_adate": "2001-08-15",
+  "date_available": "2014-03-14T20:15:09Z",
+  "date_issued": "2001-08-08",
+  "date_rdate": "2002-08-15",
+  "date_sdate": "2001-08-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "ABSTRACT   \tSoil-bentonite cutoff walls are commonly used to contain contaminants in the subsurface.  A key property in determining the effectiveness of a cutoff wall is its hydraulic conductivity.  There are important difficulties and uncertainties regarding the accuracy of commonly used methods of measuring the hydraulic conductivity of cutoff walls.  \tWhen predicting contaminant transport through cutoff walls, common practice is to use the average hydraulic conductivity of the wall.  There are some cases, however, such as circumferential cutoff walls with inward hydraulic gradients, where it is also important to consider the variability in hydraulic conductivity from point to point in the wall in contaminant transport studies.  \tA pilot-scale facility was envisioned where subsurface barrier issues such as those mentioned above could be studied.  In 1998, the Subsurface Barrier Test Facility (SBTF) was constructed.  In this facility, pilot-scale subsurface barriers can be installed using real construction equipment and tested in a controlled environment.  \tThe effectiveness of various methods of measuring the hydraulic conductivity of cutoff walls was studied by building and testing three pilot-scale soil-bentonite cutoff walls at the SBTF.  The following currently used test methods were evaluated: API tests on grab samples, lab tests on undisturbed samples, piezometer tests (slug tests), and piezocone soundings.  The use of slug tests in cutoff walls was improved in this research in the areas of avoiding hydraulic fracture and accounting for the close proximity of the trench walls.  The SBTF allows for measurement of the global, average hydraulic conductivity of an installed pilot-scale cutoff wall, which is a useful value to compare to the results of the above-mentioned tests.  The two main factors differentiating the results of the different test methods used for the pilot-scale walls were remolding and sample size.  Remolding of the API samples significantly reduced the hydraulic conductivity of these samples compared to the hydraulic conductivity measured in lab tests on undisturbed samples, which were of similar size.  For the other tests, the degree and extent of remolding were less significant compared to in the API tests.  For these tests, the scale of the measurement is believed to be the main factor differentiating the results.  Hydraulic conductivity was found to increase as the sample volume increased, with the global measurement of the average hydraulic conductivity producing the highest value.  \tThe influence of variability in hydraulic conductivity on contaminant transport through cutoff walls was studied from a theoretical standpoint using the one-dimensional advection-diffusion equation.  Charts were developed that can be used to estimate the flux through a cutoff wall based on knowledge of the average hydraulic conductivity of the wall and an estimate of the variability in hydraulic conductivity.  Data sets of hydraulic conductivity from lab tests on soil-bentonite samples from four cutoff wall case histories were used to estimate typical values of variability.  The contaminant transport analyses showed that the effect of variability may be significant when the hydraulic gradient opposes the concentration gradient, which is the case for a circumferential cutoff wall with an inward hydraulic gradient.  The goal of a circumferential cutoff wall with an inward hydraulic gradient is to reduce the outward diffusive flux of contaminant by inducing an inward advective flux.  The effect of variability in hydraulic conductivity is to reduce the effectiveness of this scheme.",
+  "description_provenance": [
+    "Author Email: jbritton@vt.edu",
+    "Advisor Email: jkm@vt.edu",
+    "Advisor Email: jcl@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: mwiddows@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:09Z (GMT). No. of bitstreams: 21 01_Title_page.pdf: 58021 bytes, checksum: eab2fd8f90c03aa8671ddaee4ac172cc (MD5) 02_Abstract.pdf: 59206 bytes, checksum: 576ed75f0fbf22ea9c87045a114348c9 (MD5) 03_Acknowledgements.pdf: 56538 bytes, checksum: c623be39c0920027594c875cb9e3b708 (MD5) 04_Table_of_Contents.pdf: 114718 bytes, checksum: ae9bf74ee8d78066a6a993bb34d49890 (MD5) 05_List_of_Figures.pdf: 129252 bytes, checksum: e7975e4023b5571c12eebf79588e4e59 (MD5) 06_List_of_Tables.pdf: 65076 bytes, checksum: 18ab2bd1e45971871f9ffa3757cc0f9d (MD5) 07_Chapter_1.pdf: 92210 bytes, checksum: cccd9144f704a6b42c3fbe0092b90713 (MD5) 08_Chapter_2.pdf: 2508069 bytes, checksum: 1fc7728825c83059eb727bbc2918647e (MD5) 09_Chapter_3.pdf: 1182831 bytes, checksum: 1eba5fea89eff095c7c8bfe5870e387f (MD5) 10_Chapter_4.pdf: 1679076 bytes, checksum: 9be65a58dce21d05bd87aa5f05ebfabb (MD5) 11_Chapter_5.pdf: 4899712 bytes, checksum: 0028f24f795055d8df035e920f6381a3 (MD5) 12_Chapter_6.pdf: 2554107 bytes, checksum: 5278d39128878d6ec6133eca35f0f906 (MD5) 13_Chapter_7.pdf: 1136907 bytes, checksum: 7e38b486027dc4204af36facd8ec944d (MD5) 14_Chapter_8.pdf: 170138 bytes, checksum: dcaedc712316a29aa72458aebfddf1e3 (MD5) 15_Bibliography.pdf: 165471 bytes, checksum: 4c5ac55ecc23af29252c9b5b2adc747b (MD5) 16_Appendix_A.pdf: 229692 bytes, checksum: 2adbd3640747af5e0b7d4f01aec05ddc (MD5) 17_Appendix_B.pdf: 147207 bytes, checksum: 7be62401bf3309df5eeca43391129dfb (MD5) 18_Appendix_C.pdf: 99924 bytes, checksum: 608c39a2e97771336846b48713b5497e (MD5) 19_Appendix_D.pdf: 89324 bytes, checksum: 1b49213351cf41b981e01409f906f34c (MD5) 20_Appendix_E.pdf: 144647 bytes, checksum: 0b8e2f76db663255ee6678b920c4134d (MD5) 21_Vita.pdf: 49057 bytes, checksum: b21030d61aeaf80ba89d99e1142c646e (MD5)   Previous issue date: 2001-08-08"
+  ],
+  "handle": "28642",
+  "identifier_other": "etd-08132001-175622",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08132001-175622/",
+  "identifier_uri": "http://hdl.handle.net/10919/28642",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "01_Title_page.pdf",
+    "02_Abstract.pdf",
+    "03_Acknowledgements.pdf",
+    "04_Table_of_Contents.pdf",
+    "05_List_of_Figures.pdf",
+    "06_List_of_Tables.pdf",
+    "07_Chapter_1.pdf",
+    "08_Chapter_2.pdf",
+    "09_Chapter_3.pdf",
+    "10_Chapter_4.pdf",
+    "11_Chapter_5.pdf",
+    "12_Chapter_6.pdf",
+    "13_Chapter_7.pdf",
+    "14_Chapter_8.pdf",
+    "15_Bibliography.pdf",
+    "16_Appendix_A.pdf",
+    "17_Appendix_B.pdf",
+    "18_Appendix_C.pdf",
+    "19_Appendix_D.pdf",
+    "20_Appendix_E.pdf",
+    "21_Vita.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hydraulic conductivity",
+    "contaminant transport",
+    "soil-bentonite cutoff walls",
+    "Subsurface Barrier Test Facility"
+  ],
+  "title": "Soil-Bentonite Cutoff Walls: Hydraulic Conductivity and Contaminant Transport",
+  "type": "Dissertation"
+}

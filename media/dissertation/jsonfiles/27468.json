@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Staderman, William P.",
+  "contributor_committeechair": "Kleiner, Brian M.",
+  "contributor_committeemember": [
+    "Smith-Jackson, Tonya L.",
+    "Williges, Robert C.",
+    "North, Christopher L.",
+    "Hudlicka, Eva"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:11:20Z",
+  "date_adate": "2003-05-01",
+  "date_available": "2014-03-14T20:11:20Z",
+  "date_issued": "2003-04-25",
+  "date_rdate": "2004-05-01",
+  "date_sdate": "2003-05-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The use of systems that span many knowledge domains is becoming more common as technology advances, requiring expert-performance in a domain from users who are usually not experts in that domain.  This study examined a means of communicating expertise (in system operation and fault diagnosis) to non-experts and furthering the understanding of expert mental models.  It has been suggested that conceptions of abstract models of system-functions distinguish expert performance from non-expert performance (Hanisch, Kramer, and Hulin, 1991).  This study examined the effects on performance of augmenting a simple control panel device with a model of the functions of the device, interacting with the model, and augmenting the device with graphically superimposed procedural indicators (directions).  The five augmented display conditions studied were: Device Only, Device + Model, Device + Procedural Indicators, Interactive Model, and Interactive Model + Procedural Indicators.  The device and displays were presented on a PC workstation.  Performance measures (speed and accuracy) and subjective measures (questionnaires, NASA TLX, and structured interviews) were collected.  It was expected that participants who interact with the device + procedural indicators would exhibit the shortest performance time and least errors; however, those who interacted with the simplest display (device only) were fastest and exhibited the least errors.  Results of this study are discussed in terms of building a mental model and identifying situations that require a mental model.",
+  "description_provenance": [
+    "Author Email: wstade@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: williges@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: hudlicka@acm.org",
+    "Made available in DSpace on 2014-03-14T20:11:20Z (GMT). No. of bitstreams: 1 staderman_etd.pdf: 1455434 bytes, checksum: ab4947fd0bd08a8e512f5af1f5ee7ec5 (MD5)   Previous issue date: 2003-04-25"
+  ],
+  "handle": "27468",
+  "identifier_other": "etd-05012003-130105",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05012003-130105/",
+  "identifier_uri": "http://hdl.handle.net/10919/27468",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "staderman_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mental models",
+    "device models",
+    "augmented reality"
+  ],
+  "title": "Communicating expertise in system operation and fault diagnosis to non-experts",
+  "type": "Dissertation"
+}

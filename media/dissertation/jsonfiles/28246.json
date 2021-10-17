@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Ahn, Kyoungho",
+  "contributor_committeecochair": [
+    "Trani, Antoino A.",
+    "Rakha, Hesham Ahmed"
+  ],
+  "contributor_committeemember": [
+    "Teodorovic, Dusan",
+    "Kachroo, Pushkin",
+    "Dion, Francois"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:50Z",
+  "date_adate": "2002-07-23",
+  "date_available": "2014-03-14T20:13:50Z",
+  "date_issued": "2002-05-29",
+  "date_rdate": "2003-07-23",
+  "date_sdate": "2002-07-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation develops a framework for modeling vehicle emissions microscopically. In addition, the framework is utilized to develop the VT-Micro model using a number of data sources. Key input variables to the VT-Micro model include instantaneous vehicle speed and acceleration levels. Estimating accurate mobile source emissions is becoming more and more critical as a result of increasing environmental problems in large metropolitan urban areas. Current emission inventory models, such as MOBILE and EMPAC, are designed for developing large scale inventories, but are unable to estimate emissions from specific corridors and intersections. Alternatively, microscopic emission models are capable of assessing the impact of transportation scenarios and performing project-level analyses.  The VT-Micro model was developed using data collected at the Oak Ridge National Laboratory (ORNL) that included fuel consumption and emission rate measurements (CO, HC, and NOx) for five light-duty vehicles (LDVs) and three light-duty trucks (LDTs) as a function of the vehicle's instantaneous speed and acceleration levels. The hybrid regression models predict hot stabilized vehicle fuel consumption and emission rates for LDVs and LDTs. The model is found to be highly accurate compared to the ORNL data with coefficients of determination ranging from 0.92 to 0.99. The study compares fuel consumption and emission results from MOBILE5a, VT-Micro, and CMEM models. The dissertation presents that the proposed VT-Micro model appears to be good enough in terms of absolute light-duty hot stabilized normal vehicle tailpipe emissions. Specifically, the emission estimates were found to be within the 95 percent confidence limits of field data and within the same level of magnitude as the MOBILE5a model estimates. Furthermore, the proposed VT-Micro model was found to reflect differences in drive cycles in a fashion that was consistent with field observations. Specifically, the model accurately captures the increase in emissions for aggressive acceleration drive cycles in comparison with other drive cycles.  The dissertation also presents a framework for developing microscopic emission models. The framework develops emission models by aggregating data using vehicle and operational variables. Specifically, statistical techniques for aggregating vehicles into homogenous categories are utilized as part of the framework. In addition, the framework accounts for temporal lags between vehicle operational variables and vehicle emissions. Finally, the framework is utilized to develop the VT-Micro model version 2.0 utilizing second-by-second chassis dynamometer emission data for a total of 60 light duty vehicles and trucks.  Also, the dissertation introduces a procedure for estimating second-by-second high emitter emissions. This research initially investigates high emitter emission cut-points to verify clear definitions of high emitter vehicles (HEVs) and derives multiplicative factors for newly developed EPA driving cycles. Same model structure with the VT-Micro model is utilized to estimate instantaneous emissions for a total of 36 light duty vehicles and trucks.  Finally, the dissertation develops a microscopic framework for estimating instantaneous vehicle start emissions for LDVs and LDTs. The framework assumes a linear decay in instantaneous start emissions over a 200-second time horizon. The initial vehicle start emission rate is computed based on MOBILE6's soak time function assuming a 200-second decay time interval. The validity of the model was demonstrated using independent trips that involved cold start and hot start impacts with vehicle emissions estimated to within 10 percent of the field data.  The ultimate expansion of this model is its implementation within a microscopic traffic simulation environment in order to evaluate the environmental impacts of alternative ITS and non-ITS strategies. Also, the model can be applied to estimate vehicle emissions using instantaneous GPS speed measurements. Currently, the VT-Micro model has been implemented in the INTEGRATION software for the environmental assessment of operational-level transportation projects.",
+  "description_provenance": [
+    "Author Email: kahn@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: fdion@ctr.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:50Z (GMT). No. of bitstreams: 3 Dissertation.pdf: 2144237 bytes, checksum: 0f629a7501806f73a853d513af0df890 (MD5) Abstract.pdf: 31092 bytes, checksum: 10b3ef895bf0fd5b1171208330f91304 (MD5) Cover.pdf: 5010 bytes, checksum: 1a026001f2b68ddbcef2b7810fdf55c0 (MD5)   Previous issue date: 2002-05-29"
+  ],
+  "handle": "28246",
+  "identifier_other": "etd-07102002-170729",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07102002-170729/",
+  "identifier_uri": "http://hdl.handle.net/10919/28246",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Dissertation.pdf",
+    "Abstract.pdf",
+    "Cover.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Engine Cold Start",
+    "High Emitter",
+    "Mobile Source Emission Model",
+    "Microscopic",
+    "Fuel Consumption"
+  ],
+  "title": "Modeling Light Duty Vehicle Emissions Based on Instantaneous Speed and Acceleration Levels",
+  "type": "Dissertation"
+}

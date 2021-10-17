@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Laadj, Toufik",
+  "contributor_committeechair": "Renardy, Michael J.",
+  "contributor_committeemember": [
+    "Renardy, Yuriko Y.",
+    "Lin, Tao",
+    "Adjerid, Slimane"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:07:47Z",
+  "date_adate": "2011-03-10",
+  "date_available": "2014-03-14T20:07:47Z",
+  "date_issued": "2011-02-24",
+  "date_rdate": "2011-03-10",
+  "date_sdate": "2011-02-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We consider the flow of nonlinear Maxwell fluids in the unsteady quasistatic case, where the effect of inertia is neglected. We study the well-posedness of the resulting PDE initial-boundary value problem. This well-posedness depends on the unique solvability of an elliptic boundary value problem. We first present results for the 3D case, locally and globally in time, with sufficiently small initial data, and for a simple shear flow problem, locally in time with arbitrary initial data; after that we extend our results to some 3D flow problems, locally in time, with large initial data. Additionally, we present results for models of White-Metzner type in 3D flow, locally and globally in time, with sufficiently small initial data.     We solve our problem using an iteration between elliptic and hyperbolic linear subproblems. The limit of the iteration provides the solution of our original problem.",
+  "description_provenance": [
+    "Author Email: laadjt@vt.edu",
+    "Advisor Email: renardy@vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:47Z (GMT). No. of bitstreams: 1 Laadj_T_D_2011.pdf: 778334 bytes, checksum: 1af61fce199265bc8290f75c0129c001 (MD5)   Previous issue date: 2011-02-24"
+  ],
+  "handle": "26302",
+  "identifier_other": "etd-02242011-160446",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02242011-160446/",
+  "identifier_uri": "http://hdl.handle.net/10919/26302",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Laadj_T_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "nonlinear Maxwell fluid",
+    "unsteady flow",
+    "existence and uniqueness",
+    "Quasistatic viscoelastic flow"
+  ],
+  "title": "Initial Value Problems for Creeping Flow of Maxwell Fluids",
+  "type": "Dissertation"
+}

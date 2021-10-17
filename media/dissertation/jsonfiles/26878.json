@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Tungare, Manas",
+  "contributor_committeechair": "Pérez-Quiñones, Manuel A.",
+  "contributor_committeemember": [
+    "Smith-Jackson, Tonya L.",
+    "Harrison, Steven R.",
+    "Fox, Edward Alan",
+    "Edwards, Stephen H."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:09:41Z",
+  "date_adate": "2009-05-07",
+  "date_available": "2014-03-14T20:09:41Z",
+  "date_issued": "2009-03-25",
+  "date_rdate": "2009-05-07",
+  "date_sdate": "2009-04-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Multiple devices such as desktops, laptops, and cell phones are often used to manage users' personal information, such as files, calendars, contacts, emails, and bookmarks. This dissertation presents the results of two studies that examined users' mental workload in this context, especially when transitioning tasks from one device to another. In a survey of 220 knowledge workers, users reported high frustration with current devices' support for task migration, e.g. making files available on multiple machines. To investigate further, I conducted a controlled experiment with 18 participants. While they performed PIM tasks, I measured their mental workload using subjective measures and physiological measures. Some systems provide support for transitioning users' work between devices, or for using multiple devices together; I explored the impact of such support on mental workload and task performance. Participants performed three tasks (Files, Calendar, Contacts) with two treatment conditions each (lower and higher support for migrating tasks between devices.)  This dissertation discusses my findings: workload measures obtained using the subjective NASA TLX scale were able to discriminate between tasks, but not between the two conditions in each task. Task-Evoked Pupillary Response, a continuous measure, was sensitive to changes within each task. For the Files task, a significant increase in workload was noted in the steps before and after task migration. Participants entered events faster into paper calendars than into an electronic calendar, though there was no observable difference in workload. For the Contacts task, task performance was equal, but mental workload was higher when no synchronization support was available between their cell phone and their laptop.  Little to no correlation was observed between task performance and both workload measures, except in isolated instances. This suggests that neither task performance metrics nor workload assessments alone offer a complete picture of device usability in multi-device personal information ecosystems. Traditional usability metrics that focus on efficiency and effectiveness are necessary, but not sufficient, to evaluate such designs. Given participants' varying subjective perceptions of these systems and differences in task-evoked pupillary response, aspects of hot cognition such as emotion, pleasure, and likability show promise as important parameters in system evaluation.",
+  "description_provenance": [
+    "Author Email: manas@tungare.name",
+    "Advisor Email: perez@cs.vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: srh@cs.vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:41Z (GMT). No. of bitstreams: 1 Manas_Tungare-Mental_Workload_in_Personal_Information_Management-Understanding_PIM_Practices_Across_Multiple_Devices.pdf: 8025906 bytes, checksum: d632598d795b7e1b47a2325519386690 (MD5)   Previous issue date: 2009-03-25"
+  ],
+  "handle": "26878",
+  "identifier_other": "etd-04152009-191143",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04152009-191143/",
+  "identifier_uri": "http://hdl.handle.net/10919/26878",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Manas_Tungare-Mental_Workload_in_Personal_Information_Management-Understanding_PIM_Practices_Across_Multiple_Devices.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Personal Information Management",
+    "Multiple Devices",
+    "Mental Workload"
+  ],
+  "title": "Mental Workload in Personal Information Management: Understanding PIM Practices Across Multiple Devices",
+  "type": "Dissertation"
+}

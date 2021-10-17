@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Rabe, Angela C",
+  "contributor_committeecochair": [
+    "Ng, Fai",
+    "Burdisso, Ricardo A."
+  ],
+  "contributor_committeemember": [
+    "Hale, Alan A.",
+    "Davis, Milton W. Jr.",
+    "O'Brien, Walter F. Jr.",
+    "King, Peter S."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:12Z",
+  "date_adate": "2003-10-27",
+  "date_available": "2014-03-14T20:15:12Z",
+  "date_issued": "2003-08-01",
+  "date_rdate": "2005-10-27",
+  "date_sdate": "2003-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An experimental investigation was conducted in a static ground test facility to determine the flow quality of a serpentine inlet duct incorporating active flow control for several simulated flight conditions.  The total pressure distortion at the aerodynamic interface plane (AIP) was then used to predict the resulting stability for a compression system.  This study was conducted using a model of a compact, low observable, engine inlet duct developed by Lockheed Martin.  A flow control technique using air injection through microjets at 1% of the inlet mass flow rate was developed by Lockheed Martin to improve the quality of the flow exiting the inlet duct.  Both the inlet duct and the flow control technique were examined at cruise condition and off-design simulated flight conditions (angle of attack and asymmetric distortion).  All of the experimental tests were run at an inlet throat Mach number of 0.55 and a resulting Reynolds number of 1.76*105 based on the hydraulic diameter at the inlet throat.        For each of the flight conditions tested, the flow control scheme was found to improve the flow uniformity and reduce the inlet distortion at the AIP.  For simulated cruise condition, the total pressure recovery was improved by ~2% with the addition of flow control.  For the off-design conditions of angle of attack and asymmetric distortion, the total pressure recovery was improved by 1.5% and 2% respectively.  All flight conditions tested showed a reduction in circumferential distortion intensity with flow control.  The cruise condition case showed reduced maximum circumferential distortion of 70% with the addition of flow control.  A reduction in maximum circumferential distortion of 40% occurred for the angle of attack case with flow control, and 30% for the asymmetric distortion case with flow control.   The inlet total pressure distortion was used to predict the changes in stability margin of a compression system due to design and off-design flight conditions and the improvement of the stability margin with the addition of flow control.  A parallel compressor model (DYNTECC) was utilized to predict changes in the stability margin of a representative compression system (NASA Stage 35).  Without flow control, all three cases show similar reduced stability margins on the order of 30% of the original stability margin for NASA Stage 35 at 70% corrected rotor speed.  With the addition of flow control, the cruise condition tested improved the stability margin to 80% of the original value while the off-design conditions recover to 60% of the original margin.  Overall, the flow control has been found to be extremely beneficial in improving the operating range of a compression system for the same inlet duct without flow control.",
+  "description_provenance": [
+    "Author Email: arabe@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: Alan.Hale@arnold.af.mil",
+    "Advisor Email: Milt.Davis@arnold.af.mil",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: pking@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:12Z (GMT). No. of bitstreams: 1 Thesis_rabe_final.pdf: 2516606 bytes, checksum: 21295b8c235a0fd622b9ccc95fd10524 (MD5)   Previous issue date: 2003-08-01"
+  ],
+  "handle": "28653",
+  "identifier_other": "etd-08142003-225036",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142003-225036/",
+  "identifier_uri": "http://hdl.handle.net/10919/28653",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis_rabe_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "distortion",
+    "serpentine inlet",
+    "AIP",
+    "angle of attack"
+  ],
+  "title": "Effectiveness of a Serpentine Inlet Duct Flow Control Scheme at Design and Off-Design Simulated Flight Conditions",
+  "type": "Dissertation"
+}

@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Jia, Tao",
+  "contributor_committeechair": "Buehrer, Richard Michael",
+  "contributor_committeemember": [
+    "Wyatt, Christopher L.",
+    "Pasupathy, Raghu",
+    "Pratt, Timothy J.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:37Z",
+  "date_adate": "2010-04-15",
+  "date_available": "2014-03-14T20:08:37Z",
+  "date_issued": "2010-03-18",
+  "date_rdate": "2010-04-15",
+  "date_sdate": "2010-03-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Position location has become one of the more important tasks for improving communication and networking performance for future commercial wireless systems. It is also the enabling technology for many control and sensing applications envisioned by the wireless sensor networks (WSN). Despite its meaningfulness and many algorithms being developed in the past several years, position location in harsh propagation environments remains to be a challenging issue, due mainly to the lack of sufficient infrastructure support and the prominent phenomenon of non-line-of-sight (NLOS) signal propagation.  Recently, adopting the concept of collaborative position location has attracted much research interest due to its potential in overcoming the abovementioned two difficulties. In this work, we approach collaborative position location from two different angles. Specifically, we investigate the optimal performance of collaborative position location, which serves as a theoretical performance benchmark. In addition, we developed a computationally efficient algorithm for collaborative position location and incorporated an effective NLOS mitigation method to improve its performance in NLOS-dense environments. Overall, our work provides insight into both theoretical and practical aspects of collaborative position location.",
+  "description_provenance": [
+    "Author Email: taojia@vt.edu",
+    "Advisor Email: clwyatt@vt.edu",
+    "Advisor Email: pasupath@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:37Z (GMT). No. of bitstreams: 1 Jia_T_D_2010.pdf: 3587988 bytes, checksum: 4d3dc4b2801e9676577fcd05535e7962 (MD5)   Previous issue date: 2010-03-18"
+  ],
+  "handle": "26548",
+  "identifier_other": "etd-03292010-224530",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03292010-224530/",
+  "identifier_uri": "http://hdl.handle.net/10919/26548",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Jia_T_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "collaborative position location",
+    "non-line-of-sight (NLOS) propagation"
+  ],
+  "title": "Collaborative Position Location for Wireless Networks in Harsh Environments",
+  "type": "Dissertation"
+}

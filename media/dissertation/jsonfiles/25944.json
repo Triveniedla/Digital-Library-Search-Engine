@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Suwandechochai, Rawee",
+  "contributor_committeechair": "Bish, Ebru K.",
+  "contributor_committeemember": [
+    "Lin, Kyle Y.",
+    "Sarin, Subhash C.",
+    "Badinelli, Ralph D.",
+    "Ellis, Kimberly P."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:06:30Z",
+  "date_adate": "2006-01-11",
+  "date_available": "2014-03-14T20:06:30Z",
+  "date_issued": "2005-12-15",
+  "date_rdate": "2008-01-11",
+  "date_sdate": "2006-01-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We provide a comprehensive characterization of the relationship between optimal capacity and the degree of product substitution/complementarity under price/production postponement, considering different business practices (holdback versus clearance, negative price policies) and different demand models.  Specifically, we consider a firm that produces two products, which can be substitutable or complementary. The demand of each product is a linear function of the prices of both products (with the relationship depending on the substitution/complementarity structure), and is subject to an additive stochastic shock. We consider two types of linear demand functions that are commonly used in the economics and operations management literature.  The firm operates in a monopolistic setting and acts as a price-setter for both products. Overall the firm needs to make three sets of decisions: capacity, production quantities, and prices.  While the capacity investment decision has to be made ex-ante observation of demand curves, price and/or quantity decisions can be postponed until after demand curves are observed. We consider two postponement strategies: price and quantity postponement, and price postponement only.  We characterize the optimal pricing/production/investment decisions for each postponement strategy.  Using these characterizations, we show that product substitution/complementarity is a key demand characteristic, which has a large impact on the optimal capacity.  Our results show that how the optimal capacity behaves in substitution/complementarity parameter is quite similar under both postponement strategies, and under holdback and clearance.  However, this behavior depends highly on other underlying assumptions (i.e., whether or not negative prices are allowed) and on the demand model used.",
+  "description_provenance": [
+    "Author Email: rsuwande@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:30Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1090970 bytes, checksum: 1e338b15336d3a659bc6aeec53377591 (MD5)   Previous issue date: 2005-12-15"
+  ],
+  "handle": "25944",
+  "identifier_other": "etd-01042006-194229",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01042006-194229/",
+  "identifier_uri": "http://hdl.handle.net/10919/25944",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Flexible Capacity",
+    "Price and Quantity Postponement",
+    "Demand Uncertainty",
+    "Product Substitution/Complementarity"
+  ],
+  "title": "Capacity Investment, Flexibility, and Product Substitution/Complementarity under Demand Uncertainty",
+  "type": "Dissertation"
+}

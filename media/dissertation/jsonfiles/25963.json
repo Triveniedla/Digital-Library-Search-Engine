@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Caswell, Eric D.",
+  "contributor_committeechair": "Davis, William A.",
+  "contributor_committeemember": [
+    "Stutzman, Warren L.",
+    "Johnson, Lee W.",
+    "Safaai-Jazi, Ahmad",
+    "Brown, Gary S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:38Z",
+  "date_adate": "2002-01-08",
+  "date_available": "2014-03-14T20:06:38Z",
+  "date_issued": "2001-12-14",
+  "date_rdate": "2003-01-08",
+  "date_sdate": "2002-01-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Design and Analysis of Star Spiral with Application to  Wideband Array with Variable Element Sizes <p> Eric D. Caswell <p> (ABSTRACT) <p> <p> This dissertation details the development of the star spiral antenna and  demonstrates the advantages of the star spiral when used in a wideband array with  variable element sizes.  The wideband array with variable element sizes (WAVES) is a  multi-octave array that uses different sized circular Archimedean spirals for each octave  of frequency coverage.  A two-octave WAVES array has been presented in the literature,  but a gap in the two-octave frequency coverage exists along the principal axes.  The star  spiral antenna was developed to eliminate the performance gap in the WAVES array.   The star spiral is a type of slow-wave spiral that also offers array-packing advantages,  particularly for the WAVES array.  The size reduction that can be achieved with the star  spiral is comparable to that of the square spiral, but the star spiral is much more efficient  in terms of its expected size reduction compared to its circumference.  The far-field  patterns, gain, and scan performance of the star spiral are similar to that of the circular  Archimedean spiral.  The use of the star spiral to eliminate the performance gap in a  WAVES array of circular Archimedean spirals is detailed.  Furthermore, a three-octave  WAVES array of star spirals is built and measured, and the scan performance of the array  is investigated via simulation.",
+  "description_provenance": [
+    "Author Email: ecaswell@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: johnsonl@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:38Z (GMT). No. of bitstreams: 8 Caswell_etd_Ch5.pdf: 670610 bytes, checksum: 098d7e4fa0cbca1cd99fa41746170046 (MD5) Caswell_etd_Ch1.pdf: 21244 bytes, checksum: e5cd9bd0d9877b473a4a594afe7c7eb4 (MD5) Caswell_etd_Ch6.pdf: 11425 bytes, checksum: 0bb85cbe36edd1a3d97bd570e37bfb32 (MD5) Caswell_etd_ref&vita.pdf: 12215 bytes, checksum: f21275ea13d2c1d5998ac40060c0e0b0 (MD5) Caswell_etd_Ch3.pdf: 140935 bytes, checksum: 3bbfc01ac9d6c7616fcb70a7265129dd (MD5) Caswell_etd_Ch2.pdf: 733352 bytes, checksum: 0a38c279ddd59e0f46614134eb67314d (MD5) Caswell_etd_Ch4.pdf: 797399 bytes, checksum: 5973447e447fe511ed4f946899c8c41c (MD5) Caswell_etd_TOC.pdf: 31538 bytes, checksum: 39d6d46d8ff9161fc533f46fb0b794fa (MD5)   Previous issue date: 2001-12-14"
+  ],
+  "handle": "25963",
+  "identifier_other": "etd-01082002-073223",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01082002-073223/",
+  "identifier_uri": "http://hdl.handle.net/10919/25963",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Caswell_etd_Ch5.pdf",
+    "Caswell_etd_Ch1.pdf",
+    "Caswell_etd_Ch6.pdf",
+    "Caswell_etd_ref&vita.pdf",
+    "Caswell_etd_Ch3.pdf",
+    "Caswell_etd_Ch2.pdf",
+    "Caswell_etd_Ch4.pdf",
+    "Caswell_etd_TOC.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Wideband Arrays",
+    "Spiral Antennas",
+    "Frequency Independent Antennas",
+    "Slow-wave Spirals"
+  ],
+  "title": "Design and Analysis of Star Spiral with Application to Wideband Arrays with Variable Element Sizes",
+  "type": "Dissertation"
+}

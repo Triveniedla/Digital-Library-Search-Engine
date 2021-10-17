@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Pei, Guanhong",
+  "contributor_committeechair": "Vullikanti, Anil Kumar S",
+  "contributor_committeemember": [
+    "Ravindran, Binoy",
+    "Srinivasan, Aravind",
+    "Hou, Yiwei Thomas",
+    "Marathe, Madhav Vishnu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-02-19T22:38:36Z",
+  "date_available": "2013-02-19T22:38:36Z",
+  "date_issued": "2013-01-21",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "We investigate diverse aspects of the performance of wireless networks, including throughput, delay and distributed complexity. <br />One of the main challenges for optimizing them arises from radio interference, an inherent factor in wireless networks.<br />Graph-based interference models represent a large class of interference models widely used for the study of wireless networks,<br />and suffer from the weakness of over-simplifying the interference caused by wireless signals in a local and binary way.<br />A more sophisticated interference model, the physical interference model, based on SINR constraints,<br />is considered more realistic but is more challenging to study (because of its non-linear form and non-local property).<br />In this dissertation, we study the connections between the two types of interference models -- graph-based and physical interference models --<br />and tackle a set of fundamental problems under the physical interference model;<br />previously, some of the problems were still open even under the graph-based interference model, and to those we have provided solutions under both types of interference models.<br /><br />The underlying interference models affect scheduling and power control -- essential building blocks in the operation of wireless networks -- that directly deal with the wireless medium; the physical interference model (compared to graph-based interference model) compounds the problem of efficient scheduling and power control by making it non-local and non-linear.<br />The system performance optimization and tradeoffs with respect to throughput and delay require a ``global\\'\\' view across<br />transport, network, media access control (MAC), physical layers (referred to as cross-layer optimization)<br />to take advantage of the control planes in different levels of the wireless network protocol stack.<br />This can be achieved by regulating traffic rates, finding traffic flow paths for end-to-end sessions,<br />controlling the access to the wireless medium (or channels),<br />assigning the transmission power, and handling signal reception under interference.<br /><br />The theme of the dissertation is<br />distributed algorithms and optimization of QoS objectives under the physical interference model.<br />We start by developing the first low-complexity distributed scheduling and power control algorithms for maximizing the efficiency ratio for different interference models;<br />we derive end-to-end per-flow delay upper-bounds for our scheduling algorithms and our delay upper-bounds are the first network-size-independent result known for multihop traffic.<br />Based on that, we design the first cross-layer multi-commodity optimization frameworks for delay-constrained throughput maximization by incorporating the routing and traffic control into the problem scope.<br />Scheduling and power control is also inherent to distributed computing of ``global problems\\'\\', e.g., the maximum independent set problems in terms of transmitting links and local broadcasts respectively, and the minimum spanning tree problems.<br />Under the physical interference model, we provide the first sub-linear time distributed solutions to the maximum independent set problems, and also solve the minimum spanning tree problems efficiently.<br />We develop new techniques and algorithms and exploit the availability of technologies (full-/half-duplex radios, fixed/software-defined power control) to further improve our algorithms.<br />%This fosters a deeper understanding of distributed scheduling from the network computing point of view.<br /><br /><br />We highlight our main technical contributions, which might be of independent interest to the design and analysis of optimization algorithms.<br />Our techniques involve the use of linear and mixed integer programs in delay-constrained throughput maximization. This demonstrates the combined use of different kinds of combinatorial optimization approaches for multi-criteria optimization.<br />We have developed techniques for queueing analysis under general stochastic traffic to analyze network throughput and delay properties.<br />We use randomized algorithms with rigorously analyzed performance guarantees to overcome the distributed nature of wireless data/control communications.<br />We factor in the availability of emerging radio technologies for performance improvements of our algorithms.<br />Some of our algorithmic techniques that would be of broader use in algorithms for the physical interference model include:<br />formal development of the distributed computing model in the SINR model, and reductions between models of different technological capabilities, the redefinition of interference sets in the setting of SINR constraints, and our techniques for distributed computation of rulings (informally, nodes or links which are well-separated covers).<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:38:36Z (GMT). No. of bitstreams: 1 Pei_G_D_2013.pdf: 3145741 bytes, checksum: 9f16312ee2806c685affb594496fbe94 (MD5)   Previous issue date: 2013-01-21",
+  "format_medium": "ETD",
+  "handle": "19219",
+  "identifier_other": "vt_gsexam:17",
+  "identifier_uri": "http://hdl.handle.net/10919/19219",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Wireless Networks",
+    "Cross-layer Design",
+    "Physical Interference",
+    "Approximation Algorithms",
+    "Distributed Algorithms"
+  ],
+  "title": "Distributed Scheduling and Delay-Throughput Optimization in Wireless Networks under the Physical Interference Model",
+  "type": "Dissertation"
+}

@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Botelho, Fabio Silva",
+  "contributor_committeechair": "Rogers, Robert C.",
+  "contributor_committeemember": [
+    "Hagedorn, George A.",
+    "Thomson, James E.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:14:10Z",
+  "date_adate": "2009-08-03",
+  "date_available": "2014-03-14T20:14:10Z",
+  "date_issued": "2009-07-15",
+  "date_rdate": "2009-08-03",
+  "date_sdate": "2009-07-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work develops theoretical and applied results for variational convex analysis. First we present the basic tools of analysis necessary to develop the core theory and applications. New results concerning duality principles for systems originally modeled by non-linear differential equations are shown in chapters 9 to 17. A key aspect of this work is that although the original problems are non-linear with corresponding non-convex variational formulations, the dual formulations obtained are almost always concave and amenable to numerical computations. When the primal problem has no solution in the classical sense, the solution of dual problem is a weak limit of minimizing sequences, and the evaluation of such average behavior is important in many practical applications. Among the results we highlight the dual formulations for micro-magnetism, phase transition models, composites in elasticity and conductivity and others. To summarize, in the present work we introduce convex analysis as an interesting alternative approach for the understanding and computation of some important problems in the modern calculus of variations.",
+  "description_provenance": [
+    "Author Email: fabio@vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Advisor Email: thomson@math.vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:10Z (GMT). No. of bitstreams: 1 ThesisFabio.pdf: 1631264 bytes, checksum: 72002cd5231e7dd85e7e109888849355 (MD5)   Previous issue date: 2009-07-15"
+  ],
+  "handle": "28351",
+  "identifier_other": "etd-07212009-112235",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07212009-112235/",
+  "identifier_uri": "http://hdl.handle.net/10919/28351",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ThesisFabio.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "duality",
+    "convex formulations",
+    "Banach spaces",
+    "calculus of variations"
+  ],
+  "title": "Variational Convex Analysis",
+  "type": "Dissertation"
+}

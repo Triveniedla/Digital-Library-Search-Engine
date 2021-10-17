@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Marzouk, Osama A",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Devenport, William J.",
+    "Adjerid, Slimane",
+    "Hajj, Muhammad R.",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:07:49Z",
+  "date_adate": "2009-03-03",
+  "date_available": "2014-03-14T20:07:49Z",
+  "date_issued": "2009-02-06",
+  "date_rdate": "2009-03-03",
+  "date_sdate": "2009-02-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The first goal of this work was to develop models based on nonlinear ordinary-differential equations or nonlinear algebraic equations, which produce the lift and drag coefficients on a cylinder or a cylinder-like structure. We introduced an improved wake oscillator for the lift, which combines the van der Pol and Duffing equations. We proposed a two-term quadratic model that relates the drag and lift coefficients, which reproduces the phase relationship between the drag and lift and its variation with the Reynolds number. We found that a mixed-type (external and parametric) forcing is needed to represent the effects of the cylinder motion.  The second goal of this work was to develop a deeper understanding of the shedding and fluid forces on a cylinder and how they depend on its oscillatory motion within and outside the synchronization (or lock-in) band of frequencies. We performed extensive CFD (computational fluid dynamics) simulations and solved the unsteady Reynolds-averaged Navier-Stokes equations that govern the flow fields around fixed and moving (in either the cross-flow or in-line direction) cylinders. We identified various wake modes that can exist, depending on the cylinder motion (direction, amplitude, and frequency) by using modern methods of nonlinear dynamics. The possible responses can be period-one, periodic with large period, quasiperiodic, or chaotic. Moreover, we found that the route to chaos is torus breakdown. We investigated how four frequency sweeps of the cross-flow motion affect the response curves and the hysteresis phenomenon. We studied in detail the effect of the in-line motion on the wake and related this effect to the reduction in the lift and mean drag due to a synchronization type that is very different from the one due to cross-flow motion.",
+  "description_provenance": [
+    "Author Email: omarzouk@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: adjerids@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:49Z (GMT). No. of bitstreams: 1 Dissertation_Final.pdf: 5762014 bytes, checksum: 740705ff9641b075384ecde10ea1855c (MD5)   Previous issue date: 2009-02-06"
+  ],
+  "handle": "26316",
+  "identifier_other": "etd-02262009-081815",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02262009-081815/",
+  "identifier_uri": "http://hdl.handle.net/10919/26316",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CFD",
+    "Nonlinear Model",
+    "Cylinder",
+    "Wake",
+    "In-Line",
+    "Cross-Flow",
+    "Drag",
+    "Lift"
+  ],
+  "title": "Simulation, Modeling, and Characterization of the Wakes of Fixed and Moving Cylinders",
+  "type": "Dissertation"
+}

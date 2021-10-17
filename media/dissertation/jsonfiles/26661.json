@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Lee, Soung  Sub",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Sultan, Cornel",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:01Z",
+  "date_adate": "2009-05-11",
+  "date_available": "2014-03-14T20:09:01Z",
+  "date_issued": "2009-03-20",
+  "date_rdate": "2009-05-11",
+  "date_sdate": "2009-04-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation proposes analytic tools for dynamics and control problems in the perspective of large-scale relative motion without perturbations. Specifically, we develop an exact and efficient analytic solution of satellite relative motion using a direct geometrical approach in spherical coordinates. The resulting solution is then transformed into general parametric equations of cycloids and trochoids. With this transformation, the dissertation presents new findings for design rules and classifications of closed and periodic parametric relative orbits. A new observation from the findings states that the orbit shape resulting from the relative motion dynamics of circular orbit cases in polar views are exactly the same as the parametric curves of cycloids and trochoids. The dynamics problem of satellite relative motion is expanded to include the design of satellite constellations for multiple satellite systems. A Parametric Constellation (PC) is developed to create an identical constellation pattern, or repeating space track, of target satellites with respect to a base satellite. In this PC theory, the number of target satellites is distributed using a real number system for node spacing. While using a base satellite orbit as the rotating reference frame, the PC theory consists of satellite phasing rules and closed form formulae for designing repeating space tracks. The evaluation of the PC theory is illustrated through it's comparison to the existing Flower Constellation theory in terms of node spacing distribution and constellation design process. For the control problems, the efficient analytic solution is applied to the reference trajectory of satellite relative tracking control systems for inter-satellite links. Two types of relative tracking control systems are developed and each is evaluated to determine which is more appropriate for practical applications of inter-satellite links. All of the proposed analytic solutions and tools in this dissertation will be useful for the mission analysis and design of relative motions involving a two or more satellite system.",
+  "description_provenance": [
+    "Author Email: sslee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:01Z (GMT). No. of bitstreams: 1 DISSERTATION.pdf: 3157994 bytes, checksum: ea4f199c27083931d12681b7a52ba28f (MD5)   Previous issue date: 2009-03-20"
+  ],
+  "handle": "26661",
+  "identifier_other": "etd-04062009-190200",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04062009-190200/",
+  "identifier_uri": "http://hdl.handle.net/10919/26661",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DISSERTATION.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Satellite Control",
+    "Satellite Constellation",
+    "Satellite Relative Orbit"
+  ],
+  "title": "Dynamics and Control of Satellite Relative Motion: Designs and Applications",
+  "type": "Dissertation"
+}

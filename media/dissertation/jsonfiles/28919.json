@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Jiang, Li",
+  "contributor_committeechair": "Asryan, Levon V.",
+  "contributor_committeemember": [
+    "Lu, Guo-Quan",
+    "Hendricks, Robert W.",
+    "Guido, Louis J."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:16:05Z",
+  "date_adate": "2008-10-03",
+  "date_available": "2014-03-14T20:16:05Z",
+  "date_issued": "2008-09-02",
+  "date_rdate": "2008-10-03",
+  "date_sdate": "2008-09-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The effect of different factors on the operating characteristics of a semiconductor quantum dot (QD) laser is studied. Specifically, the following topics are included in the dissertation:  1) Effect of carrier-density-dependent internal loss in the optical confinement layer (OCL) on the characteristic temperature.  Internal optical loss in a QD laser couples the confined-carrier level occupancy in QDs to the free-carrier density in the OCL. Due to this coupling, which is controlled by the threshold condition, the free-carrier density is increased and more temperature-sensitive, and also the confined-carrier level occupancy becomes temperature-dependent. As a result, the characteristic temperature of a laser is considerably reduced. Carrier-density-dependent internal loss also sets an upper limit for operating temperatures of a QD laser and constrains the shallowest potential well depth and the smallest tolerable size of a QD at which the lasing can be attained. The dependences of the characteristic temperature, maximum operating temperature, and shallowest potential well depth on the parameters of the structure are obtained. At the maximum operating temperature or when any parameter of the structure is equal to its critical tolerable value, the characteristic temperature reduces to zero.  2) Effect of excited-states in QDs on the light-current characteristic (LCC).  The carrier capture from the three-dimensional reservoir (optical confinement layer â   OCL) into the QD ground-state and escape from the ground-state to the OCL are assumed to occur via the QD excited-state. Such a two-step capture places a fundamental limitation on ground-state lasingâ  the output power saturates at high injection currents. The saturation power is controlled by the transition time between the excited- and ground-state in a QD. The longest, cut-off transition time exists, beyond which no ground-state lasing is possible. The following characteristics are analyzed versus the injection current density and the transition time: occupancies of the ground- and excited-state, free carrier density in the OCL, threshold current density, number of stimulated photons emitted, output power, internal and external differential quantum efficiencies.  3) Effect of longitudinal spatial hole burning (SHB) and multimode lasing on the LCC.  The number of modes is shown to remain limited with increasing injection current. The maximum number of modes that can oscillate in a QD laser is analytically estimated. While this number increases with increasing surface density of QDs or cavity length, it remains limited (first increases and then decreases) with increasing scatter in the QD-size. The critical tolerable values of the structure parameters are derived beyond which higher-order longitudinal modes can not oscillate. It is notable that, in addition to the maximum tolerable scatter, there also exists the minimum scatter in the QD-size for each higher-order mode to start lasing. The threshold currents and output powers of modes are computed numerically. The power of the main mode is reduced due to lasing of higher-order modes and spatially nonuniform carrier distribution. As a new mode turns on, kinks appear in the LCCs of existing modes. SHB reduces the total optical power of a laser and contributes to nonlinearity of the overall LCC. The effect is more significant when any of the structure parameters is close to its critical tolerable value. The LCC becomes more linear with improving QD-size uniformity or increasing surface density of QDs or cavity length.",
+  "description_provenance": [
+    "Author Email: lijiang@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: hendrxrw@vt.edu",
+    "Advisor Email: asryan@mse.vt.edu",
+    "Advisor Email: guido@mse.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:05Z (GMT). No. of bitstreams: 1 Jiang_PhD_dissertation_final.pdf: 1865450 bytes, checksum: 59d6785b7b23507591fb5d41f457e339 (MD5)   Previous issue date: 2008-09-02"
+  ],
+  "handle": "28919",
+  "identifier_other": "etd-09092008-201502",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09092008-201502/",
+  "identifier_uri": "http://hdl.handle.net/10919/28919",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Jiang_PhD_dissertation_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "quantum dot lasers",
+    "semiconductor lasers"
+  ],
+  "title": "Theoretical study of performance characteristics of semiconductor quantum dot lasers",
+  "type": "Dissertation"
+}

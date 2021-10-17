@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Ball, Robert Glenn",
+  "contributor_committeechair": "North, Christopher L.",
+  "contributor_committeemember": [
+    "Carstensen, Laurence William Jr.",
+    "Robertson, George G.",
+    "Bowman, Douglas A.",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:41Z",
+  "date_adate": "2006-09-01",
+  "date_available": "2014-03-14T20:15:41Z",
+  "date_issued": "2006-08-14",
+  "date_rdate": "2006-09-01",
+  "date_sdate": "2006-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Geospatial visualizations are becoming a larger part of society. From using maps to go from one location to another to using battlefield visualizations to help the military, geospatial visualizations are becoming a larger part of people's lives.   At the same time, large displays are becoming more prominent in people's lives. From large fifty-monitor tiled displays to dual monitor desktop systems people are using larger displays more often in their daily lives.  This dissertation summarizes our work with large displays and geospatial visualizations. We show dramatic increases in performance of more than ten times performance improvement when using larger displays that offer a greater number of pixels. We show performance improvements for a range of tasks from simple navigation to complex pattern finding tasks.  This dissertation contributes to the fields of human-computer interaction and information visualization in that it shows performance improvements as analytical force multipliers and explains why such performance exists. It explains how virtual navigation (mouse and keyboard input) correlates to physical navigation (body movement) to explain performance improvements. In addition, this dissertation explains how semantic zooming, space scale, task scale, and task type all are variables that influence human behavior in both navigation and performance.  This dissertation addresses primarily geospatial information visualizations, but extends to other generic spatially oriented visualizations. The impacts of large displays for both geospatial information visualizations and generic spatially oriented visualizations are explained.",
+  "description_provenance": [
+    "Author Email: rgb6@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: ggr@microsoft.com",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:41Z (GMT). No. of bitstreams: 4 DisserationRobertBall.pdf: 2002059 bytes, checksum: ddcde09e412b5e2c16a0fca0c1e6f5aa (MD5) s05-616amend.pdf: 57090 bytes, checksum: 9caa17acfb3c9181023f87808924e597 (MD5) s05-616.pdf: 48321 bytes, checksum: b21e1d12d452a949d28867ac1a5bfc9a (MD5) s05-074.pdf: 53078 bytes, checksum: a3f8b3b3bd9dba4b195bdb8df4915725 (MD5)   Previous issue date: 2006-08-14"
+  ],
+  "handle": "28793",
+  "identifier_other": "etd-08252006-103122",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252006-103122/",
+  "identifier_uri": "http://hdl.handle.net/10919/28793",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "DisserationRobertBall.pdf",
+    "s05-616amend.pdf",
+    "s05-616.pdf",
+    "s05-074.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "human-computer interaction",
+    "large displays",
+    "information visualization",
+    "space scale"
+  ],
+  "title": "Effects of Large, High-Resolution Displays for Geospatial Information Visualization",
+  "type": "Dissertation"
+}

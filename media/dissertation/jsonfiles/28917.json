@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Cline, Ben E",
+  "contributor_committeechair": "Nutter, Jane Terry",
+  "contributor_committeemember": [
+    "Roach, John W.",
+    "Fox, Edward Alan",
+    "Crawford, Helen J.",
+    "Gray, Festus Gail"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:04Z",
+  "date_adate": "2008-09-09",
+  "date_available": "2014-03-14T20:16:04Z",
+  "date_issued": "1994-05-31",
+  "date_rdate": "2011-07-13",
+  "date_sdate": "2008-09-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Traditional natural language generation systems use a pipelined architecture. Two problems with this architecture are poor task decomposition and the lack of interaction between conceptual and stylistic decisions making. A revision architecture operating in a knowledge intensive environment is proposed as a means to deal with these two problems. In a revision system. text is produced and refined iteratively. A text production cycle consists of two steps. First, the text generators produce initial text. Second, this text is examined for defects by revisors. When defects are found the revisors make suggestions for the regeneration of the text. The text generator/revision cycle continues to polish the text iteratively until no more defects can be found. Although previous research has focused on stylistic revisions only. this paper describes techniques for both stylistic and conceptual revisions. <p> Using revision to produce extended natural language text through a series of drafts provides three significant advantages over a traditional natural language generation system. First, it reduces complexity through task decomposition. Second, it promotes text polishing techniques that benefit from the ability to examine generated text in the context of the underlying knowledge from which it was generated. Third, it provides a mechanism for the integrated handling of conceptual and stylistic decisions. <p> For revision to operate intelligently and efficiently, the revision component must have access to both the surface text and the underlying knowledge from which it was generated. A knowledge intensive architecture with a uniform knowledge base allows the revision software to quickly locate referents, choices made in producing the defective text, alternatives to the decisions made at both the conceptual and stylistic levels, and the intent of the text. The revisors use this knowledge, along with facts about the topic at hand and knowledge about how text is produced. to select alternatives for improving the text. <p> The Kalos system was implemented to illustrate revision processing in a natural language generation system. It produces advanced draft quality text for a microprocessor users' guide from a knowledge base describing the microprocessor. It uses revision techniques in a knowledge intensive environment to iteratively polish its initial generation. The system performs both conceptual and stylistic revisions. Example output from the system, showing both types of revision, is presented and discussed. Techniques for dealing with the computational problems caused by the system's uniform knowledge base are described.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:16:04Z (GMT). No. of bitstreams: 1 LD5655.V856_1994.C586.pdf: 7172328 bytes, checksum: 8ca9fd7aaeed751685ff7e05ccb5b577 (MD5)   Previous issue date: 1994-05-31",
+  "format_medium": "BTD",
+  "handle": "28917",
+  "identifier_other": "etd-09092008-063657",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09092008-063657/",
+  "identifier_uri": "http://hdl.handle.net/10919/28917",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1994.C586.pdf",
+  "subject": "Natural language processing (Computer science)",
+  "subject_lcc": "LD5655.V856 1994.C586",
+  "title": "Knowledge intensive natural language generation with revision",
+  "type": "Dissertation"
+}

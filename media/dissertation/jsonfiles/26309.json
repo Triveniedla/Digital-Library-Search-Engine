@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Majeed, Majed A",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeecochair": [
+    "Inman, Daniel J.",
+    "Hyer, Michael W."
+  ],
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Johnson, Eric R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:48Z",
+  "date_adate": "2005-03-03",
+  "date_available": "2014-03-14T20:07:48Z",
+  "date_issued": "2005-02-24",
+  "date_rdate": "2010-10-12",
+  "date_sdate": "2005-02-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This study focuses on the response of flat unsymmetric laminates to an inplane compressive loading that for symmetric laminates are of sufficient magnitude to cause bifurcation buckling, postbuckling, and secondary buckling behavior. In particular, the purpose of this study is to investigate whether or not the concept of bifurcation buckling is applicable to unsymmetric laminates. Past work by other researchers has suggested that such a concept is applicable for certain boundary conditions. The study also has as an objective the determination of the response of flat unsymmetric laminates if bifurcation buckling does not occur. The finite-element program ABAQUS is used to obtain results, and a portion of the study is devoted to becoming familiar with the way ABAQUS handles such highly geometrically nonlinear problems, particularly for composite materials and particularly when instabilities and dynamic behavior are involved. Familiarity with the problem, in general, and with the use of ABAQUS, in particular, is partially gained by considering semi-infinite unsymmetrically laminated cross- and angle-ply plates, a one-dimensional problem that can be solve in closed form and with ABAQUS by making the appropriate approximations for the infinite geometry. In this portion of the study it is found that semi-infinite cross-ply laminates with clamped boundary conditions and semi-infinite angle-ply plates with simple-support boundary conditions remain flat under a compressive load until the load magnitude reaches a certain level, at which time the out-of-plane deflection become indeterminate, essentially an eigenvalue problem as encountered with classic bifurcation buckling analyses. Obviously, a linear analysis of such problems would not reveal this behavior and, in fact, there are other revealed significant differences between the predictions of linear and nonlinear analyses. Transversely-loaded and inplane-loaded finite isotropic plates are studied by way of semi-closed form Rayleigh-Ritz-based solutions and ABAQUS in a step to approaching the problem with unsymmetric laminates. A method to investigate the unloading behavior of postbuckled finite isotropic plates is developed that reveal multiple plate configurations in the postbuckled region of the response, and this method is then extended to the study of finite inplane-loaded unsymmetric laminates. To that end, two specific laminates, a symmetric and an unsymmetric cross-ply laminates, and a variety of boundary conditions are used to study the response of inplane-loaded unsymmetric laminates. The symmetric laminate is included to provide a familiar baseline case and a means of comparison. Plates with all four edges clamped and a variety of inplane boundary conditions are studied. Of course the symmetric cross-ply laminate exhibits bifurcation behavior, and when the tangential displacement on the loaded edges and the normal displacement on the unloaded edges are restrained, secondary buckling behavior occurs. For the unsymmetric cross-ply laminate, bifurcation buckling behavior does not occur unless the tangential displacement on the loaded edges and the normal displacement on the unloaded edges are restrained, or the tangential displacement on the loaded edges and the normal displacement on the unloaded edges are free. If either of these conditions are not satisfied, the unsymmetric cross-ply laminate exhibits what could be termed 'near-bifurcation' behavior. In all cases rather complex behavior occurs for high levels of inplane load, including asymmetric postbuckling and secondary buckling behavior. For clamped loaded edges and simply-supported unloaded edges, bifurcation buckling behavior does not occur unless the tangential displacement on the loaded edges and the normal displacement on the unloaded edges are restrained. For this case, rather unusual asymmetric bifurcation and associated limit point behavior occur, as well as secondary buckling. This is a very interesting boundary condition case and is studied further for other unsymmetric cross-ply laminates, including the use of a Rayleigh-Ritz-based solution in attempt to quantify the problem parameters responsible for the asymmetric response. The overall results of the study have led to an increased understanding of the role of laminate asymmetry and boundary conditions on the potential for bifurcation behavior, on the response of the laminate for loads beyond that level.",
+  "description_provenance": [
+    "Author Email: mmajeed@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:48Z (GMT). No. of bitstreams: 1 MAM_Dissertation.pdf: 9060154 bytes, checksum: 4a39ae3530237f3cba4b39d87cef8367 (MD5)   Previous issue date: 2005-02-24"
+  ],
+  "handle": "26309",
+  "identifier_other": "etd-02252005-132638",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02252005-132638/",
+  "identifier_uri": "http://hdl.handle.net/10919/26309",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MAM_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Antisymmetric Angle-Ply Laminates",
+    "Bifurcation Buckling",
+    "Unsymmetric Cross-ply Laminates",
+    "Stability",
+    "ABAQUS FEA",
+    "Geometrically Nonlinear"
+  ],
+  "title": "Deformations of In-plane Loaded Unsymmetrically Laminated Composite Plates",
+  "type": "Dissertation"
+}

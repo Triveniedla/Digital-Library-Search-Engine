@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Zhang, Li",
+  "contributor_committeechair": "Hobeika, Antoine G.",
+  "contributor_committeemember": [
+    "Trani, Antonio A.",
+    "Woerner, Brian D.",
+    "Ghaman, Raj",
+    "Lin, Wei-hua"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:12:09Z",
+  "date_adate": "2000-07-07",
+  "date_available": "2014-03-14T20:12:09Z",
+  "date_issued": "2000-05-12",
+  "date_rdate": "2001-07-07",
+  "date_sdate": "2000-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dissertation proposed an approach, named â  Signal Optimization Under Rail Crossing sAfety cOnstraintsâ  (SOURCAO), to the traffic signal control near a highway rail grade crossing (HRGC). SOURCAO targets two objectives: HRGC safety improvement (a high priority national transportation goal) and highway traffic delay reduction (a common desire for virtually all of us). Communication and data availability from ITS and the next generation train control are assumed available in SOURCAO.  The first step in SOURCAO is to intelligently choose a proper preemption phase sequence to promote HRGC safety. An inference engine is designed in place of traditional traffic signal preemption calls to prevent the queue from backing onto HRGC. The potential hazard is dynamically examined as to whether any queuing vehicle stalls on railroad tracks. The inference engine chooses the appropriate phase sequence to eliminate the hazardous situation.   The second step in SOURCAO is to find the optimized phase length. The optimization process uses the network traffic delay (close to the control delay) at the intersections within HRGC vicinities as an objective function. The delay function is approximated and represented by multilayer perceptron neural network (off-line). After the function was trained and obtained, an optimization algorithm named Successive Quadratic Programming (SQP) searches the length of phases (on-line) by minimizing the delay function. The inference engine and proposed delay model in optimization take the on-line surveillance detector data and HRGC closure information as input.   By integrating artificial intelligence and optimization technologies, the independent simulation evaluation of SOURCAO by TSIS/CORSIM demonstrated that the objectives are reached. The average network delay for 20 runs of simulation evaluation is reduced over eight percent by a t-test while the safety of HRGC is promoted. The sensitivity tests demonstrate that SOURCAO works efficiently under light and heavy traffic conditions, as well as a wide range of HRGC closure times.",
+  "description_provenance": [
+    "Author Email: li.zhang@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: Raj.Ghaman@fhwa.dot.gov",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: whlin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:09Z (GMT). No. of bitstreams: 7 ch3.PDF: 122831 bytes, checksum: 43f33926634d60f93aacb74a82fc388a (MD5) ch5.PDF: 80768 bytes, checksum: 63c78bb3ae8f0fedfd8d8bebe66df17d (MD5) ch4.PDF: 103612 bytes, checksum: 02157a050cf89548b0e11a0ec678a5b8 (MD5) ch6.PDF: 275946 bytes, checksum: d884bab14a29997259fb7453a8bab46a (MD5) ch7.PDF: 28137 bytes, checksum: c12e3add99b0f6fb9f5501bbdac8e151 (MD5) ch1.PDF: 21630 bytes, checksum: 9ac644a8474a4fb9a422606954e1d1c0 (MD5) ch2.PDF: 1837135 bytes, checksum: 1f34462df853ad1a8825a00bd716e234 (MD5)   Previous issue date: 2000-05-12"
+  ],
+  "handle": "27750",
+  "identifier_other": "etd-05172000-13150029",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172000-13150029/",
+  "identifier_uri": "http://hdl.handle.net/10919/27750",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ch3.PDF",
+    "ch5.PDF",
+    "ch4.PDF",
+    "ch6.PDF",
+    "ch7.PDF",
+    "ch1.PDF",
+    "ch2.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Traffic Signal Optimization",
+    "Neural Network",
+    "Intelligent Agent",
+    "Grade Crossing Safety"
+  ],
+  "title": "Optimizing Traffic Network Signals Around Railroad Crossings",
+  "type": "Dissertation"
+}

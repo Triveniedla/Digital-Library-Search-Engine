@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Paschero, Maurizio",
+  "contributor_committeechair": "Hyer, Michael W.",
+  "contributor_committeemember": [
+    "Batra, Romesh C.",
+    "Beex, A. A. Louis",
+    "Patil, Mayuresh J.",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:08:49Z",
+  "date_adate": "2008-04-24",
+  "date_available": "2014-03-14T20:08:49Z",
+  "date_issued": "2008-03-25",
+  "date_rdate": "2009-04-24",
+  "date_sdate": "2008-04-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A rather thorough and novel buckling analysis of an axially-loaded orthotropic circular cylindrical shell is formulated. The analysis assumes prebuckling rotations are negligible and uses a unique re-defining of the orthotropic material properties in terms of a so-called geometric mean isotropic (GMI) material. Closed-form expressions for the buckling stress in terms of cylinder geometry and orthotropic material properties are presented, the particular closed form depending on the specific character of the orthotropic material relative to the GMI material. With the formulation, the specific character of the buckling deformations - e.g., axisymmetric or nonaxisymmetric, the number of axial and circumferential waves - can be established. By using the maximum radius of curvature of an elliptical cross section in this formulation, the analysis is used to demonstrate the detrimental effects of an elliptical cross section on axial buckling capacity when compared to a circular cross section with the same circumference. Using the circumferentially-varying radius of curvature of an elliptical cross section, the analysis is then further used as the basis for developing two methods for improving the axial buckling capacity of elliptical cylinders. The first approach involves varying the wall thickness of an isotropic elliptical cylinder with circumferential position. Uniformly stable elliptical cross sections which preserve the same critical stress, critical load, or volume of an axially loaded circular cylinder of the same circumference are designed with the formulation. The second approach involves maintaining a uniform wall thickness but varying the orthotropic material properties with circumferential position. This approach is applied to a cylindrical lattice structure where it is assumed that the ribs are dense enough to be able to describe the lattice structure by means of an equivalent homogenized material. The orthotropic properties of the homogenized material are varied by varying the lattice rib angle with circumferential position. Considerable recovery of the axial buckling capacity of the variable-rib-angle design elliptical cylinder compared to the same cylinder constructed in isogrid fashion is demonstrated. In fact, recovery relative to an isogrid circular cylinder of the same circumference is demonstrated. For both approaches confirming finite element models are used to verify the findings. The two different approaches are compared, and finally the two approaches are recognized as special cases of a more general design philosophy.",
+  "description_provenance": [
+    "Author Email: mpascher@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:49Z (GMT). No. of bitstreams: 1 Paschero.pdf: 3397899 bytes, checksum: 99ec571af1141807091164f33e2edf8b (MD5)   Previous issue date: 2008-03-25"
+  ],
+  "handle": "26613",
+  "identifier_other": "etd-04032008-173035",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04032008-173035/",
+  "identifier_uri": "http://hdl.handle.net/10919/26613",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Paschero.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Stability",
+    "Material tailoring",
+    "Variable thickness cylinders",
+    "Elliptical cylinders",
+    "Anisogrid cylinders"
+  ],
+  "title": "Improvement of the axial buckling capability of elliptical cylindrical shells",
+  "type": "Dissertation"
+}

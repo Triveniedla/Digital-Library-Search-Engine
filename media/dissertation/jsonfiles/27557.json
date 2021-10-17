@@ -1,0 +1,45 @@
+{
+  "contributor_author": "McGrath, Elizabeth Ferreira",
+  "contributor_committeechair": "Grant, John Wallace",
+  "contributor_committeemember": [
+    "Love, Brian J.",
+    "Klein, Bradley G.",
+    "Kriz, Ronald D.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:11:37Z",
+  "date_adate": "2003-05-22",
+  "date_available": "2014-03-14T20:11:37Z",
+  "date_issued": "2003-04-24",
+  "date_rdate": "2006-05-22",
+  "date_sdate": "2003-05-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Previous mathematical modeling work has produced a transfer function that relates otoconial layer displacement to stimulus acceleration.  Due to the complexity of this transfer function, time domain solutions may be obtained only through numerical methods.  In the current work, several approximations are introduced to the transfer function that result in its simplification.  This simplified version can be inverted to yield analytic time domain solutions.  Results from a frequency response analysis of the simplified transfer function are compared with the same results from the complete transfer function, and with mammalian first-order neuron frequency response data.  There is good agreement in the comparisons.  Time domain solutions of the approximation are compared to numerical solutions of the full transfer function, and again there is a good match.  System time constants are calculated from the simplified transfer function.  A 2-D finite element model of a mammalian utricular macula is presented.  Physical dimensions used in the model are taken from mammalian anatomical studies. Values for the material properties of the problem are not readily available; however, ranges are chosen to produce realistic physiologic behavior.  Deflections predicted by this model show that a single value for hair bundle stiffness throughout the organ is inadequate for the organ to respond to the entire range of human acceleration perception. Therefore, it is necessary for a range of hair bundle stiffnesses to exist in each organ.  Natural frequencies calculated in this model support previous studies on vestibular damage due to low frequency sound.  Divers exposed to high-intensity underwater sound have experienced symptoms attributed to vestibular stimulation.  An in-water video-oculography (VOG) system was developed to monitor diversâ   eye movements, particularly torsional, during exposure to varying underwater sound signals.  The system included an underwater closed-circuit video camera with infrared lights attached to the diverâ  s mask with an adjustable mounting bracket.  The video image was sent to a surface control room for real-time and post-experiment processing.  Six divers at 60 feet in open water received 15 minutes daily cumulative exposure of 240-320 Hertz underwater sound at 160 dB re 1 mPa for 10 days.  No spontaneous primary position nystagmus, horizontal, vertical or torsional, was detected in any diver.  This experiment was the first successful attempt to record and analyze eye movements underwater.",
+  "description_provenance": [
+    "Author Email: eamcgrath@cox.net",
+    "Advisor Email: blove@vt.edu",
+    "Advisor Email: jgrant@vt.edu",
+    "Advisor Email: bklein@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:37Z (GMT). No. of bitstreams: 1 FinalDissertation.pdf: 1783191 bytes, checksum: e8846901c32be1f58330b06958a96f11 (MD5)   Previous issue date: 2003-04-24"
+  ],
+  "handle": "27557",
+  "identifier_other": "etd-05062003-124018",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05062003-124018/",
+  "identifier_uri": "http://hdl.handle.net/10919/27557",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "FinalDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "finite element",
+    "otolith",
+    "eye movement",
+    "vestibular model"
+  ],
+  "title": "Modeling and Monitoring of Otolith Organ Performance in US Navy Operating Environments",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Thota, Phanikrishna",
+  "contributor_committeecochair": [
+    "Batra, Romesh C.",
+    "Dankowicz, Harry J."
+  ],
+  "contributor_committeemember": [
+    "Nayfeh, Ali H.",
+    "Hendricks, Scott L.",
+    "Inman, Daniel J.",
+    "Paul, Mark R."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:07:22Z",
+  "date_adate": "2007-03-07",
+  "date_available": "2014-03-14T20:07:22Z",
+  "date_issued": "2007-02-02",
+  "date_rdate": "2007-03-07",
+  "date_sdate": "2007-02-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this dissertation is to develop theoretical and computational tools for the study of qualitative changes in the dynamics of systems with discontinuities, also known as nonsmooth or hybrid dynamical systems, under parameter variations. Accordingly, this dissertation is divided into two parts.  The analytical section of this dissertation discusses mathematical tools for the analysis of hybrid dynamical systems and their application to a series of model examples. Specifically, qualitative changes in the system dynamics from a nonimpacting to an impacting motion, referred to as grazing bifurcations, are studied in oscillators where the discontinuities are caused by impacts. Here, the study emphasizes the formulation of conditions for the persistence of a steady state motion in the immediate vicinity of periodic and quasiperiodic grazing trajectories in an impacting mechanical system. A local analysis based on the discontinuity-mapping approach is employed to derive a normal-form description of the dynamics near a grazing trajectory. Also, the results obtained using the discontinuity-mapping approach and direct numerical integration are found to be in good agreement. It is found that the instabilities caused by the presence of the square-root singularity in the normal-form description affect the grazing bifurcation scenario differently depending on the relative dimensionality of the state space and the steady state motion at the grazing contact.  The computational section presents the structure and applications of a software program, TC-HAT, developed to study the bifurcation analysis of hybrid dynamical systems. Here, we present a general boundary value problem (BVP) approach to locate periodic trajectories corresponding to a hybrid dynamical system under parameter variations. A methodology to compute the eigenvalues of periodic trajectories when using the BVP formulation is illustrated using a model example. Finally, bifurcation analysis of four model hybrid dynamical systems is performed using TC-HAT.",
+  "description_provenance": [
+    "Author Email: thota@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: danko@uiuc.edu",
+    "Made available in DSpace on 2014-03-14T20:07:22Z (GMT). No. of bitstreams: 1 Dissertation_Thota.pdf: 7484163 bytes, checksum: 14a8778d81b7eb62724c59060823f5bc (MD5)   Previous issue date: 2007-02-02"
+  ],
+  "handle": "26196",
+  "identifier_other": "etd-02142007-140350",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02142007-140350/",
+  "identifier_uri": "http://hdl.handle.net/10919/26196",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Thota.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Grazing Bifurcations",
+    "Co-dimension-one",
+    "Hybrid Dynamical Systems"
+  ],
+  "title": "Analytical and Computational Tools for the Study of Grazing Bifurcations of Periodic Orbits and Invariant Tori",
+  "type": "Dissertation"
+}

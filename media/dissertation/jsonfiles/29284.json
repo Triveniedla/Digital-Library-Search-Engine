@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Wang, Tong",
+  "contributor_committeecochair": [
+    "Reece, Charles E.",
+    "Ficenec, John R."
+  ],
+  "contributor_committeemember": [
+    "Mo, Luke W.",
+    "Jenkins, David A.",
+    "Morris, John R.",
+    "Sundelin, Ronald M."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:17:24Z",
+  "date_adate": "2002-11-13",
+  "date_available": "2014-03-14T20:17:24Z",
+  "date_issued": "2002-09-18",
+  "date_rdate": "2005-02-28",
+  "date_sdate": "2002-10-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Enhanced field emission (EFE) presents the main impediment to higher acceleration gradients in superconducting niobium (Nb) radiofrequency cavities for particle accelerators. The strength, number and sources of EFE sites strongly depend on surface preparation and handling.  The main objective of this thesis project is to systematically investigate the sources of EFE from Nb, to evaluate the best available surface preparation techniques with respect to resulting field emission, and to establish an optimized process to minimize or eliminate EFE.  To achieve these goals, a scanning field emission microscope (SFEM) was designed and built as an extension to an existing commercial scanning electron microscope (SEM). In the SFEM chamber of ultra high vacuum, a sample is moved laterally in a raster pattern under a high voltage anode tip for EFE detection and localization. The sample is then transferred under vacuum to the SEM chamber equipped with an energy-dispersive x-ray spectrometer for individual emitting site characterization. Compared to other systems built for similar purposes, this apparatus has low cost and maintenance, high operational flexibility, considerably bigger scan area, as well as reliable performance.  EFE sources from planar Nb have been studied after various surface preparation, including chemical etching and electropolishing, combined with ultrasonic or high-pressure water rinse. Emitters have been identified, analyzed and the preparation process has been examined and improved based on EFE results.  As a result, field-emission-free or near field-emission-free surfaces at ~140 MV/m have been consistently achieved with the above techniques. Characterization on the remaining emitters leads to the conclusion that no evidence of intrinsic emitters, i.e., no fundamental electric field limit induced by EFE, has been observed up to ~140 MV/m. Chemically etched and electropolished Nb are compared and no significant difference is observed up to ~140 MV/m.   To address concerns on the effect of natural air drying process on EFE, a comparative study was conducted on Nb and the results showed insignificant difference under the experimental conditions.   Nb thin films deposited on Cu present a possible alternative to bulk Nb in superconducting cavities. The EFE performance of a preliminary energetically deposited Nb thin film sample are presented.",
+  "description_provenance": [
+    "Author Email: tong@jlab.org",
+    "Advisor Email: reece@jlab.org",
+    "Advisor Email: lmo@vt.edu",
+    "Advisor Email: jenkins@jlab.org",
+    "Advisor Email: jficenec@vt.edu",
+    "Advisor Email: jrmorris@vt.edu",
+    "Advisor Email: sundelin@cox.net",
+    "Made available in DSpace on 2014-03-14T20:17:24Z (GMT). No. of bitstreams: 1 thesisSUM.pdf: 11095409 bytes, checksum: f55f3ed8932b21149141af98319757af (MD5)   Previous issue date: 2002-09-18"
+  ],
+  "handle": "29284",
+  "identifier_other": "etd-10162002-131823",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10162002-131823/",
+  "identifier_uri": "http://hdl.handle.net/10919/29284",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesisSUM.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "niobium",
+    "electron field emission",
+    "radio-frequency superconductivity",
+    "enhanced field emission"
+  ],
+  "title": "Enhanced Field Emission Studies on Nioboim Surfaces Relevant to High Field Superconducting Radio-Frequency Devices",
+  "type": "Dissertation"
+}

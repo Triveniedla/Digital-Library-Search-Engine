@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Walker, William Paul",
+  "contributor_committeechair": "Patil, Mayuresh J.",
+  "contributor_committeemember": [
+    "Canfield, Robert A.",
+    "Devenport, William J.",
+    "Mason, William H."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:12:08Z",
+  "date_adate": "2012-05-30",
+  "date_available": "2014-03-14T20:12:08Z",
+  "date_issued": "2012-05-09",
+  "date_rdate": "2012-05-30",
+  "date_sdate": "2012-05-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents both analytical and numerical approaches to optimizing thrust and thrust efficiency of harmonically deforming thin airfoils and membrane wings.  A frequency domain unsteady aerodynamic theory for deformable thin airfoils, with Chebychev polynomials as the basis functions is presented.  Stroke-averaged thrust and thrust efficiency expressions are presented in a quadratic matrix form.  The motion and deformation of the airfoil is optimized for maximum thrust and efficiency.  Pareto fronts are generated showing optimum deformation conditions (magnitude and phase) for various reduced frequencies and constraints.  It is shown that prescribing the airfoil to deform in a linear combination of basis functions with optimal magnitude and phase results in a larger thrust as compared to rigid plunging, especially at low reduced frequencies.  It is further shown that the problem can be constrained significantly such that thrust is due entirely to pressure with no leading edge suction, and associated leading edge separation.  The complete aeroelastic system for a membrane wing is also optimized.  The aerodynamic theory for deformable thin airfoils is used as the forcing in a membrane vibration problem.  Due to the nature of the two dimensional theory, the membrane vibration problem is reduced to two dimensions via the Galerkin method and nondimensionalized such that the only terms are nondimesional tension, mass ratio and reduced frequency.  The maximum thrust for the membrane wing is calculated by optimizing the tension in the membrane so that the the aeroelastic deformation due to wing motion leads to optimal thrust and/or efficiency.  A function which describes the optimal variation of spanwise tension along the chord is calculated.  It is shown that one can always find a range of membrane tension for which the flexible membrane wings performs better than the rigid wing.  These results can be used in preliminary flapping wing MAV design.",
+  "description_provenance": [
+    "Author Email: wiwalker@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: bob.canfield@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:08Z (GMT). No. of bitstreams: 1 Walker_WP_D_2012.pdf: 1369994 bytes, checksum: 5cddadf74fa204adb35d3dcd56072b79 (MD5)   Previous issue date: 2012-05-09"
+  ],
+  "handle": "27748",
+  "identifier_other": "etd-05162012-134802",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05162012-134802/",
+  "identifier_uri": "http://hdl.handle.net/10919/27748",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Walker_WP_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Unsteady Aerodynamics",
+    "Deformable Airfoils",
+    "Membrane Aeroelasticity",
+    "Aeroelastic Tailoring",
+    "Optimization"
+  ],
+  "title": "Optimization of Harmonically Deforming Thin Airfoils and Membrane Wings for Optimum Thrust and Efficiency",
+  "type": "Dissertation"
+}

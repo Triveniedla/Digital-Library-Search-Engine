@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Loveday, Philip Wayne",
+  "contributor_committeechair": "Rogers, Craig A.",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Ahmadian, Mehdi",
+    "Robertshaw, Harry H.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:35Z",
+  "date_adate": "1999-02-17",
+  "date_available": "2014-03-14T20:07:35Z",
+  "date_issued": "1999-01-29",
+  "date_rdate": "1999-02-17",
+  "date_sdate": "1999-02-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Vibratory gyroscopes are inertial sensors, used to measure rotation rates in a number of applications.  The performance of these sensors is limited by imperfections that occur during manufacture of the resonators.  The effects of resonator imperfections, in piezoelectric vibratory gyroscopes, were studied. <p>Hamiltonâ  s principle and the Rayleigh-Ritz method provided an effective approach for modeling the coupled electromechanical dynamics of piezoelectric resonators.  This method produced accurate results when applied to an imperfect piezoelectric vibrating cylinder gyroscope.  The effects of elastic boundary conditions, on the dynamics of rotating thin-walled cylinders, were analyzed by an exact solution of the FlÃ¼gge shell theory equations of motion.  A range of stiffnesses in which the cylinder dynamics was sensitive to boundary stiffness variations was established.  The support structure, of a cylinder used in a vibratory gyroscope, should be designed to have stiffness outside of this range.  Variations in the piezoelectric material properties were investigated.  A figure-of- merit was proposed which could be used to select an existing piezoceramic material or to optimize a new composition for use in vibratory gyroscopes. <p>The effects of displacement and velocity feedback on the resonator dynamics were analyzed.  It was shown that displacement feedback could be used to eliminate the natural frequency errors, that occur during manufacture, of a typical piezoelectric vibrating cylinder gyroscope.  The problem of designing the control system to reduce the effects of resonator imperfections was investigated.  Averaged equations of motion, for a general resonator, were presented.  These equations provided useful insight into the dynamics of the imperfect resonator and were used to motivate the control system functions.  Two control schemes were investigated numerically and experimentally.  It was shown that it is possible to completely suppress the first-order effects of resonator mass/stiffness imperfections.  Damping imperfections, are not compensated by the control system and are believed to be the major source of residual error.  Experiments performed on a piezoelectric vibrating cylinder gyroscope showed an order of magnitude improvement, in the zero-rate offset variation over a temperature range of 60Â°C, when the control systems were implemented.",
+  "description_provenance": [
+    "Author Email: ploveday@csir.co.za",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: rogers@engr.sc.edu",
+    "Made available in DSpace on 2014-03-14T20:07:35Z (GMT). No. of bitstreams: 1 etd.pdf: 971764 bytes, checksum: 7e600ec66751223b586c3b188ef18e1d (MD5)   Previous issue date: 1999-01-29"
+  ],
+  "handle": "26231",
+  "identifier_other": "etd-021799-120134",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-021799-120134/",
+  "identifier_uri": "http://hdl.handle.net/10919/26231",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "gyroscope",
+    "vibratory",
+    "control",
+    "imperfections",
+    "piezoelectric"
+  ],
+  "title": "Analysis and Compensation of Imperfection Effects in Piezoelectric Vibratory Gyroscopes",
+  "type": "Dissertation"
+}

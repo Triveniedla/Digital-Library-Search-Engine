@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Gheisarieha, Mohsen",
+  "contributor_committeechair": "Stremler, Mark A.",
+  "contributor_committeemember": [
+    "Ross, Shane D.",
+    "Paul, Mark R.",
+    "Inman, Daniel J.",
+    "Aref, Hassan"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:12Z",
+  "date_adate": "2011-05-20",
+  "date_available": "2014-03-14T20:12:12Z",
+  "date_issued": "2011-04-27",
+  "date_rdate": "2011-05-20",
+  "date_sdate": "2011-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Since it is difficult or impossible to generate turbulent flow in a highly viscous fluid or a microfluidic system, efficient mixing becomes a challenge. However, it is possible in a laminar flow to generate chaotic particle trajectories (well-known as chaotic advection), that can lead to effective mixing. This dissertation studies mixing in flows with the limiting case of zero Reynolds numbers that are called Stokes flows and illustrates the practical use of different theories, namely the topological chaos theory, the set-oriented analysis and lobe dynamics in the analysis, design and optimization of different laminar-flow mixing systems.  In a recent development, the topological chaos theory has been used to explain the chaos built in the flow only based on the topology of boundary motions. Without considering any details of the fluid dynamics, this novel method uses the Thurston-Nielsen (TN) classification theorem to predict and describe the stretching of material lines both qualitatively and quantitatively. The practical application of this theory toward design and optimization of a viscous-flow mixer and the important role of periodic orbits as \"ghost rods\" are studied.  The relationship between stretching of material lines (chaos) and the homogenization of a scalar (mixing) in chaotic Stokes flows is examined in this work. This study helps determining the extent to which the stretching can represent real mixing. Using a set-oriented approach to describe the stirring in the flow, invariance or leakiness of the Almost Invariant Sets (AIS) playing the role of ghost rods is found to be in a direct relationship with the rate of homogenization of a scalar. The mixing caused by these AIS and the variations of their structure are explained from the point of view of geometric mechanics using transport through lobes. These lobes are made of segments of invariant manifolds of the periodic points that are generators of the ghost rods.  A variety of the concentration-based measures, the important parameters of their calculation, and the implicit effect of diffusion are described. The studies, measures and methods of this dissertation help in the evaluation and understanding of chaotic mixing systems in nature and in industrial applications. They provide theoretical and numerical grounds for selection of the appropriate mixing protocol and design and optimization of mixing systems, examples of which can be seen throughout the dissertation.",
+  "description_provenance": [
+    "Author Email: gheisari@vt.edu",
+    "Advisor Email: sdross@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: haref@vt.edu",
+    "Advisor Email: stremler@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:12Z (GMT). No. of bitstreams: 2 Gheisarieha_M_D_2011.pdf: 55990041 bytes, checksum: e27fe654d74bf3acdc8f0f2f91a026e2 (MD5) Gheisarieha_M_D_2011_Copyright.pdf: 53545 bytes, checksum: ab54fdf4e2268b3195ac699ca07deb5b (MD5)   Previous issue date: 2011-04-27"
+  ],
+  "handle": "27768",
+  "identifier_other": "etd-05172011-201428",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172011-201428/",
+  "identifier_uri": "http://hdl.handle.net/10919/27768",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Gheisarieha_M_D_2011.pdf",
+    "Gheisarieha_M_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Lobe Dynamics",
+    "Almost Invariant Sets",
+    "Topological Chaos",
+    "Chaotic Mixing",
+    "Stokes Flow"
+  ],
+  "title": "Topological chaos and chaotic mixing of viscous flows",
+  "type": "Dissertation"
+}

@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Yang, Seungwon",
+  "contributor_committeechair": "Fox, Edward A.",
+  "contributor_committeemember": [
+    "Wildemuth, Barbara Marie",
+    "Ramakrishnan, Narendran",
+    "Moore, John F.",
+    "Fan, Weiguo"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-01-23T09:00:15Z",
+  "date_available": "2014-01-23T09:00:15Z",
+  "date_issued": "2014-01-22",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Identifying topics of a textual document is useful for many purposes. We can organize the documents by topics in digital libraries.  Then, we could browse and search for the documents with specific topics.  By examining the topics of a document, we can quickly understand what the document is about.  To augment the traditional manual way of topic tagging tasks, which is labor-intensive, solutions using computers have been developed.    This dissertation describes the design and development of a topic identification approach, in this case applied to disaster events. In a sense, this study represents the marriage of research analysis with an engineering effort in that it combines inspiration from Cognitive Informatics with a practical model from Information Retrieval.  One of the design constraints, however, is that the Web was used as a universal knowledge source, which was essential in accessing the required information for inferring topics from texts.     Retrieving specific information of interest from such a vast information source was achieved by querying a search engine's application programming interface. Specifically, the information gathered was processed mainly by incorporating the Vector Space Model from the Information Retrieval field.  As a proof of concept, we subsequently developed and evaluated a prototype tool, Xpantrac, which is able to run in a batch mode to automatically process text documents.  A user interface of Xpantrac also was constructed to support an interactive semi-automatic topic tagging application, which was subsequently assessed via a usability study.      Throughout the design, development, and evaluation of these various study components, we detail how the hypotheses and research questions of this dissertation have been supported and answered. We also present that our overarching goal, which was the identification of topics in a human-comparable way without depending on a large training set or a corpus, has been achieved.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-23T09:00:15Z (GMT). No. of bitstreams: 1  Yang_S_D_2014.pdf: 8148325 bytes, checksum: 06f7ff672541e476228f0688f057e289 (MD5)    Previous issue date: 2014-01-22",
+  "format_medium": "ETD",
+  "handle": "25111",
+  "identifier_other": "vt_gsexam:1938",
+  "identifier_uri": "http://hdl.handle.net/10919/25111",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "topic identification",
+    "tagging",
+    "cognitive informatics",
+    "vector space model",
+    "knowledge sources",
+    "natural language processing",
+    "digital libraries",
+    "usability study"
+  ],
+  "title": "Automatic Identification of Topic Tags from Texts Based on Expansion-Extraction Approach",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Reed, Gail L",
+  "contributor_committeechair": "McNair, Harold M.",
+  "contributor_committeemember": [
+    "Deck, Paul A.",
+    "Long, Gary L.",
+    "Glanville, James O.",
+    "Taylor, Larry T."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:16:40Z",
+  "date_adate": "1999-10-13",
+  "date_available": "2014-03-14T20:16:40Z",
+  "date_issued": "1999-09-15",
+  "date_rdate": "2000-10-13",
+  "date_sdate": "1999-09-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Experimental data are presented for the first time in support of a theoretical model of band broadening proposed by Blumberg (1997).  This model addresses the effects of the compressibility of the mobile phase in gas chromatography and presents an equation derived from only two mutually independent variables.  Solutions of decane and tridecane in hexane were analyzed at pressures ranging from 15 to 150 psi.  Six different columns were used that varied in length, internal diameter and film thickness.  Theoretical plate heights were obtained from this data and plotted versus the average linear carrier gas velocity (Golay type plots).  These plots showed that at high pressures the Blumberg model fit the experimental data statistically significantly better than the earlier model proposed by Golay.  The Blumberg model also accurately predicts the relationship between the optimum linear carrier gas velocity and the temperature.   \t  The second part of this work explores the scope and limitations of fast temperature programming in the fast GC analyses of various sample types.  These samples included polycyclic aromatic hydrocarbons (PAHs), hydrocarbons and food samples.  Programming rates of up to 1200Â° C/min were used.  These fast programming rates were obtained by using \"flash\"â ¢ temperature programming, controlled by resistive heating of a metal tube that enclosed a capillary column.  The precision of peak data was found to be good, less than 5% for peak areas and 4% for retention times.  However, a slight, but statistically significant decrease in peak areas was seen above programming rates of 240Â° C/min.   \t  Microwave assisted extraction (MAE) was used to extract 2,6-di-(tert-butyl)-4-methylphenol, BHT, from chewing gum and breakfast cereal.  The extraction was followed by a fast GC analysis (less than 4 minutes) using \"flash\"â ¢ temperature programming.  MAE reduced the sample preparation time, from hours to minutes, and consequently reduced, the total analysis time.  Extraction times longer than 5 minutes gave decreased recoveries of BHT.",
+  "description_provenance": [
+    "Author Email: greed@vt.edu",
+    "Advisor Email: hmcnair@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:40Z (GMT). No. of bitstreams: 1 etd.pdf: 3353683 bytes, checksum: be8dc2cbc3300db270f343ef1abe91eb (MD5)   Previous issue date: 1999-09-15"
+  ],
+  "handle": "29085",
+  "identifier_other": "etd-092499-125504",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-092499-125504/",
+  "identifier_uri": "http://hdl.handle.net/10919/29085",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Fast GC",
+    "microwave assisted extraction",
+    "Blumberg equation",
+    "BHT",
+    "food",
+    "Gas Chromatography",
+    "flash temperature programming",
+    "theoretical"
+  ],
+  "title": "Fast GC:  Applications and Theoretical Studies",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Sodano, Henry Angelo",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Belvin, W. Kieth",
+    "Park, Gyuhae",
+    "Robertshaw, Harry H."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:56Z",
+  "date_adate": "2005-05-26",
+  "date_available": "2014-03-14T20:11:56Z",
+  "date_issued": "2005-05-05",
+  "date_rdate": "2005-05-26",
+  "date_sdate": "2005-05-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The optical power of satellites such as the Hubble telescope is directly related to the size of the primary mirror.  However, due to the limited capacity of the shuttle bay, progress towards the development of more powerful satellites using traditional construction methods has come to a standstill.  Therefore, to allow larger satellites to be launched into space significant interest has been shown in the development of ultra large inflatable structures that can be packaged inside the shuttle bay and then deployed once in space.  To facilitate the packaging of the inflated device in its launch configuration, most structures utilize a thin film membrane as the optical or antenna surface.  Once the inflated structure is deployed in space, it is subject to vibrations induced mechanically by guidance systems and space debris as well as thermally induced vibrations from variable amounts of direct sunlight.  For the optimal performance of the satellite, it is crucial that the vibration of the membrane be quickly suppressed.  However, due to the extremely flexible nature of the membrane structure, few actuation methods exist that avoid local deformation and surface aberrations.  One potential method of applying damping to the membrane structure is to use magnetic damping.  Magnetic dampers function through the eddy currents that are generated in a conductive material that experiences a time varying magnetic field.  However, following the generation of these currents, the internal resistance of the conductor causes them to dissipate into heat.  Because a portion of the moving conductorâ  s kinetic energy is used to generate the eddy currents, which are then dissipated, a damping effect occurs.  This damping force can be described as a viscous force due to the dependence on the velocity of the conductor.    While eddy currents form an effective method of applying damping, they have normally been used for magnetic braking applications.  Furthermore, the dampers that have been designed for vibration suppression have typically been ineffective at suppressing structural vibration, incompatible with practical systems, and cumbersome to the structure resulting in significant mass loading and changes to the dynamic response.  To alleviate these issues, three previously unrealized damping mechanisms that function through eddy currents have been developed, modeled and tested.  The dampers do not contact the structure, thus, allowing them to add damping to the system without inducing the mass loading and added stiffness that are typically common with other forms of damping.  The first damping concept is completely passive and functions solely due to the conductorâ  s motion in a static magnetic field.  The second damping system is semi-active and improves the passive damper by allowing the magnetâ  s position to be actively controlled, thus, maximizing the magnetâ  s velocity relative to the beam and enhancing the damping force.  The final system is completely active using an electromagnet, through which the current can be actively modified to induce a time changing magnetic flux on the structure and a damping effect.  The three innovative damping mechanisms that have resulted from this research apply control forces to the structure without contacting it, which cannot be done by any other passive vibration control system.  Furthermore, the non-contact nature of these dampers makes them compatible with the flexible membranes needed to advance the performance of optical satellites.",
+  "description_provenance": [
+    "Author Email: hsodano@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: w.k.belvin@larc.nasa.gov",
+    "Advisor Email: gpark@lanl.gov",
+    "Advisor Email: harobert@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:56Z (GMT). No. of bitstreams: 1 Complete_Disseration.pdf: 7127565 bytes, checksum: db70a18150cb3c40d1d326cbfe7540fb (MD5)   Previous issue date: 2005-05-05"
+  ],
+  "handle": "27677",
+  "identifier_other": "etd-05122005-114434",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05122005-114434/",
+  "identifier_uri": "http://hdl.handle.net/10919/27677",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Complete_Disseration.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "viscous damping",
+    "magnetic damping",
+    "inflatable satellite",
+    "membrane",
+    "electromagnetic damper",
+    "Eddy current damper",
+    "vibration suppression"
+  ],
+  "title": "Development of Novel Eddy Current Dampers for the Suppression of Structural Vibrations",
+  "type": "Dissertation"
+}

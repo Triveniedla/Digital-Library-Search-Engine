@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Liu, Bing",
+  "contributor_committeechair": "Hoeschele, Ina",
+  "contributor_committeemember": [
+    "Maroof, M. A. Saghai",
+    "Birch, Jeffrey B.",
+    "Mendes, Pedro J. P.",
+    "Ye, Keying"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:16:34Z",
+  "date_adate": "2006-11-20",
+  "date_available": "2014-03-14T20:16:34Z",
+  "date_issued": "2006-09-11",
+  "date_rdate": "2009-11-20",
+  "date_sdate": "2006-09-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The goal of this research is to construct causal gene networks for genetical genomics experiments using expression Quantitative Trait Loci (eQTL) mapping and Structural Equation Modeling (SEM). Unlike Bayesian Networks, this approach is able to construct cyclic networks, while cyclic relationships are expected to be common in gene networks. Reconstruction of gene networks provides important knowledge about the molecular basis of complex human diseases and generally about living systems.  <p> In genetical genomics, a segregating population is expression profiled and DNA marker genotyped. An Encompassing Directed Network (EDN) of causal regulatory relationships among genes can be constructed with eQTL mapping and selection of candidate causal regulators. Several eQTL mapping approaches and local structural models were evaluated in their ability to construct an EDN. The edges in an EDN correspond to either direct or indirect causal relationships, and the EDN is likely to contain cycles or feedback loops. We implemented SEM with genetics algorithms to produce sub-models of the EDN containing fewer edges and being well supported by the data. The EDN construction and sparsification methods were tested on a yeast genetical genomics data set, as well as the simulated data. For the simulated networks, the SEM approach has an average detection power of around ninety percent, and an average false discovery rate of around ten percent.",
+  "description_provenance": [
+    "Author Email: bliu@vt.edu",
+    "Advisor Email: smaroof@vt.edu",
+    "Advisor Email: inah@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: pmendes@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:34Z (GMT). No. of bitstreams: 1 etd.pdf: 1512021 bytes, checksum: 9ca7219bf0a3599ecffb5025f95f7b8b (MD5)   Previous issue date: 2006-09-11"
+  ],
+  "handle": "29060",
+  "identifier_other": "etd-09222006-161819",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09222006-161819/",
+  "identifier_uri": "http://hdl.handle.net/10919/29060",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Structural Equation Modeling",
+    "Gene Network",
+    "Genetical Genomics",
+    "Microarray",
+    "Gene Expression"
+  ],
+  "title": "Causal Gene Network Inference from Genetical Genomics Experiments via Structural Equation Modeling",
+  "type": "Dissertation"
+}

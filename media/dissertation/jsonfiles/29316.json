@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Long, Luohui",
+  "contributor_committeechair": "Nikolaidis, Efstratios",
+  "contributor_committeemember": [
+    "Hughes, Owen F.",
+    "Agrawal, C. P.",
+    "Knight, Charles Eugene",
+    "Kapania, Rabesh K.",
+    "Johnson, Eric R."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:17:29Z",
+  "date_adate": "1998-02-11",
+  "date_available": "2014-03-14T20:17:29Z",
+  "date_issued": "1998-09-13",
+  "date_rdate": "1998-02-11",
+  "date_sdate": "1998-10-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A hierarchical approach is typically followed in design of consumer products.  First, a manufacturer sets performance targets for the whole system according to customer surveys and benchmarking of competitors' products.  Then, designers cascade these targets to the subsystems or the components using a very simplified model of the overall system.  Then, they try to design the components so that they meet these targets.  It is important to have efficient tools that check if a set of performance targets for a component corresponds to a feasible design and determine the dimensions and mass of this design.   This dissertation presents a methodology for developing two tools that link performance targets for a design to design variables that specify the geometry of the design.  The first tool (called translator A) predicts the stiffness and mass of an automotive joint, whose geometry is specified, almost instantaneously.  The second tool (called translator B) finds the most efficient, feasible design whose performance characteristics are close to given performance targets.  The development of the two translators involves the following steps.  First, an automotive joint is parameterized.  A set of physical parameters are identified that can completely describe the geometry of the joint.  These parameters should be easily understood by designers.  Then, a parametric model is created using a CAD program, such as Pro/Engineer or I-Deas.  The parametric model can account for different types of construction, and includes relations for styling, packaging, and manufacturing constraints.  A database is created for each joint using the results from finite element analysis of hundreds or thousands of joint designs.  The elements of the database serve as examples for developing Translator A.  Response surface polynomials and neural networks are used to develop translator A.  Stepwise regression is used in this study to rank the design variables in terms of importance and to obtain the best regression model.    Translator B uses optimization to find the most efficient design.  It analyzes a large number of designs efficiently using Translator A.  The modified feasible direction method and sequential linear programming are used in developing translator B.  The objective of translator B is to minimize the mass of the joint and the difference of the stiffness from a given target while satisfying styling, manufacturing and packaging constraints.   The methodologies for Translators A and B are applied to the B-pillar to rocker and A-pillar to roof rail joints. Translator B is demonstrated by redesigning two joints of actual cars.  Translator B is validated by checking the performance and mass of the optimum designs using finite element analysis.  This study also compares neural networks and response surface polynomials.  It shows that they are almost equally accurate when they are used in both analysis and design of joints.",
+  "description_provenance": [
+    "Author Email: llong@aoe.vt.edu",
+    "Advisor Email: nikolai@aoe.vt.edu",
+    "Advisor Email: hughes@aoe.vt.edu",
+    "Advisor Email: cagrawal@ford.com",
+    "Advisor Email: knight@stnick.me.vt.edu",
+    "Advisor Email: kapania@aoe.vt.edu",
+    "Advisor Email: johnson@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:29Z (GMT). No. of bitstreams: 1 Thesis.pdf: 3356391 bytes, checksum: f1c52b8ae9a89747443af48a690ab36d (MD5)   Previous issue date: 1998-09-13"
+  ],
+  "handle": "29316",
+  "identifier_other": "etd-101998-214427",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-101998-214427/",
+  "identifier_uri": "http://hdl.handle.net/10919/29316",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "structures",
+    "regression",
+    "polynomial",
+    "optimization",
+    "neural network",
+    "analysis"
+  ],
+  "title": "Design-Oriented Translators for Automotive Joints",
+  "type": "Dissertation"
+}

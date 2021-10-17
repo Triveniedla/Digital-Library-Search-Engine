@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Zhao, Chengsong",
+  "contributor_committeechair": "Beers, Eric P.",
+  "contributor_department": "Horticulture",
+  "date_accessioned": "2014-03-14T20:12:58Z",
+  "date_adate": "2005-07-15",
+  "date_available": "2014-03-14T20:12:58Z",
+  "date_issued": "2005-06-03",
+  "date_rdate": "2005-07-15",
+  "date_sdate": "2005-06-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Vascular tissues provide both the mechanical support to the plant body and the conducting cells for the transport of water, mineral solutes, hormones and other signaling molecules, amino acids, and sugars.  To identify genes that may regulate vascular tissue-specific functions, we isolated xylem, phloem-cambium, and nonvascular tissues from the Arabidopsis root-hypocotyl, performed a genome-wide comparative analysis of tissue-specific transcripts using the 24K Affymetrix Arabidopsis ATH1 Genome Array (24K GeneChip), and identified potential genes that are required for xylem and phloem differentiation or tissue-specific functions.   Based on this comparative analysis, two phloem-specific G2-like transcription factors, MYR1 and MYR2, and a xylem-specific NAC domain family member, XND1, were selected for further characterization. Under continuous light, myr2 plants flowered early, while myr1 plants did not differ significantly from wild type controls. However, double mutant myr1myr2 plants exhibited a novel phenotype characterized by elongated petioles, semi-erect leaf orientation, and suppression of lateral shoot outgrowth. These characteristics are reminiscent of yucca, a dominant Arabidopsis mutant with elevated levels of free auxin. Preliminary results indicated that like yucca, myr1myr2 plants were more resistant than wt plants to 5-mT, a toxic tryptophan analog, suggesting that MYR1 and MYR2 may be involved in regulating tryptophan-dependent auxin biosynthesis. Overexpression of any one of MYR1 isoforms resulted in a phenotype that in some cases resembled that observed in the double mutant, indicating that the regulation mediated by MYR1 and MYR2 may depend on formation of specific heterodimers consisting of isoforms of MYR1 and/or MYR2, and that the dimerization was susceptible to disruption both by overexpression and loss-of-function of MYR1/MYR2.    Overexpression of XND1 resulted in the absence of TEs as determined from the absence of both secondary cell wall deposition and TE death. Using 3 tissue-specific promoter-GUS lines as genetic backgrounds, we demonstrated that overexpression of XND1 suppressed only TE-specific GUS expression but not phloem-specific GUS expression. Three T-DNA/transposon insertion lines, xnd1-1, -2, and -3, were identified. Under normal conditions, xnd1 did not exhibit significantly different growth and development compared to wild type plants. However, preliminary data indicated that xnd1 plants were ABA and cold hypersensitive. Yeast-two hybrid screening using the N-terminal portion of XND1 as bait identified a novel RING finger protein, At3g62970 that may function as the ubiquitin ligase (E3). These results suggested that XND1 functions as a negative regulator of xylem cell differentiation, and that the regulation mediated by XND1 may be integrated with the ubiquitin/26S proteasome pathway.",
+  "description_provenance": [
+    "Author Email: cszhao@vt.edu",
+    "Advisor Email: ebeers@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:58Z (GMT). No. of bitstreams: 3 part3.pdf: 1690238 bytes, checksum: b13fbeae6fb555a2d81e228943758aa4 (MD5) part2.pdf: 1064545 bytes, checksum: eb7a9bd498369ea0011f15002f71e830 (MD5) part1.pdf: 89046 bytes, checksum: 1a0468cfa714d11645987e468edaf6ed (MD5)   Previous issue date: 2005-06-03"
+  ],
+  "handle": "28024",
+  "identifier_other": "etd-06122005-230659",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06122005-230659/",
+  "identifier_uri": "http://hdl.handle.net/10919/28024",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "part3.pdf",
+    "part2.pdf",
+    "part1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Arabidopsis",
+    "xylem",
+    "phloem",
+    "MYR1",
+    "XND1",
+    "GeneChip"
+  ],
+  "title": "Identifying and characterizing genes that regulate vascular tissue-specific functions",
+  "type": "Dissertation"
+}

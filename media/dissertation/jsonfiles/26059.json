@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhou, Guoqing",
+  "contributor_committeechair": "Wang, Linbing",
+  "contributor_committeemember": [
+    "Flintsch, Gerardo W.",
+    "Hobeika, Antoine G.",
+    "Abbas, Montasir M.",
+    "Trani, Antonio A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:06:58Z",
+  "date_adate": "2011-03-02",
+  "date_available": "2014-03-14T20:06:58Z",
+  "date_issued": "2011-01-17",
+  "date_rdate": "2012-04-06",
+  "date_sdate": "2011-01-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A pavement management system (PMS) is a valuable tool and one of the critical elements of the highway transportation infrastructure. Since a vast amount of pavement data is frequently and continuously being collected, updated, and exchanged due to rapidly deteriorating road conditions, increased traffic loads, and shrinking funds, resulting in the rapid accumulation of a large pavement database, knowledge-based expert systems (KBESs) have therefore been developed to solve various transportation problems. This dissertation presents the development of theory and algorithm for a new decision tree induction method, called co-location-based decision tree (CL-DT.) This method will enhance the decision-making abilities of pavement maintenance personnel and their rehabilitation strategies. This idea stems from shortcomings in traditional decision tree induction algorithms, when applied in the pavement treatment strategies. The proposed algorithm utilizes the co-location (co-occurrence) characteristics of spatial attribute data in the pavement database. With the proposed algorithm, one distinct event occurrence can associate with two or multiple attribute values that occur simultaneously in spatial and temporal domains.  This research dissertation describes the details of the proposed CL-DT algorithms and steps of realizing the proposed algorithm. First, the dissertation research describes the detailed colocation mining algorithm, including spatial attribute data selection in pavement databases, the determination of candidate co-locations, the determination of table instances of candidate colocations, pruning the non-prevalent co-locations, and induction of co-location rules. In this step, a hybrid constraint, i.e., spatial geometric distance constraint condition and a distinct event-type constraint condition, is developed. The spatial geometric distance constraint condition is a neighborhood relationship-based spatial joins of table instances for many prevalent co-locations with one prevalent co-location; and the distance event-type constraint condition is a Euclidean distance between a set of attributes and its corresponding clusters center of attributes. The dissertation research also developed the spatial feature pruning method using the multi-resolution pruning criterion. The cross-correlation criterion of spatial features is used to remove the nonprevalent co-locations from the candidate prevalent co-location set under a given threshold. The dissertation research focused on the development of the co-location decision tree (CL-DT) algorithm, which includes the non-spatial attribute data selection in the pavement management database, co-location algorithm modeling, node merging criteria, and co-location decision tree induction. In this step, co-location mining rules are used to guide the decision tree generation and induce decision rules. For each step, this dissertation gives detailed flowcharts, such as flowchart of co-location decision tree induction, co-location/co-occurrence decision tree algorithm, algorithm of colocation/co-occurrence decision tree (CL-DT), and outline of steps of SFS (Sequential Feature Selection) algorithm. Finally, this research used a pavement database covering four counties, which are provided by NCDOT (North Carolina Department of Transportation), to verify and test the proposed method. The comparison analyses of different rehabilitation treatments proposed by NCDOT, by the traditional DT induction algorithm and by the proposed new method are conducted. Findings and conclusions include: (1) traditional DT technology can make a consistent decision for road maintenance and rehabilitation strategy under the same road conditions, i.e., less interference from human factors; (2) the traditional DT technology can increase the speed of decision-making because the technology automatically generates a decision-tree and rules if the expert knowledge is given, which saves time and expenses for PMS; (3) integration of the DT and GIS can provide the PMS with the capabilities of graphically displaying treatment decisions, visualizing the attribute and non-attribute data, and linking data and information to the geographical coordinates. However, the traditional DT induction methods are not as quite intelligent as oneâ  s expectations. Thus, post-processing and refinement is necessary. Moreover, traditional DT induction methods for pavement M&R strategies only used the non-spatial attribute data. It has been demonstrated from this dissertation research that the spatial data is very useful for the improvement of decision-making processes for pavement treatment strategies. In addition, the decision trees are based on the knowledge acquired from pavement management engineers for strategy selection. Thus, different decision-trees can be built if the requirement changes.",
+  "description_provenance": [
+    "Author Email: gzhou@odu.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: abbas@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: lwang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:58Z (GMT). No. of bitstreams: 1 DisserZhou.pdf: 5136361 bytes, checksum: 0b519000452018656321b005b577eef0 (MD5)   Previous issue date: 2011-01-17"
+  ],
+  "handle": "26059",
+  "identifier_other": "etd-01282011-162408",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01282011-162408/",
+  "identifier_uri": "http://hdl.handle.net/10919/26059",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DisserZhou.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Maintenance and Rehabilitation",
+    "Decision Tree",
+    "Spatial Data Mining",
+    "Co-Location",
+    "Pavement Management",
+    "GIS"
+  ],
+  "title": "Co-Location Decision Tree for Enhancing Decision-Making of Pavement Maintenance and Rehabilitation",
+  "type": "Dissertation"
+}

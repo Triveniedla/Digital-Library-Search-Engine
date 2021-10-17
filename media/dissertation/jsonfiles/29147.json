@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Brown, John",
+  "contributor_committeechair": "Oderwald, Richard G.",
+  "contributor_committeemember": [
+    "Wiedenbeck, Janice K.",
+    "Prisley, Stephen P.",
+    "Radtke, Philip J.",
+    "Smith, Robert L."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:16:56Z",
+  "date_adate": "2009-11-10",
+  "date_available": "2014-03-14T20:16:56Z",
+  "date_issued": "2009-09-16",
+  "date_rdate": "2012-05-08",
+  "date_sdate": "2009-09-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Data from the 2001 and 2003 timber product output (TPO) studies for Georgia were explored to determine new methods for handling missing data and finding suitable sampling estimators. <p> Mean roundwood volume receipts per mill for the year 2003 were calculated using the methods developed by Rubin (1987).  Mean receipts per mill ranged from 4.4 to 14.2 million ft3.  The mean value of 9.3 million ft3 did not statistically differ from the NONMISS, SINGLE1, and SINGLE2 references means (p=.68, .75, and .76 respectively). <p> Fourteen estimators were investigated to investigate sampling approaches, with estimators being of several means types (simple random sample, ratio, stratified sample, and combined ratio) as well as employing two methods for stratification (Dalenius-Hodges (DH) square root of the Frequency method and a cluster analysis method. Relative efficiency (RE) improved when the number of groups increased and when employing a ratio estimator, particularly a combined ratio.  Neither the DH method nor the cluster analysis method performed better than the other.  <p> Six bound sizes (1, 5, 10, 15, 20, and 25 percent) were considered for deriving samples sizes for the total volume of roundwood.  The minimum achievable bound size was found to be 10 percent of the total receipts volume for the DH-method using a two group stratification.  This was true for both the stratified and combined ratio estimators.  In addition, for the stratified and combined ratio estimators, only the DH method stratifications were able to reach a 10 percent bound on the total (6 of the 12 stratified estimators).  The remaining six stratified estimators were able to achieve a 20 percent bound of the total. <p> Finally, nonlinear repeated measures models were developed to spatially allocate mill receipts to surrounding counties in the event of obtaining only a millâ  s total receipt volume.  A Gompertz model with a power spatial covariance was found to be the best performing when using road distances from the mills to either county center type (geographic or forest mass).  These models utilized the cumulative frequency of mill receipts as the response variable, with cumulative frequencies based on distance from the mill to the county.",
+  "description_provenance": [
+    "Author Email: jpbrown@fs.fed.us",
+    "Advisor Email: jwiedenbeck@fs.fed.us",
+    "Advisor Email: oderwald@vt.edu",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: pradtke@vt.edu",
+    "Advisor Email: rsmith4@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:56Z (GMT). No. of bitstreams: 1 Brown_JP_D_2009.pdf: 1712583 bytes, checksum: 5b58d4c1ff9d71d94f499a384e1d1614 (MD5)   Previous issue date: 2009-09-16"
+  ],
+  "handle": "29147",
+  "identifier_other": "etd-09302009-221608",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09302009-221608/",
+  "identifier_uri": "http://hdl.handle.net/10919/29147",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Brown_JP_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "nonlinear repeated measures",
+    "spatial allocation",
+    "relative efficiency",
+    "multiple imputation",
+    "timber product output data"
+  ],
+  "title": "Spatial Allocation, Imputation, and Sampling Methods for Timber Product Output Data",
+  "type": "Dissertation"
+}

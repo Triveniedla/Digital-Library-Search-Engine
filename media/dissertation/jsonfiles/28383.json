@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Arabasi, Sameer",
+  "contributor_committeechair": "Indebetouw, Guy J.",
+  "contributor_committeecochair": "Safaai-Jazi, Ahmad",
+  "contributor_committeemember": [
+    "Heflin, James R.",
+    "Pitt, Mark L."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:14:16Z",
+  "date_adate": "2008-08-11",
+  "date_available": "2014-03-14T20:14:16Z",
+  "date_issued": "2008-07-15",
+  "date_rdate": "2009-08-11",
+  "date_sdate": "2008-07-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There is continued interest in nonlinear devices for different types of optical signal processing, such as Raman or parametric amplifiers. The small nonlinearity of conventional single-mode fibers sets a major limitation for these devices. A large nonlinearity can be achieved by having a large nonlinear coefficient, a small effective area, or both. Having a small effective area, however, requires efficient coupling to very small core fibers.  A novel technique for splicing conventional single-mode fibers to small core fibers is proposed and demonstrated. The coupling efficiency obtained by this technique is considerably improved over that obtained by the butt-joint splice. This technique uses a highly tapered splice in which the field leaves the core and propagates as a fundamental cladding mode before it couples back to the core mode of the small core fiber. At the beginning of the taper the fundamental core mode carries most of the power. Over the down-taper region, the core mode couples to the fundamental cladding mode for which the cladding-air interface plays a major role in guiding the light. Over the up-taper region, the cladding mode is coupled back to the core mode. Fabrication of such a device involves many constraints. Alignment of the cores, the slope of the taper, and the taper length are important issues to ensure that excessive radiation loss does not take place.  The theory of tapered single-mode fiber is discussed including adiabaticity criteria, length considerations, mode coupling and wavelength dependence. We use a computational simulation to examine how the field changes from one part of the taper to the other. Variations of the fiber and the field properties along the taper are studied. In this simulation, the tapered region is approximated as a sufficiently large number of cascaded uniform fiber segments of decreasing or increasing diameters. Another analysis based on the conservation of power flow is also provided.  Tapered splices were fabricated using two different experimental setups. The experimental setup to verify our theoretical results is shown. The tapering process is thoroughly discussed. The spectrum of a tunable laser passing through a splice shows how modes interact with each other during the tapering process. We successfully fabricated very low loss tapers with extremely small diameters. Tapered splices showed a lower loss than their butt-joint counterparts. Experimental measurements of these tapered splices are presented and discussed.",
+  "description_provenance": [
+    "Author Email: sarabasi@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: pitt@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:16Z (GMT). No. of bitstreams: 1 Dissertation_Arabasi.pdf: 2431975 bytes, checksum: 343fda3dc3f79c3ac6d4b0da856ef71a (MD5)   Previous issue date: 2008-07-15"
+  ],
+  "handle": "28383",
+  "identifier_other": "etd-07242008-112947",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07242008-112947/",
+  "identifier_uri": "http://hdl.handle.net/10919/28383",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Arabasi.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Optical waveguides",
+    "Tapered single-mode fibers",
+    "Tapered splices",
+    "Tapered couplers"
+  ],
+  "title": "Tapered Splice for Efficient Power Coupling to Small-Core Nonlinear Fibers",
+  "type": "Dissertation"
+}

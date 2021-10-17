@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Emam, Samir A",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Ragab, Saad A.",
+    "Johnson, Eric R.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:06:39Z",
+  "date_adate": "2003-01-09",
+  "date_available": "2014-03-14T20:06:39Z",
+  "date_issued": "2002-12-12",
+  "date_rdate": "2004-01-09",
+  "date_sdate": "2003-01-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We investigate theoretically and experimentally the nonlinear responses  of  a clamped-clamped buckled beam to a variety of external harmonic excitations and internal resonances. We assume that the beam geometry is  uniform and its material is homogeneous.  We initially buckle the beam by an axial force beyond the critical load of the first buckling mode, and then we apply a transverse harmonic excitation that is uniform over its span.  The beam is modeled according to the Euler-Bernoulli beam theory and small strains and moderate rotation approximations are assumed. We derive the equation of motion governing the nonlinear transverse planar vibrations and associated boundary conditions  using the extended Hamilton's principle. The governing equation is a nonlinear integral-partial-differential equation in space and time that possesses quadratic and cubic nonlinearities. A closed-form solution for such equations is not available and hence we seek approximate solutions.   We use perturbation methods to investigate the slow dynamics in the neighborhood of an equilibrium configuration. A Galerkin approximation is used to discretize the nonlinear partial-differential equation governing the beam's response  and obtain a set of nonlinearly coupled ordinary-differential equations governing the time evolution of the response.  We based our theory on a multi-mode Galerkin discretization. To investigate the large-amplitude dynamics, we use a shooting method to numerically integrate the discretized equations and obtain periodic orbits. The stability and bifurcations of these periodic orbits are investigated using Floquet theory.   We solve the nonlinear buckling problem  to determine the  buckled configurations as a function of the applied axial load. We compare the static buckled configurations obtained from the discretized equations with the exact ones. We find out that the number of modes retained in the discretization has a significant effect on these static configurations.   We consider three cases: primary resonance, subharmonic resonance of order one-half of the first vibration mode, and one-to-one internal resonance between the first and second modes. We obtain  interesting dynamics, such as  phase-locked  and quasiperiodic motions, resulting from a Hopf bifurcation,  snapthrough motions, and a sequence of period-doubling bifurcations leading to chaos.    To validate our theoretical results, we ran an experiment, which is a modified version of the experiment designed by Kreider and Nayfeh. We find that the obtained theoretical  results are in good qualitative agreement with the  experimental results. In the case of one-to-one internal resonance, we report, theoretically and experimentally, energy transfer between the first mode, which is externally excited, and the second mode.",
+  "description_provenance": [
+    "Author Email: semam@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: dinam@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:39Z (GMT). No. of bitstreams: 1 final.pdf: 1202004 bytes, checksum: f3a08761383be84c918bbcd9bed11dda (MD5)   Previous issue date: 2002-12-12"
+  ],
+  "handle": "25970",
+  "identifier_other": "etd-01092003-111357",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01092003-111357/",
+  "identifier_uri": "http://hdl.handle.net/10919/25970",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Structural dynamics",
+    "primary resonance",
+    "Galerkin discretization",
+    "and experiment.",
+    "internal resonance",
+    "subharmonic resonance",
+    "buckled beams",
+    "nonlinear dynamics"
+  ],
+  "title": "A Theoretical and Experimental Study of Nonlinear Dynamics of Buckled Beams",
+  "type": "Dissertation"
+}

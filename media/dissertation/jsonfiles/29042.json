@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Lee, June  Key",
+  "contributor_committeechair": "Desu, Seshu B.",
+  "contributor_committeecochair": "Reynolds, William T. Jr.",
+  "contributor_committeemember": [
+    "Claus, Richard O.",
+    "Joshi, Pooran C.",
+    "Yoo, In Kyeong"
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:16:30Z",
+  "date_adate": "1999-09-22",
+  "date_available": "2014-03-14T20:16:30Z",
+  "date_issued": "1999-09-10",
+  "date_rdate": "2000-09-22",
+  "date_sdate": "1999-09-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Three types of major process-induced damage which hampers the realization of FRAM (ferroelectric random access memory) device are investigated; dry etching induced damage, hydrogen-induced degradation, and stress effect.  Since ferroelectric capacitors utilize the movement of body-centered atoms in perovskite structure, Ti or Zr in the case of Pb(Zr/x Ti/1-x)O3 (PZT), the movement can be suppressed or inhibited by many factors such as space charges, defects, chemical reactions, and stress of stacked layers. Unlike conventional silicon processes, the integration of ferroelectric capacitor module requires high density plasma to pattern their shapes because of a low volatility of etched byproducts, therefore the degradation of ferroelectric capacitor performance could occur by the collision of high energetic particles.  The damage of PZT thin film due to dry etching process was characterized in terms of the microstructure and electrical properties.  The damaged layer seems to be amorphous and the thickness is about 10 nm.  The existence of such a layer in Pt/ PZT/Pt ferroelectric capacitor tends to increase the coercive voltage and the leakage current.  The damaged layer was not fully reverted to perovskite phase by the thermal annealing, even at PZT formation temperature.  For the elimination of this damaged layer, a novel wet cleaning solution was designed.  Scanning electron microscopy (SEM) pictures clearly show that treatment with the cleaning solution completely removed the etching damaged layer.  With the cleaning solution, a sidewall cleaning process and a surface cleaning process were proposed to eliminate non-ferroelectric phases such as pyrochlore, PbO, and etching damaged layer.  After removing the non-ferroelectric phases, ferroelectric properties such as remnant polarization, coercive voltage, and leakage current were remarkably improved.  In addition, the wet cleaned ferroelectric capacitors yielded superior endurance against hydrogen-induced damage compared to those of the non-cleaned capacitors.  Several parameters such as Zr/Ti compositional ratios, excess amounts of Pb, the domain poling state, and electrode structures (Pt/PZT/Pt and Ir/IrO2/PZT/Pt/IrO2) were investigated in terms of hydrogen-induce degradation.  It was found that the hydrogen-induce degradation is enhanced when PZT films have high compositions of Ti and Pb, and can be suppressed by domain poling prior to the hydrogen anneal.  From the SIMS analysis and hysteresis loop shifts, it can be concluded that the hydrogen damage occurs mainly at the PZT/electrode interface and results in the development of negative charge buildup.  To reduce the hydrogen-induced damage, an electron cyclotron resonance (ECR) oxygen plasma treatment of the Pt/PZT/Pt capacitor was attempted.  It was found that oxygen plasma treatment modifies the surface of Pt electrodes.  Surface modification alleviates catalytic activity of Pt electrodes, thereby significantly improving ferroelectric properties such as remnant polarization and leakage current.  It seems that highly reactive oxygen radicals in ECR plasma play an important role in suppressing the catalytic activity of Pt electrodes. The cause of the blister formation on the PECVD (plasma enhanced chemical vapor deposition) SiO2/Pt/PZT/Pt capacitor was studied by means of annealing in various ambient.  The blisters were observed at a temperature of 325Â°C in an O2 atmosphere, while in a N2 and an Ar atmosphere blisters were not produced even at 500Â°C.  Hydrogen evolution analysis from PECVD SiO2 layer showed a sharp peak near 320Â°C.  The results indicate that the accumulation of water vapor pressure, developed via a chemical reaction between oxygen and hydrogen could be the dominant factor for blister formation in PECVD SiO2/Pt/PZT/Pt capacitors. The effect of stress was investigated with two different interlayer dielectric (ILD) materials, ECR CVD Oxide and PECVD TEOS Oxide (PE-TEOS).  Since the stress of PZT capacitor strongly depends on the ILD deposition temperature, the PZT capacitor with PE-TEOS showed more compressive stress than that with ECR oxide, which results in severe remnant polarization (Pr) degradation of PZT capacitor with PE-TEOS.  This large stress effect of PE-TEOS was confirmed by measuring d-spacing values of (111) PZT films with XRD technique.  These results suggest that the low ILD deposition temperature is a key parameter for achieving an ILD integration with a minimal Pr degradation.",
+  "description_provenance": [
+    "Author Email: julee4@vt.edu",
+    "Advisor Email: roclaus@vt.edu",
+    "Advisor Email: joshipc@aol.com",
+    "Advisor Email: inyoo@vt.edu",
+    "Advisor Email: reynolds@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:30Z (GMT). No. of bitstreams: 9 Tit_Abs.PDF: 10107 bytes, checksum: 6fcb453d8a19754605e9911320f1f9fa (MD5) TCONTENTS.PDF: 63753 bytes, checksum: 1340d42974f151be7ef89d517a047f81 (MD5) chapter7.PDF: 136333 bytes, checksum: d04262610a307469ff38ae7bc65af2a9 (MD5) chapter1.PDF: 561691 bytes, checksum: 4d16ad1c80152b6ab6ee936f4f6d6710 (MD5) chapter6.PDF: 317966 bytes, checksum: 8852a01eef506ad7e540046fcbd924a1 (MD5) chapter5.PDF: 146702 bytes, checksum: 7633d84e3b991cdc42565ca073276578 (MD5) chapter2.PDF: 223602 bytes, checksum: a4959d72ad6209228fac264b46643b21 (MD5) chapter4.PDF: 533645 bytes, checksum: 727fac65192aa4837bf51cf5b465f260 (MD5) chapter3.PDF: 416223 bytes, checksum: 622fad80d57dab27ca6ea14bce2827e8 (MD5)   Previous issue date: 1999-09-10"
+  ],
+  "handle": "29042",
+  "identifier_other": "etd-092099-110827",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-092099-110827/",
+  "identifier_uri": "http://hdl.handle.net/10919/29042",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Tit_Abs.PDF",
+    "TCONTENTS.PDF",
+    "chapter7.PDF",
+    "chapter1.PDF",
+    "chapter6.PDF",
+    "chapter5.PDF",
+    "chapter2.PDF",
+    "chapter4.PDF",
+    "chapter3.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "FRAM",
+    "Thin film",
+    "PZT"
+  ],
+  "title": "Process-Induced Degradation during the Integration of Pb(Zr/x Ti/1-x)O3 Ferroelectric Capacitors",
+  "type": "Dissertation"
+}

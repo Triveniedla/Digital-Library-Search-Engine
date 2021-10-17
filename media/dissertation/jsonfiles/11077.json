@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Cuadros, Carlos Eduardo",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeemember": [
+    "Centeno, Virgilio A.",
+    "Lindner, Douglas K.",
+    "Burdisso, Ricardo A.",
+    "van Wyk, Jacobus Daniel",
+    "Baumann, William T."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:52:42Z",
+  "date_adate": "2003-12-12",
+  "date_available": "2011-08-22T18:52:42Z",
+  "date_issued": "2003-08-08",
+  "date_rdate": "2003-12-12",
+  "date_sdate": "2003-12-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A systematic and versatile method to derive accurate and efficient Circuit Oriented Large Signal Average Models (COLSAMs) that approximate the slow dynamics manifold of the moving average values of the relevant state variables for Pulse-Width Modulated (PWM) dc to dc and three-phase to dc power converters is developed. These COLSAMs can cover continuous conduction mode (CCM) as well as discontinuous conduction mode (DCM) of operation and they are over one order of magnitude cheaper, computation wise, than the switching models. This method leads primarily to simple and effective input-output oriented models that represent transfer as well as loading characteristics of the converter. Sine these models consist of time invariant continuous functions they can be linearized at an operating point in order to obtain small-signal transfer functions that approximate the dynamics of the original PWM system around an orbit.  The models are primarily intended for software circuit simulators (i.e. Spice derived types, Saber, Simplorer, etc), to take advantage of intrinsic features such as transient response, linearization, transfer function, harmonic distortion calculations, without having to change simulation environment. Nevertheless, any mathematics simulator for ordinary differential equations can be used with the set of equations obtained through application of Kirchoff's laws to the COLSAMs. Furthermore, the COLSAMs provide physical insight to help with power stage and control design, and they allow easy interconnection among themselves, as well as with switching models, for complete analysis at different scales (time, signal level, complexity; interconnectivity). A new average model for the Zero-Voltage Switched Full-Bridge (ZVS-FB) PWM Converter is developed with the above method and its high accuracy is verified with simulations from a switching behavioral model for several circuit component values for both CCM and DCM. Intrinsic positive damping effects and special delay characteristics created by an energy holding element in a saturable reactor-based Zero-Voltage Zero-Current Switched Full-Bridge (ZVZCS-FB) PWM converter are explained for the first time by a new average model. Its large signal predictions match very well those from switch model simulations whereas its small-signal predictions are verified with experimental results from 3.5 kW prototype modules. The latter are used in a multi-module converter to supply the DC power bus in and aircraft. The design of control loops for the converter is based on the new model and its linearization. The ZVZCS-FB PWM converter's average model above is extended to deal with interconnection issues and constraints in a Quasi-Single Stage (QSS) Zero-Voltage Zero-Current Switched (ZVZCS) Three-Phase Buck Rectifier. The new model reveals strong nonlinear transfer characteristics for standard Space Vector Modulation (SVM), which lead to high input current distortion and output voltage ripple inadmissible in telecommunications applications. Physical insight provided by this average model led to the development of a combined modified SVM and feed-forward duty-cycle compensation scheme to reliably minimize the output voltage ripple. Experimental results from a 6 kW prototype validate large signal model for standard and modified SVM, with and without duty-cycle compensation scheme.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:52:42Z (GMT). No. of bitstreams: 1  Dissert_Doc.pdf: 8359984 bytes, checksum: 8ce4c609166630104dd7d336ef83bea7 (MD5)    Previous issue date: 2003-08-08",
+    "Author Email: ccuadros@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: dusan@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: baumann@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11077",
+  "identifier_other": "etd-12072003-131135",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12072003-131135",
+  "identifier_uri": "http://hdl.handle.net/10919/11077",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissert_Doc.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "soft-switched three-phase buck rectifier",
+    "PWM converters",
+    "average modeling",
+    "ZVS and ZVZCS full-bridge converters",
+    "space vector modulation",
+    "slow dynamics manifold"
+  ],
+  "title": "On the Circuit Oriented Average Large Signal Modeling of Power Converters and its Applications",
+  "type": "Dissertation"
+}

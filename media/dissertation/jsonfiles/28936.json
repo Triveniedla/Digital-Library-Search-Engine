@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Darken, Patrick Fitzgerald",
+  "contributor_committeecochair": [
+    "Smith, Eric P.",
+    "Holtzman, Golde I."
+  ],
+  "contributor_committeemember": [
+    "Coakley, Clint W.",
+    "Foutz, Robert",
+    "Terrell, George R."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:16:07Z",
+  "date_adate": "2000-03-31",
+  "date_available": "2014-03-14T20:16:07Z",
+  "date_issued": "1999-09-03",
+  "date_rdate": "2001-03-31",
+  "date_sdate": "1999-09-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Time Series of water quality variables typically possess many of several characteristics which complicate analysis.  Of interest to researchers is often the trend over time of the water quality variable.  However, sometimes water quality variable levels appear to increase or decrease monotonically for a period of time then switch direction after some intervention affects the factors which have a causal relationship with the level of the variable.  Naturally, when analyzed for trend as a whole, these time series usually do not provide significant results.  The problem of testing for a change in trend is addressed, and a method for perfoming this test based on a test of equivalence of two modified Kendall's Tau nonparametric correlation coefficients (neither necessarily equal to zero) is presented.  The test is made valid for use with serially correlated data by use of a new bootstrap method titled the effective sample size bootstrap.  Further issues involved in applying this test to water quality variables are also addressed.",
+  "description_provenance": [
+    "Author Email: Patrick.Darken@altanapharma-us.com",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: Holtzman@vt.edu",
+    "Advisor Email: Coakley@vt.edu",
+    "Advisor Email: Terrell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:07Z (GMT). No. of bitstreams: 1 PatDarken1.pdf: 1295019 bytes, checksum: 438b052ec9fc3e4ef83d60152f2b3526 (MD5)   Previous issue date: 1999-09-03"
+  ],
+  "handle": "28936",
+  "identifier_other": "etd-091099-132201",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-091099-132201/",
+  "identifier_uri": "http://hdl.handle.net/10919/28936",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PatDarken1.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": "serial correlation",
+  "title": "Testing for Changes in Trend in Water Quality Data",
+  "type": "Dissertation"
+}

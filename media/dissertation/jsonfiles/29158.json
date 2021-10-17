@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Kothera, Curt S.",
+  "contributor_committeechair": "Leo, Donald",
+  "contributor_committeemember": [
+    "Lacy, Seth",
+    "Woolsey, Craig A.",
+    "Robertshaw, Harry H.",
+    "Saunders, William R.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:58Z",
+  "date_adate": "2005-10-11",
+  "date_available": "2014-03-14T20:16:58Z",
+  "date_issued": "2005-09-27",
+  "date_rdate": "2005-10-11",
+  "date_sdate": "2005-10-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ionic polymer transducers are a class of electroactive polymer materials that exhibit coupling between the electrical, chemical, and mechanical domains.  With the ability for use as both sensors and actuators, these compliant, light weight, low voltage materials have the potential to benefit diverse application areas.  Since the transduction properties of these materials were recently discovered, full understanding of their dynamic characteristics has not yet been achieved.    This research has the goal of better understanding the actuation response of ionic polymers.  A specific emphasis has been placed on investigating the observed nonlinear behavior because the existing proposed models do not account for these characteristics.  Employing the Volterra representation, harmonic ratio analysis, and multisine excitations, characterization results for cantilever samples showed that the nonlinearity is dynamic and input-dependent, dominant at low frequencies, and that its influence varies depending on the solvent.  It was determined that lower viscosity solvents trigger the nonlinear mechanisms at higher frequencies.  Additionally, the primary components of the harmonic distortion appear to result from quadratic and cubic nonlinearities.    Using knowledge gained from the characterization study, the utility of different candidate system structures was explored to model these nonlinear response characteristics.  The ideal structure for modeling the current-controlled voltage and tip velocity was shown to consist of an underlying linear system with a dynamic input nonlinearity.  The input nonlinearity is composed of a parallel connection of linear and nonlinear terms, where each nonlinear element has the form of a Hammerstein system.  This system structure was validated against data from measured time and frequency responses.  As a potential application, and consequently further validation of the chosen model structure, a square-plate polymer actuator was considered.  In this study, the plate was clamped at the four corners where a uniform input was applied, measuring the center-point displacement.  Characterization and modeling were performed on this system, with results similar to the cantilever sample.  Applying output feedback control, in the form of proportional-integral compensation, showed that accurate tracking performance could be achieved in the presence of nonlinear distortions.  Special attention was extended here to the potential application in deformable mirror systems.",
+  "description_provenance": [
+    "Author Email: ckothera@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: seth.lacy@kirtland.af.mil",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:58Z (GMT). No. of bitstreams: 1 Kothera_PhD2005_ETD.pdf: 2323544 bytes, checksum: a845b19b08ee2c5692095514389a49ce (MD5)   Previous issue date: 2005-09-27"
+  ],
+  "handle": "29158",
+  "identifier_other": "etd-10012005-134729",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10012005-134729/",
+  "identifier_uri": "http://hdl.handle.net/10919/29158",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kothera_PhD2005_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ionic polymer transducer",
+    "nonlinear",
+    "characterization",
+    "modeling",
+    "control",
+    "IPMC"
+  ],
+  "title": "Characterization, Modeling, and Control of the Nonlinear Actuation Response of Ionic Polymer Transducers",
+  "type": "Dissertation"
+}

@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Chen, Zheng",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeemember": [
+    "Ngo, Khai D",
+    "Mattavelli, Paolo",
+    "Lu, Guo Quan",
+    "Brown, Gary S"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-10-25T08:00:19Z",
+  "date_available": "2013-10-25T08:00:19Z",
+  "date_issued": "2013-10-24",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The trend of electrification in transportation applications has led to the fast development of high-power-density power electronics converters. High-switching-frequency and high-temperature operations are the two key factors towards this target. Both requirements, however, are challenging the fundamental limit of silicon (Si) based devices. The emerging wide-bandgap, silicon carbide (SiC) power devices have become the promising solution to meet these requirements. With these advanced devices, the technology barrier has now moved to the compatible integration technology that can make the best of device capabilities in high-power-density converters. Many challenges are present, and some of the most important issues are explored in this dissertation.  First of all, the high-temperature performances of the commercial SiC MOSFET are evaluated extensively up to 200 degree C. The static and switching characterizations show that the device has superior electrical performances under elevated temperatures. Meanwhile, the gate oxide stability of the device - a known issue to SiC MOSFETs in general - is also evaluated through both high-temperature gate biasing and gate switching tests. Device degradations are observed from these tests, and a design trade-off between the performance and reliability of the SiC MOSFET is concluded.  To understand the interactions between devices and circuit parasitics, an experimental parametric study is performed to investigate the influences of stray inductances on the MOSFETs switching waveforms. A small-signal model is then developed to explain the parasitic ringing in the frequency domain. From this angle, the ringing mechanism can be understood more easily and deeply. With the use of this model, the effects of DC decoupling capacitors in suppressing the ringing can be further explained in a more straightforward way than the traditional time-domain analysis. A rule of thumb regarding the capacitance selection is also derived.  A Power Electronics Building Block (PEBB) module is then developed with discrete SiC MOSFETs. Integrating the power stage together with the peripheral functions such as gate drive and protection, the PEBB concept allows the converter to be built quickly and reliably by simply connecting several PEBB modules. The high-speed gate drive and power stage layout designs are presented to enable fast and safe switching of the SiC MOSFET. Based on the PEBB platform, the state-of-the-art Si and SiC power MOSFETs are also compared in the device characteristics, temperature influences, and loss distributions in a high-frequency converter, so that special design considerations can be concluded for the SiC MOSFET.  Towards high-temperature, high-frequency and high-power operations, integrated wire-bond phase-leg modules are also developed with SiC MOSFET bare dice. High-temperature packaging materials are carefully selected based on an extensive literature survey. The design considerations of improved substrate layout, laminated bus bars, and embedded decoupling capacitors are all discussed in detail, and are verified through a modeling and simulation approach in the design stage. The 200 degree C, 100 kHz continuous operation is demonstrated on the fabricated module. Through the comparison with a commercial SiC phase-leg module designed in the traditional way, it is also shown that the design considerations proposed in this work allow the SiC devices in the wire-bond structure to be switched twice as fast with only one-third of the parasitic ringing.  To further push the performance of SiC power modules, a novel hybrid packaging technology is developed which combines the small parasitics and footprint of a planar module with the easy fabrication of a wire-bond module. The original concept is demonstrated on a high-temperature rectifier module with SiC JFET. A modified structure is then proposed to further improve design flexibility and simplify module fabrication. The SiC MOSFET phase-leg module built in this structure successfully reaches the switching speed limit of the device almost without any parasitic ringing.  Finally, a new switching loop snubber circuit is proposed to damp the parasitic ringing through magnetic coupling without affecting either conduction or switching losses of the device. The concept is analyzed theoretically and verified experimentally. The initial integration of such a circuit into the power module is presented, and possible improvements are proposed.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-25T08:00:19Z (GMT). No. of bitstreams: 1 Chen_Z_D_2013.pdf: 8597649 bytes, checksum: 5b0c153e6dce78698581efd61f606b57 (MD5)   Previous issue date: 2013-10-24",
+  "format_medium": "ETD",
+  "handle": "23923",
+  "identifier_other": "vt_gsexam:1646",
+  "identifier_uri": "http://hdl.handle.net/10919/23923",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "High power density",
+    "high temperature",
+    "high frequency",
+    "silicon carbide",
+    "device characterization",
+    "gate oxide stability",
+    "stray inductance",
+    "wire-bond packaging",
+    "hybrid packaging",
+    "switching loop snubber"
+  ],
+  "title": "Electrical Integration of SiC Power Devices for High-Power-Density Applications",
+  "type": "Dissertation"
+}

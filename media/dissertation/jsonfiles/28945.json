@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Ruan, Youyi",
+  "contributor_committeechair": "Zhou, Ying",
+  "contributor_committeemember": [
+    "Weiss, Chester J.",
+    "King, Scott D.",
+    "Hole, John A."
+  ],
+  "contributor_department": "Geosciences",
+  "date_accessioned": "2014-03-14T20:16:09Z",
+  "date_adate": "2012-10-24",
+  "date_available": "2014-03-14T20:16:09Z",
+  "date_issued": "2012-08-28",
+  "date_rdate": "2012-10-24",
+  "date_sdate": "2012-09-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Lateral perturbations in anelasticity (Q) and wave speed together provide important constraints on thermal and chemical structures in the mantle. In present-day tomography studies of global wave speed and anelasticity, the significance of 3-D wave speed and 3-D Q structures on surface wave travel times and amplitudes has not been well understood. In this dissertation, the effects of lateral perturbations in anelasticity (Q) and wave speed on surface wave observables are quantified based upon wave propagation simulations in 3-D earth models using a Spectral Element Method.  Comparison between phase delays caused by 3-D wave speed structures and those caused by 3-D Q variations show that anelastic dispersion due to lateral perturbation in Q is important in long-period surface wave and can account for 15-20% observed phase delays. For amplitude perturbations, elastic focusing/defocusing effects associated with 3-D wave speed structures are dominant while energy dissipation is important in short-period (â ¼ 50 s) surface waves but decreases quickly with increasing wave period. Anelastic focusing/defocusing associated with 3-D anelastic dispersion becomes more important than wave attenuation in longer period surface waves.  In tomography studies, ray theory breaks down and finite frequency effects become important when the length scale of heterogenities are smaller than seismic wavelength. Finite frequency effects in 3-D earth models are investigated by comparing theoretical predictions of travel times and amplitudes with â  ground truthâ   measurements made on synthetic seismograms generated in SEM simulations. The comparisons show that finite frequency effects are stronger in amplitudes than in phases, especially at long periods.",
+  "description_provenance": [
+    "Author Email: chukren@vt.edu",
+    "Advisor Email: cjweiss@vt.edu",
+    "Advisor Email: sdk@vt.edu",
+    "Advisor Email: hole@vt.edu",
+    "Advisor Email: yingz@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:09Z (GMT). No. of bitstreams: 1 Ruan_Y_D_2012.pdf: 8986157 bytes, checksum: c15e0d65664c59512e160cdc0945ca04 (MD5)   Previous issue date: 2012-08-28"
+  ],
+  "handle": "28945",
+  "identifier_other": "etd-09112012-170402",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09112012-170402/",
+  "identifier_uri": "http://hdl.handle.net/10919/28945",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ruan_Y_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "seismic tomography",
+    "elasticity and anelasticity",
+    "seismic attenuation",
+    "surface waves",
+    "finite frequency effects",
+    "3D Q"
+  ],
+  "title": "Surface wave propagation in 3-D anelastic media",
+  "type": "Dissertation"
+}

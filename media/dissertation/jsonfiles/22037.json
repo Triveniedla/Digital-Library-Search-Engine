@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Marin, Anthony Christopher",
+  "contributor_committeechair": "Priya, Shashank",
+  "contributor_committeemember": [
+    "Ha, Dong S.",
+    "Ekkad, Srinath",
+    "O'Brien, Walter F",
+    "Inman, Daniel J"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-05-11T08:00:20Z",
+  "date_available": "2013-05-11T08:00:20Z",
+  "date_issued": "2013-05-03",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Vibration energy harvesting has been widely investigated by academia and industry in the past decade with focus on developing distributed power sources. One of the prime goals of energy harvesters is to provide power to wireless sensors allowing for the placement of these sensors in the remote and inaccessible areas where battery is not an option. Electromechanical modeling approaches have been developed for enhancing the mechanical to electrical conversion efficiencies utilizing electromagnetic, piezoelectric, and magnetostrictive mechanisms. Models based upon the constitutive equations for these three conversion mechanisms, supported by extensive experimental results available in literature, suggest that power requirement through energy harvesters can be met only when the total volume is in the range of 1-100 cm3. There exists a critical volume of 0.5 cm3 at which above which the electromagnetic mechanism exhibits higher power density as compared to the other mechanisms. Therefore, in this thesis electromagnetic energy conversion was adopted to develop high power energy harvesters. We also present a novel vibration energy harvesting method which rivals the power density and bandwidth of the traditional methods. The overarching theme throughout the design process was selecting the structure and fabrication methodology that facilitates the transition of the technology. The experimental models were characterized at accelerations and frequencies typically found in the environmental vibration sources. <br />The thesis provides in-depth the design, modeling, and characterization of a vibration energy harvester which creates relative motion differently than the conventional harvesters. Conventional designs rely on amplifying the original source displacement operating at the resonance condition. In the harvester design proposed in this thesis, the relative motion is created by cancelling the vibration at one location and transferring the source vibration directly to another location by combining a vibration isolator with a vibration absorber. In this novel configuration, termed as Direct Vibration Harvester (DVH), the energy is harvested directly from the vibrating source mass rather than a vibrating seismic mass attached to the source increasing the harvesting bandwidth and power density. <br />Four bar magnet and magnetic levitation architectures were modified and modeled to reach closer to the theoretical maximum power densities. Extensive FEM was utilized to understand the performance limitations of the existing structures and the results from this analysis paved the pathway towards the development of the DVH. ï¿½A comparative analysis of the performance of the DVH with the traditional harvesting methods in terms of normalized power output and bandwidth was conducted. Performance improvements of DVH required development of the high efficiency rotational generators as linear to rotational conversion occurs in the DVH. The optimized rotational generator was modeled and all the predicted performance metrics were validated through experiments. The generator was applied towards the fabrication of DVH and also in a micro windmill. The power density of the micro windmill was found to be better than all the other results reported in literature. Extensive fluid and structural modeling was conducted to tailor the performance of the micro windmill in the desired wind speed range.<br />Combined, this thesis provides significant advancement on many fronts. It pushes the magnetic levitation and four-bar mechanism harvester systems to their theoretical limits. It demonstrates a novel direct vibration harvester that has the possibility of surpassing the power density and bandwidth of all the known vibration harvester with large magnitude of output power. It provides a design process for an efficient small scale electromagnetic generator that can form for the backbone of many rotational and linear harvesters. This generator was used to develop the world\\'s highest power density micro windmill in the small wind speed range.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-11T08:00:20Z (GMT). No. of bitstreams: 1 Marin_AC_D_2013.pdf: 11118006 bytes, checksum: 2be543a16a448bcedefcc11035d02c14 (MD5)   Previous issue date: 2013-05-03",
+  "format_medium": "ETD",
+  "handle": "22037",
+  "identifier_other": "vt_gsexam:420",
+  "identifier_uri": "http://hdl.handle.net/10919/22037",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "electromagnetism",
+    "piezoelectricity",
+    "magnetostriction",
+    "vibration energy harvesting",
+    "wind energy harvesting"
+  ],
+  "title": "Mechanical Energy Harvesting for Powering Distributed Sensors and Recharging Storage Systems",
+  "type": "Dissertation"
+}

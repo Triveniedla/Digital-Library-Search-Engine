@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Chen, Chien-Liang",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Baumann, William T.",
+    "Meehan, Kathleen",
+    "Centeno, Virgilio A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:36Z",
+  "date_adate": "2011-03-17",
+  "date_available": "2014-03-14T20:07:36Z",
+  "date_issued": "2011-02-04",
+  "date_rdate": "2012-06-22",
+  "date_sdate": "2011-02-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Distributed generation (DG) is getting more and more popular due to the environmentally-friendly feature, the new generation unit developments, and the ability to operate in a remote area. By clustering the paralleled DGs, storage system and loads, a microgrid (MG) can offer a power system with increased reliability, flexibility, cost effectiveness, and energy efficient feature. Popular energy sources like photovoltaic modules (PV), wind turbines, and fuel cells require the power-electronic interface as the bridge to connect to the utility grid for usable transmission.<p> The inverter-based microgrid system, however, suffers more challenges than traditional rotational power system. Those challenges, including much less over current capability, the nature of the intermittent renewable energy sources, a wide-band dynamic of generation units, and a large grid impedance variation, call for more careful system hardware and control designs to ensure a reliable system operation. Major design interests are found in (i) precision power flow control, (ii) proper current sharing, (iii) smooth transition between grid-tie and islanding modes, and (iv) stability analysis.<p> This dissertation will cover a complete design and implementation of an experimental microgrid with paralleled power conditioning systems operating in the gridtie mode, islanding mode, and mode transfers. A universal inverter is proposed with the LCL filter to operate in both grid-tie and standalone mode without any hardware modification. Next, controllers of individual inverters running in basic microgrid modes will be discussed to ensure high quality output characteristics. The admittance compensation will also be proposed to avoid reverse power flow during the grid-tie connection transient. Combining previous designed single inverters, a CAN-bus multiinverter microgrid system will be established. The current sharing with the proposed frequency-decoupled transmission will be implemented to extend the transmission distance. Next, smooth mode transfer procedures between grid-tie mode and islanding mode will be suggested based on the circuit principles to minimize the excessive electrical stresses. Finally, the state-space analysis of the proposed multi-inverter microgrid system will be conducted to investigate the stability under system variations and optimize the system performance.<p> Experimental and simulation results show that the designed universal inverter can provide stable outputs in different basic microgrid operation modes. With the proposed current sharing scheme, the output current is equally shared among paralleled inverters without a noticeable circulating current. Both the simulation and experimental results of mode transfer show that the multi-inverter based microgrid system is able to switch between grid-tie and islanding modes smoothly to guarantee an uninterrupted power supply to the critical loads. Based on eigenvalue analysis, the study of stability analysis also shows the agreement of the design, simulation and test results which further verifies the reliability of the designed multi-inverter microgrid system.",
+  "description_provenance": [
+    "Author Email: jlchen99@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: baumann10@vt.edu",
+    "Advisor Email: kameehan@vt.edu",
+    "Advisor Email: vcenteno@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:36Z (GMT). No. of bitstreams: 1 Chen_ChienLiang_D_2011.pdf: 4535973 bytes, checksum: 616962e3b6e65176db5fb55d3db43f4b (MD5)   Previous issue date: 2011-02-04"
+  ],
+  "handle": "26240",
+  "identifier_other": "etd-02182011-153018",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02182011-153018/",
+  "identifier_uri": "http://hdl.handle.net/10919/26240",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Chen_ChienLiang_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Microgrid",
+    "mode transfer",
+    "grid-tie mode",
+    "islanding mode",
+    "stability"
+  ],
+  "title": "Design, Implementation, and Analysis for an Improved Multiple Inverter Microgrid System",
+  "type": "Dissertation"
+}

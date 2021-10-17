@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhu, Chengbin",
+  "contributor_committeechair": "Chan, Lap Mui Ann",
+  "contributor_committeemember": [
+    "Taaffe, Michael R.",
+    "Sarin, Subhash C.",
+    "Bish, Ebru K."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:11Z",
+  "date_adate": "2008-09-08",
+  "date_available": "2014-03-14T20:15:11Z",
+  "date_issued": "2008-07-31",
+  "date_rdate": "2008-09-08",
+  "date_sdate": "2008-08-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The reliability and quality of suppliers' components are inevitably two  factors that impact the performance of the supply chain. Stochastic reliability affects the final production quantity and hence makes it more difficult to predict the manufacturer's best ordering quantity  as opposed to the simpler traditional news vendor model. In addition,  the quality of suppliers' products directly influence the potential demand in the market. Hence every firm in the supply chain system faces the needs to invest time, money and effort to improve the product quality even though it may bring a higher production and investment cost.  Thus our dissertation is divided into two parts. In the first part, we build a model for a two echelon supply chain system in which a single manufacturer sells his product to a market with stochastic demand. A group of suppliers provide essential components for the manufacturer. They may be:  1)  homogeneous component  suppliers, 2) complementary component suppliers or 3) divided into subgroups, suppliers in the same subgroup provide the same component while the components from different subgroups are assembled in the final product. The fraction of effective component ordered from each supplier is a random variable. We first analyze the manufacturer's optimal ordering quantity decision. We identify several important properties of the optimal decision. Then based on those properties, we devise optimal solution procedures and heuristic methods for the above three systems. Finally, in the case of Bernoulli reliability, we investigate the suppliers' price competition  by non-cooperative game theory.  In the second part, we model a two echelon assembly system which faces deterministic demand affected by the market price and quality of the product. Therefore, the decisions of the firms are divided into two stages: in the first stage, they decide on how much effort to invest in the quality of the components or the final product to stimulate the market. They may make decisions simultaneously or sequentially. Then after the efforts are invested, in the second stage, the component suppliers first decide on their components' wholesale price and then the manufacture decides on the market price given the wholesale price. We identify the existence of Nash equilibrium in each stage through potential functions. Moreover, in the first stage decision, we find that the competition with a leader  can always benefit the whole system compared with simultaneous competition.",
+  "description_provenance": [
+    "Author Email: cbzhu@vt.edu",
+    "Advisor Email: taaffe@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: achan@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:11Z (GMT). No. of bitstreams: 1 dissertation.pdf: 904200 bytes, checksum: 81cb6eca2e3656036e5d6cb502b0e1be (MD5)   Previous issue date: 2008-07-31"
+  ],
+  "handle": "28644",
+  "identifier_other": "etd-08132008-214111",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08132008-214111/",
+  "identifier_uri": "http://hdl.handle.net/10919/28644",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Stochastic Ordering",
+    "Potential Function",
+    "Stackelburg Game",
+    "Supermodular",
+    "Supply Chain",
+    "Game Theory",
+    "Reliability",
+    "Effort Investment"
+  ],
+  "title": "Supply Chain Revenue Management Considering Components' Quality and Reliability",
+  "type": "Dissertation"
+}

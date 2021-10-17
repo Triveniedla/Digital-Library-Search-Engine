@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Megahed, Fadel M.",
+  "contributor_committeecochair": [
+    "Camelio, Jaime A.",
+    "Woodall, William H."
+  ],
+  "contributor_committeemember": [
+    "Ellis, Kimberly P.",
+    "Nachlas, Joel A."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:08:31Z",
+  "date_adate": "2012-04-18",
+  "date_available": "2014-03-14T20:08:31Z",
+  "date_issued": "2012-03-26",
+  "date_rdate": "2012-04-18",
+  "date_sdate": "2012-03-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The volume of data acquired in production systems continues to expand. Emerging imaging technologies, such as machine vision systems (MVSs) and 3D surface scanners, diversify the types of data being collected, further pushing data collection beyond discrete dimensional data. These large and diverse datasets increase the challenge of extracting useful information. Unfortunately, industry still relies heavily on traditional quality methods that are limited to fault detection, which fails to consider important diagnostic information needed for process recovery. Modern measurement technologies should spur the transformation of statistical process control (SPC) to provide practitioners with additional diagnostic information. This dissertation focuses on how MVSs and 3D laser scanners can be further utilized to meet that goal. More specifically, this work: 1) reviews image-based control charts while highlighting their advantages and disadvantages; 2) integrates spatiotemporal methods with digital image processing to detect process faults and estimate their location, size, and time of occurrence; and 3) shows how point cloud data (3D laser scans) can be used to detect and locate unknown faults in complex geometries. Overall, the research goal is to create new quality control tools that utilize high density data available in manufacturing environments to generate knowledge that supports decision-making beyond just indicating the existence of a process issue. This allows industrial practitioners to have a rapid process recovery once a process issue has been detected, and consequently reduce the associated downtime.",
+  "description_provenance": [
+    "Author Email: fmegahed@vt.edu",
+    "Advisor Email: jcamelio@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:31Z (GMT). No. of bitstreams: 1 Megahed_FM_D_2012.pdf: 2588954 bytes, checksum: 1ec337ed9b5a92c52c0e3ecbc079acba (MD5)   Previous issue date: 2012-03-26"
+  ],
+  "handle": "26511",
+  "identifier_other": "etd-03262012-185327",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03262012-185327/",
+  "identifier_uri": "http://hdl.handle.net/10919/26511",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Megahed_FM_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "and Spatiotemporal Analysis",
+    "Profile Monitoring",
+    "Machine Vision Systems",
+    "High Density Data",
+    "Fault Diagnosis",
+    "Control Charts",
+    "3D Laser Scanners"
+  ],
+  "title": "The Use of Image and Point Cloud Data in Statistical Process Control",
+  "type": "Dissertation"
+}

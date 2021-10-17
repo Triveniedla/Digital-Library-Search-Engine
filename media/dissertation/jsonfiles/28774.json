@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Falasca, Mauro",
+  "contributor_committeechair": "Dr. Christopher W. Zobel",
+  "contributor_committeemember": [
+    "Dr. Loren Paul Rees",
+    "Dr. Roberta S. Russell",
+    "Dr. Cliff T. Ragsdale",
+    "Cook, Deborah F."
+  ],
+  "contributor_department": "Management Science and Information Technology",
+  "date_accessioned": "2014-03-14T20:15:36Z",
+  "date_adate": "2009-09-21",
+  "date_available": "2014-03-14T20:15:36Z",
+  "date_issued": "2009-08-20",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Humanitarian relief and aid organizations all over the world implement efforts aimed at recovering from disasters, reducing poverty and promoting human rights. The purpose of this dissertation is to develop a series of quantitative decision models to help address some of the challenges faced by humanitarian logistics.  <p> The first study discusses the development of a spreadsheet-based multicriteria scheduling model for a small development aid organization in a South American developing country. Development aid organizations plan and execute efforts that are primarily directed towards promoting human welfare. Because these organizations rely heavily on the use of volunteers to carry out their social mission, it is important that they manage their volunteer workforce efficiently. In this study, we demonstrate not only how the proposed model helps to reduce the number of unfilled shifts and to decrease total scheduling costs, but also how it helps to better satisfy the volunteersâ   scheduling preferences, thus supporting long-term retention and effectiveness of the workforce.  <p> The purpose of the second study is to develop a decision model to assist in the management of humanitarian relief volunteers. One of the challenges faced by humanitarian organizations is that there exist limited decision technologies that fit their needs while it has also been pointed out that those organizations experience coordination difficulties with volunteers willing to help. Even though employee workforce management models have been the topic of extensive research over the past decades, no work has focused on the problem of managing humanitarian relief volunteers. In this study, we discuss a series of principles from the field of volunteer management and develop a multicriteria optimization model to assist in the assignment of both individual volunteers and volunteer groups to tasks. We present illustrative examples and analyze two complementary solution methodologies that incorporate the decision makerâ  s preferences and knowledge and allow him/her to trade-off conflicting objectives.  <p> The third study discusses the development of a decision model for the procurement of goods in humanitarian efforts. Despite the prevalence of procurement expenditures in humanitarian efforts, procurement in humanitarian contexts is a topic that has only been discussed in a qualitative manner in the literature. In our paper, we introduce a two stage decision model with recourse to improve the procurement of goods in humanitarian relief supply chains and present an illustrative example. Conclusions, limitations, and directions for future research are also discussed.",
+  "description_provenance": [
+    "Author Email: mfalasca@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: rrussell@vt.edu",
+    "Advisor Email: crags@vt.edu",
+    "Advisor Email: dcook@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:36Z (GMT). No. of bitstreams: 1 Falasca_M_D_2009.pdf: 869574 bytes, checksum: 743e6952800978542524028d8543c9c5 (MD5)   Previous issue date: 2009-08-20"
+  ],
+  "handle": "28774",
+  "identifier_other": "etd-08232009-191725",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232009-191725/",
+  "identifier_uri": "http://hdl.handle.net/10919/28774",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Falasca_M_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Procurement",
+    "Scheduling",
+    "Spreadsheet Modeling",
+    "Development Aid",
+    "Humanitarian Logistics",
+    "Stochastic Programming",
+    "Volunteer Labor",
+    "Optimization",
+    "Multicriteria Decision Making"
+  ],
+  "title": "Quantitative Decision Models for Humanitarian Logistics",
+  "type": "Dissertation"
+}

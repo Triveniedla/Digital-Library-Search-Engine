@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Callaghan, Christopher Edward",
+  "contributor_committeechair": "Herbert, William G.",
+  "contributor_committeemember": [
+    "Cotton, John R.",
+    "Ramp, Warren K.",
+    "Anderson, Francine",
+    "Nickols-Richardson, Sharon M.",
+    "Steele, Charles R."
+  ],
+  "contributor_department": "Human Nutrition, Foods, and Exercise",
+  "date_accessioned": "2014-03-14T20:17:35Z",
+  "date_adate": "2003-10-28",
+  "date_available": "2014-03-14T20:17:35Z",
+  "date_issued": "2003-09-23",
+  "date_rdate": "2004-10-28",
+  "date_sdate": "2003-10-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mechanical response tissue analysis (MRTA) provides a noninvasive means of estimating the cross-sectional bending stiffness (EI) of long bones, and thus can serve as a predictor of bone strength.  Estimates of bone bending stiffness are derived from the point impedance response of a long bone to low frequency (70-500Hz) stimulation according to beam vibration theory.  MRTA has demonstrated the ability to reliably estimate human ulnar bending stiffness with between-test coefficients of variation of 5%, and in vivo measurements of monkey tibiae have been validated with ex vivo 3-point mechanical bending tests.  Human tibial MRTA measurement has achieved between-trial coefficients of variation of only 12%, so a new physical MRTA configuration and improved computer algorithms have been developed in an attempt to improve upon this level of reliability.  The new configuration removes the rigid proximal and distal tibial restraints and models the tissue behavior with a 12-parameter algorithm that accounts for free vibration at the ankle and knee joints.  Initial testing with only the hardware changes and application of the 7-parameter model of tissue behavior used in earlier systems yielded unacceptable variation.  Subsequent reliability testing with application of 6-, 9-, and 12-parameter models demonstrated modest improvements, prompting the development of the more robust 12-parameter model used in the present study.  Evaluation of 110 college-age females (age 20.2Â±1.8 yr, height 163.3Â±5.9 cm, weight 60.7Â±9.3 kg, BMI 22.8Â±3.1 kgÂ·m-2) with the current MRTA system has demonstrated an improvement in within-trial reliability for unsupported tibial EI measurement with a coefficient of variation of 11.2%.  These results demonstrate the ability of the system to measure tibial response characteristics when both proximal and distal ends are free of rigid support.  Long-term measurement reliability is still problematic with a coefficient of variation of 36.5% for a set of 4 measurements spanning 21 months.",
+  "description_provenance": [
+    "Author Email: chcallag@vt.edu",
+    "Advisor Email: wgherb@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:35Z (GMT). No. of bitstreams: 1 CEC-Dissertation.pdf: 1145866 bytes, checksum: 9e6e753e00604bb50c111bba1d554bbb (MD5)   Previous issue date: 2003-09-23"
+  ],
+  "handle": "29348",
+  "identifier_other": "etd-10232003-090848",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10232003-090848/",
+  "identifier_uri": "http://hdl.handle.net/10919/29348",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CEC-Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bone strength",
+    "mechanical response tissue analysis",
+    "tibia",
+    "reliability",
+    "stiffness"
+  ],
+  "title": "Reliability of Tibial Measurement with Mechanical Response Tissue Analysis",
+  "type": "Dissertation"
+}

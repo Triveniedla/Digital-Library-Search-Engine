@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Dong, Yan",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Xu, Ming",
+    "Baumann, William T.",
+    "Suchicital, Carlos T. A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:35Z",
+  "date_adate": "2009-09-02",
+  "date_available": "2014-03-14T20:14:35Z",
+  "date_issued": "2009-07-24",
+  "date_rdate": "2009-09-02",
+  "date_sdate": "2009-07-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Multiphase interleaving buck converters are widely used in todayâ  s industrial point-of-load (POL) converters, especially the microprocessor voltage regulators (VRs). The issue of todayâ  s multiphase interleaving buck converters is the conflict between the high efficiency and the fast transient in the phase inductor design. In 2000, P. Wong proposed the multiphase coupledinductor buck converter to solve this issue. With the phase inductors coupled together, the coupled-inductor worked as a nonlinear inductor due to the phase-shifted switching network, and the coupled-inductor has different equivalent inductances during steady-state and transient. One the one hand, the steady state inductance is increased due to coupling and the efficiency of the multiphase coupled-inductor buck converter is increased; on the other hand, the transient inductance is reduced and the transient performance of the multiphase coupled-inductor buck is improved. After that, many researches have investigated the multiphase coupled-inductor buck converters in different aspects. However, there are still many challenges in this area: the comprehensive analysis of the converter, the alternative coupled inductor structures with the good performance, the current sensing of converter and the light-load efficiency improvement. They are investigated in this dissertation. The comprehensive analysis of the multiphase coupled-inductor buck converter is investigated. The n-phase (n>2) coupled-inductor buck converter with the duty cycle D>1/n hasnâ  t been analyzed before. In this dissertation, the multiphase coupled-inductor buck converter is systematically analyzed for any phase number and any duty cycle condition. The asymmetric multiphase coupled-inductor buck converter is also analyzed. The existing coupled-inductor has a long winding path issue. In low-voltage, high-current applications, the short winding path is preferred because the winding loss dominates the inductor total loss and a short winding path can greatly reduce the winding loss. To solve this long winding path issue, several twisted-core coupled-inductors are proposed. The twisted-core coupled-inductor has such a severe 3D fringing effect that the conventional reluctance modeling method gives a poor result, unacceptable from the design point of view. By applying and extending Sullivanâ  s space cutting method to the twisted core coupled inductor, a precise reluctance model of the twisted-core coupled-inductor is proposed. The reluctance model gives designers the intuition of the twisted-core coupled-inductors and facilitates the design of the twisted-core coupled-inductors. The design using this reluctance model shows good correlation between the design requirement and the design result. The developed space cutting method can also be used in other complex magnetic structures with the strong fringing effect. Today, more and more POL converters are integrated and the bottleneck of the integrated POL converters is the large inductor size. Different coupled-inductor structures are proposed to reduce the large inductor size and to improve the power density of the integrated POL converter. The investigation is based on the low temperature co-fire ceramic (LTCC) process. It is found that the side-by-side-winding coupled-inductor structure achieves a smaller footprint and size. With the two-segment B-H curve approximation, the proposed coupled-inductor structure can be easily modeled and designed. The designed coupled-inductor prototype reduces the magnetic size by half. Accordingly, the LTCC integrated coupled-inductor POL converter doubles the power density compared to its non-coupled-inductor POL counterpart and an amazing 500W/in3 power density is achieved. In a multiphase coupled-inductor converter, there are several coupled-inductor setups. For example, for a six-phase coupled-inductor converter, three two-phase coupled inductors, two three-phase coupled-inductors and one six-phase coupled inductors can be used. Different coupled-inductor setups are investigated and it is found that there is a diminishing return effect for both the steady-state efficiency improvement and the transient performance improvement when the coupling phase number increases. The conventional DCR current sensing method is a very popular current sensing method for todayâ  s multiphase non-coupled-inductor buck converters. Unfortunately, this current sensing method doesnâ  t work for the multiphase coupled-inductor buck converter. To solve this issue, two novel DCR current sensing methods are proposed for the multiphase coupled-inductor buck converter. Although the multiphase coupled-inductor buck converters have shown a lot of benefits, they have a low efficiency under light-load working in DCM. Since the DCM operation of the multiphase coupled-inductor buck converter has never been investigated, they are analyzed in detail and the reason for the low efficiency is identified. It is found that there are more-than-one DCM modes for the multiphase coupled-inductor buck converter: DCM1, DCM2 â ¦, and DCMn. In the DCM2, DCM3â ¦, and DCMn modes, the phase-currents reach zero-current more-thanonce during one switching period, which causes the low efficiency of the multiphase coupledinductor buck converter in the light load. With the understanding of the low efficiency issue, the burst-in-DCM1-mode control method is proposed to improve the light load efficiency of the multiphase coupled-inductor buck converter. Experimental results prove the proposed solution.",
+  "description_provenance": [
+    "Author Email: ydong@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: dusan@exchange.vt.edu",
+    "Advisor Email: mingxu@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: ctas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:35Z (GMT). No. of bitstreams: 1 ETD_final_Rev2.pdf: 12970846 bytes, checksum: 4b37327d46665d3b37cfd0349fd6a23f (MD5)   Previous issue date: 2009-07-24"
+  ],
+  "handle": "28469",
+  "identifier_other": "etd-07312009-143713",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07312009-143713/",
+  "identifier_uri": "http://hdl.handle.net/10919/28469",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_final_Rev2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "coupled-inductor",
+    "multiphase buck"
+  ],
+  "title": "Investigation of Multiphase Coupled-Inductor Buck Converters in Point-of-Load Applications",
+  "type": "Dissertation"
+}

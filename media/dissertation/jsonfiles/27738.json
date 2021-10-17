@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Liu, Qian",
+  "contributor_committeechair": "Ellingson, Steven W.",
+  "contributor_committeemember": [
+    "Buehrer, Richard Michael",
+    "da Silva, Claudio R. C. M.",
+    "Patterson, Cameron D.",
+    "Simonetti, John H."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:06Z",
+  "date_adate": "2012-05-30",
+  "date_available": "2014-03-14T20:12:06Z",
+  "date_issued": "2012-04-26",
+  "date_rdate": "2012-05-30",
+  "date_sdate": "2012-05-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Optimum filter-and-sum beamforming is useful for array systems that suffer from spatially correlated noise and interference over large bandwidth. The set of finite impulse response (FIR) filter coefficients used to implement the optimum filter-and-sum beamformer are selected to optimize signal-to-noise ratio (SNR) and reduce interference from the certain directions. However, these array systems may also be vulnerable to dispersion caused by physical components such as antennas and cables, especially when the dispersion is unequal between sensors. The unequal responses can be equalized by using FIR filters. Although the problems of optimum-SNR beamforming, interference mitigation, and per-sensor dispersion have previously been individually investigated, their combined effects and strategies for mitigating their combined effects do not seem to have been considered.  In this dissertation, combination strategies for optimum filter-and-sum beamforming and sensor dispersion correction are investigated. Our objective is to simultaneously implement optimum filter-and-sum beamforming and per-sensor dispersion correction using a single FIR filter per sensor. A contribution is to reduce overall filter length, possibly also resulting in a significant reduction in implementation complexity, power consumption, and cost.  Expressions for optimum filter-and-sum beamforming weights and per-sensor dedispersion filter coefficients are derived. One solution is found via minimax optimization. To assess feasibility, the cost is analyzed in terms of filter length. These designs are considered in the context of LWA1, the first ``station'' of the Long Wavelength Array (LWA) radio telescope, consisting of 512 bowtie-type antennas and operating at frequencies between 10 MHz and 88 MHz. However, this work is applicable to a variety of systems which suffer from non-white spatial noise and directional interference and are vulnerable to sensor dispersion; e.g., sonar arrays, HF/VHF-band riometers, radar arrays, and other radio telescopes.",
+  "description_provenance": [
+    "Author Email: qianliu@vt.edu",
+    "Advisor Email: ellingso@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: jhs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:06Z (GMT). No. of bitstreams: 1 Liu_Q_D_2012.pdf: 21311850 bytes, checksum: 9c00117bd180cf5df8ce9ffbe3b1c72e (MD5)   Previous issue date: 2012-04-26"
+  ],
+  "handle": "27738",
+  "identifier_other": "etd-05152012-144723",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05152012-144723/",
+  "identifier_uri": "http://hdl.handle.net/10919/27738",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Liu_Q_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wideband beamforming",
+    "sensor dispersion",
+    "combination scheme",
+    "correction FIR filter"
+  ],
+  "title": "Wideband Digital Filter-and-Sum Beamforming with Simultaneous Correction of Dispersive Cable and Antenna Effects",
+  "type": "Dissertation"
+}

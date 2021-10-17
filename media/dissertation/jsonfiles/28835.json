@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wilcock, Samuel Phillip",
+  "contributor_committeechair": "Terrell, George R.",
+  "contributor_committeemember": [
+    "Morgan, John P.",
+    "Arnold, Jesse C.",
+    "Anderson-Cook, Christine M.",
+    "Foutz, Robert"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:15:49Z",
+  "date_adate": "2001-09-18",
+  "date_available": "2014-03-14T20:15:49Z",
+  "date_issued": "2001-08-20",
+  "date_rdate": "2002-09-18",
+  "date_sdate": "2001-08-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The k-sample data setting is one of the most common data settings used today. The null hypothesis that is most generally of interest for these methods is that the k-samples have the same location. Currently there are several procedures available for the individual who has data of this type. The most often used method is commonly called the ANOVA F-test. This test assumes that all of the underlying distributions are normal, with equal variances. Thus the only allowable difference in the distributions is a possible shift, under the alternative hypothesis. Under the null hypothesis, it is assumed that all k distributions are identical, not just equally located.  Current nonparametric methods for the k-sample setting require a variety of restrictions on the distribution of the data. The most commonly used method is that due to Kruskal and Wallis (1952). The method, commonly called the Kruskal-Wallis test, does not assume that the data come from normal populations, though they must still be continuous, but maintains the requirement that the populations must be identical under the null, and may differ only by a possible shift under the alternative.  In this work a new procedure is developed which is exactly distribution free when the distributions are equivalent and continuous under the null hypothesis, and simulations are used to study the properties of the test when the distributions are continuous and have the same medians under the null. The power of the statistic under alternatives is also studied. The test bears a resemblance to the two sample sign type tests, which will be pointed out as the development is shown.",
+  "description_provenance": [
+    "Author Email: wilcock@bww.com",
+    "Advisor Email: jpmorgan@vt.edu",
+    "Advisor Email: jca@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Advisor Email: b2948@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:49Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 867433 bytes, checksum: e88fb9df184c7723891cd26289db0ab9 (MD5)   Previous issue date: 2001-08-20"
+  ],
+  "handle": "28835",
+  "identifier_other": "etd-08312001-162742",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08312001-162742/",
+  "identifier_uri": "http://hdl.handle.net/10919/28835",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Error Assumptions",
+    "Distribution Free",
+    "One-way Layout",
+    "k-sample problem",
+    "Nonparametrics"
+  ],
+  "title": "A New Nonparametric Procedure for the k-sample Problem",
+  "type": "Dissertation"
+}

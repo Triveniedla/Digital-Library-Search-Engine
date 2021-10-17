@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Kurokawa, Ko",
+  "contributor_committeechair": "Wierwille, Walter W.",
+  "contributor_committeemember": [
+    "Dryden, Robert D.",
+    "Kemmerling, Paul T. Jr.",
+    "Koelling, Charles Patrick",
+    "Woldstad, Jeffrey C."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:12:51Z",
+  "date_adate": "2008-06-06",
+  "date_available": "2014-03-14T20:12:51Z",
+  "date_issued": "1990-10-31",
+  "date_rdate": "2012-01-27",
+  "date_sdate": "2008-06-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation research was a part of a multi-year research effort, objectives of which were (I) to characterize attentional demands of drivers performing autom(ltive instrument panel (IP) tasks, (2) to develop a methodology to quantify the driver attentional demands, (3) to examine a variety of factors which influence the visual attentional demand (V AD) and concurrent manual demand (CMD) through a comprehensive review of previous studies and a series of experiments, and (4) to develop a computer program to evaluate contemporary and future automotive IP designs on the basis of their attentional demands. <p> In the first part of this dissertation, an extensive literature review of methodologies and findings concerning automotive IP task performance is presented. Most of the earlier studies reported task completion times (also referred to as response times and transaction times), which did not provide a precise detail of the operation of an instrument. More recent studies, on the other hand, recorded the driver's eye movements while performing an IP task, and measures of VAD were analyzed. Among the variety of methodologies to measure eye movements, the limbus and pupil tracking technique using a commercially available video cassette recorder (VCR) represents an ideal compromise among precision, cost, and size/weight. Combined with the traditional response time measure, the number and average length of glances, which are determined by a frame-by-frame analysis of the eye movement recording tape, allow a quantitative evaluation of driver IP task performance. <p> A series of three experiments conducted in the moving-base driving simulator in the Vehicle Analysis and Simulation Laboratory forms the second part of this dissertation. The objectives of these experiments were (1) to validate the use of the driving simulator for collecting driver performance data on IP tasks, (2) to examine factors which influence the simulated driving workload, e.g., introduction of random crosswind and road curvature, (3) to expand the existing database on conventional IP tasks, (4) to examine the effects of IP macro- and micro-clutter on driver task performance, and (5) to investigate the issues related to control labelling, i.e., random versus sequential labelling and label abbreviation. <p> Some of the important findings from the simulator experiments were (1) the driver IP task performance data collected under the zero crosswind and straight road conditions were found to be acceptably close to those in the in-car, on-road study during the first phase of this research program (Hayes, Kurokawa, and Wierwille, 1988), (2) IP macroclutter, represented by the number of instruments in the IP, was linearly related to the complexity of an IP task, reflected in the number of glances to IP, (3) IP microclutter, represented by the number of controls within an instrument, was linearly related to both complexity (number of glances to IP) and difficulty (average length of glances to IP) of an IP task, and (4) concise and distinct labels were more desirable as they required fewer glances and were located more quickly than their fully spelled counterparts. <p> In the third part of this dissertation, a computer program (IPanalyzer) which was developed to aid automotive IP designers in evaluation of an IP design is discussed. Users of IPanalyzer can obtain driver IP task performance estimates (1) empirically from the existing experimental data, (2) by assessing the difficulty, complexity, and manual demand of a given task, or (3) by decomposing a task of interest into elements and categorizing them by their behavioral characteristics. Instructions for using IPanalyzer are supplemented by detailed descriptions and discussions of the data on which the driver IP task performance estimates are based. Finally, limitations of the current evaluation program are discussed, and a direction for future research and development are suggested.",
+  "description_provenance": [
+    "Author Email: ko.kurokawa@tema.toyota.com",
+    "Made available in DSpace on 2014-03-14T20:12:51Z (GMT). No. of bitstreams: 1 LD5655.V856_1990.K766.pdf: 13249194 bytes, checksum: 04d2febdb8d960335b00bc921e35845e (MD5)   Previous issue date: 1990-10-31"
+  ],
+  "format_medium": "BTD",
+  "handle": "27981",
+  "identifier_other": "etd-06062008-172213",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06062008-172213/",
+  "identifier_uri": "http://hdl.handle.net/10919/27981",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1990.K766.pdf",
+  "subject": "Automobiles",
+  "subject_lcc": "LD5655.V856 1990.K766",
+  "title": "Development of an evaluation program for automotive instrument panel design",
+  "type": "Dissertation"
+}

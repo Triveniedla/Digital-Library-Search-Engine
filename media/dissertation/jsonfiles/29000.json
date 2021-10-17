@@ -1,0 +1,62 @@
+{
+  "contributor_author": "Hickman, Randall John",
+  "contributor_committeechair": "Gutierrez, Marte S.",
+  "contributor_committeemember": [
+    "Filz, George G.",
+    "Mauldon, Matthew",
+    "Burbey, Thomas J.",
+    "Batra, Romesh C."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:16:21Z",
+  "date_adate": "2004-11-08",
+  "date_available": "2014-03-14T20:16:21Z",
+  "date_issued": "2004-09-13",
+  "date_rdate": "2004-11-08",
+  "date_sdate": "2004-09-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Petroleum reservoirs located in the Norwegian sector of the North Sea have undergone unexpected subsidence of great magnitude (> 10 m) during more than 30 years of petroleum recovery operations. Historical laboratory investigations have shown that the subsidence is due to the mechanical behavior and mechanical properties of chalk. Chalk behavior is characterized by elastoplasticity, including pore collapse, shear failure, and tensile failure mechanisms; rate-dependence; and pore fluid dependence. The research described in this dissertation was performed with the objectives to formulate a constitutive model which describes all aspects of chalk and soft rock mechanical behavior, develop and/or implement methods to integrate the equations which form the constitutive model, and to apply the model to finite element simulations of engineering problems encountered in chalk and soft rock. \tA new rate-dependent constitutive model is developed based on a three-dimensional extension of a volumetric time-lines model, similar to that of Bjerrum (1967). Shear and tensile failure surfaces are also included to reflect these failure mechanisms observed in chalk. Twelve model parameters are required to fully describe chalk behavior. Procedures to determine values for each of these parameters from laboratory test results are described. Correlations of model parameter values with index parameters are given for North Sea chalks, to allow reasonable values to be obtained in the absence of an extensive laboratory testing program. Comparisons between observed behavior and model simulations indicate that the new model is able to reproduce and predict the behavior of chalk quite well. \tA new integration method for critical state cap plasticity models is presented. This new method may be used for rate-independent or rate-dependent constitutive models which are formulated with elliptical cap yield surfaces, including the chalk model. The new method gives results that compare favorably to integration methods used currently, in terms of accuracy and computational effort. \tThe effects of pore fluid composition on chalk behavior are included in the constitutive model. It is shown that the variability in constitutive behavior with pore fluid composition is due to dependence of model parameter values on pore fluid composition. This variability in model parameters with pore fluid composition has been quantified and implemented into the model for the complete spectrum of oil-water mixtures in chalk. \tFinite element simulations are presented to demonstrate performance of the model in analyzing problems at several different scales, including laboratory, borehole, and full-field scales. A new algorithm called \"equivalent uniform water saturation\" has been developed to determine the average mechanical properties of finite chalk masses with non-uniform pore fluid compositions, which are frequently encountered during finite element simulations. Results of the laboratory-scale simulations indicate that the constitutive model can reproduce the inhomogeneous deformation patterns which occur in chalk during waterflooding tests, and that use of the new algorithm utilizing \"equivalent uniform water saturation\" produces consistent results for chalk masses with inhomogeneous pore fluid distributions when used with different finite element mesh discretizations. Results of the larger-scale simulations indicate that changes in pore fluid composition and pore fluid pressure have different effects on macro-scale chalk mechanical behavior, and that both must be considered during analysis.",
+  "description_provenance": [
+    "Author Email: rahickm1@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Advisor Email: mauldon@vt.edu",
+    "Advisor Email: tjburbey@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:21Z (GMT). No. of bitstreams: 16 Vita.pdf: 42247 bytes, checksum: e1308c31739cab0064473c390cc8aa52 (MD5) B_Ch9.pdf: 533606 bytes, checksum: aff147f81bb033592d6b4418d4e6c00c (MD5) C_AppendixA1.pdf: 313398 bytes, checksum: b566e49d211277f328436f9c58bcc863 (MD5) C_AppendixB2.pdf: 343077 bytes, checksum: 1773e8cedb7dba0ccbc9abee944b9151 (MD5) C_AppendixB1.pdf: 189213 bytes, checksum: 691e2562a2646bdcbfd4ee74fba11bbf (MD5) C_AppendixA2.pdf: 561114 bytes, checksum: 9cb57c8daa7f41d967610833ff5fd8c3 (MD5) B_Ch6.pdf: 1065974 bytes, checksum: 85363335f1c8d4dca9f28865c77476cd (MD5) B_Ch1.pdf: 806234 bytes, checksum: 5024265fce09c1a28153a34c8b3989ee (MD5) B_Ch2.pdf: 246817 bytes, checksum: 1ff4849447ee751ea3cad8a1e3006eec (MD5) B_Ch3.pdf: 2845167 bytes, checksum: ea973164076f55e70b09246fd35281f5 (MD5) B_Ch4.pdf: 665606 bytes, checksum: 4b15956ecfe82ff99a1f584aa31636d1 (MD5) B_Ch5.pdf: 1035478 bytes, checksum: 96920efb22ea7973d232a2e8e234b44c (MD5) B_Ch10.pdf: 127144 bytes, checksum: 10994c78648e13e00e6cfdd5818b4190 (MD5) A_Cover.pdf: 165310 bytes, checksum: b8156e0b8d5dd8a063ad8eea289646d1 (MD5) B_Ch7.pdf: 413150 bytes, checksum: 1293542bd1794c88e3a87ea7292403d3 (MD5) B_Ch8.pdf: 785498 bytes, checksum: 9ec06488ea02dc80bed166f25f52a14d (MD5)   Previous issue date: 2004-09-13"
+  ],
+  "handle": "29000",
+  "identifier_other": "etd-09172004-115416",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09172004-115416/",
+  "identifier_uri": "http://hdl.handle.net/10919/29000",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Vita.pdf",
+    "B_Ch9.pdf",
+    "C_AppendixA1.pdf",
+    "C_AppendixB2.pdf",
+    "C_AppendixB1.pdf",
+    "C_AppendixA2.pdf",
+    "B_Ch6.pdf",
+    "B_Ch1.pdf",
+    "B_Ch2.pdf",
+    "B_Ch3.pdf",
+    "B_Ch4.pdf",
+    "B_Ch5.pdf",
+    "B_Ch10.pdf",
+    "A_Cover.pdf",
+    "B_Ch7.pdf",
+    "B_Ch8.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "chalk",
+    "soft rock",
+    "integration",
+    "Constitutive model"
+  ],
+  "title": "Formulation and Implementation of a Constitutive Model for Soft Rock",
+  "type": "Dissertation"
+}

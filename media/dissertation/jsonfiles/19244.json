@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Cho, Yong Ju",
+  "contributor_committeechair": "Ramakrishnan, Narendran",
+  "contributor_committeemember": [
+    "Vullikanti, Anil Kumar S",
+    "Murali, T M",
+    "Bevan, David R",
+    "Cao, Yang"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-02-19T22:40:15Z",
+  "date_available": "2013-02-19T22:40:15Z",
+  "date_issued": "2013-01-24",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Recent advances in systems biology have uncovered detailed mechanisms of  biological processes such as the cell cycle, circadian rhythms,  and signaling pathways.  These mechanisms are modeled by chemical reaction networks (CRNs) which are typically simulated by converting to ordinary differential equations (ODEs), so that the goal is to closely reproduce the observed quantitative and qualitative behaviors of the modeled process. <br /><br />This thesis proposes two algorithmic problems related to the construction and comprehension of CRN models. The first problem focuses on reconstructing CRNs from given time series. Given multivariate time course data obtained by perturbing a given CRN, how can we systematically deduce the interconnections between the species of the network? We demonstrate how this problem can be modeled as, first, one of uncovering conditional independence relationships using buffering experiments and, second, of determining the properties of the individual chemical reactions. Experimental results demonstrate the effectiveness of our approach on both synthetic and real CRNs.<br /><br />The second problem this work focuses on is to aid in network comprehension, i.e., to understand the motifs underlying complex dynamical behaviors of CRNs. Specifically, we  focus on bistability---an important dynamical property of a CRN---and propose algorithms to identify the core structures responsible for conferring bistability. The approach we take is to systematically infer the instability causing structures (ICSs) of a CRN and use machine learning techniques to relate properties of the CRN to the presence of such ICSs. This work has the potential to aid in not just network comprehension but also model simplification, by helping  reduce the complexity of known bistable systems.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:40:15Z (GMT). No. of bitstreams: 1 Cho_Y_D_2013.pdf: 1241785 bytes, checksum: 7fcc55f528ac61cceaece69489b6608b (MD5)   Previous issue date: 2013-01-24",
+  "format_medium": "ETD",
+  "handle": "19244",
+  "identifier_other": "vt_gsexam:270",
+  "identifier_uri": "http://hdl.handle.net/10919/19244",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Chemical reaction networks",
+    "bistability",
+    "data mining",
+    "time series modeling"
+  ],
+  "title": "Algorithms for Reconstructing and Reasoning about Chemical Reaction Networks",
+  "type": "Dissertation"
+}

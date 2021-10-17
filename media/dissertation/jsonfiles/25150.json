@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Zeiger, Matthew D.",
+  "contributor_committeechair": "Telionis, Demetrios P",
+  "contributor_committeemember": [
+    "Ragab, Saad A",
+    "Mook, Dean T",
+    "Hendricks, Scott L",
+    "Simpson, Roger L"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-01-28T09:00:13Z",
+  "date_available": "2014-01-28T09:00:13Z",
+  "date_issued": "2014-01-27",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Although complex, inconsistent and fickle, the time-averaged flow over a stationary slender forebody is generally well-understood.  However, the nature of unsteady, time-varying flows over slender forebodies - whether due to the natural unsteadiness or forced maneuvering - is not well-understood.  This body of work documents three experimental investigations into the unsteadiness of the flow over a 3.5 caliber tangent-ogive cylinder at high angles of incidence.  The goal of the investigations is to characterize the natural and forced flow unsteadiness, using a variety of experimental tools.  In the first investigation, flow data are collected over a stationary model in a water tunnel.  Particle-Image Velocimetry (PIV) is employed to acquire time-dependent planes of velocity data with the model at several angles of attack.  It is discovered that the asymmetric flow associated with the tangent-ogive forebody exhibits a large degree of unsteadiness, especially for data planes located far from the forebody tip.    Vortex shedding of the type exhibited by a circular cylinder in crossflow is observed, but this shedding is skewed by the presence of the tip, the shedding process does not require equal periods of time from each side of the body, and this results in a time-averaged flowfield that is asymmetric, as expected.  The rms values of the time-averaged velocity, as well as the turbulent kinetic energy and axial vorticity are calculated. \t \tIn the second investigation, surface pressure data are acquired from several circumferential rings of pressure ports located on two models undergoing ramp coning motions in two different wind tunnel facilities.  The surface pressure data are integrated to determine the sectional yaw forces.  Coning motions were performed at several different reduced frequencies, and pneumatic control actuation from the nose was employed.  The chosen control actuation method used a small mass flow rate ejected very close to the forebody tip, so as to leverage the inherent convective instability.  The data resulting from these tests were analyzed in order to determine how the coning motions affect the distribution of surface pressure and yaw forces, how quickly the flow reacts to the motion, and the extent of control authority of the pneumatic actuation.  It was discovered that the yaw forces increase in the direction of the motion for small reduced frequencies, but in the direction opposite to the motion for large reduced frequencies.  The effects of the motion tend to dominate the control method, at least for the reduced frequencies and setup tested in the low-speed wind tunnel.  The results from the high-speed testing with transitional separation give a preliminary indication that the control method could have sufficient control authority when the reduced frequencies are low.    \tThe third investigation involves tangent-ogive cylinder undergoing a pitching maneuver in a water tunnel.  Laser-Doppler Velocimetry (LDV) is used in order to map out several planes of velocity data as the model is pitched.  The LDV data is used to calculate vorticity and turbulent kinetic energy.  Variables that are proportional to the flow asymmetry and proximity to the steady-state flow are defined.  All of these variables are displayed as a function of time and space (where appropriate).  The delay in the development of the asymmetry and the flow progression to the steady state are determined to be a function of pitch-axis location.  The propagation velocity of the convective asymmetry is faster than expected, most likely because of the increased axial velocity in the vortex cores.  Vortex breakdown of one of the vortices is observed, with loss of axial velocity and dilution of the vorticity over a large area. The cause of this phenomenon is not yet understood, but it is reminiscent of vortex breakdown over delta wings.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-28T09:00:13Z (GMT). No. of bitstreams: 1 Zeiger_MD_D_2014.pdf: 4654991 bytes, checksum: 0a0c4dabae829201ef01f3f338bb3df3 (MD5)   Previous issue date: 2014-01-27",
+  "format_medium": "ETD",
+  "handle": "25150",
+  "identifier_other": "vt_gsexam:1713",
+  "identifier_uri": "http://hdl.handle.net/10919/25150",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Vortex",
+    "Asymmetry",
+    "Unsteady",
+    "Forebody"
+  ],
+  "title": "The Dynamic Character of the Flow Over a 3.5 Caliber Tangent-Ogive Cylinder in Steady and Maneuvering States at High Incidence",
+  "type": "Dissertation"
+}

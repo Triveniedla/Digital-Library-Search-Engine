@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Arsoy, Aysen",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeecochair": "Ribeiro, Paulo F.",
+  "contributor_committeemember": [
+    "Mili, Lamine M.",
+    "Balci, Osman",
+    "Phadke, Arun G."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:41Z",
+  "date_adate": "2000-04-28",
+  "date_available": "2014-03-14T20:10:41Z",
+  "date_issued": "2000-04-18",
+  "date_rdate": "2006-04-28",
+  "date_sdate": "2000-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Electromagnetic transient and dynamic modeling and simulation studies are presented for a StatCom-SMES compensator in power systems. The transient study aims to better understand the transient process and interaction between a high power/high voltage SMES coil and its power electronics interface, dc-dc chopper. The chopper is used to attach the SMES coil to a StatCom. Following the transient study, the integration of a StatCom with SMES was explored to demonstrate the effectiveness of the combined compensator in damping power oscillations. The transient simulation package PSCAD/EMTDC has been used to perform the integrated modeling and simulation studies. A state of the art review of SMES technology was conducted. Its applications in power systems were discussed chronologically. The cost effective and feasible applications of this technology were identified. Incorporation of a SMES coil into an existing StatCom controller is one of the feasible applications, which can provide improved StatCom operation, and therefore much more flexible and controllable power system operation.  The SMES coil with the following unique design characteristics of 50MW (96 MW peak), 100 MJ, 24 kV interface has been used in this study. As a consequence of the high power/ high voltage interface, special care needs to be taken with overvoltages that can stress the insulation of the coil. This requires an investigation of transient overvoltages through a detailed modeling of SMES and its power electronics interface. The electrical model for the SMES coil was developed based on geometrical dimensions of the coil. The interaction between the SMES coil and its power electronics interface (dc-dc chopper for the integration to StatCom) was modeled and simulated to identify transient overvoltages. Transient suppression schemes were developed to reduce these overvoltages. Among these are MOV implementation, surge capacitors, different configurations of the dc-dc chopper. The integration of the SMES coil to a StatCom controller was developed, and its dynamic behavior in damping oscillations following a three-phase fault was investigated through a number of simulation case studies. The results showed that the addition of energy storage to a StatCom controller can improve the StatCom-alone operation and can possibly reduce the MVA rating requirement for the StatCom operating alone. The effective location selection of a StatCom-SMES controller in a generic power system is also discussed.",
+  "description_provenance": [
+    "Author Email: abasa@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: balci@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: Paulo.F.Ribeiro@mcdermott.com",
+    "Advisor Email: yilu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:41Z (GMT). No. of bitstreams: 1 etd_Aysen.pdf: 1984764 bytes, checksum: 303563f0596c93f1f1f025a9188fdc0e (MD5)   Previous issue date: 2000-04-18"
+  ],
+  "handle": "27225",
+  "identifier_other": "etd-04252000-12070032",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252000-12070032/",
+  "identifier_uri": "http://hdl.handle.net/10919/27225",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd_Aysen.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "dc-dc Chopper",
+    "Transient Analysis",
+    "Superconducting Magnetic Energy Storage (SMES)",
+    "Static Synchronous Compensator (Statcom)",
+    "Oscillation Damping"
+  ],
+  "title": "Electromagnetic Transient and Dynamic Modeling and Simulation of a StatCom-SMES Compensator in Power Systems",
+  "type": "Dissertation"
+}

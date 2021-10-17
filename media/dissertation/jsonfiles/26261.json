@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Tadepalli, Sriram Satish",
+  "contributor_committeechair": "Ramakrishnan, Naren",
+  "contributor_committeemember": [
+    "Zhang, Liqing",
+    "Murali, T. M.",
+    "Helm, Richard Frederick",
+    "Watson, Layne T."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:39Z",
+  "date_adate": "2009-03-12",
+  "date_available": "2014-03-14T20:07:39Z",
+  "date_issued": "2009-01-29",
+  "date_rdate": "2009-03-12",
+  "date_sdate": "2009-02-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Data mining techniques, such as clustering, have become a mainstay in many applications such as bioinformatics, geographic information systems, and marketing. Over the last decade, due to new demands posed by these applications, clustering techniques have been significantly adapted and extended. One such extension is the idea of finding clusters in a dataset that preserve information about some auxiliary variable. These approaches tend to guide the clustering algorithms that are traditionally unsupervised learning techniques with the background knowledge of the auxiliary variable. The auxiliary information could be some prior class label attached to the data samples or it could be the relations between data samples across different datasets. In this dissertation, we consider the latter problem of simultaneously clustering several vector valued datasets by taking into account the relationships between the data samples. We formulate objective functions that can be used to find clusters that are local in each individual dataset and at the same time maximally similar or dissimilar with respect to clusters across datasets. We introduce diverse applications of these clustering algorithms: (1) time series segmentation (2) reconstructing temporal models from time series segmentations (3) simultaneously clustering several datasets according to database schemas using a multi-criteria optimization and (4) clustering datasets with many-many relationships between data samples. For each of the above, we demonstrate applications, including modeling the yeast cell cycle and the yeast metabolic cycle, understanding the temporal relationships between yeast biological processes, and cross-genomic studies involving multiple organisms and multiple stresses. The key contribution is to structure the design of complex clustering algorithms over a database schema in terms of clustering algorithms over the underlying entity sets.",
+  "description_provenance": [
+    "Author Email: stadepal@vt.edu",
+    "Advisor Email: lqzhang@cs.vt.edu",
+    "Advisor Email: murali@cs.vt.edu",
+    "Advisor Email: helmrf@vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:39Z (GMT). No. of bitstreams: 1 thesis.pdf: 8162640 bytes, checksum: 1abc25930272663bcf6aef2787e2997b (MD5)   Previous issue date: 2009-01-29"
+  ],
+  "handle": "26261",
+  "identifier_other": "etd-02202009-080341",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02202009-080341/",
+  "identifier_uri": "http://hdl.handle.net/10919/26261",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bioinformatics",
+    "contingency tables",
+    "Clustering",
+    "multi-criteria optimization",
+    "relational clustering"
+  ],
+  "title": "Schemas of Clustering",
+  "type": "Dissertation"
+}

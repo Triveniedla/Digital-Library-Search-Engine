@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Liu, Xumin",
+  "contributor_committeechair": "Bouguettaya, Athman",
+  "contributor_committeecochair": "Denis Gracanin",
+  "contributor_committeemember": [
+    "Lu, Chang-Tien",
+    "Shawn Bohner",
+    "Reza Barkhi"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:15Z",
+  "date_adate": "2009-09-09",
+  "date_available": "2014-03-14T20:15:15Z",
+  "date_issued": "2009-07-28",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-08-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We propose a framework for managing changes in Long term Composed Services (LCSs). The key components of the proposed framework include a Web Service Change Management Language (SCML), change enactment, and change optimization. The SCML is a formal language to specify top-down changes. It is built upon a formal model which consists of a Web service ontology and a LCS schema. The Web service ontology gives a semantic description on the important features of a service, including functionality, quality, and context. The LCS schema gives a high-level overview of a LCSâ  s key features. A top-down change is specified as the modification of a LCS schema in the first place. Change enactment is the process of reacting to a top-down change. It consists of two subcomponents, including change reaction and change verification. The change reaction component implements the proposed change operators by modifying a LCS schema and the membership of Web services. The change verification component ensures that the correctness of a LCS is maintained during the process of change reaction. We propose a set of algorithms for the processes of change reaction and verification. The change optimization component selects the Web services that participate in a LCS to ensure that the change has been reacted to in the best way. We propose a two-phase optimization process to select services using both service reputation and service quality. We present a change management system that implements the proposed approaches. We also conduct a set of simulations to assess the performance.",
+  "description_provenance": [
+    "Author Email: xuminl@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: sbohner@vt.edu",
+    "Advisor Email: reza@vt.edu",
+    "Advisor Email: athman@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:15Z (GMT). No. of bitstreams: 1 dissertation.pdf: 1716620 bytes, checksum: fcbfb1187fa2126ec3cacfc876c2797c (MD5)   Previous issue date: 2009-07-28"
+  ],
+  "handle": "28672",
+  "identifier_other": "etd-08152009-121019",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08152009-121019/",
+  "identifier_uri": "http://hdl.handle.net/10919/28672",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Change Management",
+    "Top-down",
+    "Ontology",
+    "Long term Composed Services"
+  ],
+  "title": "Change Management of Long Term Composed Services",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Chung, Woo Cheol",
+  "contributor_committeechair": "Ha, Dong Sam",
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "Mishra, Amitabh",
+    "Hsiao, Michael S.",
+    "Armstrong, James R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:14Z",
+  "date_adate": "2006-02-17",
+  "date_available": "2014-03-14T20:07:14Z",
+  "date_issued": "2006-01-27",
+  "date_rdate": "2006-02-17",
+  "date_sdate": "2006-02-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This thesis investigates a new data communication method in high speed integrated circuits using power distribution networks (PDNs). The conventional purpose of PDNs in integrated circuits (ICs) is to deliver power to internal nodes of an IC while meeting a level of power integrity. As the power consumption increases for very large scale integration (VLSI) systems, the number of power/ground pins increases as well. In this thesis, we propose to use PDNs for dual purposes, delivery of power and one-/two-way data communications, which is highly beneficial for pin-limited high performance ICs. To this end, we investigate signaling methods for a microscopic communication channel. Impulse-based ultra wideband (UWB) signaling is selected due to its robustness to noise and wideband characteristics. Next, we study a planar structure IC package based on the cavity resonator model (CRM) as a communication channel. Impedance characteristics of a planar structure IC package and other relevant components of an IC are important, and they are investigated for data transmission over power distribution networks. Another important aspect of the study is data transmission and reception, which we investigate through simulations. Finally, we study one possible application for one way communications, massive parallel scan design, which greatly shortens the testing time at moderate overhead. The performance is measured with eye diagrams and bit error rates (BERs) under the presence of voltage drop, simultaneous switching noise, and thermal noise.",
+  "description_provenance": [
+    "Author Email: woochung@vt.edu, cstpaul@gmail.com",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: mishra@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: jra@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:14Z (GMT). No. of bitstreams: 1 WCC_Dissertation.pdf: 2848723 bytes, checksum: 6b96afc28203d4f4c3086d851c9752da (MD5)   Previous issue date: 2006-01-27"
+  ],
+  "handle": "26152",
+  "identifier_other": "etd-02092006-044244",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02092006-044244/",
+  "identifier_uri": "http://hdl.handle.net/10919/26152",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WCC_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Integrated Circuits",
+    "Power Line Communications",
+    "Power Distribution Networks",
+    "Ultra Wideband"
+  ],
+  "title": "The Dual Use of Power Distribution Networks for Data Communications in High Speed Integrated Circuits",
+  "type": "Dissertation"
+}

@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Bartlett, Justin",
+  "contributor_committeechair": "Godrej, Adil N",
+  "contributor_committeemember": [
+    "Dillaha, Theo A",
+    "Grizzard, Thomas J",
+    "Moglen, Glenn Emery"
+  ],
+  "contributor_department": "Civil and Environmental Engineering",
+  "date_accessioned": "2014-02-18T13:29:20Z",
+  "date_available": "2014-02-18T13:29:20Z",
+  "date_issued": "2013-11-13",
+  "degree_discipline": "Civil Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In anoxic waterbodies, microbes preferentially utilize nitrate as the electron acceptor in the oxidation of organic matter. Given that it does not yield undesirable reaction products or mobilize phosphorus (P) from sediments, biological reduction of nitrate to nitrogen gas, or denitrification, is the preferred pathway for oxidation of organic matter in anoxic environments. The Occoquan Reservoir and Lake Manassas, both constructed impoundments for drinking water supply, are located in northern Virginia, USA. A water reclamation facility (WRF) discharges nitrified waters into one of the Occoquan Reservoir's tributaries, resulting in the indirect potable reuse of reclaimed wastewater. In this study, the water quality modeling software CE-QUAL-W2 was modified to permit the input of spatially-variable denitrification rate coefficients and to link sediment phosphorus releases to the overlying nitrate concentration. The incorporation of spatially variable denitrification rate coefficients yielded marginally improved nitrate predictions in an Occoquan Reservoir water quality model. Simulated denitrification occurred primarily in the reservoir's shallower upstream reaches and was insensitive to the rate coefficient in the reservoir's deepest waters. The P budgets of both the Lake Manassas and Occoquan Reservoir models were strongly impacted by the nitrate/P-release linkage. This linkage improved the timing and magnitude of sediment P releases in the Lake Manassas model, but nitrate predictions in the Occoquan Reservoir model were inadequate for the accurate simulation of P releases. This study also applied a heuristic optimization algorithm to maximize simulated denitrification within the Occoquan Reservoir by adjusting the temporal allocation of WRF nitrate loads. The algorithm found a set of near-optimum solutions that enabled the identification of the optimal loading schedule. The optimized loads yielded a 36% increase in denitrification over historical loads by shifting a greater fraction of the WRF's annual nitrogen load to summer months. Denitrification was more strongly impacted by annual WRF nitrate load reductions than by load increases. Although Occoquan Reservoir denitrification may be increased through adjustment of the WRF loading schedule, it is ultimately governed by the magnitude of the annual nitrate load.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-18T13:29:20Z (GMT). No. of bitstreams: 2 Bartlett_J_D_2013.pdf: 8116599 bytes, checksum: 10a271c00fd3e243fd74e4b1df88ee10 (MD5) Bartlett_J_D_2013_support_1.pdf: 50500 bytes, checksum: 8b8288a400c0f834320d36ed88d7bcaf (MD5)   Previous issue date: 2013-11-13",
+  "format_medium": "ETD",
+  "handle": "25433",
+  "identifier_other": "vt_gsexam:1802",
+  "identifier_uri": "http://hdl.handle.net/10919/25433",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "nitrate",
+    "phosphorus",
+    "heuristic optimization",
+    "water quality",
+    "modeling"
+  ],
+  "title": "Heuristic Optimization of Water Reclamation Facility Nitrate Loads for Enhanced Reservoir Water Quality",
+  "type": "Dissertation"
+}

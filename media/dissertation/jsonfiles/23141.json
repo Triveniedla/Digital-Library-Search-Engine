@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Liu, Tong",
+  "contributor_committeechair": "Orlowski, Mariusz Kriysztof",
+  "contributor_committeemember": [
+    "Tront, Joseph G",
+    "Guido, Louis J",
+    "Heremans, Jean Joseph",
+    "Hudait, Mantu K"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-06-05T08:00:27Z",
+  "date_available": "2013-06-05T08:00:27Z",
+  "date_issued": "2013-06-04",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Emerging memory technologies are being intensively investigated for extending Moore\\'s law in the next decade. The conductive bridge random access memory (CBRAM) is one of the most promising candidates. CBRAM shows unique nanoionics-based filamentary switching mechanism. Compared to flash memory, the advantages of CBRAM include excellent scalability, low power consumption, high OFF-/ON-state resistance ratio, good endurance, and long retention. Besides the nonvolatile memory applications, resistive switching devices implement the function of memristor which is the fourth basic electrical component. This research presents the characterization and modeling of Cu/TaOx/Pt resistive switching devices. Both Cu and oxygen vacancy nanofilaments can conduct current according to the polarity of bias voltage. The volatile resistive switching phenomenon has been observed on Cu/TaOx/delta-Cu/Pt devices and explained by a flux balancing model. The resistive devices are also connected in series and in anti-parallel manner. These circuit elements are tested for chaotic neural circuit. The quantum conduction has been observed in the I-V characteristics of devices, evidencing the metallic contact between the nanofilament and electrodes. The model of filament radial growth has been developed to explain the transient I-V relation and multilevel switching in the metallic contact regime. The electroforming/SET and RESET processes have been simulated according to the mechanism of conductive filament formation and rupture and validated by experimental results. The Joule and Thomson heating effects have also been investigated for the RESET processes.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-05T08:00:27Z (GMT). No. of bitstreams: 2 Liu_T_D_2013.pdf: 3729751 bytes, checksum: 3bec71c8af8020b479f6664b8150d62c (MD5) Liu_T_D_2013_support_1.pdf: 268463 bytes, checksum: 262f8fad9de99932e77e5bde79594238 (MD5)   Previous issue date: 2013-06-04",
+  "format_medium": "ETD",
+  "handle": "23141",
+  "identifier_other": "vt_gsexam:955",
+  "identifier_uri": "http://hdl.handle.net/10919/23141",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "resistive switching",
+    "nonvolatile memory",
+    "volatile switching",
+    "memristor",
+    "conductive filament",
+    "simulation model"
+  ],
+  "title": "Nonvolatile and Volatile Resistive Switching - Characterization, Modeling, Memristive Subcircuits",
+  "type": "Dissertation"
+}

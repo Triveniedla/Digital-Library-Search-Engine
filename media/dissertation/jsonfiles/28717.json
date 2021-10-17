@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Carneiro, Sergio H. S.",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Dowling, Norman E.",
+    "Thangjitham, Surot",
+    "Batra, Romesh C.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:15:24Z",
+  "date_adate": "2000-08-23",
+  "date_available": "2014-03-14T20:15:24Z",
+  "date_issued": "2000-08-15",
+  "date_rdate": "2001-08-23",
+  "date_sdate": "2000-08-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A time-domain model-based crack  diagnostic methodology using vibration data is presented. Most of the damage detection methods proposed to date are based on  modal parameters and are limited by the loss of information caused by  data reduction and  by the implicit assumption of linearity.  The use of time domain information permits the direct inclusion of the nonlinear behavior due to crack opening-closure cycles. In addition, very little information is lost, since no signal processing or parameter identification steps are involved. The proposed method is based  on a continuous model for the transverse vibrations of beams  consisting of partial differential equations of motion with varying coefficients to account for the presence of damage.   In order to provide accurate representation of the structure's behavior over a broader frequency range, a new continuous cracked beam model including shear effects and rotatory inertia is developed using the Hu-Washizu-Barr variational method.  The resulting equations of motion are discretized by a Galerkin method using local B-splines as test functions. The crack is assumed to be either fully open or fully closed, resulting in a bilinear system. The simultaneous identification of crack location and depth is performed by minimizing the norm of the differences between the numerical and experimental time responses  to multiple excitations. Impact, low frequency sinusoidal and Schroeder--phased multisine inputs are investigated as potential excitation methods. The cost function to be minimized presents several local minima that are shown to be related to the  length of the response records. A genetic algorithm is used to overcome the multimodal nature of the objective function. The  methodology is validated  through simulated identifications of several damage scenarios. The importance of the inclusion of the nonlinear behavior is addressed, and the effects of model uncertainties and measurement noise are quantified in terms of minimum identifiable crack size.",
+  "description_provenance": [
+    "Author Email: scarneir@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: ndowling@vt.edu",
+    "Advisor Email: thangjithan@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:24Z (GMT). No. of bitstreams: 1 etdshsc.pdf: 2254703 bytes, checksum: fe19957c0fde622dddb6e7899711e586 (MD5)   Previous issue date: 2000-08-15"
+  ],
+  "handle": "28717",
+  "identifier_other": "etd-08192000-16520042",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08192000-16520042/",
+  "identifier_uri": "http://hdl.handle.net/10919/28717",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etdshsc.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Damage Detection",
+    "Genetic Algorithms",
+    "Cracked Beams",
+    "Vibrations"
+  ],
+  "title": "Model-Based Vibration Diagnostic of Cracked Beams in the Time Domain",
+  "type": "Dissertation"
+}

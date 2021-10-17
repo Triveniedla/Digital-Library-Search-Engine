@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Iskander, Yousef Shafik",
+  "contributor_committeechair": "Patterson, Cameron D",
+  "contributor_committeemember": [
+    "Plassmann, Paul D.",
+    "Riad, Sedki Mohamed",
+    "Burdisso, Ricardo A.",
+    "Martin, Thomas L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:24Z",
+  "date_adate": "2012-09-11",
+  "date_available": "2014-03-14T20:15:24Z",
+  "date_issued": "2012-08-06",
+  "date_rdate": "2012-11-13",
+  "date_sdate": "2012-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Design validation is the most time-consuming task in the FPGA design cycle. Although manufacturers and third-party vendors offer a range of tools that provide different perspectives of a design, many require that the design be fully re-implemented for even simple parameter modifications or do not allow the design to be run at full speed. Designs are typically first modeled using a high-level language then later rewritten in a hardware description language, first for simulation and then later modified for synthesis. IP and third-party cores may differ during these final two stages complicating development and validation. The developed approach provides two means of directly validating synthesized hardware designs. The first allows the original high-level model written in C or C++ to be directly coupled to the synthesized hardware, abstracting away the traditional gate-level view of designs. A high-level programmatic interface allows the synthesized design to be validated with the same arbitrary test data on the same framework as the hardware. The second approach provides an alternative view to FPGAs within the scope of a traditional software debugger. This debug framework leverages partially reconfigurable regions to accelerate the modification of dynamic, software-like breakpoints for low-level analysis and provides a automatable, scriptable, command-line interface directly to a running design on an FPGA.",
+  "description_provenance": [
+    "Author Email: yiskande@vt.edu",
+    "Advisor Email: pep3@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:24Z (GMT). No. of bitstreams: 1 Iskander_YS_D_2012.pdf: 1976733 bytes, checksum: f1ae5ca72375f701d54f99e31468646f (MD5)   Previous issue date: 2012-08-06"
+  ],
+  "handle": "28716",
+  "identifier_other": "etd-08182012-001148",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182012-001148/",
+  "identifier_uri": "http://hdl.handle.net/10919/28716",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Iskander_YS_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "partial reconfiguration",
+    "reconfigurable computing",
+    "FPGA",
+    "development",
+    "debug",
+    "design validation"
+  ],
+  "title": "Improved Abstractions and Turnaround Time for FPGA Design Validation and Debug",
+  "type": "Dissertation"
+}

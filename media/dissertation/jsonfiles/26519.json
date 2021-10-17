@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Varma, Krishnaraj M",
+  "contributor_committeechair": "Bell, Amy E.",
+  "contributor_committeemember": [
+    "Beex, A. A. Louis",
+    "Wyatt, Christopher L.",
+    "Poon, Ting-Chung",
+    "Ehrich, Roger W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:32Z",
+  "date_adate": "2006-04-11",
+  "date_available": "2014-03-14T20:08:32Z",
+  "date_issued": "2006-03-17",
+  "date_rdate": "2006-04-11",
+  "date_sdate": "2006-03-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "JPEG2000 is a wavelet transform based image compression and coding standard.  It provides superior rate-distortion performance when compared to the previous JPEG standard.  In addition JPEG2000 provides four dimensions of scalability-distortion, resolution, spatial, and color.  These superior features make JPEG2000 ideal for use in power and bandwidth limited mobile applications like urban search and rescue.  Such applications require a fast, low power JPEG2000 encoder to be embedded on the mobile agent.  This embedded encoder needs to also provide superior subjective quality to low bitrate images.  This research addresses these two aspects of enhancing the performance of JPEG2000 encoders.  The JPEG2000 standard includes a perceptual weighting method based on the contrast sensitivity function (CSF). Recent literature shows that perceptual methods based on subband standard deviation are also effective in image compression. This research presents two new perceptual weighting methods that combine information from both the human contrast sensitivity function as well as the standard deviation within a subband or code-block. These two new sets of perceptual weights are compared to the JPEG2000 CSF weights. The results indicate that our new weights performed better than the JPEG2000 CSF weights for high frequency images. Weights based solely on subband standard deviation are shown to perform worse than JPEG2000 CSF weights for all images at all compression ratios.  Embedded block coding, EBCOT tier-1, is the most computationally intensive part of the JPEG2000 image coding standard.  Past research on fast EBCOT tier-1 hardware implementations has concentrated on cycle efficient context formation.  These pass-parallel architectures require that JPEG2000's three mode switches be turned on.  While turning on the mode switches allows for arithmetic encoding from each coding pass to run independent of each other (and thus in parallel), it also disrupts the probability estimation engine of the arithmetic encoder, thus sacrificing coding efficiency for improved throughput.  In this research a new fast EBCOT tier-1 design is presented: it is called the Split Arithmetic Encoder (SAE) process.  The proposed process exploits concurrency to obtain improved throughput while preserving coding efficiency.  The SAE process is evaluated using three methods: clock cycle estimation, multithreaded software implementation, a field programmable gate array (FPGA) hardware implementation.  All three methods achieve throughput improvement; the hardware implementation exhibits the largest speedup, as expected.  A high speed, task-parallel, multithreaded, software architecture for EBCOT tier-1 based on the SAE process is proposed.  SAE was implemented in software on two shared-memory architectures: a PC using hyperthreading and a multi-processor non-uniform memory access (NUMA) machine.  The implementation adopts appropriate synchronization mechanisms that preserve the algorithm's causality constraints.  Tests show that the new architecture is capable of improving throughput as much as 50% on the NUMA machine and as much as 19% on a PC with two virtual processing units.  A high speed, multirate, FPGA implementation of the SAE process is also proposed.  The mismatch between the rate of production of data by the context formation (CF) module and the rate of consumption of data by the arithmetic encoder (AE) module is studied in detail.  Appropriate choices for FIFO sizes and FIFO write and read capabilities are made based on the statistics obtained from test runs of the algorithm.  Using a fast CF module, this implementation was able to achieve as much as 120% improvement in throughput.",
+  "description_provenance": [
+    "Author Email: kvarma@vt.edu",
+    "Advisor Email: abell@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: clwyatt@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Advisor Email: rehrich@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:32Z (GMT). No. of bitstreams: 1 kvarma_Dissertation_2006.pdf: 874440 bytes, checksum: 955c2079185dbab27f04c7b57e3491d4 (MD5)   Previous issue date: 2006-03-17"
+  ],
+  "handle": "26519",
+  "identifier_other": "etd-03272006-120450",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03272006-120450/",
+  "identifier_uri": "http://hdl.handle.net/10919/26519",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "kvarma_Dissertation_2006.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "FPGA hardware",
+    "Multithreaded software",
+    "Split Arithmetic Encoder",
+    "EBCOT",
+    "JPEG2000",
+    "Perceptual weighting"
+  ],
+  "title": "Fast Split Arithmetic Encoder Architectures and Perceptual Coding Methods for Enhanced JPEG2000 Performance",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Adamczyk, Leslie Ann",
+  "contributor_committeechair": "Anderson, Mark R.",
+  "contributor_committeecochair": "Morris, John R.",
+  "contributor_committeemember": [
+    "Brewer, Karen J.",
+    "Long, Gary L.",
+    "Tanko, James M."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:12:56Z",
+  "date_adate": "2009-06-29",
+  "date_available": "2014-03-14T20:12:56Z",
+  "date_issued": "2009-05-28",
+  "date_rdate": "2011-09-05",
+  "date_sdate": "2009-06-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation describes the impact of defects on monolayer properties for self-assembled monolayers (SAMs) created by interfacial patterning methods.  When forming a two-dimensional interfacial pattern with n-alkanethiols on gold, the desired electrochemical properties are those of a homogeneous, solution adsorbed monolayer.  However, even well-ordered SAMs contain a small degree of defects, especially at domain boundaries where two nucleating domains converge.  Patterning a surface creates user-defined domain boundaries within the monolayer, potentially having a significant impact on the properties of the interface.  This dissertation investigates the effect that user-created domain boundaries have on the properties of a monolayer, as studied by electrochemical impedance spectroscopy. <p>  Two patterning methods are investigated for creating user-defined domain boundaries: the soft lithography method of contact printing and site-selective reductive desorption.  The electrochemical properties of homogeneous contact printed monolayers are measured and compared to those of monolayers prepared by solution adsorption.  The contact printed monolayers are found to have dramatically different impedance behavior from the solution prepared monolayers, consistent with the contact printed monolayers having greater defect density.  In addition, these studies show that the overall defect density depends on the concentration of the solutions used for contact printing. <p>  In this work, simple patterns are created by contact printing a pattern onto the substrate and then backfilling the remaining gold substrate by solution adsorption.  Backfilling with the same alkanethiol used to create the pattern generates a homogeneous monolayer; however, it is found that the contact printed/backfilled monolayer has an impedance intermediate between the homogeneous contact printed and the homogeneous solution adsorbed monolayer.  This result suggests that the backfilling process also saturates the pinhole defects associated with the contact printed areas.  In addition to exploring defects that arise from contact printing, simple patterns with user-defined defects, created by site-selective reductive desorption (SSRD), were also investigated.  Following the backfill step, the impedance behavior of the SSRD produced patterns was similar to that of the impedance of the initial pattern before backfilling.  This important result implies that the domain boundaries play the most important role in defining the overall impedance of the patterned interface.",
+  "description_provenance": [
+    "Author Email: ladamczy@vt.edu",
+    "Advisor Email: mark.anderson@ucdenver.edu",
+    "Advisor Email: jrmorris@vt.edu",
+    "Advisor Email: kbrewer@vt.edu",
+    "Advisor Email: long@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:56Z (GMT). No. of bitstreams: 1 LAA_ETD_Final2.pdf: 2316212 bytes, checksum: df7ff767f8af17e8b244bcd0f21a030f (MD5)   Previous issue date: 2009-05-28"
+  ],
+  "handle": "28018",
+  "identifier_other": "etd-06112009-161515",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06112009-161515/",
+  "identifier_uri": "http://hdl.handle.net/10919/28018",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LAA_ETD_Final2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "electrochemical impedance spectroscopy",
+    "contact printing",
+    "electrochemistry",
+    "self-assembled monolayers",
+    "defects",
+    "patterns"
+  ],
+  "title": "Understanding the Structure and Properties of Self-Assembled Monolayers for Interfacial Patterning",
+  "type": "Dissertation"
+}

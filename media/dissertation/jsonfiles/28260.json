@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Smith, Miriam E",
+  "contributor_committeechair": "Filz, George M.",
+  "contributor_committeemember": [
+    "Lesko, John Jack",
+    "Dove, Joseph E.",
+    "Gutierrez, Marte S.",
+    "Brandon, Thomas L."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:52Z",
+  "date_adate": "2005-08-04",
+  "date_available": "2014-03-14T20:13:52Z",
+  "date_issued": "2005-07-08",
+  "date_rdate": "2005-08-04",
+  "date_sdate": "2005-07-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Column-supported geosynthetic-reinforced embankments have great potential for application in soft ground conditions when there is a need to accelerate construction and/or protect adjacent facilities from the settlement that would otherwise be induced by the new embankment load.  The columns in column-supported embankments can be driven piles, vibro-concrete columns, deep-mixing-method columns, stone columns, or any other suitable type of column.  A bridging layer consisting of several feet of sand or sand and gravel is also used to help transfer the embankment load to the columns. Geosynthetic reinforcement is often employed in bridging layers to enhance load transfer to the columns and increase the spacing between columns.  Several methods have been developed to calculate the load on the geosynthetic reinforcement, but the calculated loads differ by over an order of magnitude in some cases, and there is not agreement on which method is correct.  In this research, a new method was developed for calculating the load on the geosynthetic reinforcement.  The new method employs one of the existing mechanistically-based approaches, and combines it with consideration of the stiffnesses of the embankment, geosynthetic, column, and subgrade soil.  The new method was verified against the results of a large numerical parameter study, for which the numerical procedures themselves were verified against closed-form solutions for membranes, pilot-scale experiments, and instrumented field case histories.  The results of the numerical analyses and the new calculation procedure indicate that the net vertical load on the portion of the geosynthetic reinforcement between columns increases with increasing clear spacing between columns and increasing geosynthetic stiffness.  The net vertical load on the geosynthetic decreases with increasing stiffness and strength of the foundation and embankment soils and with increasing elevation of the geosynthetic above the top of the columns or pile caps.  A key finding of the research is that, if the subgrade support is good, geosynthetic reinforcement does not have a significant effect on system performance.  The new calculation procedure is implemented in an easy-to-use spreadsheet, and recommendations for designing geosynthetic-reinforced bridging layers are provided.",
+  "description_provenance": [
+    "Author Email: mismit17@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: jodove@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: tbrandon@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:52Z (GMT). No. of bitstreams: 2 02_Smith_Dissertation.pdf: 3083912 bytes, checksum: 72dc9e181928ab9d7f084da0612f19ed (MD5) 01_Smith_title.pdf: 104946 bytes, checksum: 882ea0a9543faacd617c1f6a7ec02e98 (MD5)   Previous issue date: 2005-07-08"
+  ],
+  "handle": "28260",
+  "identifier_other": "etd-07112005-165338",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07112005-165338/",
+  "identifier_uri": "http://hdl.handle.net/10919/28260",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "02_Smith_Dissertation.pdf",
+    "01_Smith_title.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bridging layer",
+    "numerical analyses",
+    "geosynthetic reinforcement",
+    "case history"
+  ],
+  "title": "Design of Bridging Layers in Geosynthetic-Reinforced  Column-Supported Embankments",
+  "type": "Dissertation"
+}

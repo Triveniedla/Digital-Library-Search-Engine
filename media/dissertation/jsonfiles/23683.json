@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Woodworth, Michael Allen",
+  "contributor_committeechair": [
+    "Sotelino, Elisa D",
+    "Wright, William J"
+  ],
+  "contributor_committeemember": [
+    "Roberts-Wollmann, Carin L",
+    "Lattimer, Brian Y"
+  ],
+  "contributor_department": "Civil and Environmental Engineering",
+  "date_accessioned": "2013-08-03T08:00:45Z",
+  "date_available": "2013-08-03T08:00:45Z",
+  "date_issued": "2013-08-02",
+  "degree_discipline": "Civil Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Bridges are critical pieces of infrastructure important to public safety and welfare. Fires have the potential to damage bridges and have been responsible for taking many bridges out of service. The hazard fire poses to bridges is a little studied risk unlike more common threats such as impact, scour and earthquake. Information on the rate of occurrence of bridge fires and the mechanisms of structural response of bridges subjected to fire are both vital to policy makers seeking to address the hazard rationally.<br />The investigation presented developed frequency statistics of bridge fire incidents from several sources of vehicle accident and fire statistics. To further investigate the fire hazard a computational model integrating the simulation of large fires and the simulation of bridge superstructure mechanical response was created. The simulation was used to perform a parametric study of fire size and location to investigate the relationship between these parameters and damage tot bridge super-\"\"structure. The statistics investigation resulted in an observed rate of fires due to vehicle accidents of approximately 175 per year. Approximately one of these per year was the result of a tanker truck carrying a flammable liquid leading to extensive superstructure damage. The simulation showed that a tanker fire resulted in permanent damage to the bridge by several measures where as the affects of a bus fire were minimal. The simulations also demonstrated the mechanisms of bridge response; the importance of girder temperature in that response; and the differences in the response to a tanker fire that can lead to collapse.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-03T08:00:45Z (GMT). No. of bitstreams: 3 Woodworth_MA_D_2013.pdf: 32791943 bytes, checksum: bb848fbea80b0547453d0013ea044518 (MD5) Woodworth_MA_D_2013_support_1.pdf: 139089 bytes, checksum: 6a6239a90010f4c4157a274c777b3a88 (MD5) Woodworth_MA_D_2013_support_3.zip: 1809866 bytes, checksum: 26264e949dd180073b5b8376d37e6426 (MD5)   Previous issue date: 2013-08-02",
+  "format_medium": "ETD",
+  "handle": "23683",
+  "identifier_other": "vt_gsexam:1360",
+  "identifier_uri": "http://hdl.handle.net/10919/23683",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Bridge",
+    "Fire",
+    "Girder",
+    "Accidents",
+    "Statistics",
+    "ABAQUS",
+    "FDS"
+  ],
+  "title": "Fire Hazard Assessment for Highway Bridges with Thermal Mechanical Modeling",
+  "type": "Dissertation"
+}

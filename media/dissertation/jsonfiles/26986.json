@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Astalos, Robert Joseph",
+  "contributor_committeechair": "Zia, Royce K. P.",
+  "contributor_committeemember": [
+    "Tauber, Uwe C.",
+    "Schmittmann, Beate",
+    "Indebetouw, Guy J.",
+    "Hagedorn, George A."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:10:01Z",
+  "date_adate": "2001-04-20",
+  "date_available": "2014-03-14T20:10:01Z",
+  "date_issued": "2001-04-17",
+  "date_rdate": "2002-04-20",
+  "date_sdate": "2001-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Using Monte Carlo simulations and analytic methods, we examine the dynamics of interspecies competition using the Penna bit-string model. We begin with a study of the steady state with a single species, then proceed to the dynamics of competition between two species. When the species are not evenly matched in fitness, a simple differential equation provides a satisfactory model of the behavior of the system. However, when the species are equally fit, we show that a model, originally proposed to describe population genetics [Fisher,Wright], is required. When mutations are allowed between the competing species, the dynamics becomes more interesting. The mutation rate becomes a parameter that dictates the steady state behavior. If the two species are not equally fit, the value of the mutation rate determines whether the longer-lived or faster reproducing species is favored. With two species that are equally fit, the steady state varies with mutation rate from a single peaked to a double peaked distribution. This behavior is shown to be well described by an extension to the Fisher-Wright model mentioned above. Finally, we describe the preliminary results of a few new lines of investigation, and suggest ideas for further study of the dynamics of this model.  Please use Adobe Acrobat Reader version 4.0 or later to view this document.",
+  "description_provenance": [
+    "Author Email: rastalos@blacksburg.net",
+    "Advisor Email: tauber@vt.edu",
+    "Advisor Email: schmittm@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Advisor Email: rkpzia@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:01Z (GMT). No. of bitstreams: 5 Mu01DiffN.avi: 239104 bytes, checksum: bef8bf20e45a128fde789446de8082f4 (MD5) NoMutEqualN.avi: 489472 bytes, checksum: 15a7d6535857c70c9d7f57dd30df5372 (MD5) thesis.pdf: 30101436 bytes, checksum: 6db6744c17bc11526b376010d771a138 (MD5) Mu1DiffN.avi: 281088 bytes, checksum: 4b683cb058e004230d97c1a83fd4c9bb (MD5) NoMutDiffN.avi: 330240 bytes, checksum: c31e3368ae2275d6d77d6114e9cf97c4 (MD5)   Previous issue date: 2001-04-17"
+  ],
+  "handle": "26986",
+  "identifier_other": "etd-04192001-141911",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192001-141911/",
+  "identifier_uri": "http://hdl.handle.net/10919/26986",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Mu01DiffN.avi",
+    "NoMutEqualN.avi",
+    "thesis.pdf",
+    "Mu1DiffN.avi",
+    "NoMutDiffN.avi"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bit-string Model",
+    "Age Structure",
+    "Monte Carlo",
+    "Interspecies Competition"
+  ],
+  "title": "Dynamics of Competition using a Bit String Model with Age Structure and Mutations",
+  "type": "Dissertation"
+}

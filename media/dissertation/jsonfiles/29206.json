@@ -1,0 +1,47 @@
+{
+  "contributor_author": "de León Izeppi, Edgar",
+  "contributor_committeechair": "Flintsch, Gerardo W.",
+  "contributor_committeemember": [
+    "Al-Qadi, Imadeddin L.",
+    "Loulizi, Amara",
+    "Abbott, A. Lynn",
+    "Teodorovic, Dusan"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:17:07Z",
+  "date_adate": "2006-11-06",
+  "date_available": "2014-03-14T20:17:07Z",
+  "date_issued": "2006-09-21",
+  "date_rdate": "2006-11-06",
+  "date_sdate": "2006-10-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Segregation, or non-uniformity, in Hot Mix Asphalt (HMA) induces accelerated pavement distress(es) that can reduce a pavement's service life up to 50%. Quality Assurance procedures should detect and quantify the presence of this problem in newly constructed pavements. Current practices are usually based on visual inspections that identify non-uniform surface texture areas. An automatic process that reduces subjectivity would improve the quality-assurance procedures of HMA pavements.</p><p> Virginia has undertaken a focused research effort to improve the uniformity of hot-mix asphalt (HMA) pavements. A method using a dynamic (laser-based) surface macrotexture instrument showed great promise, but it revealed that it may actually miss significant segregated areas because they only measure very thin longitudinal lines. The main objective of this research is to develop a non-contact system for the detection of segregated HMA areas and for the identification of the locations of these areas along a road for HMA quality assurance purposes.</p><p> The developed system uses relatively low cost components and innovative image processing and analysis software. It computes the gray level co-occurrence matrix (GLCM) of images of newly constructed pavements to find various parameters that are commonly used in visual texture analysis. Using principal component analysis to integrate multivariable data into a single classifier, Hotelling's T2 statistic, the system then creates a list of the location of possible nonuniformities that require closer inspection.</p><p> Field evaluations of the system at the Virginia Smart Road proved that it is capable of discriminating between different pavement surfaces. Verification of the system was conducted through a series of field tests to evaluate the uniformity of newly constructed pavements. A total of 18 continuous road segments of recently paved roads were tested and analyzed with the system. Tables and plots to be used by inspection personnel in the field were developed. The results of these field tests confirmed the capability of the system to detect potential nonuniformities of recently completed pavements. The system proved its potential as a useful tool in the final inspection process.</p>",
+  "description_provenance": [
+    "Author Email: edeleoni@vt.edu",
+    "Advisor Email: alqadi@ad.uiuc.edu",
+    "Advisor Email: amlouliz@vt.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:07Z (GMT). No. of bitstreams: 1  Diss_EDL.pdf: 6072662 bytes, checksum: cd1866f2cdc318ef6543870c5889af77 (MD5)    Previous issue date: 2006-09-21"
+  ],
+  "handle": "29206",
+  "identifier_other": "etd-10062006-011435",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10062006-011435/",
+  "identifier_uri": "http://hdl.handle.net/10919/29206",
+  "language_iso": "en_US",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Diss_EDL.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below. I certify that the version I submitted is the same as that approved by my advisory committee. I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known. I retain all other ownership rights to the copyright of the thesis, dissertation or project report. I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Macro-texture",
+    "Hot-mix asphalt",
+    "Digital imaging",
+    "Segregation",
+    "Quality assurance"
+  ],
+  "title": "Non-contact Methods for Detecting Hot-mix Asphalt Nonuniformity",
+  "type": "Dissertation"
+}

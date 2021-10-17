@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Deshpande, Shubhangi Govind",
+  "contributor_committeechair": [
+    "Watson, Layne T.",
+    "Canfield, Robert Arthur"
+  ],
+  "contributor_committeemember": [
+    "Fox, Edward A.",
+    "North, Christopher L.",
+    "Ramakrishnan, Narendran",
+    "Kolonay, Raymond M."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-01-24T09:00:42Z",
+  "date_available": "2014-01-24T09:00:42Z",
+  "date_issued": "2014-01-23",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Today's modern   aerospace systems exhibit strong interdisciplinary coupling and require a   multidisciplinary, collaborative approach. Analysis methods that were once   considered feasible only for advanced and detailed design are now available and   even practical at the conceptual design stage. This changing philosophy for   conducting conceptual design poses additional challenges beyond those   encountered in a low fidelity design of aircraft. This thesis takes some steps   towards bridging the gaps in existing technologies and advancing the   state-of-the-art in aircraft design.     The first part of the thesis proposes a new Pareto front approximation method   for multiobjective optimization problems. The method employs a hybrid   optimization approach using two derivative free direct search techniques, and   is intended for solving blackbox simulation based multiobjective optimization   problems with possibly nonsmooth functions where the analytical form of the   objectives is not known and/or the evaluation of the objective function(s) is   very expensive (very common in multidisciplinary design optimization). A new   adaptive weighting scheme is proposed to convert a multiobjective optimization   problem to a single objective optimization problem. Results show that the   method achieves an arbitrarily close approximation to the Pareto front with a   good collection of well-distributed nondominated points.     The second part deals with the interdisciplinary data communication issues   involved in a collaborative mutidisciplinary aircraft design environment.   Efficient transfer, sharing, and manipulation of design and analysis data in a   collaborative environment demands a formal structured representation of data.   XML, a W3C recommendation, is one such standard concomitant with a number of   powerful capabilities that alleviate interoperability issues. A compact,   generic, and comprehensive XML schema for an aircraft design markup language   (ADML) is proposed here to provide a common language for data communication,   and to improve efficiency and productivity within a multidisciplinary,   collaborative environment. An important feature of the proposed schema is   the very expressive and efficient low level schemata. As a proof of concept   the schema is used to encode an entire Convair B58. As the complexity of models   and number of disciplines increases, the reduction in effort to exchange data   models and analysis results in ADML also increases.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-24T09:00:42Z (GMT). No. of bitstreams: 3  Deshpande_SG_D_2014.pdf: 2631563 bytes, checksum: ca1042299cdb476db6dd90bcd25236a4 (MD5)  Deshpande_SG_D_2014_support_3.xml: 22305 bytes, checksum: e341ab6e7f4a2898a6a02a8734b01134 (MD5)  Deshpande_SG_D_2014_support_4.pl: 3228 bytes, checksum: b45e821c26e7c6e05a244b6a25e25cf7 (MD5)    Previous issue date: 2014-01-23",
+  "format_medium": "ETD",
+  "handle": "25142",
+  "identifier_other": "vt_gsexam:2103",
+  "identifier_uri": "http://hdl.handle.net/10919/25142",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Multiobjective optimization",
+    "Pareto optimality",
+    "direct search  method",
+    "surrogates",
+    "adaptive scalarization",
+    "Delaunay triangulation",
+    "multidisciplinary aircraft design",
+    "markup language",
+    "XML schema."
+  ],
+  "title": "Advances in aircraft design: multiobjective optimization and a markup language",
+  "type": "Dissertation"
+}

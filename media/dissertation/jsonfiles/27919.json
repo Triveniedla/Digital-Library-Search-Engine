@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Marineau, Eric Christian",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Vick, Brian L.",
+    "Barnwell, Richard W.",
+    "Devenport, William J.",
+    "Neel, Reece E."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:12:39Z",
+  "date_adate": "2007-06-08",
+  "date_available": "2014-03-14T20:12:39Z",
+  "date_issued": "2007-05-10",
+  "date_rdate": "2010-10-07",
+  "date_sdate": "2007-05-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> This research concerns the development and validation of simulation of the beam-target interaction to determine the target temperature distribution as a function of time for a given target geometry, surface radiation intensity and free stream flow condition. The effect of a turbulent supersonic flow was investigated both numerically and experimentally. </p><p>Experiments were in the Virginia Tech supersonic wind tunnel with a Mach 4 nozzle, ambient total temperature, total pressure of 160 psi and Reynolds number of 5 &#215; 10E7/m . The target consisted of a 6.35 mm stainless steel plate painted flat black. The target was irradiated with a 300 Watt continuous beam Ytterbium fiber laser generating a 4 mm Gaussian beam at 1.08 micron 10 cm from the leading edge where a 4 mm turbulent boundary layer prevailed. An absorbed laser power of 65, 81, 101, 120 Watts was used leading to a maximum heat flux between 1035 to 1910 W/cm^2. The target surface and backside temperature was measured using a mid-wave infrared camera. The backside temperature was also measured using eight type-K thermocouples. </p><p>Two tests are made, one with the flow-on and the other with the flow-off. For the flow-on case, the laser is turned on after the tunnel starts and the flow reaches a steady state. For the flow-off case, the plate is heated at the same power but without the supersonic flow. The cooling effect is seen by subtracting the flow-off temperature from the flow-on temperature. This temperature subtraction is useful in cancelling the bias errors such that the overall uncertainty is significantly reduced. </p><p>A new conjugate heat transfer algorithm was implemented in the GASP solver and validated by predicting the temperature distribution inside a cooled nozzle wall. The conjugate heat transfer algorithm was used to simulate the experiments at 81 and 65 Watts. Most computations were performed using the Spalart-Allmaras turbulence model on a 280, 320 cell grid. A grid convergence study was performed. </p><p>At 65 Watts, good agreement was found in the predicted surface and backside temperature. On the surface, cooling was underpredicted close to the center and better agreement was seen away form the center. On the backside, good agreement was found for the temperature and temperature difference. Compared to the 65 Watt case, the 81 Watt case displays more asymmetry and a region of increased cooling is found upstream. The increased asymmetry was also seen on the backside by both the thermocouple and infrared temperature measurements. The computation underpredicts the surface temperature by 7% for the flow-off case. Again, cooling is underpredicted at the surface near the center. For all power settings, convective cooling significantly increases the time required to reach a given temperature.",
+  "description_provenance": [
+    "Author Email: ermara@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: rbarnwel@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: neel@aerosft.com",
+    "Made available in DSpace on 2014-03-14T20:12:39Z (GMT). No. of bitstreams: 1 DissertationEricMarineau.pdf: 32861822 bytes, checksum: 0df44ffe92c7748e6e1f156aace6ddbd (MD5)   Previous issue date: 2007-05-10"
+  ],
+  "handle": "27919",
+  "identifier_other": "etd-05302007-180850",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05302007-180850/",
+  "identifier_uri": "http://hdl.handle.net/10919/27919",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationEricMarineau.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "computational fluid dynamics (CFD)",
+    "experimental fluid"
+  ],
+  "title": "Computational and Experimental Investigation of Supersonic Convection over a Laser Heated Target",
+  "type": "Dissertation"
+}

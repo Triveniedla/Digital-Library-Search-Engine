@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Lux, Matthew William",
+  "contributor_committeechair": "Peccoud, Jean",
+  "contributor_committeemember": [
+    "Tyler, Brett M",
+    "Tyson, John J",
+    "Baumann, William T"
+  ],
+  "contributor_department": "Animal and Poultry Sciences",
+  "date_accessioned": "2013-05-24T08:00:39Z",
+  "date_available": "2013-05-24T08:00:39Z",
+  "date_issued": "2013-05-23",
+  "degree_discipline": "Genetics, Bioinformatics, and Computational Biology",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Synthetic biology endeavors to forward engineer genetic circuits with novel function. A major inspiration for the field has been the enormous success in the engineering of digital electronic circuits over the past half century. This dissertation approaches synthetic biology from the perspective of the engineering design cycle, a concept ubiquitous across many engineering disciplines. First, an analysis of the state of the engineering design cycle in synthetic biology is presented, pointing out the most limiting challenges currently facing the field. Second, a principle commonly used in electronics to weigh the tradeoffs between hardware and software implementations of a function, called co-design, is applied to synthetic biology. Designs to implement a specific logical function in three distinct domains are proposed and their pros and cons weighed. Third, automatic transitioning between an abstract design, its physical implementation, and accurate models of the corresponding system are critical for success in synthetic biology. We present a framework for accomplishing this task and demonstrate how it can be used to explore a design space. A major limitation of the aforementioned approach is that adequate parameter values for the performance of genetic components do not yet exist. Thus far, it has not been possible to uniquely attribute the function of a device to the function of the individual components in a way that enables accurate prediction of the function of new devices assembled from the same components. This lack presents a major challenge to rapid progression through the design cycle. We address this challenge by first collecting high time-resolution fluorescence trajectories of individual cells expressing a fluorescent protein, as well as snapshots of the number of corresponding mRNA molecules per cell. We then leverage the information embedded in the cell-cell variability of the population to extract parameter values for a stochastic model of gene expression more complex than typically used. Such analysis opens the door for models of genetic components that can more reliably predict the function of new combinations of these basic components.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-24T08:00:39Z (GMT). No. of bitstreams: 2  Lux_MW_D_2013.pdf: 4458046 bytes, checksum: b063c3bc10d91a39333d1a751546cd67 (MD5)  Lux_MW_D_2013_support_1.pdf: 488002 bytes, checksum: 608edea0be0150c9d36383f3b4e88bc3 (MD5)    Previous issue date: 2013-05-23",
+  "format_medium": "ETD",
+  "handle": "23082",
+  "identifier_other": "vt_gsexam:848",
+  "identifier_uri": "http://hdl.handle.net/10919/23082",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "synthetic biology",
+    "computational modeling",
+    "parameter estimation",
+    "systems biology"
+  ],
+  "title": "Estimation of gene network parameters from imaging cytometry data",
+  "type": "Dissertation"
+}

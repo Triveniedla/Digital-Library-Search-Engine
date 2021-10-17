@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Kim, Jong-Kook",
+  "contributor_committeechair": "Stolen, Roger Hall",
+  "contributor_committeecochair": "Safaai-Jazi, Ahmad",
+  "contributor_committeemember": [
+    "Besieris, Ioannis M.",
+    "Ha, Dong Sam",
+    "Poon, Ting-Chung",
+    "Heflin, James R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:54Z",
+  "date_adate": "2005-08-23",
+  "date_available": "2014-03-14T20:14:54Z",
+  "date_issued": "2005-07-28",
+  "date_rdate": "2005-08-23",
+  "date_sdate": "2005-08-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Nonlinear fiber devices have been attracting considerable attention in recent years, due to their inherent ultrafast response time and potential applications in optical communication systems. They usually require long fibers to generate sufficient nonlinear phase shifts, since nonlinearities of conventional silica-core silica-clad fibers are too low. These long devices, however, cause the serious problems of pulse walk-off, pulse broadening, and polarization fluctuation which are major limiting factors for response time, switching bandwidth, and maximum transmittable bit-rate. Therefore, short device length is indispensable for achieving ultrafast switching and higher bit-rate data transmission.       To shorten the required device length, fiber nonlinearities should be increased. In this dissertation, as a way of increasing fiber nonlinearities, high-nonlinearity materials of Litharge, Bismite, Tellurite, and Chalcogenide glasses have been considered. Although they have high nonlinearities, they also have high group-velocity dispersion and high losses deteriorating the performance of nonlinear fiber devices seriously. The aim of this work is to investigate how these high-nonlinearity glasses affect the performance of nonlinear fiber devices, taking into consideration both the advantages and disadvantages. To achieve it, the critical properties of various nonlinear fiber devices constructed with the different types of high-nonlinearity glasses and different types of fibers have been evaluated.        It turned out that the required device lengths of nonlinear fiber devices constructed with the high-nonlinearity glasses were significantly reduced and high group-velocity dispersions and losses could not be major problems due to the extremely short device length. As a result, it would be possible to suppress the problems of pulse walk-off, pulse broadening, and polarization fluctuation in nonlinear fiber devices by introducing high-nonlinearity glasses, thus enabling ultrafast switching and higher bit-rate data transmission.      Furthermore, in this dissertation, a new scheme of wavelength-division demultiplexing based on the optical Kerr effect has been proposed for the first time. The new scheme can turn the disadvantage of the extremely high group-velocity dispersion of high-nonlinearity glasses into an advantage of wavelength-division demultiplexing. Finally, it now would be possible to greatly increase maximum transmittable bit-rate in optical communication systems by simultaneously demultiplexing optical time-division-multiplexed signals and wavelength-division-multiplexed signals with an optical Kerr effect-based demultiplexer.",
+  "description_provenance": [
+    "Author Email: jokim1@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: stolen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:54Z (GMT). No. of bitstreams: 1 DISSERTATION_JKKIM.pdf: 2040639 bytes, checksum: 3040a9382107189a90593f909344995e (MD5)   Previous issue date: 2005-07-28"
+  ],
+  "handle": "28569",
+  "identifier_other": "etd-08082005-121337",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08082005-121337/",
+  "identifier_uri": "http://hdl.handle.net/10919/28569",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DISSERTATION_JKKIM.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Demultiplexer",
+    "Nonlinear Fiber Device",
+    "Fiber Nonlinearity",
+    "Optical Communication System",
+    "OTDM/WDM",
+    "High-Nonlinearity Glass"
+  ],
+  "title": "Investigation of High-Nonlinearity Glass Fibers for Potential Applications in Ultrafast Nonlinear Fiber Devices",
+  "type": "Dissertation"
+}

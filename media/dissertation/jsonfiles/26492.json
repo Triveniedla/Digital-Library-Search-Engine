@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Post, Nathan L",
+  "contributor_committeecochair": [
+    "Lesko, John J.",
+    "Case, Scott W."
+  ],
+  "contributor_committeemember": [
+    "Thangjitham, Surot",
+    "Riffle, Judy S.",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:08:28Z",
+  "date_adate": "2008-04-01",
+  "date_available": "2014-03-14T20:08:28Z",
+  "date_issued": "2008-03-18",
+  "date_rdate": "2008-04-01",
+  "date_sdate": "2008-03-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research presented in this dissertation furthers the state of the art for reliability-based design of composite structures subjected to high cycle variable amplitude (spectrum) fatigue loads.  The focus is on fatigue analyses for axially loaded fiber reinforced polymer (FRP) composites that contain a significant proportion of fibers in the loading direction and thus have fiber-direction dominated failure.  The four papers presented in this dissertation describe the logical progression used to develop an improved reliability-based methodology for fatigue-critical design.  Throughout the analysis extensive experimental fatigue data on several material systems was used to verify the assumptions and suggest the path forward. <p> A comparison of 12 fatigue model approaches from the literature showed that a simple linear residual strength approach (Broutman and Sahu) provides an improvement in fatigue life prediction compared to the Palmgren-Miner rule, while more complex residual strength models did not consistently improve on Broutman and Sahu.  Evaluation of the effect of load history randomness on fatigue life was made using experimental results for spectra in terms of the first order autocorrelation of the stress events.  For approximately reversed Rayleigh distributed fatigue loading, load sequence was not critical in the material behavior.  Based on observations of empirical data and evaluation of the micro-mechanics deterioration and failure phenomena of FRP composites under fatigue loading, a new residual strength model for the tension and compression under any load history was proposed.  Then this model was implemented in a stochastic framework and a method was proposed to enable calculation of the load and resistance factor design (LRFD) parameters for realistic reliabilities with relatively few computations.  The proposed approach has significant advantages over traditional lifetime-damage-sum-based reliability analysis and provides a significant step toward enabling more accurate reliability-based design with composite materials.",
+  "description_provenance": [
+    "Author Email: POSTNL@VT.EDU",
+    "Advisor Email: thangjitham@VT.EDU",
+    "Advisor Email: jriffle@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: jlesko@exchange.vt.edu",
+    "Advisor Email: scase@exchange.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:28Z (GMT). No. of bitstreams: 3 POST_N_L_Dissertation_2008_2.pdf: 3833501 bytes, checksum: d2525d5239ebb6aefaafdb787fd4329e (MD5) AppendixB_VT8084DataSet.xls: 2282496 bytes, checksum: 03933d9b910db922756c2495a47a5d37 (MD5) AppendixB_POST2007R_def.txt: 14731704 bytes, checksum: f32c5d43337dce0f436399fdd59f4189 (MD5)   Previous issue date: 2008-03-18"
+  ],
+  "handle": "26492",
+  "identifier_other": "etd-03242008-144223",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03242008-144223/",
+  "identifier_uri": "http://hdl.handle.net/10919/26492",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "POST_N_L_Dissertation_2008_2.pdf",
+    "AppendixB_VT8084DataSet.xls",
+    "AppendixB_POST2007R_def.txt"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Random Loading",
+    "Probability of failure",
+    "FRP",
+    "LRFD",
+    "Spectrum"
+  ],
+  "title": "Reliability based design methodology incorporating residual strength prediction of structural fiber reinforced polymer composites under stochastic variable amplitude fatigue loading",
+  "type": "Dissertation"
+}

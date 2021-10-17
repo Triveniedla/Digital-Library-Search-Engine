@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zeng, Dongsong",
+  "contributor_committeechair": "Zaghloul, Amir I.",
+  "contributor_committeecochair": "Annamalai, Annamalai  Jr.",
+  "contributor_committeemember": [
+    "Liang, Yao",
+    "Reed, Jeffrey Hugh",
+    "Laberge, E. F. Charles",
+    "Renardy, Yuriko Y."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:37Z",
+  "date_adate": "2005-08-23",
+  "date_available": "2014-03-14T20:14:37Z",
+  "date_issued": "2005-07-27",
+  "date_rdate": "2005-08-23",
+  "date_sdate": "2005-08-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ultra wideband (UWB) is a promising technology for short range and high-speed wireless communications such as home entertainment, wireless video downloading, wireless LAN, wireless USB and so on. This dissertation studied several important issues in the application of UWB technology and its contributions are summarized as follows.  First, a 2-stage optimal UWB pulse shaping filter design procedure is proposed, which not only satisfies the FCC transmission spectral masks but also suppress the multiple access interference (MAI). The major advantages of the proposed joint optimization method are: (1) it has superior MAI suppression capability; (2) it can achieve the best system performance by optimizing transmitting and receiving filters jointly.   Second, a pulse shaping optimizer is proposed to achieve the best received signal-to-noise ratio (SNR). Since the objective function of the SNR optimization has multiple maxima, genetic algorithms are adopted in this all-pass filter optimization.   Third, a novel analytical method of assessing the narrowband performance degradation due to UWB interferences is proposed. This method models the UWB interferences as a composite signal of white Gaussian noise and jamming tones.   Finally, a RAKE receiver simulation model under a realistic UWB channel is proposed and numerical results are presented.  Overall, this dissertation investigates several important issues in the application of UWB technology, and provides some insights on the role of UWB technology in the evolving course of wireless communications.",
+  "description_provenance": [
+    "Author Email: dszeng@yahoo.com",
+    "Advisor Email: yaliang@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: annamalai@vt.edu",
+    "Advisor Email: zaghloul@vt.edu",
+    "Advisor Email: chuck.laberge@honeywell.com",
+    "Advisor Email: renardyy@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:37Z (GMT). No. of bitstreams: 1 DZ_Dissertation_final1.pdf: 1457995 bytes, checksum: 4a707d0c2619e715bc62281f8206e1c8 (MD5)   Previous issue date: 2005-07-27"
+  ],
+  "handle": "28477",
+  "identifier_other": "etd-08012005-135856",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08012005-135856/",
+  "identifier_uri": "http://hdl.handle.net/10919/28477",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DZ_Dissertation_final1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Interference",
+    "Pulse Sahping filter",
+    "UWB"
+  ],
+  "title": "Pulse Shaping Filter Design and Interference Analysis in UWB Communication Systems",
+  "type": "Dissertation"
+}

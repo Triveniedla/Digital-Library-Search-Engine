@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Hiemstra, John David",
+  "contributor_committeechair": "Pratt, Timothy J.",
+  "contributor_committeecochair": "Goldstein, J. Scott",
+  "contributor_committeemember": [
+    "Zoltowski, Michael",
+    "Tranter, William H.",
+    "DaSilva, Luiz A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:10Z",
+  "date_adate": "2003-04-11",
+  "date_available": "2014-03-14T20:09:10Z",
+  "date_issued": "2003-04-04",
+  "date_rdate": "2004-04-11",
+  "date_sdate": "2003-04-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research in this dissertation addresses reduced rank adaptive signal processing, with specific emphasis on the multistage Wiener filter (MWF). The MWF is a generalization of the classical Wiener filter that performs a stage-by-stage decomposition based on orthogonal projections. Truncation of this decomposition produces a reduced rank filter with many benefits, for example, improved performance.  This dissertation extends knowledge of the MWF in four areas. The first area is rank and sample support compression. This dissertation examines, under a wide variety of conditions, the size of the adaptive subspace required by the MWF (i.e., the rank) as well as the required number of training samples. Comparisons are made with other algorithms such as the eigenvector-based principal components algorithm. The second area investigated in this dissertation concerns â  soft stopsâ  , i.e., the insertion of diagonal loading into the MWF. Several methods for inserting loading into the MWF are described, as well as methods for choosing the amount of loading. The next area investigated is MWF rank selection. The MWF will outperform the classical Wiener filter when the rank is properly chosen. This dissertation presents six approaches for selecting MWF rank. The algorithms are compared to one another and an overall design space taxonomy is presented. Finally, as digital modelling capabilities become more sophisticated there is emerging interest in augmenting adaptive processing algorithms to incorporate prior knowledge. This dissertation presents two methods for augmenting the MWF, one based on linear constraints and a second based on non-zero weight vector initialization. Both approaches are evaluated under ideal and perturbed conditions.  Together the research described in this dissertation increases the utility and robustness of the multistage Wiener filter. The analysis is presented in the context of adaptive array processing, both spatial array processing and space-time adaptive processing for airborne radar. The results, however, are applicable across the entire spectrum of adaptive signal processing applications.",
+  "description_provenance": [
+    "Author Email: jhiemstra@ioip.com",
+    "Advisor Email: mikedz@ecn.purdue.edu",
+    "Advisor Email: GoldsteinJa@saic.com",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:10Z (GMT). No. of bitstreams: 1 Hiemstra_Dissertation_10Apr03.pdf: 3150965 bytes, checksum: 1091333bc5043cfdc61f495ff0939bda (MD5)   Previous issue date: 2003-04-04"
+  ],
+  "handle": "26714",
+  "identifier_other": "etd-04092003-104445",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04092003-104445/",
+  "identifier_uri": "http://hdl.handle.net/10919/26714",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hiemstra_Dissertation_10Apr03.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "reduced rank",
+    "diagonal loading",
+    "stopping criteria",
+    "multistage Wiener filter"
+  ],
+  "title": "Robust Implementations of the Multistage Wiener Filter",
+  "type": "Dissertation"
+}

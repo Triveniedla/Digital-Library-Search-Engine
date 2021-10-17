@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Brunnhofer, Harald Michael",
+  "contributor_committeechair": "Sun, Shu-Ming",
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "Lin, Tao",
+    "Kim, Jong Uhn",
+    "Renardy, Michael J."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:10:47Z",
+  "date_adate": "2005-04-26",
+  "date_available": "2014-03-14T20:10:47Z",
+  "date_issued": "2005-04-20",
+  "date_rdate": "2005-04-26",
+  "date_sdate": "2005-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation concerns capillary-gravity surface waves in a two-dimensional rectangular basin that is partially filled with water. To generate the surface waves, a harmonic forcing is applied to the vertical side walls of the basin. The dissertation consists of four parts which work with different assumptions on the frequencies of the forcing. The first part discusses the linearized model with Hockingâ  s edge condition and gives an eigenvalue equation and an asymptotic expansion for the eigenvalues. Then, for the nonlinear problem, it is assumed that the frequency of the forcing is close to an eigenfrequency and the solution has an asymptotic expansion using a two time-scales approach. Under an edge condition, the first- and second-order approximations of the solution and a solvability condition from the third-order equations yield an ordinary differential equation for the amplitude of the solution. In part two, it is assumed that the frequency of the forcing applied to the boundary is close to the sum of two eigenfrequencies. In this case, the solvability conditions give a system of two differential equations for the complex valued amplitudes of the two eigenmodes. The system can be reduced to one real-valued differential equation. Its solutions yield the solutions of the original system and their properties. A condition for the existence of homoclinic orbits connecting the trivial equilibrium is obtained. These results are confirmed by numerical experiments.  The third part is based on the results in the second part. Here, one of the eigenfrequencies is chosen to be much larger than the other one, and different orders of the amplitudes of the eigenmodes are assumed. The orders of the coefficients of the system found in the second part are obtained, and the resulting special case is discussed in detail. In particular, numerical examples of orbits that can be associated with homoclinic orbits connecting nontrivial equilibria are given. The behavior of solutions close to those orbits is demonstrated. In the fourth part, an additional frequency for the forcing terms given in parts two and three is introduced. In each situation, the modified systems are presented and discussed.",
+  "description_provenance": [
+    "Author Email: hbrunnho@vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: kim@math.vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:47Z (GMT). No. of bitstreams: 1 HMB_Dissertation.pdf: 7927054 bytes, checksum: 6183dc0729728911c5a4b1b9fe35be1e (MD5)   Previous issue date: 2005-04-20"
+  ],
+  "handle": "27270",
+  "identifier_other": "etd-04252005-142616",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252005-142616/",
+  "identifier_uri": "http://hdl.handle.net/10919/27270",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HMB_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "forced water waves",
+    "capillary-gravity waves",
+    "2D rectangular basin"
+  ],
+  "title": "Forced Capillary-Gravity Waves in a 2D Rectangular Basin",
+  "type": "Dissertation"
+}

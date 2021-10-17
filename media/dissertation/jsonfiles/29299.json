@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Feng, Jinwei",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Rappaport, Theodore S.",
+    "Wicks, Alfred L.",
+    "Robertshaw, Harry H.",
+    "Ng, Fai"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:26Z",
+  "date_adate": "2000-11-03",
+  "date_available": "2014-03-14T20:17:26Z",
+  "date_issued": "2000-10-10",
+  "date_rdate": "2001-11-03",
+  "date_sdate": "2000-10-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The   research effort presented in this dissertation consists of   employing  active trailing edge blowing   control to reduce the unsteady stator-rotor interaction in a turbofan simulator. Two active flow control systems with different wake sensing approaches are successfully implemented on the engine simulator.     The first  flow control system utilizes   Pitot probes as flow sensors.   Use of Pitot probes as sensors is appropriate as a first step toward a more in depth investigation of active trailing edge blowing control. An upper performance limit in terms of wake-filling can be obtained and   serves as the baseline in evaluating  other control systems with indirect wake sensors. The ability of the system to achieve effective wake filling when subjected to a change in inlet flow conditions demonstrates the feasibility and advantage of active flow control. Significant tonal noise reductions   in the far field are also obtained.     The second control system involves using microphones as indirect wake sensors.  The significance of these acoustic sensing approaches is to provide a practical TEB approach for realistic   engines implementations. Microphones are flush mounted on the inlet case to sense the tonal noise at the blade passing frequency. The first sensing approach  only uses the tone magnitude while the second novel sensing approach utilizes both the  tone magnitude and phase as error information. The convergence rate of the second sensing approach is comparable with that of the Pitot-probe based experiments. The acoustic results obtained from both sensing approaches agree well with those obtained using Pitot probes as sensors.       In addition to the experimental part of this research, analytical studies are also conducted on the trailing edge blowing modeling using an aeroacoustic code. An analytical model for trailing edge blowing  is first proposed. This model  is then introduced into the  two-dimensional aeroacoustic code  to investigate effect of various trailing edge blowing  managements in the tonal sound generation.",
+  "description_provenance": [
+    "Author Email: jifeng@vt.edu",
+    "Advisor Email: wireless@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:26Z (GMT). No. of bitstreams: 1 etd.pdf: 3660287 bytes, checksum: 59509ae0fb26ea3ae0c4a4f0fd57a056 (MD5)   Previous issue date: 2000-10-10"
+  ],
+  "handle": "29299",
+  "identifier_other": "etd-10182000-20380016",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10182000-20380016/",
+  "identifier_uri": "http://hdl.handle.net/10919/29299",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Active Flow Control",
+    "Aeroacoustics",
+    "Trailing Edge Blowing",
+    "High Cycle Fatigue"
+  ],
+  "title": "Active  Flow Control For Reduction of Unsteady Stator-Rotor Interaction In a Turbofan Simulator",
+  "type": "Dissertation"
+}

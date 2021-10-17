@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Nassar, Khaled",
+  "contributor_committeechair": "Beliveau, Yvan J.",
+  "contributor_committeemember": [
+    "Jones, James R.",
+    "Thabet, Walid",
+    "Qao, Quinsan",
+    "Ellis, Michael W."
+  ],
+  "contributor_department": "Environmental Design and Planning",
+  "date_accessioned": "2014-03-14T20:16:54Z",
+  "date_adate": "2000-01-06",
+  "date_available": "2014-03-14T20:16:54Z",
+  "date_issued": "1999-06-03",
+  "date_rdate": "2001-01-06",
+  "date_sdate": "1999-09-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In practice, the building design process can be divided into three major stages; schematic design, design implementation and construction documents development. The majority of the time in the building design delivery process is spent in the latter two stages. Computers can greatly aid the designer in the latter two stages, by providing a tool that helps in choosing the best assemblies for a particular design and, helping in automating the process of construction detail generation. There is lack of such a tool in the architecture design domain.  In this dissertation, a novel approach for the selection and generation of building assemblies is presented. A building product model is described. In this model the building is broken down into assemblies. Each assembly has a graphical representation. By using the assemblies' representations a designer can specify his/her design concept. These assemblies are intelligent. They know how to select the correct assembly constructions for each particular design situation, based on a set of defined criteria and constraints. The different kinds of criteria and constraints that affect the selection of assemblies are identified, and examples are provided. A selection procedure is developed that can perform the selection taking into consideration the various criteria and constraints to produce a best compromise solution.  A computer prototype is developed on top of a traditional computer graphics package (AutoCAD) as a proof of concept. In the prototype, the design knowledge is encapsulated and intelligence is added to the building assemblies of a specific construction type. This intelligence allows the assemblies to be automatically selected and analyzed. Several examples of assemblies are developed in the computer prototype.   The treatment of building components as intelligent objects will significantly increase the efficiency of design in terms of economy and performance. This is because issues related to the specific design can be addressed in an organized way. Issues like cost, constructability, and other performances can be taken into consideration at the design level. The approach described here provides a more efficient and time saving way for selection of building assembly constructions.",
+  "description_provenance": [
+    "Author Email: kmn@alpha.rwu.edu",
+    "Made available in DSpace on 2014-03-14T20:16:54Z (GMT). No. of bitstreams: 1 PhDThesis.PDF: 2119120 bytes, checksum: 65ac063e55062d3deb02ae011ec36699 (MD5)   Previous issue date: 1999-06-03"
+  ],
+  "handle": "29138",
+  "identifier_other": "etd-092999-214332",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-092999-214332/",
+  "identifier_uri": "http://hdl.handle.net/10919/29138",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhDThesis.PDF",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "CONSTRUCTION",
+    "SELECTION",
+    "ASSEMBLY",
+    "BUILDING",
+    "AUTOMATION",
+    "CAD",
+    "DESIGN",
+    "BUILDINGS"
+  ],
+  "title": "A Framework for Building Assembly Selection and Generation",
+  "type": "Dissertation"
+}

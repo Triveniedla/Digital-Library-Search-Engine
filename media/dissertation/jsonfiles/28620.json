@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Tuli, Leepika",
+  "contributor_committeechair": "Shulaev, Vladimir",
+  "contributor_committeemember": [
+    "Laubenbacher, Reinhard C.",
+    "Mendes, Pedro J. P.",
+    "Hoeschele, Ina",
+    "Bevan, David R."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:15:04Z",
+  "date_adate": "2008-09-09",
+  "date_available": "2014-03-14T20:15:04Z",
+  "date_issued": "2008-07-25",
+  "date_rdate": "2009-09-09",
+  "date_sdate": "2008-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Oxidative stress, described as the state of disturbed intracellular redox balance, has been associated with several human conditions including ageing, apoptosis, cancer, autoimmune and neuro-degenerative diseases. Stress studies have shown that reactive oxygen species (ROS) and reactive nitrogen species (RNS) along with its intermediates can attack essential cell targets such as: DNA, proteins, lipids and carbohydrates, leaving behind dysfunctional biologic molecules. In effect, a cellâ  s primary response is to involve several defense mechanisms that are under a complex and intricate regulatory control to repair any damages that may have occurred. Although several stress studies have been conducted in the past that have approached this biologically complex process step by step, application of a Systems Biology towards a comprehensive understanding is still emerging.  The current objective of this project is to identify proteins that change in response to cumene hydroperxoide (CHP) treatment and in parallel make an attempt to uncover events and processes that are a part of CHP-induced oxidative stress response. From a systems biology viewpoint, the Yeast Oxidative Stress project will monitor response at three different levels: transcriptomics, proteomics and metabolomics, with dynamic changes being measured from 3 to 120 min after CHP addition. Data collected from the different levels will be integrated to accomplish a holistic viewpoint of stress response in the given system and to develop mathematical tools for modeling biochemical networks.  Saccharomyces cerevisiae was chosen as a model, based on its availability of a completely mapped genome sequence with a collection of null mutants that was relevant to our fundamental research of stress response mechanism. Yeast, a simple unicellular eukaryote has been extensively used for applied studies and has proven to be indispensable for stress research. Information derived from this project can reveal response mechanisms used by higher eukaryotes, especially if via analogous signaling cascades that are comparable between organisms. Current research investigates an optimal workflow for generating 2D gel based protein expression data and identifying proteins that are induced by cumene hydroperoxide treatment. A non-targeted protein profiling followed by a 2-way ANOVA analysis provided a list of proteins that differ significantly between treatments. Protein identification provided relevant information on which proteins are affected by CHP induced stress response, including posttranslational modifications of peroxiredoxins. Redox active protein, Ahp1, was regulated post-translationally with sulfonic acid modification observed for its active Cys(62)  residue.",
+  "description_provenance": [
+    "Author Email: ltuli@vt.edu",
+    "Advisor Email: rlaubenb@vt.edu",
+    "Advisor Email: pmendes@vt.edu",
+    "Advisor Email: inah@vt.edu",
+    "Advisor Email: vshulaev@vbi.vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:04Z (GMT). No. of bitstreams: 1 final_090308.pdf: 4541523 bytes, checksum: cf53d154bc22260d17c9b7fce6e9ebd1 (MD5)   Previous issue date: 2008-07-25"
+  ],
+  "handle": "28620",
+  "identifier_other": "etd-08112008-190113",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112008-190113/",
+  "identifier_uri": "http://hdl.handle.net/10919/28620",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "final_090308.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Saccharomyces cerevisae",
+    "bioinformatics",
+    "oxidative stress",
+    "proteomics",
+    "systems biology",
+    "mass spectrometry"
+  ],
+  "title": "Proteome Profiling of Saccharomyces cerevisae stress response to Cumene Hydroperoxide (CHP)",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Kim, Kihyung",
+  "contributor_committeechair": "von Spakovsky, Michael R.",
+  "contributor_committeecochair": "Nelson, Douglas J.",
+  "contributor_committeemember": [
+    "Ellis, Michael W.",
+    "Johnson, Martin E.",
+    "Rancruel, Diego"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:03Z",
+  "date_adate": "2008-02-26",
+  "date_available": "2014-03-14T20:07:03Z",
+  "date_issued": "2008-01-10",
+  "date_rdate": "2008-02-26",
+  "date_sdate": "2008-02-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Proton exchange membrane fuel cells (PEMFCs) are one of the leading candidates in alternative energy conversion devices for transportation, stationary, and portable power generation applications. PEMFC systems with their own fuel conversion unit typically consist of several subsystems: a fuel processing subsystem, a fuel cell stack subsystem, a work recovery-air supply subsystem, and a power electronics subsystem. Since these subsystems have different physical characteristics, their integration into a single system/subsystem level unit make the problems of dynamic system synthesis/design and operation/control highly complex. Typically, the synthesis/design optimization of energy systems is based on a single full load condition at steady state. However, a more comprehensive synthesis/design and operation/control optimization requires taking into account part as well as full load conditions for satisfying an optimal efficiency/cost/environmental effect objective. Optimal couple of these various aspects of system development requires dynamic system/subsystem/component modeling and a multi-disciplinary approach which results in an integrated set of diverse types of models and highly effective optimization strategies such as decomposition techniques (e.g., Dynamic Iterative Local-Global Optimization: DILGO).  In energy system synthesis/design and operation/control problems, system/ component models are typically treated deterministically, even though input values, which include the specific load profile for which the system or subsystem is developed, can have significant uncertainties that inevitably propagate through the system to the outputs. This deficiency can be overcome by treating the inputs and outputs probabilistically. In this work, various uncertainty analysis methodologies are applied; and among these traditional probabilistic approaches (e.g., Monte Carlo simulation) and the response sensitivity analysis (RSA) method are examined to determine their applicability to energy system development. In particular, these methods are used for the probabilistic (non-deterministic) modeling, analysis, and optimization of a residential 5 kWe PEMFC system, and uncertainty effects on the energy system synthesis/design and operation/control optimization have been assessed by taking the uncertainties into account in the objectives and constraints. Optimization results show that there is little effect on the objective (the operating cost and capital cost), while the constraints (e.g., on the CO concentration) can be significantly affected during the synthesis/design and operation/control optimization.",
+  "description_provenance": [
+    "Author Email: khkim@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: Diego.RancruelArce@ge.com",
+    "Made available in DSpace on 2014-03-14T20:07:03Z (GMT). No. of bitstreams: 1 KHKIM_dissertation(5).pdf: 4564066 bytes, checksum: f65d12ea0d1209d543620ada19acef1d (MD5)   Previous issue date: 2008-01-10"
+  ],
+  "handle": "26091",
+  "identifier_other": "etd-02012008-140009",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02012008-140009/",
+  "identifier_uri": "http://hdl.handle.net/10919/26091",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KHKIM_dissertation(5).pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "uncertainty analysis",
+    "trasient",
+    "dynamic simulation",
+    "PEM fuel cell",
+    "optimization"
+  ],
+  "title": "Dynamic Proton Exchange Membrane Fuel Cell System Synthesis/Design and Operation/Control Optimization under Uncertainty",
+  "type": "Dissertation"
+}

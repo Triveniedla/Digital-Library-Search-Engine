@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Diefenderfer, Brian Keith",
+  "contributor_committeechair": "Al-Qadi, Imadeddin L.",
+  "contributor_committeemember": [
+    "Trani, Antoino A.",
+    "Flintsch, Gerardo W.",
+    "Loulizi, Amara",
+    "Brown, Gary S."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:11:25Z",
+  "date_adate": "2002-05-03",
+  "date_available": "2014-03-14T20:11:25Z",
+  "date_issued": "2002-04-17",
+  "date_rdate": "2003-05-03",
+  "date_sdate": "2002-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A majority of the primary roadways in the United States are constructed using hot-mix asphalt (HMA) placed over a granular base material.  The strength of this pavement system is strongly influenced by the local environmental conditions.  Excessive moisture in a granular base layer can cause that layer to lose its structural contribution by reducing the area over which loading may be distributed.  Excessive moisture and fine particles can be transported by hydrostatic pressure to the surface layers, thus reducing the strength of the overlying HMA by contamination.  Moisture in the surface HMA layers can cause deterioration through stripping and raveling.  In addition, as HMA is a viscoelastic material, it behaves more as a viscous fluid at high temperatures and as an elastic solid at low temperatures.  Between these two temperature extremes, a combination of these properties is evident.  Thus, understanding the environmental effects on flexible pavements allows better prediction of pavement performance and behavior under different environmental conditions.  As part of the ongoing pavement research at the Virginia Smart Road, instrumentation was embedded during construction to monitor pavement response to loading and environment; moisture content of the granular base layers and temperature of the HMA layers were among the responses monitored.  The Virginia Smart Road, constructed in Blacksburg, Virginia, is a pavement test facility is approximately 2.5km in length, of which 1.3km is flexible pavement that is divided into 12 sections of approximately 100m each.  Each flexible pavement section is comprised of a multi-layer pavement system and possesses a unique structural configuration.  The moisture content of aggregate subbase layers was measured utilizing two types of Time-Domain Reflectometry (TDR) probes that differed in their mode of operation.  The temperature profile of the pavement was measured using thermocouples.   Data for the moisture content determination was collected and results from two probe types were evaluated.  In addition, the differences in the moisture content within the aggregate subbase layer due to pavement structural configuration and presence of a moisture barrier were investigated.  It was shown that the two TDR probe types gave similar results following a calibration procedure.  In addition to effects due to pavement structure and subgrade type, the presence of a moisture barrier appeared to reduce the variability in the moisture content caused by precipitation.  Temperature profile data was collected on a continuous basis for the purpose of developing a pavement temperature prediction model.  A linear relationship was observed between the temperature given by a thermocouple near the ground surface and the pavement temperature at various depths.  Following this, multiple-linear regression models were developed to predict the daily maximum or minimum pavement temperature in the HMA layers regardless of binder type or nominal maximum particle size.  In addition, the measured ambient temperature and calculated received daily solar radiation were incorporated into an additional set of models to predict daily pavement temperatures at any location.  The predicted temperatures from all developed models were found to be in agreement with in-situ measured temperatures.",
+  "description_provenance": [
+    "Author Email: dief@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Advisor Email: amlouliz@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:25Z (GMT). No. of bitstreams: 3 dissertation.pdf: 8698804 bytes, checksum: bf7cd8ed3a10703fee49d8c02e430888 (MD5) References.pdf: 97582 bytes, checksum: fbbe20519f6580fcb6d464ffe551174d (MD5) abstract.PDF: 9073 bytes, checksum: d9a5a65254af81b2c340b610f6a86327 (MD5)   Previous issue date: 2002-04-17"
+  ],
+  "handle": "27492",
+  "identifier_other": "etd-05022002-145649",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022002-145649/",
+  "identifier_uri": "http://hdl.handle.net/10919/27492",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "dissertation.pdf",
+    "References.pdf",
+    "abstract.PDF"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "flexible pavement",
+    "temperature profile",
+    "pavement moisture",
+    "thermocouple",
+    "TDR",
+    "moisture content",
+    "pavement temperature"
+  ],
+  "title": "Moisture Content Determination and Temperature Profile Modeling of Flexible Pavement Structures",
+  "type": "Dissertation"
+}

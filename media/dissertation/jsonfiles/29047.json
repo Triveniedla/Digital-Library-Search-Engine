@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ni, Tao",
+  "contributor_committeechair": "Bowman, Douglas A.",
+  "contributor_committeecochair": "North, Christopher L.",
+  "contributor_committeemember": [
+    "Balakrishnan, Ravin",
+    "McCrickard, Donald Scott",
+    "Quek, Francis K. H."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:31Z",
+  "date_adate": "2011-11-17",
+  "date_available": "2014-03-14T20:16:31Z",
+  "date_issued": "2011-09-19",
+  "date_rdate": "2011-11-17",
+  "date_sdate": "2011-09-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Freehand gestures have long been considered to potentially deliver natural, intuitive, terse but powerful human-computer interaction techniques. Over years, researchers have been attempting to employ freehand gestures as an alternative input modality to the conventional devices (e.g. keyboard and mouse) in a wide array of application domains, and a huge number of gesture recognition systems and gesture-based interaction techniques have been created in lab. However, a fundamental question remains: is it possible to establish an interaction framework so that we may approach freehand gestural interaction from a systematic perspective, and design coherent and consistent freehand gesture-based human-computer interaction experience? Existing research tends to focus on the technologies that enable the gestural interaction, or on the novel design of gestural interaction techniques for specific tasks and applications. Such â  point designsâ   are claimed to be insufficient, and an existing application-specific design lends very limited insights and guidance to design problems in another application. An interaction framework allows us to move from individual designs to a more holistic approach.  The goal of this research is to construct a framework to support a systematic approach for designing freehand gesture-based interactions. Toward this goal our research began with a review and examination of the gesture interaction literature, followed by an analysis of the essential components of an interaction framework. We then proposed and justified the scope of research and the approach we took to construct the interaction framework. We have designed and evaluated (analytically and empirically) gestural interaction techniques for two broad categories of freehand gestures we specified â   spatial gestures, and surface gestures. In the design activity, we have discovered and proposed the core design principles and guidelines, and validated them via user studies. Finally, we assessed the ability of the freehand gesture interaction framework we have constructed to help designers create new applications and designs, by putting together a few proof-of-concept examples of a coherent and consistent freehand gesture user interface.",
+  "description_provenance": [
+    "Author Email: nitao@vt.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: north@vt.edu",
+    "Advisor Email: ravin@dgp.toronto.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: quek@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:31Z (GMT). No. of bitstreams: 1 Ni_T_D_2011.pdf: 25708834 bytes, checksum: 2f7bedb4e4041b8c894f2c00aa6a7b1c (MD5)   Previous issue date: 2011-09-19"
+  ],
+  "handle": "29047",
+  "identifier_other": "etd-09212011-230923",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09212011-230923/",
+  "identifier_uri": "http://hdl.handle.net/10919/29047",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ni_T_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "freehand gestures",
+    "interaction framework",
+    "interaction techniques",
+    "mobile",
+    "ubiquitous computing"
+  ],
+  "title": "A Framework of Freehand Gesture Interaction: Techniques, Guidelines, and Applications",
+  "type": "Dissertation"
+}

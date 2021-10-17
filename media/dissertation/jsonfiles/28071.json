@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Sun, Juanjuan",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Wang, Fei Fred",
+    "Liu, Yilu",
+    "Nelson, Douglas J.",
+    "Xu, Ming"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:22Z",
+  "date_adate": "2007-06-26",
+  "date_available": "2014-03-14T20:13:22Z",
+  "date_issued": "2007-06-13",
+  "date_rdate": "2007-06-26",
+  "date_sdate": "2007-06-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Paralleling operation of DC/DC converters is widely used in today's distributed power systems. To ensure balanced output currents among paralleled power modules, current sharing control is usually necessary.Active current sharing controls with current feedback mechanism are widely used in today's power supplies. However, the dynamic performance of these current sharing control schemes are not yet clearly explored. In this work, the dynamic current sharing performance is evaluated for paralleling systems with the output impedance approach. As the representative of the terminal characteristic of a power converter, output impedance is a powerful tool to study the dynamic response under load transients. The dynamic current sharing analyses are then conducted for three different active current sharing control structures and a comprehensive comparison among them helps the designer to choose appropriate controls for different applications.  On the other hand, high-frequency load transients are possible to happen for voltage regulators, which are the power supplies of microprocessors. In order to study the dynamic current sharing performance for a paralleling system when the perturbation frequency is higher than half of the switching frequency,the conventional output impedance concept needs to be extended. Due to the non-linear behavior of a switching modulator, the beat-frequency phenomenon could cause unexpected failure of a power supply when the perturbation frequency is close to the switching frequency. To address this issue, an unconventional multi-frequency model is proposed for high-frequency dynamic current sharing studies. With this model, the sideband components are possible to be included and the beat-frequency oscillations can be predicted. After that, the conventional impedance concept is expanded in the form of extended describing function, so that the terminal characteristics of paralleled converters are represented by a series of impedances. Besides the analyses, this work also proposed several solutions for the beat-frequency oscillation issue which are experimentally verified.  In summary, both low-frequency and high-frequency dynamic current sharing performances are studied in this dissertation. The output impedance concept and its extension in the form of extended describing function are utilized as the tools for researches. With these powerful tools, more insights are obtained to help better design of a paralleling system.",
+  "description_provenance": [
+    "Author Email: jusun@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: fred.wang@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: mixu3@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:22Z (GMT). No. of bitstreams: 1 ETD_JuanjuanSun.pdf: 4754331 bytes, checksum: 2a065d64c8e31d80689aedc408ab7f52 (MD5)   Previous issue date: 2007-06-13"
+  ],
+  "handle": "28071",
+  "identifier_other": "etd-06182007-154637",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06182007-154637/",
+  "identifier_uri": "http://hdl.handle.net/10919/28071",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_JuanjuanSun.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dynamic performance",
+    "high frequency",
+    "distributed power systems",
+    "current sharing"
+  ],
+  "title": "Dynamic Performance Analyses of Current Sharing Control for DC/DC Converters",
+  "type": "Dissertation"
+}

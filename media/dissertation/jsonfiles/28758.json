@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Creasy, Miles Austin",
+  "contributor_committeechair": "Leo, Donald J.",
+  "contributor_committeemember": [
+    "De Vita, Raffaella",
+    "Inman, Daniel J.",
+    "Paul, Mark R.",
+    "Philen, Michael K."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:32Z",
+  "date_adate": "2011-09-14",
+  "date_available": "2014-03-14T20:15:32Z",
+  "date_issued": "2011-08-08",
+  "date_rdate": "2011-09-14",
+  "date_sdate": "2011-08-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents the development of a modeling scheme that is developed to model the membrane potentials and ion currents through a bilayer network system. The modeling platform builds off of work performed by Hodgkin and Huxley in modeling cell membrane potentials and ion currents with electrical circuits. This modeling platform is built specifically for cell mimics where individual aqueous volumes are separated by single bilayers like the droplet-interface-bilayer. Applied potentials in one of the aqueous volumes will propagate through the system creating membrane potentials across the bilayers of the system and ion currents through the membranes when proteins are incorporated to form pores or channels within the bilayers. The model design allows the system to be divided into individual nodes of single bilayers. The conductance properties of the proteins embedded within these bilayers are modeled and a finite element analysis scheme is used to form the system equations for all of the nodes. The system equation can be solved for the membrane potentials through the network and then solve for the ion currents through individual membranes in the system. A major part of this work is modeling the conductance of the proteins embedded within the bilayers. Some proteins embedded in bilayers open pores and channels through the bilayer in response to specific stimuli and allow ion currents to flow from one aqueous volume to an adjacent volume. Modeling examples of the conductance behavior of specific proteins are presented. The examples demonstrate aggregate conductance behavior of multiple embedded proteins in a single bilayer, and at examples where few proteins are embedded in the bilayer and the conductance comes from a single-channel or pore. The effect of ion gradients on the single channel conductance example is explored and those effects are included in the single-channel conductance model. Ultimately these conductance models are used with the system model to predict ion currents through a bilayer or through part of a bilayer network system. These modeling efforts provide a modeling tool that will assist engineers in designing bilayer network systems.",
+  "description_provenance": [
+    "Author Email: mcreasy@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: devita@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: mphilen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:32Z (GMT). No. of bitstreams: 1 Creasy_MA_D_2011.pdf: 2372021 bytes, checksum: 4d27e84dd4ae8489e5cb7a202259fdf2 (MD5)   Previous issue date: 2011-08-08"
+  ],
+  "handle": "28758",
+  "identifier_other": "etd-08222011-142124",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08222011-142124/",
+  "identifier_uri": "http://hdl.handle.net/10919/28758",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Creasy_MA_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "lipid bilayer",
+    "bilayer network",
+    "probabilistic model",
+    "alamethicin",
+    "droplet interface bilayer"
+  ],
+  "title": "Bilayer Network Modeling",
+  "type": "Dissertation"
+}

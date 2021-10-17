@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Yost, Beth Ann",
+  "contributor_committeechair": "North, Christopher L.",
+  "contributor_committeemember": [
+    "Quek, Francis K. H.",
+    "Bowman, Douglas A.",
+    "Carstensen, Laurence William Jr.",
+    "Ehrich, Roger W."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:09:57Z",
+  "date_adate": "2007-04-19",
+  "date_available": "2014-03-14T20:09:57Z",
+  "date_issued": "2007-04-11",
+  "date_rdate": "2007-04-19",
+  "date_sdate": "2007-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Geospatial intelligence analysts, epidemiologists, sociologists, and biologists are all faced with trying to understand massive datasets that require integrating spatial and multidimensional data. Information visualizations are often used to aid these scientists, but designing the visualizations is challenging. One aspect of the visualization design space is a choice of when to use a single complex integrated view and when to use multiple simple views. Because of the many tradeoffs involved with this decision it is not always clear which design to use. Additionally, as the cost of display technologies continues to decrease, large, high resolution displays are gradually becoming a more viable option for single users. These large displays offer new opportunities for scaling up visualization to very large datasets. Visualizations that are visually scalable are able to effectively display large datasets in terms of both graphical scalability (the number of pixels required) and perceptual scalability (the effectiveness of a visualization, measured in terms of user performance, as the amount of data being visualized is scaled-up). <p> The purpose of this research was to compare information visualization designs for integrating spatial and multidimensional data in terms of their visual scalability for large, high resolution displays. Toward that goal a hierarchical design space was articulated and a series of user experiments were performed. A baseline was established by comparing user performance with opposing visualizations on a desktop monitor. Then, visualizations were compared as more information was added using the additional pixels available with a large, high resolution display. Results showed that integrated views were more visually scalable than multiple view visualizations. The visualizations tested were even scalable beyond the limits of visual acuity. User performance on certain tasks improved due to the additional information that was visualized even on a display with enough pixels to require physical navigation to visually distinguish all elements. The reasons for the benefits of integrated views on large, high resolution displays include a reduction in navigation due to spatial grouping and visual aggregation resulting in the emergence of patterns. These findings can help with the design of information visualizations for large, high resolution displays.",
+  "description_provenance": [
+    "Author Email: beyost@vt.edu",
+    "Advisor Email: quek@vt.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: north@vt.edu",
+    "Advisor Email: ehrich@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:57Z (GMT). No. of bitstreams: 1 YostDissertation_final.pdf: 2783590 bytes, checksum: af00bc9497eee9947c42182dcca3ddaf (MD5)   Previous issue date: 2007-04-11"
+  ],
+  "handle": "26971",
+  "identifier_other": "etd-04182007-143033",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182007-143033/",
+  "identifier_uri": "http://hdl.handle.net/10919/26971",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "YostDissertation_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "information visualization",
+    "visual scalability",
+    "large displays"
+  ],
+  "title": "The Visual Scalability of Integrated and Multiple View Visualizations for Large, High Resolution Displays",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Ko, Yan-Yee  Andy",
+  "contributor_committeechair": "Mason, William H.",
+  "contributor_committeemember": [
+    "Haftka, Raphael T.",
+    "Kapania, Rakesh K.",
+    "Schetz, Joseph A.",
+    "Grossman, Bernard M."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:10:45Z",
+  "date_adate": "2003-04-29",
+  "date_available": "2014-03-14T20:10:45Z",
+  "date_issued": "2003-04-14",
+  "date_rdate": "2004-04-29",
+  "date_sdate": "2003-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this study is to examine the multidisciplinary design optimization (MDO) of a distributed propulsion blended-wing-body (BWB) aircraft. The BWB is a hybrid shape resembling a flying wing, placing the payload in the inboard sections of the wing. The distributed propulsion concept involves replacing a small number of large engines with many smaller engines. The distributed propulsion concept considered here ducts part of the engine exhaust to exit out along the trailing edge of the wing.  The distributed propulsion concept affects almost every aspect of the BWB design. Methods to model these effects and integrate them into an MDO framework were developed. The most important effect modeled is the impact on the propulsive efficiency. There has been conjecture that there will be an increase in propulsive efficiency when there is blowing out of the trailing edge of a wing. A mathematical formulation was derived to explain this. The formulation showed that the jet â  fills inâ   the wake behind the body, improving the overall aerodynamic/propulsion system, resulting in an increased propulsive efficiency.  The distributed propulsion concept also replaces the conventional elevons with a vectored thrust system for longitudinal control. An extension of Spenceâ  s Jet Flap theory was developed to estimate the effects of this vectored thrust system on the aircraft longitudinal control. It was found to provide a reasonable estimate of the control capability of the aircraft.  An MDO framework was developed, integrating all the distributed propulsion effects modeled. Using a gradient based optimization algorithm, the distributed propulsion BWB aircraft was optimized and compared with a similarly optimized conventional BWB design. Both designs are for an 800 passenger, 0.85 cruise Mach number and 7000 nmi mission. The MDO results found that the distributed propulsion BWB aircraft has a 4% takeoff gross weight and a 2% fuel weight. Both designs have similar planform shapes, although the planform area of the distributed propulsion BWB design is 10% smaller. Through parametric studies, it was also found that the aircraft was most sensitive to the amount of savings in propulsive efficiency and the weight of the ducts used to divert the engine exhaust.",
+  "description_provenance": [
+    "Author Email: yako@vt.edu",
+    "Advisor Email: haftka@ufl.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: grossman@nianet.org",
+    "Made available in DSpace on 2014-03-14T20:10:45Z (GMT). No. of bitstreams: 1 Ko_Dissertation_03.pdf: 22449832 bytes, checksum: f159523f9f31ae263bbcbcae04b1ef00 (MD5)   Previous issue date: 2003-04-14"
+  ],
+  "handle": "27257",
+  "identifier_other": "etd-04252003-110442",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252003-110442/",
+  "identifier_uri": "http://hdl.handle.net/10919/27257",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ko_Dissertation_03.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Jet Wing",
+    "Distributed Propulsion",
+    "Jet Flap",
+    "Blended-Wing-Body",
+    "Multidisciplinary Design Optimization",
+    "Aircraft Design"
+  ],
+  "title": "The Multidisciplinary Design Optimization of a Distributed Propulsion Blended-Wing-Body Aircraft",
+  "type": "Dissertation"
+}

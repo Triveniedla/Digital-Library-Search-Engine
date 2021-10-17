@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Ramirez, Edgardo II",
+  "contributor_committeechair": "Lin, Tao",
+  "contributor_committeemember": [
+    "Burns, John A.",
+    "Rogers, Robert C.",
+    "Russell, David L.",
+    "Sun, Shu-Ming"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:38Z",
+  "date_adate": "1998-01-26",
+  "date_available": "2014-03-14T20:13:38Z",
+  "date_issued": "1997-12-17",
+  "date_rdate": "1999-01-26",
+  "date_sdate": "1997-12-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We study a parameter identification problem for the steady state  diffusion equations. In this thesis, we transform this  identification problem into a minimization problem by considering an  appropriate cost functional and propose a finite element method for the  identification of the parameter for the linear and nonlinear partial  differential equation.  The cost functional involves the classical  output least square term, a term approximating the  derivative of the piezometric head <I>u(x)</I>, an equation error term  plus some regularization terms,   which happen to be a norm or a semi-norm of the variables in the cost functional in an  appropriate Sobolev space. The existence and uniqueness of the  minimizer for the cost functional is proved.  Error estimates in a weighted  <I>H</I><sup>-1</sup>-norm, <I>L</I><sup>2</sup>-norm and <I>L</I><sup>1</sup>-norm for the numerical solution are derived.  Numerical examples  will be given to show features of this numerical method.",
+  "description_provenance": [
+    "Author Email: ramirez@math.vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:38Z (GMT). No. of bitstreams: 2 etd.tgz: 165936 bytes, checksum: 0923d072749cb10fc83934e595380ef2 (MD5) etd.pdf: 1215543 bytes, checksum: 24029f46b807f89455792a26afe69625 (MD5)   Previous issue date: 1997-12-17"
+  ],
+  "handle": "28173",
+  "identifier_other": "etd-0698-13015",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-0698-13015/",
+  "identifier_uri": "http://hdl.handle.net/10919/28173",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "etd.tgz",
+    "etd.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Parameter identification",
+    "Elliptic PDEs",
+    "Finite Element Methods",
+    "Optimization Algorithms"
+  ],
+  "title": "Finite element methods for parameter identification   problem of linear and nonlinear steady-state diffusion   equations",
+  "type": "Dissertation"
+}

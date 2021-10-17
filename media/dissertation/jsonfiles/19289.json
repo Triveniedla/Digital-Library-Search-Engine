@@ -1,0 +1,31 @@
+{
+  "contributor_author": "Zhang, Hong Bo",
+  "contributor_committeechair": [
+    "Nussbaum, Maury A",
+    "Agnew, Michael J"
+  ],
+  "contributor_committeemember": [
+    "Madigan, Michael L",
+    "Lockhart, Thurmon E."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2013-03-16T08:00:19Z",
+  "date_available": "2013-03-16T08:00:19Z",
+  "date_issued": "2013-03-15",
+  "degree_discipline": "Industrial and Systems Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Falls are the leading cause of injuries among older adults (>65) and frequently result in reduced mobility, loss of independence, decreased quality of life, injury, and death.  Extensive research has been conducted regarding postural coordination and control, and other mechanisms/processes involved in maintaining postural stability.  However, there is relatively limited knowledge regarding the patterns of joint coordination, the underlying postural controller, and efficient methods to assess passive and active musculoskeletal properties relevant to balance.  In the current work, three new methods were developed to address these limitations and also to better understand the effects of localized ankle muscle fatigue, gender, and aging on postural coordination and control. <br /><br />First, two methods were used to evaluate postural coordination.  A wavelet coherence approach was developed and applied to assess the level and pattern of coordination between pairs of joints (i.e., ankle-knee, ankle-trunk, and ankle-head).  In addition, the uncontrolled manifold method was implemented for evaluation of potential whole-body coordination control goals.  Clear patterns of intermittent wavelet coherence were evident, indicating that joint coordination is intermittently executed.  Both in-phase and anti-phase coherence were detected over frequencies of 2.5 -- 4.0 Hz.  Shoulder and head kinematics appeared more likely than the whole-body center of mass as control goals for whole body coordination.  Both aging and ankle muscle fatigue led to a reduction of joint coordination.  <br /><br />Second, an intermittent sliding mode controller was developed to model quiet upright stance.  In contrast to most previous postural controllers, which assume continuous control, an intermittent controller was considered more consistent with recent evidence on muscle activity and the results of the first study on postural coordination.  The sliding mode controller was able to accurately track kinematics and kinetics, and generated passive and active ankle torques comparable with previous results.  Ankle fatigue led to an increase in active ankle torque especially among young adults and males. <br /><br />Third, a new method was developed to estimate passive and active mechanical properties at the ankle (e.g., stiffness and damping).  This method was inspired from intermittent control theory, and the earlier results noted.  As opposed to conventional methods, this new method is computationally efficient and does not require external mechanical or sensory perturbations.  The method yielded a ratio of passive to active ankle torques consistent with earlier evidence, and larger passive and active ankle torques among males and older adults.  A post-fatigue increase of active ankle torque was estimated, especially among males and young adults. <br /><br />In addition to providing new analytical methods, the noted studies suggest that older adults have decreased joint coordination and increased ankle stiffness.  As a practical implication of this, fall prevention training programs may benefit from seeking to develop appropriate joint coordination strategies and ankle stiffness magnitudes.  To expand on the current work, future research should consider measuring muscle contraction characteristics at multiple joints and in different postures or activities. <br /> <br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-16T08:00:19Z (GMT). No. of bitstreams: 1 Zhang_HB_D_2013.pdf: 30143731 bytes, checksum: 785d291e2ed9ee46b0973fc9510052c3 (MD5)   Previous issue date: 2013-03-15",
+  "format_medium": "ETD",
+  "handle": "19289",
+  "identifier_other": "vt_gsexam:359",
+  "identifier_uri": "http://hdl.handle.net/10919/19289",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": "Postural Control; Joint Stiffness and Coordination; Localized Muscle Fatigue; Fall Prevention; Whole Body Coordination",
+  "title": "Developing and Evaluating New Methods for Assessing Postural Control and Dynamics",
+  "type": "Dissertation"
+}

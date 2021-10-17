@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Subramanian, Anbumani",
+  "contributor_committeechair": "Abbott, A. Lynn",
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Bell, Amy E.",
+    "Mili, Lamine M.",
+    "Ehrich, Roger W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:35Z",
+  "date_adate": "2005-07-15",
+  "date_available": "2014-03-14T20:13:35Z",
+  "date_issued": "2005-05-02",
+  "date_rdate": "2008-07-15",
+  "date_sdate": "2005-06-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Image layers are two-dimensional planes, each comprised of objects extracted from a two-dimensional (2D) image of a scene. Multiple image layers together make up a given 2D image, similar to the way a stack of transparent sheets with drawings together make up a scene in an animation. Extracting layers from 2D images continues to be a difficult task. Image compositing is the process of superimposing two or more image layers to create a new image which often appears real, although it was made from one or more images. This technique is commonly used to create special visual effects in movies, videos and television broadcast. In the widely used \"blue screen\" method of compositing, a video of a person in front of a blue screen is first taken. Then the image of the person is extracted from the video by subtracting the blue portion in the video, and this image is then superimposed on to another image of a different scene, like a weather map. In the resulting image, the person appears to be in front of a weather map, although the image was digitally created. This technique, although popular, imposes constraints on the object color and reflectance properties and severely restricts the scene setup. Therefore layer extraction and image compositing remains a challenge in the field of computer vision and graphics. In this research, a novel method of layer extraction and image compositing is conceived using a moving-aperture lens, and a prototype of the system is developed. In an image sequence captured with this lens attached to a standard camera, stationary objects in a scene appear to move. The apparent motion in images is created due to planar parallax between objects in a scene. The parallax information is exploited in this research to extract objects from an image of a scene, as layers, to perform image compositing. The developed technique relaxes constraints on object color, properties and requires no special components in a scene to perform compositing. Results from various indoor and outdoor stationary scenes, convincingly demonstrate the efficacy of the developed technique. The knowledge of some basic information about the camera parameters also enables passive range estimation. Other potential uses of this method include surveillance, autonomous vehicle navigation, video content manipulation and video compression.",
+  "description_provenance": [
+    "Author Email: anbumani@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: abell@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: ehrich@cs.vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:35Z (GMT). No. of bitstreams: 1 anbumani_subramanian.pdf: 7835721 bytes, checksum: 52e5e7ab7343f62a055b4e9c3c55f612 (MD5)   Previous issue date: 2005-05-02"
+  ],
+  "handle": "28152",
+  "identifier_other": "etd-06292005-162341",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06292005-162341/",
+  "identifier_uri": "http://hdl.handle.net/10919/28152",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "anbumani_subramanian.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "image segmentation",
+    "layer extraction",
+    "video matting",
+    "Image compositing"
+  ],
+  "title": "Layer Extraction and Image Compositing using a Moving-aperture Lens",
+  "type": "Dissertation"
+}

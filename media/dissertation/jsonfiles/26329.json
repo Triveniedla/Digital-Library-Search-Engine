@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Fortenberry, Ryan Clifton",
+  "contributor_committeechair": "Crawford, Daniel T.",
+  "contributor_committeemember": [
+    "Madsen, Louis A.",
+    "Valeyev, Eduard Faritovich",
+    "Troya, Diego",
+    "Tanko, James M."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:07:51Z",
+  "date_adate": "2012-04-11",
+  "date_available": "2014-03-14T20:07:51Z",
+  "date_issued": "2012-02-21",
+  "date_rdate": "2012-04-11",
+  "date_sdate": "2012-02-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the search for molecular species in the interstellar medium and extraterrestrial planetary atmospheres, theoretical methods continue to be an invaluable tool to astronomically minded chemists. Using state-of-the art methods, this doctoral work characterizes the electronically excited states of interstellar radicals, cations, and even rare anions and also predicts the gas phase fundamental vibrational frequencies of the cis and trans-HOCO radicals, as well as the cis-HOCO anion. First, open-shell coupled cluster methods of singles and doubles (CCSD) and singles and doubles with triples-inclusion (CC3) are tested on the C2H and C4H radicals. The significant double-excitation character, as well as the quartet multiplicity of some states yields inaccurate excitation energies and large spin contamination with CCSD. CC3 somewhat improves this for select states, but discrepancies between CC and multiref- erence results for certain states exist and likely arise from the lack of spin adaptation in conventional spin-orbital CC. Next, coupled-cluster methods predict the presence of an ex- cited state of the closed-shell allyl cation and its related H2CCCHCH2+ cousin at 443 nm near an unidentified laboratory peak at 442.9 nm which is also close to one of the largest unattributed interstellar absorption features. Additionally, the dipole moments, electron binding energies, and excited states of neutral radicals and corresponding closed-shell anions of interstellar interest are also computed. These are calibrated against experimental data for CH2CNâ   and CH2CHOâ  . Since coupled cluster theory closely reproduces the known experimental data, dipole-bound excited states for eight previously unknown anions are pre- dicted: CH2SiNâ  , SiH2CNâ  , CH2SiHOâ  , SiNâ  , CCOHâ  , HCCOâ  , SiCCNâ  , and SiNCâ  . In addition, we predict the existence of one rare valence-bound excited state of CH2SiNâ   and iii also SiCCNâ   as well as even rarer two valence-bound states of CCSiNâ  . Lastly, the reaction of CO + OH and its transient potential intermediate, the HOCO radical, may be responsible for the regeneration of CO2 in the Martian atmosphere, but past spectroscopic observations have not produced a full gas-phase set of the fundamental vibrational frequencies of the HOCO radical. Using established, highly-accurate quantum chemical coupled cluster tech- niques and quartic force fields, all six fundamental vibrational frequencies for 1 2Aâ ² cis and trans-HOCO and 1 1Aâ ² cis-HOCOâ   are computed in the gas phase.",
+  "description_provenance": [
+    "Author Email: r410@vt.edu",
+    "Advisor Email: lmadsen@vt.edu",
+    "Advisor Email: valeev76@vt.edu",
+    "Advisor Email: troya@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:51Z (GMT). No. of bitstreams: 2 Fortenberry_RC_D_2012_Copyright.pdf: 223807 bytes, checksum: 394aa4607c273cbee91ca6531c203891 (MD5) Fortenberry_RC_D_2012.pdf: 6668958 bytes, checksum: eb1726014db329f37b8f151dae6e1d0d (MD5)   Previous issue date: 2012-02-21"
+  ],
+  "handle": "26329",
+  "identifier_other": "etd-02282012-140915",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02282012-140915/",
+  "identifier_uri": "http://hdl.handle.net/10919/26329",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Fortenberry_RC_D_2012_Copyright.pdf",
+    "Fortenberry_RC_D_2012.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "anions",
+    "cations",
+    "radicals",
+    "quartic force fields",
+    "dipole-bound states",
+    "astrochemistry",
+    "coupled cluster theory",
+    "theoretical chemistry"
+  ],
+  "title": "Theoretical Prediction of Electronically Excited States and Vibrational Frequencies of Interstellar and Planetary Radicals, Anions, and Cations",
+  "type": "Dissertation"
+}

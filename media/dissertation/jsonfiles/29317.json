@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Padmanabhan, Babu",
+  "contributor_committeechair": "Reinholtz, Charles F.",
+  "contributor_committeemember": [
+    "Robertshaw, Harry H.",
+    "West, Robert L. Jr.",
+    "Bay, John S.",
+    "Jayaram, Sankar"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:29Z",
+  "date_adate": "2005-10-20",
+  "date_available": "2014-03-14T20:17:29Z",
+  "date_issued": "1992-09-23",
+  "date_rdate": "2005-10-20",
+  "date_sdate": "2005-10-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Isostatic frameworks are statically determinate trusses that are self contained (Le. they exist independent of support or foundation). Isostatic frameworks have been widely used as supporting structures, and recently they have been used as the structure for parallel manipulators. These truss-based manipulators could potentially solve the problems facing conventional manipulators and could make the design of high-degree-of-freedom manipulators feasible. The rigorous scientific study of isostatic frameworks and manipulators based on their structure has been limited. Recent developments in the design of large space structures and truss-based manipulators, however, demand rigorous design and mathematical tools. This dissertation provides a general theory for the design of structures based on frameworks and methods to analyze the kinematics of truss-based manipulators.</p><p> The objective of the flrst part of this dissertation is to solve the problems of identification, generation and classification of isostatic frameworks in greater depth than in any past work in this area. Original methods are discussed for the enumeration and generation of isostatic frameworks. The first part also presents an original method to determine the geometry of general frameworks and an im. proved method to find the forces in their members. The determination of geometry and forces are critical areas in structural design. </p><p> The second part of this dissertation presents a case study on one of the candidates for manipulator applications, the double-octahedral manipulator. The kinematic analyses of the double-octahedral manipulator includes methods to perform forward and inverse kinematic analysis, velocity and acceleration analysis, singularity analysis and workspace analysis. The closed-form solution to the inverse analysis presented herein is a major breakthrough in the development of the double-octahedral manipulator. Other analysis, such as velocity and acceleration, singularity, and workspace, depend on the inverse solution. It is believed that these solutions will help narrow the gap between theory and application of truss-based manipulators. The determination of singularities and works paces are application of recent ideas of other researchers. However, original implementations of these ideas have yielded astonishing results. The Jacobian and Hessian matrix presented in this dissertation should help in developing the control scheme for this device. C-Ianguage program codes for several of the methods are also provided. The methods have been tested based on the results obtained from these programs. The position analysis algorithms have also been tested on real hardware. Some of the methods developed here have been successfully employed for simulated and experimental vibration control studies.</p>",
+  "description_provenance": [
+    "Author Email: drbabu@STEERWORLD.COM",
+    "Made available in DSpace on 2014-03-14T20:17:29Z (GMT). No. of bitstreams: 1 LD5655.V856_1992.P336.pdf: 4709278 bytes, checksum: 711fe989aabbb20a8d93089bea8be9c1 (MD5)   Previous issue date: 1992-09-23"
+  ],
+  "format_medium": "BTD",
+  "handle": "29317",
+  "identifier_other": "etd-10202005-102811",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10202005-102811/",
+  "identifier_uri": "http://hdl.handle.net/10919/29317",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1992.P336.pdf",
+  "subject": [
+    "Isostatic pressing",
+    "Variable Geometry Trusses",
+    "Variable Geometry Truss Manipulators"
+  ],
+  "subject_lcc": "LD5655.V856 1992.P336",
+  "title": "A study of isostatic framework with application to manipulator design",
+  "type": "Dissertation"
+}

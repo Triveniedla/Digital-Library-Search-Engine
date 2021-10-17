@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Wan, Hung-da",
+  "contributor_committeechair": "Chen, Fengshan Frank",
+  "contributor_committeemember": [
+    "Huang, Philip Y.",
+    "Sarin, Subhash C.",
+    "Taylor, Robert E.",
+    "Sturges, Robert H."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:14:07Z",
+  "date_adate": "2006-08-31",
+  "date_available": "2014-03-14T20:14:07Z",
+  "date_issued": "2006-07-12",
+  "date_rdate": "2007-08-31",
+  "date_sdate": "2006-07-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>The implementation of lean manufacturing concepts has shown significant impacts on various industries. Numerous tools and techniques have been developed to tackle specific problems in order to eliminate wastes and carry out lean concepts. With the focus on \"how to make a system leaner,\" little effort has been made on determining \"how lean the system is.\" Lean assessment surveys evaluate the current status of a system qualitatively against predefined lean indicators. Lean metrics are developed to quantify performance of improvement initiatives, but each metric only focuses on one specific area. Value Stream Maps demonstrate the current and future states graphically with the emphasis on time-based performance only. A truly quantitative and synthesized measure for overall leanness has not been established. </p><p> In some circumstances, being lean may not be the only goal for manufacturers. In order to compete in the rapidly changing marketplace, manufacturing systems should also be agile to respond quickly to uncertain demands. Nevertheless, being extremely agile may increase the cost of regular operations and reduce the leanness of the system. Similarly, being extremely lean may reduce flexibility and lower the agility level. Therefore, a manufacturing system should be agile enough to handle the uncertainty of demands and meanwhile be lean enough to deliver goods with competitive prices and lead time. In order to achieve the appropriate leanness level, a leanness measure is needed to address not only \"how lean the system is\" but also \"how lean it should be.\" </p><p>In this research, a methodology is proposed to quantitatively measure leanness level of manufacturing systems using the Data Envelopment Analysis (DEA) technique. The production process of each work piece is defined as a Decision Making Unit (DMU) that transforms inputs of Cost and Time into output Value. Using a Slacks-Based Measure (SBM) model, the DEA-Leanness Measure is developed to quantify the leanness level of each DMU by comparing the DMU against the frontier of leanness. A Cost-Time-Value analysis is developed to create virtual DMUs to push the frontier towards ideal leanness so that an effective benchmark can be established. The DEA-Leanness Measure provides a unit-invariant leanness score valued between 0 and 1, which is an indication of \"how lean the system is\" and also \"how much leaner the system can be.\" With the help of Cost-Time Profiling technique, directions of potential improvement can be identified by comparing the profiles of DMUs with different leanness scores. The leanness measure can also be weighted between Cost, Time and Value variables. The weighted DEA-Leanness Measure provides a way to evaluate the impacts of improvement initiatives with an emphasis on the company's strategic focus.</p><p> Performing the DEA-Leanness measurement requires detailed cost and time data. A Web-Based Kanban is developed to facilitate automated data collection and real-time performance analysis. In some circumstances where detailed data is not readily available but a Value Stream Maps (VSM) has been constructed, the applications of DEA-Leanness Measure based on existing VSM are explored.</p><p> Besides pursuing leanness, satisfying a customer's demand pattern requires certain level of agility. Based on the DEA-Leanness Measure, appropriate leanness targets can be identified for manufacturing systems considering sufficient agility level. The Online-Delay and Offline-Delay Targets are determined to represent the minimum acceptable delays considering inevitable waste within and beyond a manufacturing system. Combining the two targets, a Lean-Agile Performance Index can then be derived to evaluate if the system has achieved an appropriate level of leanness with sufficient agility for meeting the customers' demand.</p><p> Hypothetical cases mimicking real manufacturing systems are developed to verify the proposed methodologies. An Excel-based DEA-Leanness Solver and a Web-Kanban System have been developed to solve the mathematical models and to substantiate potential applications of the leanness measure in real world. Finally, future research directions are suggested to further enhance the results of this research.</p>",
+  "description_provenance": [
+    "Author Email: hdwan@vt.edu",
+    "Advisor Email: phhuang@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: rotaylo2@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:07Z (GMT). No. of bitstreams: 1 Dissertation_Wan.pdf: 3355938 bytes, checksum: 75d340147e0e8ebfef5023cd554852da (MD5)   Previous issue date: 2006-07-12"
+  ],
+  "handle": "28333",
+  "identifier_other": "etd-07192006-112656",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07192006-112656/",
+  "identifier_uri": "http://hdl.handle.net/10919/28333",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Wan.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Data Envelopment Analysis (DEA)",
+    "Leanness",
+    "Agility",
+    "Lean Manufacturing",
+    "Agile Manufacturing",
+    "Slacks-Based Measure (SBM)"
+  ],
+  "title": "Measuring Leanness of Manufacturing Systems and Identifying Leanness Target by Considering Agility",
+  "type": "Dissertation"
+}

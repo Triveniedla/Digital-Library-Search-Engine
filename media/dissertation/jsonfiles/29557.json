@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Dilek, Murat",
+  "contributor_committeechair": "Broadwater, Robert P.",
+  "contributor_committeemember": [
+    "Sherali, Hanif D.",
+    "De La Ree Lopez, Jaime",
+    "Liu, Yilu",
+    "VanLandingham, Hugh F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:18:28Z",
+  "date_adate": "2001-11-16",
+  "date_available": "2014-03-14T20:18:28Z",
+  "date_issued": "2000-12-01",
+  "date_rdate": "2002-11-16",
+  "date_sdate": "2001-11-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Distribution system analysis and design has experienced a gradual development over the past three decades. The once loosely assembled and largely ad hoc procedures have been progressing toward being well-organized. The increasing power of computers now allows for managing the large volumes of data and other obstacles inherent to distribution system studies. A variety of sophisticated optimization methods, which were impossible to conduct in the past, have been developed and successfully applied to distribution systems. Among the many procedures that deal with making decisions about the state and better operation of a distribution system, two decision support procedures will be addressed in this study: phase balancing and phase prediction. The former recommends re-phasing of single- and double-phase laterals in a radial distribution system in order to improve circuit loss while also maintaining/improving imbalances at various balance point locations. Phase balancing calculations are based on circuit loss information and current magnitudes that are calculated from a power flow solution. The phase balancing algorithm is designed to handle time-varying loads when evaluating phase moves that will result in improved circuit losses over all load points.  Applied to radial distribution systems, the phase prediction algorithm attempts to predict the phases of single- and/or double phase laterals that have no phasing information previously recorded by the electric utility. In such an attempt, it uses available customer data and kW/kVar measurements taken at various locations in the system.  It is shown that phase balancing is a special case of phase prediction. Building on the phase balancing and phase prediction design studies, this work introduces the concept of integrated design, an approach for coordinating the effects of various design calculations. Integrated design considers using results of multiple design applications rather than employing a single application for a distribution system in need of improvement relative to some system aspect. Also presented is a software architecture supporting integrated design.",
+  "description_provenance": [
+    "Author Email: mdilek@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:28Z (GMT). No. of bitstreams: 1 mdilekETD.pdf: 1296592 bytes, checksum: 20fd7b59f39ca66a3f73d591cfc04aa9 (MD5)   Previous issue date: 2000-12-01"
+  ],
+  "handle": "29557",
+  "identifier_other": "etd-11132001-222401",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11132001-222401/",
+  "identifier_uri": "http://hdl.handle.net/10919/29557",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mdilekETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Software Framework",
+    "Power Distribution Design",
+    "Phase Prediction",
+    "Integrated Design",
+    "Phase Balancing",
+    "Software Architecture"
+  ],
+  "title": "Integrated Design of Electrical Distribution Systems: Phase Balancing and Phase Prediction Case Studies",
+  "type": "Dissertation"
+}

@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Kowalchuk, Scott Allen",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Sultan, Cornel",
+    "Hendricks, Scott L.",
+    "Woolsey, Craig A.",
+    "Scales, Wayne A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:18:27Z",
+  "date_adate": "2007-12-17",
+  "date_available": "2014-03-14T20:18:27Z",
+  "date_issued": "2007-09-07",
+  "date_rdate": "2007-12-17",
+  "date_sdate": "2007-11-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we discuss the Distributed Spacecraft Attitude Control System Simulator (DSACSS) testbed developed at Virginia Polytechnic Institute and State University for the purpose of investigating various control techniques for single and multiple spacecraft. DSACSS is comprised of two independent hardware-in-the-loop simulators and one software spacecraft simulator. The two hardware-in-the-loop spacecraft simulators have similar subsystems as flight-ready spacecraft (e.g. command and data handling; communications; attitude determination and control; power; payload; and guidance and navigation). The DSACSS framework is a flexible testbed for investigating a variety of spacecraft control techniques, especially control scenarios involving coupled attitude and orbital motion.  The attitude hardware simulators along with numerical simulations assist in the development and evaluation of Lyapunov based asymptotically stable, nonlinear attitude controllers with three reaction wheels as the control device. The angular rate controller successfully tracks a time varying attitude trajectory. The Modified Rodrigues Parmater (MRP) attitude controller results in successfully tracking the angular rates and MRP attitude vector for a time-varying attitude trajectory. The attitude controllers successfully track the reference attitude in real-time with hardware similar to flight-ready spacecraft.  Numerical simulations and the attitude hardware simulators assist in the development and evaluation of a robust, asymptotically stable, nonlinear attitude controller with three reaction wheels as the actuator for attitude control. The MRPs are chosen to represent the attitude in the development of the controller. The robust spacecraft attitude controller successfully tracks a time-varying reference attitude trajectory while bounding system uncertainties.  The results of a Global Positioning System (GPS) hardware-in-the-loop simulation of two spacecraft flying in formation are presented. The simulations involve a chief spacecraft in a low Earth orbit (LEO), while a deputy spacecraft maintains an orbit position relative to the chief spacecraft. In order to maintain the formation an orbit correction maneuver (OCM) for the deputy spacecraft is required. The control of the OCM is accomplished using a classical orbital element (COE) feedback controller and simulating continual impulsive thrusting for the deputy spacecraft. The COE controller requires the relative position of the six orbital elements. The deputy communicates with the chief spacecraft to obtain the current orbit position of the chief spacecraft, which is determined by a numerical orbit propagator. The position of the deputy spacecraft is determined from a GPS receiver that is connected to a GPS hardware-in-the-loop simulator. The GPS simulator creates a radio frequency (RF) signal based on a simulated trajectory, which results in the GPS receiver calculating the navigation solution for the simulated trajectory. From the relative positions of the spacecraft the COE controller calculates the OCM for the deputy spacecraft. The formation flying simulation successfully demonstrates the closed-loop hardware-in-the-loop GPS simulator.  This dissertation focuses on the development of the DSACSS facility including the development and implementation of a closed-loop GPS simulator and evaluation of nonlinear feedback attitude and orbit control laws using real-time hardware-in-the-loop simulators.",
+  "description_provenance": [
+    "Author Email: sako@vt.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Advisor Email: csultan@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: wscales@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:27Z (GMT). No. of bitstreams: 1 SAKowalchuk_Dissertation.pdf: 6061447 bytes, checksum: dc76f3c992d3db2f3a6301598be5f4a3 (MD5)   Previous issue date: 2007-09-07"
+  ],
+  "handle": "29547",
+  "identifier_other": "etd-11122007-164547",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11122007-164547/",
+  "identifier_uri": "http://hdl.handle.net/10919/29547",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SAKowalchuk_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Sliding Mode Classical Orbital Element Control",
+    "Classical Orbital Element Control",
+    "Lyapunov Based Spacecraft Attitude Control",
+    "Spacecraft Attitude Control",
+    "Spacecraft Kinematics and Rigid Body Dynamics",
+    "Spacecraft Formation Flying",
+    "GPS Hardware-in-the-loop Sim for GN&C",
+    "DSACSS",
+    "Sliding Mode Spacecraft Attitude Control"
+  ],
+  "title": "Investigation of Nonlinear Control Strategies Using GPS Simulator And Spacecraft Attitude Control Simulator",
+  "type": "Dissertation"
+}

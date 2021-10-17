@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Yu, Hao",
+  "contributor_committeechair": "Yan Jiao",
+  "contributor_committeemember": [
+    "Emmanuel A. Frimpong",
+    "Laurence W. Carstensen Jr.",
+    "Feng Guo",
+    "Donald J. Orth"
+  ],
+  "contributor_department": "Fisheries and Wildlife Sciences",
+  "date_accessioned": "2014-03-14T20:14:58Z",
+  "date_adate": "2010-08-19",
+  "date_available": "2014-03-14T20:14:58Z",
+  "date_issued": "2010-07-14",
+  "date_rdate": "2013-05-21",
+  "date_sdate": "2010-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Yellow perch (Perca flavescens) in Lake Erie support valuable commercial and recreational fisheries critical to the local economy and society.  The study of yellow perchâ  s temporal and spatial population dynamics is important for both stock assessment and fisheries management.  I explore the spatial and temporal variation of the yellow perch population by analyzing the fishery-independent surveys in Lake Erie.  Model-based approaches were developed to estimate the relative abundance index, which reflected the temporal variation of the population.  I also used design-based approaches to deal with the situation in which population density varied both spatially and temporally.  <p>     I first used model-based approaches to explore the spatial and temporal variation of the yellow perch population and to develop the relative abundance index needed.  Generalized linear models (GLM), spatial generalized linear models (s-GLM), and generalized additive models (GAM) were compared by examining the goodness-of-fit, reduction of spatial autocorrelation, and prediction errors from cross-validation.  The relationship between yellow perch density distribution and spatial and environmental factors was also studied.  I found that GAM showed the best goodness-of-fit shown as AIC and lowest prediction errors but s-GLM resulted in the best reduction of spatial autocorrelation.  Both performed better than GLM for yellow perch relative abundance index estimation.  I then applied design-based approaches to study the spatial and temporal population dynamics of yellow perch through both practical data analysis and simulation.  The currently used approach in Lake Erie is stratified random sampling (StRS).  Traditional sampling designs (simple random sampling (SRS) and StRS) and adaptive sampling designs (adaptive two-phase sampling (ATS), adaptive cluster sampling (ACS), and adaptive two-stage sequential sampling (ATSS)) for fishery-independent surveys were compared.  From accuracy and precision aspect, ATS performed better than the SRS, StRS, ACS and ATSS for yellow perch fishery-independent survey data in Lake Erie.  Model-based approaches were further studied by including geostatistical models.  The performance of the GLM and GAM models and geostatistical models (spatial interpolation) were compared when they are used to analyze the temporal and spatial variation of the yellow perch population through a simulation study.  This is the first time that these two types of model- based approaches have been compared in fisheries.  I found that arithmetic mean (AM) method was only preferred when neither environment factors nor spatial information of sampling locations were available. If the survey can not cover the distribution area of the population due to biased design or lack of sampling locations, GLMs and GAMs are preferable to spatial interpolation (SI).  Otherwise, SI is a good alternative model to estimate relative abundance index.  SI has rarely been realized in fisheries. <p>     Different models may be recommended for different species/fisheries when we estimate their spatial-temporal dynamics, and also the most appropriate survey designs may be different for different species.  However, the criteria and approaches for the comparison of both model-based and design-based approaches will be applied for different species or fisheries.",
+  "description_provenance": [
+    "Author Email: haoyu@vt.edu",
+    "Advisor Email: frimp@vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: yjiao@vt.edu",
+    "Advisor Email: feguo@vt.edu",
+    "Advisor Email: dorth@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:58Z (GMT). No. of bitstreams: 1 Yu_H_D_2010.pdf: 2980532 bytes, checksum: d10bb30a331e44b70fe4652f267c126f (MD5)   Previous issue date: 2010-07-14"
+  ],
+  "handle": "28586",
+  "identifier_other": "etd-08092010-151849",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08092010-151849/",
+  "identifier_uri": "http://hdl.handle.net/10919/28586",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yu_H_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "fishery-independent survey",
+    "spatial generalized linear model",
+    "generalized additive model",
+    "generalized linear model",
+    "catch rate",
+    "Lake Erie",
+    "Yellow perch",
+    "spatial interpolation",
+    "sampling design"
+  ],
+  "title": "Spatial and temporal population dynamics of yellow perch (Perca flavescens) in Lake Erie",
+  "type": "Dissertation"
+}

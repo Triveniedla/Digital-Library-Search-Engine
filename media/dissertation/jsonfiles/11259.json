@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Rildova",
+  "contributor_committeechair": "Singh, Mahendra P.",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Hendricks, Scott L.",
+    "Gao, David Y.",
+    "Batra, Romesh C."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T19:08:28Z",
+  "date_adate": "2004-10-06",
+  "date_available": "2011-08-22T19:08:28Z",
+  "date_issued": "2004-09-15",
+  "date_rdate": "2005-10-06",
+  "date_sdate": "2004-10-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Elevators serve a critical function in essential facilities such as hospitals and need to remain operational during and after earthquakes. However, they are still known to malfunction during earthquakes even after several design and sensing improvements required by the current code have been incorporated. Most of the damages were experienced or caused by the rail-counterweight system. Being the heaviest component of an elevator, the counterweight induced strong dynamic effects to the guiding system sometimes even collided and damaged the passenger car.  A realistic analytical model of rail-counterweight system of an elevator that includes details of the supporting system is developed in this study. The nonlinearities caused by closing of the code specified clearances play an important role in determining the dynamic behavior of the system, and are thus included in this study. Also included are the acceleration inputs from different floor of building and the effect of different location of the counterweight along the guide rail. Parametric study is carried out to investigate the effect of different parameters on the seismic responses of the rail-counterweight system.  In order to improve the seismic performance of the rail-counterweight system, several protective schemes are investigated. One simple approach is to increase the damping of the system using additional discrete viscous dampers. However, there is not much space available for installing the devices, and placement parallel to the spring at the roller guide assemblies is not quite effective due to contact between the restraining plate at the roller guide assemblies and the rail that makes the roller guides ineffective.  Another method is to convert the top part of the weights into a tuned mass damper. This method can reduce the maximum stress in the rail if designed properly. The effectiveness of the passive tuned mass damper can be improved further by using it in an active mode by installing an actuator between the mass damper and the counterweight frame. The numerical results that confirm the effectiveness of such an active tuned mass damper are presented. As an alternative to the fully active control scheme, a semi-active control scheme using a magnetorheological damper device between the mass damper and the frame is also studied. This control approach is found to be as effective in reducing the seismic response as a fully active scheme. Since this MR damper can be operated using a simple battery, the external power requirements for implementation of this approach are quite minimal.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:08:28Z (GMT). No. of bitstreams: 9  08_Vita.pdf: 3642 bytes, checksum: 73c69b17af0665a908baef23966f893d (MD5)  07_Appendix.pdf: 201351 bytes, checksum: 36e382835fbd8e5849c0b831623781b4 (MD5)  06_References.pdf: 14334 bytes, checksum: 198cdc62634e1f70b7d7f5e022b7768e (MD5)  05_Chapter5.pdf: 12911 bytes, checksum: 4e7530a4d97ed2a54bfcbd79544191a1 (MD5)  04_Chapter4.pdf: 266038 bytes, checksum: 29509d95d27a771b99a233c8d430dcb9 (MD5)  03_Chapter3.pdf: 75669 bytes, checksum: abdb977aa2b5efaef516e4278b97a627 (MD5)  02_Chapter2.pdf: 504652 bytes, checksum: 91be524b07631225e9dcd5af635022ee (MD5)  01_Chapter1.pdf: 247917 bytes, checksum: 660a2e5546607b5871c32503b667c26d (MD5)  00_Front_Pages.pdf: 23225 bytes, checksum: b84e909e3ca781adb0529ba4560163f3 (MD5)    Previous issue date: 2004-09-15",
+    "Author Email: rildova@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: mpsingh@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11259",
+  "identifier_other": "etd-10052004-201201",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10052004-201201",
+  "identifier_uri": "http://hdl.handle.net/10919/11259",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "08_Vita.pdf",
+    "07_Appendix.pdf",
+    "00_Front_Pages.pdf",
+    "01_Chapter1.pdf",
+    "05_Chapter5.pdf",
+    "03_Chapter3.pdf",
+    "04_Chapter4.pdf",
+    "02_Chapter2.pdf",
+    "06_References.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "elevator",
+    "seismic response",
+    "counterweight"
+  ],
+  "title": "Seismic Performance of Rail-Counterweight System of Elevator in Buildings",
+  "type": "Dissertation"
+}

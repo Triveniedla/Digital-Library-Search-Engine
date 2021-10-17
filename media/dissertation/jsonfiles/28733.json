@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Sriwiriyarat, Tongchai",
+  "contributor_committeechair": "Randall, Clifford W.",
+  "contributor_committeemember": [
+    "Dold, Peter",
+    "Little, John C.",
+    "Novak, John T.",
+    "Gallagher, Daniel L."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:28Z",
+  "date_adate": "2002-08-22",
+  "date_available": "2014-03-14T20:15:28Z",
+  "date_issued": "2002-08-12",
+  "date_rdate": "2003-08-22",
+  "date_sdate": "2002-08-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The hybrid activated sludge-biofilm system called Integrated Fixed Film Activated Sludge (IFAS) has recently become popular for enhanced nitrification and denitrification in aerobic zones because it is an alternative to increasing the volume of treatment plant units to accomplish year round nitrification and nitrogen removal.  Biomass is retained on the fixed-film media and remains in the aerobic reactor, thus increasing the effective mean cell resident time (MCRT) of the biomass and providing the temperature sensitive, slow growing nitrifiers a means of staying in the system when they otherwise would washout.  While the utilization of media in aerobic zones to enhance nitrification and denitrification has been the subject of several studies and full-scale experiments, the effects and performances of fixed film media integrated into the anoxic zones of biological nutrient removal (BNR) systems have not adequately been evaluated as well as the impacts of integrated media upon enhanced biological phosphorus removal (EBPR).  Also, user-friendly software designed specifically to simulate the complex mixture of biological processes that occur in IFAS systems are not available.  The purpose of this research was to more fully investigate the effects of integrated fixed film media on EBPR, to evaluate the impacts of media integrated into the anoxic zone on system performance, and to develop a software program that could be used to simulate the effects of integrating the various types of media into suspended growth biological nutrient removal (BNR) systems.  The UCT type configuration was chosen for the BNR system, and Accuweb rope-like media was selected for integration into the anoxic zones of two IFAS systems.  The media also was integrated into the aerobic reactors of one of the systems for comparison and for further investigation of the performance of the Accuweb media on enhanced nitrification and denitrification in the aerobic zones.  The experiments were conducted at 10 day total MCRT during the initial phase, and then at 6 days MCRT for the experimental temperature of 10 oC.  A13 hour hydraulic retention time   (HRT) was used throughout the study.  A high and a low COD/TP ratio were used during the investigation to further study the effects of integrated media on EBPR.  The PC Windows based IFAS program began with the concepts of IAWQ model No. 2 and a zero-dimensional biofilm model was developed and added to predict the IFAS processes.  Experimental data from the initial study and existing data from similar studies performed at high temperatures (>10oC) indicated that there were no significant differences in BNR performances between IFAS systems with media integrated into the anoxic and aerobic or only aerobic zones and a suspended growth control system maintained at the same relative high MCRT and temperature values.  Even though greater biological nitrogen removal could not be achieved for the experimental conditions used, the experimental results indicated that the IFAS systems with fixed film media installed in the anoxic zone have a greater potential for denitrification than conventional BNR systems.  As much as 30 percent of the total denitrification was observed to occur in the aerobic zones of the system installed the media only anoxic zones and 37% in the system with integrated media in both anoxic and aerobic zones where as no denitrification was observed in the aerobic zones of the control system when the systems were operated at 6 days MCRT and COD/TP of 52.  It is statistically confirmed EBPR can be maintained in IFAS systems as well as Control systems, but the IFAS processes tend to have more phosphorus release in the anoxic zones with integrated fixed film installed.  Further, the combination of split flow to the anoxic zone and fixed film media in the anoxic zone resulted in the decreased EBPR performances in the IFAS system relative to the control system.",
+  "description_provenance": [
+    "Author Email: tosriwir@vt.edu",
+    "Advisor Email: dold@envirosim.com",
+    "Advisor Email: jcl@vt.edu",
+    "Advisor Email: jtnov@vt.edu",
+    "Advisor Email: dang@vt.edu",
+    "Advisor Email: cliff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:28Z (GMT). No. of bitstreams: 3 abstract.pdf: 81348 bytes, checksum: 840fa997e4dfd6e74884cc8a552aaf94 (MD5) vita.pdf: 118780 bytes, checksum: 98113a04cea09b64d7773109bea8317b (MD5) Dissertation.pdf: 1176102 bytes, checksum: 46d8212ad6cd7f92043cf1bbf677e697 (MD5)   Previous issue date: 2002-08-12"
+  ],
+  "handle": "28733",
+  "identifier_other": "etd-08202002-055226",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08202002-055226/",
+  "identifier_uri": "http://hdl.handle.net/10919/28733",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "abstract.pdf",
+    "vita.pdf",
+    "Dissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "EBPR",
+    "IFAS",
+    "Nitrification",
+    "Biofilm",
+    "Mathematical Modeling",
+    "Denitrification"
+  ],
+  "title": "Mathematical Modeling and Evaluation of Ifas Wastewater Treatment Processes for Biological Nitrogen and Phosphorus Removal",
+  "type": "Dissertation"
+}

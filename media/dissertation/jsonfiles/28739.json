@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Adam, Zaeinulabddin Mohamed Ahmed",
+  "contributor_committeechair": "Abbas, Montasir M.",
+  "contributor_committeemember": [
+    "Hobeika, Antoine G.",
+    "Rakha, Hesham Ahmed",
+    "Pasupathy, Raghu"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:29Z",
+  "date_adate": "2012-09-28",
+  "date_available": "2014-03-14T20:15:29Z",
+  "date_issued": "2012-08-10",
+  "date_rdate": "2012-09-28",
+  "date_sdate": "2012-08-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Managing traffic during oversaturated conditions is a current challenge for practitioners due to the lack of adequate tools that can handle such situations. Unlike under-saturated conditions, operation of traffic signal systems during congestion requires careful consideration and analysis of the underlying causes of the congestion before developing mitigation strategies. The objectives of this research are to provide a practical guidance for practitioners to identify oversaturated scenarios and to develop a multi-objective methodology for selecting and evaluating mitigation strategy/ or combinations of strategies based on a guiding principles. The research focused on traffic control strategies that can be implemented by traffic signal systems. The research did not considered strategies that deals with demand reduction or seek to influence departure time choice, or route choice. The proposed timing methodology starts by detecting networkâ  s critical routes as a necessary step to identify the traffic patterns and potential problematic scenarios. A wide array of control strategies are defined and categorized to address oversaturation problematic scenarios. A timing procedure was then developed using the principles of oversaturation timing in cycle selection, split allocation, offset design, demand overflow, and queue allocation in non-critical links. Three regimes of operation were defined and considered in oversaturation timing: (1) loading, (2) processing, and (3) recovery. The research also provides a closed-form formula for switching control plans during the oversaturation regimes. The selection of optimal control plan is formulated as linear integer programming problem. Microscopic simulation results of two arterial test cases revealed that traffic control strategies developed using the proposed framework led to tangible performance improvements when compared to signal control strategies designed for operations in under-saturated conditions. The generated control plans successfully manage to allocate queues in network links.",
+  "description_provenance": [
+    "Author Email: zadam@vt.edu",
+    "Advisor Email: ahobeika@gmail.com]",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: Raghu.Pasupathy@gmail.com",
+    "Advisor Email: abbas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:29Z (GMT). No. of bitstreams: 1 Adam_ZM_D_2012_3.pdf: 11217655 bytes, checksum: b667aad0383e89501475f4773b2c8618 (MD5)   Previous issue date: 2012-08-10"
+  ],
+  "handle": "28739",
+  "identifier_other": "etd-08202012-163019",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08202012-163019/",
+  "identifier_uri": "http://hdl.handle.net/10919/28739",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Adam_ZM_D_2012_3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Signal system",
+    "Oversaturation control strategy",
+    "Critical route",
+    "Pareto front",
+    "Queue management",
+    "Wavelet analysis",
+    "Multi-objective control"
+  ],
+  "title": "Development and Applications of Multi-Objectives Signal Control Strategy during Oversaturated Conditions",
+  "type": "Dissertation"
+}

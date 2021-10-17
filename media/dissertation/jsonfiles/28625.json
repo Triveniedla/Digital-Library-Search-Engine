@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Phanouriou, Constantinos",
+  "contributor_committeechair": "Abrams, Marc",
+  "contributor_committeemember": [
+    "Edwards, Stephen H.",
+    "Williges, Robert C.",
+    "Rosson, Mary Beth",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:05Z",
+  "date_adate": "2000-11-02",
+  "date_available": "2014-03-14T20:15:05Z",
+  "date_issued": "2000-09-26",
+  "date_rdate": "2001-11-02",
+  "date_sdate": "2000-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation proposes a comprehensive solution to the problem of building device-independent (or multi-channel) user interfaces promoting the separation of the interface from the application logic.  It introduces an interface model (Meta-Interface Model, or MIM) for separating the user interface from the application logic and the presentation device.  MIM divides the interface into three components, presentation, interface, and logic, that are connected with abstract vocabularies designed in terms of user chosen abstraction.  The logic component provides a canonical way for the user interface to communicate with an application.  The presentation component provides a canonical way for the user interface to render itself independently of the platform.  The interface component describes the interaction between the user and the application using a set of abstract parts, events, and method calls that are device and application independent.  MIM goes one step further than earlier models and subdivides the interface into four additional subcomponents:  structure, style, content, and behavior.  The structure describes the organization of the parts in the interface, the style describes the presentation specific properties of each part, the content describes the information that is presented to the user, and the behavior describes user interaction with the interface in a platform-independent manner.  This dissertation also presents the second version of the User Interface Markup Language (UIML2), a declarative language that derives its syntax from XML and realizes the MIM model.  It also gives the design rationale behind the language and discusses the implementation issues for mapping UIML2 to various devices (Java/JFC, PalmOS, WML, HTML, and VoiceXML).  Finally, this dissertation evaluates UIML2 in terms of its goals, and among the major ones are to provide a canonical format for describing interfaces that map to multiple devices and to generate one description of a user interface connection to the application logic independent of target device.",
+  "description_provenance": [
+    "Author Email: phanouri@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: williges@vt.edu",
+    "Advisor Email: rosson@cs.vt.edu",
+    "Advisor Email: abrams@cs.vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:05Z (GMT). No. of bitstreams: 7 AppendixB2NetworkDeviceStatus.uiml: 41845 bytes, checksum: 22fdffc8a37c3c3aa9c130c3260edad7 (MD5) UIML2_0e.dtd: 15122 bytes, checksum: 013ffb2c38eb6df389657b84aed2d977 (MD5) AppendixB3Calculator.uiml: 9545 bytes, checksum: 00aea5f65477abcedd2a63ab3469de67 (MD5) PhanouriouETD.pdf: 1515293 bytes, checksum: 4be55d7d258466475ea288fd903a09a4 (MD5) AppendixB4SimpleCalculator.uiml: 2828 bytes, checksum: 016cf1390ac90c1c9477c93f05c5cb6d (MD5) AppendixB1Calendar.uiml: 99597 bytes, checksum: 518de4836148d8b52ea00b9fdd00a423 (MD5) AppendixB5Paint.uiml: 3183 bytes, checksum: 6bf4c9f500513b527fff25417b97bad1 (MD5)   Previous issue date: 2000-09-26"
+  ],
+  "handle": "28625",
+  "identifier_other": "etd-08122000-19510051",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122000-19510051/",
+  "identifier_uri": "http://hdl.handle.net/10919/28625",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "AppendixB2NetworkDeviceStatus.uiml",
+    "UIML2_0e.dtd",
+    "AppendixB3Calculator.uiml",
+    "PhanouriouETD.pdf",
+    "AppendixB4SimpleCalculator.uiml",
+    "AppendixB1Calendar.uiml",
+    "AppendixB5Paint.uiml"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "multi-channel interfaces",
+    "XML",
+    "UIML",
+    "user interface",
+    "markup language"
+  ],
+  "title": "UIML: A Device-Independent User Interface Markup Language",
+  "type": "Dissertation"
+}

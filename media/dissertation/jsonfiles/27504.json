@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Wang, Zhu",
+  "contributor_committeechair": "Iliescu, Traian",
+  "contributor_committeemember": [
+    "Burns, John A.",
+    "Borggaard, Jeffrey T.",
+    "Lin, Tao",
+    "Zietsman, Lizette"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:27Z",
+  "date_adate": "2012-05-14",
+  "date_available": "2014-03-14T20:11:27Z",
+  "date_issued": "2012-04-17",
+  "date_rdate": "2012-05-14",
+  "date_sdate": "2012-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Reduced-order models are frequently used in the simulation of complex flows to overcome the high computational cost of direct numerical simulations, especially for three-dimensional nonlinear problems.  Proper orthogonal decomposition, as one of the most commonly used tools to generate reduced-order models, has been utilized in many engineering and scientific applications.  Its original promise of computationally efficient, yet accurate approximation of coherent structures in high Reynolds number turbulent flows, however, still remains to be fulfilled. To balance the low computational cost required by reduced-order modeling and the complexity of the targeted flows, appropriate closure modeling strategies need to be employed.   In this dissertation, we put forth two new closure models for the proper orthogonal decomposition reduced-order modeling of structurally dominated turbulent flows: the dynamic subgrid-scale model and the variational multiscale model.  These models, which are considered state-of-the-art in large eddy simulation, are carefully derived and numerically investigated.   Since modern closure models for turbulent flows generally have non-polynomial nonlinearities, their efficient numerical discretization within a proper orthogonal decomposition framework is challenging. This dissertation proposes a two-level method for an efficient and accurate numerical discretization of general nonlinear proper orthogonal decomposition closure models. This method computes the nonlinear terms of the reduced-order model on a coarse mesh. Compared with a brute force computational approach in which the nonlinear terms are evaluated on the fine mesh at each time step, the two-level method attains the same level of accuracy while dramatically reducing the computational cost. We numerically illustrate these improvements in the two-level method by using it in three settings: the one-dimensional Burgers equation with a small diffusion parameter, a two-dimensional flow past a cylinder at Reynolds number Re = 200, and a three-dimensional flow past a cylinder at Reynolds number Re = 1000.  With the help of the two-level algorithm, the new nonlinear proper orthogonal decomposition closure models (i.e., the dynamic subgrid-scale model and the variational multiscale model), together with the mixing length and the Smagorinsky closure models, are tested in the numerical simulation of a three-dimensional turbulent flow past a cylinder at Re = 1000. Five criteria are used to judge the performance of the proper orthogonal decomposition reduced-order models: the kinetic energy spectrum, the mean velocity, the Reynolds stresses, the root mean square values of the velocity fluctuations, and the time evolution of the proper orthogonal decomposition basis coefficients. All the numerical results are benchmarked against a direct numerical simulation. Based on these numerical results, we conclude that the dynamic subgrid-scale and the variational multiscale models are the most accurate.  We present a rigorous numerical analysis for the discretization of the new models. As a first step, we derive an error estimate for the time discretization of the Smagorinsky proper orthogonal decomposition reduced-order model for the Burgers equation with a small diffusion parameter.  The theoretical analysis is numerically verified by two tests on problems displaying shock-like phenomena.   We then present a thorough numerical analysis for the finite element discretization of the variational multiscale proper orthogonal decomposition reduced-order model for convection-dominated convection-diffusion-reaction equations. Numerical tests show the increased numerical accuracy over the standard reduced-order model and illustrate the theoretical convergence rates.  We also discuss the use of the new reduced-order models in realistic applications such as airflow simulation in energy efficient building design and control problems as well as  numerical simulation of large-scale ocean motions in climate modeling. Several research directions that we plan to pursue in the future are outlined.",
+  "description_provenance": [
+    "Author Email: wangzhu@vt.edu",
+    "Advisor Email: burns@math.vt.edu",
+    "Advisor Email: iliescu@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: lzietsma@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:27Z (GMT). No. of bitstreams: 1 Wang_Z_D_2012.pdf: 8831807 bytes, checksum: d7e32b03a7a3b254929d90085ef2d225 (MD5)   Previous issue date: 2012-04-17"
+  ],
+  "handle": "27504",
+  "identifier_other": "etd-05022012-012117",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022012-012117/",
+  "identifier_uri": "http://hdl.handle.net/10919/27504",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wang_Z_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "variational multiscale",
+    "dynamic subgrid-scale model",
+    "two-level algorithm",
+    "approximate deconvolution",
+    "finite elements",
+    "numerical analysis",
+    "Proper orthogonal decomposition",
+    "reduced-order modeling",
+    "large eddy simulation",
+    "eddy viscosity",
+    "turbulence"
+  ],
+  "title": "Reduced-Order Modeling of Complex Engineering and Geophysical Flows: Analysis and Computations",
+  "type": "Dissertation"
+}

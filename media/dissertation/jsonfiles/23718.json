@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Rickli, Jeremy Lewis",
+  "contributor_committeechair": "Camelio, Jaime A.",
+  "contributor_committeemember": [
+    "Sarin, Subhash C",
+    "Wernz, Christian",
+    "McGinnis, Sean"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2013-08-20T08:00:06Z",
+  "date_available": "2013-08-20T08:00:06Z",
+  "date_issued": "2013-08-19",
+  "degree_discipline": "Industrial and Systems Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation addresses gaps in the interaction between End-of-Life (EoL) product acquisition systems and disassembly sequencing. The research focuses on two remanufacturing research problems; 1) modeling uncertain EoL product quality, quantity, and timing in regards to EoL product acquisition and disassembly sequencing and 2) designing EoL product acquisition schemes considering EoL product uncertainty. The main research objectives within these areas are; analyzing, predicting, and controlling EoL product uncertainty, and incorporating EoL product uncertainty into operational and strategic level decisions. This research addresses these objectives by researching a methodology to determine optimal or near-optimal partial disassembly sequences using infeasible sequences while considering EoL product quality uncertainty. Consumer incentives are integrated into the methodology to study the effect of EoL product take-back incentives, but it also allows for the study of EoL product quantity uncertainty. EoL product age distributions are key to integrating the disassembly sequence method with EoL product acquisition management, acting both as an indicator of quality and as a basis for determining return quantity when considering incentives. At a broader level, this research makes it possible to study the impact of EoL product quality, and to an extent quantity, uncertainty resulting from strategic level (acquisition scheme) decisions, on operational (disassembly sequencing) decisions. <br /><br />This research is motivated by the rising importance of value recovery and sustainability to manufacturers. Extended Producer Responsibility (EPR) and Product Stewardship (PS) policies are, globally, changing the way products are treated during their use-life and EoL. Each new policy places a greater responsibility on consumers and manufacturers to address the EoL of a product. Manufacturers, in particular, may have to fulfill these obligations by such means as contracting 3rd parties for EoL recovery or performing recovery in-house. The significance of this research is linked to the growing presence of remanufacturing and recovery in the US and global economy, either via profitable ventures or environmental regulations. Remanufacturing, in particular, was surveyed by the US International Trade Commission in 2011-2012, where it was determined that remanufacturing grew by 15% to $43 billion, supported 180,000 full-time jobs from 2009-2011, and is continuing to grow.<br /><br />A partial disassembly sequence, multi-objective genetic algorithm (GA) is used a solution procedure to address the problem of determining the optimal or near-optimal partial disassembly sequence considering a continuous age distribution of EoL or available consumer products, with and without a consumer take-back incentive. The multi-objective GA, novel to the presented approach, relies on infeasible sequences to converge to optimal or near-optimal disassembly sequences. It is verified with a discrete economic and environmental impact case prior to incorporating EoL product age distributions. Considering the age distribution of acquired EoL products allows for decisions to be made based not only on expected profit, but also on profit variance and profit probability per EoL product, which was not observed in previous literature. As such, the research presented here within provides three contributions to disassembly and EoL product acquisition research: 1) integrating EoL product age distributions into partial disassembly sequencing objective functions, 2) accounting for partial disassembly sequence expected profit, profit variation, and profit probability as compared to disassembly sequencing methods that have, historically, only considered expected profit, and 3) studying the impact of EoL product age distributions and consumer take-back incentives on optimal or near-optimal partial disassembly sequences. Overall, this doctoral research contributes to the body of knowledge in value recovery, reverse logistics, and disassembly research fields, and is intended to be used, in the future, to develop and design efficient EoL product acquisition systems and disassembly operations.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-20T08:00:06Z (GMT). No. of bitstreams: 2 Rickli_JL_D_2013.pdf: 2397013 bytes, checksum: c6023a8b4da1f8a608ca9d350e717db7 (MD5) Rickli_JL_D_2013_support_1.pdf: 217337 bytes, checksum: e89c9036e0a3fab359319fdd9616f241 (MD5)   Previous issue date: 2013-08-19",
+  "format_medium": "ETD",
+  "handle": "23718",
+  "identifier_other": "vt_gsexam:1545",
+  "identifier_uri": "http://hdl.handle.net/10919/23718",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Disassembly Sequencing",
+    "Product Acquisition Management",
+    "End-of-Life Product Value Recovery"
+  ],
+  "title": "The Effect of Uncertain End-of-Life Product Quality and Consumer Incentives on Partial Disassembly Sequencing in Value Recovery Operations",
+  "type": "Dissertation"
+}

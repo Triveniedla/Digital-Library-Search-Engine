@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Hudson, Rhett Daniel",
+  "contributor_committeechair": "Athanas, Peter M.",
+  "contributor_committeemember": [
+    "Cyre, Walling R.",
+    "Jones, Mark T.",
+    "Midkiff, Scott F.",
+    "Fabunmi, James A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:31Z",
+  "date_adate": "2000-09-21",
+  "date_available": "2014-03-14T20:14:31Z",
+  "date_issued": "2000-07-20",
+  "date_rdate": "2001-09-21",
+  "date_sdate": "2000-07-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The configurable computing research community has provided a wealth of evidence that computational platforms based on FPGA technology are capable of cost-effectively accelerating certain kinds of computations. One actively growing area in the research community examines the benefits to computation that can be gained by reconfiguring the FPGAs in a system during the execution of an application. This technique is commonly referred to as run-time reconfiguration. Widespread acceptance of run-time reconfigurable custom computing depends upon the existence of high-level automated design tools. Given the wide variety of available platforms and the rate that the technology is evolving, a set of architecturally independent tools that provide the ability to port applications between different architectures will allow application-based intellectual property to be easily migrated between platforms. A Java implementation of such a toolset, called Janus, is presented and analyzed here. In this environment, developers create a Java class that describes the structural behavior of an application. The design framework allows hardware and software modules to be freely intermixed. During the compilation phase of the development process, the Janus tools analyze the structure of the application and adapt it to the target architecture. Janus is capable of structuring the run-time behavior of an application to take advantage of the resources available on the platform. Examples of applications developed using the toolset are presented. The performance of the applications is reported. The retargeting of applications for multiple hardware architectures is demonstrated.",
+  "description_provenance": [
+    "Author Email: rhudson@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: cyre@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: jfabunmi@aedar.com",
+    "Made available in DSpace on 2014-03-14T20:14:31Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 591970 bytes, checksum: 7853ba985f4257e17d1d1939d417e04d (MD5)   Previous issue date: 2000-07-20"
+  ],
+  "handle": "28451",
+  "identifier_other": "etd-07302000-17350036",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07302000-17350036/",
+  "identifier_uri": "http://hdl.handle.net/10919/28451",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "FPGA",
+    "Automated Design",
+    "Run-Time Reconfigurable",
+    "Configurable Computing"
+  ],
+  "title": "Architecture-Independent Design for Run-Time Reconfigurable Custom Computing Machines",
+  "type": "Dissertation"
+}

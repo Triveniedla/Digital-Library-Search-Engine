@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Wu, Zhanghan",
+  "contributor_committeechair": "Xing, Jianhua",
+  "contributor_committeemember": [
+    "Cao, Yang",
+    "Cimini, Daniela",
+    "Walker, Richard A."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:12:08Z",
+  "date_adate": "2011-06-13",
+  "date_available": "2014-03-14T20:12:08Z",
+  "date_issued": "2011-05-04",
+  "date_rdate": "2011-06-13",
+  "date_sdate": "2011-05-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Using statistical physics principles to solve problems in biology is one of the most promising directions due to the complexity and non-equilibrium fluctuations in biological systems. In this work, we try to describe the dynamics at both cellular and molecular levels. Microtubule dynamics and dynamic disorder of enzyme proteins are two of the examples we investigated. The dynamics of microtubules and the mechanical properties of these polymers are essential for many key cellular processes. However, critical discrepancies between experimental observations and existing models need to be resolved before further progress towards a complete model can be made. We carried out computational studies to compare the mechanical properties of two alternative models, one corresponding to the existing, conventional model, and the other considering an additional type of tubulin lateral interaction described in a cryo-EM structure of a proposed trapped intermediate in the microtubule assembly process. Our work indicates that a class of sheet structures is transiently trapped as an intermediate during the assembly process in physiological conditions. In the second part of the work, we analyzed enzyme slow conformational changes in the context of regulatory networks. A single enzymatic reaction with slow conformational changes can serve as a basic functional motif with properties normally discussed with larger networks in the field of systems biology. The work on slow enzyme dynamics fills the missing gap between studies on intramolecular and network dynamics. We also showed that enzyme fluctuations could be amplified into fluctuations in phosphorylation networks. This can be used as a novel biochemical â  reporterâ   for measuring single enzyme conformational fluctuation rates.",
+  "description_provenance": [
+    "Author Email: zwu07@vt.edu",
+    "Advisor Email: jxing@vt.edu",
+    "Advisor Email: ycao@cs.vt.edu",
+    "Advisor Email: cimini@vt.edu",
+    "Advisor Email: rawalker@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:08Z (GMT). No. of bitstreams: 1 WU_Zhanghan_D_2011.pdf: 7925199 bytes, checksum: 9ac15b5ba7177922b77b32b37449b457 (MD5)   Previous issue date: 2011-05-04"
+  ],
+  "handle": "27745",
+  "identifier_other": "etd-05162011-105041",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05162011-105041/",
+  "identifier_uri": "http://hdl.handle.net/10919/27745",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WU_Zhanghan_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Microtubule Dynamics",
+    "Mathematical Modeling",
+    "Enzyme Conformational Changes",
+    "Single Molecular Fluctuations"
+  ],
+  "title": "Understanding molecular and cellular processes using statistical physics",
+  "type": "Dissertation"
+}

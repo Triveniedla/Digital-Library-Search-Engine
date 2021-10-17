@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Lee, Munki",
+  "contributor_committeechair": "Sturges, Robert H.",
+  "contributor_committeemember": [
+    "Baird, Donald G.",
+    "Deisenroth, Michael P.",
+    "Reinholtz, Charles F.",
+    "Leo, Donald J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T18:53:36Z",
+  "date_adate": "2004-04-01",
+  "date_available": "2011-08-22T18:53:36Z",
+  "date_issued": "2002-05-08",
+  "date_rdate": "2004-04-01",
+  "date_sdate": "2004-03-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "New heating techniques are required to better control heat transfer between heating tools and a composite towpreg in the automated fiber placement process. This dissertation suggests new heating techniques with liquid and rigid contact heat sources, and compares them with a widely used gas heat source for the fiber placement process.  A thin towpreg composite model needs to be developed to describe the heat transfer. Subsequently, the response of the towpreg with each heat source was compared from manufacturing speed and energy efficiency viewpoints. The most promising heat source was developed for heat transfer modeling between a moving towpreg and dynamic heat source in the automated fiber placement. Through the heat transfer model, both the temperature controllability of the towpreg and manufacturing speed could be investigated. In addition, an accurate compaction process is needed in response to the growing demand for better composite processing. Since the errors in compaction mechanisms and robotic machinery in fiber placement have not been discussed in the literature, experimental investigation to address possible reasons for the variations in the compaction force was conducted with a compaction mechanism. A clearer understanding of the physical compaction process can lead to controllable process parameters for consistent ply compaction, such that the final parts quality can be enhanced. Even though this dissertation investigates the thin thermoset fiber placement process, the proposed approach could be universally applicable to other composite-fabrication processes.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:36Z (GMT). No. of bitstreams: 1  DISSERTATION_LEE.pdf: 996766 bytes, checksum: e26703c7d1f7ff7e617010a2f41b2f69 (MD5)    Previous issue date: 2002-05-08",
+    "Author Email: mulee@vt.edu",
+    "Advisor Email: dbaird@vt.edu",
+    "Advisor Email: deisenroth@vt.edu",
+    "Advisor Email: creinhol@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: sturges@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11123",
+  "identifier_other": "etd-03232004-203236",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03232004-203236",
+  "identifier_uri": "http://hdl.handle.net/10919/11123",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DISSERTATION_LEE.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Fiber Placement",
+    "Consolidation",
+    "Temperature Control",
+    "Modeling",
+    "Heat Transfer",
+    "Composite Manufacturing"
+  ],
+  "title": "Heat Transfer and Consolidation Modeling of Fiber Tow in Fiber Placement",
+  "type": "Dissertation"
+}

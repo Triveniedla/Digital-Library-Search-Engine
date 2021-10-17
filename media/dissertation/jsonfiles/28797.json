@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Sunny, Mohammed   Rabius",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Patil, Mayuresh J.",
+    "Philen, Michael K.",
+    "Batra, Romesh C.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:41Z",
+  "date_adate": "2010-09-14",
+  "date_available": "2014-03-14T20:15:41Z",
+  "date_issued": "2010-06-25",
+  "date_rdate": "2010-09-14",
+  "date_sdate": "2010-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The aim of this research is to calibrate conductive polymer nanocomposite materials for large strain sensing and develop a structural health monitoring algorithm for gossamer structures by using nanocomposites as strain sensors. Any health monitoring system works on the principle of sensing the response (strain, acceleration etc.) of the structure to an external excitation and analyzing the response to find out the location and the extent of the damage in the structure. A sensor network, a mathematical model of the structure, and a damage detection algorithm are necessary components of a structural health monitoring system. In normal operating conditions, a gossamer structure can experience normal strain as high as 50%. But presently available sensors can measure strain up to 10% only, as traditional strain sensor materials do not show low elastic modulus and high electrical conductivity simultaneously. Conductive polymer nanocomposite which can be stretched like rubber (up to 200%) and has high electrical conductivity (sheet resistance 100 Ohm/sq.) can be a possible large strain sensor material. But these materials show hysteresis and relaxation in the variation of electrical properties with mechanical strain. It makes the calibration of these materials difficult. We have carried out experiments on conductive polymer nanocomposite sensors to study the variation of electrical resistance with time dependent strain. Two mathematical models, based on the modified fractional calculus and the Preisach approaches, have been developed to model the variation of electrical resistance with strain in a conductive polymer. After that, a compensator based on a modified Preisach model has been developed. The compensator removes the effect of hysteresis and relaxation from the output (electrical resistance) obtained from the conductive polymer nanocomposite sensor. This helps in calibrating the material for its use in large strain sensing. Efficiency of both the mathematical models and the compensator has been shown by comparison of their results with the experimental data. A prestressed square membrane has been considered as an example structure for structural health monitoring. Finite element analysis using ABAQUS has been carried out to determine the response of the membrane to an uniform transverse dynamic pressure for different damage conditions. A neuro-fuzzy system has been designed to solve the inverse problem of detecting damages in the structure from the strain history sensed at different points of the structure by a sensor that may have a significant hysteresis. Damage feature index vector determined by wavelet analysis of the strain history at different points of the structure are taken by the neuro-fuzzy system as input. The neuro-fuzzy system detects the location and extent of the damage from the damage feature index vector by using some fuzzy rules. Rules associated with the fuzzy system are determined by a neural network training algorithm using a training dataset, containing a set of known input and output (damage feature index vectors, location and extent of damage for different damage conditions). This model is validated by using the sets of input-output other than those which were used to train the neural network.",
+  "description_provenance": [
+    "Author Email: sunny@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: mphilen@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:41Z (GMT). No. of bitstreams: 1 Sunny_MR_D_2010.pdf: 1639336 bytes, checksum: 806a596b5d6684fdc6a44dd26ab55a41 (MD5)   Previous issue date: 2010-06-25"
+  ],
+  "handle": "28797",
+  "identifier_other": "etd-08252010-121333",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252010-121333/",
+  "identifier_uri": "http://hdl.handle.net/10919/28797",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Sunny_MR_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fuzzy Logic",
+    "Neural Network",
+    "Compensator",
+    "Preisach Model",
+    "Structural Health Monitoring",
+    "Hysteresis",
+    "Relaxation",
+    "Fractional Calculus Model",
+    "Gossamer Structures",
+    "Prestressed Membrane",
+    "Neuro-fuzzy System"
+  ],
+  "title": "Towards Structural Health Monitoring of Gossamer Structures Using Conductive Polymer Nanocomposite Sensors",
+  "type": "Dissertation"
+}

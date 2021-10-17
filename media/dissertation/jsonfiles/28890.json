@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Wang, Lixin",
+  "contributor_committeechair": "Sarin, Subhash C.",
+  "contributor_committeemember": [
+    "Hendricks, Robert W.",
+    "Fraticelli, Barbara M. P.",
+    "Ellis, Kimberly P."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:59Z",
+  "date_adate": "2008-10-22",
+  "date_available": "2014-03-14T20:15:59Z",
+  "date_issued": "2008-08-20",
+  "date_rdate": "2011-09-05",
+  "date_sdate": "2008-09-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The latest generation of semiconductor wafer fabs produce Integrated Circuits (ICs) on silicon wafers of 300mm diameter.  In this dissertation, we address the following two types of (new) scheduling problems that are encountered in this generation of wafer fabs: multiple-lots-per-carrier scheduling problem (MLCSP) and integrated automated material handling and lot scheduling problem (IMHLSP). We consider several variations of the MLCSP depending upon the number of machines used, the prevailing processing technology of the machines, and the type of objective functions involved. For the IMHLSP, we study two instances, one with infinite number of vehicles and the other with finite number of vehicles.<p>  We begin by introducing a single-machine, multiple-lots-per-carrier with single-wafer-processing-technology scheduling problem for the objective of minimizing the total completion time (MLCSP1). The wafer carrier is a front-opening unified pod (FOUP) that can hold a limited number of wafers. The problem is easy to solve when all the lots are of the same size. For the case of different lot sizes, we first relax the carrier (FOUP) capacity and propose a dynamic programming-based algorithm, called RelaxFOUP-DP, which enables a quick determination of its optimal solution that serves as a lower bound for the problem with limited FOUP capacity. Then, a branch-and-bound algorithm, designated as MLCSP1-B&B, is developed that relies on the lower bound determined by the RelaxFOUP-DP algorithm. Numerical tests indicate that MLCSP1-B&B finds optimal solutions much faster than the direct solution of the MLCSP1 model by the AMPL CPLEX 10.1 Solver. In fact, for the medium and low density problems, the MLCSP1-B&B algorithm finds optimal solutions at the starting node (node zero) itself.<p>  Next, we consider a single-machine, multiple-lots-per-carrier with single-carrier-processing-technology scheduling problem for the objective of minimizing total completion time (MLCSP2). As for the case of MLCSP1, the optimal solution for the case in which all the lots are of the same size can be obtained easily. For the case of different lot sizes, we determine a lower bound and an upper bound for the problem and prove the worst-case ratios for them.<p>  Subsequently we analyze a two-machine flow shop, multiple-lots-per-carrier with single-wafer-processing-technology scheduling problem for the objective of minimizing the makespan (MLCSP3). We first consider a relaxed version of this problem, and transform the original problem to a two-machine flow shop lot streaming problem. Then, we propose algorithms to find the optimal capacitated sublot sizes for the case of lots with (1) the same ratio of processing times, and, (2) different ratios of processing times on the machines. Since the optimal solutions obtained from the lot streaming problem may not be feasible to the MLCSP3, we develop heuristic methods based on the heuristic procedures for the bin packing problem. We develop four heuristic procedures for lots with the same ratio of processing times, and another four procedures for lots with different ratios of processing times on the machines. Results of our numerical experimentation are presented that show that our heuristic procedures generate almost optimal solutions in a matter of a few seconds.<p>  Next, we address the integrated automated material handling and lot scheduling problem (IMHLSP) in the presence of infinite number of vehicles. We, first, propose a new strong hybrid model, which has the advantages of both segregate and direct models. In the segregate model, a job is always transferred to the stocker after its completion at a station, while in the direct model, it is transferred to the next machine in case that machine can accommodate the jobs; otherwise, the job will stay at current station. The decisions involved in the strong hybrid model are the sequence in which to process the lots and a selection between the segregate and direct models for each lot, whichever optimizes system performance. We show that, under certain conditions about the processing times of the lots, the problem can be approximated by the cases of either infinite buffer or zero-buffer at the machines. Hence, we consider all three cases of the IMHLSP in this chapter, namely, infinite buffer, zero-buffer, and limited buffer sizes. For the strong hybrid model with limited buffer size, we propose a branch-and-bound algorithm, which uses a modified Johnsonâ  s algorithm to determine a lower bound. Two upper bounds for this algorithm are also determined. Results of our numerical investigation indicate that our algorithm finds optimal solutions faster than the direct solution of the IMHLSP model by the AMPL CPLEX 10.1 Solver. Experimental results also indicate that for the same problem size, the times required to solve the IMHLSP model with interbay movements are larger than those for intrabay movements.<p>  Finally, we investigate the IMHLSP in the presence of limited number of vehicles. Due to the complex nature of the underlying problem, we analyze small-size versions of this problem and develop algorithms for their solution. For some of these problems, we can find optimal solutions in polynomial time. Also, based on our analysis on small-size systems, we have shown why some real-time dispatching (RTD) rules used in real fabs are expected to perform well while not the others. In addition, we also propose some new and promising RTD rules based on our study.",
+  "description_provenance": [
+    "Author Email: lxwang@vt.edu",
+    "Advisor Email: hendrxrw@mse.vt.edu",
+    "Advisor Email: bfratice@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:59Z (GMT). No. of bitstreams: 1 Lixinwang1021ETD.pdf: 1387613 bytes, checksum: 6af599a54f6c7b895e5796bc9d502464 (MD5)   Previous issue date: 2008-08-20"
+  ],
+  "handle": "28890",
+  "identifier_other": "etd-09072008-205305",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09072008-205305/",
+  "identifier_uri": "http://hdl.handle.net/10919/28890",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lixinwang1021ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Makespan",
+    "Multiple Lots per Carrier Scheduling",
+    "Integrated AMHS and Lot Scheduling",
+    "AMHS",
+    "Total Completion Time",
+    "300mm Wafer Fabs"
+  ],
+  "title": "Optimal and Approximate Algorithms for the Multiple-Lots-per-Carrier Scheduling and Integrated Automated Material Handling and Lot Scheduling Problems in 300mm Wafer Fabs",
+  "type": "Dissertation"
+}

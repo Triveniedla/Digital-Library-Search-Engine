@@ -1,0 +1,45 @@
+{
+  "contributor_author": "DePasquale III, Peter Joseph",
+  "contributor_committeechair": "Lee, John A. N.",
+  "contributor_committeemember": [
+    "Chase, Joseph Dwight",
+    "Lewis, John A.",
+    "Arthur, James D.",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:14:13Z",
+  "date_adate": "2003-08-05",
+  "date_available": "2014-03-14T20:14:13Z",
+  "date_issued": "2003-07-17",
+  "date_rdate": "2003-08-05",
+  "date_sdate": "2003-07-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The undergraduate Computer Science program at Virginia Tech is the largest in the Commonwealth of Virginia, of which a key component is ``CS 1044: Introduction to Programming'', and is typical of a first course in computer programming throughout the USA.  While the student access to learning resources has improved considerably with the development of web-based assets, students are still expected to use the same sophisticated program development tools as are used in industry.  The perceived complexity of the learning environment currently in use drives many women and minority students from the Computer Science program. A great deal of attention has been paid to the need to administer the student assignments and the grading system for this course, so as to minimize the teaching/grading load, but little attention has been paid to the methodologies of learning the material through practice.  The work reported herein is intended to improve the pedagogy of this course by creating and integrating teaching/learning tools that better manage the student's engagement in the use of program development activities. Following the implementation of a three-element software system involving an interpreter for the C-language, a program development environment, and a data-monitoring/collectiondevice, the system was deployed in support of the freshman course in parallel to the commercial system commonly used. The experiment concentrated on examining the impact of the simplified development environment and the effort required for students to complete assigned programming projects.",
+  "description_provenance": [
+    "Author Email: pjdepasq@vt.edu",
+    "Advisor Email: jchase@radford.edu",
+    "Advisor Email: john.lewis@villanova.edu",
+    "Advisor Email: arthur@cs.vt.edu",
+    "Advisor Email: janlee@cs.vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:13Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 3628576 bytes, checksum: d123463e833f51cdfe968c011f774207 (MD5)   Previous issue date: 2003-07-17"
+  ],
+  "handle": "28367",
+  "identifier_other": "etd-07232003-204701",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07232003-204701/",
+  "identifier_uri": "http://hdl.handle.net/10919/28367",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CS1",
+    "language subsets",
+    "programming environments",
+    "novice programmers"
+  ],
+  "title": "Implications on the Learning of Programming Through the Implementation of Subsets in Program Development Environments",
+  "type": "Dissertation"
+}

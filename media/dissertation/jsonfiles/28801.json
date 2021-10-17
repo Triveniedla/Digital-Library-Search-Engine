@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Suh, Seong-Youp",
+  "contributor_committeechair": "Stutzman, Warren L.",
+  "contributor_committeemember": [
+    "Safaai-Jazi, Ahmad",
+    "Lin, Tao",
+    "Davis, William A.",
+    "Raman, Sanjay"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:43Z",
+  "date_adate": "2002-08-28",
+  "date_available": "2014-03-14T20:15:43Z",
+  "date_issued": "2002-07-29",
+  "date_rdate": "2003-08-28",
+  "date_sdate": "2002-08-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Broadband wireless communications require wideband antennas to support large number of users and higher data rates. Desirable features of a wideband antenna are low-profile, dual-polarization and wide bandwidth in a compact size. Many existing wideband antennas are large in size and some have only circular polarization. On the other hand low-profile, dual-polarized antennas frequently have limited bandwidth. This dissertation reports on results from original research into several new wideband antennas. All are compact and planar, and many are low-profile and dual-polarized.  Since 1994, Virginia Tech Antenna Group (VTAG) has performed research on the wideband, low-profile and dual-polarized antennas of compact size. This research resulted in the following antenna innovations: the Fourpoint, Fourtear, PICA (Planar Inverted Cone Antenna), diPICA (dipole PICA) and LPdiPICA (Low-Profile diPICA) antennas. They are all planar in geometry so one can easily construct them in a compact size. The antennas were characterized and investigated with extensive simulations and measurements. The computed and measured data demonstrates that some of the antennas appear to have the characteristics of the self-complementary antenna and most of the proposed antennas provide more than a 10:1 impedance bandwidth for a VSWR < 2. Patterns, however, are degraded at the high end of the frequency. Several tapered ground planes were proposed to improve the radiation pattern characteristics without degrading the impedance performance. A simulation result proposed a possibility of another antenna inventions providing 10:1 pattern bandwidth with the 10:1 impedance bandwidth.  Research into wideband antennas demonstrated that the newly invented antennas are closely related each other and are evolved from a primitive element, PICA. Not only the comprehensive investigation but also a practical antenna design has been done for commercial base-station array antennas and to phased array antennas for government applications. This dissertation presents results of comprehensive investigation of new planar wideband antennas and its usefulness to the broadband wireless communications.",
+  "description_provenance": [
+    "Author Email: suh@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: sraman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:43Z (GMT). No. of bitstreams: 1 PHD_DISSERTATION_SUH.pdf: 2681209 bytes, checksum: 622f7bf9e035b1174a0b3270ff5f5a42 (MD5)   Previous issue date: 2002-07-29"
+  ],
+  "handle": "28801",
+  "identifier_other": "etd-08262002-183120",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08262002-183120/",
+  "identifier_uri": "http://hdl.handle.net/10919/28801",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PHD_DISSERTATION_SUH.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Low-profile",
+    "Wideband antenna",
+    "Planar",
+    "Ultra-wideband",
+    "Dual polarization"
+  ],
+  "title": "A Comprehensive Investigation of New Planar Wideband Antennas",
+  "type": "Dissertation"
+}

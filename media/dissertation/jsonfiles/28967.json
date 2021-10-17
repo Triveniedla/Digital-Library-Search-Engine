@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Pyla, Pardha S",
+  "contributor_committeechair": "Hartson, H. Rex",
+  "contributor_committeemember": [
+    "Smith-Jackson, Tonya L.",
+    "Arthur, James D.",
+    "Hix, Deborah S.",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:14Z",
+  "date_adate": "2007-09-17",
+  "date_available": "2014-03-14T20:16:14Z",
+  "date_issued": "2007-09-10",
+  "date_rdate": "2007-09-17",
+  "date_sdate": "2007-09-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Interactive software systems have both functional and user interface components. User interface design and development requires specialized usability engineering (UE) knowledge, training, and experience in topics such as psychology, cognition, specialized design guidelines, and task analysis. The design and development of a functional core requires specialized software engineering (SE) knowledge, training, and experience in topics such as algorithms, data structures, software architectures, calling structures, and database management.   Given that the user interface and the functional core are two closely coupled components of an interactive software system, with each constraining the design of the other, there is a need for the SE and UE life cycles to be connected to support communication among roles between the two development life cycles. Additionally, there is a corresponding need for appropriate computer science curricula to train the SE and UE roles about the connections between the two processes.  In this dissertation, we connected the SE and UE life cycles by creating the Ripple project development environment which fosters communication between the SE and UE roles and by creating a graduate-level cross-pollinated SE-UE joint course offering, with student teams spanning the two classes, to educate students about the intricacies of interactive-software development. Using this joint course we simulated different conditions of interactive-software development (i.e. with different types of project constraints and role playing) and assigned different teams to these conditions. As part of semester-long class projects these teams developed prototype systems for a real client using their assigned development condition. Two of the total of eight teams in this study used the Ripple framework.   As part of this experimental course offering, various instruments were employed throughout the semester to assess the effectiveness of a framework like Ripple and to investigate candidate factors that impact the quality of product and process of interactive-software systems. The study highlighted the importance of communication among the SE and UE roles and exemplified the need for the two roles to respect each other and to have the willingness to work with one another. Also, there appears to exist an inherent conflict of interest when the same people play both UE and SE roles as they seem to choose user interface features that are easy to implement and not necessarily easy to use by systemâ  s target users. Regarding pedagogy, students in this study indicated that this joint SE-UE course was more useful in learning about interactive-software development and that it provided a better learning experience than traditional SE-only or UE-only courses.",
+  "description_provenance": [
+    "Author Email: ppyla@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: hartson@vt.edu",
+    "Advisor Email: hix@cs.vt.edu",
+    "Advisor Email: perez@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:14Z (GMT). No. of bitstreams: 1 Pardha_Pyla_Dissertation.v38-submitted.pp.pdf: 8244231 bytes, checksum: f6e0756f995d3b0ed322e5f5848c3b4d (MD5)   Previous issue date: 2007-09-10"
+  ],
+  "handle": "28967",
+  "identifier_other": "etd-09132007-233325",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09132007-233325/",
+  "identifier_uri": "http://hdl.handle.net/10919/28967",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Pardha_Pyla_Dissertation.v38-submitted.pp.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "unified framework",
+    "usability engineering",
+    "integration",
+    "life cycle representation",
+    "Software engineering",
+    "Ripple",
+    "influencing factors"
+  ],
+  "title": "Connecting the usability and software engineering life cycles through a communication-fostering software development framework and cross-pollinated computer science courses",
+  "type": "Dissertation"
+}

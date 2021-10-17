@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Liu, Jianhua",
+  "contributor_committeechair": "Potter, Kenneth R.",
+  "contributor_committeemember": [
+    "Lockee, Barbara B.",
+    "Moore, David Michael",
+    "Ogle, Jeffrey Todd"
+  ],
+  "contributor_department": "Learning Sciences and Technologies",
+  "date_accessioned": "2014-03-14T20:17:15Z",
+  "date_adate": "2010-11-09",
+  "date_available": "2014-03-14T20:17:15Z",
+  "date_issued": "2010-09-10",
+  "date_rdate": "2010-11-09",
+  "date_sdate": "2010-10-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation explores the feasibility of employing software agent technology to support large-scale assessment. The research included the design, development, and evaluation of the Assessment Agent System for assessing comprehensive understanding based on concept maps.   The system was designed by following an agent-oriented software design method. The Assessment Agent System is composed of five types of software agents: instructor agent, student agent, management agent, assessment agent, and reporting agent. Each of these agents was designed to possess different capabilities. Software agents in the system, through communication and cooperation, collectively provide the functionalities of user-system interaction, user management, task authoring and management, assessment delivery, task presentation, response collection, automatic assessing with feedback, and reporting. Through the process of design, development, and evaluation of the Assessment Agent System, this study demonstrates an approach that employs an agent-oriented software design method to produce sophisticated educational software applications.   Furthermore, this study explored the concept map assessing method for the Assessment Agent System. When node terms and linking phrases are provided, assessing student concept maps can be automated by comparing student concept maps with assessment criteria, proposition by proposition. However, the usefulness of the proposition-comparing method depends heavily on the accuracy and thoroughness of the criterion propositions. Therefore, assessment criteria need to be continually refined and improved through examining student-created propositions.",
+  "description_provenance": [
+    "Author Email: jhliu@vt.edu",
+    "Advisor Email: kpotter@vt.edu",
+    "Advisor Email: lockeebb@vt.edu",
+    "Advisor Email: moorem@vt.edu",
+    "Advisor Email: jogle@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:15Z (GMT). No. of bitstreams: 1 Liu_J_D_2010.pdf: 3162475 bytes, checksum: c949207158e0cde69ee2f8f551056bf5 (MD5)   Previous issue date: 2010-09-10"
+  ],
+  "handle": "29231",
+  "identifier_other": "etd-10092010-152756",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10092010-152756/",
+  "identifier_uri": "http://hdl.handle.net/10919/29231",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Liu_J_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "concept map",
+    "learning assessment",
+    "software agent",
+    "assessment agent"
+  ],
+  "title": "The Assessment Agent System: Assessing Comprehensive Understanding Based on Concept Maps",
+  "type": "Dissertation"
+}

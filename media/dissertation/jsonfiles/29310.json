@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Lloyd, Charles J. C.",
+  "contributor_committeechair": "Beaton, Robert J.",
+  "contributor_committeemember": [
+    "Snyder, Harry L.",
+    "Deisenroth, Michael P.",
+    "Conners, Richard W.",
+    "Prestrude, Albert M."
+  ],
+  "contributor_department": "Industrial Engineering and Operations Research",
+  "date_accessioned": "2014-03-14T20:17:28Z",
+  "date_adate": "2005-10-19",
+  "date_available": "2014-03-14T20:17:28Z",
+  "date_issued": "1990-04-01",
+  "date_rdate": "2010-10-19",
+  "date_sdate": "2005-10-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation examines those attributes of full-color display systems (particularly color matrix displays) which degrade image quality. Based on this analysis, it is suggested that a comprehensive metric should measure image quality in terms of transmitted signal and noise modulation, both achromatic and chromatic. Moreover, it is suggested that these signal and noise measurements be weighted in terms of human spatial-chromatic visual characteristics. <p> A review of extant image quality metrics reveals several limitations of these metrics which make them unsuitable for the evaluation of color matrix displays. These limitations include the inability to account for chromatic modulation transfer and chromatic noise as well as the general inability to account for spatial and grey-scale sampling. <p> This work describes a new methodology for assessing image quality that can be applied to full-color as well as monochromatic, and sampled as well as continuous, display systems. Unlike most display quality metrics, the proposed methodology is not based on the tools of linear systems analysis. Rather, it is based on more veridical models of the human visual system (HVS), including multi-channel models of spatial vision, the zone theory of color vision, physiological models of retinal processes, and models of the optics of the eye. <p> A display evaluation system consisting of the HVS model used in conjunction with a display simulator is described. The HVS model employs nine image processing stages to account for nonlinear retinal processes, opponent color encoding, and multiple spatial frequency channels. A detailed procedure for using the HVS model to evaluate display systems is provided. <p> The Validity of the HVS model was tested by conducting contrast detection, discrimination, and magnitude estimation experiments on the model. The results of these experiments correspond closely with published human performance data The utility of the display evaluation system was assessed by making image quality predictions for the display systems used in three image quality studies. Image quality predictions using the proposed system correlate strongly with ratings of image quality provided by human subjects. Results of these validation studies indicate that the proposed method of display evaluation is viable and warrants further development.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:17:28Z (GMT). No. of bitstreams: 1 LD5655.V856_1990.L669.pdf: 6073167 bytes, checksum: 8f3baa7a08a1df71cb579dc535f3516b (MD5)   Previous issue date: 1990-04-01",
+  "format_medium": "BTD",
+  "handle": "29310",
+  "identifier_other": "etd-10192005-113333",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10192005-113333/",
+  "identifier_uri": "http://hdl.handle.net/10919/29310",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1990.L669.pdf",
+  "subject": [
+    "Cathode ray tubes research",
+    "Information display systems research"
+  ],
+  "subject_lcc": "LD5655.V856 1990.L669",
+  "title": "A human spatial-chromatic vision model for evaluating electronic displays",
+  "type": "Dissertation"
+}

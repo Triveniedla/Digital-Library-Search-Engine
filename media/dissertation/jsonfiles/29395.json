@@ -1,0 +1,47 @@
+{
+  "contributor_author": "McGinnis, Daniel Frank",
+  "contributor_committeechair": "Little, John C.",
+  "contributor_committeemember": [
+    "Lorke, Andreas",
+    "Diplas, Panayiotis",
+    "Love, Nancy C.",
+    "Gallagher, Daniel L.",
+    "Wuest, Alfred"
+  ],
+  "contributor_department": "Environmental Engineering",
+  "date_accessioned": "2014-03-14T20:17:46Z",
+  "date_adate": "2003-10-31",
+  "date_available": "2014-03-14T20:17:46Z",
+  "date_issued": "2003-10-02",
+  "date_rdate": "2004-10-31",
+  "date_sdate": "2003-10-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Lakes and reservoirs exhibit a number of mixing and transport mechanisms.  Understanding the transport is crucial to understanding and predicting constituent and density structures.  Transport in waterbodies can be natural, such as seiche-induced boundary mixing or advectively-driven inflows.  Hypolimnetic oxygenation using bubble-plumes also leads to enhanced mixing.  Whether natural or plume-induced, increased mixing will alter the waterbody properties.  Conversely, the density structure affects the behavior of plumes as well as inflowing and outflowing water.  For example, stratification resulting from impounding a river can result in nutrient and suspended solids retention.  Similarly, operation of plumes can induce mixing in the hypolimnion, resulting in warming, increased nutrient transport, and resuspension of settled particles. </p><p> Modeling is extremely useful in determining the effects of dams on water quality constituents, enhanced transport, and the performance of mitigation techniques, such as hypolimnetic oxygenation.  In this work, a variety of modeling techniques are used to evaluate natural and man-made mixing mechanisms.  These include simple temperature and mass budgets, a two-dimensional lake model, and a two-phase plume model. </p><p> A bubble-plume and plume-enhanced mixing was studied in Lake Hallwil.  It was found that the plume-lake interaction was much more complex then previously expected, and knowledge of the seiche- and plume-enhanced near-field was necessary to accurately model the plume performance.  A two-dimensional lake model was then coupled with a linear-plume model to accurately predict not only the plume performance, but also the plume-enhanced mixing in Spring Hollow Reservoir.  The same two-dimensional lake model, used in conjunction with data analysis, demonstrated that the Iron Gate I Reservoir was not a significant sink for suspended solids, with only the large, adjacent side bay (Orsova Bay) thought to be the permanent sink.  Furthermore, significant stratification did not develop, preventing substantial primary productivity. While the impoundment did change the water quality characteristics, the extent is much less than previously expected.  The modeling methods presented here and the coupled plume-reservoir model should be useful tools for the design, modeling and greater understanding of bubble-plumes and other transport-related phenomena in lakes and reservoirs.</p><p>",
+  "description_provenance": [
+    "Author Email: dan.mcginnis@eawag.ch",
+    "Advisor Email: jcl@vt.edu",
+    "Advisor Email: pdiplas@vt.edu",
+    "Advisor Email: nlove@vt.edu",
+    "Advisor Email: dang@vt.edu",
+    "Advisor Email: wuest@eawag.ch",
+    "Made available in DSpace on 2014-03-14T20:17:46Z (GMT). No. of bitstreams: 1 DFM.pdf: 3284317 bytes, checksum: d75723be8e889e8ceceb2c0474a35363 (MD5)   Previous issue date: 2003-10-02"
+  ],
+  "handle": "29395",
+  "identifier_other": "etd-10292003-122611",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10292003-122611/",
+  "identifier_uri": "http://hdl.handle.net/10919/29395",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DFM.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hypolimnetic oxygenation",
+    "bubble-plume",
+    "sedimentation",
+    "transport",
+    "modeling"
+  ],
+  "title": "Two-Dimensional Lake and Reservoir Modeling: Natural and Plume-Induced Mixing Mechanisms",
+  "type": "Dissertation"
+}

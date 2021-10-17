@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Choi, Jae-Young",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "van Wyk, Jacobus Daniel",
+    "Lai, Jih-Sheng Jason",
+    "Lee, Fred C."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:47Z",
+  "date_adate": "2001-08-06",
+  "date_available": "2014-03-14T20:14:47Z",
+  "date_issued": "2001-07-24",
+  "date_rdate": "2002-08-06",
+  "date_sdate": "2001-08-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As is the case for DC-DC converters, multi-phase converters require both high-quality power control and high power-density. Although a higher switching frequency not only improves the quality of the converter output but also decreases the size of the converter, it increases switching losses and electromagnetic interference (EMI) noise. Since the soft-switching topologies reduce the switching losses of the converter main switches, the topologies make converters partially independent from the switching frequency. However, the conventional soft-switching topologies have already proposed most of the possible ways to improve converter performance. In addition, the trends of the newly generated power devices reduce the advantages of soft-switching topologies. This critical situation surrounding soft-switching topologies gives research motivations: What features of soft-switching topologies facilitate their practical applications? Given this motivation, the dissertation discusses two aspects = simplifying auxiliary circuits and accounting for the effects of soft-switching operations on the converter control. Engineers working with medium- and high-power multi-phase converters require simplified soft-switching topologies that have the same level of performance as the conventional soft-switching topologies. This demand is the impetus behind one of the research objectives = simplifying the auxiliary circuits of Zero-Voltage-Transition (ZVT) inverters. Simplifying the auxiliary circuits results in both a smaller number of and lower cost for auxiliary components, without any negative impact on performance. This dissertation proposes two major concepts for the simplification - the Single-Switch Single-Leg (S3L) ZVT cell and the Phase-Lock (PL) concept. Throughout an effort to eliminate circulating currents of inductor-coupled (IC) ZVT converters, the S3L ZVT cell is developed. The proposed cell allows a single auxiliary switch to achieve zero-voltage conditions for both the top and bottom main switches, and it achieves the same level of performance as the conventional ZVT cell, as well. This proposal makes IC ZVT topologies more attractive to multi-phase converter applications.  Because all of the top main switches generally have identical sequences for zero-voltage turn-on commutations, one auxiliary switch might handle the commutations of all of the top main switches. This possibility introduces the PL concept, which allows the two auxiliary switches to provide a zero-voltage condition for any main switch commutation. In order to compensate for restrictions of this concept, a modified space-vector modulation (SVM) scheme also is introduced. A soft-switching topology changes the duty ratios of the converter, which affects the controllability of the converter. Therefore, this dissertation selects resolution of this issue as one of the research objectives. This dissertation derives the generalized timing equations of ZVT operations, and the generalized equations formulize the effect of ZVT operation on both duty ratios and DC current. Moreover, the effect of SVM schemes is also investigated. An average model of the ZVT converter is developed using both the timing analysis and the investigation of SVM schemes, and small-signal analysis using the average model predicts the steady-state characteristics of the converter.",
+  "description_provenance": [
+    "Author Email: jychoi@ee.vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:47Z (GMT). No. of bitstreams: 1 dissertation_etd.pdf: 6318045 bytes, checksum: 128c73698c6a43a434342744a3f7647f (MD5)   Previous issue date: 2001-07-24"
+  ],
+  "handle": "28537",
+  "identifier_other": "etd-08062001-022140",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08062001-022140/",
+  "identifier_uri": "http://hdl.handle.net/10919/28537",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Average modeling",
+    "Soft-switching topologies",
+    "Power Electronics"
+  ],
+  "title": "Analysis of Inductor-Coupled Zero-Voltage-Transition Converters",
+  "type": "Dissertation"
+}

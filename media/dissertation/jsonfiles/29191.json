@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Chalmeta, A. Pablo",
+  "contributor_committeechair": "Parry, Charles J.",
+  "contributor_committeemember": [
+    "Renardy, Michael J.",
+    "Green, Edward L.",
+    "Linnell, Peter A.",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:17:05Z",
+  "date_adate": "2006-11-20",
+  "date_available": "2014-03-14T20:17:05Z",
+  "date_issued": "2006-09-29",
+  "date_rdate": "2009-11-20",
+  "date_sdate": "2006-10-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "If we adjoin the cube root of a cube free rational integer  <i>m</i> to the rational numbers we construct a cubic field.  If we adjoin the cube roots of distinct cube free rational integers <i>m</i> and <i>n</i> to the rational numbers we construct a bicubic field.  The number theoretic invariants for the cubic fields and their normal closures are well known.  Some work has been done on the units, classnumbers and other invariants of the bicubic fields and their normal closures by Parry but no method is available for calculating those invariants. This dissertation provides an algorithm for calculating the number theoretic invariants of the bicubic fields and their normal closure. Among these invariants are the discriminant, an integral basis, a set of fundamental units, the class number and the rank of the 3-class group.",
+  "description_provenance": [
+    "Author Email: chalmeta@vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Advisor Email: parrycj@vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Advisor Email: linnell@math.vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:05Z (GMT). No. of bitstreams: 1 chalmeta.pdf: 922089 bytes, checksum: 60a19a7f26f6833c1dbc75bf9eb68206 (MD5)   Previous issue date: 2006-09-29"
+  ],
+  "handle": "29191",
+  "identifier_other": "etd-10042006-220651",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10042006-220651/",
+  "identifier_uri": "http://hdl.handle.net/10919/29191",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "chalmeta.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bicubic Fields",
+    "Invariants",
+    "Ideal Class Group",
+    "Normal Closure",
+    "Class Number"
+  ],
+  "title": "On the Units and the Structure of the 3-Sylow Subgroups of the Ideal Class Groups of Pure Bicubic Fields and their Normal Closures",
+  "type": "Dissertation"
+}

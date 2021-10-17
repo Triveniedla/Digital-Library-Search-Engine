@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Xie, Bei",
+  "contributor_committeechair": "Bose, Tamal",
+  "contributor_committeemember": [
+    "Beex, A. A. Louis",
+    "Tranter, William H.",
+    "Ha, Dong Sam",
+    "Marathe, Madhav V."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:02Z",
+  "date_adate": "2012-04-25",
+  "date_available": "2014-03-14T20:09:02Z",
+  "date_issued": "2011-12-05",
+  "date_rdate": "2012-04-25",
+  "date_sdate": "2012-04-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Adaptive filters play an important role in the fields related to digital signal processing and communication, such as system identification, noise cancellation, channel equalization, and beamforming. In practical applications, the computational complexity of an adaptive filter is an important consideration. The Least Mean Square (LMS) algorithm is widely used  because of its low computational complexity (O(N)) and simplicity in implementation. The least squares algorithms, such as Recursive Least Squares (RLS), Conjugate Gradient (CG), and Euclidean Direction Search (EDS), can converge faster and have lower steady-state mean square error (MSE) than LMS. However, their high computational complexity ($O(N^2)$) makes them unsuitable for many real-time applications. A well-known approach to controlling computational complexity is applying partial update (PU) method to adaptive filters. A partial update method can reduce the adaptive algorithm complexity by updating part of the weight vector instead of the entire vector or by updating part of the time. An analysis for different PU adaptive filter algorithms is necessary and meaningful. The deficient-length adaptive filter addresses a situation in system identification where the length of the estimated filter is shorter than the length of the actual unknown system. It is related to the partial update adaptive filter, but has different performance. It can be viewed as a PU adaptive filter, in that the deficient-length adaptive filter also updates part of the weight vector. However, it updates the same part of the weight vector for each iteration, while the partial update adaptive filter updates a different part of the weight vector for each iteration.  In this work, basic PU methods are applied to the adaptive filter algorithms which have not been fully addressed in the literature, including CG, EDS, and Constant Modulus Algorithm (CMA) based algorithms. A new PU method, the selective-sequential method, is developed for LSCMA. Mathematical analysis is shown including convergence condition, steady-state performance, and tracking performance. Computer simulation with proper examples is also shown to further help study the performance. The performance is compared among different PU methods or among different adaptive filtering algorithms. Computational complexity is calculated for each PU method and each adaptive filter algorithm. The deficient-length RLS and EDS are also analyzed and compared to the performance of the PU adaptive filter.  In this dissertation, basic partial-update methods are applied to adaptive filter algorithms including CMA1-2, NCMA, Least Squares CMA (LSCMA), EDS, and CG. A new PU method, the selective-sequential method, is developed for LSCMA. Mathematical derivation and performance analysis are provided including convergence condition, steady-state mean and mean-square performance for a time-invariant system. The steady-state mean and mean-square performance are also presented for a time-varying system. Computational complexity is calculated for each adaptive filter algorithm. Numerical examples are shown to compare the computational complexity of the PU adaptive filters with the full-update filters. Computer simulation examples, including system identification and channel equalization, are used to demonstrate the mathematical analysis and show the performance of PU adaptive filter algorithms. They also show the convergence performance of PU adaptive filters. The performance is compared between the original adaptive filter algorithms and different partial-update methods. The performance is also compared among similar PU least-squares adaptive filter algorithms, such as PU RLS, PU CG, and PU EDS. Deficient-length RLS and EDS are studied. The performance of the deficient-length filter is also compared with the partial update filter. In addition to the generic applications of system identification and channel equalization, two special applications of using partial update adaptive filters are also presented. One application is using PU adaptive filters to detect Global System for Mobile Communication (GSM) signals in a local GSM system using the Open Base Transceiver Station (OpenBTS) and Asterisk Private Branch Exchange (PBX). The other application is using PU adaptive filters to do image compression in a system combining hyperspectral image compression and classification.  Overall, the PU adaptive filters can usually achieve comparable performance to the full-update filters while reducing the computational complexity significantly. The PU adaptive filters can achieve similar steady-state MSE to the full-update filters. Among different PU methods, the MMax method has a convergence rate very close to the full-update method. The sequential and stochastic methods converge slower than the MMax method. However, the MMax method does not always perform well with the LSCMA algorithm. The sequential LSCMA has the best performance among the PU LSCMA algorithms. The PU CMA may perform better than the full-update CMA in tracking a time-varying system. The MMax EDS can converge faster than the MMax RLS and CG. It can converge to the same steady-state MSE as the MMax RLS and CG, while having a lower computational complexity. The PU LMS and PU EDS can also perform a little better in a system combining hyperspectral image compression and classification.",
+  "description_provenance": [
+    "Author Email: xbxb@vt.edu",
+    "Advisor Email: tbose@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: marathe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:02Z (GMT). No. of bitstreams: 2 Xie_Bei_D_2011.pdf: 6691176 bytes, checksum: 7f074117f1751e8b8412ecc643dceb85 (MD5) Xie_Bei_D_2011_Copyright.pdf: 314467 bytes, checksum: b34f33e314c8f9b0bd8665ae459448d4 (MD5)   Previous issue date: 2011-12-05"
+  ],
+  "handle": "26670",
+  "identifier_other": "etd-04062012-174123",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04062012-174123/",
+  "identifier_uri": "http://hdl.handle.net/10919/26670",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Xie_Bei_D_2011.pdf",
+    "Xie_Bei_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Partial Update",
+    "Adaptive Filter",
+    "CMA1-2",
+    "NCMA",
+    "LSCMA",
+    "RLS",
+    "EDS",
+    "CG"
+  ],
+  "title": "Partial Update Adaptive Filtering",
+  "type": "Dissertation"
+}

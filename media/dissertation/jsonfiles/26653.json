@@ -1,0 +1,60 @@
+{
+  "contributor_author": "Otis, Paul T.",
+  "contributor_committeechair": "Triantis, Konstantinos P.",
+  "contributor_committeemember": [
+    "Drew, Donald R.",
+    "Grizzard, Thomas J.",
+    "Sullivan, William G.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:08:59Z",
+  "date_adate": "1999-04-22",
+  "date_available": "2014-03-14T20:08:59Z",
+  "date_issued": "1999-01-29",
+  "date_rdate": "2000-04-22",
+  "date_sdate": "1999-04-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The concept of efficiency measurement is based on the definition of a frontier that envelopes observed production plans.  The effect of pollution on productive efficiency is typically studied by considering pollution as not freely disposable (i.e., there is a cost incurred to dispose of pollution) or by assigning shadow prices to pollution outputs.  However, the frontier along with the required technological assumptions (such as convexity) needed for a definition of a frontier may be replaced with the concept of pair-wise dominance.  With  data from a manufacturing facility, the use of pair-wise dominance allows one to consider a wide spectrum of inputs and outputs.  Pair-wise dominance can also be applied to segregate production plans into sets according to their relative environmental performance and productive efficiency.  These sets are used to identify reference production plans upon which distance-based measures of performance are defined.  This research applies pair-wise dominance to time series data  from a printed circuit board manufacturing facility to illustrate the approach.  The proposed approach is compared to the Data Envelopment Analysis (DEA) approach.  It was observed that for  detailed production data the proposed approach was more informative concerning the measurement of productive efficiency than the standard methods.",
+  "description_provenance": [
+    "Author Email: pt_otis@pop.kis.net",
+    "Advisor Email: drdrew@vt.edu",
+    "Advisor Email: grizzard@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: bills@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:59Z (GMT). No. of bitstreams: 13 AppA_notation.pdf: 5190 bytes, checksum: 0618cb7b50818487c7a6a142ee35a793 (MD5) cv.pdf: 10330 bytes, checksum: 2ca3c80a80bf26fc6c8d012f899c0879 (MD5) AppC_calcs.pdf: 610030 bytes, checksum: e52b1dd50acb4c2da283f42669e80b3e (MD5) References.pdf: 47674 bytes, checksum: 37574280054251d3bd6d4427c86fbe84 (MD5) Contents.pdf: 19543 bytes, checksum: 98284dd8ab442b49fb2f70f76f1651b9 (MD5) Chapter5.pdf: 25988 bytes, checksum: f53ecce245b3b35476baa2dfea9c2b77 (MD5) AppD_programs.pdf: 103299 bytes, checksum: 6a2940303c660ed58b75029c9873787d (MD5) Chapter3.pdf: 114573 bytes, checksum: 41f2c84635782f22efbdb0a3418c9c0a (MD5) Glossary.pdf: 4636 bytes, checksum: 9afe2726a6467ae4f2f0f43afe5fe8bd (MD5) Chapter2.pdf: 215755 bytes, checksum: 2d429f4c50402ee477001bab93d491c1 (MD5) Chapter1.pdf: 30279 bytes, checksum: 4aa795973c80abe42b975864b4d0515e (MD5) Chapter4.pdf: 193863 bytes, checksum: bca4ac45fe8023b0162473816cec6d09 (MD5) AppB_data.pdf: 79144 bytes, checksum: aeb6be9139d9f18b27ab37a84e37bb80 (MD5)   Previous issue date: 1999-01-29"
+  ],
+  "handle": "26653",
+  "identifier_other": "etd-040599-163219",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-040599-163219/",
+  "identifier_uri": "http://hdl.handle.net/10919/26653",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "AppA_notation.pdf",
+    "cv.pdf",
+    "AppC_calcs.pdf",
+    "References.pdf",
+    "Contents.pdf",
+    "Chapter5.pdf",
+    "AppD_programs.pdf",
+    "Chapter3.pdf",
+    "Glossary.pdf",
+    "Chapter2.pdf",
+    "Chapter1.pdf",
+    "Chapter4.pdf",
+    "AppB_data.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "benchmark correspondence",
+    "environmental performance",
+    "data envelopment analysis",
+    "productive efficiency",
+    "dominance"
+  ],
+  "title": "Dominance Based Measurement of Environmental Performance and Productive Efficiency of Manufacturing",
+  "type": "Dissertation"
+}

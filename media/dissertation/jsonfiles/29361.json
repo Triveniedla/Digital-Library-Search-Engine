@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Davidson, Bradley",
+  "contributor_committeechair": "Madigan, Michael L.",
+  "contributor_committeemember": [
+    "Granata, Kevin P.",
+    "Klein, Bradley G.",
+    "Nussbaum, Maury A.",
+    "Marsh, Anthony P.",
+    "Southward, Steve C."
+  ],
+  "contributor_department": "Biomedical Engineering",
+  "date_accessioned": "2014-03-14T20:17:37Z",
+  "date_adate": "2007-11-05",
+  "date_available": "2014-03-14T20:17:37Z",
+  "date_issued": "2007-10-12",
+  "date_rdate": "2007-11-05",
+  "date_sdate": "2007-10-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Falls from heights (FFH) are one of the leading causes of fatalities in skilled labor divisions such as construction, mining, agriculture/forestry, and manufacturing. Previous research has established that localized muscle fatigue (LMF) increases center of mass (COM)- and center of pressure (COP)-based measures of quiet stance. This is important because these increases have been linked to elevated risk of falls, and workers in the construction industry frequently engage in fatiguing activities while working at heights. In addition, the rate of fatality due to an occupational fall increases exponentially with age. Improved methods of fall prevention may be obtained through increased understanding of factors that have a deleterious effect on balance and postural control such as LMF and aging.  An initial study was conducted to investigate the effects of LMF and aging on balance recovery from a postural perturbation without stepping.  Sagittal plane postural perturbations were administered to young and older groups of participants before and after exercises to fatigue the lumbar extensors or ankle plantar flexors. Measures of balance recovery were based on the COM and COP trajectories and the maximum perturbation that could be withstood without stepping. Balance recovery measures were consistent with an LMF-induced decrement to recover from perturbations without stepping. Aging was also associated with an impaired ability to recover from the perturbations.  The second study in the series investigated the effects of aging and LMF on the neural control of upright stance during small postural perturbations. Small magnitude postural perturbations were administered to young and older groups before and after fatiguing exercises. A single degree of freedom (DOF) model of the human body was developed that accurately simulated the experimentally collected kinematics during recovery from the perturbations. The model was controlled by invariant feedback gains that operated on the time-delayed kinematics. Feedback gains and time-delay were optimized for each participant, and a novel delay margin analysis was performed to assess system robustness toward instability. Results indicated that older individuals had a longer \"effective\" time-delay and exhibited greater reliance on afferent velocity information. No changes in feedback controller gains, time-delay, or delay margins were found with LMF in either age group.   The final study investigated the use of a nonlinear controller to simulate responses to large magnitude postural perturbations. A three DOF model of the human body was developed and controlled with the state-dependent Riccati equation (SDRE). Parameters of the SDRE were optimized to fit the experimentally recorded kinematics. Unlike other forms of nonlinear control, the SDRE provides meaningful parameters for interpretation in the system identification. The SDRE approach was successful at stabilizing the dynamical system; however, accurate results were not obtained. Reasons for these errors are discussed, and an alternative formulation to the time-delayed optimal control problem using Roesser state space equations is presented.",
+  "description_provenance": [
+    "Author Email: bradley.davidson@uchsc.edu",
+    "Advisor Email: granata@vt.edu",
+    "Advisor Email: bklein@vt.edu",
+    "Advisor Email: nussbaum@vt.edu",
+    "Advisor Email: apmarsh@wfu.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Advisor Email: mlm@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:37Z (GMT). No. of bitstreams: 1 BD_thesis.pdf: 2832120 bytes, checksum: 033e681f23f4019a4617859f2b899704 (MD5)   Previous issue date: 2007-10-12"
+  ],
+  "handle": "29361",
+  "identifier_other": "etd-10242007-191009",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10242007-191009/",
+  "identifier_uri": "http://hdl.handle.net/10919/29361",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BD_thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "optimal control theory",
+    "neural control",
+    "falls",
+    "fatigue",
+    "balance"
+  ],
+  "title": "Experimental and simulation-based assessment of the human postural response to sagittal plane perturbations with localized muscle fatigue and aging",
+  "type": "Dissertation"
+}

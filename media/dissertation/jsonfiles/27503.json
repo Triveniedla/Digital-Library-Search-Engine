@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Her, Young  Gu",
+  "contributor_committeechair": "Heatwole, Conrad D.",
+  "contributor_committeemember": [
+    "Prisley, Stephen P.",
+    "Wolfe, Mary Leigh",
+    "Benham, Brian L.",
+    "Mostaghimi, Saied"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:11:27Z",
+  "date_adate": "2011-05-04",
+  "date_available": "2014-03-14T20:11:27Z",
+  "date_issued": "2011-01-28",
+  "date_rdate": "2011-05-04",
+  "date_sdate": "2011-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A distributed approach can improve functionality of H/WQ (Hydrology and Water Quality) modeling by facilitating a way to explicitly incorporate spatial characteristics of a watershed into the model. The time-area approach, with its intuitive and inherently distributed concept, provides a simple method to simulate runoff mechanisms. This study developed a distributed model based on the time-area approach with the goal of improved utility and efficiency in H/WQ modeling.   Uncertainty is always introduced into watershed modeling because of imperfect knowledge and scale dependant spatial heterogeneity and temporal variability. Uncertainty analysis can provide a modeler, policy maker, and stakeholder with reliability information, better understanding, and better communication about the modeling results. This study quantified uncertainty of the model parameter and output through uncertainty analysis in order to assess risk in watershed management. The main goal of this study was to develop a hydrology and sediment transport model capable of routing overland flow using a time-area concept and providing reliability of the modeling results in a probabilistic manner through uncertainty analysis.   The HYSTAR (HYdrology and Sediment transport simulation using Time-ARea method) model incorporates a modified Curve Number (CN) method and the newly devised time-area routing method to estimate runoff. HYSTAR is capable of simulating direct runoff, base flow, soil moisture, and sediment load in a distributed manner and in an hourly time step. In the model, the modified CN and a continuity equation are used to calculate infiltration of the routed runoff as well as rainfall on every overland cell. The effective direct runoff volume is distributed over downstream areas using the newly developed routing method. A direct runoff hydrograph is constructed directly through the discrete convolution of the time-area histogram and the effective direct runoff volume   map without employing a unit hydrograph. In addition, sediment transport is simulated using the routing method and the sediment transport capacity approach without using a delivery ratio.   The sensitivity analysis found that the CN and root zone depth were the most critical parameters for runoff simulation with HYSTAR. The model provided acceptable performance in predicting runoff and sediment load of a subwatershed of the Owl Run Watershed (ORD) with the Nash-Sutcliffe efficiency coefficient and coefficient of determination greater than 0.5. However, it failed to reproduce runoff for a subwatershed of Polecat Creek Watershed (PCA), where data show that runoff is not immediately responsive to rainfall.   Uncertainty analysis revealed that the confidence intervals of the simulated monthly runoff and sediment load corresponded to 9.7 % and 10.2 % of their averages, respectively, at a significance level of 0.05. In addition, the average ranges of variation created by the Digital Elevation Model (DEM) and National Land Cover Data (NLCD) errors in the simulated monthly runoff and sediment load were equivalent to 7.5 % and 15.9 % of the average of their calibrated values, respectively. Based on the uncertainty analysis results, the Margin of Safety (MOS) of Total Maximum Daily Load (TMDL) were explicitly quantified as corresponding to 7.0 % and 21.3 % of the average of the simulated runoff and sediment load for ORD at significance level of 0.05.   In conclusion, the HYSTAR model provided a new way to explicitly simulate runoff and sediment load of a watershed in a distributed manner. The approach developed here retains the simplicity of a unit hydrograph approach without employing numerical methods. Uncertainty analysis found that parameter uncertainty had greater impact on the model output than did expected Geographic Information System (GIS) data errors. In addition, the impact of the topographic data error on the model output was greater than was that of the land cover data error. Finally, this study provided a proof that a 5 to 10 % MOS that many TMDL studies consider underestimates modeling uncertainty.",
+  "description_provenance": [
+    "Author Email: zorbist@vt.edu",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: mlwolfe@vt.edu",
+    "Advisor Email: benham@vt.edu",
+    "Advisor Email: heatwole@vt.edu",
+    "Advisor Email: smostagh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:27Z (GMT). No. of bitstreams: 1 HER_Y_D_2011.pdf: 10555255 bytes, checksum: 1fffc4cd256d0407ae75ede4564793e5 (MD5)   Previous issue date: 2011-01-28"
+  ],
+  "handle": "27503",
+  "identifier_other": "etd-05022011-005324",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022011-005324/",
+  "identifier_uri": "http://hdl.handle.net/10919/27503",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HER_Y_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "margin of safety",
+    "critical source area",
+    "calibration",
+    "uncertainty analysis",
+    "sediment transport",
+    "flow routing",
+    "hydrology",
+    "distributed watershed modeling",
+    "time-area method"
+  ],
+  "title": "HYSTAR: Hydrology and Sediment Transport Simulation using Time-Area Method",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Hung, Chang-Yu",
+  "contributor_committeecochair": [
+    "Koelling, Charles Patrick",
+    "Sumichrast, Robert T."
+  ],
+  "contributor_committeemember": [
+    "Ellis, Kimberly P.",
+    "Fabrycky, Wolter J.",
+    "Verma, Dinesh"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:13:52Z",
+  "date_adate": "2000-07-12",
+  "date_available": "2014-03-14T20:13:52Z",
+  "date_issued": "2000-07-05",
+  "date_rdate": "2001-07-12",
+  "date_sdate": "2000-07-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Firms specializing in the construction of large commercial buildings and factories must often design and build steel structural components as a part of each project. Such firms must purchase large steel plates, cut them into pieces and then weld the pieces into H-beams and other construction components. The details of the order and the production operation are specified in the \"cutting plan.\" This dissertation focuses on solving this \"cutting plan generation\" problem with the goal of minimizing cost. Two solution approaches are proposed in this dissertation: a multi-expert system and an evolutionary algorithm. The expert system extends the field by relying on the knowledge of multiple experts. Furthermore, unlike traditional rule-base expert systems, this expert system (XS) uses procedural rules to capture and represent experts' knowledge. The second solution method, called CPGEA, involves development of an evolutionary algorithm based on Falkenauer's grouping genetic algorithm. A series of experiments is designed and performed to investigate the efficiency and effectiveness of the proposed approaches. Two types of data are used in the experiments. Historical data are real data provided by a construction company. Solutions developed manually and implemented are available. In addition, simulated data has been generated to more fully test the solution methods. Experiments are performed to optimize CPGEA parameters as well as to compare the approaches to each other, to known solutions and to theoretical bounds developed in this dissertation. Both approaches show excellent results in solving historical cases with an average cost 1% above the lower bound of the optimal solution. However, as revealed by experiments with simulated problems, the performance decreases in cases where the optimal solution includes multiple identical plates. The performance of the XS is affected by this problem characteristic more than that of CPGEA. While CPGEA is more robust in effectively solving a range of problems, the XS requires substantially less processing time. Both approaches can be useful in different practical situations.",
+  "description_provenance": [
+    "Author Email: chung@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: fab@vt.edu",
+    "Advisor Email: rsumichr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:52Z (GMT). No. of bitstreams: 1 CPG_ETD.pdf: 610270 bytes, checksum: bad092f937b427f7d88500f6b43a570f (MD5)   Previous issue date: 2000-07-05"
+  ],
+  "handle": "28256",
+  "identifier_other": "etd-07112000-13190034",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07112000-13190034/",
+  "identifier_uri": "http://hdl.handle.net/10919/28256",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CPG_ETD.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Multi-expert System",
+    "Evolutionary Algorithms",
+    "Cutting Plan Generation",
+    "Grouping Genetic Algorithm"
+  ],
+  "title": "Material Cutting Plan Generation Using Multi-Expert and Evolutionary Approaches",
+  "type": "Dissertation"
+}

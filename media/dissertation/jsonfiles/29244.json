@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Edmison, Joshua Nathaniel",
+  "contributor_committeechair": "Jones, Mark T.",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Martin, Thomas L.",
+    "Athanas, Peter M.",
+    "Patterson, Cameron D.",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:17Z",
+  "date_adate": "2006-10-20",
+  "date_available": "2014-03-14T20:17:17Z",
+  "date_issued": "2006-06-30",
+  "date_rdate": "2007-10-20",
+  "date_sdate": "2006-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The need for hardware-based software protection stems primarily from the increasing value of software coupled with the inability to trust software that utilizes or manages shared resources.  By correctly utilizing security functions in hardware, trust can be removed from software.  Existing hardware-based software protection solutions generally suffer from utilization of trusted software, lack of implementation, and/or extreme measures such as processor redesign.  In contrast, the research outlined in this document proposes that substantial, hardware-based software protection can be achieved, without trusting software or redesigning the processor, by augmenting existing processors with security management hardware placed outside of the processor boundary.  Benefits of this approach include the ability to add security features to nearly any processor, update security features without redesigning the processor, and provide maximum transparency to the software development and distribution processes.  The major contributions of this research include the the augmentation methodology, design principles, and a graph-based method for analyzing hardware-based security systems.",
+  "description_provenance": [
+    "Author Email: jedmison@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:17Z (GMT). No. of bitstreams: 1 edmison_joshua_dissertation.pdf: 2401168 bytes, checksum: 17665739af2c68df414b8db2e4156e0d (MD5)   Previous issue date: 2006-06-30"
+  ],
+  "handle": "29244",
+  "identifier_other": "etd-10112006-204811",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112006-204811/",
+  "identifier_uri": "http://hdl.handle.net/10919/29244",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "edmison_joshua_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "security",
+    "information flow",
+    "architecture",
+    "FPGA",
+    "configurable",
+    "graph theory"
+  ],
+  "title": "Hardware Architectures for Software Security",
+  "type": "Dissertation"
+}

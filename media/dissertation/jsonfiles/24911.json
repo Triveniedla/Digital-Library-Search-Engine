@@ -1,0 +1,39 @@
+{
+  "contributor_author": "VanDyke, Matthew Clark",
+  "contributor_committeechair": [
+    "Hall, Christopher D",
+    "Woolsey, Craig A."
+  ],
+  "contributor_committeemember": [
+    "Earle, Gregory D",
+    "Sultan, Cornel"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-01-21T09:00:30Z",
+  "date_available": "2014-01-21T09:00:30Z",
+  "date_issued": "2014-01-20",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation investigates attitude transition maneuvers of a gyrosat-satellite between relative equilibria.  The primary challenge in transitioning between relative equilibria is the proper adjustment of the system angular momentum so that upon completing the transition maneuver the gyrostat-satellite will satisfy all the requirements for a relative equilibrium.  The system angular momentum is a function of the attitude trajectory taken during the transition maneuver.  A new concept, the constant orbital momentum equilibrium trajectory or COMET, is introduced as a means to a straight-forward solution to a subset of the possible transitions between relative equilbria.  COMETs are a class of paths in SO(3) that a gyrostat-satellite may travel along that maintain a constant system angular momentum.  The primary contributions of this dissertation are the introduction and analysis of COMETs and their application to the problem of transitioning a gyrostat-satellite between two relative equilibria.  The current work introduces, defines, and analyzes COMETs in detail.  The requirements for a path in SO(3) to be a COMET are defined.  It is shown via example that COMETs are closed-curves in SO(3).  Visualizations of families of COMETs are presented and discussed in detail.  A subset of COMETs are shown to contain critical points that represent isolated relative equilibrium attitudes or furcations of the COMET.  The problem of transitioning between two relative equilibria is split into the sub-problems of transitioning between relative equilibria on the same COMET and transitioning between relative equilibria on different COMETs.  For transitions between relative equilibria on the same COMET, an open-loop control law is developed that drives a gyrostat-satellite along the COMET until the target relative equilibrium is reached.  For transitions between relative equilibria on different COMETs, an open-loop control law is developed that transfers a gyrostat-satellite from the initial relative equilibrium to a relative equilibrium that resides on the same COMET as the target relative equilbrium.  Acquisition of the target relative equilibrium is then accomplished via the application of the open-loop control law for transitions between relative equilibria on the same COMET.  The results of numeric simulations of gyrostat-satellites executing these transitions are presented.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-21T09:00:30Z (GMT). No. of bitstreams: 1 VanDyke_MC_D_2014.pdf: 4740895 bytes, checksum: f120117ed232a570408f731dcf1d707c (MD5)   Previous issue date: 2014-01-20",
+  "format_medium": "ETD",
+  "handle": "24911",
+  "identifier_other": "vt_gsexam:2158",
+  "identifier_uri": "http://hdl.handle.net/10919/24911",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Gyrostat-Satellite",
+    "Relative Equilibrium",
+    "Spacecraft Dynamics",
+    "Attitude Control",
+    "Attitude Guidance",
+    "Gravitational Torque",
+    "Attitude Maneuvers"
+  ],
+  "title": "Constant Orbital Momentum Equilibrium Trajectories of a Gyrostat-Satellite",
+  "type": "Dissertation"
+}

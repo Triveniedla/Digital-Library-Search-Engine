@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Li, Hung-Peng",
+  "contributor_committeechair": "Heller, Robert A.",
+  "contributor_committeemember": [
+    "Thangjitham, Surot",
+    "Griffin, Odis Hayden Jr.",
+    "Librescu, Liviu",
+    "Plaut, Raymond H."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:17:30Z",
+  "date_adate": "1998-12-31",
+  "date_available": "2014-03-14T20:17:30Z",
+  "date_issued": "1998-09-18",
+  "date_rdate": "1999-12-31",
+  "date_sdate": "1998-10-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Solid rocket motors consist of a thin metallic or composite shell filled with a soft rubbery propellant.  Such motors are vulnerable and prone to buckling due to sudden external pressures produced by nearby detonation.  The stability conditions of rocket motors subjected toaxisymmetric, external pressure loading are examined.  The outer cases of motors are considered as isotropic (metallic) or anisotropic (composite), thin and high-strength shells, which are the main structures of interest in the stability analyses.  The inner, low-strength elastic cores are modeled as linear and nonlinear  elastic  foundations.  A general, refined, Sanders' nonlinear shell theory, which accounts for geometric nonlinearity in the form of von Karman type of nonlinear strain-displacement relations, is used to model thin-walled, laminated,composite cylindrical shells.  The first order shear deformable concept is adopted in the analyses to include the transverse shear flexibility of composites.  A winkler-type  of linear and nonlinear elastic foundation is applied to model the internal foundations.  Pasternak-foundation constants are also chosen tomodify the proposed elastic foundation model for the purpose  of shear interactions.  A set of displacement-based finite element codes have been formulated to determine critical buckling loads and mode shapes.  The effect of initial imperfections on the structural responses are also incorporated in the formulations.  A variety of numerical examples are investigated to demonstrate the validity and efficiency of the purposed theory under  various boundary  condiitions and loading cases.  First, linear eigenvalue analysis is used to examine approximate buckling loads and buckling modes as well as symmetric conditions.  An iterative solution  procedure, either Newton-Raphson or Riks-Wempner method is employed to trace the nonlinear equilibrium paths for the cases of stress, buckling and post-buckling analyses.  Both ring and shell-type models are applied for the structural analyses with different internal elastic foundations and initial imperfections.",
+  "description_provenance": [
+    "Author Email: esmhpli@mail.vt.edu",
+    "Advisor Email: surot@mail.vt.edu",
+    "Advisor Email: griffin@mail.vt.edu",
+    "Advisor Email: llibresc@mail.vt.edu",
+    "Advisor Email: rplaut@mail.vt.edu",
+    "Advisor Email: rheller@mail.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:30Z (GMT). No. of bitstreams: 3 DISSERTATION-A.PDF: 990391 bytes, checksum: f087a674504abdb80f46a41c9aa60aef (MD5) Dissertationf.pdf: 1244045 bytes, checksum: 0b4b819ca779c43db5134817b711dfdc (MD5) Dissertation-C.pdf: 962337 bytes, checksum: 7a69a4499a834a5530eb54543e7d7740 (MD5)   Previous issue date: 1998-09-18"
+  ],
+  "handle": "29323",
+  "identifier_other": "etd-102098-145549",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-102098-145549/",
+  "identifier_uri": "http://hdl.handle.net/10919/29323",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "DISSERTATION-A.PDF",
+    "Dissertationf.pdf",
+    "Dissertation-C.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "initial imperfections",
+    "buckling",
+    "rocket motors",
+    "composite",
+    "cylindrical  shells",
+    "stability"
+  ],
+  "title": "Investigation of the Stability of Metallic/Composited-Cased Solid Propellant  Rocket Motors under External Pressure",
+  "type": "Dissertation"
+}

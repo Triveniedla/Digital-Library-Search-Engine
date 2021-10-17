@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Geng, Twzen-Shang",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Plaut, Raymond H.",
+    "Hyer, Michael W.",
+    "Inman, Daniel J.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:39Z",
+  "date_adate": "2002-06-05",
+  "date_available": "2014-03-14T20:12:39Z",
+  "date_issued": "2002-04-09",
+  "date_rdate": "2003-06-05",
+  "date_sdate": "2002-05-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We consider geometric and material nonlinearities when studying numerically, by the finite element method, transient three-dimensional electroelastic  deformations of a graphite-epoxy square plate sandwiched between two  piezoceramic (PZT) layers.  Points on the four edges of the bottom surface  of the plate are restrained from moving vertically.  The two opposite edges of the plate are loaded  by equal in-plane compressive loads that increase linearly  with time and the other two edges are kept traction free.  The plate material  is modeled as orthotropic and neoHookean. For the transversely isotropic  PZT the second Piola-Kirchhoff stress tensor and the electric displacement  are expressed as second degree polynomials in the Green-St. Venant strain  tensor and the electric field.  Both direct and converse piezoelectric  effects are accounted for in the PZT.  The plate is taken to have buckled  when its centroidal deflection equals three times the plate thickness.  The dynamic buckling load for the plate is found to strongly depend upon the  rate of rise of the applied tractions.  With the maximum electric field  limited to 1kV/mm, the buckling load is enhanced by 18.3$\\%$ when the PZT elements are  activated.  For a peak electric field of 30kV/mm, the buckling load  increased by 58.5$\\%$.  When more than 60$\\%$ of the surface area of the top  and the bottom surfaces of the plate are covered by the PZT layers, then  square PZT elements placed symmetrically about the plate centroid provide  a larger enhancement in the buckling load than rectangular shaped or  cross-shaped PZT elements.  An increase in the plate thickness relative  to that of the PZT actuators decreases the effectiveness of the PZT in enhancing the buckling load for the plate.  The finite element code was modified to also analyze, in time domain, transient deformations of a viscoelastic material for which the second Piola-Kirchhoff  stress tensor is expressed as a linear functional of the strain history of  the Green-St. Venant strain tensor.  It was used to analyze  three-dimensional deformations of a thick laminated plate with layers  made of aluminum, a viscoelastic material and a PZT.  The following two  arrangements of layers are considered.  In one case a central PZT layer  is surrounded on both sides by viscoelastic layers and aluminum layers  are on the outside surfaces.  The PZT is poled in the longitudinal  direction and an electric field is applied in the thickness direction.   Thus shearing deformations of the PZT layer are dominant.  In the second  arrangement, the aluminum layer is in the middle and the PZT layers are  on the outside.  The poling direction and the electric field are in the  thickness direction; thus its extensional deformations are predominant.   Three indices are used to gauge the damping of motion of plate particles,  and the effectiveness of PZT actuators in enhancing this damping.  It is  found that the optimum thickness of the viscoelastic layers for maximum  total energy dissipation is the same for each set-up. Also, the total thickness of the PZT layers which results in the maximum  value of one of these indices of energy dissipation is the same for the  two set-ups.  Both arrangements give the largest value of this index  for a plate of aspect ratio 10.             Buckling behavior of a sandwich plate containing a soft core is  also studied. The effects of the ratio of the elastic moduli  of the outer layers to those of the core, and of the core  thickness on the buckling load are analyzed. The top and the bottom layers are connected by very stiff blocks on two opposite edges where in-plane compressive time-dependent tractions are applied.",
+  "description_provenance": [
+    "Author Email: tgeng@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:39Z (GMT). No. of bitstreams: 1 geng.pdf: 797126 bytes, checksum: 603068639a6408ce1da177016988cbb5 (MD5)   Previous issue date: 2002-04-09"
+  ],
+  "handle": "27917",
+  "identifier_other": "etd-05302002-150756",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05302002-150756/",
+  "identifier_uri": "http://hdl.handle.net/10919/27917",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "geng.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Three-dimensional Deformations",
+    "Piezoceramic Actuators",
+    "Vibration Control",
+    "Buckling Control",
+    "Finite Element Analysis"
+  ],
+  "title": "Enhancement of the Dynamic Buckling Load and Analysis of Active Constrained Layer Damping with Extension and Shear Mode Piezoceramic Actuators",
+  "type": "Dissertation"
+}

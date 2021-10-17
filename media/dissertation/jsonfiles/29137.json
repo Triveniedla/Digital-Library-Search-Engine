@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Sudarsan, Rajesh",
+  "contributor_committeechair": "Ribbens, Calvin J.",
+  "contributor_committeemember": [
+    "Varadarajan, Srinidhi",
+    "Cameron, Kirk W.",
+    "de Sturler, Eric",
+    "Sandu, Adrian"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:54Z",
+  "date_adate": "2009-10-20",
+  "date_available": "2014-03-14T20:16:54Z",
+  "date_issued": "2009-09-25",
+  "date_rdate": "2009-10-20",
+  "date_sdate": "2009-09-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As terascale supercomputers become more common, and as the high-performance computing community turns its attention to petascale machines, the challenge of providing effective resource management for high-end machines grows in both importance and difficulty. These computing resources are by definition expensive, so the cost of underutilization is also high, e.g., wasting 5% of the compute nodes on a 10,000 node cluster is a much more serious problem than on a 100 node cluster. Moreover, the high energy and cooling costs incurred in maintaining these high end machines (often millions of dollars per year) can be justified only when these machines are used to their full capacity. On large clusters, conventional jobs schedulers are hard-pressed to achieve over 90% utilization with typical job-mixes. A fundamental problem is that most conventional parallel job schedulers only support static scheduling, so that the number of processors allocated to an application cannot be changed at runtime. As a result, it is common to see jobs stuck in the queue because they require just a few more processors than are currently available, resulting in long queue wait times for applications and low overall system utilization.  A more flexible and effective approach is to support dynamic resource management and scheduling, where the number of processors allocated to jobs can be expanded or contracted at runtime. This is the focus of this dissertation --- dynamic resizing of parallel applications. Dynamic resizing significantly improves individual application turn-around time and helps the scheduler to achieve higher machine utilization and job throughput. This dissertation focuses on the potential benefits and challenges of dynamic resizing using  ReSHAPE, a new framework for dynamic Resizing and Scheduling of Homogeneous Applications in a Parallel Environment. It also details several interesting and effective scheduling policies implemented in ReSHAPE and demonstrates their effectiveness to improve overall cluster utilization and individual application turn-around time.",
+  "description_provenance": [
+    "Author Email: sudarsar@vt.edu",
+    "Advisor Email: srinidhi@cs.vt.edu",
+    "Advisor Email: kirk.w.cameron@gmail.com",
+    "Advisor Email: sturler@vt.edu",
+    "Advisor Email: asandu7@vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:54Z (GMT). No. of bitstreams: 1 Sudarsan_R_D_2009.pdf: 3100130 bytes, checksum: ee590c63c3573ccde2d20666ed1777f8 (MD5)   Previous issue date: 2009-09-25"
+  ],
+  "handle": "29137",
+  "identifier_other": "etd-09292009-191237",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09292009-191237/",
+  "identifier_uri": "http://hdl.handle.net/10919/29137",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Sudarsan_R_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Resizing LAMMPS",
+    "ReSHAPE",
+    "priority scheduling",
+    "adaptive resizing",
+    "data redistribution"
+  ],
+  "title": "ReSHAPE: A Framework for Dynamic Resizing of Parallel Applications",
+  "type": "Dissertation"
+}

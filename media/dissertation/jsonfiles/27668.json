@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Wyatt, Sarah  Alice",
+  "contributor_committeechair": "Gugercin, Serkan",
+  "contributor_committeemember": [
+    "de Sturler, Eric",
+    "Borggaard, Jeffrey T.",
+    "Beattie, Christopher A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:54Z",
+  "date_adate": "2012-05-25",
+  "date_available": "2014-03-14T20:11:54Z",
+  "date_issued": "2012-05-01",
+  "date_rdate": "2012-05-25",
+  "date_sdate": "2012-05-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Dynamical systems are mathematical models characterized by a set of differential or difference equations. Model reduction aims to replace the original system with a reduced system of significantly smaller dimension that still describes the important dynamics of the large-scale model. Interpolatory model reduction methods define a reduced model that interpolates the full model at selected interpolation points. The reduced model may be obtained through a Krylov reduction process or by using the Iterative Rational Krylov Algorithm (IRKA), which iterates this Krylov reduction process to obtain an optimal $\\mathcal{H}_2$ reduced model.  This dissertation studies interpolatory model reduction for first-order descriptor systems, second-order systems, and DAEs. The main computational cost of interpolatory model reduction is the associated linear systems. Especially in the large-scale setting, inexact solves become desirable if not necessary. With the introduction of inexact solutions, however, exact interpolation no longer holds. While the effect of this loss of interpolation has previously been studied, we extend the discussion to the preconditioned case. Then we utilize IRKA's convergence behavior to develop preconditioner updates. We also consider the interpolatory framework for DAEs and second-order systems. While interpolation results still hold, the singularity associated with the DAE often results in unbounded model reduction errors. Therefore, we present a theorem that guarantees interpolation and a bounded model reduction error. Since this theorem relies on expensive projectors, we demonstrate how interpolation can be achieved without explicitly computing the projectors for index-1 and Hessenberg index-2 DAEs. Finally, we study reduction techniques for second-order systems. Many of the existing methods for second-order systems rely on the model's associated first-order system, which results in computations of a $2n$ system. As a result, we present an IRKA framework for the reduction of second-order systems that does not involve the associated $2n$ system. The resulting algorithm is shown to be effective for several dynamical systems.",
+  "description_provenance": [
+    "Author Email: sawyatt@vt.edu",
+    "Advisor Email: gugercin@vt.edu",
+    "Advisor Email: sturler@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:54Z (GMT). No. of bitstreams: 1 Wyatt_SA_D_2012.pdf: 820827 bytes, checksum: ca3868699816b447e8f6c39547e2f698 (MD5)   Previous issue date: 2012-05-01"
+  ],
+  "handle": "27668",
+  "identifier_other": "etd-05112012-103400",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05112012-103400/",
+  "identifier_uri": "http://hdl.handle.net/10919/27668",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wyatt_SA_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Second-order Systems",
+    "Inexact Solves",
+    "Krylov reduction",
+    "DAEs"
+  ],
+  "title": "Issues in Interpolatory Model Reduction: Inexact Solves, Second-order Systems and DAEs",
+  "type": "Dissertation"
+}

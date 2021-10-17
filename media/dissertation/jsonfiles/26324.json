@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Zheng, George",
+  "contributor_committeechair": "Bouguettaya, Athman",
+  "contributor_committeecochair": "Gracanin, Denis",
+  "contributor_committeemember": [
+    "Barkhi, Reza",
+    "Zhang, Liqing",
+    "Lu, Chang-Tien"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:50Z",
+  "date_adate": "2009-03-30",
+  "date_available": "2014-03-14T20:07:50Z",
+  "date_issued": "2009-02-04",
+  "date_rdate": "2012-04-06",
+  "date_sdate": "2009-02-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we present a novel approach for Web service mining.  Web service mining is a new research discipline.  It is different from conventional top down service composition approaches that are driven by specific search criteria.  Web service mining starts with no such criteria and aims at the discovery of interesting and useful compositions of existing Web services.  Web service mining requires the study of three main research topics: semantic description of Web services, efficient bottom up composition of composable services, and  interestingness and usefulness evaluation of composed services.  We first propose a Web service ontology to describe and organize the constructs of a Web service.  We introduce the concept of Web service operation interface for the description of shared Web service capabilities and use Web service domains for grouping Web service capabilities based on these interfaces.  We take clues from how Nature solves the problem of molecular composition and introduce the notion of Web service recognition to help devise efficient bottom up service composition strategies.  We introduce several service recognition mechanisms that take advantage of the domain-based categorization of Web service capabilities and ontology-based description of operation semantics.  We take clues from the drug discovery process and propose a Web service mining framework to group relevant mining activities into a progression of phases that would lead to the eventual discovery of useful compositions.  Based on the composition strategies that are derived from recognition mechanisms, we propose a set of algorithms in the screening phase of the framework to automatically identify leads of service compositions.  We propose objective interestingness and usefulness measures in the evaluation phase to narrow down the pool of composition leads for further exploration.  To demonstrate the effectiveness of our framework and to address challenges faced by existing biological data representation methodologies, we have applied relevant techniques presented in this dissertation to the field of biological pathway discovery.",
+  "description_provenance": [
+    "Author Email: gzheng@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: reza@vt.edu",
+    "Advisor Email: lqzhang@cs.vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: Athman.Bouguettaya@csiro.au",
+    "Made available in DSpace on 2014-03-14T20:07:50Z (GMT). No. of bitstreams: 2 permissions.doc: 24064 bytes, checksum: 64840d4f0d6aaeb7856684e75c7fa035 (MD5) dissertation_georgezheng.pdf: 5125494 bytes, checksum: b1cfc61b5f38cd480d23da1b7aa5b0c2 (MD5)   Previous issue date: 2009-02-04"
+  ],
+  "handle": "26324",
+  "identifier_other": "etd-02272009-195012",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02272009-195012/",
+  "identifier_uri": "http://hdl.handle.net/10919/26324",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "permissions.doc",
+    "dissertation_georgezheng.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Web service",
+    "pathway discovery",
+    "ontology",
+    "interestingness",
+    "service mining"
+  ],
+  "title": "Web Service Mining",
+  "type": "Dissertation"
+}

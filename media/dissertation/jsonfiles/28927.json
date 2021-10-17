@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Songprakob, Wantana",
+  "contributor_committeechair": "Zallen, Richard H.",
+  "contributor_committeemember": [
+    "Indebetouw, Guy J.",
+    "Di Ventra, Massimiliano",
+    "Ritter, Alfred L.",
+    "Heflin, James R."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:16:06Z",
+  "date_adate": "2001-09-10",
+  "date_available": "2014-03-14T20:16:06Z",
+  "date_issued": "2001-08-31",
+  "date_rdate": "2002-09-10",
+  "date_sdate": "2001-09-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Infrared reflectivity and transmittance measurements (200=5000 cm^-1) were carried out on heavily-doped GaAs:C films grown by molecular beam epitaxy. With increasing carbon concentration, a broad reflectivity minimum develops in the  1000=3000 cm^-1 region and the one-phonon band near 270 cm^-1 rides on a progressively increasing high-reflectivity background. An effective-plasmon/one-phonon dielectric function with only two free parameters (plasma frequency Ï p and damping constant Î³p) gives a good description of the main features of the reflectivity spectra. The dependence of effective plasma frequency on hole concentration p is linear. At each doping, the effective-plasmon damping constant   is large and corresponds to an optical hole mobility that is about half the Hall mobility at that p. Secondary-ion mass spectroscopy and localized-vibrational-mode measurements indicate that the Hall-effect-derived hole concentration is close to the carbon concentration and that the Hall factor is close to unity, so that the Hall mobility provides a good estimate of the actual dc mobility. Also, analysis shows that, for our highly-doped samples, the observed dichotomy between the dc and infrared mobilities is not a statistical-averaging artifact of the approximations involved in the model. The explanation of the small infrared mobility resides in the influence of intervalence band absorption on the effective-plasmon fit, which operationally defines that mobility via the effective-plasmon damping.  The optical properties obtained with the use of the effective-plasmon model for GaAs:C yield a phenomenological, approximate, overall picture of the infrared spectra. But the neglect of intervalenceband transitions, for this p-type semiconductor, is shown (in this dissertation) to be a serious drawback of this simple model. In order to obtain the optical properties of GaAs:C in a model-independent way, and to attempt to resolve the apparent dc/infrared mobility dichotomy, we made use of a recently-developed spectroscopic-analysis procedure. Using direct numerical-solution techniques for the reflectance (R) and transmittance (T) equations of a multilayer structure, we analyzed our infrared R and T results for highly-doped films having hole concentrations from 2Ã 10^19 up to 1.4Ã 10^20  cm^-3. The optical properties were determined for photon energies from 0.07 to 0.6 eV, in which region plasmon (intraband) and intervalenceband contributions are in competition. Our results for the optical absorption coefficient resolve two separate peaks located (at high doping) at about 0.1 and 0.2 eV. (The effective-plasmon model necessarily missed the two-peak character of the actual absorption spectrum.)  By carrying out theoretical calculations of the intervalenceband (IVB) absorption processes for our dopings, we identify the peak near 0.2 eV with light-hole to heavy-hole IVB transitions, and we attribute the lower-energy peak to the hole plasmon. Our experimental absorption spectra are very well described by a model combining the intervalenceband contribution to the dielectric function with a plasmon contribution. The hole-plasmon parameters    omega_plasmon and  gamma_plasmon  that we obtain for highly-doped p-GaAs yield an infrared mobility which (unlike the too-small IVB-entangled infrared mobility implied by the use of the usual effective-plasmon model) is in substantial agreement with the dc mobility. Therefore, in actuality, there is no  dc/infrared mobility discrepancy. The discrepancy implied by the use of the usual, standard-operating-procedure, effective-plasmon model is a consequence of the inadequacy of that model for p-type semiconductors exhibiting intervalenceband infrared absorption.  Raman-scattering measurements were carried out on the GaAs:C films. Only the phononlike coupled plasmon-phonon mode is observed. The non-occurrence of the plasmonlike mode is due to the large damping of the hole plasmon and the competition with strong Raman scattering by intervalenceband transitions among the heavy-hole, light-hole, and split-off bands. Analysis of the phononlike coupled mode, within the framework of the wavevector-dependent Lindhard-Mermin dielectric function, supports the hole properties that we determined by Hall and infrared studies. Photoluminescence measurements showed that the split-off band also participates in the photoluminescence of GaAs:C, giving rise to an above-bandgap emission band corresponding to transitions from the conduction band to the split-off valence band.",
+  "description_provenance": [
+    "Author Email: songpkob@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: diventra@vt.edu",
+    "Advisor Email: aritter@vt.edu",
+    "Advisor Email: rzallen@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:06Z (GMT). No. of bitstreams: 1 WSongprakob.pdf: 1542982 bytes, checksum: 90fa0a198ee07e0d60d6264942872015 (MD5)   Previous issue date: 2001-08-31"
+  ],
+  "handle": "28927",
+  "identifier_other": "etd-09102001-091811",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09102001-091811/",
+  "identifier_uri": "http://hdl.handle.net/10919/28927",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WSongprakob.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "plasmon",
+    "intervalenceband transitions",
+    "Raman spectra",
+    "infrared spectroscopy",
+    "photoluminescence"
+  ],
+  "title": "Optical studies of highly-doped GaAs:C",
+  "type": "Dissertation"
+}

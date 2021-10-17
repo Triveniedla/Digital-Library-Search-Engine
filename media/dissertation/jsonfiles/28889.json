@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Edara, Praveen Kumar",
+  "contributor_committeechair": "Teodorovic, Dusan",
+  "contributor_committeemember": [
+    "Trani, Antoino A.",
+    "Triantis, Konstantinos P.",
+    "Collura, John",
+    "Schonfeld, Paul"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:58Z",
+  "date_adate": "2005-09-21",
+  "date_available": "2014-03-14T20:15:58Z",
+  "date_issued": "2005-09-02",
+  "date_rdate": "2005-09-21",
+  "date_sdate": "2005-09-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> The number of trips on highways and urban networks has significantly increased in the recent decades in many cities across the world. At the same time, the road network capacities have not kept up with this increase in travel demand. Urban road networks in many countries are severely congested, resulting in increased travel times, increased number of stops, unexpected delays, greater travel costs, inconvenience to drivers and passengers, increased air pollution and noise level, and increased number of traffic accidents. Expanding traffic network capacities by building more roads is extremely costly as well as environmentally damaging. More efficient usage of the existing supply is vital in order to sustain the growing travel demand. Travel Demand Management (TDM) techniques involving various strategies that increase the travel choices to the consumers have been proposed by the researchers, planners, and transportation professionals. TDM helps create a well balanced, less automobile dependent transportation system.  </p><p>In the past, several TDM strategies have been proposed and implemented in several cities around the world. All these TDM strategies, with very few exceptions, are static in nature. For example, in the case of congestion pricing, the toll schedules are previously set and are implemented on a daily basis. The amount of toll does not vary dynamically, with time of day and level of traffic on the highway (though the peak period tolls are different from the off-peak tolls, they are still static in the sense that the tolls don't vary continuously with time and level of traffic). The advent of Electronic Payment   Systems (EPS), a branch of the Intelligent Transportation Systems (ITS), has made it possible for the planners and researchers to conceive of dynamic TDM strategies. Recently, few congestion pricing projects are beginning to adopt dynamic tolls that vary continuously with the time of day based on the level of traffic (e.g. I-15 value pricing in California). Dynamic TDM is a relatively new and unexplored topic and the future research attempts to provide answers to the following questions: 1) How to propose and model a Dynamic TDM strategy, 2) What are the advantages of Dynamic TDM strategies as compared to their Static counterparts, 3) What are the benefits and costs of implementing such strategies, 4) What are the travel impacts of implementing Dynamic TDM strategies, and 5) How equitable are the Dynamic TDM strategies as compared to their Static counterparts. </p><p> This dissertation attempts to address question 1 in detail and deal with the remaining questions to the extent possible, as questions 2, 3, 4, and 5, can be best answered only after some real life implementation of the proposed Dynamic TDM strategies. Two novel Dynamic TDM strategies are proposed and modeled in this dissertation -- a) Dynamic Congestion Pricing and b) Dynamic Highway Space Inventory Control System.</p><p> In the first part, dynamic congestion pricing, a real-time road pricing system in the case of a two-link parallel network is proposed and modeled. The system that is based on a combination of Dynamic Programming and Neural Networks makes \"on-line\" decisions about road toll values. In the first phase of the proposed model, the best road toll sequences during certain time period are calculated off-line for many different patterns of vehicle arrivals. These toll sequences are computed using Dynamic Programming   approach. In the second phase, learning from vehicle arrival patterns and the corresponding optimal toll sequences, neural network is trained. The results obtained during on-line tests are close to the best solution obtained off-line assuming that the arrival pattern is known.</p><p> Highway Space Inventory Control System (HSICS), a relatively new demand management concept, is proposed and modeled in the second half of this dissertation. The basic idea of HSICS is that all road users have to make reservations in advance to enter the highway. The system allows highway operators to make real-time decisions whether to accept or reject travellers' requests to use the highway system in order to achieve certain system-wide objectives. The proposed HSICS model consists of two modules -- Highway Allocation System (HAS) and the Highway Reservation System (HRS). The HAS is an off-line module and determines the maximum number of trips from each user class (categorized based on time of departure, vehicle type, vehicle occupancy, and trip distance) to be accepted by the system given a pre-defined demand. It develops the optimal highway allocations for different traffic scenarios. The \"traffic scenarios-optimal allocations\" data obtained in this way enables the development of HRS. The HRS module operates in the on-line mode to determine whether a request to make a trip between certain origin-destination pair in certain time interval is accepted or rejected. </p>",
+  "description_provenance": [
+    "Author Email: praveen@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: collura@ecs.umass.edu",
+    "Advisor Email: pschon@eng.umd.edu",
+    "Made available in DSpace on 2014-03-14T20:15:58Z (GMT). No. of bitstreams: 1 Dissertation_ETD2.pdf: 1196548 bytes, checksum: 2f10212d711e004a903ad3b43c63b1d1 (MD5)   Previous issue date: 2005-09-02"
+  ],
+  "handle": "28889",
+  "identifier_other": "etd-09072005-025831",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09072005-025831/",
+  "identifier_uri": "http://hdl.handle.net/10919/28889",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_ETD2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Artificial Neural Networks",
+    "Revenue Management",
+    "Congestion Pricing",
+    "Demand Management",
+    "Dynamic Programming",
+    "Fuzzy Sets"
+  ],
+  "title": "Dynamic Travel Demand Management Strategies:  Dynamic Congestion Pricing and Highway Space Inventory Control System",
+  "type": "Dissertation"
+}

@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Nikolaev, Ruslan",
+  "contributor_committeechair": "Back, Godmar Volker",
+  "contributor_committeemember": [
+    "Tilevich, Eli",
+    "Gupta, Bidyut",
+    "Kafura, Dennis G",
+    "Butt, Ali Raza Ashraf"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-01-22T09:00:07Z",
+  "date_available": "2014-01-22T09:00:07Z",
+  "date_issued": "2014-01-21",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Most operating systems provide protection and isolation to user processes, but not to critical system components such as device drivers or other systems code. Consequently, failures in these components often lead to system failures. VirtuOS is an operating system that exploits a new method of decomposition to protect against such failures. VirtuOS exploits virtualization to isolate and protect vertical slices of existing OS kernels in separate service domains. Each service domain represents a partition of an existing kernel, which implements a subset of that kernel's functionality. Service domains directly service system calls from user processes. VirtuOS exploits an exceptionless model, avoiding the cost of a system call trap in many cases. We illustrate how to apply exceptionless system calls across virtualized domains.    To demonstrate the viability of VirtuOS's approach, we implemented a prototype based on the Linux kernel and Xen hypervisor. We created and evaluated a network and a storage service domain. Our prototype retains compatibility with existing applications, can survive the failure of individual service domains while outperforming alternative approaches such as isolated driver domains and even exceeding the performance of native Linux for some multithreaded workloads.    The evaluation of VirtuOS revealed costs due to decomposition, memory management, and communication, which necessitated a fine-grained analysis to understand their impact on the system's performance. The interaction of virtual machines with multiple underlying software and hardware layers in virtualized environment makes this task difficult. Moreover, performance analysis tools commonly used in native environments were not available in virtualized environments. Our work addresses this problem to enable an in-depth performance analysis of VirtuOS. Our Perfctr-Xen framework provides capabilities for per-thread analysis with both accumulative event counts and interrupt-driven event sampling. Perfctr-Xen is a flexible and generic tool, supports different modes of virtualization, and can be used for many applications outside of VirtuOS.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-22T09:00:07Z (GMT). No. of bitstreams: 1  Nikolaev_R_D_2014.pdf: 1250185 bytes, checksum: 2edd1656e946945c3dddc4e7700b5bf1 (MD5)    Previous issue date: 2014-01-21",
+  "format_medium": "ETD",
+  "handle": "24964",
+  "identifier_other": "vt_gsexam:2099",
+  "identifier_uri": "http://hdl.handle.net/10919/24964",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "operating systems",
+    "hypervisor",
+    "microkernel",
+    "driver isolation",
+    "profilers",
+    "perfctr",
+    "Xen",
+    "virtualization",
+    "IOMMU",
+    "exceptionless system calls"
+  ],
+  "title": "Design and Implementation of the VirtuOS Operating System",
+  "type": "Dissertation"
+}

@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Lee, Jeongwoo",
+  "contributor_committeechair": "Nelson, Douglas J.",
+  "contributor_committeemember": [
+    "Ellis, Michael W.",
+    "Hong, Dennis W.",
+    "Kochersberger, Kevin Bruce",
+    "Lai, Jih-Sheng Jason"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:22Z",
+  "date_adate": "2009-10-15",
+  "date_available": "2014-03-14T20:16:22Z",
+  "date_issued": "2009-09-04",
+  "date_rdate": "2009-10-15",
+  "date_sdate": "2009-09-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the past few years, the price of petroleum based fuels, especially vehicle fuels such as gasoline and diesel, has been increasing at a significant rate.  Consequently, there is much more consumer interest related to reducing fuel consumption for conventional vehicles and hybrid electric vehicles (HEVs) than in the past.   The goal of many competitions and challenges held in North America and Europe is to achieve extremely low fuel consumption.  A possible strategy to reduce fuel consumption is to use the vehicleâ  s fuel converter such as an engine to accelerate the vehicle to a high speed and coast to a lower speed with the engine off.  This method will reduce fuel flow to zero during the coast phase.  Also, the vehicle uses higher power engine load to accelerate to the upper vehicle speed in a limited time, thus increasing the engine brake thermal efficiency.  This strategy is known as â  pulse and glideâ   or â  burn and coastâ   in some references.   In this study, the â  pulse and glideâ   (PnG) method is first applied to a conventional vehicle to quantify the fuel consumption benefits when compared to steady speed conditions over the same distance.  After that, an HEV is used as well to investigate if a hybrid system can further reduce fuel consumption with the proposed strategy.  Note that the HEV used in this study has the advantage that the engine can be automatically shut off below a certain speed (~40 mph) at low loads, however a driver must shut off the engine manually in a conventional vehicle to apply this driving strategy.   In this document, three preliminary results of the PnG driving strategy are presented; (1) improved fuel economy for a conventional vehicle from a simple spread sheet model, (2) improved fuel economy for an HEV from a dynamic vehicle simulation model (the Powertrain Analysis Toolkit (PSAT)) and (3) improved fuel economy for an HEV from vehicle testing at Argonne National Laboratory (ANL), all compared to steady speed conditions.  The preliminary results show that the impact of engine load and kinetic energy stored in vehicle inertia is significant for fuel consumption using a PnG driving strategy compared to steady speed driving at the same average speed case.  Especially, fuel economy can be improved at low speed range and higher acceleration because the aerodynamic drag force is smaller at low speed and the engine is running in a more efficient region for a short period of time respectively.  In the last section, proposed directions of research are addressed based on the preliminary results.",
+  "description_provenance": [
+    "Author Email: jeongwoo@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: kbk@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:22Z (GMT). No. of bitstreams: 2 ETD_PhD_Dissertation_Jeongwoo_Lee.pdf: 1909269 bytes, checksum: 8276c93b408b124fe71c33e7a2fb9f1c (MD5) Copyright_Permission.pdf: 10234 bytes, checksum: e4acb02ec8e3bced5056c36488f29780 (MD5)   Previous issue date: 2009-09-04"
+  ],
+  "handle": "29005",
+  "identifier_other": "etd-09172009-234744",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09172009-234744/",
+  "identifier_uri": "http://hdl.handle.net/10919/29005",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ETD_PhD_Dissertation_Jeongwoo_Lee.pdf",
+    "Copyright_Permission.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Acceleration",
+    "Coasting",
+    "Kinetic Energy",
+    "Vehicle Inertia",
+    "Hybrid Eletric Vehicle",
+    "Control Strategy",
+    "Fuel Consumption"
+  ],
+  "title": "Vehicle Inertia Impact on Fuel Consumption of Conventional and Hybrid Electric Vehicles Using Acceleration and Coast Driving Strategy",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Hewitt, Patrick",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "O'Brien, Walter F. Jr.",
+    "Grossman, Bernard M.",
+    "Marchman, James F. III",
+    "Sparks, John"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:06Z",
+  "date_adate": "2008-10-07",
+  "date_available": "2014-03-14T20:16:06Z",
+  "date_issued": "2008-09-04",
+  "date_rdate": "2011-09-05",
+  "date_sdate": "2008-09-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The present work was conducted with the intent of developing a high-fidelity numerical model of a unique combustion flow problem combining multi-phase fuel injection with substantial momentum and temperature into a highly complex turbulent flow.  This important problem is very different from typical and more widely known liquid fuel combustion problems and is found in practice in pulverized coal combustors and ducted rocket ramjets.  As the ducted rocket engine cycle is only now finding widespread use, it has received little research attention and was selected as a representative problem for this research.  Prior to this work, a method was lacking domestically and internationally to effectively model the ducted rocket engine cycle with confidence.<p> \tIn the ducted rocket a solid fuel gas generator is used to deliver a fuel-rich multi-phase mixture to the combustion chamber.  When a valve is used to vary the fuel generator pressure, and thereby the delivered fuel flowrate, the engine is known as a Variable Flow Ducted Rocket (VFDR).  The Aerojet MARC-R282 ramjet engine represents the worlds first VFDR flown, and the first in operational use.  Although performance requirements were met, improvements are sought in the understanding of the ramjet combustion process with a future aim of reducing the visible exhaust and correcting uneven combustor heating patterns.  For this reason the MARC-R282 combustor was selected as the baseline geometry for the present research, serving to provide a documented baseline case for numerical modeling and also being a good candidate to benefit from an improved understanding of the combustion process.<p> \t  In order to proceed with the present research, experiments were first carried out to characterize the gas generator particulate exhaust in terms of composition and particle size.  Equilibrium thermochemistry was used to supplement these data to develop a gas phase combustion model.  The gas phase reactions and resulting particle definition were modeling using the FLUENT Computational Fluid Dynamics (CFD) code for the baseline GQM-163A Supersonic Sea Skimming Missile (SSST) operating conditions.  These results were compared to direct-connect ramjet ground tests in order to validate the analysis tool.<p> \tData were developed to understand the gas and solid phase fuel exhaust characteristics at the propellant surface, exiting the gas generator injector, and following secondary combustion with air.  Particles were collected and analyzed from the fuel generator exhaust.  While exhibiting some variation with time in the firing, they were roughly an average of 20 microns in diameter, in line with prior experience with pulverized coal combustion experiments.  A computational model was developed based on coal combustion parameters using FLUENT.  However, despite considerable effort, the CFD analysis was not able to predict effective burning of the carbon particles to the degree seen in testing.  In addition, using equilibrium thermochemistry as a basis for determining the carbon particle content in the fuel exhaust, the CFD analysis resulted in trends in performance opposite to the test results.  These facts led to a hypothesis that there was actually a significant fraction of small particles or much less carbon produced than equilibrium thermochemistry would predict.  A parametric analysis was performed replacing the 20 micron soot particles with fine fraction particles, representing a fraction of the predicted equilibrium carbon soot being still in the gas phase as higher molecular weight hydrocarbons, or in the form of sub-micron particles.  When almost all particles were replaced with fine fraction particles, the model was able to correctly predict absolute values of combustion efficiency as well as trends for different injector geometries.  The presence of particles was apparent from the visible exhaust and collection data, however they were found not to play a significant role in the combustion process for this fuel and engine configuration. \t<p>The robustness of the computational model was also evaluated by examining the effects of turbulence model, order of discretization, and grid size.  Comparable trends and results were seen for all cases examined.<p> \tWith the successful development of this modeling tool and an improved understanding of the combustion process, future work is enabled to develop improved combustor flow management and fuel injection schemes to improve existing designs and develop new configurations.  This research has served to advance the field of combustion modeling by providing: 1) a solid ducted rocket combustion modeling tool considering solid and gas phase combustion, 2) a correlation between primary combustion theory and particulate exhaust sampling, 3) low length/diameter ratio ducted rocket combustor modeling, and 4) combustor CFD coupled with solid particle tracking and combustion models.",
+  "description_provenance": [
+    "Author Email: pat.hewitt@aerojet.com",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: grossman@nianet.org",
+    "Advisor Email: marchman@vt.edu",
+    "Advisor Email: John.Sparks@aerojet.com",
+    "Made available in DSpace on 2014-03-14T20:16:06Z (GMT). No. of bitstreams: 1 Hewitt_Dissertation.pdf: 5386797 bytes, checksum: 102d5a49c537a9b3827af0531f87b669 (MD5)   Previous issue date: 2008-09-04"
+  ],
+  "handle": "28928",
+  "identifier_other": "etd-09102008-134309",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09102008-134309/",
+  "identifier_uri": "http://hdl.handle.net/10919/28928",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hewitt_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Soot",
+    "Boron",
+    "Combustion",
+    "Ducted Rocket",
+    "Ramjet",
+    "Gas Generator"
+  ],
+  "title": "Numerical Modeling of a Ducted Rocket Combustor With Experimental Validation",
+  "type": "Dissertation"
+}

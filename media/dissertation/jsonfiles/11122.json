@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Magill, Samantha Anne",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Mason, William H.",
+    "Telionis, Demetri P.",
+    "Durham, Wayne C."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2011-08-22T18:53:36Z",
+  "date_adate": "2002-06-07",
+  "date_available": "2011-08-22T18:53:36Z",
+  "date_issued": "1998-06-29",
+  "date_rdate": "2003-06-07",
+  "date_sdate": "2002-05-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Compound Aircraft Transport (CAT) flight involves two or more aircraft using the resources of each other; a symbiotic relationship exists consisting of a host, the mothership aircraft and a parasite, the hitchhiker aircraft. Wingtip-docked flight is just as its name implies; the two aircraft are connected wingtip-to-wingtip. Formation flight describes multiple aircraft or flying objects that maintain a pattern or shape in the air. There are large aerodynamic advantages in CAT flight. The aforementioned wingtip-docked flight increases total span of the aircraft system, and formation flight utilizes the upwash from the trailing wingtip vortex of the lead aircraft (mothership) to reduce the energy necessary to achieve and/or maintain a specific flight goal for the hitchhiker and the system. The Stability Wind Tunnel (6 X 6 X 24 foot test section) at Virginia Tech, computational aerodynamic analysis with the vortex lattice method (VLM), and a desktop aircraft model were used to answer questions of the best location for a hitchhiker aircraft and analyze stability of the CAT system. Wind tunnel tests implemented a 1/32 scale F-84E model (hitchhiker) and an outboard wing portion representing a B-36 (mothership). These models were chosen to simulate flight tests of an actual wingtip-docked project, Tom Tom, in the 1950s. That project was terminated after a devastating accident that demonstrated a possible \"flapping\" motion instability. The wind tunnel test included a broad range of hitchhiker locations: varying spanwise gap distance, longitudinal or streamwise distance, and vertical location (above or below wing) with respect to a B-36-like wing. The data showed very little change in the aerodynamic forces of the mothership, and possibilities of large benefits in lift and drag for the hitchhiker when located slightly aft and inboard with respect to the mothership. Three CAT flight configurations were highlighted: wingtip-docked, close formation, and towed formation. The wingtip-docked configuration had a 20-40 percent performance benefit for the hitchhiker compared to solo flight. The close formation configuration had performance benefits for the hitchhiker approximately 10 times that of solo flight, and the towed formation was approximately 8 times better than solo flight. The VLM analysis completed and reenforced the experimental wind tunnel data. A modified VLM program (VLM CAT) incorporated multiple aircraft in various locations as well as additional calculations for induced drag. VLM CAT results clearly followed the trends seen in the wind tunnel data, but since VLM did not model the fuselage, has assumptions like a flat wake, and is an inviscid computation it did not predict the large benefits or excursions as seen in the wind tunnel data. Increases in performance for the hitchhiker in VLM CAT were on the order of 3 to 4 times that of the hitchhiker in solo flight, while the wind tunnel study saw up to 10 times that of solo flight. VLM CAT is a valuable tool in supplying quick analysis of position and planform effects in CAT flight. Modifications to a desktop F-16 dynamic simulation have been developed to investigate the stability of wingtip-docked flight. These modifications analyze the stability issues linked with sideslip angle as seen by the Tom Tom Project test pilot, when he entered docking maneuvers with 5 degrees yaw to simulate a ``tired pilot\". The wingtip-docked system was determined to have an unstable aperiodic mode for sideslip angle greater than 0.0 degrees and an unstable oscillatory mode for sideslip angle greater than 2.0 degrees. There is a small range of sideslip angle that is a stable oscillatory mode, sideslip angle between 0.0 and 2.0 degrees. The variables, altitude and speed, yield little effect on the stability of the system. The sensitivity analysis was indeterminate in distinguishing a state driving the instability, but the analysis was conclusive in verifying the lateral-longitudinal (roll-pitch) coupled motion observed by test pilots in wingtip-docked flight experiments. The parameter with the largest influence on the instability was the change in pitch angular acceleration with respect to roll angle. The aerodynamic results presented in this study have determined some important parameters in the location of a hitchhiker with respect to a mothership. The largest aerodynamic benefits are seen when the hitchhiker wingtip is slightly aft, inboard and below the wingtip of the mothership. In addition, the stability analysis has identified an instability in the CAT system in terms of sideslip angle, and that the wingtip-docked hitchhiker is coupled in lateral and longitudinal motion, which does concur with the divergent \"flapping\" motion about the hinged rotational axis experienced by the Tom Tom Project test pilot.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:36Z (GMT). No. of bitstreams: 1 disseration.pdf: 7176940 bytes, checksum: 963b6124eaffaf9fd5068e62fa834e64 (MD5)   Previous issue date: 1998-06-29",
+    "Author Email: smagill@vt.edu",
+    "Advisor Email: grossman@vt.edu",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Advisor Email: durham@aoe.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11122",
+  "identifier_other": "etd-05312002-160944",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05312002-160944",
+  "identifier_uri": "http://hdl.handle.net/10919/11122",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "disseration.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Wingtip-Docked",
+    "Compound Aircraft Transport (CAT)",
+    "Close Formation"
+  ],
+  "title": "Compound Aircraft Transport: Wingtip-Docked Flight Compared to Formation Flight",
+  "type": "Dissertation"
+}

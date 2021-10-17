@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Patil, Sunil",
+  "contributor_committeechair": "Tafti, Danesh K.",
+  "contributor_committeemember": [
+    "Simpson, Roger L.",
+    "Vandsburger, Uri",
+    "Ekkad, Srinath V.",
+    "Paul, Mark R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:06:58Z",
+  "date_adate": "2011-02-17",
+  "date_available": "2014-03-14T20:06:58Z",
+  "date_issued": "2011-01-24",
+  "date_rdate": "2012-02-17",
+  "date_sdate": "2011-01-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research was motivated by the desire to use Large Eddy Simulations (LES) to calculate liner heat transfer in industrial scale gas turbine combustors, which operate at high Reynolds numbers and high Swirl numbers. LES has several challenges which need to be surmounted for general application to complex high Reynolds number turbulent flows. The primary challenge in wall bounded flows is the need for very fine grids in the vicinity of walls, which makes LES impractical at high Reynolds numbers. An additional challenge is the accurate representation of inlet turbulent conditions for developing flows such that the computational domain size is limited to the immediate region of interest. The generalization of solutions to surmount these issues in complex geometries and grids is yet another challenge. To meet these challenges, a novel formulation, implementation, and validation of a two layer velocity and temperature zonal wall model along with the implementation of the synthetic eddy method in a generalized coordinate system LES framework is presented in this thesis.  The wall model greatly alleviates the grid requirements, whereas the synthetic eddy method provides accurate turbulent inlet boundary conditions. The methods are validated in turbulent channel flow up to a Reynolds number of 2x106, a backward facing step at Re=40,000, before application to a model swirl combustor at Re=20,000 with a Swirl number of 0.43 and flow and heat transfer in an industrial scale can combustor at Re=80,000 and Swirl number of 0.7. The integrated zonal near wall approach for velocity and temperature is then successfully used to investigate flow and heat transfer in a statistically three-dimensional flow of a ribbed duct passage used for the internal cooling of turbine blades.  The zonal wall model is further modified to take in to account the effects of surface roughness and successfully used to investigate flow in a rod roughened channel at high Reynolds numbers up to 60,000. In all cases it is shown that the zonal wall model used with the synthetic eddy method for inlet turbulence generation can result in large savings in computational cost without any significant loss in accuracy when compared to wall resolved LES and experiments. In a turbulent channel flow at Re=45,000, computational complexity was reduced by a factor of 285 using wall modeled LES, whereas in a statistically three-dimensional flow and heat transfer in a ribbed duct, at Re=20,000, the computational complexity was reduced by a factor between 60 and 140. In a swirl dominated can combustor at Re=20,000, the reduction was more modest at a factor of 9.",
+  "description_provenance": [
+    "Author Email: psunil@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: uri@vt.edu",
+    "Advisor Email: sekkad@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:58Z (GMT). No. of bitstreams: 1 Patil_SS_D_2011.pdf: 39153415 bytes, checksum: e0d218aba5cce827b182ab4f58678fc7 (MD5)   Previous issue date: 2011-01-24"
+  ],
+  "handle": "26060",
+  "identifier_other": "etd-01282011-170413",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01282011-170413/",
+  "identifier_uri": "http://hdl.handle.net/10919/26060",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Patil_SS_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Large Eddy Simulation",
+    "Wall layer modeling",
+    "Synthetic eddy method"
+  ],
+  "title": "Large Eddy Simulations of high Reynolds number Complex Flows with Synthetic Inlet Turbulence",
+  "type": "Dissertation"
+}

@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Kaminski, Nicholas James",
+  "contributor_committeechair": "Bostian, Charles W",
+  "contributor_committeemember": [
+    "Hsiao, Michael S.",
+    "Sturges, Robert H",
+    "Reed, Jeffrey H",
+    "MacKenzie, Allen B"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-02-27T09:00:13Z",
+  "date_available": "2014-02-27T09:00:13Z",
+  "date_issued": "2014-02-26",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation introduces the concept of an artificial society based on the use of an action based social language combined with the behavior-based approach to the construction of multi-agent systems to address the problem of developing decentralized, self-organizing networks that dynamically fit into their environment. In the course of accomplishing this, social language is defined as an efficient method for communicating coordination information among cognitive radios inspired by natural societies. This communication method connects the radios within a network in a way that allows the network to learn in a distributed holistic manner. The behavior-based approach to developing multi-agent systems from the field of robotics provides the framework for developing these learning networks. In this approach several behaviors are used to address the multiple objectives of a cognitive radio society and then combined to achieve emergent properties and behaviors. This work presents a prototype cognitive radio society. This society is implemented, using low complexity hardware, and evaluated. The work does not focus on the development of optimized techniques, but rather the complementary design of techniques and agents to create dynamic, decentralized self-organizing networks",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-27T09:00:13Z (GMT). No. of bitstreams: 1 Kaminski_NJ_D_2014.pdf: 6311971 bytes, checksum: 811e5b7ea041f9857a0d9c9d7df6aa02 (MD5)   Previous issue date: 2014-02-26",
+  "format_medium": "ETD",
+  "handle": "25786",
+  "identifier_other": "vt_gsexam:2289",
+  "identifier_uri": "http://hdl.handle.net/10919/25786",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Cognitive Radio",
+    "Cognitive Engine",
+    "Social Language",
+    "Social Learning",
+    "Behavior Based Approach",
+    "LTE Organization"
+  ],
+  "title": "Social Intelligence for Cognitive Radios",
+  "type": "Dissertation"
+}

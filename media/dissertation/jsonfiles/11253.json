@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hengprathanee, Songwut",
+  "contributor_committeechair": "Roberts-Wollmann, Carin L.",
+  "contributor_committeemember": [
+    "Wollmann, Gregor P.",
+    "Plaut, Raymond H.",
+    "Cousins, Thomas E.",
+    "Ohanehi, Donatus C."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2011-08-22T19:06:46Z",
+  "date_adate": "2004-09-24",
+  "date_available": "2011-08-22T19:06:46Z",
+  "date_issued": "2004-06-14",
+  "date_rdate": "2005-09-24",
+  "date_sdate": "2004-09-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Linear and nonlinear finite element analyses are used for the investigation of rectangular anchorage zones with the presence of a support reaction.  The investigation is conducted based on four load configurations consisting of concentric, inclined concentric, eccentric, and inclined eccentric loads.  The method of model construction is illustrated thoroughly.  The influence of several parameters, including anchorage ratio, inclination of prestressing load, eccentricity, magnitude of the reaction force, bearing plate ratio, and the location of the reaction force, is studied.  Both graphical and numerical presentations of the results from each load configuration are given.  Improved equations, which are modified from the equations presented in the AASHTO Standard Specifications (2002), are proposed.  The results from the equations are compared to those from the finite element method.  Nonlinear finite element analysis is used to verify the applicability of the equations and to study a new bursting steel arrangement.  Linear and nonlinear finite element analyses are also used for the study of non-rectangular anchorage zones.  Four basic load configurations, including concentric, eccentric, inclined concentric, and inclined eccentric loads, are investigated.  The shell element is selected for the construction of the finite element models.  Several parameters, consisting of anchorage ratio, inclination of prestressing load, eccentricity, web thickness, ratio of web thickness to flange thickness, and flange width, are chosen for parametric studies.  The results from the studies are presented graphically and numerically.  Equations to calculate the bursting force and location of the force are developed from the Strut-and-Tie Model approach.  The verification of the formulations and the investigation of bursting steel arrangement are conducted using nonlinear finite element analysis.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:06:46Z (GMT). No. of bitstreams: 1  SongwutHengprathaneeDissertation.pdf: 3736793 bytes, checksum: 674c4c340ed8174b1b9c00d9d82d1bcb (MD5)    Previous issue date: 2004-06-14",
+    "Author Email: shengpra@vt.edu",
+    "Advisor Email: wollmann@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: tcousins@vt.edu",
+    "Advisor Email: dohanehi@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11253",
+  "identifier_other": "etd-09212004-193506",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09212004-193506",
+  "identifier_uri": "http://hdl.handle.net/10919/11253",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SongwutHengprathaneeDissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Prestressed concrete",
+    "Finite element analysis",
+    "Post-tensioned",
+    "Anchorage zones"
+  ],
+  "title": "Linear and Nonlinear Finite Element Analyses of Anchorage Zones in Post-Tensioned Concrete Structures",
+  "type": "Dissertation"
+}

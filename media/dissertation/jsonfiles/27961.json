@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Yao, Liming",
+  "contributor_committeechair": "Sarin, Subhash C.",
+  "contributor_committeemember": [
+    "Chen, Fengshan Frank",
+    "Fraticelli, Barbara M. P.",
+    "Sturges, Robert H."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:12:46Z",
+  "date_adate": "2008-07-10",
+  "date_available": "2014-03-14T20:12:46Z",
+  "date_issued": "2008-05-27",
+  "date_rdate": "2011-10-22",
+  "date_sdate": "2008-06-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is devoted to the modeling, analysis and development of solution approaches for some optimization-related problems encountered in industrial and manufacturing settings. We begin by introducing a special type of traveling salesman problem called \"High Multiplicity Asymmetric Traveling Salesman Problem\" (HMATSP). We propose a new formulation for this problem, which embraces a flow-based subtour elimination structure, and establish its validity for this problem. The model is, then, incorporated as a substructure in our formulation for a lot-sizing problem involving parallel machines and sequence-dependent setup costs, also known as the \"Chesapeake Problem\". Computational results are presented to demonstrate the efficacy of our modeling approach for both the generic HMATSP and its application within the context of the Chesapeake Problem. </br> </br> Next, we investigate an integrated lot-sizing and scheduling problem that is encountered in the primary manufacturing facility of pharmaceutical manufacturing. This problem entails determination of production lot sizes of multiple products and sequence in which to process the products on machines, which can process lots (batches) of a fixed size (due to limited capacity of containers) in the presence of sequence-dependent setup times/costs. We approach this problem via a two-stage optimization procedure. The lot-sizing decision is considered at stage 1 followed by the sequencing of production lots at stage 2. Our aim for the stage 1 problem is to allocate batches of products to time-periods in order to minimize the sum of the inventory and backordering costs subject to the available capacity in each period. The consideration of batches of final products, in addition to those for intermediate products, which comprise a final product, further complicates the lot-sizing problem. The objective for the stage 2 problem is to minimize sequence-dependent setup costs. We present a novel unifying model and a column generation-based optimization approach for this class of lot-sizing and sequencing problems. Computational experience is first provided by using randomly generated data sets to test the performances of several variants of our proposed approach. The efficacy of the best of these variants is further demonstrated by applying it to the real-life data collected with the collaboration of a pharmaceutical manufacturing company. </br> </br> Then, we address a single-lot, lot streaming problem for a two-stage assembly system. This assembly system is different from the traditional flow shop configuration. It consists of m parallel subassembly machines at stage 1, each of which is devoted to the production of a component. A single assembly machine at stage 2, then, assembles products after components (one each from the subassembly machines at the first stage) have been completed. Lot-detached setups are encountered on the machines at the first and second stages. Given a fixed number of transfer batches (or sublots) from each of the subassembly machines at stage 1 to the assembly machine at stage 2, our problem is to find sublot sizes so as to minimize the makespan. We develop optimality conditions to determine sublot sizes for the general problem, and present polynomial-time algorithms to determine optimal sublot sizes for the assembly system with two and three subassembly machines at stage 1. </br> </br> Finally, we extend the above single-lot, lot streaming problem for the two-stage assembly system to multiple lots, but still, for the objective of minimizing the makespan. Due to the presence of multiple lots, we need to address the issue of the sequencing of the lots along with lot-splitting, a fact which adds complexity to the problem. Some results derived for the single-lot version of this problem have successfully been generalized for this case. We develop a branch-and-bound-based methodology for this problem. It relies on effective lower bounds and dominance properties, which are also derived. Finally, we present results of computational experimentation to demonstrate the effectiveness of our branch-and-bound-based methodology. Because of the tightness of our upper and lower bounds, a vast majority of the problems can be solved to optimality at root node itself, while for others, the average gap between the upper and lower bounds computed at node zero is within 0.0001%. For a majority of these problems, our dominance properties, then, effectively truncate the branch-and-bound tree, and obtain optimal solution within 500 seconds.",
+  "description_provenance": [
+    "Author Email: lyao@vt.edu",
+    "Advisor Email: ff.chen@utsa.edu",
+    "Advisor Email: bfratice@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:46Z (GMT). No. of bitstreams: 1 Liming_Dissertation_07_09_ETD.pdf: 2452395 bytes, checksum: 4fa9c3c8ff1c12370f41a8c458865d3b (MD5)   Previous issue date: 2008-05-27"
+  ],
+  "handle": "27961",
+  "identifier_other": "etd-06062008-093800",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06062008-093800/",
+  "identifier_uri": "http://hdl.handle.net/10919/27961",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Liming_Dissertation_07_09_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "lot streaming",
+    "sequence-dependent setup",
+    "assembly system",
+    "high multiplicity asymmetric traveling salesma",
+    "scheduling",
+    "subtour elimination",
+    "Lot-sizing",
+    "carryover setup",
+    "primary pharmaceutical manufacturing"
+  ],
+  "title": "Modeling, Analysis and Solution Approaches for Some Optimization Problems: High Multiplicity Asymmetric Traveling Salesman, Primary Pharmaceutical Manufacturing Scheduling, and Lot Streaming in an Assembly System",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Nassar, Walid Mohammed",
+  "contributor_committeechair": "Al-Qadi, Imadeddin L.",
+  "contributor_committeemember": [
+    "Trani, Antonio A.",
+    "Duke, John C. Jr.",
+    "Reifsnider, Kenneth L.",
+    "Flintsch, Gerardo W."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:14:15Z",
+  "date_adate": "2001-07-25",
+  "date_available": "2014-03-14T20:14:15Z",
+  "date_issued": "2001-07-12",
+  "date_rdate": "2002-07-25",
+  "date_sdate": "2001-07-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the current mechanistic-empirical (M-E) design procedures for flexible pavements, the primary transfer functions are those that relate (a) maximum tensile strain in the hot-mix asphalt (HMA) surface layer to fatigue cracking and (b) compressive strain at the top of the subgrade layer to rutting at the surface.  These functions, called fatigue and rutting equations, are usually derived from statistically based correlations of pavement condition with observed laboratory specimen performance, full-scale road test experiments or by both methods.  Hot-mix asphalt fatigue behavior is an important component of a M-E design procedure; unfortunately, most of the existing models do not reflect field fatigue behavior.  This is manifested in the fact that HMA fatigue failure is achieved much faster under a laboratory setting than in a field environment.  This difference has been typically accounted for by the use of a single shift factor based mainly on engineering experience.    The flexible pavement portion of the Virginia Smart Road includes 12 different flexible pavement designs.  Each section is approximately 100m long.  The sections are instrumented with pressure cells, strain gages, time-domain reflectometry probes, thermocouples, and frost probes.  The instruments were embedded as layers were built.  Laboratory fatigue tests of field cores and field-mixed laboratory-compacted specimens along with measured response from the instrumented pavement sections at the Virginia Smart Road were used to quantify the differences between laboratory and field environments.    Four shift factors were identified to correlate field and lab fatigue behavior: stress-state, material difference, traffic wander, and healing.  Field-measured critical strains and strain energy exerted during truck loading were both used to determine the stress state shift factor.  Strain measurements of truck loading distribution (wander) were used to determine the wander shift factor.  Finally, results from laboratory fatigue tests on cores and laboratory compacted specimens were used to evaluated a shift factor to account for the difference in compaction procedures.  While the derived shift factors utilize the measured stresses and strains at the Virginia Smart Road, calculated strains and stresses, based on appropriate pavement and loading modeling, may also be used.",
+  "description_provenance": [
+    "Author Email: wnassar@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: jcduke@vt.edu",
+    "Advisor Email: mrl@vt.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:15Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 3104776 bytes, checksum: 4e41c8e27af3ac25cf7f9e75657e815f (MD5)   Previous issue date: 2001-07-12"
+  ],
+  "handle": "28377",
+  "identifier_other": "etd-07242001-115642",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07242001-115642/",
+  "identifier_uri": "http://hdl.handle.net/10919/28377",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Resilient Modulus",
+    "Pavement Instrumentation",
+    "Pavement Stress and Strain",
+    "Fatigue",
+    "Hot Mix Asphalt"
+  ],
+  "title": "Utilization of Instrument Response of SuperPaveTM Mixes at the Virginia Smart Road to Calibrate Laboratory Developed Fatigue Equations",
+  "type": "Dissertation"
+}

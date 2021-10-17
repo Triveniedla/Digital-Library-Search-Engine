@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Lee, Shiyoung",
+  "contributor_committeechair": "Ramu, Krishnan",
+  "contributor_committeemember": [
+    "Rahman, Saifur",
+    "VanLandingham, Hugh F.",
+    "Chen, Dan Y.",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:28Z",
+  "date_adate": "1999-04-08",
+  "date_available": "2014-03-14T20:08:28Z",
+  "date_issued": "1999-02-17",
+  "date_rdate": "1999-04-08",
+  "date_sdate": "1999-03-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The use of variable speed drive (VSD) systems in the appliance industry is growing due to emerging high volume of fractional horsepower VSD applications. Almost all of the appliance VSDs have no input power factor correction (PFC) circuits. This results in harmonic pollution of the utility supply which could be avoided. The impact of the PFC circuit in the overall drive system efficiency, harmonic content, magnitude of the system input current and input power factor is particularly addressed in this dissertation along with the development of analytical methods applicable to the steady-state analysis of input power factor corrected VSD systems. Three different types of motors - the switched reluctance motor (SRM), permanent magnet brushless dc motor (PMBDC) and dc motor (DCM) are employed in this study. The C-dump converter topology, a single switch per phase converter, is adopted for the prototype SRM- and PMBDC-based VSD systems. The conventional full-bridge converter is used for DCM-based VSD systems. Four-quadrant controllers, utilizing PI speed and current control loops for the PMBDC- and DCM-based VSD system, are developed and their design results are verified with experiment and simulation. A single-quadrant controller with a PI speed feedback loop is employed for the SRM-based VSD system. The analysis of each type of VSD system includes development of loss models and establishment of proper operational modes. The magnitude of the input current harmonic spectra is measured and compared with and without a front-end PFC converter. One electromagnetic compatibility (EMC) standard, IEC 1000-3-2 which describes the limitation on harmonic current emission is modified for 120V ac system. This modified standard is utilized as the reference to evaluate the measured input current harmonics. The magnitude of input current harmonics for a VSD system are greatly reduced with PFC preregulators. While the input PFC circuit draws a near sinusoidal current from an ac source, it lowers the overall VSD system efficiency and increases cost of the overall system.",
+  "description_provenance": [
+    "Author Email: shiyoung@earthlink.net",
+    "Advisor Email: srahman@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: kramu@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:28Z (GMT). No. of bitstreams: 9 02ch2.pdf: 85499 bytes, checksum: fca825be4f4024ce479674e77683ce8d (MD5) 03ch3.pdf: 340240 bytes, checksum: 5cec3f711a919cda2ca3afc07a79e3d8 (MD5) 00front.pdf: 34308 bytes, checksum: 46ff490738a68d908cd82fe14f127008 (MD5) 07ch7.pdf: 7853 bytes, checksum: e655123f9071f0c51bc7fb012bf98d72 (MD5) 06ch6.pdf: 108474 bytes, checksum: 3703e1c2426cc55a72d081ecfed2ec3a (MD5) 04ch4.pdf: 179146 bytes, checksum: 8c90d795dc366216f07facbdf591e4b8 (MD5) 01ch1.pdf: 64291 bytes, checksum: 0221ce7c2a73f420c17077b71223b93f (MD5) 05ch5.pdf: 208435 bytes, checksum: 531d3a36595d097ea1c028717afb91af (MD5) 08rear.pdf: 30826 bytes, checksum: 88899effb13bef1a41750c0cfe07bc0a (MD5)   Previous issue date: 1999-02-17"
+  ],
+  "handle": "26493",
+  "identifier_other": "etd-032499-193702",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-032499-193702/",
+  "identifier_uri": "http://hdl.handle.net/10919/26493",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "02ch2.pdf",
+    "03ch3.pdf",
+    "00front.pdf",
+    "07ch7.pdf",
+    "06ch6.pdf",
+    "04ch4.pdf",
+    "01ch1.pdf",
+    "05ch5.pdf",
+    "08rear.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Brushless DC Motor",
+    "C-Dump Converter",
+    "Switched Reluctance Motor",
+    "Loss Model"
+  ],
+  "title": "Effects of Input Power Factor Correction on Variable Speed Drive Systems",
+  "type": "Dissertation"
+}

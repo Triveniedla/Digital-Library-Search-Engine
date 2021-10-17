@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Xue, Bin",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Ravi, S. S.",
+    "Nazhandali, Leyla",
+    "Hsiao, Michael S.",
+    "Schaumont, Patrick Robert",
+    "Marathe, Madhav V."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:55Z",
+  "date_adate": "2011-09-30",
+  "date_available": "2014-03-14T20:15:55Z",
+  "date_issued": "2011-08-22",
+  "date_rdate": "2011-09-30",
+  "date_sdate": "2011-09-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research reported in this dissertation is motivated by two trends in the system-on-chip (SoC) design industry. First, due to the incessant technology scaling, the interconnect delays are getting larger compared to gate delays, leading to multi-cycle delays in communication between functional blocks on the chip, which makes implementing a synchronous global clock difficult, and power consuming. As a result, globally asynchronous and locally synchronous (GALS) designs have been proposed for future SoCs. Second, due to time-to-market pressure, and productivity gain, intellectual property (IP) block reuse is a rising trend in SoC design industry. Predesigned IPs may already be optimized and verified for timing for certain clock frequency, and hence when used in an SoC, GALS offers a good solution that avoids  reoptimizing or redesigning the existing IPs. A special case of GALS, known as Latency-Insensitive Protocol (LIP) lets designers adopt the well-understood and developed design flow of synchronous design while solving the  multi-cycle latency at the interconnects. The communication fabrics for LIP are synchronous pipelines with hand shaking. However, handshake based protocol has complex control logics and the unnecessary handshake brings down the system's throughput. That is why scheduling based LIP was proposed to avoid the hand-shakes by pre-calculated clock gating sequences for each block. It is shown to have better throughput and easier to implement. Unfortunately, static scheduling only exists for bounded systems. Therefore, this type of design in literatures restrict their discussions to systems whose graphic representation has a single strongly connected component (SCC), which by the theory is bounded.   This dissertation provides an optimization design flow for LIP synthesis with respect to back pressure, throughput and buffer sizes. This is based on extending the scheduled LIP with minimum modifications to render it general enough to be applicable to most systems, especially those with multiple SCCs. In order to guarantee the design correctness, a formal framework that can analyze concurrency and prevent fallacious behaviors such as overflow, deadlock etc., is required. Among many formal models of concurrency used previously in asynchronous system design, marked graphs, periodic clock calculus and polychrony are chosen for the purpose of modeling, analyzing and verifying in this work. Polychrony, originally developed for embedded software modeling and synthesis, is able to specify multi-rate interfaces. Then a synchronous composition can be analyzed to avoid incompatibly and combinational loops which causes incorrect GALS distribution. The marked graph model is a good candidate to represent the interconnection network which is quite suitable for modeling the communication and synchronizations in LIP. The periodic clock calculus is useful in analyzing clock gating sequences because periodic clock calculus easily captures data dependencies, throughput constraints as well as buffer sizes  required for synchronization. These formal methods help establish a formally based design flow for creating a synchronous design and then transforming it into a GALS implementation either using LIP or in a more general GALS mechanisms.",
+  "description_provenance": [
+    "Author Email: xbin114@vt.edu",
+    "Advisor Email: ravi@cs.albany.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: leyla@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Advisor Email: marathe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:55Z (GMT). No. of bitstreams: 1 Xue_B_D_2011.pdf: 1324440 bytes, checksum: 515ef6568e0f590b25956a296e825ce7 (MD5)   Previous issue date: 2011-08-22"
+  ],
+  "handle": "28874",
+  "identifier_other": "etd-09052011-092629",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09052011-092629/",
+  "identifier_uri": "http://hdl.handle.net/10919/28874",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Xue_B_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "verification",
+    "polychronous formalism",
+    "throughput",
+    "back pressure",
+    "marked graph",
+    "latency insensitive system",
+    "scheduling"
+  ],
+  "title": "Formal Approaches to Globally Asynchronous and Locally Synchronous Design",
+  "type": "Dissertation"
+}

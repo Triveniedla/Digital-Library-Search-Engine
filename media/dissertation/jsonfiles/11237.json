@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Li, Yuxin",
+  "contributor_committeechair": "Huang, Alex Q.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Chen, Dan Y.",
+    "Lai, Jason",
+    "Borojevich, Dushan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:04:14Z",
+  "date_adate": "2000-11-10",
+  "date_available": "2011-08-22T19:04:14Z",
+  "date_issued": "1997-09-22",
+  "date_rdate": "2001-11-10",
+  "date_sdate": "2000-10-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Gate Turn-Off (GTO) Thyristor has the best voltage blocking and current conducting capabilities among all known high power semiconductor devices. To improve its dynamic performances to meet the increased demand in high-performance high-power applications, a special driving technique, namely unity gain turn-off, is studied. Several innovative approaches, which realize this driving requirement, are proposed, analyzed and experimentally demonstrated in this dissertation.  The Emitter Turn-Off Thyristor (ETO) is a new family of high power semiconductor devices that is suitable for megawatt power electronics application. ETOs with voltage and current ratings of 4.0~6.0 kV and 1.0~4.0 kA, have been developed and demonstrated. These power levels are the highest in silicon power devices and are comparable to those of the GTO. Compared to the conventional GTO, the ETO has a much shorter storage time, voltage controlled turn-off capability, and a much larger reverse biased safe operation area (RBSOA). These combined advantages make the ETO based power system simpler in terms of dv/dt snubber, di/dt snubber and over current protection, resulting in signif A new family of snubberless turn-off GTO, the Resonant Gate Commutated Thyristor (RGCT) is proposed and investigated. By using a transient high commutation voltage, the RGCT can achieve unity turn-off gain and snubberless turn-off capability even with a relatively high gate loop stray inductance. Therefore conventional GTOs with flexible gate lead can be used to achieve the state-of-the-art performance similar to that of the Integrated Gate Commutated Turn-Off thyristor (IGCT). Detailed current commutation analysis and experimental results are presented. A novel equivalent circuit model for the GTO under the unity gain turn-off is proposed. This model is composed of a step current source, which represents the open-base PNP turn-off behavior, in series with a diode that represents the GTO's gate-cathode junction. This equivalent circuit can be used to analyze the turn-off transient behavior of a system employing this GTO. A new mechanism that dominates the failure of the GTO under the unity gain turn-off condition is identified and analyzed. Innovative hybrid GTO-based devices all have significant gate lead stray inductance. During the turn-off transition, this stray inductor will interact with the turn-off voltage source, the junction capacitance of the GTO's gate-cathode, causing effective current injection into the GTO's emitter junction when the voltage on the device is already high. Design guidelines and solutions for different types of GTO-based hybrid devices are provided.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:04:14Z (GMT). No. of bitstreams: 1  Yuxin_Li_Dissertation_Version3.pdf: 4118964 bytes, checksum: 548103c129f292307ee053377e052833 (MD5)    Previous issue date: 1997-09-22",
+    "Author Email: yuli3@vt.edu",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: huang@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: dushan@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11237",
+  "identifier_other": "etd-10042000-14410005",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10042000-14410005",
+  "identifier_uri": "http://hdl.handle.net/10919/11237",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yuxin_Li_Dissertation_Version3.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "gate-turn-off",
+    "GTO",
+    "ETO",
+    "thyristor",
+    "snubberless"
+  ],
+  "title": "Innovative GTO Thyristor Based Switches Through Unity Gain Turn-Off",
+  "type": "Dissertation"
+}

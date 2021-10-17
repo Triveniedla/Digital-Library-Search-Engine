@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Tirumala, Sridhar",
+  "contributor_committeechair": "Reynolds, William T. Jr.",
+  "contributor_committeecochair": "Desu, Seshu B.",
+  "contributor_committeemember": [
+    "Raman, Sanjay",
+    "Athanas, Peter M.",
+    "Claus, Richard O."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:15:43Z",
+  "date_adate": "2000-09-08",
+  "date_available": "2014-03-14T20:15:43Z",
+  "date_issued": "2000-06-07",
+  "date_rdate": "2001-09-08",
+  "date_sdate": "2000-08-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The characteristic polarization response of a ferroelectric material to an applied electric field enables a binary state device in the form of a thin film ferroelectric capacitor that can be used to store digital information. In a high density memory the capacitor is placed on the top of a poly-silicon plug which is connected to the drain of a transistor. Such a configuration poses constraints on the processing conditions of the ferroelectric capacitor in addition to the already existing reliability issues of a ferroelectric capacitor. The current research is an attempt to integrate the ferroelectric capacitor directly into a high density memory structure.<p> Pb1.1Zr0.53Ti0.47O3 (PZT) and SrBi2Ta2O9 (SBT) are two most promising materials for ferroelectric memory applications. PZT has excellent ferroelectric properties with wide operating temperature range. However, PZT exhibits a considerable loss of switchable polarization with cumulative switching cycles. This phenomenon is known as fatigue and is one of the critical problems affecting the life time of ferroelectric memories. In this research, Ir based electrodes are shown to improve fatigue characteristics of PZT based capacitors not only by enhancing a homogenous growth of perovskite phase of PZT but also by lowering the entrapment of oxygen vacancies at the interface. These Ir electrodes also acted as diffusion barriers for silicon, oxygen and lead. Additionally, Ir electrodes were found to be chemically stable at the processing temperatures of PZT capacitors. These features of Ir based electrodes could help in realization of a practical PZT based high density non volatile random access memories.  SBT is an another promising ferroelectric material for ferroelectric memory applications.  While SBT has a fatigue free nature, it has a very high processing temperature (>800 0C). Such a high processing temperature limits the choice of electrodes that could be used to integrate the ferroelectric capacitor into the high density memory structure. In this research, an attempt is made to lower the processing temperature and suitable electrodes are chosen accordingly, to enable the integration of SBT based capacitors into high density memories. Lowering the processing temperature was obtained by growing a-b oriented SBT crystallites rather than c-axis oriented crystallites. Additionally, reliability (degradation) and yield of SBT thin film capacitors was found to be correlated to the amount of segregated bismuth oxide in the films. Elimination of secondary phase bismuth oxide was found to result in dramatic improvement in the reproducibility of SBT thin films with a processing temperature close to 750 0C.<p> PtRh based electrodes were found to be quite suitable for integrating SBT capacitors into high density memory structures. These electrodes could withstand a processing temperature of 750 0C while preventing the interdiffusion of silicon, oxygen and bismuth. A solid solution of SBT and Bi3TiNbO9 (BTN) is made which reduced the processing temperature of the capacitor material from 750 0C to 650 0C while retaining the excellent fatigue and retention characteristics of SBT.",
+  "description_provenance": [
+    "Author Email: sukku@lsil.com",
+    "Advisor Email: sraman@vt.edu",
+    "Advisor Email: reynolds@vt.edu",
+    "Advisor Email: sdesu@ecs.umass.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: roclaus@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:43Z (GMT). No. of bitstreams: 11 08chapter_7.pdf: 1383242 bytes, checksum: ada4f6a014b0935723b4dbce1950badb (MD5) 04chapter_3.pdf: 1770574 bytes, checksum: 5e23575842caf1778454298241a74e4d (MD5) 091_chapter_8.pdf: 9098 bytes, checksum: e5d85f3cca16aa375de8fee420a932f6 (MD5) 092_bibliography.pdf: 2060 bytes, checksum: 606cb5452629575ec1856784ebc78e19 (MD5) 05chapter_4.pdf: 479788 bytes, checksum: f1df027f8f5bcb631510a207be725dfc (MD5) 093_vita.pdf: 2997 bytes, checksum: 5e3e0fdd8da6a0b5d0c8fa22d3e710a4 (MD5) 02chapter_1.pdf: 1429378 bytes, checksum: 508ea39266daf458e39be819a15cd7e3 (MD5) 06chapter_5.pdf: 441195 bytes, checksum: c15a8b39542e0882a9bc49b902e08149 (MD5) 07chapter_6.pdf: 172960 bytes, checksum: 29fefb394c6287fce333806ab3884bfc (MD5) 03chapter_2.pdf: 210657 bytes, checksum: 89153020219dbab3d5f1e694145068c3 (MD5) 01etd.pdf: 112710 bytes, checksum: 8b289699750a69ba26e279bea670fbff (MD5)   Previous issue date: 2000-06-07"
+  ],
+  "handle": "28800",
+  "identifier_other": "etd-08262000-17490015",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08262000-17490015/",
+  "identifier_uri": "http://hdl.handle.net/10919/28800",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "08chapter_7.pdf",
+    "04chapter_3.pdf",
+    "091_chapter_8.pdf",
+    "092_bibliography.pdf",
+    "05chapter_4.pdf",
+    "093_vita.pdf",
+    "02chapter_1.pdf",
+    "06chapter_5.pdf",
+    "07chapter_6.pdf",
+    "03chapter_2.pdf",
+    "01etd.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Bismuth-layered materials",
+    "thin film electrodes",
+    "perovskites"
+  ],
+  "title": "Integration of Ferroelectric Materials into High Density Non-Volatile Random Access Memories",
+  "type": "Dissertation"
+}

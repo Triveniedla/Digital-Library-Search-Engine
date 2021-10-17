@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Li, Qiang",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Mattavelli, Paolo",
+    "Lu, Guo-Quan",
+    "Ha, Dong Sam",
+    "Hsiao, Michael S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:07Z",
+  "date_adate": "2011-08-24",
+  "date_available": "2014-03-14T20:15:07Z",
+  "date_issued": "2011-08-11",
+  "date_rdate": "2011-08-24",
+  "date_sdate": "2011-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Today, every microprocessor is powered with a Voltage Regulator (VR), which is also known as a high current Point-of-Load converter (POL). These circuits are mostly constructed using discrete components, and populated on the motherboard. With this solution, the passive components such as inductors and capacitors are bulky. They occupy a considerable footprint on the motherboard. The problem is exacerbated with the current trend of reducing the size of all forms of portable computing equipment from laptop to netbook, increasing functionalities of PDA and smart phones. In order to solve this problem, a high power density POL needs to be developed. An integration solution was recently proposed to incorporate passive components, especially magnetic components, with active components in order to realize the needed power density for the POL. Todayâ  s discrete VR only has around 100W/in3 power density. The 3D integration concept is widely used for low current integrated POL. With this solution, a very low profile planar inductor is built as a substrate for the active components of the POL. By doing so, the POL footprint can be dramatically saved, and the available space is also fully utilized. This 3D integrated POL can achieve 300-1000W/in3 power density, however, with considerably less current. This might address the needs of small hand-held equipment such as PDA and Smart phone type of applications. It does not, however, meet the needs for such applications as netbook, laptop, desk-top and server applications where tens and hundreds of amperes are needed. So, although the high density integrated POL has been demonstrated at low current level, magnetic integration is still one of the toughest barriers for integration, especially for high current POL.   In order to alleviate the intense thirst from the computing and telecom industry for high power density POL, the 3D integration concept needs be extended from low current applications to high current applications. The key technology for 3D integration is the low profile planar inductor design. Before this research, there was no general methodology to analyze and design a low profile planar inductor due to its non-uniform flux distribution, which is totally different as a conventional bulky inductor. A Low Temperature Co-fired Ceramic (LTCC) inductor is one of the most promising candidates for 3D integration for high current applications. For the LTCC inductor, besides the non-uniform flux, it also has non-linear permeability, which makes this problem even more complicated. This research focuses on penetrating modeling and design barriers for planar magnetic to develop high current 3D integrated POL with a power density dramatically higher than todayâ  s industry products in the same current level. In the beginning, a general analysis method is proposed to classify different low profile inductor structures into two types according to their flux path pattern. One is a vertical flux type; another one is a lateral flux type. The vertical flux type means that the magnetic flux path plane is perpendicular with the substrate. The lateral flux type means that the magnetic flux path plane is parallel with the substrate. This analysis method allows us to compare different inductor structures in a more general way to reveal the essential difference between them. After a very thorough study, it shows that a lateral flux structure is superior to a vertical flux structure for low profile high current inductor design from an inductance density point of view, which contradicts conventional thinking. This conclusion is not only valid for the LTCC planar inductor, which has very non-linear permeability, but is also valid for the planar inductor with other core material, which has constant permeability. Next, some inductance and loss models for a planar lateral flux inductor with a non-uniform flux are also developed. With the help of these models, different LTCC lateral flux inductor structures (single-turn structure and multi-turn structures) are compared systematically. In this comparison, the inductance density, winding loss and core loss are all considered. The proposed modeling methodology is a valuable extension of previous uniform flux inductor modeling, and can be used to solve other modeling problems, such as non-uniform flux transformer modeling. After that, a design method is proposed for the LTCC lateral flux inductor with non-uniform flux distribution. In this design method, inductor volume, core thickness, winding loss, core loss are all considered, which has not been achieved in previous conventional inductor design methods. With the help of this design method, the LTCC lateral flux inductor can be optimized to achieve small volume, small loss and low profile at the same time. Several LTCC inductor substrates are also designed and fabricated for the 3D integrated POL. Comparing the vertical flux inductor substrate with the lateral flux inductor substrate, we can see a savings of 30% on the footprint, and a much simpler fabrication process. A 1.5MHz, 5V to 1.2V, 15A 3D integrated POL converter with LTCC lateral flux inductor substrate is demonstrated with 300W/in3 power density, which has a factor of 3 improvements when compared to todayâ  s industry products. Furthermore, the LTCC lateral flux coupled inductor is proposed to further increase power density of the 3D integrated POL converter. Due to the DC flux cancelling effect, the size of LTCC planar coupled inductor can be dramatically reduced to only 50% of the LTCC planar non-coupled inductor. Compared to previous vertical flux coupled inductor prototypes, a lateral flux coupled inductor prototype is demonstrated to have a 50% core thickness reduction. A 1.5MHz, 5V to 1.2V, 40A 3D integrated POL converter with LTCC lateral flux coupled inductor substrate is demonstrated with 700W/in3 power density, which has a factor of 7 improvements when compared to today's industry POL products in the same current level. In conclusion, this research not only overcame some major academia problems about analysis and design for planar magnetic components, but also made significant contributions to the industry by successfully scaling the integrated POL from today's 1W-5W case to a 40W case. This level of integration would significantly save the cost, and valuable motherboard real estate for other critical functions, which may enable the next technological innovation for the whole computing and telecom industry.",
+  "description_provenance": [
+    "Author Email: lqvt@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: pmatta@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:07Z (GMT). No. of bitstreams: 1 LI_Q_D_2011.pdf: 4203621 bytes, checksum: 604bd2b77d1b8372d8764863dbc0debf (MD5)   Previous issue date: 2011-08-11"
+  ],
+  "handle": "28637",
+  "identifier_other": "etd-08122011-112651",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122011-112651/",
+  "identifier_uri": "http://hdl.handle.net/10919/28637",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LI_Q_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Point-of-Load converter",
+    "high frequency",
+    "high power density",
+    "planar inductor",
+    "Magnetic integration",
+    "Low temperature co-fired ceramics"
+  ],
+  "title": "Low-Profile Magnetic Integration for High-Frequency Point-of-Load Converter",
+  "type": "Dissertation"
+}

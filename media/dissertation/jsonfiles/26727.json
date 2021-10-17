@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Blanchard, Emmanuel Dominique",
+  "contributor_committeechair": "Sandu, Adrian",
+  "contributor_committeecochair": "Sandu, Corina",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Borggaard, Jeffrey T.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:13Z",
+  "date_adate": "2010-05-03",
+  "date_available": "2014-03-14T20:09:13Z",
+  "date_issued": "2010-03-26",
+  "date_rdate": "2010-05-03",
+  "date_sdate": "2010-04-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mechanical systems operate under parametric and external excitation uncertainties. The polynomial chaos approach has been shown to be more efficient than Monte Carlo approaches for quantifying the effects of such uncertainties on the system response. This work uses the polynomial chaos framework to develop new methodologies for the simulation, parameter estimation, and control of mechanical systems with uncertainty.  This study has led to new computational approaches for parameter estimation in nonlinear mechanical systems. The first approach is a polynomial-chaos based Bayesian approach in which maximum likelihood estimates are obtained by minimizing a cost function derived from the Bayesian theorem. The second approach is based on the Extended Kalman Filter (EKF). The error covariances needed for the EKF approach are computed from polynomial chaos expansions, and the EKF is used to update the polynomial chaos representation of the uncertain states and the uncertain parameters. The advantages and drawbacks of each method have been investigated.  This study has demonstrated the effectiveness of the polynomial chaos approach for control systems analysis. For control system design the study has focused on the LQR problem when dealing with parametric uncertainties. The LQR problem was written as an optimality problem using Lagrange multipliers in an extended form associated with the polynomial chaos framework. The solution to the Hâ   problem as well as the H2 problem can be seen as extensions of the LQR problem. This method might therefore have the potential of being a first step towards the development of computationally efficient numerical methods for Hâ   design with parametric uncertainties.  I would like to gratefully acknowledge the support provided for this work under NASA Grant NNL05AA18A.",
+  "description_provenance": [
+    "Author Email: eblancha@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: asandu7@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:13Z (GMT). No. of bitstreams: 1 Blanchard_ED_D_2010.pdf: 8261517 bytes, checksum: b3003b2171f27fde1e2841c57e258969 (MD5)   Previous issue date: 2010-03-26"
+  ],
+  "handle": "26727",
+  "identifier_other": "etd-04092010-000752",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04092010-000752/",
+  "identifier_uri": "http://hdl.handle.net/10919/26727",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Blanchard_ED_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Collocation",
+    "Polynomial Chaos",
+    "Parametric Uncertainty",
+    "Parameter Estimation",
+    "Extended Kalman Filter (EKF)",
+    "Bayesian Estimation",
+    "Vehicle Dynamics",
+    "Control Design",
+    "Robust Control",
+    "LQR"
+  ],
+  "title": "Polynomial Chaos Approaches to Parameter Estimation and Control Design for Mechanical Systems with Uncertain Parameters",
+  "type": "Dissertation"
+}

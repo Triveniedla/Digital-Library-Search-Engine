@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Duggleby, Andrew Thomas",
+  "contributor_committeechair": "Ball, Kenneth S.",
+  "contributor_committeecochair": "Paul, Mark R.",
+  "contributor_committeemember": [
+    "Vlachos, Pavlos P.",
+    "Tafti, Danesh K.",
+    "Iliescu, Traian"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:01Z",
+  "date_adate": "2006-08-31",
+  "date_available": "2014-03-14T20:15:01Z",
+  "date_issued": "2006-08-02",
+  "date_rdate": "2006-08-31",
+  "date_sdate": "2006-08-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this study is to characterize the mechanism of drag reduction by comparing the dynamical eigenfunctions of a turbulent pipe flow against those of two known cases of drag reduced flows. The first is forced drag reduction by spanwise wall oscillation, and the second is natural drag reduction found in relaminarizing flow. The dynamics are examined through a Karhunen-Lo`eve (KL) expansion of the direct numerical simulation flow field results. The direct numerical simulation (DNS) is performed using NEK5000, a spectral element Navier-Stokes solver, the first exponentially convergent investigation of DNS of turbulence in a pipe. The base flow is performed at a Reynolds number of Re = 150, resulting in a KL dimension of D_KL =  2130. As in turbulent channel flow, propagating modes are found, characterized with constant phase speed, and contribute of 80.58% of the total fluctuating energy. Based upon wavenumber characteristics and coherent vorticity visualization, four subclasses of propagating modes and two subclasses of non-propagating modes are discovered, qualitatively similar to the horseshoe (hairpin) vortex structure reported in literature. The drag reduced case is performed at the same Reynolds number with a spanwise velocity A+ = 20, a period of T+ = 50, and is driven by a constant pressure gradient. This results in a increase of flow rate by 27 %, and the KL dimension is reduced to D_KL = 102, a 96% reduction. The propagating modes, in particular the wall modes, are pushed away from the wall, resulting in a 34% increase in their advection speed, and a shift away from the wall of the root-mean-square and Reynolds stress peaks. The relaminarizing case observes the chugging motion of the mean flow rate when the Reynolds number is barely turbulent, at Re = 95. This chugging motion is the relaminarization of the flow, resulting in an increased flow rate, and then before complete relaminarization, the flow regains its turbulent state. This occurs because the lift modes, which are responsible for the majority of the energy in the inertial range of the energy spectra, decrease by two or three orders of magnitude. The chugging ends when the wall modes restart the turbulent cascade, and the lift modes are repopulated with energy. A model for the energy path is developed, with energy going from the pressure gradient to the shear modes, then to the roll modes, then to the wall modes, and then finally to the lift modes. It is concluded that drag reduction in a flow can be achieved by disrupting any leg of this model, thus disrupting the self-sustaining mechanism of turbulence. The spanwise wall oscillation shortened the life span of the wall modes, thus limiting their ability to pass energy to the lift modes. Likewise, the low Reynolds number did not provide enough energy to sustain the lift modes, and so relaminarization began. The contribution of this work is twofold. Firstly, the structure of turbulent pipe flow is examined and visualized for the first time using the Karhunen-Lo`eve method. The second, and perhaps greatest contribution of this work, is that the mechanism of drag reduction has been characterized as the link between the wall modes and the lift modes. This will allow future work on developing real methods of drag reduction, and eventually porting it to high Reynolds number flows, like that of an oil pipeline at Re= 40, 000. To achieve this, certain questions remain to be answered, such as what is the most efficient method of disrupting the wall-lift mechanism? Is there a single structure that can be identified and manipulated that gives a similar eect? Once answered, this will allow for a new generation of pipelines to be developed, and considering the implications in petroleum industry alone, will result in a significant contribution to the economy of the world.",
+  "description_provenance": [
+    "Author Email: duggleby@vt.edu",
+    "Advisor Email: ball@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: iliescu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:01Z (GMT). No. of bitstreams: 1 dugglebyDissertation.pdf: 6821912 bytes, checksum: 69c2ada4223c2caae29dad6312e70810 (MD5)   Previous issue date: 2006-08-02"
+  ],
+  "handle": "28601",
+  "identifier_other": "etd-08102006-150029",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08102006-150029/",
+  "identifier_uri": "http://hdl.handle.net/10919/28601",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dugglebyDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "drag reduction",
+    "relaminarization",
+    "DNS",
+    "Karhunen-Lo`eve",
+    "turbulence"
+  ],
+  "title": "CHARACTERIZATION OF THE MECHANISM OF DRAG REDUCTION USING A KARHUNEN-LO`EVE ANALYSIS ON A DIRECT NUMERICAL SIMULATION OF TURBULENT PIPE FLOW",
+  "type": "Dissertation"
+}

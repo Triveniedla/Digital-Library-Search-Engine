@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Eno, Daniel R.",
+  "contributor_committeechair": "Ye, Keying",
+  "contributor_committeemember": [
+    "Wheeler, Robert L.",
+    "Arnold, Jesse C.",
+    "Terrell, George R.",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:10:29Z",
+  "date_adate": "1999-04-24",
+  "date_available": "2014-03-14T20:10:29Z",
+  "date_issued": "1999-04-09",
+  "date_rdate": "2000-04-24",
+  "date_sdate": "1999-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In simple linear regression, it is assumed that two variables are linearly related, with unknown intercept and slope parameters. In particular, a regressor variable is assumed to be precisely measurable, and a response is assumed to be a random variable whose mean depends on the regressor via a linear function. For the simple linear regression problem, interest typically centers on estimation of the unknown model parameters, and perhaps application of the resulting estimated linear relationship to make predictions about future response values corresponding to given regressor values. The linear statistical calibration problem (or, more precisely, the absolute linear calibration problem), bears a resemblance to simple linear regression. It is still assumed that the two variables are linearly related, with unknown intercept and slope parameters. However, in calibration, interest centers on estimating an unknown value of the regressor, corresponding to an observed value of the response variable. We consider Bayesian methods of analysis for the linear statistical calibration problem, based on noninformative priors. Posterior analyses are assessed and compared with classical inference procedures. It is shown that noninformative prior Bayesian analysis is a strong competitor, yielding posterior inferences that can, in many cases, be correctly interpreted in a frequentist context. We also consider extensions of the linear statistical calibration problem to polynomial models and multivariate regression models. For these models, noninformative priors are developed, and posterior inferences are derived. The results are illustrated with analyses of published data sets. In addition, a certain type of heteroscedasticity is considered, which relaxes the traditional assumptions made in the analysis of a statistical calibration problem. It is shown that the resulting analysis can yield more reliable results than an analysis of the homoscedastic model.",
+  "description_provenance": [
+    "Author Email: deno@vt.edu",
+    "Advisor Email: wheeler@math.vt.edu",
+    "Advisor Email: JCA@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:29Z (GMT). No. of bitstreams: 1 etd.pdf: 1612931 bytes, checksum: 56c7c5ccb5dba805aa4e24b0af227d25 (MD5)   Previous issue date: 1999-04-09"
+  ],
+  "handle": "27140",
+  "identifier_other": "etd-042299-095037",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-042299-095037/",
+  "identifier_uri": "http://hdl.handle.net/10919/27140",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Heteroscedasticity",
+    "Reference prior",
+    "Probability matching prior",
+    "Multivariate regression",
+    "Polynomialregression",
+    "Frequentist coverage"
+  ],
+  "title": "Noninformative Prior Bayesian Analysis for Statistical Calibration Problems",
+  "type": "Dissertation"
+}

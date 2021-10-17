@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Smith, Benjamin A",
+  "contributor_committeechair": "Roach, John W.",
+  "contributor_committeemember": [
+    "Lockhart, Thurmon E.",
+    "Johnson, Martin E.",
+    "Hong, Dennis W.",
+    "Ramu, Krishnan"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:12Z",
+  "date_adate": "2010-08-17",
+  "date_available": "2014-03-14T20:14:12Z",
+  "date_issued": "2010-07-21",
+  "date_rdate": "2010-08-17",
+  "date_sdate": "2010-07-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The extraction and analysis of human gait characteristics using image sequences are an important area of research.  Recently, the focus of this research area has turned to computer vision as an unobtrusive way to analyze human motions.  The applications for such a system are wide ranging in many disciplines.  For example, it has been shown that visual systems can be used to identify people by their gait, estimate a subjectâ  s kinematic configuration and identify abnormal motion.  The focus of this thesis is a system that accurately classifies observed motions without the use of an explicit spatial or temporal model.  The visual detection of hidden loads through passive visual analysis of gait is presented as a test of the system. \t\tThe major contributions of this thesis are in two areas.  The first is a neural network based scheme that classifies walking styles based on simple image metrics obtained from a single, monocular gray scale image sequence.  The powerful neural network classifier utilized in this system provides an efficient, robust and highly accurate classification using these image metrics.  This eliminates the need for more complex and difficult to obtain measures that are required by many of the currently human visual analysis systems.  This system uses computer vision and pattern recognition techniques combined with physiological knowledge of human gait to estimate an observed subjectâ  s hip angle.  The hip angle is then used to calculate a normality index of the gait.  The hip angle estimate and normality index are then used as inputs to a neural network.  It is shown through experiment that this system provides an accurate classification of four different walking styles observed by a single camera.  Secondly, a computer vision based approach is presented that provides an accurate pose estimate without the use of an explicit spatial or temporal model. A hybrid fuzzy neural network is used to assign contour points of a silhouette to kinematically relevant groups. These labeled points are used to estimate the joint locations of the subject. The joint angles are shown to be good estimates as compared to ground truth angles provided by a motion capture system.  The effectiveness of the system to distinguish between subtle gait differences is demonstrated by detecting the presence of hidden loads when carried by walking people.",
+  "description_provenance": [
+    "Author Email: smithb@vt.edu",
+    "Advisor Email: mroan@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: kramu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:12Z (GMT). No. of bitstreams: 1 Smith_BA_D_2010.pdf: 3696745 bytes, checksum: cdb572f2e562cedd52668c96d2908993 (MD5)   Previous issue date: 2010-07-21"
+  ],
+  "handle": "28360",
+  "identifier_other": "etd-07222010-143454",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07222010-143454/",
+  "identifier_uri": "http://hdl.handle.net/10919/28360",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Smith_BA_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Gait analysis",
+    "pattern recognition",
+    "hidden load detection",
+    "computer vision",
+    "surveillance detection"
+  ],
+  "title": "Model Free Human Pose Estimation with Application to the Classification of Abnormal Human Movement and the Detection of Hidden Loads",
+  "type": "Dissertation"
+}

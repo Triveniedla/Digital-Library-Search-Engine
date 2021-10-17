@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Malatkar, Pramod",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Kapania, Rakesh K.",
+    "Batra, Romesh C.",
+    "Hendricks, Scott L.",
+    "Librescu, Liviu"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:14:02Z",
+  "date_adate": "2003-07-17",
+  "date_available": "2014-03-14T20:14:02Z",
+  "date_issued": "2003-07-03",
+  "date_rdate": "2003-07-17",
+  "date_sdate": "2003-07-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A study of the nonlinear vibrations of metallic cantilever beams and plates subjected to transverse harmonic excitations is presented. Both experimental and theoretical results are presented. The primary focus is however on the transfer of energy between widely spaced modes via modulation. This phenomenon is studied both in the presence and absence of a one-to-one internal resonance. Reduced-order models using Galerkin discretization are also developed to predict experimentally observed motions. A good qualitative agreement is obtained between the experimental and numerical results. <p> Experimentally the energy transfer between widely spaced modes is found to be a function of the closeness of the modulation frequency to the natural frequency of the first mode. The modulation frequency, which depends on various parameters like the amplitude and frequency of excitation, damping factors, etc., has to be near the natural frequency of the low-frequency mode for significant transfer of energy from the directly excited high-frequency mode to the low-frequency mode. <p> An experimental parametric identification technique is developed for estimating the linear and nonlinear damping coefficients and effective nonlinearity of a metallic cantilever beam. This method is applicable to any single-degree-of-freedom nonlinear system with weak cubic geometric and inertia nonlinearities. In addition, two methods, based on the elimination theory of polynomials, are proposed for determining both the critical forcing amplitude as well as the jump frequencies in the case of single-degree-of-freedom nonlinear systems. <p> An experimental study of the response of a rectangular, aluminum cantilever plate to transverse harmonic excitations is also conducted. Various nonlinear dynamic phenomena, like two-to-one and three-to-one internal resonances, external combination resonance, energy transfer between widely spaced modes via modulation, period-doubled motions, and chaos, are demonstrated using a single plate. It is again shown that the closeness of the modulation frequency to the natural frequency of the first mode dictates the energy transfer between widely spaced modes.",
+  "description_provenance": [
+    "Author Email: pramod@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:02Z (GMT). No. of bitstreams: 1 Thesis.pdf: 2188177 bytes, checksum: 282f61ed2e858cc99c414b5a4e0743bc (MD5)   Previous issue date: 2003-07-03"
+  ],
+  "handle": "28301",
+  "identifier_other": "etd-07152003-164905",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07152003-164905/",
+  "identifier_uri": "http://hdl.handle.net/10919/28301",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Nonlinear structure",
+    "Modal interactions",
+    "Energy transfer",
+    "System identification"
+  ],
+  "title": "Nonlinear Vibrations of Cantilever Beams and Plates",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Wahid, Shaikh Shahtab",
+  "contributor_committeechair": "McCrickard, Donald Scott",
+  "contributor_committeemember": [
+    "Harrison, Steven R.",
+    "Kavanaugh, Andrea L.",
+    "Atwood, Michael E.",
+    "Winchester, Woodrow W. III"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:17Z",
+  "date_adate": "2011-03-03",
+  "date_available": "2014-03-14T20:07:17Z",
+  "date_issued": "2011-01-27",
+  "date_rdate": "2011-03-03",
+  "date_sdate": "2011-02-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Design reuse is an approach in which the creation of new designs is based on the identification of previously employed solutions and the incorporation of those into new contexts.  This notion has been extensively studied especially by software engineers.  This research seeks to support the reuse of design knowledge in the Human-Computer Interaction (HCI) community in creating new designs as it is generally argued that reuse has the potential to reduce development time and costs.  Efforts to reuse design elements in HCI, often in the form of design patterns, are slowly emerging.  This work seeks to facilitate the reuse of design knowledge in the form of claims.  To achieve this goal, the notion of claim relationshipsâ  descriptions of connections between claims that emerge in designâ  is introduced as a mechanism to facilitate reuse.  Claims relationships can be used to connect a collection of reusable claims so that they can be searched, understood, tailored, and integrated into new designs.  A method for how to use the relationships is presented to aid in the creation of scenarios.  Through a series of studies starting from the use of relationships to locate and reuse claims to the use of cards sets incorporating images and rationale for storyboards, the potential for relationships is demonstrated.    These works inform the design and evaluation of a storyboarding tool called PIC-UP.  PIC-UP is introduced as an example of how relationships can be utilized in the creation of storyboards made of reusable artifacts in the form of claims.  Studies of PIC-UP position the tool as one that enables the reuse through the use of a storyboarding guide and social navigation by collecting and sharing claims.  It shows potential in aiding novice and non-designers and can serve as a communication tool.",
+  "description_provenance": [
+    "Author Email: swahid@vt.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: srh@cs.vt.edu",
+    "Advisor Email: kavan@cs.vt.edu",
+    "Advisor Email: atwood@drexel.edu",
+    "Advisor Email: wwwinche@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:17Z (GMT). No. of bitstreams: 1 Wahid_SS_D_2011.pdf: 3602624 bytes, checksum: fb4998aa72a681f93a7abac97e03dd7b (MD5)   Previous issue date: 2011-01-27"
+  ],
+  "handle": "26169",
+  "identifier_other": "etd-02102011-012027",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02102011-012027/",
+  "identifier_uri": "http://hdl.handle.net/10919/26169",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wahid_SS_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Design Knowledge Reuse",
+    "Storyboarding",
+    "Claims",
+    "Scenario-Based Design"
+  ],
+  "title": "Facilitating Design Knowledge Reuse Through Relationships",
+  "type": "Dissertation"
+}

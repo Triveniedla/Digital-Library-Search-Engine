@@ -1,0 +1,60 @@
+{
+  "contributor_author": "Cho, Jae-Pil",
+  "contributor_committeechair": "Mostaghimi, Saied",
+  "contributor_committeemember": [
+    "Lohani, Vinod K.",
+    "Dillaha, Theo A. III",
+    "Widdowson, Mark A.",
+    "Mullins, Donald E."
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:12:35Z",
+  "date_adate": "2007-06-12",
+  "date_available": "2014-03-14T20:12:35Z",
+  "date_issued": "2007-04-04",
+  "date_rdate": "2007-06-12",
+  "date_sdate": "2007-05-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The overall goal of this study was to develop a comprehensive tool for assessing the effectiveness of selected BMPs on both hydrology and water quality and to demonstrate the applicability of the system by considering 1) temporally and spatially changing land use management practice in an agricultural watershed and 2) interaction between surface and ground water over the entire system.  A user interface and Dynamic Agricultural Non-point Source Assessment Tool (DANSAT) were developed to achieve this goal. DANSAT is the only distributed-parameter, physically-base, continuous-simulation, and multi-soil layer model for simulating impacts of agricultural BMPs on hydrology and water qulality in small agricultural watersheds. DANSAT was applied to QNB plot (18m Ã  27m) and two agricultural watersheds in Virginia, including Owl Run watershed (1140 ha) and QN2 in the Nomini Creek watershed (216 ha), to evaluate the model components and its performance in predicting runoff, sediment yield, and pesticide load. DANSAT performed well in predicting total runoff and temporal variations in surface runoff for both field-scale and watershed-scale applications. Total percent errors between the measured and predicted results were less than 10% except for one case (39.8% within a subwatershed of Owl Run watershed), while the daily Nash-Sutcliffe model efficiencies were greater than 0.5 in all applications. Predicted total sediment yields were within Â±35% of observed values in all applications. However, the performance of DANSAT in predicting temporal trend and spatial distribution of sediment loads was acceptable only within Owl Run watershed, where high correlations between flow rates and sediment loads exist. The predicted total pesticide loads were within Â±100% of observed values. DANSAT failed to simulate the temporal occurrence of pesticide loads with a 0.42 daily Nash-Sutcliffe efficiency value. The Dual-Simulation (DS) was developed within the linked ground water approach to resolve problems encountered due to the existence of different temporal scales between DANSAT and the existing ground water models such as MODFLOW and MT3D. The linked approach performed better in predicting the seasonal trend of total runoff compared to the integrated approach by showing an increase in monthly Nash-Sutcliffe efficiency value from 0.53 to 0.60. Surface and subsurface output variables were sensitive to the changes in spatially distributed soil parameters such as total porosity and field capacity. A maximum grid size of 100 m was recommended to be appropriate for representing spatial distribution of topographic, land use, and soil characteristics based on accuracy analysis during the GIS manipulation processes. Larger time-step based on predefined acceptable maximum grid size, decreased the computational time dramatically. Overall sensitivity to different grid sizes and time-steps was smallest for hydrology components followed by sediment and pesticide components. Dynamic crop rotation was considered by DANSAT, and the model successfully simulated the impacts of temporal and spatial changes in crop rotations on hydrology and water quality for both surface and subsurface areas. DANSAT could prove to be a useful tool for non-point source pollution managers to assess the relative effectiveness of temporally and spatially changing BMPs on both surface and ground water quantity and quality.",
+  "description_provenance": [
+    "Author Email: jcho@vt.edu",
+    "Advisor Email: vlohani@vt.edu",
+    "Advisor Email: dillaha@vt.edu",
+    "Advisor Email: mwiddows@vt.edu",
+    "Advisor Email: mullinsd@vt.edu",
+    "Advisor Email: smostagh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:35Z (GMT). No. of bitstreams: 2 Appendix_F.zip: 615573 bytes, checksum: 43a99e49bdfec4fb9184d7e48a554a6b (MD5) Dissertation-Cho.pdf: 4429666 bytes, checksum: 8c73fccb35647a8a69ddd469a5def4fb (MD5)   Previous issue date: 2007-04-04"
+  ],
+  "handle": "27890",
+  "identifier_other": "etd-05252007-121635",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05252007-121635/",
+  "identifier_uri": "http://hdl.handle.net/10919/27890",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Appendix_F.zip",
+    "Dissertation-Cho.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "MT3D",
+    "NPS",
+    "Nonpoint source",
+    "best management practice",
+    "DANSAT",
+    "MODFLOW",
+    "temporal",
+    "spatial",
+    "rotation",
+    "interface",
+    "interaction",
+    "ground water",
+    "BMP",
+    "pesticide",
+    "model",
+    "sediment"
+  ],
+  "title": "A comprehensive modeling approach for BMP impact assessment considering surface and ground water interaction",
+  "type": "Dissertation"
+}

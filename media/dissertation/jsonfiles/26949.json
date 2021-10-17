@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Raulfs, Estella Callie",
+  "contributor_committeechair": "Dean, Dennis R.",
+  "contributor_committeemember": [
+    "Larson, Timothy J.",
+    "Helm, Richard Frederick",
+    "Winkel, Brenda S. J.",
+    "White, Robert H."
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2014-03-14T20:09:53Z",
+  "date_adate": "2009-05-07",
+  "date_available": "2014-03-14T20:09:53Z",
+  "date_issued": "2009-04-03",
+  "date_rdate": "2012-04-12",
+  "date_sdate": "2009-04-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Iron-sulfur clusters are simple inorganic cofactors that are ubiquitous in living systems.  The assembly of iron sulfur clusters is an essential process and must be carefully controlled in order to limit the release of toxic free iron or sulfide.  Thus far there are three known protein systems for iron sulfur cluster assembly including the nif, suf, and isc systems.  The nif system makes iron-sulfur clusters for nitrogenase production, while both the suf and isc systems provide iron-sulfur clusters for general cellular use.  In Azotobacter vinelandii the isc operon contains eight genes which are transcribed together as a single operon: iscR iscS iscU iscA hscB hscA fdx iscX.  The two central isc players include IscS, a cysteine desulfurase, and IscU the proposed site of iron-sulfur cluster assembly.   <p> Using A. vinelandii as a model organism, we have sought to better understand the mechanism of in vivo isc cluster assembly.  In order test the scaffold hypothesis, we constructed strains that allowed for quick and rapid isolation of IscU.  The purification of IscU with a bound [2Fe-2S] cluster strongly supports the model that IscU serves as the site of cluster synthesis in vivo.  Additionally, using this same genetic system we isolated an IscU39DA variant with an oxygen stable bound [2Fe-2S] cluster.  The IscU39DA scaffold came in tight Î±2Î²2 complex with IscS and was not separated by high salt, size exclusion, or reducing conditions.  On the other hand, wild-type IscU also associated with IscS in a Î±2Î²2 complex, but readily dissociated upon increased salt concentration.  The tight association of IscU39DA and IscS was found to occur regardless of the presence of a bound [Fe-S] cluster.  We conclude that the IscU Asp-39 residue is essential for mediating the dissociation of IscU and IscS.<p> \tIn addition to studying IscS and IscU, we were interested to further understand how the isc system is regulated in response to external factors.  Previous work has demonstrated that IscR controls expression of the isc operon in Escherichia coli.  When IscR is holo this protein represses isc expression, while in its apo-form it allows isc expression.  In A. vinelandii we found that â  iscR strains exhibit in a 5 â   7 fold elevation of isc expression.  Additionally, â  iscR strains reveal a small growth phenotype on plates, and a tendency to form spontaneous suppressor mutations allowing reversion to wild-type growth.  Loss of apo-IscR function was found to cause a more severe effect on growth than the loss of holo-IscR function, suggesting IscR has cellular roles in addition to the regulation of the isc operon.",
+  "description_provenance": [
+    "Author Email: eraulfs@vt.edu",
+    "Advisor Email: deandr@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Advisor Email: helmrf@vt.edu",
+    "Advisor Email: winkel@vt.edu",
+    "Advisor Email: rhwhite@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:53Z (GMT). No. of bitstreams: 1 RAULFS-ETD2.pdf: 18950469 bytes, checksum: 61a4c392b4b71fa62e946554ecfd160c (MD5)   Previous issue date: 2009-04-03"
+  ],
+  "handle": "26949",
+  "identifier_other": "etd-04172009-201333",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04172009-201333/",
+  "identifier_uri": "http://hdl.handle.net/10919/26949",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RAULFS-ETD2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ISC",
+    "Azotobacter vinelandii",
+    "iron sulfur clusters",
+    "scaffold"
+  ],
+  "title": "Isolation of in vivo intermediates in iron sulfur cluster  biogenesis",
+  "type": "Dissertation"
+}

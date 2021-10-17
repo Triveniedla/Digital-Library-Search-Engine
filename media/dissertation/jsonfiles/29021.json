@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zhao, Yueqin",
+  "contributor_committeechair": "Konstantinos P. Triantis",
+  "contributor_committeemember": [
+    "Praveen K. Edara",
+    "DuÅ¡an TeodoroviÄ",
+    "Douglas R. Bish",
+    "Ebru K. Bish"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:16:25Z",
+  "date_adate": "2009-10-26",
+  "date_available": "2014-03-14T20:16:25Z",
+  "date_issued": "2009-09-07",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-09-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research explores the feasibility of providing innovative and effective solutions for traffic congestion. The design of reservation systems is being considered as an alternative and/or complementary travel demand management (TDM) strategy. A reservation indicates that a user will follow a booking procedure defined by the reservation system before traveling so as to obtain the right to access a facility or resource. In this research, the reservation system is introduced for a cordon-based downtown road network, hereafter called the Downtown Space Reservation System (DSRS). The research is executed in three steps. In the first step, the DSRS is developed using classic optimization techniques in conjunction with an artificial intelligence technology. The development of this system is the foundation of the entire research, and the second and third steps build upon it. In the second step, traffic simulation models are executed so as to assess the impact of the DSRS on a hypothetical transportation road network. A simulation model provides various transportation measures and helps the decision maker analyze the system from a transportation perspective. In this step, multiple simulation runs (demand scenarios) are conducted and performance insights are generated. However, additional performance measurement and system design issues need to be addressed beyond the simulation paradigm. First, it is not the absolute representation of performance that matters, but the concept of relative performance that is important. Moreover, a simulation does not directly demonstrate how key performance measures interact with each other, which is critical when trying to understand a system structure. To address these issues, in the third step, a comprehensive performance measurement framework has been applied. An analytical technique for measuring the relative efficiency of organizational units, or in this case, demand scenarios called network Data Envelopment Analysis (DEA), is used. The network model combines the perspectives of the transportation service provider, the user and the community, who are the major stakeholders in the transportation system. This framework enables the decision maker to gain an in-depth appreciation of the system design and performance measurement issues.",
+  "description_provenance": [
+    "Author Email: yueqinz@vt.edu",
+    "Advisor Email: none",
+    "Advisor Email: none",
+    "Advisor Email: none",
+    "Advisor Email: none",
+    "Advisor Email: triantis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:25Z (GMT). No. of bitstreams: 1 Zhao_Y_D_2009.pdf: 4793455 bytes, checksum: 8f56b6783239c654ad4aa6a9ddb0b737 (MD5)   Previous issue date: 2009-09-07"
+  ],
+  "handle": "29021",
+  "identifier_other": "etd-09182009-155228",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09182009-155228/",
+  "identifier_uri": "http://hdl.handle.net/10919/29021",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Zhao_Y_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Data Envelopment Analysis (DEA)",
+    "Transportation performance measurement",
+    "Traffic simulation",
+    "Travel demand management (TDM)",
+    "Trip reservation"
+  ],
+  "title": "A Downtown Space Reservation System: Its Design and Evaluation",
+  "type": "Dissertation"
+}

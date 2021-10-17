@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Silva, Luciano Afonso",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeecochair": "Austin, Eric M.",
+  "contributor_committeemember": [
+    "Dillard, David A.",
+    "Leo, Donald J.",
+    "Batra, Romesh C.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:40Z",
+  "date_adate": "2003-08-27",
+  "date_available": "2014-03-14T20:15:40Z",
+  "date_issued": "2003-08-21",
+  "date_rdate": "2003-08-27",
+  "date_sdate": "2003-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Most  of  the  methodologies dealing with viscoelastic damping focused exclusively on the frequency dependence behavior of the material. Only a few looked into the  temperature  dependence  of  the  model,  although  none  of  them  has  taken a more serious investigation on the control design subjected to temperature disturbances.  The  general  purpose of this work is to develop and investigate structures with damping modeled by means of internal variables. Thermodynamic principles are used to develop models, which are based on a generalized Maxwell element. Initially, studies are conducted to verify how the method of reduced variables  can  be  applied  to  account  for  temperature dependence, as well as to evaluate the number of internal variables necessary for good accuracy of material properties representation.  Lumped  and  finite  element  models  are  characterized  and validated against other methods. A constrained layer damping model is experimentally validated  for many temperatures. A control analysis is carried out on the models with the purpose to identify the role played by the internal variables on the control design. The results show that moving the internal poles is very expensive in terms of control energy.  It  is  also  shown  that it is not always possible to eliminate the internal coordinates in the reduced order model if the system is highly damped. The problem  of  having  the internal  pole  moved is solved by applying partial pole placement. This technique shows similar performance as compared to the linear quadratic Gaussian regulator. The control designs are implemented and it is shown that good regulation can be achieved for a fixed temperature. It is further shown that the  controller  will  lose  its  performance  when  the  model  is subjected to temperature changes. To investigate the behavior of the model under different temperatures,  a linear temperature-dependent model is developed, which clearly shows how the temperature affects the time response of the model. This model is used  as  a  baseline  to  develop an adaptive and a time-varying controllers. With the aid of the shift factor, the eigenvalue variation with temperature is used as a time-varying  function  in  the design. The results show that good track performance and regulation can be achieved with a control law that is capable of compensating for temperature variations.",
+  "description_provenance": [
+    "Author Email: lsilva@vt.edu",
+    "Advisor Email: dillard@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: ema@clemson.edu",
+    "Made available in DSpace on 2014-03-14T20:15:40Z (GMT). No. of bitstreams: 1 etdLAS.pdf: 4189707 bytes, checksum: f57225f8fcbe931b78572efd41288ab2 (MD5)   Previous issue date: 2003-08-21"
+  ],
+  "handle": "28788",
+  "identifier_other": "etd-08252003-065520",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252003-065520/",
+  "identifier_uri": "http://hdl.handle.net/10919/28788",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etdLAS.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Control",
+    "Viscoelastic",
+    "Internal Variables",
+    "Time-varying"
+  ],
+  "title": "Internal Variable and Temperature Modeling Behavior of Viscoelastic Structures -- A Control Analysis",
+  "type": "Dissertation"
+}

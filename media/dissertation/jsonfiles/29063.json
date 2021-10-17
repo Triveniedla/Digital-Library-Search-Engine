@@ -1,0 +1,48 @@
+{
+  "contributor_author": "DeMoss, Joshua Andrew",
+  "contributor_committeechair": "Simpson, Roger L.",
+  "contributor_committeemember": [
+    "McCue-Weil, Leigh S.",
+    "Neu, Wayne L.",
+    "Devenport, William J.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:34Z",
+  "date_adate": "2010-10-29",
+  "date_available": "2014-03-14T20:16:34Z",
+  "date_issued": "2010-09-09",
+  "date_rdate": "2010-10-29",
+  "date_sdate": "2010-09-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The skin friction and cross-flow separation location on a non-body-of-revolution (non-BOR) ellipsoidal model performing constant-yaw turns and a pitch-up maneuver, each with roll oscillation were studied for the first time. The detailed, low uncertainty, flow topology data provide an extensive experimental database on the flow over non-BOR hull shapes that does not exist anywhere else in the world and serves as a crucial tool for computational validation. The ellipsoidal model was mounted on a roll oscillation machine in the Virginia Tech Stability Wind Tunnel slotted wall test section. Hot-film sensors with constant temperature anemometers provided skin friction magnitudes on the body's surface for thirty-three steady flow model orientations and three unsteady maneuvers at a constant Reynolds number of 2.5 million. Cross-flow separation locations on the model were determined from span-wise minima in the skin friction magnitude for both the steady orientations and unsteady maneuvers. Steady hot-film data were obtained over roll angles between Â±25Â° in 5Â° increments with the model mounted at 10Â° and 15Â° yaw and at 7Â° pitch with respect to the flow. The roll oscillation machine was used to create a near sinusoidal unsteady roll motion between Â±26Â° at a rate of 3 Hz, which corresponded to a non-dimensional roll period of 5.4. Unsteady data were obtained with the ellipsoidal model mounted at 10Â° and 15Â° yaw and at 7Â° pitch during the rolling maneuver. Cross-flow separation was found to dominate the leeside flow of the model for all orientations. For the yaw cases, the separation location moved progressively more windward and inboard as the flow traveled downstream. Increasing the model roll or yaw angle increased the adverse pressure gradient on the leeward side, creating stronger cross-flow separation that began further upstream and migrated further windward on the model surface. For the pitch flow case, the cross-flow separation remained straight as the flow moved axially downstream. The strongest pitch cross-flow separation was observed at the most negative roll angle and dissipated, moving further downstream and inboard as the modelâ  s roll angle was increased. The unsteady flow maneuvers exhibited the same flow topology observed in the quasi-steady conditions. However, the unsteady skin friction and separation locations lagged their quasi-steady counterparts at equivalent roll angles during the oscillation cycle. A first order time lag model and sinusoidal fit to the separation location data quantified the time lags that were observed.",
+  "description_provenance": [
+    "Author Email: jdemoss@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:34Z (GMT). No. of bitstreams: 1 DeMoss_JA_D_2010.pdf: 21740650 bytes, checksum: 42d90e64b3fee4390fb0015606837b7e (MD5)   Previous issue date: 2010-09-09"
+  ],
+  "handle": "29063",
+  "identifier_other": "etd-09222010-154830",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09222010-154830/",
+  "identifier_uri": "http://hdl.handle.net/10919/29063",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DeMoss_JA_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Boundary Layer Measurement",
+    "Non-body-of-Revolution",
+    "Ellipsoid",
+    "Hot-film sensors",
+    "Skin Friction Measurement",
+    "Unsteady Roll Motion",
+    "Separation Location"
+  ],
+  "title": "Skin Friction and Cross-flow Separation on an Ellipsoidal Body During Constant Yaw Turns and a Pitch-up Maneuver with Roll Oscillation",
+  "type": "Dissertation"
+}

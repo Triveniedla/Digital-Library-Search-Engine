@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Boedihardjo, Arnold Priguna",
+  "contributor_committeechair": "Lu, Chang-Tien",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Chen, Ing-Ray",
+    "Fan, Weiguo Patrick",
+    "Liang, Yao"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:19Z",
+  "date_adate": "2010-09-06",
+  "date_available": "2014-03-14T20:15:19Z",
+  "date_issued": "2010-08-10",
+  "date_rdate": "2012-05-08",
+  "date_sdate": "2010-08-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Data streams are ordered sets of values that are fast, continuous, mutable, and potentially unbounded. Examples of data streams include the pervasive time series which span domains such as finance, medicine, and transportation. Mining data streams require approaches that are efficient, adaptive, and scalable. For several stream mining tasks, knowledge of the dataâ  s probability density function (PDF) is essential to deriving usable results. Providing an accurate model for the PDF benefits a variety of stream mining applications and its successful development can have far-reaching impact to the general discipline of stream analysis. Therefore, this research focuses on the construction of efficient and effective approaches for estimating the PDF of data streams. <p> In this work, kernel density estimators (KDEs) are developed that satisfy the stringent computational stipulations of data streams, model unknown and dynamic distributions, and enhance the estimation quality of complex structures. Contributions of this work include: (1) theoretical development of the local region based KDE; (2) construction of a local region based estimation algorithm; (3) design of a generalized local region approach that can be applied to any global bandwidth KDE to enhance estimation accuracy; and (4) application extension of the local region based KDE to multi-scale outlier detection. Theoretical development includes the formulation of the local region concept to effectively approximate the computationally intensive adaptive KDE. This work also analyzes key theoretical properties of the local region based approach which include (amongst others) its expected performance, an alternative local region construction criterion, and its robustness under evolving distributions. Algorithmic design includes the development of a specific estimation technique that reduces the time/space complexities of the adaptive KDE. In order to accelerate mining tasks such as outlier detection, an integrated set of optimizations are proposed for estimating multiple density queries. Additionally, the local region concept is extended to an efficient algorithmic framework which can be applied to any global bandwidth KDEs. The combined solution can significantly improve estimation accuracy while retaining overall linear time/space costs. As an application extension, an outlier detection framework is designed which can effectively detect outliers within multiple data scale representations.",
+  "description_provenance": [
+    "Author Email: arnold.p.boedihardjo@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Advisor Email: yliang@cs.iupui.edu",
+    "Made available in DSpace on 2014-03-14T20:15:19Z (GMT). No. of bitstreams: 1 Boedihardjo_AP_D_2010.pdf: 2965127 bytes, checksum: 55fc1aeb46b788360a3292f9ce3820c3 (MD5)   Previous issue date: 2010-08-10"
+  ],
+  "handle": "28686",
+  "identifier_other": "etd-08162010-212505",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08162010-212505/",
+  "identifier_uri": "http://hdl.handle.net/10919/28686",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Boedihardjo_AP_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Data Mining",
+    "Machine Learning",
+    "Kernel Density Estimation",
+    "Outlier Detection",
+    "Data Stream"
+  ],
+  "title": "Efficient Algorithms for Mining Data Streams",
+  "type": "Dissertation"
+}

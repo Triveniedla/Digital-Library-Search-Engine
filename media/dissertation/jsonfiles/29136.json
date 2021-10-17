@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Mahmoudian, Nina",
+  "contributor_committeechair": "Woolsey, Craig A.",
+  "contributor_committeemember": [
+    "Stilwell, Daniel J.",
+    "Neu, Wayne L.",
+    "Hall, Christopher D."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:54Z",
+  "date_adate": "2009-10-15",
+  "date_available": "2014-03-14T20:16:54Z",
+  "date_issued": "2009-09-08",
+  "date_rdate": "2009-10-15",
+  "date_sdate": "2009-09-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Underwater gliders are highly efficient, winged autonomous underwater vehicles that propel themselves by modifying their buoyancy and their center of mass.  The center of mass is controlled by a set of servo-actuators which move one or more internal masses relative to the vehicle's frame. Underwater gliders are so efficient because they spend most of their time in stable, steady motion, expending control energy only when changing their equilibrium state.  Motion control thus reduces to varying the parameters (buoyancy and center of mass) that affect the state of steady motion.  These parameters are conventionally controlled through feedback, in response to measured errors in the state of motion, but one may also incorporate a feedforward component to speed convergence and improve performance.    In this dissertation, first an approximate analytical expression for steady turning motion is derived by applying regular perturbation theory to a realistic vehicle model to develop a better understanding of underwater glider maneuverability, particularly with regard to turning motions. The analytical result, though approximate, is quite valuable because it gives better insight into the effect of parameters on vehicle motion and stability.   Using these steady turn solutions, including the special case of wings level glides, one may construct feasible paths for the gliders to follow. Because the turning motion results are only approximate, however, and to compensate for model and environmental uncertainty, one must incorporate feedback to ensure convergent path following. This dissertation describes the development and numerical implementation of a feedforward/feedback motion control system intended to enhance locomotive efficiency by reducing the energy expended for guidance and control. It also presents analysis of the designed control system using slowly varying systems theory.  The results provide (conservative) bounds on the rate at which the reference command (the desired state of motion) may be varied while still guaranteeing stability of the closed-loop system. Since the motion control system more effectively achieves and maintains steady motions, it is intrinsically efficient.  The proposed control system enables speed, flight path angle, and turn rate, providing a mechanism for path following.  The next step is to implement a guidance strategy, together with a path planning strategy, and one which continues to exploit the natural efficiency of this class of vehicle.  The structure of the approximate solution for steady turning motion is such that, to first order in turn rate, the glider's horizontal component of motion matches that of \"Dubinsâ   car,\" a kinematic car with bounded turn rates.  Dubins car is a classic example in the study of time-optimal control for mobile robots. For an underwater glider, one can relate time optimality to energy optimality.  Specifically, for an underwater glider travelling at a constant speed and maximum flight efficiency (i.e., maximum lift-to-drag ratio), minimum time paths are minimum energy paths.  Hence, energy-efficient paths can be obtained by generating sequences of steady wings-level and turning motions.  These efficient paths can, in turn, be followed using the motion control system developed in this work.",
+  "description_provenance": [
+    "Author Email: ninam@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:54Z (GMT). No. of bitstreams: 1 Dissertation_Nina_October14.pdf: 1531574 bytes, checksum: f0420b174356b8f9a9881bccb275e46f (MD5)   Previous issue date: 2009-09-08"
+  ],
+  "handle": "29136",
+  "identifier_other": "etd-09292009-001153",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09292009-001153/",
+  "identifier_uri": "http://hdl.handle.net/10919/29136",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Nina_October14.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Motion Control",
+    "Underwater Gliders",
+    "Motion Planning"
+  ],
+  "title": "Efficient Motion Planning and Control for Underwater Gliders",
+  "type": "Dissertation"
+}

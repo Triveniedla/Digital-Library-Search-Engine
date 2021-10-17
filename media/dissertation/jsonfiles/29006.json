@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Huang, Fei",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Hou, Yiwei Thomas",
+    "Jensen, E. Douglas",
+    "Sarin, Subhash C.",
+    "Yang, Yaling"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:22Z",
+  "date_adate": "2010-10-27",
+  "date_available": "2014-03-14T20:16:22Z",
+  "date_issued": "2010-09-03",
+  "date_rdate": "2010-10-27",
+  "date_sdate": "2010-09-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the recent decade, peer-to-peer (P2P) technology has greatly enhanced the scalability of multimedia streaming on the Internet by enabling efficient cooperation among end-users. However, existing streaming applications are plagued by the problems of long playback latency and long churn-induced delays. First of all, many streaming applications, such as IPTV and video conferencing, have rigorous constraints on end-to-end delays. Moreover, churn-induced delays, including delays from channel switching and streaming recovery, in current P2P streaming applications are typically in the scale of 10-60 seconds, which is far below the favorable user experience as in cable TV systems. These two issues in terms of playback latency and churn-induced delays have hindered the extensive commercial deployment of P2P systems. Motivated by this, in this dissertation, we focus on reducing delays in P2P live streaming systems. Specifically, we propose solutions for reducing delays in P2P live streaming systems in four problem spaces: (1) minimizing the maximum end-to-end delay in P2P streaming; (2) minimizing the average end-to-end delay in P2P streaming; (3) minimizing the average delay in multi-channel P2P streaming; and (4) reducing churn-induced delays.  We devise a streaming scheme to minimize the maximum end-to-end streaming delay under a mesh-based overlay network paradigm. We call this problem, the MDPS problem. We formulate the MDPS problem and prove its NP-completeness. We then present a polynomial-time approximation algorithm, called Fastream-I, for this problem, and show that the performance of Fastream-I is bounded by a ratio of O(SQRT(log n)), where n is the number of peers in the system. We also develop a distributed version of Fastream-I that can adapt to network dynamics. Our simulation study reveals the effectiveness of Fastream-I, and shows a reasonable message overhead.  While Fastream-I yields the minimum maximum end-to-end streaming delay (within a factor of O(SQRT(log n)), in many P2P settings, users may desire the minimum average end-to-end P2P streaming delay.  Towards this, we devise a streaming scheme which optimizes the bandwidth allocation to achieve the minimum average end-to-end P2P streaming delay. We call this problem, the MADPS problem. We first develop a generic analytical framework for the MADPS problem. We then present Fastream-II as a solution to the MADPS problem. The core part of Fastream-II is a fast approximation algorithm, called APX-Fastream-II, based on primal-dual schema. We prove that the performance of APX-Fastream-II is bounded by a ratio of 1+w, where w is an adjustable input parameter. Furthermore, we show that the flexibility of w provides a trade-off between the approximation factor and the running time of Fastream-II.  The third problem space of the dissertation is minimizing the average delay in multi-channel P2P streaming systems. Toward this, we present an algorithm, called Fastream-III. To reduce the influence from frequent channel-switching behavior, we build Fastream-III for the view-upload decoupling (VUD) model, where the uploaded content from a serving node is independent of the channel it views. We devise an approximation algorithm based on primal-dual schema for the critical component of Fastream-III, called APX-Fastream-III. In contrast to APX-Fastream-II, APX-Fastream-III addresses the extra complexity in the multichannel scenario and maintains the approximation bound by a ratio of 1+w.  Besides playback lag, delays occurring in P2P streaming may arise from two other factors: node churn and channel switching. Since both stem from the re-connecting request in churn, we call them churn-induced delays. Optimizing churn-induced delays is the dissertation's fourth problem space. Toward this, we propose NAP, a novel agent-based P2P scheme, that provides preventive connections to all channels. Each channel in NAP selects powerful peers as agents to represent the peers in the channel to minimize control and message overheads. Agents distill the bootstrapping peers with superior bandwidth and lifetime expectation to quickly serve the viewer in the initial period of streaming. We build a queueing theory model to analyze NAP. Based on this model, we numerically compare NAP's performance with past efforts. The results of the numerical analysis reveal the effectiveness of NAP.",
+  "description_provenance": [
+    "Author Email: huangf@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: jensen@mitre.org",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:22Z (GMT). No. of bitstreams: 1 Huang_F_D_2010.pdf: 2740497 bytes, checksum: d555bcbf5c3fcc52bac8ee078a17b42b (MD5)   Previous issue date: 2010-09-03"
+  ],
+  "handle": "29006",
+  "identifier_other": "etd-09172010-003455",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09172010-003455/",
+  "identifier_uri": "http://hdl.handle.net/10919/29006",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Huang_F_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Communication Delay",
+    "Reliability",
+    "Optimization",
+    "Quality of Service (QoS)",
+    "P2P Streaming"
+  ],
+  "title": "On Reducing Delays in P2P Live Streaming Systems",
+  "type": "Dissertation"
+}

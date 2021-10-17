@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Jiang, Yan",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Wang, Shuo",
+    "Boroyevich, Dushan",
+    "van Wyk, Jacobus Daniel",
+    "Suchicital, Carlos T. A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:12Z",
+  "date_adate": "2009-04-03",
+  "date_available": "2014-03-14T20:08:12Z",
+  "date_issued": "2009-01-27",
+  "date_rdate": "2009-04-03",
+  "date_sdate": "2009-03-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Around 19% of global power consumption and around 3% of global oil demand is attributable to lighting. After the first incandescent lamp was invented in 1879, more and more energy efficient lighting devices, such as gas discharge lamps, and light-emitting diodes (LED), have been developed during the last century. It is estimated that over 38% of future global lighting energy demand could be avoided by the use of more efficient lamps and ballasts [1]. <p> High intensity discharge (HID) lamps, one category of gas discharge lamp, have been widely used in both commercial and residential lighting applications due to their merits of high efficacy, long life, compact size and good color rendition [2-4]. However, HID lamps require a well-designed ballast to stabilize the negative VI characteristics. A so-called ignitor is also needed to provide high voltage to initiate the gas discharge. Stringent input harmonic current limits, such as the IEC 61000-3-2 Class C standard, are set for lighting applications. It is well-known that high-frequency electronic ballasts can greatly save energy, improve lamp performance, and reduce the ballast size and weight compared with the conventional magnetic ballast. However, a unique phenomenon called acoustic resonance could occur in HID lamps under high-frequency operation. A low-frequency square wave current driving scheme has proved to be the only effective method to avoid acoustic resonance in HID lamps. A typical electronic HID ballast consist of three stages: power factor correction (PFC), DC/DC power regulation and low-frequency DC/AC inverter. The ignitor is usually integrated in the inverter stage. The three-stage structure results in a large size and high cost, which unfortunately offsets the merit of the HID lamp, especially in low-wattage applications. In order to make HID lamps more attractive in low-wattage and indoor applications, it is critical to reduce the size, weight and cost of HID ballasts.  <p> This dissertation is aimed at developing a compact HID with an ultra-compact ballast installed inside the lamp fixture. It is a similar concept to the compact fluorescent lamp (CFL), but it is much more challenging than the CFL. Two steps are explored to achieve high power density of the HID ballast.  <p> The first step is to improve the system structure and circuit topology. Instead of a three-stage structure, a two-stage structure is proposed, which consists of a single-stage power factor correction (SSPFC) AC/DC front-end and an unregulated DC/AC inverter/ignitor stage. An SSPFC AC/DC converter is proposed as the front-end. A DCM non-isolated flyback PFC semi-stage and a DCM buck-boost DC/DC semi-stage share the semiconductor switch, driver and PWM controller, so that the component count and cost can be reduced.  The proposed SSPFC AC/DC front-end converter can achieve a high power factor, low THD, low bulk capacitor voltage, and the desired power regulation with a simple control circuit. Because the number of high-frequency switches is reduced compared to that of state-of-the-art two-stage HID ballast topologies, the switching frequency can be increased without sacrificing high efficiency, so the passive component size can be reduced. The power density of the whole ballast is increased using this two-stage structure. It results in a 2.5 times power density (6 W/in3) improvement compared to the commercial product (2.4 W/in3). <p> The power density of the converter in discrete fashion usually suffers as a result of poor three-dimensional (3D) volume utilization due to a large component count and the different form factor of different components. In the second step, integration and packaging technologies are explored to further increase the power density.  A 3D passive integrated HID ballast is proposed in this dissertation. All power passive components are designed in planar shape with a uniform form factor to fully utilize the three-dimensional space. In addition, electromagnetic integration technologies are applied to achieve structural, functional and processing integration to reduce component volume and labor cost. System partitioning, integration and packaging strategies, and implementation of major power passive integration, including an integrated EMI filter, and an integrated ignitor, will be discussed in the dissertation. The proposed integrated ballast is projected to double the power density of the discrete implementation. <p> By installing the HID ballast inside the lamp fixture, the ambient temperature for the ballast will be much higher than the conventional separately installed ballast, and combined with a reduced size, the thermal condition for the integrated ballast will be much more severe. A thermal simulation model of the integrated ballast is built in the IDEAS simulation tool, and appropriate thermal management methods are investigated using the IDEAS simulation model. Experimental verification of various thermal management methods is provided. Based on the thermal management study, a new integrated ballast with improved thermal design is proposed.",
+  "description_provenance": [
+    "Author Email: yajiang2@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: shwang6@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: daanvw@uj.ac.za",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: ctas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:12Z (GMT). No. of bitstreams: 1 Dissertation_YanJiang_0327.pdf: 8108628 bytes, checksum: e8a292ba59924c1c1f9fcc75b4cb4b9d (MD5)   Previous issue date: 2009-01-27"
+  ],
+  "handle": "26427",
+  "identifier_other": "etd-03132009-115634",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03132009-115634/",
+  "identifier_uri": "http://hdl.handle.net/10919/26427",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_YanJiang_0327.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Electronic ballast",
+    "HID lamp",
+    "power factor corrction",
+    "integrated passives",
+    "integrated EMI filter"
+  ],
+  "title": "Three Dimensional Passive Integrated Electronic Ballast for Low Wattage HID Lamps",
+  "type": "Dissertation"
+}

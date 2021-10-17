@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Back, Henning Olling",
+  "contributor_committeechair": "Vogelaar, Robert Bruce",
+  "contributor_committeemember": [
+    "Ficenec, John R.",
+    "Raghavan, Ramaswamy",
+    "Takeuchi, Tatsu",
+    "Pitt, Mark L."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2011-08-22T19:06:47Z",
+  "date_adate": "2004-09-29",
+  "date_available": "2011-08-22T19:06:47Z",
+  "date_issued": "2004-06-18",
+  "date_rdate": "2004-09-29",
+  "date_sdate": "2004-09-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A measurement of solar neutrinos below 1 MeV of energy will further our knowledge of the neutrino's mass and mixing properties and will provide a probe to possible physics beyond the standard model of particle physics, as well as advance our understanding of energy production in the Sun.  Borexino is a liquid scintillator detector that will measure the neutrino energy spectrum to the lowest energy threshold to date.  It has been designed to measure the flux of the mono-energetic neutrinos produced by electron capture on 7Be in the Sun's core, which will produce a Compton-like edge in the energy spectrum.  Because of the low count rate, Borexino requires extremely low backgrounds, and a good understanding of the backgrounds that do exist.  Although the purification techniques used for the scintillator lowered the radioactive contaminates to levels never before achieved, cuts must still be made to the data.  At Virginia Tech, we have developed an internal source calibration program that will be able to give us a thorough understanding of both the pulse shape discrimination efficiency and the energy and time response of Borexino.  Energy calibration for alphas, betas, and gammas (energy scales) can be accomplished with such sources. When the calibration source is used in conjunction with an accurate source location system any spatial dependencies can be found.  The system will use different types of sources at various energies to give the required information to make the cuts needed to extract believable physics from the detector.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:06:47Z (GMT). No. of bitstreams: 2  filling2.avi: 36986880 bytes, checksum: bd7bd7de38c05ca07f0615bd000ca377 (MD5)  HenningBack.pdf: 6668827 bytes, checksum: a72a56cc17d4b2d2fd5942998beaf65e (MD5)    Previous issue date: 2004-06-18",
+    "Author Email: hback@vt.edu",
+    "Advisor Email: vogelaar@vt.edu",
+    "Advisor Email: jficenec@vt.edu",
+    "Advisor Email: raghavan@vt.edu",
+    "Advisor Email: takeuchi@vt.edu",
+    "Advisor Email: pitt@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11255",
+  "identifier_other": "etd-09242004-034356",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09242004-034356",
+  "identifier_uri": "http://hdl.handle.net/10919/11255",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "filling2.avi",
+    "HenningBack.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "pulse shape discrimination",
+    "radiation",
+    "calibration",
+    "neutrino physics"
+  ],
+  "title": "Internal Radioactive Source Calibration of the Borexino Solar Neutrino Experiment",
+  "type": "Dissertation"
+}

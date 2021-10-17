@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Liu, Xiao",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Shimozono, Mark M.",
+    "Martin, Thomas L.",
+    "Ha, Dong Sam",
+    "Buehrer, Richard Michael"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:02:33Z",
+  "date_adate": "2004-08-03",
+  "date_available": "2011-08-22T19:02:33Z",
+  "date_issued": "2004-06-10",
+  "date_rdate": "2004-08-03",
+  "date_sdate": "2004-07-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With ever shrinking geometries, growing metal density and increasing clock rate on chips, delay testing is becoming a necessity in industry to maintain test quality for speed-related failures. The purpose of delay testing is to verify that the circuit operates correctly at the rated speed. However, functional tests for delay defects are usually unacceptable for large scale designs due to the prohibitive cost of functional test patterns and the difficulty in achieving very high fault coverage. Scan-based delay testing, which could ensure a high delay fault coverage at reasonable development cost, provides a good alternative to the at-speed functional test. This dissertation addresses several key challenges in scan-based delay testing and develops efficient Automatic Test Pattern Generation (ATPG) and Design-for-testability (DFT) algorithms for delay testing. In the dissertation, two algorithms are first proposed for computing and applying transition test patterns using stuck-at test vectors, thus avoiding the need for a transition fault test generator. The experimental results show that we can improve both test data volume and test application time by 46.5% over a commercial transition ATPG tool. Secondly, we propose a hybrid scan-based delay testing technique for compact and high fault coverage test set, which combines the advantages of both the skewed-load and broadside test application methods. On an average, about 4.5% improvement in fault coverage is obtained by the hybrid approach over the broad-side approach, with very little hardware overhead. Thirdly, we propose and develop a constrained ATPG algorithm for scan-based delay testing, which addresses the overtesting problem due to the possible detection of functionally untestable faults in scan-based testing. The experimental results show that our method efficiently generates a test set for functionally testable transition faults and reduces the yield loss due to overtesting of functionally untestable transition faults. Finally, a new approach on identifying functionally untestable transition faults in non-scan sequential circuits is presented. We formulate a new dominance relationship for transition faults and use it to help identify more untestable transition faults on top of a fault-independent method based on static implications. The experimental results for ISCAS89 sequential benchmark circuits show that our approach can identify many more functionally untestable transition faults than previously reported.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:33Z (GMT). No. of bitstreams: 1  xiaoliu_dissertation.pdf: 690115 bytes, checksum: fa8757703874517bee431950e3a4b6f2 (MD5)    Previous issue date: 2004-06-10",
+    "Author Email: liux@visc.vt.edu",
+    "Advisor Email: mshimo@vt.edu",
+    "Advisor Email: thmartin@vt.edu",
+    "Advisor Email: dha@vt.edu",
+    "Advisor Email: mhsiao@visc.vt.edu",
+    "Advisor Email: rbuehrer@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11213",
+  "identifier_other": "etd-07302004-093710",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07302004-093710",
+  "identifier_uri": "http://hdl.handle.net/10919/11213",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "xiaoliu_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "DFT",
+    "ATPG",
+    "transition fault",
+    "testing",
+    "delay testing"
+  ],
+  "title": "ATPG and DFT Algorithms for Delay Fault Testing",
+  "type": "Dissertation"
+}

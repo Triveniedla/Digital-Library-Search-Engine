@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Bruggeman, Adriana C. Jr.",
+  "contributor_committeechair": "Mostaghimi, Saied",
+  "contributor_committeemember": [
+    "Perumpral, John V.",
+    "Parker, Jack C.",
+    "Heatwole, Conrad D.",
+    "Gallagher, Daniel L.",
+    "Dillaha, Theo A. III"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:16Z",
+  "date_adate": "1998-01-22",
+  "date_available": "2014-03-14T20:07:16Z",
+  "date_issued": "1997-09-18",
+  "date_rdate": "1999-01-22",
+  "date_sdate": "1997-09-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Detection of unexpectedly high concentrations of agricultural pollutants  in ground water have inspired investigations of the role of preferential  movement of chemicals through agricultural soils. This research focuses  on preferential flow and solute transport processes and the effects of  agricultural management practices on these processes. Experimental  methods for monitoring preferential flow and solute transport in the  field as well as a stochastic, physically-based model for predicting  water flow and transport of non-reactive chemicals in heterogeneous soils  with naturally occurring macropores were developed and evaluated.  <p>  Field experiments, aimed at monitoring the occurrence of preferential  flow and solute transport, were conducted in a conventionally-tilled and  a no-till soybean field in the Coastal Plain of Virginia. A rainfall  simulator was used to apply a one-hour storm at rates of 5.0, 6.5 and  7.5 cm/hr to six 1.83 by 1.83 m plots. Chloride was added to the water  to serve as a non-reactive tracer. Electrical conductivity equipment  provided a useful method for monitoring solute transport. The moisture  and solute conditions, observed during a 28-hour period after the start  of the rainfall event, clearly indicated the occurrence of preferential  flow and solute movement in the field plots. The variability of the  solute concentrations in the field plots was generally higher in the  no-till plots than in the conventionally-tilled plots. The plots that  received rain at 6.5 and 7.5 cm/hr showed more variability than the plots  that received rain at 5 cm/hr. The observed solute concentrations  indicated that if the solute transport would have taken place by  advection only, 61% of the solute transport in the conventionally-tilled  plots and 50% of the solute transport in the no-till plots could be  attributed to preferential flow.  <p>  A physically-based, finite element model for simulating flow and solute  transport in variably-saturated soils with macropores (MICMAC) was  developed. Flow and solute transport are described by the Richards'  equation and the convection-dispersion equation. Flow in the macropores  is described by the Hagen-Poiseuille equation. An axisymmetric coordinate  system is used to simulate the flow and solute transport from the  macropore into the surrounding soil matrix, assuming a vertically  oriented, surface-vented, cylindrical macropore. Flow and solute  transport between the macropore and the soil matrix are driven by the  pressure head at the macropore-matrix boundary. To assess the natural  heterogeneity of the soil properties a stochastic component was added to  the model. Flow and solute transport at the field scale were simulated by  regarding the field as a collection of statistically independent,  non-interacting vertical soil columns, using Monte Carlo simulation.  <p>  The sensitivity analysis of the model indicated that, for a soil with  macropores, the model is most sensitive to the saturated water content  of the soil matrix, the initial moisture content, and the rainfall rate.  The model is not very sensitive to the macropore dimensions. Examination  of the stochastic approach indicated that the representation of a  heterogeneous field as a collection of non-interacting stream columns may  substantially underestimate water and solute leaching. A change of 5% in  the soil properties of the neighboring soil columns may underpredict the  solute leaching, 24 hours after a rainstorm, by 157% for a soil column  with a macropore, and by 58% for a soil column without a macropore. These  differences decreased to 47% and 8%, respectively, 168 hours after the  rainfall. Field application of the model suggested that the model  underestimates the leaching of water and solutes from the root zone.  However, the computed results were substantially better than the results  obtained when no preferential flow component was included in the model.  The model performed best under conditions that favored preferential flow,  i.e., a high rainfall rate and high initial moisture conditions. The  simulated and observed solute concentrations in the root zone agreed  reasonably well, although the maxima of the observed data were generally  higher than those of the simulated data.",
+  "description_provenance": [
+    "Author Email: jeaan@vtaix.cc.vt.edu",
+    "Advisor Email: smostagh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:16Z (GMT). No. of bitstreams: 1 DISS.PDF: 1952532 bytes, checksum: fcad84d6a8e512a235eeca9aafe53078 (MD5)   Previous issue date: 1997-09-18"
+  ],
+  "handle": "26159",
+  "identifier_other": "etd-02098-165754",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02098-165754/",
+  "identifier_uri": "http://hdl.handle.net/10919/26159",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DISS.PDF",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "finite element model",
+    "macropores",
+    "preferential flow",
+    "tillage systems",
+    "water quality"
+  ],
+  "title": "Preferential movement of solutes through soils",
+  "type": "Dissertation"
+}

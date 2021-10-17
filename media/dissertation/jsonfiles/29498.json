@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Al-Ghadhban, Samir Naser",
+  "contributor_committeechair": "Buehrer, Richard Michael",
+  "contributor_committeecochair": "Woerner, Brian D.",
+  "contributor_committeemember": [
+    "Holub, James R.",
+    "Tranter, William H.",
+    "Riad, Sedki Mohamed"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:18:14Z",
+  "date_adate": "2005-12-01",
+  "date_available": "2014-03-14T20:18:14Z",
+  "date_issued": "2005-11-04",
+  "date_rdate": "2005-12-01",
+  "date_sdate": "2005-11-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation focuses on three major advances on multiple-input multiple-output (MIMO) systems. The first studies and compares decoding algorithms for multi-layered space time coded (MLSTC) systems. These are single user systems that combine spatial multiplexing and transmit diversity. Each layer consists of a space time code. The detection algorithms are based on multi-user detection theory. We consider joint, interference nulling and cancellation, and spatial sequence estimation algorithms. As part of joint detection algorithms, the sphere decoder is studied and its complexity is evaluated over MIMO channels.  The second part contributes to the field of space frequency time (SFT) coding for MIMO-OFDM systems. It proposes a full spatial and frequency diversity codes at much lower number of trellis states. The third part proposes and compares uplink scheduling algorithms for multiuser systems with spatial multiplexing. Several scheduling criteria are examined and compared.  The capacity and error rate study of MLSTBC reveals the performance of the detection algorithms and their advantage over other open loop MIMO schemes. The results show that the nulling and cancellation operations limit the diversity of the system to the first detected layer in serial algorithms. For parallel algorithms, the diversity of the system is dominated by the performance after parallel nulling. Theoretically, parallel cancellation should provide full receive diversity per layer but error propagations as a result of cancellation prevent the system from reaching this goal. However, parallel cancellation provides some gains but it doesn't increase the diversity. On the other hand, joint detection provides full receive diversity per layer. It could be practically implemented with sphere decoding which has a cubic complexity at high SNR.  \t The results of the SFT coding show the superiority of the IQ-SFT codes over other codes at the same number of sates. The IQ-SFT codes achieve full spatial and frequency diversity at much lower number of trellis states compared to conventional codes. For V-BLAST scheduling, we propose V-BLAST capacity maximizing scheduler and we show that scheduling based on optimal MIMO capacity doesn't work well for V-BLAST. The results also show that maximum minimum singularvalue (MaxMinSV) scheduling performs very close to the V-BLAST capacity maximizing scheduler since it takes into account both the channel power and the orthogonality of the channel.",
+  "description_provenance": [
+    "Author Email: samir@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: holubj@vt.edu",
+    "Advisor Email: Brian.Woerner@mail.wvu.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:14Z (GMT). No. of bitstreams: 1 PhD_Diss_FinalDraft2.pdf: 1468273 bytes, checksum: dfaed81fd50e4912499783c19897fb1c (MD5)   Previous issue date: 2005-11-04"
+  ],
+  "handle": "29498",
+  "identifier_other": "etd-11082005-120931",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11082005-120931/",
+  "identifier_uri": "http://hdl.handle.net/10919/29498",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhD_Diss_FinalDraft2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Space fequency time codes",
+    "multi-layered space time codes",
+    "Uplink MIMO scheduling",
+    "MIMO Wireless Systems"
+  ],
+  "title": "Multi-layered Space Frequency Time Codes",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Modarres-Mousavi, Shabnam",
+  "contributor_committeechair": "Reynolds, Marion R. Jr.",
+  "contributor_committeemember": [
+    "Vining, G. Geoffrey",
+    "Schulman, Robert S.",
+    "Woodall, William H.",
+    "Birch, Jeffrey B."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:07:35Z",
+  "date_adate": "2006-04-04",
+  "date_available": "2014-03-14T20:07:35Z",
+  "date_issued": "2006-01-17",
+  "date_rdate": "2008-04-04",
+  "date_sdate": "2006-02-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Our objective is to monitor the changes in a proportion with correlated binary observations.  All of the published work on this subject used the first-order Markov chain model for the data.  Increasing the order of dependence above one by extending a standard Markov chain model entails an exponential increase of both the number of parameters and the dimension of the transition probability matrix.  In this dissertation, we develop a particular Markov chain structure, the Multilevel Model (MLM), to model the correlation between binary data.  The basic idea is to assign a lower probability to observing a 1 when all previous correlated observations are 0â  s, and a higher probability to observing a 1 as the last observed 1 gets closer to the current observation.  We refer to each of the distinct situations of observing a 1 as a â  levelâ  .  For a given order of dependence,  , at most   different values of conditional probabilities of observing a 1 can be assigned.  So the number of levels is always less than or equal to  . Compared to a direct extension of the first-order Markov model to higher orders, our model is considerably parsimonious.  The number of parameters for the MLM is only one plus the number of levels, and the transition probability matrix is  .   We construct a CUSUM control chart for monitoring a proportion with correlated binary observations.  First, we use the probability structure of a first-order Markov chain to derive a log-likelihood ratio based CUSUM control statistic.  Then, we model this CUSUM statistic itself as a Markov chain, which in turn allows for designing a control chart with specified statistical properties: the Markov Binary CUSUM (MBCUSUM) chart.  We generalize the MBCUSUM to account for any order of dependence between binary observations through implying MLM to the data and to our CUSUM control statistic.  We verify that the MBCUSUM has a better performance than a curtailed Shewhart  chart.  Also, we show that except for extremely large changes in the proportion (of interest) the MBCUSUM control chart detects the changes faster than the Bernoulli CUSUM control chart, which is designed for independent observations.",
+  "description_provenance": [
+    "Author Email: smousavi@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: schulman@vt.edu",
+    "Advisor Email: woodall@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:35Z (GMT). No. of bitstreams: 1 STAT_Dissertation.pdf: 708645 bytes, checksum: 96cd5ec746d4deac5cb6c446e72974c7 (MD5)   Previous issue date: 2006-01-17"
+  ],
+  "handle": "26235",
+  "identifier_other": "etd-02182006-145606",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02182006-145606/",
+  "identifier_uri": "http://hdl.handle.net/10919/26235",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "STAT_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Markov chain models",
+    "CUSUM control chart",
+    "Correlated observations",
+    "Binary data.",
+    "Monitoring a proportion"
+  ],
+  "title": "Monitoring Markov Dependent Binary Observations with a Log-Likelihood Ratio Based CUSUM Control Chart",
+  "type": "Dissertation"
+}

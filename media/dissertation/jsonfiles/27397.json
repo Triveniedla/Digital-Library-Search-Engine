@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Mostafa, Raqibul",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Annamalai, Annamalai  Jr.",
+    "Sherali, Hanif D.",
+    "Tranter, William H.",
+    "Stutzman, Warren L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:08Z",
+  "date_adate": "2003-04-30",
+  "date_available": "2014-03-14T20:11:08Z",
+  "date_issued": "2003-04-25",
+  "date_rdate": "2004-04-30",
+  "date_sdate": "2003-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Smart antenna is a potential performance enhancement tool in a communications link that can be used at either end (transmitter or receiver) of the link in the form of beamforming or diversity operation. While receive smart antenna techniques and operations have matured over the years, transmit smart antenna is relatively a new concept that has seen its growth over the past few years. Both these smart antenna operations have been traditionally designed for base station applications. But with the advent of high-speed processors, transmit smart antenna can also be feasible at a small wireless terminal (SWT). This dissertation studied the feasibility of using smart antenna at a SWT. Both smart transmit and receive antennas are studied, including multiple input and multiple output (MIMO) systems, however the emphasis is placed on transmit smart antennas. The study includes algorithm developments and performance evaluations in both flat fading and frequency selective channels. Practical issues, i.e., latency and amount of feedback, related to transmit smart antenna operation are discussed.  Various channel measurements are presented to assess the performance of a transmit smart antenna in a real propagation environment.  These include vector channel measurements for narrowband and wideband signals, channel reciprocity, and effect of antenna element spacing on diversity performance.  Real-time demonstrations of transmit smart antenna have been performed and presented, and, the applicability of the proposed techniques in the Third Generation standards and wireless local area networks (WLAN) is discussed. Receive beamforming with a small number of antenna elements (which is usually the case for a SWT) is analyzed in an interference-limited environment.",
+  "description_provenance": [
+    "Author Email: ramostaf@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: annamala@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:08Z (GMT). No. of bitstreams: 1 Raqib_dissertation.pdf: 2234037 bytes, checksum: 998876e7cb3954be42c92ed68d4b2739 (MD5)   Previous issue date: 2003-04-25"
+  ],
+  "handle": "27397",
+  "identifier_other": "etd-04282003-000635",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282003-000635/",
+  "identifier_uri": "http://hdl.handle.net/10919/27397",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Raqib_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "MIMO",
+    "Transmit diversity",
+    "small wireless terminal",
+    "vector channel measurements"
+  ],
+  "title": "Feasibility of Smart Antennas for the Small Wireless Terminals",
+  "type": "Dissertation"
+}

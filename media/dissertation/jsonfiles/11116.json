@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Al-Shahrani, Saad Mohammed",
+  "contributor_committeechair": "Riad, Sedki Mohamed",
+  "contributor_committeemember": [
+    "Besieris, Ioannis M.",
+    "He, Jianqing",
+    "Ezzeddine, Amin",
+    "Elshabini-Riad, Aicha A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:53:17Z",
+  "date_adate": "2001-07-18",
+  "date_available": "2011-08-22T18:53:17Z",
+  "date_issued": "2004-02-06",
+  "date_rdate": "2002-07-18",
+  "date_sdate": "2001-07-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Power amplifiers (PA) are typically the most power-consuming building blocks of RF transceivers.  Therefore, the design of a high-efficiency radio frequency power amplifier is the most obvious solution to overcoming the battery lifetime limitation in the portable communication systems.  A power amplifier's classes (A, AB, B, C, F, E, etc), and design techniques (Load-pull and large-signal S-parameters techniques) are presented.  The design accuracy of class-A power amplifier based on the small-signal S-parameters was investigated, where compression in the power gain was used as an indicator for design accuracy. The effect of drain voltage variation on the power gain compression has been studied in this research.  The class-E amplifier has a maximum theoretical efficiency of 100%. It consists of a single transistor that is driven as a switch and a passive load network. The passive load network is designed to minimize drain (collector) voltage and current waveforms overlapping, which minimize the output power dissipation. Two L-band class-E amplifiers are implemented in section 5.3.  One of them is a lumped elements based circuit and the other is a transmission lines based circuit.  Both circuits show good performance (60% PAD) over a wide bandwidth (1.0 GHz).  In section 5.4, lumped elements and transmission lines based X-band class-E amplifiers are presented.  Both circuits show good performance (62% PAD) over wide bandwidth (4.8 GHz). A new technique to improve the drain efficiency of the class-E amplifier has been proposed.  This technique uses two passive networks.  One of them is in a series with the shunt capacitor CS and the other is in a series with the transistor's source terminal.  This technique shows improvement in the drain efficiency, which jumps from 62% to 82%.  Last few years have seen an increase in the popularity of the wireless communication systems.  As a result, the demand for compact, low-cost, and low power portable (Single-chip) transceivers has increased dramatically.  Among the transceiver's building blocks is the power amplifier. Thus, there is a need for a low-cost power amplifier.  A 900 MHz CMOS RF PA with one-watt output power and a high power added efficiency (68%) is presented in chapter 6.  This PA can be used in the European standard for mobile communications (GSM) handset transmitter.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:17Z (GMT). No. of bitstreams: 8  chap5.PDF: 1814359 bytes, checksum: 7a2d37627387a4f3c779a20ee9c1d691 (MD5)  chap4.PDF: 830786 bytes, checksum: dc555067709b8688f00366ad88c963c2 (MD5)  chap3.PDF: 201407 bytes, checksum: 8cb7e9f31ce961d30d7a3c368c5bf5a8 (MD5)  chap1.PDF: 9959 bytes, checksum: e0855bd2243bb594c749ac0cf4fb491f (MD5)  Chap7.PDF: 19847 bytes, checksum: d61799e8de476a1602492b81db965143 (MD5)  Chap6.PDF: 656013 bytes, checksum: 40185fff2cf1ff8b0a5ddc5b37577396 (MD5)  Chap2.PDF: 194722 bytes, checksum: f537aa495ebe3a9239affeed4f34b4d5 (MD5)  ABSTRACT.PDF: 24066 bytes, checksum: 45c5ce5b3e978df1198cae3033d5f91a (MD5)    Previous issue date: 2004-02-06",
+    "Author Email: salshahr@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: besieris@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11116",
+  "identifier_other": "etd-07152001-172453",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07152001-172453",
+  "identifier_uri": "http://hdl.handle.net/10919/11116",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chap5.PDF",
+    "ABSTRACT.PDF",
+    "chap3.PDF",
+    "Chap6.PDF",
+    "Chap7.PDF",
+    "chap1.PDF",
+    "chap4.PDF",
+    "Chap2.PDF"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "RADIO FREQUENCY POWER AMPLIFIER",
+    "CLASS-E DESIGN",
+    "GSM"
+  ],
+  "title": "Design of Class-E Radio Frequency Power Amplifier",
+  "type": "Dissertation"
+}

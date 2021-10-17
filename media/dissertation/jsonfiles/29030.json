@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Li, Lin",
+  "contributor_committeechair": "Sandu, Corina",
+  "contributor_committeemember": [
+    "Ahmadian, Mehdi",
+    "Sandu, Adrian",
+    "Ferris, John B.",
+    "Hong, Dennis W."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:27Z",
+  "date_adate": "2008-10-14",
+  "date_available": "2014-03-14T20:16:27Z",
+  "date_issued": "2008-09-16",
+  "date_rdate": "2008-10-14",
+  "date_sdate": "2008-09-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mechanical systems always operate under some degree of uncertainty, which can be due to the inherent properties of the system parameters, to random inputs or external excitations, to poorly known parameters in the interface between different systems, or to inadequate knowledge of the dynamic process. Also, mechanical systems are large and highly nonlinear, while the magnitude of uncertainties may be very large. This dissertation addresses the critical need for understanding of the stochastic nature of mechanical system, especially vehicle and terramechanics systems, and need for developing efficient computational tools to model mechanical systems in the presence of parametric and external uncertainty.   This dissertation investigates the influence of parametric and external uncertainties on vehicle dynamics and terramechanics. The uncertainties studied include parametric uncertainties, stochastic external excitations, and random variables between vehicle-terrain and vehicle-soil/snow interface.  The methodology developed has been illustrated on a stochastic vehicle-terrain interaction model, a stochastic vehicle-soil interaction model, two stochastic tire-snow interaction models, and two stochastic tire-force relations. The uncertainties are quantified and propagated through vehicle and terramechanics systems using a polynomial chaos approach. Algorithms which can predict the geometry of the contact patch and the interfacial forces and torques on the vehicle-soil interfaces are developed. All stochastic models and algorithms are simulated for various scenarios and maneuvers. Numerical results are analyzed from the computational effort point of view, or from the angle of vehicle dynamics and terramechanics, and provide a deeper understanding of the evolution of stochastic vehicle and terramechanics systems. They can also be used in guiding vehicle design and development.  This dissertation represents a pioneer study on stochastic vehicle dynamics and terramechanics. Moreover, the methodology developed is not limited to such systems. Any mechanical system with uncertainties can be treated using the polynomial chaos approach presented, considering their specific characteristics.",
+  "description_provenance": [
+    "Author Email: lil@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: asandu7@cs.vt.edu",
+    "Advisor Email: jbferris@vt.edu",
+    "Advisor Email: dhong@exchange.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:27Z (GMT). No. of bitstreams: 1 ETD_LINLI_Final.pdf: 12462553 bytes, checksum: 325be727f26e1c59ea1e9e22b31dea41 (MD5)   Previous issue date: 2008-09-16"
+  ],
+  "handle": "29030",
+  "identifier_other": "etd-09192008-150518",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09192008-150518/",
+  "identifier_uri": "http://hdl.handle.net/10919/29030",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_LINLI_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "polynomial chaos",
+    "terramechanics",
+    "uncertainties",
+    "vehicle dynamics"
+  ],
+  "title": "Treatment of Uncertainties in Vehicle and Terramechanics Systems Using a Polynomial Chaos Approach",
+  "type": "Dissertation"
+}

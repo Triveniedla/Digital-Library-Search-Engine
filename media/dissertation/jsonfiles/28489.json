@@ -1,0 +1,63 @@
+{
+  "contributor_author": "Ruggiero, Eric John",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Burns, John A.",
+    "Cliff, Eugene M.",
+    "Leo, Donald J.",
+    "Robertshaw, Harry H."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:39Z",
+  "date_adate": "2005-08-18",
+  "date_available": "2014-03-14T20:14:39Z",
+  "date_issued": "2005-07-29",
+  "date_rdate": "2005-08-18",
+  "date_sdate": "2005-08-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Space satellite technology is heading in the direction of ultra-large, lightweight structures deployable on orbit.  Minimal structural mass translates into minimal launch costs, while increased satellite bus size translates into significant bandwidth improvement for both radar and optical applications.  However, from a structural standpoint, these two goals are in direct conflict with one another, as large, flexible structures possess terrible dynamic properties and minimal effective bandwidth.  Since the next level of research will require active dynamic analysis, vibration control, and shape morphing control of these satellites, a better-suited name for this technology is Super Precise Intelligent Deployables for Engineered Reconnaissance, or SPIDER.  Unlike wisps of cobweb caught in the wind, SPIDER technology will dictate the functionality and versatility of the satellite much like an arachnid weaving its own web.  In the present work, a rigorous mathematical framework based on distributed parameter system theory is presented in describing the dynamics of augmented membranous structures.  In particular, Euler-Bernoulli beam theory and thin plate theory are used to describe the integration of piezoelectric material with membranes.  In both the one and two dimensional problems, experimental validation is provided to support the developed models.  Next, the linear quadratic regulator (LQR) control problem is defined from a distributed parameter systems approach, and from this formulation, the functional gains of the respective system are gleaned.  The functional gains provide an intelligent mapping when designing an observer-based control system as they pinpoint important sensory information (both type and spatial location) within the structure.  Further, an experimental investigation into the dynamics of membranes stretched over shallow, air-filled cavities is presented.  The presence of the air-filled cavity in close proximity to the membrane creates a distributed spring and damping effect, thus creating desirable system dynamics from an optical or radar application perspective.  Finally, in conjunction with the use of a pressurized cavity with a membrane optic, a novel basis is presented for describing incoming wavefront aberrations.  The new basis, coined the clamped Zernike polynomials, provides a mapping for distributed spatial actuation of a membrane mirror that is amiable to the clamped boundary conditions of the mechanical lens.  Consequently, based on the work presented here and being carried out in cooperation with the Air Force Research Laboratory Directed Energy Directorate (AFRL / DE), it is envisioned that a 1 m adaptive membrane optic is on the verge of becoming a reality.",
+  "description_provenance": [
+    "Author Email: erruggie@vt.edu",
+    "Advisor Email: burns@math.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:39Z (GMT). No. of bitstreams: 14 Chapter2LiteratureReview.pdf: 1325017 bytes, checksum: c7bb1819f1e6937a4dd6ea1e5ed3940f (MD5) TableofContents.pdf: 132168 bytes, checksum: e20a903cf9fd33a611a0eb88fa09324f (MD5) Chapter1Introduction.pdf: 227311 bytes, checksum: 8c9db96e7a7773743821973a7b3e5819 (MD5) VITA.pdf: 63196 bytes, checksum: ecd7f47b5ca7a51912ac3fe8c47634da (MD5) TitleAbstract.pdf: 45781 bytes, checksum: e14d1eaca1fbe13d56283cd97df403b8 (MD5) GrantInformation.pdf: 63586 bytes, checksum: 8f821c23bab629298afc91f15264f7a0 (MD5) Bibliography.pdf: 130304 bytes, checksum: 78ff71105f8b1cbb2829a2bdf393eb27 (MD5) Chapter6ThinPlates.pdf: 781195 bytes, checksum: ceab554f79e6bec555f18f5b4eaccbbe (MD5) Chapter7FluidFilledCavity.pdf: 532396 bytes, checksum: 52d7753bc587be95d913577a4ead1247 (MD5) Chapter4ThinPlates.pdf: 238522 bytes, checksum: d74db765bb67d5b4e39e1f002a75492a (MD5) Chapter9Summary.pdf: 143449 bytes, checksum: af5251f878ea6bf986be3bf8536e5ff9 (MD5) Chapter8Zernike.pdf: 445851 bytes, checksum: 39809b7bc544e01aa258b7fbe43f11c8 (MD5) Chapter5WeakformBeam.pdf: 617702 bytes, checksum: 153b94b7478f56bcbf1b531936a189f8 (MD5) Chapter3FiniteElementMethod.pdf: 458858 bytes, checksum: 0b7bf924027e8b6b4151a7602204dd68 (MD5)   Previous issue date: 2005-07-29"
+  ],
+  "handle": "28489",
+  "identifier_other": "etd-08022005-145837",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08022005-145837/",
+  "identifier_uri": "http://hdl.handle.net/10919/28489",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter2LiteratureReview.pdf",
+    "TableofContents.pdf",
+    "Chapter1Introduction.pdf",
+    "VITA.pdf",
+    "TitleAbstract.pdf",
+    "GrantInformation.pdf",
+    "Bibliography.pdf",
+    "Chapter6ThinPlates.pdf",
+    "Chapter7FluidFilledCavity.pdf",
+    "Chapter4ThinPlates.pdf",
+    "Chapter9Summary.pdf",
+    "Chapter8Zernike.pdf",
+    "Chapter5WeakformBeam.pdf",
+    "Chapter3FiniteElementMethod.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "thin plate",
+    "functional gains",
+    "adaptive optic",
+    "membrane mirror",
+    "distributed control",
+    "smart materials",
+    "pressure augmentation"
+  ],
+  "title": "Modeling and Control of SPIDER Satellite Components",
+  "type": "Dissertation"
+}

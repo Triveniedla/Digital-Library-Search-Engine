@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Jackson, Brian Aliston",
+  "contributor_committeechair": "Armstrong, James R.",
+  "contributor_committeemember": [
+    "Scales, Wayne A.",
+    "Ha, Dong Sam",
+    "Gray, Festus Gail",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:15Z",
+  "date_adate": "2005-05-04",
+  "date_available": "2014-03-14T20:11:15Z",
+  "date_issued": "2005-04-29",
+  "date_rdate": "2005-05-04",
+  "date_sdate": "2005-04-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Proceeding from a specification, one develops an abstract mathematical model of a system, or portion of a system. This model of a system is validated to insure that the specification is interpreted accurately and to explore different algorithms for implementing the system behavior. We use the words â  portion of a system,â   because only rarely are systems designed wholly using a purely top-down approach.  Commonly, the design approach is a mixture of top-down and bottom-up. But even in this mixed approach, top-down techniques are critical to the development of new, advanced system features and improving the performance of existing system components. An example of this style of design tools and environments is Ptolemy II. Ptolemy II is a high-level modeling tool created at UC-Berkeley. It supports heterogeneous and homogeneous modeling, simulation, and design of concurrent systems. High-level modeling of such embedded systems as digital electronics, hardware, and software can be effectively represented.  The bottom-up design approach exploits design reuse to achieve the productivity necessary to build complex systems. Historically, chip design companies have always reused designs in going from one product generation to another, but the efficiency of bottom-up design is enhanced by the use of IP (Intellectual Property) cores that a company can buy from an outside source. Design libraries are useful for system design and are an example of IP cores.  A sound methodology to translate Ptolemy models to SystemC models would have a very beneficial effect on the CAD/EDA industry. Ptolemy II is written in Java and its high-level designs, or abstract graph models, are represented as XML documents. Ptolemyâ  s major emphasis is on the methodology for defining and producing embedded software together with the system in which it is embedded. SystemC is written in C++, and its industrial use is gaining momentum due to its ability to represent functionality, communication, software, and hardware at various levels of abstraction. SystemC produces synthesizable code. A methodology to convert Ptolemy models to synthesizable SystemC code would be the technical epitome of a hybrid between top-down and bottom-up design styles and methodologies. Such a methodology would enable system designers to obtain fast design exploration, efficient IP-reuse, and validation. Ptolemy has various components and models of computation. A model of computation dictates how components interact between other components. SystemC has its own models of computation and design libraries. XML and Perl are both powerful tools by themselves, and we use these tools in this research to create a sound methodology for translating Ptolemy models (high-level of abstraction) to synthesizable SystemC code (low-level of abstraction), i.e.: code which can serve as input to hardware tools.",
+  "description_provenance": [
+    "Author Email: bjackson@ee.vt.edu",
+    "Advisor Email: wscales@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: fggray@vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: jra@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:15Z (GMT). No. of bitstreams: 1 Final_Dissertation.pdf: 2820359 bytes, checksum: d0218ed8964445c26721c07c1025c940 (MD5)   Previous issue date: 2005-04-29"
+  ],
+  "handle": "27437",
+  "identifier_other": "etd-04292005-154007",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04292005-154007/",
+  "identifier_uri": "http://hdl.handle.net/10919/27437",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Final_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Top-down/Bottom-up Design",
+    "SystemC",
+    "Ptolemy",
+    "Perl",
+    "XML"
+  ],
+  "title": "Translation of Heterogeneous High-level Models to Lower Level Design Languages",
+  "type": "Dissertation"
+}

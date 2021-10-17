@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Veith, Tamie Lynne",
+  "contributor_committeechair": "Wolfe, Mary Leigh",
+  "contributor_committeemember": [
+    "Heatwole, Conrad D.",
+    "Stone, Nicholas D.",
+    "Dillaha, Theo A. III",
+    "Bosch, Darrell J."
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:44Z",
+  "date_adate": "2002-04-26",
+  "date_available": "2014-03-14T20:10:44Z",
+  "date_issued": "2002-02-11",
+  "date_rdate": "2003-04-26",
+  "date_sdate": "2002-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The overall goal of this research was to increase, relative to targeting recommendations, the cost-effectiveness of pollution reduction measures within a watershed. The goal was met through development of an optimization procedure for best management practice (BMP) placement at the watershed level. The procedure combines an optimization component, written in the C++ language, with spatially variable nonpoint source (NPS) prediction and economic analysis components, written in the ArcView geographic information system scripting language. The procedure is modular in design, allowing modifications or enhancements to the components while maintaining the overall theory.<p> The optimization component uses a genetic algorithm to optimize a lexicographic multi-objective function of pollution reduction and cost increase. The procedure first maximizes pollution reduction to meet a specified goal, or maximum allowable load, and then minimizes cost increase. For the NPS component, a sediment delivery technique was developed and combined with the Universal Soil Loss Equation to predict average annual sediment yield at the watershed outlet. Although this evaluation considered only erosion, the NPS pollutant fitness score allows for evaluation of multiple pollutants, based on prioritization of each pollutant. The economic component considers farm-level public and private costs, accounting for crop productivity levels by soil and for enterprise budgets by field. The economic fitness score assigns higher fitness scores to scenarios in which costs decrease or are distributed more evenly across farms. Additionally, the economic score considers the amounts of cropland, hay, and pasture needed to meet feed and manure/poultry litter spreading requirements.<p> Application to two watersheds demonstrated that the procedure optimized BMP placement, locating scenarios more cost-effective than a targeting strategy solution. The optimization procedure identified solutions with lower costs than the targeting strategy solution for the same level of pollution reduction. The benefit to cost ratio, including use of the procedure and implementation of resulting solutions, was demonstrated to be greater for the optimization procedure than for the targeting strategy. The optimization procedure identifies multiple near optimal solutions. Additionally, the procedure creates and evaluates scenarios in a repeated fashion without requiring human interaction. Thus, more scenarios can be evaluated than are feasible to evaluate manually.",
+  "description_provenance": [
+    "Author Email: tveith@vt.edu",
+    "Advisor Email: heatwole@vt.edu",
+    "Advisor Email: nick@vt.edu",
+    "Advisor Email: dillaha@vt.edu",
+    "Advisor Email: bosch@vt.edu",
+    "Advisor Email: mlwolfe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:44Z (GMT). No. of bitstreams: 2 etd.PDF: 3328203 bytes, checksum: 1115cc1abb93006bcdab186e7a671607 (MD5) Addendum-pg37.pdf: 86281 bytes, checksum: 1d23a50f71080ff52a48ec91c0edafc6 (MD5)   Previous issue date: 2002-02-11"
+  ],
+  "handle": "27247",
+  "identifier_other": "etd-04252002-132437",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252002-132437/",
+  "identifier_uri": "http://hdl.handle.net/10919/27247",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "etd.PDF",
+    "Addendum-pg37.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "targeting",
+    "sediment delivery",
+    "model",
+    "GIS",
+    "spatial optimization",
+    "genetic algorithm"
+  ],
+  "title": "Agricultural BMP Placement for Cost-effective Pollution Control at the Watershed Level",
+  "type": "Dissertation"
+}

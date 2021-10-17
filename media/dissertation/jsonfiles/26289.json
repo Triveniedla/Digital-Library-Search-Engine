@@ -1,0 +1,42 @@
+{
+  "contributor_author": "O'Carroll, Ina Puleri",
+  "contributor_committeechair": "Dean, Dennis R.",
+  "contributor_committeemember": [
+    "Larson, Timothy J.",
+    "Bevan, David R.",
+    "Tu, Zhijian Jake"
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2014-03-14T20:07:44Z",
+  "date_adate": "2009-04-01",
+  "date_available": "2014-03-14T20:07:44Z",
+  "date_issued": "2009-02-03",
+  "date_rdate": "2012-03-30",
+  "date_sdate": "2009-02-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Iron-sulfur [Fe-S] clusters are protein cofactors that facilitate various life-sustaining biological processes.  Their in vivo assembly is accomplished by three different systems known to date.  These are: the NIF system which provides [Fe-S] clusters for nitrogenase and other nitrogen-fixing proteins, the SUF system which is induced during conditions of oxidative stress and iron starvation in E. coli, and the ISC system which serves as the housekeeping assembly apparatus.  The latter is the focus of this dissertation and includes the proteins IscR, IscS, IscU, IscA, HscB, HscA, Fdx, and IscX.  IscU is purified in its cluster-less (apo) form, but can serve as a scaffold to assemble [Fe-S] clusters in vitro in the presence of excess iron and sulfide.  To test the scaffold hypothesis and gain insight into the events that occur during [Fe-S] cluster assembly and delivery, we developed two methods that allow the isolation of IscU and other ISC proteins in vivo.  In the first method, Azotobacter vinelandii IscU is isolated from its native host, whereas in the second, it is isolated recombinantly from E. coli using a vector that allows expression of the entire isc operon.  We found that IscU exists in vivo in two forms: apo-IscU and [2Fe-2S]2+ cluster-loaded IscU which are believed to be conformationally distinct.  Both transient and stable IscU-IscS complexes were identified, indicating that the two proteins interact in vivo in a manner that involves their association and dissociation.  The [2Fe-2S]2+-IscU species was present as a single entity, whereas significant amounts of apo-IscU were found associated with IscS, suggesting that IscU-IscS dissociation is triggered by the completion of [2Fe-2S] clusters.  Both apo and [2Fe-2S]2+-IscU were predominantly monomeric whereas IscU-IscS complexes were determined to have an Î±2Î²2 composition.  IscU was purified in the absence of the chaperones HscA and HscB and was also shown to accommodate a [2Fe-2S]2+ cluster similar to the one bound to IscU isolated from wild type cells.  The findings suggest that [2Fe-2S]2+-IscU exists in one conformation in vivo and that any conformational changes on IscU are exerted after [2Fe-2S] cluster formation.  In silico studies showed that a flexible loop containing the conserved LPPVK motif, which is responsible for interactions with HscA, may facilitate cluster exposure to either mediate its delivery to acceptor proteins or participation in the construction of [4Fe-4S] clusters.  Experiments with NfuA, a protein similar to the C-terminal domain of NifU, demonstrated that NfuA and similar proteins might serve as [Fe-S] cluster carriers to accomplish the efficient delivery of nascent cofactors to the various recipient proteins.",
+  "description_provenance": [
+    "Author Email: ipuleri@vt.edu",
+    "Advisor Email: deandr@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Advisor Email: jaketu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:44Z (GMT). No. of bitstreams: 1 OCARROLL.pdf: 7119153 bytes, checksum: 195032d432334cb03cd045d750bce2bc (MD5)   Previous issue date: 2009-02-03"
+  ],
+  "handle": "26289",
+  "identifier_other": "etd-02232009-165422",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02232009-165422/",
+  "identifier_uri": "http://hdl.handle.net/10919/26289",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "OCARROLL.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ISC",
+    "[Fe-S] clusters",
+    "Azotobacter vinelandii"
+  ],
+  "title": "Assembly of Iron-Sulfur Clusters In Vivo",
+  "type": "Dissertation"
+}

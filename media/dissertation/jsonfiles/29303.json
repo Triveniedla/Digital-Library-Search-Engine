@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Sanders, Darius Demetri",
+  "contributor_committeechair": "Walter F. O''Brien",
+  "contributor_committeemember": [
+    "Danesh Tafti",
+    "Dancey, Clinton L.",
+    "Marc D. Polanka",
+    "Douglas C. Rabe",
+    "Rolf Sondergaard"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:27Z",
+  "date_adate": "2009-11-05",
+  "date_available": "2014-03-14T20:17:27Z",
+  "date_issued": "2009-09-28",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-10-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There is increasing interest in design methods and performance prediction for turbine engines operating at low Reynolds numbers.  In this regime, boundary layer separation may be more likely to occur in the turbine flow passages.  For accurate CFD predictions of the flow, correct modeling of laminar-turbulent boundary layer transition is essential to capture the details of the flow.  To investigate possible improvements in model fidelity, both two-dimensional and three-dimensional CFD models were created for the flow over several low pressure turbine blade designs.  A new three-equation eddy-viscosity type turbulent transitional flow model originally developed by Walters and Leylek was employed for the current RANS CFD calculations.  Flows over three low pressure turbine blade airfoils with different aerodynamic characteristics were simulated over a Reynolds number range of 15,000-100,000, and predictions were compared to experiments.  The turbulent transitional flow model sensitivity to inlet turbulent flow parameters showed a dependence on free-stream turbulence intensity and turbulent length scale.  Using the total pressure loss coefficient as a measurement of aerodynamic performance, the Walters and Leylek transitional flow model produced adequate prediction of the Reynolds number performance in the Lightly Loaded blade.  Furthermore, the correct qualitative flow response to separated shear layers was observed for the Highly Loaded blade.  The vortex shedding produced by the separated flow was largely two-dimensional with small spanwise variations in the separation region.  The blade loading and separation location was sufficiently predicted for the Aft-Loaded L1A blade flowfield.  Investigations of the unsteady flowfield of the Aft-Loaded L1A blade showed the shear layer produced a large separation region on the suction surface. This separation region was located more downstream and significantly reduced in size when impinged upon by the upstream wakes, thus improving the aerodynamic performance consistent with experiments.  For all cases investigated, the Walters and Leylek transitional flow model was judged to be sufficient for understanding the separation and transition characteristics, and superior to other widely-used turbulence models in accuracy of describing the details of the transitional and separated flow.  This research characterized and assessed a new model for low Reynolds number turbine aerodynamic flow prediction and design improvement.",
+  "description_provenance": [
+    "Author Email: dasande1@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Advisor Email: marc.polanka@afit.edu",
+    "Advisor Email: douglas.rabe@wpafb.af.mil",
+    "Advisor Email: rolf.sondergaard@wpafb.af.mil",
+    "Made available in DSpace on 2014-03-14T20:17:27Z (GMT). No. of bitstreams: 1 PhDDissertationDariusSanders.pdf: 14808044 bytes, checksum: c513c64c91c0803638b957cefebcbdf2 (MD5)   Previous issue date: 2009-09-28"
+  ],
+  "handle": "29303",
+  "identifier_other": "etd-10182009-105919",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10182009-105919/",
+  "identifier_uri": "http://hdl.handle.net/10919/29303",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhDDissertationDariusSanders.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Unsteady Aerodynamics",
+    "Low Pressure Turbines",
+    "CFD",
+    "Turbulence Modeling",
+    "Low Reynolds Number"
+  ],
+  "title": "CFD Modeling of Separation and Transitional Flow in Low Pressure Turbine Blades at Low Reynolds Numbers",
+  "type": "Dissertation"
+}

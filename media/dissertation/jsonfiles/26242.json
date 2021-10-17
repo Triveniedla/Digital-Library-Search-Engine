@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Smith, Charles E",
+  "contributor_committeechair": "von Spakovsky, Michael R.",
+  "contributor_committeemember": [
+    "Ellis, Michael W.",
+    "Paul, Mark R.",
+    "Huxtable, Scott T.",
+    "Brown, Eugene F.",
+    "Beretta, Gian Paolo"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:36Z",
+  "date_adate": "2012-04-17",
+  "date_available": "2014-03-14T20:07:36Z",
+  "date_issued": "2012-02-01",
+  "date_rdate": "2012-04-17",
+  "date_sdate": "2012-02-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Intrinsic Quantum Thermodynamics (IQT) is a theory that combines Thermodynamics and Quantum Mechanics into a single theory and asserts that irreversibility and the increase of entropy has its origin at the fundamental, atomistic level.  The merits and details of IQT are discussed and compared with the well-known theory of Quantum Statistical Mechanics (QSM) and the more recent development of Quantum Thermodynamics (QT).  IQT is then used to model in 3D the time evolution of the adsorption of hydrogen on a single-walled carbon nanotube.  The initial state of the hydrogen molecules is far from stable equilibrium and over time the system relaxes to a state of stable equilibrium with the hydrogen near the walls of the carbon nanotube.  The details of the model are presented, which include the construction of the energy eigenlevels for the system, the treatment of the interactions between the hydrogen and the nanotube along with the interactions of the hydrogen molecules with each other, and the solution of the IQT equation of motion as well as approximation methods that are developed to deal with extremely large numbers of energy eigenlevels.  In addition, a new extension to the theory of IQT is proposed for modeling systems that undergo heat interactions with a heat reservoir.  The formulation of a new heat interaction operator is discussed, implemented, tested, and compared with a previous version extant in the literature.  IQT theory is then further extended to encompass simple mass interactions with a mass reservoir.  The formulation, implementation, and testing of the mass interaction operator is also discussed in detail.  Finally, IQT is used to model the results of two experiments found in the literature.  The first experiment deals with the spin relaxation of rubidium atoms and the second tests the relaxation behavior of single trapped ion that is allowed to interact with an external heat reservoir.  Good agreement between experiment and the model predictions is found.",
+  "description_provenance": [
+    "Author Email: cesmith@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Advisor Email: efbrown@vt.edu",
+    "Advisor Email: beretta@ing.unibs.it",
+    "Made available in DSpace on 2014-03-14T20:07:36Z (GMT). No. of bitstreams: 2 Smith_CE_D_2012.pdf: 6902432 bytes, checksum: 3695b44e970a3bd2301bf466cacbee1e (MD5) Smith_CE_D_2012_copyright.pdf: 344385 bytes, checksum: 52e3268f2c8a28e9ac8bb73ff1f1174b (MD5)   Previous issue date: 2012-02-01"
+  ],
+  "handle": "26242",
+  "identifier_other": "etd-02182012-141808",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02182012-141808/",
+  "identifier_uri": "http://hdl.handle.net/10919/26242",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Smith_CE_D_2012.pdf",
+    "Smith_CE_D_2012_copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mass",
+    "heat interaction",
+    "hydrogen storage",
+    "quantum thermodynamics",
+    "intrinsic quantum thermodynamics"
+  ],
+  "title": "Intrinsic Quantum Thermodynamics: Application to Hydrogen Storage on a Carbon Nanotube and Theoretical Consideration of Non-Work Interactions",
+  "type": "Dissertation"
+}

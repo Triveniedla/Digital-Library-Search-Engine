@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Shen, Rao",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Pérez-Quiñones, Manuel A.",
+    "Fan, Weiguo Patrick",
+    "Eustis, Joanne D.",
+    "Lu, Chang-Tien"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:10:22Z",
+  "date_adate": "2006-04-27",
+  "date_available": "2014-03-14T20:10:22Z",
+  "date_issued": "2006-04-17",
+  "date_rdate": "2006-04-27",
+  "date_sdate": "2006-04-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We formalize the digital library (DL) integration problem and propose an overall approach based on the 5S (Streams, Structures, Spaces, Scenarios, and Societies) framework. We then apply that framework to integrate domain-specific (archaeological) DLs, illustrating our solutions for key problems in DL integration. An integrated Archaeological DL, ETANA-DL, is used as a case study to justify and evaluate our DL integration approach. We develop a minimum metamodel for archaeological DLs within the 5S theory. We implement the 5SSuite toolkit set to cover the process of union DL generation, including requirements gathering, conceptual modeling, rapid prototyping, and code generation. 5SSuite consists of 5SGraph, 5SGen, and SchemaMapper, which plays an important role during integration. SchemaMapper, a visual mapping tool, maps the schema of diverse DLs into a global schema for a union DL and generates a wrapper for each individual DL. Each wrapper transforms the metadata catalog of its DL to one conforming to the global schema. The converted catalogs are stored in the union catalog, so that the union DL has a global metadata format and union catalog. We also propose a formal approach to DL exploring services for integrated DLs based on 5S, which provides a systematic and functional method to design and implement DL exploring services. Finally, we propose a DL success model to assess integrated DLs from the perspective of DL end users by integrating 5S theory with diverse research on information systems success and adoption models, and information-seeking behavior models.",
+  "description_provenance": [
+    "Author Email: rshen@vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Advisor Email: joanne.eustis@case.edu",
+    "Advisor Email: ctlu@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:22Z (GMT). No. of bitstreams: 1 Rao_finalDefense_final5.pdf: 2206922 bytes, checksum: e9b987d369886c88875a3974babe5b82 (MD5)   Previous issue date: 2006-04-17"
+  ],
+  "handle": "27099",
+  "identifier_other": "etd-04212006-135018",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04212006-135018/",
+  "identifier_uri": "http://hdl.handle.net/10919/27099",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Rao_finalDefense_final5.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "integration",
+    "digital libraries",
+    "interoperability",
+    "exploring service",
+    "quality"
+  ],
+  "title": "Applying the 5S Framework To Integrating Digital Libraries",
+  "type": "Dissertation"
+}

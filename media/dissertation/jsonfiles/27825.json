@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Han, Ming",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Jacobs, Ira",
+    "Stolen, Roger Hall",
+    "Tranter, William H.",
+    "Indebetouw, Guy J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:21Z",
+  "date_adate": "2006-07-06",
+  "date_available": "2014-03-14T20:12:21Z",
+  "date_issued": "2006-05-11",
+  "date_rdate": "2006-07-06",
+  "date_sdate": "2006-05-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this report, detailed and systematic theoretical and experimental study of low-finesse extrinsic Fabry-Perot interferometric (EFPI) fiber optic sensors together with their signal processing methods for white-light systems are presented. The work aims to provide a better understanding of the operational principle of EFPI fiber optic sensors, and is useful and important in the design, optimization, fabrication and application of single mode fiber(SMF) EFPI (SMF-EFPI) and multimode fiber (MMF) EFPI (MMF-EFPI) sensor systems. The cases for SMF-EFPI and MMF-EFPI sensors are separately considered.  In the analysis of SMF-EFPI sensors, the light transmitted in the fiber is approximated by a Gaussian beam and the obtained spectral transfer function of the sensors includes an extra phase shift due to the light coupling in the fiber end-face. This extra phase shift has not been addressed by previous researchers and is of great importance for high accuracy and high resolution signal processing of white-light SMF-EFPI systems. Fringe visibility degradation due to gap-length increase and sensor imperfections is studied. The results indicate that the fringe visibility of a SMF-EFPI sensor is relatively insensitive to the gap-length change and sensor imperfections.   Based on the spectral fringe pattern predicated by the theory of SMF-EFPI sensors, a novel curve fitting signal processing method (Type 1 curve-fitting method) is presented for white-light SMF-EFPI sensor systems. Other spectral domain signal processing methods  including the wavelength-tracking, the Type 2-3 curve fitting, Fourier transform, and two-point interrogation methods  are reviewed and systematically analyzed.  Experiments were carried out to compare the performances of these signal processing methods. The results have shown that the Type 1 curve fitting method achieves high accuracy, high resolution, large dynamic range, and the capability of absolute measurement at the same time, while others either have less resolution, or are not capable of absolute measurement.  % Very different from SMF-EFPI sensors, MMF-EFPI sensors with high fringe visibility usually are more difficult to obtain in practice because the fringe visibility of a MMF-EFPI sensor is much more sensitive to gap-length change and sensor head imperfections. %Previously, only geometric-optics are available to analyze MMF-EFPI sensors which approximate the light in MMF as rays propagating in different directions. Geometric-optics theory has fundenmental limitations because it is approximate and only valid for limited conditions. Moreover, geometric-optics theory is not capable of poviding the exact fringe pattern which is important in the signal processing of white light MMF-EFPI sensor systems. In this report,  Previous mathematical models for MMF-EFPI sensors are all based on geometric optics; therefore their applications have many limitations. In this report, a modal theory is developed that can be used in any situations and is more accurate. The mathematical description of the spectral fringes of MMF-EFPI sensors is obtained by the modal theory. Effect on the fringe visibility of system parameters, including the sensor head structure, the fiber parameters, and the mode power distribution in the MMF of the MMF-EFPI sensors, is analyzed. Experiments were carried out to validate the theory. Fundamental mechanism that causes the degradation of the fringe visibility in MMF-EFPI sensors are revealed. It is shown that, in some situations at which the fringe visibility is important and difficult to achieve, a simple method of launching the light into the MMF-EFPI sensor system from the output of a SMF could be used to improve the fringe visibility and to ease the fabrication difficulties of MMF-EFPI sensors.    Signal processing methods that are well-understood in white-light SMF-EFPI sensor systems may exhibit new aspects when they are applied to white-light MMF-EFPI sensor systems. This report reveals that the variations of mode power distribution (MPD) in the MMF could cause phase variations of the spectral fringes from a MMF-EFPI sensor and introduce measurement errors for a signal processing method in which the phase information is used. This MPD effect on the wavelength-tracking method in white-light MMF-EFPI sensors is theoretically analyzed.  The fringe phases changes caused by MPD variations were experimentally observed and thus the MFD effect is validated.",
+  "description_provenance": [
+    "Author Email: mhan@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: stolen@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:21Z (GMT). No. of bitstreams: 1 Han_Dissertation_06292006.pdf: 2286622 bytes, checksum: 4beb46d90e4340b5c8e3595cf8c6db1b (MD5)   Previous issue date: 2006-05-11"
+  ],
+  "handle": "27825",
+  "identifier_other": "etd-05212006-233039",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05212006-233039/",
+  "identifier_uri": "http://hdl.handle.net/10919/27825",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Han_Dissertation_06292006.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fiber Optics",
+    "Fiber Optic Sensors",
+    "Fabry-Perot",
+    "White-light Interferometry"
+  ],
+  "title": "Theoretical and Experimental Study of Low-Finesse Extrinsic Fabry-Perot Interferometric Fiber Optic Sensors",
+  "type": "Dissertation"
+}

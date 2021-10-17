@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Xu, Zhenxue",
+  "contributor_committeechair": "Huang, Alex Q.",
+  "contributor_committeemember": [
+    "Lai, Jason",
+    "Liu, Yilu",
+    "Lu, Guo-Quan",
+    "Boroyevich, Dushan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:51:23Z",
+  "date_adate": "2003-12-08",
+  "date_available": "2011-08-22T18:51:23Z",
+  "date_issued": "2003-12-02",
+  "date_rdate": "2003-12-08",
+  "date_sdate": "2003-12-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents the analysis and development of an innovative semiconductor device and topology for the high power current source converter (CSC).  The CSC is very attractive in high power applications due to its lower output dv/dt, easy regeneration capability and implicit short-circuit protection. Traditionally, either a symmetrical gate turn-off (GTO) thyritor or an asymmetrical GTO in series with a diode is used as the power switch in the CSC. Since the GTO has a lower switching speed and requires a complicated gate driver, the symmetrical GTO based CSC usually has low dynamic response speed and low efficiency. To achieve high power rating, fast dynamic response speed and low harmonics, an advanced semiconductor device and topology are needed for the CSC.   Based on symmetrical GTO and power MOSFET technologies, a symmetrical emitter turn-off (ETO) thyristor is developed that shows superior switching performance, high power rating and reverse voltage blocking capability. The on-state characteristics, forced turn-on characteristics, forced turn-off characteristics and the load-commutated characteristics are studied. Test results show that although the load-commutation loss is high, the developed symmetrical ETO is suitable for use in high power CSC due to its low conduction loss, fast switching speed and reverse voltage blocking capability. The snubberless turn-on capability is preferred for a semiconductor device in a power conversion system, and can be achieved for devices with forward biased safe operation area (FBSOA). The FBSOA of the ETO is investigated and experimentally demonstrated. The ETO device has excellent FBSOA due to the negative feedback provided by the emitter switch. However, the FBSOA for a large area ETO is poor. A new ETO concept is therefore proposed for future development in order to demonstrate the FBSOA over a large area device.  To improve the turn-on performance of the large area ETO, a novel concept, named the transistor-mode turn-on, is proposed and studied. During the transistor-mode turn-on process, the ETO behaves like a transistor instead of a thyristor. Without a snubber, the transistor-mode turn-on for the ETO is hard to achieve. Through the selection of a proper gate drive and di/dt snubber, the transistor-mode turn-on can be implemented, and the turn-on performance for the ETO can be dramatically improved.  To increase the power rating of the CSC without degrading the utilization of power semiconductor devices, a novel multilevel CSC, named the parallel-cell multilevel CSC, is proposed. Based on a six-switch CSC cell, the parallel-cell multilevel CSC has the advantages of high power rating, low harmonics, fast dynamic response and modularity. Therefore, it is very suitable for high power applications. The power stage design, modeling, control and switching modulation scheme for a parallel-cell multilevel CSC based static var compensator (STATCOM) are analyzed and verified through simulation.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:51:23Z (GMT). No. of bitstreams: 1  ETD_Xu_12_03.pdf: 2425016 bytes, checksum: bfb80f46f623f0bd547a369fdaf7c1a2 (MD5)    Previous issue date: 2003-12-02",
+    "Author Email: zhxu2@vt.edu",
+    "Advisor Email: Laijs@vt.edu",
+    "Advisor Email: huang@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: dushan@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11068",
+  "identifier_other": "etd-12042003-161511",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12042003-161511",
+  "identifier_uri": "http://hdl.handle.net/10919/11068",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_Xu_12_03.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "STATCOM",
+    "FACTS",
+    "Current Source Converter",
+    "Emitter Turn-off Thyristor",
+    "Power Semiconductor Device"
+  ],
+  "title": "Advanced Semiconductor Device and Topology for High Power Current Source Converter",
+  "type": "Dissertation"
+}

@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Aryan, Azadeh",
+  "contributor_committeechair": "Adelman, Zachary N",
+  "contributor_committeemember": [
+    "Myles, Kevin M",
+    "Anderson, Troy D",
+    "Tu, Zhijian",
+    "Sharakhov, Igor V"
+  ],
+  "contributor_department": "Entomology",
+  "date_accessioned": "2013-10-09T08:00:20Z",
+  "date_available": "2013-10-09T08:00:20Z",
+  "date_issued": "2013-10-08",
+  "degree_discipline": "Entomology",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Aedes aegypti (Ae. aegypti) is one of the most important vectors of dengue, chikungunya and yellow fever viruses. The use of chemical control strategies such as insecticides is associated with problems including the development of insecticide resistance, side effects on animal and human health, and environmental concerns. Because current methods have not proven sufficient to control these diseases, developing novel, genetics-based, control strategies to limit the transmission of disease is urgently needed. Increased knowledge about mosquito-pathogen relationships and the molecular biology of mosquitoes now makes it possible to generate transgenic mosquito strains that are unable to transmit various parasites or viruses.   \tAe. aegypti genetic experiments are enabled, and limited by, the catalog of promoter elements available to drive transgene expression. To find a promoter able to drive robust expression of firefly (FF) luciferase in Ae. aegypti embryos, an experiment was designed to compare Ae. aegypti endogenous and exogenous promoters. The PUb promoter was found to be extremely robust in expression of FF luciferase in different stages of embryonic development from 2-72 hours after injection. In subsequent experiments, transformation frequency was calculated using four different promoters (IE1, UbL40, hsp82 and PUb) to express the Mos1 transposase open reading frame in Mos1-mediated transgenesis. Germline transformation efficiency and size of transgenic cluster were not significantly different when using endogenous Ae. aegypti PUb or the commonly used exogenous Drosophila hsp82 promoter to express Mos1 transposase. \tThis study also describes the development of new tools for gene editing in the Ae. aegypti mosquito genome and the use of these tools to design an efficient gene drive system in this mosquito.   \tHoming endonucleases (HEs) are selfish elements which catalyze double-stranded DNA (dsDNA) breaks in a sequence-specific manner. The activities of four HEs (Y2-I-AniI, I-CreI, I-PpoI, and I-SceI) were investigated for their ability to catalyze the excision of genomic segments from the Ae. aegypti genome. All four enzymes were found to be active in Ae. aegypti; however, the activity of Y2-I-AniI was higher compared to the other three enzymes. Single-strand annealing (SSA) and non-homologous end-joining (NHEJ) pathways were identified as mechanisms to repair HE-induced dsDNA breaks. \tTALE nucleases (TALENs) are a group of artificial enzymes capable of generating site-specific DNA lesions. To examine the ability of TALENs for gene editing in Ae. aegypti, a pair of TALENs targeted to the kmo gene were expressed from a plasmid following embryonic injection. Twenty to forty percent of fertile G0 produced white-eyed progeny which resulted from disruption of the kmo gene. Most of these individuals produced more than 20% white-eyed progeny, with some producing up to 75%. A small deletion of one to seven bp occurred at the TALEN recognition site.  \tThese results show that TALEN and HEs are highly active in the Ae. aegypti germline and can be used for gene editing and gene drive strategies in Ae. aegypti.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-09T08:00:20Z (GMT). No. of bitstreams: 2 Aryan_A_D_2013.pdf: 3305909 bytes, checksum: 3c8d0acba5614ed8c47112172497d23a (MD5) Aryan_A_D_2013_support_1.pdf: 54466 bytes, checksum: c34724c3c7c4e9f4a8a75df1c1b1ac55 (MD5)   Previous issue date: 2013-10-08",
+  "format_medium": "ETD",
+  "handle": "23888",
+  "identifier_other": "vt_gsexam:1669",
+  "identifier_uri": "http://hdl.handle.net/10919/23888",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Aedes aegypti",
+    "PUb promoter",
+    "Homing endonucleases",
+    "TALEN",
+    "transgenic mosquito"
+  ],
+  "title": "Gene editing in Aedes aegypti",
+  "type": "Dissertation"
+}

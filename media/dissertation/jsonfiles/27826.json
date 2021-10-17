@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zhao, Youping",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Agee, Brian G.",
+    "Sherali, Hanif D.",
+    "Midkiff, Scott F.",
+    "Buehrer, Richard Michael"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:21Z",
+  "date_adate": "2007-05-23",
+  "date_available": "2014-03-14T20:12:21Z",
+  "date_issued": "2007-05-08",
+  "date_rdate": "2010-10-08",
+  "date_sdate": "2007-05-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>In recent years, cognitive radios and cognitive wireless networks have been introduced as a new paradigm for enabling much higher spectrum utilization, providing more reliable and personal radio services, reducing harmful interference, and facilitating the interoperability or convergence of different wireless communication networks. Cognitive radios are goal-oriented, autonomously learn from experience and adapt to changing operating conditions. Cognitive radios have the potential to drive the next generation of radio devices and wireless communication system design and to enable a variety of niche applications in demanding environments, such as spectrum-sharing networks, public safety, natural disasters, civil emergencies, and military operations.  </p><p> This research first introduces an innovative approach to developing cognitive radios based on the Radio Environment Map (REM). The REM can be viewed as an integrated database that provides multi-domain environmental information and prior knowledge for cognitive radios, such as the geographical features, available services and networks, spectral regulations, locations and activities of neighboring radios, policies of the users and/or service providers, and past experience. The REM, serving as a vehicle of network support to cognitive radios, can be exploited by the cognitive engine for most cognitive functionalities, such as situation awareness, reasoning, learning, planning, and decision support. This research examines the role of the REM in cognitive radio development from a network point of view, and focuses on addressing three specific issues about the REM: how to design and populate the REM; how to exploit the REM with the cognitive engine algorithms; and how to evaluate the performance of the cognitive radios. Applications of the REM to wireless local area networks (WLAN) and wireless regional area networks (WRAN) are investigated, especially from the perspectives of interference management and radio resource management, which illustrate the significance of cognitive radios to the evolution of wireless communications and the revolution in spectral regulation. Network architecture for REM-enabled cognitive radios and framework for REM-enabled situation-aware cognitive engine learning algorithms have been proposed and formalized. As an example, the REM, including the data model and basic application programmer interfaces (API) to the cognitive engine, has been developed for cognitive WRAN systems. Furthermore, REM-enabled cognitive cooperative learning (REM-CCL) and REM-enabled case- and knowledge-based learning algorithms (REM-CKL) have been proposed and validated with link-level or network-level simulations and a WRAN base station cognitive engine testbed. Simulation results demonstrate that the WRAN CE can adapt orders of magnitude faster when using the REM-CKL than when using the genetic algorithms and achieve near-optimal global utility by leveraging the REM-CKL and a local search. Simulation results also suggest that exploiting the Global REM information can considerably improve the performance of both primary and secondary users and mitigate the hidden node (or hidden receiver) problem. REM dissemination schemes and the resulting overhead have been investigated and analyzed under various network scenarios. By extending the optimized link state routing protocol, the overhead of REM dissemination in wireless ad hoc networks via multipoint relays can be significantly reduced by orders of magnitude as compared to plain flooding. Performance metrics for various cognitive radio applications are also proposed. REM-based scenario-driven testing (REM-SDT) has been proposed and employed to evaluate the performances of the cognitive engine and cognitive wireless networks. This research shows that REM is a viable, cost-efficient approach to developing cognitive radios and cognitive wireless networks with significant potential in various applications. Future research recommendations are provided in the conclusion.</p>",
+  "description_provenance": [
+    "Author Email: yozhao@vt.edu",
+    "Advisor Email: bgagee@pacbell.net",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:21Z (GMT). No. of bitstreams: 1 Dissertation_FinalRev_YoupingZhao.pdf: 3397255 bytes, checksum: 2b6faa937f466999a926cf310f11e36f (MD5)   Previous issue date: 2007-05-08"
+  ],
+  "handle": "27826",
+  "identifier_other": "etd-05212007-162735",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05212007-162735/",
+  "identifier_uri": "http://hdl.handle.net/10919/27826",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_FinalRev_YoupingZhao.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "radio environment map",
+    "802.22 WRAN",
+    "cognitive radio",
+    "802.11 WLAN",
+    "cognitive engine"
+  ],
+  "title": "Enabling Cognitive Radios through Radio Environment Maps",
+  "type": "Dissertation"
+}

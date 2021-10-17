@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Pasupathy, Kalyan Sunder",
+  "contributor_committeechair": "Triantis, Konstantinos P.",
+  "contributor_committeemember": [
+    "D''Alessio, Jacqueline A.",
+    "Van Aken, Eileen M.",
+    "Koelling, Charles Patrick",
+    "Hoopes, Barbara J."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:39Z",
+  "date_adate": "2006-03-23",
+  "date_available": "2014-03-14T20:07:39Z",
+  "date_issued": "2006-02-08",
+  "date_rdate": "2009-03-23",
+  "date_sdate": "2006-02-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Managers in organizations make investment decisions all the time. These decisions have an impact on the bottom-line profits and on the market penetration of the organization. Some decisions have more impact than others do and not all such decisions are evaluated for their impact. The Service-Profit Chain (SPC) framework brings together several components like operational attributes, customer perceptions, customer behavioral intentions and customer loyalty to evaluate the service operation. This research augments the SPC with another component â   uncontrollable factors (environmental variables and competition) that are exogenous to the operation but definitely have an effect on the service delivery process. Further, this research develops a dynamic model to evaluate investments made in operational attributes (e.g. number of tellers in a bank, number of airline flight options to a particular city available to customers) and determine the behavior of customer perceptions, customer intentions, customer loyalty, profit, market penetration and marginal rate of return over time.  The above is accomplished by incorporating a hill-climbing algorithm into the dynamic SPC model. This hill-climbing algorithm senses the current state of the system and compares it to a certain goal to determine the discrepancies and make additional interventions. The objective is to determine an optimal path to steady state and to evaluate if certain goals are realistic. Next, the Service Sustainability Chain is developed to be applicable to training services. This is accomplished by building key relationships specific to training services into separate modules. The Dynamic SPC module is based on the SPC framework. The Customer Base Growth module captures the structure for referrals and how this enables the growth of the customer base mimicking the infectious model for epidemic diseases in the literature.  A methodology based on Chi-Square Automatic Interaction Detection (CHAID) and Structural Equation Modeling (SEM) developed to explore, uncover and identify relationships and mathematical equations is used to determine the structural input-output representation of the SPC. Next, the model and the methodology developed are applied to a case study in a training services organization, simulated and validated.",
+  "description_provenance": [
+    "Author Email: kalyan@vt.edu",
+    "Advisor Email: jacquidalessio@comcast.net",
+    "Advisor Email: evanaken@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: bhoopes@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:39Z (GMT). No. of bitstreams: 1 KalyanDissertation.pdf: 2170789 bytes, checksum: 298f5178356dbb651edd4b903749e32b (MD5)   Previous issue date: 2006-02-08"
+  ],
+  "handle": "26257",
+  "identifier_other": "etd-02202006-121030",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02202006-121030/",
+  "identifier_uri": "http://hdl.handle.net/10919/26257",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KalyanDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Decision-making",
+    "Sustainability",
+    "System dynamics",
+    "CHAID",
+    "SEM",
+    "Service operations",
+    "Service-profit chain"
+  ],
+  "title": "Sustainability of the Service-Profit Chain",
+  "type": "Dissertation"
+}

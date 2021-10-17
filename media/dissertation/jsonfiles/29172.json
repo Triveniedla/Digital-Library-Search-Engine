@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Srivastava, Vivek",
+  "contributor_committeechair": "DaSilva, Luiz A.",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "MacKenzie, Allen B.",
+    "Gilles, Robert P.",
+    "Phanse, Kaustubh S.",
+    "Shukla, Sandeep K."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:01Z",
+  "date_adate": "2008-12-05",
+  "date_available": "2014-03-14T20:17:01Z",
+  "date_issued": "2008-09-17",
+  "date_rdate": "2008-12-05",
+  "date_sdate": "2008-10-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>A Mobile Ad Hoc Network (MANET) adopts a decentralized communication architecture which relies on cooperation among nodes at each layer of the protocol stack. Its reliance on cooperation for success and survival makes the ad hoc network particularly sensitive to variations in node behavior. Specifically, for functions such as routing, nodes which are limited in their resources may be unwilling to cooperate in forwarding for other nodes. Such selfish behavior leads to degradation in the performance of the network and possibly, in the extreme case, a complete cessation of operations. Consequently it is important to devise solutions to encourage resource-constrained nodes to cooperate.</p>  <p>Incentive schemes have been proposed to induce selfish nodes to cooperate. Though many of the proposed schemes in the literature are payment-based, nodes can be incentivized to cooperate by adopting policies which are non-monetary in nature, but rather are based on the threat of retaliation for non-cooperating nodes. These policies, for which there is little formal analysis in the existing literature on node cooperation, are based on observed node behavior. We refer to them as behavior-based incentives. In this work, we analyze the effectiveness of behavior-based incentives in inducing nodes to cooperate.</p>   <p>To determine whether an incentive scheme is effective in fostering cooperation we develop a game-theoretic model. Adopting a repeated game model, we show that nodes may agree to cooperate in sharing their resources and forward packets, even if they perceive a cost in doing so. This happens as the nodes recognize that refusing to cooperate will result in similar behavior by others, which ultimately would compromise the viability of the network as a whole. </p>  <p>A major shortcoming in the analysis done in past works is the lack of consideration of practical constraints imposed by an ad hoc environment. One such example is the assumption that a node, when making decisions about whether to cooperate, has perfect knowledge of every other nodeâ  s actions. In a distributed setting this is impractical. In our work, we analyze behavior-based incentives by incorporating such practical considerations as imperfect monitoring into our game-theoretic models. In modeling the problem as a game of imperfect public monitoring (nodes observe a common public signal that reflects the actions of other nodes in the network) we show that, under the assumption of first order stochastic dominance of the public signal, the grim trigger strategy leads to an equilibrium for nodes to cooperate.</p>   <p>Even though a trigger-based strategy like grim-trigger is effective in deterring selfish behavior it is too harsh in its implementation. In addition, the availability of a common public signal in a distributed setting is rather limited. We, therefore, consider nodes that individually monitor the behavior of other nodes in the network and keep this information private. Note that this independent monitoring of behavior is error prone as a result of slow switching between transmit and promiscuous modes of operation, collisions and congestion due to the wireless medium, or incorrect feedback from peers. We propose a probability-based strategy that induces nodes to cooperate under such a setting. We analyze the strategy using repeated games with imperfect private monitoring and show it to be robust to errors in monitoring othersâ   actions. Nodes achieve a near-optimal payoff at equilibrium when adopting this strategy.</p>  <p>This work also characterizes the effects of a behavior-based incentive, applied to induce cooperation, on topology control in ad hoc networks. Our work is among the first to consider selfish behavior in the context of topology control. We create topologies based on a holistic view of energy consumption â   energy consumed in forwarding packets as well as in maintaining links. Our main results from this work are to show that: (a) a simple forwarding policy induces nodes to cooperate and leads to reliable paths in the generated topology, (b) the resulting topologies are well-connected, energy-efficient and exhibit characteristics similar to those in small-world networks.</p>",
+  "description_provenance": [
+    "Author Email: vivs@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: rgilles@vt.edu",
+    "Advisor Email: ksphanse@gmail.com",
+    "Advisor Email: shukla@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:01Z (GMT). No. of bitstreams: 1 SrivastavaVivek_dissertation_postdefense_mod.pdf: 749648 bytes, checksum: de96d7faf40aba20938a37481cd77580 (MD5)   Previous issue date: 2008-09-17"
+  ],
+  "handle": "29172",
+  "identifier_other": "etd-10022008-123106",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10022008-123106/",
+  "identifier_uri": "http://hdl.handle.net/10919/29172",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SrivastavaVivek_dissertation_postdefense_mod.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "topology control simulation",
+    "game theoretic modeling"
+  ],
+  "title": "Behavior-based Incentives for Node Cooperation in Wireless Ad Hoc Networks",
+  "type": "Dissertation"
+}

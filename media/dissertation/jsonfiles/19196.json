@@ -1,0 +1,29 @@
+{
+  "contributor_author": "Kim, Sun Wook",
+  "contributor_committeechair": "Nussbaum, Maury A",
+  "contributor_committeemember": [
+    "Agnew, Michael J",
+    "Madigan, Michael L",
+    "Shewchuk, John P"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2013-02-19T22:35:10Z",
+  "date_available": "2013-02-19T22:35:10Z",
+  "date_issued": "2012-12-06",
+  "degree_discipline": "Industrial and Systems Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Work-related musculoskeletal disorders (WSMDs) are an important health concern in the workplace.  Accurately quantifying the level of physical exposures (i.e., kinematics and kinetics) is essential for risk assessments, developing and/or testing interventions, and improving estimates of exposure-response relationships.  Such exposures ideally should be quantified in situ, while workers interact with the actual work environment to complete their tasks.  However, in practice, relatively crude and/or time-consuming methods are often used, including self-reports, observational methods, and simple instrumentation, since directly assessing physical exposures is challenging in the workplace, and typically resource prohibitive. <br /><br />Inertial motion capture (IMC) and in-shoe pressure measurement (IPM) systems are emerging wearable technologies, and they can, respectively, facilitate monitoring of body kinematics and external forces on the body in the workplace.  Thus, this research examined the potential of such technologies in exposure assessments, and evaluated them in comparison to mature laboratory systems (i.e., optical motion capture system and force platform) or direct observation.  Performance of an IMC system was evaluated during several manual material handling (MMH) tasks, in terms of estimated body kinematics and kinetics at selected body parts.  A practical issue, regarding calibrating the IPM system in the field, was addressed by defining an ad hoc global coordinate system using a force platform.  Several regression models were developed for estimating center-of-pressure location and ground reaction forces.  Given that outputs from the IMC and the IPM systems are numerically fine-grained, but generally lack contextual information about a given job, task classification approaches were explored to automatically identify task types and their time proportions in a job.<br /><br />Overall, the outcomes from these studies demonstrated the potential of the IMC and the IPM systems for measuring physical exposures in the workplace.  However, estimation of physical exposures using these systems requires further improvements in some cases.  This research provided groundwork for future rapid and direct assessments of physical exposures in the workplace, and which needs to be expanded and validated in future efforts.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:35:10Z (GMT). No. of bitstreams: 1 Kim_S_D_2012.pdf: 2244093 bytes, checksum: 268482becc04c91a5233a0377d4dd133 (MD5)   Previous issue date: 2012-12-06",
+  "format_medium": "ETD",
+  "handle": "19196",
+  "identifier_other": "vt_gsexam:100",
+  "identifier_uri": "http://hdl.handle.net/10919/19196",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": "Physical exposures; werable technologies; classificaiton; manual material handling",
+  "title": "Development and Evaluation of Methods to Assess Physical Exposures in the Workplace",
+  "type": "Dissertation"
+}

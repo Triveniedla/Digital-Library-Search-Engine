@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Edwards, Jeffrey A",
+  "contributor_committeecochair": [
+    "McGuirk, Anya M.",
+    "Cothren, Richard D."
+  ],
+  "contributor_committeemember": [
+    "Yang, Dennis T.",
+    "Spanos, Aris",
+    "Ball, Sheryl B."
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2014-03-14T20:10:36Z",
+  "date_adate": "2003-04-24",
+  "date_available": "2014-03-14T20:10:36Z",
+  "date_issued": "2003-04-23",
+  "date_rdate": "2004-04-24",
+  "date_sdate": "2003-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "&#65279;Most of empirical modeling involves the use of Ordinary Least Squares regression where the residuals are assumed normal, independent, and    identically distributed. In finite samples, these assumptions becomes critical for accurate estimations, however, in macroeconomics in particular, these assumptions are rarely tested. This study addresses the applications of statistical testing methods and model respecification within the context of applied macroeconomics.  The first application is a statistical comparison of Gregory Mankiw, David Romer and David Weilâ  s A Contribution to the Empirics of Economic Growth, and Nazrul Islamâ  s Growth Empirics: A Panel Data Approach. This analysis shows that the models in both papers are statistically misspecified. When respecified, the functional forms of Mankiw, Romer, and Weilâ  s models change considerably whereas Islamâ  s retain the theoretical structure. The second application is a study of the impact of inflation on investment and growth. After instrumenting for inflation with a set of political variables, I find that between approximately 1% and 9% inflation, there is a positive correlation between inflation and investment--the Mundell-Tobin effect may be a valid explanation. I further this analysis to show that treating investment as an exogenous variable may be problematic  in empirical growth models.",
+  "description_provenance": [
+    "Author Email: jeedwar1@vt.edu",
+    "Advisor Email: deyang@vt.edu",
+    "Advisor Email: aris@vt.edu",
+    "Advisor Email: mcguirk@vt.edu",
+    "Advisor Email: rcothren@vt.edu",
+    "Advisor Email: sball@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:36Z (GMT). No. of bitstreams: 3 FrontMatterMerge042203revised(1).pdf: 84724 bytes, checksum: 35886a7d03e0a622aa0c11d88629bc78 (MD5) Vitae022003.pdf: 107339 bytes, checksum: f2ad3a3248fa1997030d818441496310 (MD5) BodyMatterWithAppendicesAttached042403.pdf: 2245503 bytes, checksum: fc62a130468c30c679f84813d1cbf44d (MD5)   Previous issue date: 2003-04-23"
+  ],
+  "handle": "27195",
+  "identifier_other": "etd-04242003-104034",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242003-104034/",
+  "identifier_uri": "http://hdl.handle.net/10919/27195",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "FrontMatterMerge042203revised(1).pdf",
+    "Vitae022003.pdf",
+    "BodyMatterWithAppendicesAttached042403.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mundell-Tobin Effect",
+    "Inflation",
+    "Growth",
+    "Misspecification Testing",
+    "Statistical Specification"
+  ],
+  "title": "A Statistical Approach to Empirical Macroeconomic Modeling with Practical Applications",
+  "type": "Dissertation"
+}

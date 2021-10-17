@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Richardson, W. Ryan",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Tegarden, David P.",
+    "Cline, Benjamin E.",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:41Z",
+  "date_adate": "2007-08-02",
+  "date_available": "2014-03-14T20:13:41Z",
+  "date_issued": "2007-06-06",
+  "date_rdate": "2007-08-02",
+  "date_sdate": "2007-07-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Concept maps, introduced by Novak, aid learnersâ   understanding. I hypothesize that concept maps also can function as a summary of large documents, e.g., electronic theses and dissertations (ETDs). I have built a system that automatically generates concept maps from English-language ETDs in the computing field. The system also will provide Spanish translations of these concept maps for native Spanish speakers. Using machine translation techniques, my approach leads to concept maps that could allow researchers to discover pertinent dissertations in languages they cannot read, helping them to decide if they want a potentially relevant dissertation translated. I am using a state-of-the-art natural language processing system, called Relex, to extract noun phrases and noun-verb-noun relations from ETDs, and then produce concept maps automatically. I also have incorporated information from the table of contents of ETDs to create novel styles of concept maps. I have conducted five user studies, to evaluate user perceptions about these different map styles. I am using several methods to translate node and link text in concept maps from English to Spanish. Nodes labeled with single words from a given technical area can be translated using wordlists, but phrases in specific technical fields can be difficult to translate. Thus I have amassed a collection of about 580 Spanish-language ETDs from Scirus and two Mexican universities and I am using this corpus to mine phrase translations that I could not find otherwise. The usefulness of the automatically-generated and translated concept maps has been assessed in an experiment at Universidad de las Americas (UDLA) in Puebla, Mexico. This experiment demonstrated that concept maps can augment abstracts (translated using a standard machine translation package) in helping Spanish speaking users find ETDs of interest.",
+  "description_provenance": [
+    "Author Email: wiricha2@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: dtegarde@vt.edu",
+    "Advisor Email: benjy@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:41Z (GMT). No. of bitstreams: 7 Richardson_Appendix_VI_VII.pdf: 380788 bytes, checksum: 73ae42b3457e62cb0df1e843d96b59bf (MD5) Richardson_Appendix_III.pdf: 901808 bytes, checksum: 4cb95189fe23973326de28657b0f4959 (MD5) Richardson_Appendix_IV.pdf: 1184078 bytes, checksum: 1dab78410d90530a0b473b03a3da1c80 (MD5) Richardson_etd.pdf: 4514383 bytes, checksum: db7a16e7596e1f9777ee7b2b98d77093 (MD5) Richardson_Appendix_V.pdf: 847525 bytes, checksum: 4f00ce9f848f72a9b13630ed78fde982 (MD5) Richardson_Appendix_I.pdf: 782402 bytes, checksum: eb91b61d3f71a943f5d3145463f67856 (MD5) Richardson_Appendix_II.pdf: 1264790 bytes, checksum: 62ebda66fadede8397952382c9327613 (MD5)   Previous issue date: 2007-06-06"
+  ],
+  "handle": "28191",
+  "identifier_other": "etd-07022007-184525",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07022007-184525/",
+  "identifier_uri": "http://hdl.handle.net/10919/28191",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Richardson_Appendix_VI_VII.pdf",
+    "Richardson_Appendix_III.pdf",
+    "Richardson_Appendix_IV.pdf",
+    "Richardson_etd.pdf",
+    "Richardson_Appendix_V.pdf",
+    "Richardson_Appendix_I.pdf",
+    "Richardson_Appendix_II.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "named entity extraction",
+    "computing ontologies",
+    "concept mapping",
+    "cross-language information retrieval"
+  ],
+  "title": "Using Concept Maps as a Tool for Cross-Language Relevance Determination",
+  "type": "Dissertation"
+}

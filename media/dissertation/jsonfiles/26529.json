@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Burt, David Allan",
+  "contributor_committeechair": "Coakley, Clint W.",
+  "contributor_committeemember": [
+    "Smith, Eric P.",
+    "Foutz, Robert",
+    "Birch, Jeffrey B.",
+    "Terrell, George R."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:08:34Z",
+  "date_adate": "2000-03-31",
+  "date_available": "2014-03-14T20:08:34Z",
+  "date_issued": "2000-03-23",
+  "date_rdate": "2001-03-31",
+  "date_sdate": "2000-03-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Most traditional parametric and nonparametric regression methods operate under the assumption that the true function is continuous over the design space.  For methods such as ordinary least squares polynomial regression and local polynomial regression the functional estimates are constrained to be continuous.  Fitting a function that is not continuous with a continuous estimate will have practical scientific implications as well as important model misspecification effects.  Scientifically, breaks in the continuity of the underlying mean function may correspond to specific physical phenomena that will be hidden from the researcher by a continuous regression estimate.  Statistically, misspecifying a mean function as continuous when it is not will result in an increased bias in the estimate.    One recently developed nonparametric regression technique that does not constrain the fit to be continuous is the jump preserving M-smooth procedure of Chu, Glad, Godtliebsen & Marron (1998),`Edge-preserving smoothers for image processing', Journal of the American Statistical Association 93(442), 526-541.  Chu et al.'s (1998) M-smoother is defined in such a way that the noise about the mean function is smoothed out while jumps in the mean function are preserved.  Before the jump preserving M-smoother can be used in practice the choice of the bandwidth parameters must be addressed.  The jump preserving M-smoother requires two bandwidth parameters h and g.  These two parameters determine the amount of noise that is smoothed out as well as the size of the jumps which are preserved.  If these parameters are chosen haphazardly the resulting fit could exhibit worse bias properties than traditional regression methods which assume a continuous mean function.  Currently there are no automatic bandwidth selection procedures available for the jump preserving M-smoother of Chu et al. (1998).  One of the main objectives of this dissertation is to develop an automatic data driven bandwidth selection procedure for Chu et al.'s (1998) M-smoother.  We actually present two bandwidth selection procedures.  The first is a crude rule of thumb method and the second is a more sophistocated direct plug in method.  Our bandwidth selection procedures are modeled after the methods of Chu et al. (1998) with two significant modifications which make the methods robust to possible jump points.  Another objective of this dissertation is to provide a nonparametric hypothesis test, based on Chu et al.'s (1998) M-smoother, to test for a break in the continuity of an underlying regression mean function.  Our proposed hypothesis test is nonparametric in the sense that the mean function away from the jump point(s) is not required to follow a specific parametric model.  In addition the test does not require the user to specify the number, position, or size of the jump points in the alternative hypothesis as do many current methods.  Thus the null and alternative hypotheses for our test are:  H0:  The mean function is continuous (i.e. no jump points) vs. HA:  The mean function is not continuous (i.e. there is at least one jump point).  Our testing procedure takes the form of a critical bandwidth hypothesis test.  The test statistic is essentially the largest bandwidth that allows Chu et al.'s (1998) M-smoother to satisfy the null hypothesis.  The significance of the test is then calculated via a bootstrap method.  This test is currently in the experimental stage of its development.  In this dissertation we outline the steps required to calculate the test as well as assess the power based on a small simulation study.  Future work such as a faster calculation algorithm is required before the testing procedure will be practical for the general user.",
+  "description_provenance": [
+    "Author Email: daburt@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: b2948@vt.edu",
+    "Advisor Email: coakley@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:34Z (GMT). No. of bitstreams: 1 etd.pdf: 813829 bytes, checksum: 743d22f27746033d5bde1c0dbb56f5af (MD5)   Previous issue date: 2000-03-23"
+  ],
+  "handle": "26529",
+  "identifier_other": "etd-03282000-16450058",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03282000-16450058/",
+  "identifier_uri": "http://hdl.handle.net/10919/26529",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Bootstrap",
+    "Critical Bandwidth Testing",
+    "Nonparametric Regression",
+    "Bandwidth",
+    "M-smoother"
+  ],
+  "title": "Bandwidth Selection Concerns for Jump Point Discontinuity Preservation in the Regression Setting Using M-smoothers and the Extension to hypothesis Testing",
+  "type": "Dissertation"
+}

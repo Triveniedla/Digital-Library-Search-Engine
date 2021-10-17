@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Leidig, Jonathan Paul",
+  "contributor_committeecochair": [
+    "Fox, Edward Alan",
+    "Marathe, Madhav V."
+  ],
+  "contributor_committeemember": [
+    "Beckman, Peter",
+    "Bisset, Keith",
+    "Butt, Ali R. A.",
+    "Mortveit, Henning S."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:33Z",
+  "date_adate": "2012-09-05",
+  "date_available": "2014-03-14T20:15:33Z",
+  "date_issued": "2012-07-20",
+  "date_rdate": "2012-09-05",
+  "date_sdate": "2012-08-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Advances in scientific data management, discovery, dissemination, and sharing are changing the manner in which scientific studies are being conducted and repurposed. Data-intensive scientific practices increasingly require data management related services not available in existing digital libraries. Complicating the issue are the diversity of functional requirements and content in scientific domains as well as scientists' lack of expertise in information and library sciences.   Researchers that utilize simulation and experimentation systems need digital libraries to maintain datasets, input configurations, results, analyses, and related documents. A digital library may be integrated with simulation infrastructures to provide automated support for research components, e.g., simulation interfaces to models, data warehouses, simulation applications, computational resources, and storage systems. Managing and provisioning simulation content allows streamlined experimentation, collaboration, discovery, and content reuse within a simulation community. Formal definitions of this class of digital libraries provide a foundation for producing a software toolkit and the semi-automated generation of digital library instances.   We present a generic, component-based SIMulation-supporting Digital Library (SimDL) framework. The framework is formally described and provides a deployable set of domain-free services, schema-based domain knowledge representations, and extensible lower and higher level service abstractions. Services in SimDL are specialized for semi-structured simulation content and large-scale data producing infrastructures, as exemplified in data storage, indexing, and retrieval service implementations. Contributions to the scientific community include previously unavailable simulation-specific services, e.g., incentivizing public contributions, semi-automated content curating, and memoizing simulation-generated data products. The practicality of SimDL is demonstrated through several case studies in computational epidemiology and network science as well as performance evaluations.",
+  "description_provenance": [
+    "Author Email: leidig07@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: mmarathe@vbi.vt.edu",
+    "Advisor Email: beckman@mcs.anl.gov",
+    "Advisor Email: kbisset@vbi.vt.edu",
+    "Advisor Email: butta@cs.vt.edu",
+    "Advisor Email: hmortvei@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:33Z (GMT). No. of bitstreams: 1 Leidig_JP_D_2012.pdf: 8405300 bytes, checksum: 3c365fe7d6f97d901dc91ed3e9f991c4 (MD5)   Previous issue date: 2012-07-20"
+  ],
+  "handle": "28759",
+  "identifier_other": "etd-08222012-145818",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08222012-145818/",
+  "identifier_uri": "http://hdl.handle.net/10919/28759",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Leidig_JP_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Computational Epidemiology",
+    "Digital Libraries",
+    "Simulation and Experimentation Management",
+    "5S Formalisms"
+  ],
+  "title": "Epidemiology Experimentation and Simulation Management through Scientific Digital Libraries",
+  "type": "Dissertation"
+}

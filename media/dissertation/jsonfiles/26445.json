@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Bandorawalla, Tozer Jamshed",
+  "contributor_committeechair": "Case, Scott W.",
+  "contributor_committeecochair": "Reifsnider, Kenneth L.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Davis, Richey M.",
+    "Telionis, Demetri P."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:08:15Z",
+  "date_adate": "2002-03-22",
+  "date_available": "2014-03-14T20:08:15Z",
+  "date_issued": "2002-02-25",
+  "date_rdate": "2003-03-22",
+  "date_sdate": "2002-03-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the increasing use of composite materials for diverse applications ranging from civil infrastructure to offshore oil exploration, the durability of these materials is an important issue.  Practical and accurate models for lifetime will enable engineers to push the boundaries of design and make the most efficient use of composite materials, while at the same time maintaining the utmost standards of safety.  The work described in this dissertation is an effort to predict the strength and rupture lifetime of a unidirectional carbon fiber/polymer matrix composite using micromechanical techniques.  Sources of material variability are incorporated into these models to predict probabilistic distributions for strength and lifetime.  This approach is best suited to calculate material reliability for a desired lifetime under a given set of external conditions.  A systematic procedure, with experimental verification at each important step, is followed to develop the predictive models in this dissertation.  The work begins with an experimental and theoretical understanding of micromechanical stress redistribution due to fiber fractures in unidirectional composite materials.  In-situ measurements of fiber stress redistribution are made in macromodel composites where the fibers are large enough that strain gages can be mounted directly onto the fibers.  The measurements are used to justify and develop a new form of load sharing where the load of the broken fiber is redistributed only onto the nearest adjacent neighbors.  The experimentally verified quasi-static load sharing is incorporated into a Monte Carlo simulation for tensile strength modeling.  Very good agreement is shown between the predicted and experimental strength distribution of a unidirectional composite.  For the stress-rupture models a time and temperature dependent load-sharing analysis is developed to compute stresses due an arbitrary sequence of fiber fractures.  The load sharing is incorporated into a simulation for stress rupture lifetime.  The model can be used to help understand and predict the role of temperature in accelerated measurement of stress-rupture lifetimes.  It is suggested that damage in the gripped section of purely unidirectional specimens often leads to inaccurate measurements of rupture lifetime.  Hence, rupture lifetimes are measured for [90/0_3]_s carbon fiber/polymer matrix specimens where surface 90 deg plies protect the 0 deg plies from damage.  Encouraging comparisons are made between the experimental and predicted lifetimes of the [90/0_3]_s laminate.  Finally, it is shown that the strength-life equal rank assumption is erroneous because of fundamental differences between quasi-static and stress-rupture failure behaviors in unidirectional polymer composites.",
+  "description_provenance": [
+    "Author Email: tbandora@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: mrl@vt.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:15Z (GMT). No. of bitstreams: 1 tozeretd.pdf: 3066027 bytes, checksum: 76552b890efcf813836922b71c415c3c (MD5)   Previous issue date: 2002-02-25"
+  ],
+  "handle": "26445",
+  "identifier_other": "etd-03172002-151608",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03172002-151608/",
+  "identifier_uri": "http://hdl.handle.net/10919/26445",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "tozeretd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Creep",
+    "Static Fatigue",
+    "Model Composite",
+    "Monte Carlo Simulations",
+    "Rupture",
+    "Unidirectional Composite"
+  ],
+  "title": "Micromechanics-Based Strength and Lifetime Prediction of Polymer Composites",
+  "type": "Dissertation"
+}

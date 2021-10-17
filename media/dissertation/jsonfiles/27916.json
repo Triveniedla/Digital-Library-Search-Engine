@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hassan, Hoda Mamdouh",
+  "contributor_committeechair": "Eltoweissy, Mohamed Y.",
+  "contributor_committeemember": [
+    "Zaghloul, Amir I.",
+    "Youssef, Moustafa",
+    "Chen, Ing-Ray",
+    "DaSilva, Luiz A.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:38Z",
+  "date_adate": "2010-07-15",
+  "date_available": "2014-03-14T20:12:38Z",
+  "date_issued": "2010-05-26",
+  "date_rdate": "2010-07-15",
+  "date_sdate": "2010-05-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The growing need for a trustworthy Future Internet demands evolutionary approaches unfettered by legacy constrains and concepts. The networking community is calling for new network architectural proposals that address the deficiencies identified in present network realizations, acknowledge the need for a trustworthy IT infrastructure, and satisfy the society's emerging and future requirements. Proposed architectures need to be founded on well-articulated design principles, account for network operational and management complexities, embrace technology and application heterogeneity, regulate network-inherent emergent behavior, and overcome shortcomings attributed to present network realizations.  \tThis dissertation presents our proposed clean-slate Concern-Oriented Reference Model (CORM) for architecting future computer networks. CORM stands as a guiding framework from which network architectures can be derived according to specific functional, contextual, and operational requirements or constraints. CORM represents a pioneering attempt within the network realm, and to our knowledge, CORM is the first reference model that is bio-inspired and derived in accordance with the Function-Behavior-Structure (FBS) engineering framework. \tCORM conceives a computer network as a software-dependent complex system whose design needs to be attempted in a concern-oriented bottom-up approach along two main dimensions: a vertical dimension addressing structure and configuration of network building blocks; and a horizontal dimension addressing communication and interactions among the previously formulated building blocks. For each network dimension, CORM factors the design space into function, structure, and behavior, applying to each the principle of separation of concerns for further systematic decomposition. \tIn CORM, the network-building block is referred to as the Network Cell (NC), which represents CORMâ  s first basic abstraction. An NC's structure and inherent behavior are bio-inspired, imitating a bacterium cell in a bacteria colony, thus it is capable of adaptation, self-organization and evolution. An NC's functional operation is defined by CORM second basic abstraction; the ACRF framework. The ACRF framework is a conceptual framework for network-concerns derived according to our interpretation of computer network requirement specifications. CORM networks are recursively synthesized in a bottom-up fashion out of CORM NCs. CORM addresses the multi-dimensionality of computer networks by modeling the network structure and behavior using a network structural template (NST), and an information flow model (IFM), respectively. Being developed according to a complex system paradigm, CORM refutes the long endorsed concept of layering, intrinsically accounts for emergent behavior, and ensures system integrity and stability.  \tAs a reference model, CORM is more typical of conventional engineering. Therefore it was validated using the FBS engineering framework. However, the behavior to be realized in CORM-based networks was substantiated and evaluated by deriving CellNet, our proposed CORM-based network architecture. CellNet-compliant protocols' behavioral adaptation and modification were illustrated and evaluated through simulation.  \tCORM will have a profound impact on the operation and behavior of computer networks composing the Internet. By introducing awareness adaptability and evolvability as network intrinsic features, CORM-based Internet will proactively respond to changes in operational contexts, underlying technologies, and end user requirements. A major direction in CORM future work would be to detail the IFM component.",
+  "description_provenance": [
+    "Author Email: hmhassan@vt.edu",
+    "Advisor Email: amirz@vt.edu",
+    "Advisor Email: moustafa.youssef@gmail.com",
+    "Advisor Email: toweissy@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:38Z (GMT). No. of bitstreams: 1 Hassan_HM_D_2010.pdf: 1100891 bytes, checksum: 52c6e4ec036d2fe0f8d81fed82066405 (MD5)   Previous issue date: 2010-05-26"
+  ],
+  "handle": "27916",
+  "identifier_other": "etd-05292010-001127",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05292010-001127/",
+  "identifier_uri": "http://hdl.handle.net/10919/27916",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hassan_HM_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Computer Network Architecture",
+    "Network Reference Model",
+    "Bio-Inspired Computer Network Design",
+    "Complex Adaptive Systems",
+    "Protocol Design"
+  ],
+  "title": "A Reference Model and Architecture for Future Computer Networks",
+  "type": "Dissertation"
+}

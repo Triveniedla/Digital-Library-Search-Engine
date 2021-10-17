@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Dorai-Raj, Sundardas Samuel",
+  "contributor_committeechair": "Schabenberger, Oliver",
+  "contributor_committeemember": [
+    "Terrell, George R.",
+    "Ye, Keying",
+    "Foutz, Robert",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:48Z",
+  "date_adate": "2001-08-10",
+  "date_available": "2014-03-14T20:14:48Z",
+  "date_issued": "2001-07-23",
+  "date_rdate": "2002-08-10",
+  "date_sdate": "2001-08-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Point processes are common in many physical applications found in engineering and biology. These processes can be observed in one-dimension as a time series or two-dimensions as a spatial point pattern with extensive amounts of literature devoted to their analyses. However, if the observed process is a hybrid of spatial and temporal point process, very few practical methods exist. In such cases, practitioners often remove the temporal component and analyze the spatial dependencies. This marginal spatial analysis may lead to misleading results if time is an important factor in the process.  In this dissertation we extend the current analysis of spatial point patterns to include a temporal dimension. First- and second-order intensity measures for analyzing spatiotemporal point patterns are explicitly defined. Estimation of first-order intensities are examined using 3-dimensional smoothing techniques.  Conditions for weak stationarity are provided so that subsequent second-order analysis can be conducted. We consider second-order analysis of spatiotemporal point patterns first in the space-time domain through an extension of Ripley's $K$-function. An alternative analysis is given in the frequency domain though construction of a spatiotemporal periodogram.  The methodology provided is tested through simulation of spatiotemporal point patterns and by analysis of a real data set. The biological application concerns the estimation of the homerange of groups of the endangered red-cockaded woodpecker in the Fort Bragg area of North Carolina. Monthly or bimonthly point patterns of the bird distribution are analyzed and integrated over a 23 month period.",
+  "description_provenance": [
+    "Author Email: sdoraira@vt.edu",
+    "Advisor Email: schabenb@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: b2948@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:48Z (GMT). No. of bitstreams: 1 dissertation.pdf: 1655062 bytes, checksum: 6fc524a4679846582b50b515d94187b8 (MD5)   Previous issue date: 2001-07-23"
+  ],
+  "handle": "28540",
+  "identifier_other": "etd-08062001-165600",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08062001-165600/",
+  "identifier_uri": "http://hdl.handle.net/10919/28540",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "K-function",
+    "Red-cockaded Woodpecker",
+    "Kernel Estimation",
+    "Periodogram",
+    "Intensity Measures",
+    "Spectral Analysis",
+    "Homerange Analysis"
+  ],
+  "title": "First- and Second-Order Properties of Spatiotemporal Point Patterns in the Space-Time and Frequency Domains",
+  "type": "Dissertation"
+}

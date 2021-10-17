@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Niese, Elizabeth M",
+  "contributor_committeechair": "Loehr, Nicholas A.",
+  "contributor_committeemember": [
+    "Haskell, Peter E.",
+    "Green, Edward L.",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:09:07Z",
+  "date_adate": "2010-04-27",
+  "date_available": "2014-03-14T20:09:07Z",
+  "date_issued": "2010-03-30",
+  "date_rdate": "2010-04-27",
+  "date_sdate": "2010-04-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The original Macdonald polynomials $P_\\mu$ form a basis for the vector space of symmetric functions which specializes to several of the common bases such as the monomial, Schur, and elementary bases. There are a number of different types of Macdonald polynomials obtained from the original $P_\\mu$ through a combination of algebraic and plethystic transformations one of which is the modified Macdonald polynomial $\\widetilde{H}_\\mu$. In this dissertation, we study a certain specialization $\\widetilde{F}_\\mu(q,t)$ which is the coefficient of $x_1x_2 ... x_N$ in $\\widetilde{H}_\\mu$ and also the Hilbert series of the Garsia-Haiman module $M_\\mu$. Haglund found a combinatorial formula expressing $\\widetilde{F}_\\mu$ as a sum of $n!$ objects weighted by two statistics. Using this formula we prove a $q,t$-analogue of the hook-length formula for hook shapes. We establish several new combinatorial operations on the fillings which generate $\\widetilde{F}_\\mu$. These operations are used to prove a series of recursions and divisibility properties for $\\widetilde{F}_\\mu$.",
+  "description_provenance": [
+    "Author Email: eniese@vt.edu",
+    "Advisor Email: phaskell@math.vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Advisor Email: nloehr@vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:07Z (GMT). No. of bitstreams: 1 Niese_EM_D_2010.pdf: 422762 bytes, checksum: 62e1d82436a5d95aab2bf8c853c18957 (MD5)   Previous issue date: 2010-03-30"
+  ],
+  "handle": "26702",
+  "identifier_other": "etd-04082010-090925",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04082010-090925/",
+  "identifier_uri": "http://hdl.handle.net/10919/26702",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Niese_EM_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "permutation statistics",
+    "tableaux",
+    "symmetric functions",
+    "Macdonald polynomials"
+  ],
+  "title": "Combinatorial Properties of the Hilbert Series of Macdonald Polynomials",
+  "type": "Dissertation"
+}

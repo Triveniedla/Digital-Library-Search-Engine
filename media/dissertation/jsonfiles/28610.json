@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Betts, Juan Fernando",
+  "contributor_committeechair": "Kelly, J.",
+  "contributor_committeemember": [
+    "Thomas, Russell H.",
+    "Parrott, T.",
+    "Fuller, Christopher R.",
+    "Saunders, William R.",
+    "Jones, Mark T."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:02Z",
+  "date_adate": "2000-08-17",
+  "date_available": "2014-03-14T20:15:02Z",
+  "date_issued": "2000-07-28",
+  "date_rdate": "2001-08-17",
+  "date_sdate": "2000-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The study of normal impedance of perforated plate acoustic liners including the effect of bias flow was studied. Two impedance models were developed, by modeling the internal flows of perforate orifices as infinite tubes with the inclusion of end corrections to handle finite length effects. These models assumed incompressible and compressible flows, respectively, between the far field and the perforate orifice.  The incompressible model was used to predict impedance results for perforated plates with percent open areas ranging from 5% to 15%. The predicted resistance results showed better agreement with experiments for the higher percent open area samples. The agreement also tended to deteriorate as bias flow was increased.   For perforated plates with percent open areas ranging from 1% to 5%, the compressible model was used to predict impedance results. The model predictions were closer to the experimental resistance results for the 2% to 3% open area samples. The predictions tended to deteriorate as bias flow was increased.  The reactance results were well predicted by the models for the higher percent open area, but deteriorated as the percent open area was lowered (5%) and bias flow was increased.  A fit was done on the incompressible model to the experimental database. The fit was performed using an optimization routine that found the optimal set of multiplication coefficients to the non-dimensional groups that minimized the least squares slope error between predictions and experiments.  The result of the fit indicated that terms not associated with bias flow required a greater degree of correction than the terms associated with the bias flow. This model improved agreement with experiments by nearly 15% for the low percent open area (5%) samples when compared to the unfitted model. The fitted model and the unfitted model performed equally well for the higher percent open area (10% and 15%).",
+  "description_provenance": [
+    "Author Email: jfbetts@excite.com",
+    "Advisor Email: r.h.thomas@larc.nasa.gov",
+    "Advisor Email: t.l.parrott@larc.nasa.gov",
+    "Advisor Email: c.r.fuller@larc.nasa.gov",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: m.g.jones@larc.nasa.gov",
+    "Advisor Email: jkelly@vces.larc.nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:15:02Z (GMT). No. of bitstreams: 1 etd.pdf: 8758897 bytes, checksum: 1c92f3584bde4a876b65f5bb47ea867d (MD5)   Previous issue date: 2000-07-28"
+  ],
+  "handle": "28610",
+  "identifier_other": "etd-08112000-13390026",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112000-13390026/",
+  "identifier_uri": "http://hdl.handle.net/10919/28610",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Bias Flow",
+    "Perforated Plates",
+    "Acoustic Liners",
+    "Impedance"
+  ],
+  "title": "Experiments and Impedance Modeling of Liners Including The Effect of Bias Flow",
+  "type": "Dissertation"
+}

@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Lyman, Edward",
+  "contributor_committeechair": "Schmittmann, Beate",
+  "contributor_committeemember": [
+    "Zia, Royce K. P.",
+    "Ducker, William A.",
+    "Tauber, Uwe C.",
+    "Indebetouw, Guy J."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:11:28Z",
+  "date_adate": "2004-05-05",
+  "date_available": "2014-03-14T20:11:28Z",
+  "date_issued": "2004-04-28",
+  "date_rdate": "2005-05-05",
+  "date_sdate": "2004-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We study the phase diagram of an interacting lattice gas of two species of particles and holes, driven out of equilibrium by a local hopping bias (denoted by `E').  Particles interact by excluded volume and nearest-neighbor attractions. We present a detailed Monte Carlo investigation of the phase diagram. Three phases are found, with a homogenous phase at high temperatures and two distinct ordered phases at lower temperatures. Which ordered phase is observed depends on the parameter f, which controls the ratio of the two types of particles. At small f, there is nearly a single species, and a transition is observed into a KLS-type ordered phase. At larger f, the minority species are sufficiently dense to form a transverse blockage, and a sequence of two transitions are observed as the temperature is lowered.  First, a continuous boundary is crossed into an SHZ-type ordered phase, then at a lower temperature a first-order boundary is crossed into the KLS-type ordered phase. At some critical value of f is a bicritical point, where the first-order line branches from the two continuous boundaries. We also consider correlations in the homogenous phase,  by constructing a continuum description and comparing to the results of simulations. Long range correlations are present in both the theoretical results and the simulations, though certain details of the theory do not fit the observations very well. Finally, we examine the beahvior of three-point correlations in the single-species (KLS) limit. Nontrivial three-point correlations are directly related to the nonzero bias E. We therefore consider the behavior of the three-point correlations as a function of E. We find that the three-point signal saturates very rapidly with E. There are some difficulties interpreting the data at small E.",
+  "description_provenance": [
+    "Author Email: elyman@vt.edu",
+    "Advisor Email: rkpzia@vt.edu",
+    "Advisor Email: schmittm@vt.edu",
+    "Advisor Email: wducker@vt.edu",
+    "Advisor Email: tauber@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:28Z (GMT). No. of bitstreams: 9 e20n5.mpg: 1672910 bytes, checksum: 7fc6f7955c3ab18fb8c2fd1aa7ec2af0 (MD5) e20n10.mpg: 2387473 bytes, checksum: 297f134187c101fd921a5c16cdaf895d (MD5) e20disorder.mpg: 1672827 bytes, checksum: 2ff554cfc55a190865c45da5a6b84a97 (MD5) e2first.mpg: 1672513 bytes, checksum: 4fa8e8b7ced269d195c48a04dd7e3e36 (MD5) e2n50.mpg: 1672669 bytes, checksum: d521a91254261603cf886df893804109 (MD5) bigd2.pdf: 756651 bytes, checksum: 494c80eecb2c06b096ea5332d198401a (MD5) smalln.mpg: 1672742 bytes, checksum: 2e8f049cba686324aa1f8f704e26010d (MD5) e2vert.mpg: 1646699 bytes, checksum: 18b35eaedce2ef3c8a0e24d0d0386cdb (MD5) competition.mpg: 1672776 bytes, checksum: 6ea57bb6c79136081b0494806efa4781 (MD5)   Previous issue date: 2004-04-28"
+  ],
+  "handle": "27513",
+  "identifier_other": "etd-05032004-155359",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032004-155359/",
+  "identifier_uri": "http://hdl.handle.net/10919/27513",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "e20n5.mpg",
+    "e20n10.mpg",
+    "e20disorder.mpg",
+    "e2first.mpg",
+    "e2n50.mpg",
+    "bigd2.pdf",
+    "smalln.mpg",
+    "e2vert.mpg",
+    "competition.mpg"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "nonequilibrium phase transition",
+    "Monte Carlo simulation",
+    "Driven lattice gas"
+  ],
+  "title": "Phase Diagram of a Driven Lattice Gas of Two Species with Attractive Interactions",
+  "type": "Dissertation"
+}

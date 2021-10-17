@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Lee, Unghee",
+  "contributor_committeechair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Hou, Yiwei Thomas",
+    "Chen, Ing-Ray",
+    "DaSilva, Luiz A.",
+    "Bostian, Charles W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:31Z",
+  "date_adate": "2006-08-02",
+  "date_available": "2014-03-14T20:13:31Z",
+  "date_issued": "2006-06-14",
+  "date_rdate": "2006-08-02",
+  "date_sdate": "2006-06-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Wireless mobile ad-hoc networks consist of a collection of peer mobile nodes that form a network and are capable of communicating with each other without help from stationary infrastructure such as access points.  The availability of low-cost, com-modity network interface cards (NICs) has made the IEEE 802.11 medium access control (MAC) protocol the de facto MAC protocol for wireless mobile ad-hoc net-works, even though it is not optimal.  The IEEE 802.11 MAC protocol is designed to have stations share a single channel in a given network.  However, many of the IEEE 802.11 physical (PHY) layer specifications define multiple channels and allow the simultaneous, non-interfering use of some of these channels.  Therefore, multiple communications can occur at the same time, offering the opportunity to increase the effective network capacity.  We present an innovative routing protocol that utilizes multiple channels to im-prove the performance of wireless ad-hoc networks.  The basic idea of the protocol is to use multiple channels so that multiple useful transmissions can occur simultane-ously, thus increasing network capacity.  The proposed scheme requires minor changes to existing proactive ad-hoc routing protocols and no modifications to the current IEEE 802.11 MAC protocol.  To reduce inefficiencies due to periodic updates in the proactive routing protocols, the proposed scheme divides the network layer into control and data planes.  Nodes send routing updates using the control channel and user packets using the data channel. To demonstrate the multi-channel routing scheme, we extend the Destination-Sequenced Distance-Vector (DSDV), Open Shortest Path First-Minimal Connected Dominating Set (OSPF-MCDS), and Optimized Link State Routing (OLSR) protocol to multiple channel (MC) versions, denoted as DSDV-MC, OSPF-MCDS-MC, and OLSR-MC, respectively.  Simulation results for DSDV-MC, OSPF-MCDS-MC, and OLSR-MC are presented and experimental results for OLSR-MC are presented.  Simulation results indicate that DSDV-MC and OSPF-MCDS-MC effectively exploit multiple channels to improve network capacity.  Goodput, the throughput consider-ing only useful error-free packets, increases with an increased number of available channels as the number of nodes and network load increase in both single-hop and multiple-hop networks.  Experimental results with OLSR-MC also support that the proposed scheme increases network capacity without modification to the MAC proto-col in a real implementation. Although simulation and experimental results show that proposed scheme im-proves network capacity by exploiting multiple channels, problems exist with channel distribution.  We introduce a new metric, the Channel Distribution Index (CDI) to in-vestigate these issues.  The CDI indicates the fairness of the channel distribution.  We identify the channel convergence problem, where a particular channel is over-utilized, and propose a channel reallocation scheme to mitigate the impact of the channel convergence problem using the CDI.",
+  "description_provenance": [
+    "Author Email: ulee@vt.edu",
+    "Advisor Email: hou@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:31Z (GMT). No. of bitstreams: 1 ungheeLEEdissertation.pdf: 1002525 bytes, checksum: 01922ba72d16100a6a9f64c88decaada (MD5)   Previous issue date: 2006-06-14"
+  ],
+  "handle": "28127",
+  "identifier_other": "etd-06262006-091312",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06262006-091312/",
+  "identifier_uri": "http://hdl.handle.net/10919/28127",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ungheeLEEdissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Virtual Interface Module",
+    "Channel Selection Algorithm",
+    "DSDV-MC",
+    "OSPF-MCDS-MC",
+    "OLSR-MC",
+    "Multiple Interfaces",
+    "Ad-hoc",
+    "MANET",
+    "Multiple-channel"
+  ],
+  "title": "A Proactive Routing Protocol for Multi-Channel Wireless Ad-hoc Networks",
+  "type": "Dissertation"
+}

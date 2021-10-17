@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Kim, Woon  Kyung",
+  "contributor_committeechair": "Kurdila, Andrew J.",
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Priya, Shashank",
+    "Burns, John A.",
+    "Erturk, Alper"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:11Z",
+  "date_adate": "2012-08-21",
+  "date_available": "2014-03-14T20:15:11Z",
+  "date_issued": "2012-08-06",
+  "date_rdate": "2012-08-21",
+  "date_sdate": "2012-08-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This study deals with a general method for the analysis of a semi-active control technique for a fast-shunt switching system. The benefit of the semi-active system is the reduction in power consumption, which is a significant disadvantage of a fully active system compared with a passive system.  A semi-active system under consideration is a semi-actively shunted piezoelectric system, which converts the strain energy into electrical energy through strong electromechanical coupling achieved though the piezoelectric phenomenon.  Our proposed semi-active approach combines a PZT-based energy harvesting with a fast switching system driven by a Pulse-Width Modulated (PWM) signal. The fast switching system enables continuous adaptation of vibration energy control/harvesting by varying the PWM duty cycle.  This contrasts with a conventional capacitance switching system that can only change the capacitance at discrete values.   The analysis of the current piezoelectric system combined with a fast-switching system poses a considerable challenge as it contains both continuous and discrete characteristics.  The study proposes an enhanced averaging method for analyzing the piecewise linear system. The simulation of the averaged system is much faster than that of the time-varying system. Moreover, the analysis derives error bounds that characterize convergence in the time domain of the averaged system to the original system. The dissertation begins with the derivation of the equations governing the physics of a piezostructure combined with an electrical switching shunt network. The results of the averaging analysis and numerical simulation are presented in order to provide a basis for estimating the structural responses that range between open- and short-circuit conditions which constitutes two limiting conditions. An experimental study demonstrates that the capacitive shunt bimorph piezostructure coupled with a single switch can be adjusted continuously by varying the PWM duty cycle.  And the behavior of such hybrid system can be well predicted by the averaging analysis.",
+  "description_provenance": [
+    "Author Email: woonkim@vt.edu",
+    "Advisor Email: kurdila@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: spriya@vt.edu",
+    "Advisor Email: jaburns@math.vt.edu",
+    "Advisor Email: alper.erturk@me.gatech.edu",
+    "Made available in DSpace on 2014-03-14T20:15:11Z (GMT). No. of bitstreams: 3 Kim_WK_D_2012.pdf: 1815347 bytes, checksum: c7da14b38dbc3d6bfa5179e6f767e2e2 (MD5) fig1p1a_fairuse_results.pdf: 31062 bytes, checksum: 44fe173edfae8ec5bc298d1f4dd6639d (MD5) fig1p1b_fairuse_results.pdf: 31058 bytes, checksum: c5ea49d31bb8115454d1788cfcbcdfb6 (MD5)   Previous issue date: 2012-08-06"
+  ],
+  "handle": "28646",
+  "identifier_other": "etd-08132012-110953",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08132012-110953/",
+  "identifier_uri": "http://hdl.handle.net/10919/28646",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Kim_WK_D_2012.pdf",
+    "fig1p1a_fairuse_results.pdf",
+    "fig1p1b_fairuse_results.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PWM signal",
+    "averaging method",
+    "switching circuit systems",
+    "energy harvesting",
+    "piezoelectric material",
+    "hybrid continuous-discrete system"
+  ],
+  "title": "Design and Analysis of Switching Circuits for Energy Harvesting in Piezostrutures",
+  "type": "Dissertation"
+}

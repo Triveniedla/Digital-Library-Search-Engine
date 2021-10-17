@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Clay, Stephen Brett",
+  "contributor_committeechair": "Kander, Ronald G.",
+  "contributor_committeemember": [
+    "Henneke, Edmund G. II",
+    "Love, Brian J.",
+    "Thangjitham, Surot",
+    "Dowling, Norman E."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:15:11Z",
+  "date_adate": "2000-09-06",
+  "date_available": "2014-03-14T20:15:11Z",
+  "date_issued": "2000-08-03",
+  "date_rdate": "2001-09-06",
+  "date_sdate": "2000-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this study was to characterize the craze growth behavior of polycarbonate (PC) as a function of stress level, model the residual mechanical properties of PC at various craze levels and strain rates, and determine if the total surface area of crazing is the sole factor in residual properties or if the crazing stress plays a role.  To obtain these goals, a new in-situ reflective imaging technique was developed to quantify the craze severity in transparent polymers.  To accomplish the goal of craze growth rate characterization, polycarbonate samples were placed under a creep load in a constant temperature, constant humidity environment.  Using the new technique, the relative craze density was measured as a function of time under load at stresses of 40, 45, and 50 MPa. The craze growth rates were found to increase exponentially with stress level, and the times to 1% relative craze density were found to decrease exponentially with stress level.  One exception to this behavior was found at a crazing stress of 50 MPa at which over half of the samples tested experienced delayed necking, indicating competitive mechanisms of crazing and shear yielding.  The draw stress was found to be a lower bound below which delayed necking will not occur in a reasonable time frame.  The yield stress, elastic modulus, failure stress, and ductility were correlated to crazing stress, relative craze density, and strain rate using a Design of Experiments (DOE) approach.  The yield stress was found to correlate only to the strain rate, appearing to be unaffected by the presence of crazes.  No correlation was found between the elastic modulus and the experimental factors.  The failure stress was found to decrease with an increase in relative craze density from 0 to 1%, increase with an increase in crazing stress from 40 to 45 MPa, and correlate to the interaction between the crazing stress and the strain rate.  The ductility of polycarbonate was found to decrease significantly with an increase in relative craze density, a decrease in crazing stress, and an increase in strain rate.  The craze microstructure was correlated to the magnitude of stress during craze formation.  The area of a typical craze formed at 40 MPa was measured to be more than 2.5 times larger than the area of a typical craze formed at 45 MPa.  The fewer, but larger, crazes formed at the lower stress level were found to decrease the failure strength and ductility of polycarbonate more severely than the large number of smaller crazes formed at the higher stress level.",
+  "description_provenance": [
+    "Author Email: sclay@vt.edu",
+    "Advisor Email: henneke@vt.edu",
+    "Advisor Email: blove@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: ndowling@vt.edu",
+    "Advisor Email: rkander@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:11Z (GMT). No. of bitstreams: 1 etd.pdf: 1432466 bytes, checksum: b9163dda8413cb33d8f8f0c5d87ce4a0 (MD5)   Previous issue date: 2000-08-03"
+  ],
+  "handle": "28648",
+  "identifier_other": "etd-08142000-13410044",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142000-13410044/",
+  "identifier_uri": "http://hdl.handle.net/10919/28648",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "technique",
+    "Design of Experiments (DOE)",
+    "mechanical properties",
+    "microstructure",
+    "polycarbonate",
+    "crazing"
+  ],
+  "title": "Characterization of Crazing Properties of Polycarbonate",
+  "type": "Dissertation"
+}

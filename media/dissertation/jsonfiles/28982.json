@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Yang, Bo",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Lai, Jason",
+    "Huang, Alex Q.",
+    "Lu, Guo-Quan",
+    "Boroyevich, Dushan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:17Z",
+  "date_adate": "2003-09-19",
+  "date_available": "2014-03-14T20:16:17Z",
+  "date_issued": "2003-09-12",
+  "date_rdate": "2003-09-19",
+  "date_sdate": "2003-09-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Topology Investigation of Front End DC/DC Power Conversion for Distributed Power System  by Bo Yang Fred C. Lee, Chairman Electrical Engineering  (Abstract)  With the fast advance in VLSI technology, smaller, more powerful digital system is available. It requires power supply with higher power density, lower profile and higher efficiency. PWM topologies have been widely used for this application. Unfortunately, hold up time requirement put huge penalties on the performance of these topologies. Also, high switching loss limited the power density achievable for these topologies. Two techniques to deal with hold up time issue are discussed in this dissertation: range winding solution and asymmetric winding solution, the efficiency at normal operation point could be improved with these methods. To reduce secondary rectifier conduction loss, QSW synchronous rectifier is developed, which also helps to achieve ZVS for symmetrical half bridge converter. Although with these methods, the efficiency of front end DC/DC converter could be improved, the excessive switching loss prohibited higher switching frequency. To achieve the targets, topologies with high switching frequency and high efficiency must be developed. Three resonant topologies:  SRC, PRC and SPRC, are been investigated for this application because of their fame of low switching loss. Unfortunately, to design with hold up requirement, none of them could provide significant improvements over PWM converter. Although the negative outcome, the desired characteristic for front end application could be derived. Base on the desired characteristic, a thorough search is performed for three elements resonant tanks. LLC resonant topology is found to posses the desired characteristic. From comparison, LLC resonant converter could reduce the total loss by 40% at same switching frequency. With doubled switching frequency, efficiency of LLC resonant converter is still far better than PWM converters. To design the power stage of LLC resonant converter, DC analysis is performed with two methods: simulation and fundamental component simplification. Magnetic design is also discussed. The proposed integrated magnetic structure could achieve smaller volume, higher efficiency and easy manufacture. To make practical use of the topology, over load protection is a critical issue. Three methods to limit the stress under over load situation are discussed. With these methods, the converter could not only survive the over load condition, but also operate for long time under over load condition. Next small signal characteristic of the converter is investigated in order to design the feedback control. For resonant converter, state space average method is no longer valid. Two methods are used to investigate the small signal characteristic of LLC resonant converter: simulation and extended describing function method. Compare with test results, both methods could provide satisfactory results. To achieve both breadth and depth, two methods are both used to reveal the myth. With this information, compensator for feedback control could be designed. Test circuit of LLC resonant converter was developed for front end DC/DC application. With LLC topology, power density of 48W/in3 could be achieved compare with 13W/in3 for PWM converter.",
+  "description_provenance": [
+    "Author Email: boyang@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:17Z (GMT). No. of bitstreams: 9 Coverpage.pdf: 44361 bytes, checksum: b60946030e8b184977f67af6ffe510fc (MD5) Ch1.pdf: 978894 bytes, checksum: 0073d87cee85cb336dde54849a6f0f67 (MD5) Ch2.pdf: 2458424 bytes, checksum: 476298ccaac0b7e99ce595900b39cb75 (MD5) Ch3.pdf: 1478049 bytes, checksum: 8dc50c5254e184921cbef11ae1ca67f4 (MD5) Ch7.pdf: 144126 bytes, checksum: 09c561b029a45ac94e2735ffb44c9a56 (MD5) Ch4.pdf: 2552265 bytes, checksum: c6712ce3394b517f8152e9738830f5d5 (MD5) Ch5.pdf: 2218045 bytes, checksum: 7efb878a10deb52b51d89a069d878369 (MD5) Ch6.pdf: 3617324 bytes, checksum: 8c24f2e2df89df0230e4d99271ea5913 (MD5) RefAppendixVita.pdf: 4543366 bytes, checksum: 4edb056a72342b41b77f70a2d257c604 (MD5)   Previous issue date: 2003-09-12"
+  ],
+  "handle": "28982",
+  "identifier_other": "etd-09152003-180228",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09152003-180228/",
+  "identifier_uri": "http://hdl.handle.net/10919/28982",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Coverpage.pdf",
+    "Ch1.pdf",
+    "Ch2.pdf",
+    "Ch3.pdf",
+    "Ch7.pdf",
+    "Ch4.pdf",
+    "Ch5.pdf",
+    "Ch6.pdf",
+    "RefAppendixVita.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "resonant converter",
+    "small signal model",
+    "integrated magnetic",
+    "DC/DC converter",
+    "distributed power system"
+  ],
+  "title": "Topology investigation of front end DC/DC converter for distributed power system",
+  "type": "Dissertation"
+}

@@ -1,0 +1,60 @@
+{
+  "contributor_author": "Parker, Peter A.",
+  "contributor_committeecochair": [
+    "Vining, G. Geoffrey",
+    "Kowalski, Scott M."
+  ],
+  "contributor_committeemember": [
+    "Anderson-Cook, Christine M.",
+    "Reynolds, Marion R. Jr.",
+    "Woodall, William H."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:08:38Z",
+  "date_adate": "2005-03-31",
+  "date_available": "2014-03-14T20:08:38Z",
+  "date_issued": "2005-03-29",
+  "date_rdate": "2010-10-13",
+  "date_sdate": "2005-03-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Practical restrictions on randomization are commonplace in industrial experiments due to the presence of hard-to-change or costly-to-change factors.  Employing a split-plot design structure minimizes the number of required experimental settings for the hard-to-change factors.  In this research, we propose classes of equivalent estimation second-order response surface split-plot designs for which the ordinary least squares estimates of the model are equivalent to the generalized least squares estimates.  Designs that possess the equivalence property enjoy the advantages of best linear unbiased estimates and design selection that is robust to model misspecification and independent of the variance components.  We present a generalized proof of the equivalence conditions that enables the development of several systematic design construction strategies and provides the ability to verify numerically that a design provides equivalent estimates, resulting in a broad catalog of designs.  We explore the construction of balanced and unbalanced split-plot versions of the central composite and Box-Behnken designs.  In addition, we illustrate the utility of numerical verification in generating D-optimal and minimal point designs, including split-plot versions of the Notz, Hoke, Box and Draper, and hybrid designs.  Finally, we consider the practical implications of analyzing a near-equivalent design when a suitable equivalent design is not available.  By simulation, we compare methods of estimation to provide a practitioner with guidance on analysis alternatives when a best linear unbiased estimator is not available.  Our goal throughout this research is to develop practical experimentation strategies for restricted randomization that are consistent with the philosophy of traditional response surface methodology.",
+  "description_provenance": [
+    "Author Email: peparke1@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: SKowalski@minitab.com",
+    "Advisor Email: candcook@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:38Z (GMT). No. of bitstreams: 10 Dissertation_PAP.pdf: 461928 bytes, checksum: 5147dc85c40b4f9bdb50b1d1b793afd7 (MD5) Unbalanced_SCDs.xls: 20992 bytes, checksum: 73f6a55d82443897b9a6cea5c7a3e9aa (MD5) Catalog_Description.pdf: 22614 bytes, checksum: 9e9b67f592bd0136947aa259e755783b (MD5) Equivalent_SplitPlot_Designs.pdf: 213892 bytes, checksum: ee58fcdf66b32865c2865f1dfca003ae (MD5) Minimal_Point_Designs.xls: 251904 bytes, checksum: 9839447a12e4524e5686872520b792e6 (MD5) Unbalanced_BBDs.xls: 81408 bytes, checksum: 8104ed1676e7c953e164d46bbdcf7372 (MD5) Unbalanced_CCDs.xls: 51712 bytes, checksum: 9d23ebb48e4792a86a31f6dda162f8c2 (MD5) Balanced_CCDs.xls: 169472 bytes, checksum: ce80941cc2cbe52252871dbf541978b7 (MD5) Balanced_BBDs.xls: 116224 bytes, checksum: 858465b0b30852738507d58d1f2dbbd7 (MD5) Balanced_Dopt_SCD_Equiradial.xls: 76800 bytes, checksum: 378b463f65f0f8586812c9d50971a621 (MD5)   Previous issue date: 2005-03-29"
+  ],
+  "handle": "26555",
+  "identifier_other": "etd-03302005-194026",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03302005-194026/",
+  "identifier_uri": "http://hdl.handle.net/10919/26555",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Dissertation_PAP.pdf",
+    "Unbalanced_SCDs.xls",
+    "Catalog_Description.pdf",
+    "Equivalent_SplitPlot_Designs.pdf",
+    "Minimal_Point_Designs.xls",
+    "Unbalanced_BBDs.xls",
+    "Unbalanced_CCDs.xls",
+    "Balanced_CCDs.xls",
+    "Balanced_BBDs.xls",
+    "Balanced_Dopt_SCD_Equiradial.xls"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Response Surface Methodology",
+    "Restricted Randomization",
+    "Split-Plot Design",
+    "Equivalent Estimation",
+    "Box-Behnken",
+    "Central Composite"
+  ],
+  "title": "Response Surface Design and Analysis in the Presence of Restricted Randomization",
+  "type": "Dissertation"
+}

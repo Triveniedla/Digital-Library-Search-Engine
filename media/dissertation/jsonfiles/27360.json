@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ouzzani, Mourad",
+  "contributor_committeechair": "Bouguettaya, Athman",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Chen, Ing-Ray",
+    "Barkhi, Reza",
+    "Fox, Edward Alan"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:11:03Z",
+  "date_adate": "2004-05-05",
+  "date_available": "2014-03-14T20:11:03Z",
+  "date_issued": "2004-01-16",
+  "date_rdate": "2004-05-05",
+  "date_sdate": "2004-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This  dissertation  addresses   issues   for   the efficient    access    to   Web    databases   and services.  We propose a distributed ontology for a meaningful organization of  and  efficient  access to  Web databases.   Next,  we  dedicate  most  of our  work  on  presenting  a  comprehensive  query infrastructure for the  emerging  concept  of  Web services.   The  core of this query infrastructure is  to  enable  the  efficient  delivery  of   Web services  based  on   the  concept  of Quality  of Web  Service.   Treating  Web  services  as  first class   objects     is     a    fundamental   step towards   achieving    the  envisioned    Semantic Web. Semantics-aware      processing      of information  requires   intensive   use   of   Web services.   In    our  research,   we   propose  a new  query  model  where queries are resolved   by combining     Web     service   invocations.    To efficiently   deploy   such   scheme,  we  propose an  optimization  strategy  based  on  aggregating Quality  of Web  service   (QoWS)  of    different Web    services.    QoWS  is  adjusted  through  a dynamic   rating     scheme     and     multilevel matching.     Web  service    rating   provides an assessment  of  their  behavior.   The  multilevel matching     allows   a   larger   solution  space by enabling similar and partial answers.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "Author Email: mourad@vt.edu",
+    "Advisor Email: ramakris@cs.vt.edu",
+    "Advisor Email: irchen@cs.vt.edu",
+    "Advisor Email: reza@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: athman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:03Z (GMT). No. of bitstreams: 1 mourad.ouzzani.pdf: 2260568 bytes, checksum: 54fab90f3364389b35c1b67994513aa3 (MD5)   Previous issue date: 2004-01-16"
+  ],
+  "handle": "27360",
+  "identifier_other": "etd-04272004-124255",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272004-124255/",
+  "identifier_uri": "http://hdl.handle.net/10919/27360",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mourad.ouzzani.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Web Databases",
+    "Query Optimization",
+    "Semantic Web",
+    "Web Services"
+  ],
+  "title": "Efficient Delivery of Web Services",
+  "type": "Dissertation"
+}

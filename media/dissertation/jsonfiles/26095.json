@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Zhang, Bin",
+  "contributor_committeecochair": [
+    "Thorp, James S.",
+    "Huang, Alex Q."
+  ],
+  "contributor_committeemember": [
+    "van Wyk, Jacobus Daniel",
+    "Lai, Jason",
+    "Liu, Yilu",
+    "Nelson, Douglas J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:05Z",
+  "date_adate": "2005-02-11",
+  "date_available": "2014-03-14T20:07:05Z",
+  "date_issued": "2005-01-21",
+  "date_rdate": "2010-10-12",
+  "date_sdate": "2005-02-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Advancements in the power electronics systems have been directly related to the availability of improved power semiconductor devices. The device performance greatly determines the efficiency, reliability, volume, and cost of the power electronics system. This dissertation is dedicated to develop an advanced high power semiconductor device, the emitter turn-off (ETO) thyristor, which is targeted to improve the limitations of the present high power devices. </p><p> Major improvements in electrical and mechanical designs of the ETO for high power and high frequency operation are proposed which result in improved snubberless turn-off capability, low conduction loss, and low gate drive power consumption of the new generation ETO.  </p><p> A revolutionary self-power generation method of the ETO is proposed. Different from the conventional high power devices which require the external power input for their gate drivers, ETO achieves complete optically controlled turn-on and turn-off and all the internal power required is self-generated. This advancement will have a major impact to high power converter designs. </p><p> A novel integrated method to eliminate the dead-time requirement is proposed for ETO. This method not only improves the output waveform quality but also increases the reliability and reduces the cost of the high power PWM voltage source converters. With this unique function, the upper and the lower ETOâ  s within a converter phase leg can receive the ideal complementary (without dead-time) PWM signals and solve shoot-through problems. </p><p> Method to measure the ETO current and transfer the current information to a PWM signal is proposed. Based on the ETOâ  s built-in current sensor, the over-current protection function of the ETO is designed as well. The experimental results show that the built-in current sensor has a very high precision, and the over-current protection function can effectively protect the ETO during the short circuit faults. </p><p> In order to improve ETOâ  s turn-off capability, a comprehensive investigation of the turn-off failure mechanism of the ETO was performed. A series of simulations and experiments are carried out to study the ETO turn-off operation. The detail turn-off failure mechanisms are presented. The conditions to cause the ETO failure are addressed. The approaches to improve the ETOâ  s turn-off capability are discussed.</p>",
+  "description_provenance": [
+    "Author Email: bizhang@vt.edu",
+    "Advisor Email: aqhuang@ncsu.edu",
+    "Made available in DSpace on 2014-03-14T20:07:05Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 2655819 bytes, checksum: d822dafd05818b1b854f1a830201f1dc (MD5)   Previous issue date: 2005-01-21"
+  ],
+  "handle": "26095",
+  "identifier_other": "etd-02022005-200417",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02022005-200417/",
+  "identifier_uri": "http://hdl.handle.net/10919/26095",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Emitter Turn-off Thyristor",
+    "Gate Turn-off Thyristor",
+    "Hard-driven GTO",
+    "Voltage Source Converter"
+  ],
+  "title": "Development of the Advanced Emitter Turn-Off (ETO) Thyristor",
+  "type": "Dissertation"
+}

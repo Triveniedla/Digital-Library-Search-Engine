@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Boone, Edward L",
+  "contributor_committeechair": "Ye, Keying",
+  "contributor_committeemember": [
+    "Anderson-Cook, Christine M.",
+    "Terrell, George R.",
+    "Prins, Samantha C. Bates",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:07:13Z",
+  "date_adate": "2003-02-14",
+  "date_available": "2014-03-14T20:07:13Z",
+  "date_issued": "2003-01-31",
+  "date_rdate": "2004-02-14",
+  "date_sdate": "2003-02-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ecological data is often fraught with many problems such as Missing Data and Spatial Correlation.  In this dissertation we use a data set collected by the Ohio EPA as motivation for studying techniques to address these problems.  The data set is concerned with the benthic health of Ohio's waterways.  A new method for incorporating covariate structure and missing data mechanisms into missing data analysis is considered.  This method allows us to detect relationships other popular methods do not allow.  We then further extend this method into model selection.  In the special case where the unobserved covariates are assumed normally distributed we use the Bayesian Model Averaging method to average the models, select the highest probability model and do variable assessment.  Accuracy in calculating the posterior model probabilities using the Laplace approximation and an approximation based on the Bayesian Information Criterion (BIC) are explored.  It is shown that the Laplace approximation is superior to the BIC based approximation using simulation.  Finally, Hierarchical Spatial Linear Models are considered for the data and we show how to combine analysis which have spatial correlation within and between clusters.",
+  "description_provenance": [
+    "Author Email: eboone@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: sbates@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:13Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1772419 bytes, checksum: eefc8d43b9afaffde88f366592d459d9 (MD5)   Previous issue date: 2003-01-31"
+  ],
+  "handle": "26141",
+  "identifier_other": "etd-02072003-143850",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02072003-143850/",
+  "identifier_uri": "http://hdl.handle.net/10919/26141",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Ecological Statistics",
+    "Bayesian Model Averaging",
+    "Hierarchical Models",
+    "Missing at Random"
+  ],
+  "title": "Bayesian Methodology for Missing Data, Model Selection and Hierarchical Spatial Models with Application to Ecological Data.",
+  "type": "Dissertation"
+}

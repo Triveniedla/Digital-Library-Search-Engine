@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Gong, Michelle Xiaohong",
+  "contributor_committeechair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Buehrer, Richard Michael",
+    "DaSilva, Luiz A.",
+    "Koelling, Charles Patrick",
+    "Chen, Ing-Ray"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:10Z",
+  "date_adate": "2005-07-07",
+  "date_available": "2014-03-14T20:13:10Z",
+  "date_issued": "2005-06-07",
+  "date_rdate": "2005-07-07",
+  "date_sdate": "2005-06-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<html> <body>  <p>Despite recent advances in wireless local area network (WLAN) technologies, today's WLANs still cannot offer the same data rates as their wired counterparts.  The throughput problem is further aggravated in multi-hop wireless environments due to collisions and interference caused by multi-hop routing. Because all current IEEE 802.11 physical (PHY) standards divide the available frequency into several orthogonal channels, which can be used simultaneously within a neighborhood, increasing capacity by exploiting multiple channels becomes particularly appealing.</p>  <p>To improve the capacity of wireless ad hoc networks by exploiting multiple available channels, I propose three principles that facilitate the design of efficient distributed channel assignment protocols. Distributed channel assignment problems have been proven to be <em>NP</em>-complete and, thus, computationally intractable. Though being a subject of many years of research, distributed channel assignment remains a challenging problem. There exist only a few heuristic solutions, none of which is efficient, especially for the mobile ad hoc environment.  However, protocols that implement the proposed design principles are shown to require fewer channels and exhibit significantly lower communication, computation, and storage complexity, compared with existing approaches. As examples, I present two such protocols that build on standard reactive and proactive routing protocols. In addition, I prove the correctness of the algorithms and derive an upper bound on the number of channels required to both resolve collisions and mitigate interference.</p>  <p>A new multi-channel medium access control (MC-MAC) protocol is also proposed for multi-hop wireless ad hoc networks. MC-MAC is compatible with the IEEE 802.11 medium access control (MAC) standard and imposes the minimum system requirements among all existing multi-channel MAC protocols. In addition, simulation results show that even with only a single half-duplex transceiver, MC-MAC, by exploiting multiple channels, can offer up to a factor of four improvement in throughput over the IEEE 802.11 MAC protocol. The reduction in delay is even more significant. Therefore, the MC-MAC protocol and the accompanying distributed channel assignment protocols constitute an effective solution to the aforementioned performance problem in a multi-hop wireless network.</p>  <p>Finally, I generalize the cross-layer design principle to more general networking functions and present a network architecture to motivate and facilitate cross-layer designs in wireless networks. A literature survey is provided to validate the proposed cross-layer design architecture. Current cross-layer design research can be categorized into two classes: joint-layer design using optimization techniques, and adaptive techniques based on system-profile and/or QoS requirements. Joint-layer design based on optimization techniques can achieve optimal performance, but at the expense of complexity. Adaptive schemes may achieve relatively good performance with less complexity. Nevertheless, without careful design and a holistic view of the network architecture, adaptive schemes may actually cause more damage than benefit.</p>  </body> </html>",
+  "description_provenance": [
+    "Author Email: mgong@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:10Z (GMT). No. of bitstreams: 1 michelle_gong_dissertation.pdf: 1271688 bytes, checksum: cf344207b0188ee45780128d207ce808 (MD5)   Previous issue date: 2005-06-07"
+  ],
+  "handle": "28052",
+  "identifier_other": "etd-06162005-231245",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06162005-231245/",
+  "identifier_uri": "http://hdl.handle.net/10919/28052",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "michelle_gong_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wireless ad hoc networks",
+    "cross-layer design",
+    "Ad hoc routing protocol",
+    "multi-channel medium access control",
+    "distributed channel assignment"
+  ],
+  "title": "Improving the Capacity in Wireless Ad Hoc Networks through Multiple Channel Operation: Design Principles and Protocols",
+  "type": "Dissertation"
+}

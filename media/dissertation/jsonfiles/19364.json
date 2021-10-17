@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Xia, Rui",
+  "contributor_committeechair": "Beers, Eric P",
+  "contributor_committeemember": [
+    "Wolf, Anthony K",
+    "Liu, Zongrang",
+    "Zhao, Bingyu"
+  ],
+  "contributor_department": "Horticulture",
+  "date_accessioned": "2013-04-26T08:00:24Z",
+  "date_available": "2013-04-26T08:00:24Z",
+  "date_issued": "2013-04-25",
+  "degree_discipline": "Horticulture",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The unveiling of small RNA (sRNA)-mediated gene regulatory pathways has profoundly shaped our understanding of the complexity of gene regulation. In eukaryotes, sRNAs have been found to control cellular metabolism, growth and differentiation, to maintain genome integrity, and to combat viruses and mobile genetic elements. To gain insight into the roles of small RNAs in apple and peach, we conducted sRNA-seq, computational analysis and molecular experiments to genome-widely characterize their microRNAs (miRNAs) and trans-acting siRNA (tasiRNA) pathways. <br />We identified totally 75 miRNAs or families, including 23 conserved, 10 less-conserved and 42 apple-specific ones, and 118 miRNA target genes in apple. Two classical trans-acting siRNA (tasiRNA) pathways, miR390-TAS3 and miR828-TAS4, were characterized with similar but unique tasiRNA biogenesis profiles and target specificities. Importantly, miR159, miR828 and miR858 can collectively target up to 81 MYB genes potentially involved in diverse aspects of plant growth and development. In contrast to the location of the miR159 target site in a sequence-divergent region, the target sites of miR828 and miR858 are located in the region encoding the conserved R3 repeat domain of MYB proteins. 10 out of the 19 miR828-targeted MYBs undergo the biogenesis of various phased siRNA (phasiRNA), which potentially regulate diverse genes outside the MYB family. In peach, totally 94 miRNAs or families and 80 target genes were identified. Similar pathways of tasiRNA (miR828-TAS4 and miR390-TAS3) or phasiRNA (miR828-MYB-siRNA) processing were also characterized in peach.<br />Taking advantage of reverse computation and public available deep-sequencing data, we demonstrated that the miRNA-TAS-PPR-siRNA pathway is a highly dynamic and widespread feature of eudicots. Nine eudicot plants, representing six different plant families, have evolved similar tasiRNA pathways to instigate phasiRNA production from PPR ï¿½genes, which are triggered by different 22-nt miRNAs, including miR7122, miR1509, and fve-PPRtri1/2 and through distinct mechanistic strategies, like miRNA direct-targeting or indirect-targeting through TAS-like genes, one-hit or two-hit, or even two layers of tasiRNA-TAS interactions. We found that the MIRNA genes of these miRNA triggers show great identity with the Arabidopsis MIR173, implying a common origin of this group of miRNAs (super-miR7122). Combined results from phylogenetic analyses and conservation extent profiling revealed that the super-miR7122 was potentially evolved from another miRNA superfamily (super-miR4376), which probably originated from the miR390. Additionally, the miR482/2118-NB-LRR-siRNA pathway was found to be conserved, but evolved with distinct features, in apple and peach. <br />Taken together, widespread and complex miRNA and tasiRNA regulatory networks have been adapted in apple and peach. They add another crucial layer of regulation on gene activity and stability, and must exert essential functions in all aspects of plant life.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-26T08:00:24Z (GMT). No. of bitstreams: 2 Xia_R_D_2013.pdf: 13285194 bytes, checksum: 64e569a513d0a13d0b08d51a66aaeb31 (MD5) Xia_R_D_2013_support_3.rar: 95363 bytes, checksum: b219076e8556fd78669aaacf14f9b4e0 (MD5)   Previous issue date: 2013-04-25",
+  "format_medium": "ETD",
+  "handle": "19364",
+  "identifier_other": "vt_gsexam:471",
+  "identifier_uri": "http://hdl.handle.net/10919/19364",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "apple",
+    "peach",
+    "deep-sequencing",
+    "miRNA",
+    "tasiRNA",
+    "TAS",
+    "MYB",
+    "PHAS",
+    "phasiRNA",
+    "PPR",
+    "NB-LRR"
+  ],
+  "title": "MicroRNAs and Trans-acting siRNA pathways in Apple (Malus x domestica Borkh.) and Peach (Prunus persica)",
+  "type": "Dissertation"
+}

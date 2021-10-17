@@ -1,0 +1,65 @@
+{
+  "contributor_author": "Polys, Nicholas Fearing",
+  "contributor_committeecochair": [
+    "Bowman, Douglas A.",
+    "North, Christopher L."
+  ],
+  "contributor_committeemember": [
+    "Livingston, Kenneth",
+    "McCrickard, Donald Scott",
+    "Brutzman, Don"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:09Z",
+  "date_adate": "2006-07-31",
+  "date_available": "2014-03-14T20:13:09Z",
+  "date_issued": "2006-06-02",
+  "date_rdate": "2006-07-31",
+  "date_sdate": "2006-06-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Across domains, researchers, engineers, and designers are faced with large volumes of data that are heterogeneous in nature - including spatial, abstract, and temporal information. There are numerous design and technical challenges when considering the unification, management, and presentation of these information types. Most research and applications have focused on display techniques for each of the information types individually, but much less in known about how to represent the relationships between information types. This research explores the perceptual and usability impacts of data representations and layout algorithms for the next-generation of integrated information spaces.  We propose Information-Rich Virtual Environments (IRVEs) as a solution to challenges of integrated information spaces. In this presentation, we will demonstrate the application requirements and foundational technology of IRVEs and articulate crucial tradeoffs in IRVE information design. We will present a design space and evaluation methodology to explore the usability effects of these tradeoffs. Experimental results will be presented for a series of empirical usability evaluations that increase our understanding of how these tradeoffs can be resolved to improve user performance. Finally, we interpret the results though the models of Information Theory and Human Information Processing to derive new conclusions regarding the role of perceptual cues in determining user performance in IRVEs. These lessons are posed as a set of design guidelines to aid developers of new IRVE interfaces and specifications.",
+  "description_provenance": [
+    "Author Email: npolys@vt.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: north@vt.edu",
+    "Advisor Email: livingst@vassar.edu",
+    "Advisor Email: mccricks@vt.edu",
+    "Advisor Email: brutzman@nps.navy.mil",
+    "Made available in DSpace on 2014-03-14T20:13:09Z (GMT). No. of bitstreams: 18 O_F_p.avi: 21485568 bytes, checksum: e92785654a197bc16de8ac3a4540d38b (MD5) V_P_l.avi: 23272960 bytes, checksum: a64e61ef7c6c80565ca5efcfd1b0bf4a (MD5) irve.xsd: 5774 bytes, checksum: 4fbc234c8622c2b70f67c7096d673708 (MD5) O_F_n.avi: 16064512 bytes, checksum: cca76ed023fef42b18bd27b8cf2c1225 (MD5) irve.dtd: 2349 bytes, checksum: b16eeffd6720bc5993ea0237aeb18496 (MD5) O.avi: 30106624 bytes, checksum: 2320147f5ea2db55ad18858750137522 (MD5) O_F_c.avi: 17218048 bytes, checksum: 7c5f0a3d5dd29ce423d601e6e6660215 (MD5) V_S_p.avi: 20272128 bytes, checksum: 50b1c3f817f6667f69d7ae6d9750904d (MD5) V_S_s.avi: 20217344 bytes, checksum: bc866c2a4da6276e4ce863fc0ee0add9 (MD5) V.avi: 35740160 bytes, checksum: 7f16f8dd38efee55b9f6d476725ca6ea (MD5) PathSimv2.avi: 86009856 bytes, checksum: 9aaa5a8a9d99f2ddc064e7c7a542646a (MD5) O_S_n.avi: 21199360 bytes, checksum: 3f132787db7f46aa232c3478684bdb92 (MD5) V_S_l.avi: 27308544 bytes, checksum: 0fdade6ba82dc46bf1de0a3661d46e76 (MD5) DisplayTechniquesinIRVEs_final.pdf: 14852895 bytes, checksum: 1611a8ba47850d18fb28a37b1b3b8329 (MD5) O_S_c.avi: 16699392 bytes, checksum: ba6c7234dcf26d1520dfec37ff23b438 (MD5) V_P_s.avi: 21088768 bytes, checksum: 7e17f8cd4deaf3bd68f6992aaf4d1875 (MD5) V_P_p.avi: 20724224 bytes, checksum: 40f6cb0368723e633717653faccfdeae (MD5) O_S_p.avi: 16950784 bytes, checksum: 00f181816d39cd9a61e0bf9a77bb1489 (MD5)   Previous issue date: 2006-06-02"
+  ],
+  "handle": "28045",
+  "identifier_other": "etd-06152006-024611",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06152006-024611/",
+  "identifier_uri": "http://hdl.handle.net/10919/28045",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "O_F_p.avi",
+    "V_P_l.avi",
+    "irve.xsd",
+    "O_F_n.avi",
+    "irve.dtd",
+    "O.avi",
+    "O_F_c.avi",
+    "V_S_p.avi",
+    "V_S_s.avi",
+    "V.avi",
+    "PathSimv2.avi",
+    "O_S_n.avi",
+    "V_S_l.avi",
+    "DisplayTechniquesinIRVEs_final.pdf",
+    "O_S_c.avi",
+    "V_P_s.avi",
+    "V_P_p.avi",
+    "O_S_p.avi"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Virtual Environments",
+    "Information Visualization",
+    "Visual Design"
+  ],
+  "title": "Display Techniques in Information-Rich Virtual Environments",
+  "type": "Dissertation"
+}

@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Schultz, Jeffrey Patrick",
+  "contributor_committeechair": "Kander, Ronald G.",
+  "contributor_committeemember": [
+    "Aning, Alexander O.",
+    "Corcoran, Sean Gerald",
+    "Kampe, Stephen L.",
+    "Love, Brian J.",
+    "Suchicital, Carlos T. A."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2011-08-22T18:53:09Z",
+  "date_adate": "2004-01-16",
+  "date_available": "2011-08-22T18:53:09Z",
+  "date_issued": "2003-12-18",
+  "date_rdate": "2004-01-16",
+  "date_sdate": "2004-01-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Laser sintering (LS) is an additive manufacturing process which uses laser surface heating to induce consolidation of powdered materials.  This work investigates some of the process-structure-property relationships for LS of viscoelastic polymers.  A one-dimensional closed-form analytical solution for heating of a semi-infinite body, with a convective boundary condition, by a moving surface heat flux was developed. This solution approximates the shape of the Gaussian energy distribution of the laser beam more accurately than previous solutions in the literature. A sintering model that combines the effects of viscoelastic deformation driven by attractive surface forces and viscous flow driven by curvature-based forces was developed.  The powder-bed temperature was approximated using the thermal model developed herein. The effect of the enthalpy of melting for semi-crystalline polymers was accounted for using a temperature recovery approach.  Time-temperature superposition was used to account for the temperature dependence of the tensile creep compliance.  The results of the combined-mechanism sintering model will be compared to the classic Mackenzie-Shuttleworth sintering model.  A lab-scale LS unit was constructed to fabricate test specimens for model validation and to test the applicability of materials to LS.  In this work, sintering four materials, polycarbonate (PC) and three molecular weights of polyethylene-oxide (PEO) was predicted using the aforementioned thermal and sintering models.  Samples were fabricated using the lab-scale LS unit and the sintered microstructures were investigated using scanning electron microscopy.  The rheologic, thermal and physical properties of the materials were characterized using standard methods and the relevant properties were used in the models.  The choice of an amorphous polymer, PC, and a semi-crystalline polymer, PEO, affords comparison of the effects of the two material forms on contact growth during LS.  The three molecular weights of PEO exhibit significantly different tensile creep compliances, however, the thermal and physical properties are essentially the same, and therefore the effect of molecular weight and subsequently the rheologic characteristics on contact growth during LS will be investigated.  The effects of particle size, laser power, and bed temperature were also investigated.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:09Z (GMT). No. of bitstreams: 1  Schultz_Disertation.pdf: 17050536 bytes, checksum: 9de0315f16f553a6f18f88544ab98196 (MD5)    Previous issue date: 2003-12-18",
+    "Author Email: jeschult@vt.edu",
+    "Advisor Email: aaning@vt.edu",
+    "Advisor Email: kanderrg@jmu.edu",
+    "Advisor Email: sgc@vt.edu",
+    "Advisor Email: kampe@vt.edu",
+    "Advisor Email: blove@vt.edu",
+    "Advisor Email: ctas@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11091",
+  "identifier_other": "etd-01092004-090614",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01092004-090614",
+  "identifier_uri": "http://hdl.handle.net/10919/11091",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Schultz_Disertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "laser sintering",
+    "polymer powder",
+    "sintering",
+    "heat transfer",
+    "viscoelastic contact growth"
+  ],
+  "title": "Modeling Heat Transfer and Densification during Laser Sintering of Viscoelastic Polymers",
+  "type": "Dissertation"
+}

@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Masoud, Ziyad Nayif",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Mook, Dean T.",
+    "Henneke, Edmund G. II",
+    "VanLandingham, Hugh F."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:06:49Z",
+  "date_adate": "2001-01-24",
+  "date_available": "2014-03-14T20:06:49Z",
+  "date_issued": "2000-12-04",
+  "date_rdate": "2002-01-24",
+  "date_sdate": "2001-01-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ship-mounted cranes are used to transfer cargo from large container ships to smaller lighters when deep-water ports are not available. The wave-induced motion of the crane ship produces large pendulations of hoisted cargo and causes operations to be suspended.   In this work, we show that in boom type ship-mounted cranes, it is possible to reduce these pendulations significantly by controlling the slew and luff angles of the boom. Such a control can be achieved with the heavy equipment that is already part of the crane so that retrofitting existing cranes would require a small effort. Moreover, the control is superimposed on the commands of the operator transparently. The successful control strategy is based on delayed-position feedback of the cargo motion in-plane and out-of-plane of the boom and crane tower. Its effectiveness is demonstrated with a fully nonlinear three-dimensional computer simulation and with an experiment on a 1/24 scale model of a T-ACS (The Auxiliary Crane Ship) crane mounted on a platform moving with three degrees of freedom to simulate the ship roll, pitch, and heave motions of the crane ship. The results demonstrate that the pendulations can be significantly reduced, and therefore the range of sea conditions in which cargo-transfer operations could take place can be greatly expanded.  Furthermore, the control strategy is applied experimentally to a scaled model of a tower crane. The effectiveness of the controller is demonstrated for both rotary and gantry modes of operation of the crane.  This work was supported by the Office of Naval Research under Contract #N00014-96-1-1123.",
+  "description_provenance": [
+    "Author Email: zmasoud@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: dtmook@vt.edu",
+    "Advisor Email: henneke@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:49Z (GMT). No. of bitstreams: 1 Thesis.pdf: 1540773 bytes, checksum: 05c3c89e4b31787460b812bc588306d7 (MD5)   Previous issue date: 2000-12-04"
+  ],
+  "handle": "26022",
+  "identifier_other": "etd-01222001-144048",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01222001-144048/",
+  "identifier_uri": "http://hdl.handle.net/10919/26022",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "time-delayed feedback",
+    "ship-mounted crane",
+    "Crane control"
+  ],
+  "title": "A Control System for the Reduction of Cargo Pendulation of Ship-Mounted Cranes",
+  "type": "Dissertation"
+}

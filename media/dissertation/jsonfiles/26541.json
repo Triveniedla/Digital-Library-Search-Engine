@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Lim, Hong Sun",
+  "contributor_committeechair": "Ramu, Krishnan",
+  "contributor_committeemember": [
+    "Prather, Carl L.",
+    "Stilwell, Daniel J.",
+    "De La Ree Lopez, Jaime",
+    "Lindner, Douglas K."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:36Z",
+  "date_adate": "2007-05-03",
+  "date_available": "2014-03-14T20:08:36Z",
+  "date_issued": "2007-03-23",
+  "date_rdate": "2010-05-03",
+  "date_sdate": "2007-03-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Linear switched reluctance motor (LSRM) drives are investigated and proved as an alternative actuator for vertical linear transportation applications such as a linear elevator. A one-tenth scaled prototype elevator focused on a home elevator with LSRMs is designed and extensive experimental correlation is presented for the first time.  The proposed LSRM has twin stators and a set of translator poles without back-iron. The translators are placed between the two stators. The design procedures and features of the LSRM and the prototype elevator are described. The designed LSRM is validated through a finite element analysis (FEA) and experimental measurements.   Furthermore, a control strategy for the prototype elevator is introduced consisting of four control loops, viz., current, force, velocity, and position feedback control loops. For force control, a novel force distribution function (FDF) is proposed and compared with conventional FDFs. A trapezoidal velocity profile is introduced to control vertical travel position smoothly during the elevator's ascent, descent, and halt operations. Conventional proportional plus integral (PI) controller is used for the current and velocity control loops and their designs are described. The proposed control strategy is dynamically simulated and experimentally correlated. Analytical and experimental results of this research prove that LSRMs are one of the strong candidates for ropeless linear elevator applications.   However, the proposed FDF is assuming that the feedback current signals are ideal currents indicating actual phase currents without any measurement disturbances mainly arising from sensor noise, DC-link voltage ripple, measurement offset, and variations in the plant model. Meanwhile, real control systems in industry have measurement disturbance problems. Phase current corrupted by measurement disturbances increases torque or force ripple, acoustic noise and EMI.  Therefore, this dissertation also presents a novel current control method to suppress measurement disturbances without extra hardware.  The controller is based on an extended state observer (ESO) and a nonlinear P controller (NLP). The proposed method does not require an accurate mathematical model of system and can be implemented on a low-cost DSP controller. The proposed ESO is exploited to estimate the measurement disturbances on measured phase currents, and the proposed NLP compensates for the measurement disturbances estimated by the ESO. The performance of the proposed current control is validated through extensive dynamic simulations and experiments. Moreover, this rejection of measurement disturbances results in a reduction of force ripple and acoustic noise. Due to superior and robust current control performance, it is believed that the proposed method can be successfully applied into other motor drive systems to suppress measurement disturbances with the same promising results without extra hardware.",
+  "description_provenance": [
+    "Author Email: hopelim@gmail.com",
+    "Advisor Email: cprather@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: kramu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:36Z (GMT). No. of bitstreams: 1 HSLIM_PhD_Dissertation_Rev2.pdf: 4443266 bytes, checksum: 35451169dc2d59ac617edee4b6bca017 (MD5)   Previous issue date: 2007-03-23"
+  ],
+  "handle": "26541",
+  "identifier_other": "etd-03292007-133554",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03292007-133554/",
+  "identifier_uri": "http://hdl.handle.net/10919/26541",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HSLIM_PhD_Dissertation_Rev2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Elevator",
+    "Linear Switched Reluctance Motor",
+    "Nonlinear Controller",
+    "Extended State Observer",
+    "Disturbance State Observer",
+    "Measurement Disturbance",
+    "EMI",
+    "Acoustic Noise",
+    "Force Distribution Function",
+    "Force Control",
+    "Current Control"
+  ],
+  "title": "Design and Control of A Ropeless Elevator with Linear Switched Reluctance Motor Drive Actuation Systems",
+  "type": "Dissertation"
+}

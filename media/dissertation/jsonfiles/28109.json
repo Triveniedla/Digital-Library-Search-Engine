@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Jutabha, Promjit",
+  "contributor_committeechair": "Larson, Timothy J.",
+  "contributor_committeemember": [
+    "Popham, David L.",
+    "Stevens, Ann M.",
+    "Dean, Dennis R.",
+    "Chen, Jiann-Shin"
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2014-03-14T20:13:28Z",
+  "date_adate": "2001-06-25",
+  "date_available": "2014-03-14T20:13:28Z",
+  "date_issued": "2001-06-11",
+  "date_rdate": "2002-06-25",
+  "date_sdate": "2001-06-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Sulfurtransferases, including mercaptopyruvate sulfurtransferase and rhodanese, are widely distributed in living organisms.  Mercaptopyruvate sulfurtransferase and rhodanese catalyze the transfer of sulfur from mercaptopyruvate and thiosulfate, respectively, to sulfur acceptors such as thiols or cyanide.  There is evidence to suggest that rhodanese can mobilize sulfur from thiosulfate for in vitro formation of iron-sulfur clusters.  Additionally, primary sequence analysis reveals that MoeB from some organisms, as well as ThiI of Escherichia coli, contain a C-terminal sulfurtransferase domain.  MoeB is required for molybdopterin biosynthesis, whereas ThiI is necessary for biosynthesis of thiamin and 4-thiouridine in transfer ribonucleic acid.  These observations led to the hypothesis that sulfurtransferases might be involved in sulfur transfer for biosynthesis of some sulfur-containing cofactors (e.g., biotin, lipoic acid, thiamin and molybdopterin).  Results of a BLAST search revealed that E. coli has at least eight potential sulfurtransferases, besides ThiI.  Previously, a glpE-encoded rhodanese of E. coli was characterized in our laboratory.  In this dissertation, a mercaptopyruvate sulfurtransferase and corresponding gene (sseA) of E. coli were identified.  In addition, the possibility that mercaptopyruvate sulfurtransferase could participate or work in concert with a cysteine desulfurase, IscS, in the biosynthesis of cofactors was examined.    Cloning of the sseA gene and biochemical characterization of the corresponding protein were used to show that SseA is a mercaptopyruvate sulfurtransferase of E. coli.  A strain with a chromosomal insertion mutation in sseA was constructed in order to characterize the physiological function of mercaptopyruvate sulfurtransferase.  However, the lack of SseA did not result in a discernable phenotypic change.  Redundancy of sulfurtransferases in E. coli may prevent the appearance of a phenotypic change due to the loss of a single sulfurtransferase.  Subsequently, other paralogous genes for putative sulfurtransferases, including ynjE and yceA, were cloned.  Strains with individual deletions of the chromosomal ynjE and yceA genes were also constructed.  Finally, strains with multiple deficiency in potential sulfurtransferase genes, including sseA, ynjE and glpE, as well as iscS, were created.  However, no phenotype associated with combinations of sseA, glpE and/or ynjE deficiency was identified.  Therefore, the physiological functions of mercaptopyruvate sulfurtransferase and related sulfurtransferases remain unknown.",
+  "description_provenance": [
+    "Author Email: promjit@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Advisor Email: dpopham@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: deandr@vt.edu",
+    "Advisor Email: chenjs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:28Z (GMT). No. of bitstreams: 1 mydissert6-24.PDF: 698599 bytes, checksum: 6bf7ec94c23fb41bf12b895ce0b480cb (MD5)   Previous issue date: 2001-06-11"
+  ],
+  "handle": "28109",
+  "identifier_other": "etd-06242001-174417",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06242001-174417/",
+  "identifier_uri": "http://hdl.handle.net/10919/28109",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mydissert6-24.PDF",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mercaptopyruvate sulfurtransferase",
+    "Escherichia coli",
+    "sulfurtransferase ortholog",
+    "rhodanese"
+  ],
+  "title": "Biochemical and genetic characterization of mercaptopyruvate sulfurtransferase and paralogous putative sulfurtransferases of Escherichia coli",
+  "type": "Dissertation"
+}

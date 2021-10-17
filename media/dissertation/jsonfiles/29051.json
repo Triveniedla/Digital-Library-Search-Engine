@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Cardieri, Paulo",
+  "contributor_committeechair": "Rappaport, Theodore S.",
+  "contributor_committeemember": [
+    "Beaulieu, Norman C.",
+    "Tranter, William H.",
+    "Woerner, Brian D.",
+    "Reed, Jeffrey Hugh",
+    "Kohler, Werner E.",
+    "Safaai-Jazi, Ahmad"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:32Z",
+  "date_adate": "2000-09-25",
+  "date_available": "2014-03-14T20:16:32Z",
+  "date_issued": "2000-09-15",
+  "date_rdate": "2001-09-25",
+  "date_sdate": "2000-09-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The rapid growth in demand for cellular mobile communications and  emerging fixed wireless access has created the need to increase  system capacity through more efficient utilization of the frequency spectrum,   and the need for better grade of service. In cellular systems, capacity improvement  can be achieved by reducing co-channel interference.  Several techniques have been proposed  in literature for mitigating co-channel interference, such as adaptive antennas  and power control. Also, by allocating transmitter power and communication channels  efficiently (resource allocation), overall co-channel interference can be maintained  below a  desired maximum tolerable level, while maximizing the carried traffic of the system.  <p> This dissertation presents investigation results on the performance of base station  adaptive antennas, power control and channel allocation, as techniques for capacity  improvement. Several approaches are analyzed. Firstly, we study the combined use of  adaptive antennas and fractional loading factor, in order to  estimate the potential capacity improvement achieved by adaptive antennas.  <p> Next, an extensive simulation analysis of a cellular network is carried out aiming to  investigate the complex interrelationship between power control, channel allocation and  adaptive antennas. In the first part of this simulation analysis,  the combined use of adaptive antennas, power control and  reduced cluster size is analyzed in a cellular system using fixed channel allocation.  In the second part,  we analyze the benefits of combining adaptive  antennas, dynamic channel allocation and power control.  Two representative channel allocation algorithms are considered and  analyzed regarding how efficiently they transform  reduced co-channel interference into higher carried traffic. Finally,  the spatial filtering capability of  adaptive antennas is used to allow several users to share the same  channel within the same cell. Several allocation algorithms   combined with power control are analyzed.",
+  "description_provenance": [
+    "Author Email: pcardier@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: wireless@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:32Z (GMT). No. of bitstreams: 1 cardieri_etd_final.pdf: 1262044 bytes, checksum: dcc30ea1870cb9f39982a602db19464a (MD5)   Previous issue date: 2000-09-15"
+  ],
+  "handle": "29051",
+  "identifier_other": "etd-09222000-13240050",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09222000-13240050/",
+  "identifier_uri": "http://hdl.handle.net/10919/29051",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "cardieri_etd_final.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Adaptive Antennas",
+    "Channel Allocation",
+    "Log-normal Distribution",
+    "Resource Allocation",
+    "Simulation of Cellular Networks",
+    "Power Control"
+  ],
+  "title": "Resource Allocation and Adaptive Antennas in Cellular Communications",
+  "type": "Dissertation"
+}

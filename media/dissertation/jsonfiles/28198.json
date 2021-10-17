@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Zhang, Baoping",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Spitzner, Dan J.",
+    "Lu, Chang-Tien",
+    "Fan, Weiguo Patrick",
+    "Calado, Pavel"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:43Z",
+  "date_adate": "2006-09-06",
+  "date_available": "2014-03-14T20:13:43Z",
+  "date_issued": "2006-06-20",
+  "date_rdate": "2006-09-06",
+  "date_sdate": "2006-07-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Automatic text classification using current approaches is known to perform poorly when documents are noisy or when limited amounts of textual content is available. Yet, many users need access to such documents, which are found in large numbers in digital libraries and in the WWW. If documents are not classified, they are difficult to find when browsing. Further, searching precision suffers when categories cannot be checked, since many documents may be retrieved that would fail to meet category constraints. In this work, we study how different types of evidence from multiple sources can be intelligently fused to improve classification of text documents into predefined categories. We present a classification framework based on an inductive learning method -- Genetic Programming (GP) -- to fuse evidence from multiple sources. We show that good classification is possible with documents which are noisy or which have small amounts of text (e.g., short metadata records) -- if multiple sources of evidence are fused in an intelligent way. The framework is validated through experiments performed on documents in two testbeds. One is the ACM Digital Library (using a subset available in connection with CITIDEL, part of NSF's National Science Digital Library). The other is Web data, in particular that portion associated with the CadÃª Web directory. Our studies have shown that improvement can be achieved relative to other machine learning approaches if genetic programming methods are combined with classifiers such as kNN. Extensive analysis was performed to study the results generated through the GP-based fusion approach and to understand key factors that promote good classification.",
+  "description_provenance": [
+    "Author Email: bzhang@vt.edu",
+    "Advisor Email: dspitzne@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Advisor Email: pavel.calado@tagus.ist.utl.pt",
+    "Made available in DSpace on 2014-03-14T20:13:43Z (GMT). No. of bitstreams: 1 BaopingDissertationFinal.pdf: 3781612 bytes, checksum: f2048d0d27ba044fc21f29fb5076d293 (MD5)   Previous issue date: 2006-06-20"
+  ],
+  "handle": "28198",
+  "identifier_other": "etd-07032006-152103",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07032006-152103/",
+  "identifier_uri": "http://hdl.handle.net/10919/28198",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BaopingDissertationFinal.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "experimentation",
+    "classification",
+    "Genetic Programming",
+    "digital libraries"
+  ],
+  "title": "Intelligent Fusion of Evidence from Multiple Sources for Text Classification",
+  "type": "Dissertation"
+}

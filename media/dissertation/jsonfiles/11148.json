@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Schafer, Wendy Ann",
+  "contributor_committeechair": "Bowman, Douglas A.",
+  "contributor_committeemember": [
+    "North, Christopher L.",
+    "Morrill, Robert W.",
+    "Rosson, Mary Beth",
+    "Carroll, John M."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2011-08-22T19:00:31Z",
+  "date_adate": "2004-04-28",
+  "date_available": "2011-08-22T19:00:31Z",
+  "date_issued": "2004-04-20",
+  "date_rdate": "2007-04-28",
+  "date_sdate": "2004-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Spatial collaboration refers to collaboration activities involving physical space.  It occurs every day as people work together to solve spatial problems, such as rearranging furniture or communicating about an environmental issue.  In this work, we investigate how to support spatial collaboration when the collaborators are not colocated.  We propose using shared, interactive representations of the space to support distributed, spatial collaboration.  Our study examines viewpoint constraint techniques, which determine how the collaborators individually view the representation, and awareness techniques, which enable the collaborators to maintain an understanding of each other's work efforts.  Our work consists of four phases, in which we explore a design space for interactive representations and examine the effects of different viewpoint constraint and awareness techniques.  We consider situations where the collaborators use the same viewpoints, different viewpoints, and have a choice in viewpoint constraint techniques.  In phase 1, we examine current technological support for spatial collaboration and designed two early prototypes.  Phase 2 compares various two-dimensional map techniques, with the collaborators using identical techniques.  Phase 3 focuses on three-dimensional virtual environment techniques, comparing similar and different frames of reference.  The final phase reuses the favorable techniques from the previous studies and presents a novel prototype that combines both two-dimensional and three-dimensional representations.  Each phase of this research is limited to synchronous communication activities and non-professional users working together on everyday tasks.  Our findings highlight the advantages and disadvantages of the different techniques for spatial collaboration solutions.  Also, having conducted multiple evaluations of spatial collaboration prototypes, we offer a common set of lessons with respect to distributed, spatial collaboration activities.  This research also highlights the need for continued study to improve on the techniques evaluated and to consider additional spatial collaboration activities.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:31Z (GMT). No. of bitstreams: 1  CompleteDoc6.pdf: 2338773 bytes, checksum: 552d26b330ed13306e17a04c5e93e498 (MD5)    Previous issue date: 2004-04-20",
+    "Author Email: wschafer@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: morrill@vt.edu",
+    "Advisor Email: mrosson@psu.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: jcarroll@ist.psu.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11148",
+  "identifier_other": "etd-04222004-142351",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04222004-142351",
+  "identifier_uri": "http://hdl.handle.net/10919/11148",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CompleteDoc6.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "frames of reference",
+    "fisheye projections",
+    "computer-supported cooperative work",
+    "collaborative virtual environments",
+    "radar views",
+    "spatial discussions"
+  ],
+  "title": "Supporting Spatial Collaboration: An Investigation of Viewpoint Constraint and Awareness Techniques",
+  "type": "Dissertation"
+}

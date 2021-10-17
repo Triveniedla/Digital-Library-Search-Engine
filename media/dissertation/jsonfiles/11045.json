@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Lipkovich, Ilya A",
+  "contributor_committeechair": "Smith, Eric P.",
+  "contributor_committeecochair": "Ye, Keying",
+  "contributor_committeemember": [
+    "Foutz, Robert",
+    "Birch, Jeffrey B.",
+    "Terrell, George R."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2011-08-22T18:35:37Z",
+  "date_adate": "2002-04-22",
+  "date_available": "2011-08-22T18:35:37Z",
+  "date_issued": "2002-04-09",
+  "date_rdate": "2003-04-22",
+  "date_sdate": "2002-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Bayesian Model Averaging (BMA) is a new area in modern applied statistics that provides data analysts with an efficient tool for discovering promising models and obtaining esti-mates of their posterior probabilities via Markov chain Monte Carlo (MCMC). These probabilities can be further used as weights for model averaged predictions and estimates of the parameters of interest. As a result, variance components due to model selection are estimated and accounted for, contrary to the practice of conventional data analysis (such as, for example, stepwise model selection). In addition, variable activation probabilities can be obtained for each variable of interest. This dissertation is aimed at connecting BMA and various ramifications of the multivari-ate technique called Reduced-Rank Regression (RRR). In particular, we are concerned with Canonical Correspondence Analysis (CCA) in ecological applications where the data are represented by a site by species abundance matrix with site-specific covariates. Our goal is to incorporate the multivariate techniques, such as Redundancy Analysis and Ca-nonical Correspondence Analysis into the general machinery of BMA, taking into account such complicating phenomena as outliers and clustering of observations within a single data-analysis strategy.  Traditional implementations of model averaging are concerned with selection of variables. We extend the methodology of BMA to selection of subgroups of observations and im-plement several approaches to cluster and outlier analysis in the context of the multivari-ate regression model. The proposed algorithm of cluster analysis can accommodate re-strictions on the resulting partition of observations when some of them form sub-clusters that have to be preserved when larger clusters are formed.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:35:37Z (GMT). No. of bitstreams: 1 BMADisserFinal.pdf: 2067027 bytes, checksum: 1a6fab68e71deec5e2a724bfee0362e4 (MD5)   Previous issue date: 2002-04-09",
+    "Author Email: ilipkovi@vt.edu",
+    "Advisor Email: b2948@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: jbbirch@VT.EDU",
+    "Advisor Email: terrell@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11045",
+  "identifier_other": "etd-04182002-020608",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182002-020608",
+  "identifier_uri": "http://hdl.handle.net/10919/11045",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BMADisserFinal.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Canonical Correspondence Analysis",
+    "Outlier Analysis",
+    "Bayesian Model Averaging",
+    "Cluster Analysis"
+  ],
+  "title": "Bayesian Model Averaging and Variable Selection in Multivariate Ecological Models",
+  "type": "Dissertation"
+}

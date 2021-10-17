@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Schwandt, Michael Joseph",
+  "contributor_committeechair": "Koelling, Charles Patrick",
+  "contributor_committeemember": [
+    "Triantis, Konstantinos P.",
+    "Kleiner, Brian M.",
+    "Trani, Antoino A."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:11:40Z",
+  "date_adate": "2009-05-28",
+  "date_available": "2014-03-14T20:11:40Z",
+  "date_issued": "2009-05-06",
+  "date_rdate": "2012-03-30",
+  "date_sdate": "2009-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The lack of a consistent, rigorous testing methodology has contributed to system dynamics often not being well received in traditional modeling application areas or within the broader research community.  With a foundation in taxonomy classification techniques, this research developed a modeling process risk-based framework focused on the objectives of the system dynamics methodology.  This approach assists modelers in prioritizing the modeling process risk management requirements â   and resources â   for a project by employing a modeling process risk dictionary, a modeling process risk management methods database, and an algorithm for selecting methods based on a modeling process risk assessment.  System dynamics benefits from the modeling process risk management approach include more efficient use of risk management resources and more effective management of modeling process risks.  In addition, the approach includes qualities that support the achievement of verification, validation, and accreditation (VV&A) principles.  A system dynamics model was developed as the apparatus for assessing the impacts of various modeling process risk management policies, including those found in the traditional system dynamics method, the more commonly practiced method, and the method as modified by the integration of the modeling risk management framework.  These policies are defined by common parameters within the model, allowing comparison of system behavior as affected by the policy parameters.  The system dynamics model enabled the testing of the potential value of the system dynamics modeling process framework.  Results from a fractional factorial designed experiment identified the sensitive parameters that affect the key result measures established to assess model behavior, focusing on timeliness, effectiveness, and quality.  The experimental process highlighted the capabilities of system dynamics modeling to provide insight from the model structure, in addition to the system results.  These insights supported assessment of the policies that were tested.  The proposed modeling process risk management policy delivered results that were substantially better than those of the baseline policy.  The simulated project was delivered 26% faster, with 49% fewer rework discovery resources, and 1% higher actual work content in the project.  The proposed policy also delivered superior results when compared to other common approaches to system dynamics modeling process risk management.",
+  "description_provenance": [
+    "Author Email: schwandt@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:40Z (GMT). No. of bitstreams: 1 Schwandt_Dissertation_Publish_ETD.pdf: 2659139 bytes, checksum: 113e956d4c403c4bca2e0f73ffeb16e5 (MD5)   Previous issue date: 2009-05-06"
+  ],
+  "handle": "27575",
+  "identifier_other": "etd-05072009-150455",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072009-150455/",
+  "identifier_uri": "http://hdl.handle.net/10919/27575",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Schwandt_Dissertation_Publish_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Validation",
+    "Testing",
+    "Verification",
+    "System Dynamics",
+    "Modeling Process Risk Management"
+  ],
+  "title": "Risk-Based Framework for Focused Assessment of System Dynamics Models",
+  "type": "Dissertation"
+}

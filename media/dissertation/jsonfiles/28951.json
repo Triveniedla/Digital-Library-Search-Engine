@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Parikh, Pratik J",
+  "contributor_committeechair": "Meller, Russell D.",
+  "contributor_committeemember": [
+    "Taaffe, Michael R.",
+    "Cook, Deborah F.",
+    "Taylor, G. Don",
+    "Ellis, Kimberly P."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:16:10Z",
+  "date_adate": "2006-10-06",
+  "date_available": "2014-03-14T20:16:10Z",
+  "date_issued": "2006-09-01",
+  "date_rdate": "2006-10-06",
+  "date_sdate": "2006-09-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> This research addresses decisions involved in the design of an order picking system in a distribution center. A distribution center (DC) in a logistics system is responsible for obtaining materials from different suppliers and assembling (or sorting) them to fulfill a number of different customer orders. Order picking, which is a key activity in a DC, refers to the operation through which items are retrieved from storage locations to fulfill customer orders. </p><p> Several decisions are involved when designing an order picking system (OPS). Some of these decisions include the identification of the picking-area layout, configuration of the storage system, and determination of the storage policy, picking method, picking strategy, material handling system, pick-assist technology, etc. For a given set of these parameters, the best design depends on the objective function (e.g., maximizing throughout, minimizing cost, etc.) being optimized. The overall goal of this research is to develop a set of analytical models for OPS design. The idea is to help an OPS designer to identify the best performing alternatives out of a large number of possible alternatives. Such models will complement experienced-based or simulation-based approaches, with the goal of improving the efficiency and efficacy of the design process. </p><p> In this dissertation we focus on the following two key OPS design issues: configuration of the storage system and selection between batch and zone order picking strategies. Several factors that affect these decisions are identified in this dissertation; a common factor amongst these being picker blocking. We first develop models to estimate picker blocking (Contribution 1) and use the picker blocking estimates in addressing the two OPS design issues, presented as Contributions 2 and 3. </p><p> In Contribution 1 we develop analytical models using discrete-time Markov chains to estimate pick-face blocking in wide-aisle OPSs. Pick-face blocking refers to the blocking experienced by a picker at a pick-face when another picker is already picking at that pick-face. We observe that for the case when pickers may pick only one item at a pick-face, similar to in-the-aisle blocking, pick-face blocking first increases with an increase in pick-density and then decreases. Moreover, pick-face blocking increases with an increase in the number of pickers and pick to walk time ratio, while it decreases with an increase in the number of pick-faces. For the case when pickers may pick multiple items at a pick-face, pick-face blocking increases monotonically with an increase in the pick-density. These blocking estimates are used in addressing the two OPS design issues, which are presented as Contributions 2 and 3.  </p><p> In Contribution 2 we address the issue of configuring the storage system for order picking. A storage system, typically comprised of racks, is used to store pallet-loads of various stock keeping units (SKU) --- a SKU is a unique identifier of products or items that are stored in a DC. The design question we address is related to identifying the optimal height (i.e., number of storage levels), and thus length, of a one-pallet-deep storage system. We develop a cost-based optimization model in which the number of storage levels is the decision variable and satisfying system throughput is the constraint. The objective of the model is to minimize the system cost, which is comprised of the cost of labor and space. To estimate the cost of labor we first develop a travel-time model for a person-aboard storage/retrieval (S/R) machine performing Tchebyshev travel as it travels in the aisle. Then, using this travel-time model we estimate the throughput of each picker, which helps us estimate the number of pickers required to satisfy the system throughput for a given number of storage levels. An estimation of the cost of space is also modeled to complete the total cost model. Results from an experimental study suggest that a low (in height) and long (in length) storage system tends to be optimal for situations where there is a relatively low number of storage locations and a relatively high throughput requirement; this is in contrast with common industry perception of the higher the better. The primary reason for this contrast is because the industry does not consider picker blocking and vertical travel of the S/R machine. On the other hand, results from the same optimization model suggest that a manual OPS should, in almost all situations, employ a high (in height) and short (in length) storage system; a result that is consistent with industry practice. This consistency is expected as picker blocking and vertical travel, ignored in industry, are not a factor in a manual OPS. </p><p> In Contribution 3 we address the issue of selecting between batch and zone picking strategies. A picking strategy defines the manner in which the pickers navigate the picking aisles of a storage area to pick the required items. Our aim is to help the designer in identifying the least expensive picking strategy to be employed that meets the system throughput requirements. Consequently, we develop a cost model to estimate the system cost of a picking system that employs either a batch or a zone picking strategy. System cost includes the cost of pickers, equipment, imbalance, sorting system, and packers. Although all elements are modeled, we highlight the development of models to estimate the cost of imbalance and sorting system. Imbalance cost refers to the cost of fulfilling the left-over items (in customer orders) due to workload-imbalance amongst pickers. To estimate the imbalance cost we develop order batching models, the solving of which helps in identifying the number of items unfulfilled. We also develop a comprehensive cost model to estimate the cost of an automated sorting system. To demonstrate the use of our models we present an illustrative example that compares a sort-while-pick batch picking system with a simultaneous zone picking system. </p><p> To summarize, the overall goal of our research is to develop a set of analytical models to help the designer in designing order picking systems in a distribution center. In this research we focused on two key design issues and addressed them through analytical approaches. Our future research will focus on addressing other design issues and incorporating them in a decision support system. </p>",
+  "description_provenance": [
+    "Author Email: pparikh@vt.edu",
+    "Advisor Email: taaffe@vt.edu",
+    "Advisor Email: dcook@vt.edu",
+    "Advisor Email: don.taylor@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: rmeller@uark.edu",
+    "Made available in DSpace on 2014-03-14T20:16:10Z (GMT). No. of bitstreams: 1 PratikParikh_Dissertation.pdf: 1182098 bytes, checksum: 3d990255e33f2d27b2f92df0133f42ef (MD5)   Previous issue date: 2006-09-01"
+  ],
+  "handle": "28951",
+  "identifier_other": "etd-09122006-154340",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09122006-154340/",
+  "identifier_uri": "http://hdl.handle.net/10919/28951",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PratikParikh_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Distribution Center",
+    "Order Picking",
+    "Storage System",
+    "Picking Strategy",
+    "Blocking"
+  ],
+  "title": "Designing Order Picking Systems for Distribution Centers",
+  "type": "Dissertation"
+}

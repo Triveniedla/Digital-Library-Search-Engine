@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Bergtold, Jason Scott",
+  "contributor_committeechair": "Taylor, Daniel B.",
+  "contributor_committeecochair": "Spanos, Aris",
+  "contributor_committeemember": [
+    "McGuirk, Anya M.",
+    "Zobel, Christopher W.",
+    "Peterson, Everett B.",
+    "Bosch, Darrell J."
+  ],
+  "contributor_department": "Agricultural and Applied Economics",
+  "date_accessioned": "2014-03-14T20:10:47Z",
+  "date_adate": "2004-04-27",
+  "date_available": "2014-03-14T20:10:47Z",
+  "date_issued": "2004-04-14",
+  "date_rdate": "2004-04-27",
+  "date_sdate": "2004-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>The dissertation examines advancements in the methods and techniques used in the field of econometrics. These advancements include: (i) a re-examination of the underlying statistical foundations of statistical models with binary dependent variables. (ii) using feed-forward backpropagation artificial neural networks for modeling dichotomous choice processes, and (iii) the estimation of unconditional demand elasticities using the flexible multistage demand system with asymmetric partitions and fixed effects across time.<p>The first paper re-examines the underlying statistical foundations of statistical models with binary dependent variables using the probabilistic reduction approach. This re-examination leads to the development of the Bernoulli Regression Model, a family of statistical models arising from conditional Bernoulli distributions. The paper provides guidelines for specifying and estimating a Bernoulli Regression Model, as well as, methods for generating and simulating conditional binary choice processes. Finally, the Multinomial Regression Model is presented as a direct extension.<p>The second paper empirically compares the out-of-sample predictive capabilities of artificial neural networks to binary logit and probit models. To facilitate this comparison, the statistical foundations of dichotomous choice models and feed-forward backpropagation artificial neural networks (FFBANNs) are re-evaluated. Using contingent valuation survey data, the paper shows that FFBANNs provide an alternative to the binary logit and probit models with linear index functions. Direct comparisons between the models showed that the FFBANNs performed marginally better than the logit and probit models for a number of within-sample and out-of-sample performance measures, but in the majority of cases these differences were not statistically significant. In addition, guidelines for modeling contingent valuation survey data and techniques for estimating median WTP measures using FFBANNs are examined.<p>The third paper estimates a set of unconditional price and expenditure elasticities for 49 different processed food categories using scanner data and the flexible and symmetric translog (FAST) multistage demand system. Due to the use of panel data and the presence of heterogeneity across time, temporal fixed effects were incorporated into the model. Overall, estimated price elasticities are larger, in absolute terms, than previous estimates. The use of disaggregated product groupings, scanner data, and the estimation of unconditional elasticities likely accounts for these differences.",
+  "description_provenance": [
+    "Author Email: jbergtol@vt.edu",
+    "Advisor Email: mcguirk@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: petrsone@vt.edu",
+    "Advisor Email: aris@vt.edu",
+    "Advisor Email: taylord@vt.edu",
+    "Advisor Email: bosch@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:47Z (GMT). No. of bitstreams: 2 Bergtold_ETD_2004.pdf: 980141 bytes, checksum: 3d5f566ce265cec7462365289ca8d154 (MD5) Bergtold_Vita_2004.pdf: 15703 bytes, checksum: 8da5fe5fcbd0277bf0d85aa85001b780 (MD5)   Previous issue date: 2004-04-14"
+  ],
+  "handle": "27266",
+  "identifier_other": "etd-04252004-234233",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252004-234233/",
+  "identifier_uri": "http://hdl.handle.net/10919/27266",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Bergtold_ETD_2004.pdf",
+    "Bergtold_Vita_2004.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bernoulli regression model",
+    "logistic regression",
+    "demand elasticities",
+    "artificial neural networks",
+    "contingent valuation",
+    "indirect separability"
+  ],
+  "title": "Advances in Applied Econometrics:  Binary Discrete Choice Models, Artificial Neural Networks, and Asymmetries in the FAST Multistage Demand System",
+  "type": "Dissertation"
+}

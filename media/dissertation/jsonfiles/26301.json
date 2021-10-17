@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Tolentino, Matthew Edward",
+  "contributor_committeechair": "Cameron, Kirk W.",
+  "contributor_committeemember": [
+    "Beihl, Gary M.",
+    "Butt, Ali R. A.",
+    "Nikolopoulos, Dimitrios S.",
+    "Ribbens, Calvin J."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:46Z",
+  "date_adate": "2009-04-08",
+  "date_available": "2014-03-14T20:07:46Z",
+  "date_issued": "2009-02-18",
+  "date_rdate": "2009-04-08",
+  "date_sdate": "2009-02-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Extraordinary improvements in computing performance, density, and capacity have driven rapid increases in system energy consumption, motivating the need for energy-efficient performance. Harnessing the collective computational capacity of thousands of these systems can consume megawatts of electrical power, even though many systems may be underutilized for extended periods of time. At scale, powering and cooling unused or lightly loaded systems can waste millions of dollars annually.    \t To combat this inefficiency, we propose system software, control systems, and architectural techniques to improve the energy efficiency of high-capacity memory systems while preserving performance. We introduce and discuss several new application-transparent, memory management algorithms as well as a formal analytical model of a power-state control system rooted in classical control theory we developed to proportionally scale memory capacity with application demand. We present a prototype implementation of this control-theoretic runtime system that we evaluate on sequential memory systems. We also present and discuss why the traditional performance-motivated approach of maximizing interleaving within memory systems is problematic and should be revisited in terms of power and thermal efficiency.  We then present power-aware control techniques for improving the energy efficiency of symmetrically interleaved memory systems. Given the limitations of traditional interleaved memory configurations, we propose and evaluate unorthodox, asymmetrically interleaved memory configurations. We show that when coupled with our control techniques, significant energy savings can be achieved without sacrificing application performance or memory bandwidth.",
+  "description_provenance": [
+    "Author Email: metolent@cs.vt.edu",
+    "Advisor Email: gary.m.beihl@intel.com",
+    "Advisor Email: butta@cs.vt.edu",
+    "Advisor Email: dsn@cs.vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: kirk.w.cameron@gmail.com",
+    "Made available in DSpace on 2014-03-14T20:07:46Z (GMT). No. of bitstreams: 1 dissertation_final-post-grad-review.pdf: 2165645 bytes, checksum: a40c0e13c7a70c9c846a70061b60a305 (MD5)   Previous issue date: 2009-02-18"
+  ],
+  "handle": "26301",
+  "identifier_other": "etd-02242009-162329",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02242009-162329/",
+  "identifier_uri": "http://hdl.handle.net/10919/26301",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_final-post-grad-review.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Energy Efficiency",
+    "Control Theory",
+    "Memory Management",
+    "Operating Systems"
+  ],
+  "title": "Managing Memory for Power, Performance, and Thermal Efficiency",
+  "type": "Dissertation"
+}

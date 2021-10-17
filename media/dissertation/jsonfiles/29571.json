@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhang, Bo",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Broadwater, Robert P.",
+    "Plassmann, Paul E.",
+    "Vullikanti, Anil Kumar S.",
+    "Yang, Yaling"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:18:30Z",
+  "date_adate": "2011-12-05",
+  "date_available": "2014-03-14T20:18:30Z",
+  "date_issued": "2011-11-04",
+  "date_rdate": "2011-12-05",
+  "date_sdate": "2011-11-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Lock-based synchronization on multiprocessors is inherently non-scalable, non-composable, and error-prone. These problems are exacerbated in distributed systems due to an additional layer of complexity: multinode concurrency. Transactional memory (TM) is an emerging, alternative synchronization abstraction that promises to alleviate these difficulties. With the TM model, code that accesses shared memory objects  are organized as transactions, which speculatively execute, while logging changes. If  transactional conflicts are detected, one of the conflicting transaction is aborted and re-executed, while the other is allowed to commit, yielding the illusion of atomicity. TM for multiprocessors has been proposed in software (STM), in hardware (HTM), and in a combination (HyTM).  This dissertation focuses on supporting the TM abstraction in distributed systems, i.e., distributed STM (or D-STM). We focus on three problem spaces: cache-coherence (CC), conflict resolution, and replication. We evaluate the performance of D-STM by measuring the competitive ratio of its makespan --- i.e., the ratio of its makespan (the last completion time for a given set of transactions) to the makespan of an optimal off-line clairvoyant scheduler. We show that the performance of D-STM for metric-space networks is O(N^2) for N transactions requesting an object under the Greedy contention manager and an arbitrary CC protocol. To improve the performance, we propose a class of location-aware CC  protocols, called LAC protocols. We show that the combination of the Greedy manager and a LAC protocol yields an O(NlogN s) competitive ratio for s shared objects.  We then formalize two classes of CC protocols: distributed queuing cache-coherence (DQCC) protocols and distributed priority queuing cache-coherence (DPQCC) protocols, both of which can be implemented using distributed queuing protocols. We show that a DQCC protocol is O(NlogD)-competitive and a DPQCC protocol is O(log D_delta)-competitive for N dynamically generated transactions requesting an object, where D_delta is the normalized diameter of the underlying distributed queuing protocol. Additionally, we propose a novel CC protocol, called Relay, which reduces the total number of aborts to O(N) for N conflicting transactions requesting an object, yielding a significantly improvement over past CC protocols which has O(N^2) total number of aborts. We also analyze Relay's dynamic competitive ratio in terms of the communication cost (for dynamically generated transactions), and show that Relay's dynamic competitive ratio is O(log D_0), where D_0 is the normalized diameter of the underlying network spanning tree.  To reduce unnecessary aborts and increase concurrency for D-STM based on globally-consistent contention management policies, we propose the distributed dependency-aware (DDA) conflict resolution model, which adopts different conflict resolution strategies based on transaction types. In the DDA model, read-only transactions never abort by keeping a set of versions for each object. Each transaction only keeps precedence relations based on its local knowledge of precedence relations. We show that the DDA model ensures that 1) read-only transactions never abort, 2) every transaction eventually commits, 3) supports invisible reads, and 4) efficiently garbage collects useless object versions.  To establish competitive ratio bounds for contention managers in D-STM, we model the distributed transactional contention management problem as the traveling salesman problem (TSP). We prove that for D-STM, any online, work conserving, deterministic contention manager provides an Omega(max[s,s^2/D]) competitive ratio in a network with normalized diameter D and s shared objects. Compared with the Omega(s) competitive ratio for multiprocessor STM, the performance guarantee for D-STM degrades by a factor proportional to s/D. We present a randomized algorithm, called Randomized, with a competitive ratio O(sClog n  log ^{2} n) for s objects shared by n transactions, with a maximum conflicting degree C. To break this lower bound, we present a randomized algorithm Cutting, which needs partial information of transactions and an approximate TSP algorithm A with approximation ratio phi_A. We show that the average case competitive ratio of Cutting is O(s phi_A log^{2}m log^{2}n), which is close to O(s).  Single copy (SC) D-STM keeps only one writable copy of each object, and thus cannot tolerate node failures. We propose a quorum-based replication (QR) D-STM model, which provides provable fault-tolerance without incurring high communication overhead, when compared with the SC model. The QR model stores object replicas in a tree quorum system, where two quorums intersect if one of them is a write quorum, and ensures the consistency among replicas at commit-time. The communication cost of an operation in the QR model is proportional to the communication cost from the requesting node to its closest read or write quorum. In the presence of node failures, the QR model exhibits high availability and degrades gracefully when the number of failed nodes increases, with reasonable higher communication cost.  We develop a protoytpe implementation of the dissertation's proposed solutions, including DQCC and DPQCC protocols, Relay protocol, and the DDA model, in the HyFlow Java D-STM framework. We experimentally evaluated these solutions with respective competitor solutions on a set of microbenchmarks (e.g., data structures including distributed linked list, binary search tree and red-black tree) and macrobenchmarks (e.g., distributed versions of the applications in the STAMP STM benchmark suite for multiprocessors). Our experimental studies revealed that: 1) based on the same distributed queuing protocol (i.e., Ballistic CC protocol), DPQCC yields better transactional throughput than DQCC, by a factor of 50% - 100%, on a range of transactional workloads; 2) Relay outperforms competitor protocols (including Arrow, Ballistic and Home) by more than 200% when the network size and contention increase, as it efficiently reduces the average aborts per transaction (less than 0.5); 3) the DDA model outperforms existing contention management policies (including Greedy, Karma and Kindergarten managers) by upto 30%-40% in high contention environments; For read/write-balanced workloads, the DDA model outperforms these contention management policies by 30%-60% on average; for read-dominated workloads, the model outperforms by over 200%.",
+  "description_provenance": [
+    "Author Email: alexzbzb@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: plassmann@vt.edu",
+    "Advisor Email: akumar@vbi.vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:30Z (GMT). No. of bitstreams: 1 Zhang_B_D_2011.pdf: 1935681 bytes, checksum: 1828498a70b713854bb8cddd95116f39 (MD5)   Previous issue date: 2011-11-04"
+  ],
+  "handle": "29571",
+  "identifier_other": "etd-11132011-154958",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11132011-154958/",
+  "identifier_uri": "http://hdl.handle.net/10919/29571",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Zhang_B_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cache-Coherence",
+    "Distributed Queuing",
+    "Contention Management",
+    "Software Transactional Memory",
+    "Replication",
+    "Quorum System"
+  ],
+  "title": "Supporting Software Transactional Memory in Distributed Systems: Protocols for Cache-Coherence, Conflict Resolution and Replication",
+  "type": "Dissertation"
+}

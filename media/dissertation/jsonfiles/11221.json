@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Elahinia, Mohammad",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Inman, Daniel J.",
+    "Nayfeh, Ali H.",
+    "Henneke, Edmund G. II",
+    "Baumann, William T."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:02:57Z",
+  "date_adate": "2004-08-10",
+  "date_available": "2011-08-22T19:02:57Z",
+  "date_issued": "2004-07-20",
+  "date_rdate": "2004-08-10",
+  "date_sdate": "2004-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "While the existing thermomechanical constitutive models can predict the behavior of SMA-actuated systems in most cases, in this study, we have shown that there are certain situations in which these models are not able to predict the behavior of SMAs. To this end, a rotary SMA-actuated robotic arm is modeled using the existing constitutive models. The model is verified against the experimental results to document that under certain conditions, the model is not able to predict the behavior of the SMA-actuated manipulator. Such cases most often occur when the temperature and stress of the SMA wire change simultaneously. The constitutive model discrepancy is also studied experimentally using a dead-weight that is actuated by an SMA wire. Subsequently, an enhanced phenomenological model is developed. The enhanced model is able to predict the behavior of SMAs under complex thermomechanical loadings.  For the SMA-actuated robotic arm, several control methods are designed through simulations. A position-based PID controller is designed first, and it is found that this controller cannot perform well for all the desired angular positions(set-points). A Variable Structure Control (VSC) based on the angular position and velocity is presented that has a relatively better erformance for all the set-points. To improve the erformance of the VSC, in terms of the steady state error, an Extended Kalman Filter is designed and used to modify the VSC design. The modified VSC is based on the angular position and angular velocity of the actuator and the estimated temperature of the SMA wire. Furthermore, a Sliding Mode Controller is designed based on the stress of the SMA wire. Finally, a model-based Backstepping Controller is designed for the SMA-actuated arm. This model-bsed controller allows designing the controller parameters based on the parameters of the system. Additionally, the stability of the controller is studied. Using the Lyapunov stability analysis, it is shown that the model-based Backstepping Controller is able to asymptotically stabilize the system.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:57Z (GMT). No. of bitstreams: 7  vita.pdf: 49689 bytes, checksum: 96f3b2db848a80a74cf87917b01f415c (MD5)  contents.pdf: 84873 bytes, checksum: 5f8e32535aec5ebb5f97cdf0fc199d4e (MD5)  chapter_5_and_references.pdf: 77363 bytes, checksum: b3c964f96d2d809b204a33fdd3a6c2b5 (MD5)  chapter_1_to_4.pdf: 3380053 bytes, checksum: 8458583339ece98a01c3795d55355b6e (MD5)  appendecies.pdf: 91582 bytes, checksum: ef45c493a32cd393ae72c3ccd4c7b0ed (MD5)  abstract.pdf: 21260 bytes, checksum: 36484da197c0603ecd91ad3d87b3f0eb (MD5)  Title.pdf: 19358 bytes, checksum: 87aab37344b6f57d83a0a030cbcda258 (MD5)    Previous issue date: 2004-07-20",
+    "Author Email: elahinia@vt.edu",
+    "Advisor Email: ahmadian@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11221",
+  "identifier_other": "etd-08092004-112739",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08092004-112739",
+  "identifier_uri": "http://hdl.handle.net/10919/11221",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "abstract.pdf",
+    "contents.pdf",
+    "chapter_1_to_4.pdf",
+    "chapter_5_and_references.pdf",
+    "appendecies.pdf",
+    "vita.pdf",
+    "Title.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Model-based Control",
+    "Control",
+    "Complex Thermomechanical Loadings",
+    "Shape Memory Alloy",
+    "Modeling"
+  ],
+  "title": "Effect of System Dynamics on Shape Memory Alloy Behavior and Control",
+  "type": "Dissertation"
+}

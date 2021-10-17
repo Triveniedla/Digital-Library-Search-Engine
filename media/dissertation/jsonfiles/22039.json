@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Yonker, Justin David",
+  "contributor_committeechair": [
+    "Bailey, Scott M",
+    "Simonetti, John H"
+  ],
+  "contributor_committeemember": [
+    "Khodaparast, Giti",
+    "Sharpe, Eric R",
+    "Hagedorn, George A",
+    "Valeyev, Eduard Faritovich"
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2013-05-14T08:00:07Z",
+  "date_available": "2013-05-14T08:00:07Z",
+  "date_issued": "2013-05-13",
+  "degree_discipline": "Physics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The chemical reaction of the first excited electronic state of molecular nitrogen, N2(A), with ground state atomic oxygen is an important contributor to thermospheric nitric oxide (NO).  The importance is assessed by including this reaction in a one-dimensional photochemical model.  The method is to scale the photoelectron impact ionization rate of molecular nitrogen by a Gaussian centered near 100 km.<br /><br />Large uncertainties remain in the temperature dependence and branching ratios of many reactions important to NO production and loss. Similarly large uncertainties are present in the solar soft x-ray irradiance, known to be the fundamental driver of the low-latitude NO.  To illustrate, it is shown that the equatorial, midday NO density measured by the Student Nitric Oxide Explorer (SNOE) satellite near the Solar Cycle 23 maximum can be recovered by the model to within the 20% measurement uncertainties using two rather different but equally reasonable chemical schemes, each with their own solar soft-xray irradiance parameterizations.  Including the N2(A) changes the NO production rate by an average of 11%, but the NO density changes by a much larger 44%.  This is explained by tracing the direct, indirect, and catalytic contributions of N2(A) to NO, finding them to contribute 40%, 33%, and 27% respectively.   <br /><br />The contribution of N2(A) relative to the total NO production and loss is assessed by tracing both back to their origins in the primary photoabsorption and photoelectron impact processes.  The photoelectron impact ionization of N2 is shown to be the main driver of the midday NO production while the photoelectron impact dissociation of N2 is the main NO destroyer.  The net photoelectron impact excitation rate of N2, which is responsible for the N2(A) production, is larger than the ionization and dissociation rates and thus potentially very important.   Although the conservative assumptions regarding the level-specific NO yield from the N2(A)+O reaction results in N2(A) being a somewhat minor contributor, N2(A) production is found to be the most efficient producer of NO among the thermospheric energy deposition processes.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-14T08:00:07Z (GMT). No. of bitstreams: 1 Yonker_JD_D_2013.pdf: 3425344 bytes, checksum: fe32fe8c5c3d58e550f89c3b65894fcf (MD5)   Previous issue date: 2013-05-13",
+  "format_medium": "ETD",
+  "handle": "22039",
+  "identifier_other": "vt_gsexam:947",
+  "identifier_uri": "http://hdl.handle.net/10919/22039",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Atmospheric Science",
+    "Aeronomy",
+    "Ionosphere",
+    "Thermosphere",
+    "Nitrogen",
+    "Nitric Oxide",
+    "Solar Cycle",
+    "Solar Irradiance",
+    "EUV",
+    "XUV"
+  ],
+  "title": "Contribution of the First Electronically Excited State of Molecular Nitrogen to Thermospheric Nitric Oxide",
+  "type": "Dissertation"
+}

@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Wang, Jianfeng",
+  "contributor_committeechair": "Dove, Joseph E.",
+  "contributor_committeecochair": "Gutierrez, Marte S.",
+  "contributor_committeemember": [
+    "Kriz, Ronald D.",
+    "Filz, George M.",
+    "Mauldon, Matthew",
+    "Wang, Linbing"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:10:39Z",
+  "date_adate": "2006-05-05",
+  "date_available": "2014-03-14T20:10:39Z",
+  "date_issued": "2006-04-21",
+  "date_rdate": "2007-05-05",
+  "date_sdate": "2006-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The interphase is a localized region adjacent to a manufactured inclusion that is surrounded by granular soil. These regions are ubiquitous in civil infrastructure and often are components of large-scale composite systems. The interphase region influences load-deformation behavior of the entire composite system. However, mechanisms that control the mechanical behavior of the interphase region and, in turn, control the composite structure behavior, are not clearly understood. Few relationships exist for predicting interphase behavior from properties of granular materials and the inclusion surface that can be measured in the laboratory. <p> A two dimensional discrete element model of a general interphase system was developed and validated against laboratory data.  Numerical experiments are conducted with varying soil to inclusion relative geometry.  A new micromechanics-based approach, which utilizes microscopic quantities to explain the mechanics of granular media from a continuum point view, is adopted to investigate the mechanisms that underlie the interphase behavior.   <p> It is shown that the grain to inclusion surface relative geometry controls the degree of granular media strength mobilization by controlling development of fabric and contact force anisotropy inside the interphase region. A unique bilinear relationship exists between the mobilized granular media strength and the principal direction of average contact force anisotropy at the interface between the particles touching the surface and the inclusion. These findings suggest the problem is one of contact and can not be solved using purely geometric correlations, as past research presumed. A fundamental mechanism of behavior, long sought in geomechanics problems, is presented. Publications resulting from this research are significant and original contributions to the geoengineering, material science, geophysics and granular physics literature.",
+  "description_provenance": [
+    "Author Email: jiwang3@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: jodove@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Advisor Email: mauldon@vt.edu",
+    "Advisor Email: lbwang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:39Z (GMT). No. of bitstreams: 9 Chapter-2.pdf: 16732051 bytes, checksum: 730c9b36647b034b5c4204d999a559dc (MD5) Frontmatter.pdf: 154431 bytes, checksum: d5b0d28bbd0bbbf28e2a7ed319af3648 (MD5) Chapter-1.pdf: 575623 bytes, checksum: 46b11ae2587150cd7eeb40d41b7e1a40 (MD5) Chapter-3.pdf: 8629318 bytes, checksum: 60e347d005d3ece1379660b3700beff7 (MD5) Chapter-4.pdf: 10562436 bytes, checksum: 5bcbc3a07bcffaf3c20107cd9f150336 (MD5) Chapter-5.pdf: 3898597 bytes, checksum: 953702f02063792be06a03da083b41f9 (MD5) Chapter-6.pdf: 743762 bytes, checksum: d51ac04ad1d7a3d4f6b899071267a366 (MD5) Chapter-7.pdf: 42407 bytes, checksum: e2d0c86a09f6c699c629b5ea6cc2f733 (MD5) Appendix.pdf: 176204 bytes, checksum: 6da4e0872201b874608d150a08456681 (MD5)   Previous issue date: 2006-04-21"
+  ],
+  "handle": "27216",
+  "identifier_other": "etd-04242006-210518",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242006-210518/",
+  "identifier_uri": "http://hdl.handle.net/10919/27216",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter-2.pdf",
+    "Frontmatter.pdf",
+    "Chapter-1.pdf",
+    "Chapter-3.pdf",
+    "Chapter-4.pdf",
+    "Chapter-5.pdf",
+    "Chapter-6.pdf",
+    "Chapter-7.pdf",
+    "Appendix.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "interface strength",
+    "particulate-solid interaction",
+    "microscopic deformation",
+    "interphase behavior"
+  ],
+  "title": "Micromechanics of Granular Media: A Fundamental Study of Interphase Systems",
+  "type": "Dissertation"
+}

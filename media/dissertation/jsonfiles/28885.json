@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ching, Hsu-Kuang",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Librescu, Liviu",
+    "Kapania, Rakesh K.",
+    "Thangjitham, Surot",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:15:58Z",
+  "date_adate": "2002-09-12",
+  "date_available": "2014-03-14T20:15:58Z",
+  "date_issued": "2002-07-11",
+  "date_rdate": "2003-09-12",
+  "date_sdate": "2002-09-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The meshless local Petrov-Galerkin (MLPG) method is used to numerically find an approximate solution of plane strain/stress linear elastostatic and elastodynamic problems. The MLPG method requires only a set of nodes both for the interpolation of the solution variables and the evaluation of various integrals appearing in the problem formulation. The monomial basis functions in the MLPG formulation have been enriched with those for the linear elastic fracture mechanics solutions near a crack tip. Also, the diffraction and the visibility criteria have been added to make the displacement field discontinuous across a crack. A computer code has been developed in Fortran and validated by comparing computed solutions of three static and one dynamic problem with their analytical solutions. The capabilities of the code have been extended to analyze contact problems in which a displacement component and the complementary traction component are prescribed at the same point of the boundary.  The code has been used to analyze stress and deformation fields near a crack tip and to find the stress intensity factors by using contour integrals, the equivalent domain integrals and the J-integral and from the intercepts with the ordinate of the plots, on a logarithmic scale, of the stress components versus the distance ahead of the crack tip. We have also computed time histories of the stress intensity factors at the tips of a central crack in a rectangular plate with plate edges parallel to the crack loaded in tension. These are found to compare favorably with those available in the literature. The code has been used to compute time histories of the stress intensity factors in a double edge-notched plate with the smooth edge between the notches loaded in compression.  It is found that the deformation fields near the notch tip are mode-II dominant. The mode mixity parameter can be changed in an orthotropic plate by adjusting the ratio of the Young's moduli in the axial and the transverse direction.  The plane strain problem of compressing a linear elastic material confined in a rectangular cavity with rough horizontal walls and a smooth vertical wall has been studied with the developed code.  Computed displacements and stresses are found to agree well with the analytical solution of the problem obtained by the Laplace transform technique.    The Appendix describes the analysis with the finite element code ABAQUS of the dependence of the energy release rate upon the crack length in a polymeric disk enclosed in a steel ring and having a star shaped hole at its center. A starter crack is assumed to exist in one of the leaflets of the hole. The disk is loaded either by a pressure acting on the surfaces of the hole and the crack or by a temperature rise. Computed values of the energy release rate obtained by modeling the disk material as Hookean are found to be about 30% higher than those obtained when the disk material is modeled as Mooney-Rivlin. The latter set of results accounts for both material and geometric nonlinearities.",
+  "description_provenance": [
+    "Author Email: hching@vt.edu",
+    "Advisor Email: libresc@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:58Z (GMT). No. of bitstreams: 1 etd-ching.pdf: 4739981 bytes, checksum: 9fcf7417a72a156231b1204dd0ddfaeb (MD5)   Previous issue date: 2002-07-11"
+  ],
+  "handle": "28885",
+  "identifier_other": "etd-09072002-220456",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09072002-220456/",
+  "identifier_uri": "http://hdl.handle.net/10919/28885",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd-ching.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "The Newmark family of methods",
+    "J-integral",
+    "Stress intensity factors",
+    "MLPG method",
+    "Coulomb friction"
+  ],
+  "title": "Solution of Linear Elastostatic and Elastodynamic Plane Problems by the Meshless Local Petrov-Galerkin Method",
+  "type": "Dissertation"
+}

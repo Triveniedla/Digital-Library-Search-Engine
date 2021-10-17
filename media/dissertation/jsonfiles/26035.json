@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Pang, Ying-Feng",
+  "contributor_committeechair": "Scott, Elaine P.",
+  "contributor_committeemember": [
+    "West, Robert L. Jr.",
+    "Bohn, Jan Helge",
+    "Huxtable, Scott T.",
+    "van Wyk, Jacobus Daniel",
+    "Bikdash, Marwan U."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:06:52Z",
+  "date_adate": "2005-01-28",
+  "date_available": "2014-03-14T20:06:52Z",
+  "date_issued": "2005-01-20",
+  "date_rdate": "2005-01-28",
+  "date_sdate": "2005-01-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the increase dependency on electricity to provide correct form of electricity for lightning, machines, and home and office appliances, the need for the introduction of high reliability power electronics in converting the raw form of electricity into efficient electricity for these applications is uprising.  One of the most common failures in power electronics is temperature related failure such as overheating.  To address the issue of overheating, thermal management becomes an important mission in the design of the power electronics to ensure the functional power electronics.   Different approaches are taken by academia and industry researchers to provide efficient power electronics.  In particular, the Center for Power Electronics System (CPES) at Virginia Tech and four other universities presented the IPEM approach by introducing integrated power electronics modules (IPEM) as standardized units that will enable greater integration within power electronics systems and their end-use application.  The IPEM approach increases the integration in the components that make up a power electronics system through novel a packaging technique known as Embedded Power technology.    While the thermal behavior of commonly used packages such as pin grid arrays (PGA), ball grid array (BGA), or quad flat pack (QFP) are well-studied, the influence of the Embedded Power packaging architecture on the overall thermal performance of the IPEMs is not well known.  This motivates the presentation of this dissertation in developing an in-depth understanding on the thermal behavior of the Embedded Power modules.  In addition, this dissertation outlines some general guidelines for the thermal modeling and thermal testing for the Embedded Power modules.  Finally, this dissertation summarizes a few thermal design guidelines for the Embedded Power modules.  Hence, this dissertation aims to present significant and generalized scientific findings for the Embedded Power packaging from the thermal perspective.    Both numerical and experimental approaches were used in the studies.  Three-dimensional mathematical modeling and computational fluid dynamics (CFD) thermal analyses were performed using commercial numerical software, I-DEAS.  Experiments were conducted to validate the numerical models, characterize the thermal performance of the Embedded Power modules, and investigate various cooling strategies for the Embedded Power modules.  Validated thermal models were used for various thermal analyses including identifying potential thermal problems, recognizing critical thermal design parameters, and exploring different integrated cooling strategies.  This research quantifies various thermal design parameters such as the geometrical effect and the material properties on the thermal performance of the Embedded Power modules.  These parameters include the chip-to-chip distance, the copper trace area, the polyimide thickness, and the ceramic materials.  Since the Embedded Power technology utilizes metallization bonding as interconnection, specific design parameters such as the interconnect via holes pattern and size, the metallization thickness, as well as the metallization materials were also explored to achieve best results based on thermal and stress analyses.  With identified potential thermal problems and critical thermal design parameters, different integrated cooling strategies were studied.  The concept of integrated cooling is to incorporate the cooling mechanisms into the structure of Embedded Power modules.  The results showed that simple structural modifications to the current Embedded Power modules can reduce the maximum temperature of the module by as much as 24%.  Further improvement can be achieved by employing double-sided cooling to the Embedded Power modules.   Based on the findings from the thermal analyses, general design guidelines were developed for future design of such Embedded Power modules.  In addition, thermal modeling and testing guidelines for the Embedded Power modules were also outlined in this dissertation.",
+  "description_provenance": [
+    "Author Email: ypang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:52Z (GMT). No. of bitstreams: 1 ETD_ypang.pdf: 3314377 bytes, checksum: 28e42bd0a879c0c576ef52753b152465 (MD5)   Previous issue date: 2005-01-20"
+  ],
+  "handle": "26035",
+  "identifier_other": "etd-01252005-134651",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01252005-134651/",
+  "identifier_uri": "http://hdl.handle.net/10919/26035",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_ypang.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "thermal management",
+    "thermal modeling",
+    "thermal analysis",
+    "integrated cooling",
+    "integrated power electronics module"
+  ],
+  "title": "Assessment of Thermal Behavior and Development of Thermal Design Guidelines for Integrated Power Electronics Modules",
+  "type": "Dissertation"
+}

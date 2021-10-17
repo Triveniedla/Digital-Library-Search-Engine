@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Kim, Mischa",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Stilwell, Daniel J.",
+    "Schaub, Hanspeter",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:10:11Z",
+  "date_adate": "2005-04-25",
+  "date_available": "2014-03-14T20:10:11Z",
+  "date_issued": "2005-04-18",
+  "date_rdate": "2005-04-25",
+  "date_sdate": "2005-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Trajectory optimization is a powerful technique to analyze mission feasibility during mission design. High-thrust trajectory optimization problems are typically formulated as discrete optimization problems and are numerically well-behaved. Low-thrust systems, on the other hand, operate for significant periods of the mission time. As a result, the solution approach requires continuous optimization; the associated optimal control problems are in general numerically ill-conditioned. In addition, case studies comparing the performance of low-thrust technologies for space travel have not received adequate attention in the literature and are in most instances incomplete. The objective of this dissertation is therefore to design an efficient optimal control algorithm and to apply it to the minimum-time transfer problem of low-thrust spacecraft. We devise a cascaded computational scheme based on numerical and analytical methods. Whereas other conventional optimization packages rely on numerical solution approaches, we employ analytical and semi-analytical techniques such as symmetry and homotopy methods to assist in the solution-finding process. The first objective is to obtain a single optimized trajectory that satisfies some given boundary conditions. The initialization phase for this first trajectory includes a global, stochastic search based on Adaptive Simulated Annealing; the fine tuning of optimization parameters â   the local search â   is accomplished by Quasi-Newton and Newton methods. Once an optimized trajectory has been obtained, we use system symmetry and homotopy techniques to generate additional optimal control solutions efficiently. We obtain optimal trajectories for several interrelated problem families that are described as Multi-Point Boundary Value Problems. We present and prove two theorems describing system symmetries for solar sail spacecraft and discuss symmetry properties and symmetry breaking for electric spacecraft systems models. We demonstrate how these symmetry properties can be used to significantly simplify the  solution-finding process.",
+  "description_provenance": [
+    "Author Email: mischa@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:11Z (GMT). No. of bitstreams: 1 MKDissertation.pdf: 1823944 bytes, checksum: 1d468899c13a1ee037def245fe27499a (MD5)   Previous issue date: 2005-04-18"
+  ],
+  "handle": "27046",
+  "identifier_other": "etd-04202005-133342",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202005-133342/",
+  "identifier_uri": "http://hdl.handle.net/10919/27046",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MKDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Trajectory Optimization",
+    "Low-Thrust Propulsion",
+    "Symmetry"
+  ],
+  "title": "Continuous Low-Thrust Trajectory Optimization: Techniques and Applications",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Locatelli, Davide",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Patil, Mayuresh J.",
+    "Thangjitham, Surot",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:07:56Z",
+  "date_adate": "2012-04-11",
+  "date_available": "2014-03-14T20:07:56Z",
+  "date_issued": "2012-01-27",
+  "date_rdate": "2012-04-11",
+  "date_sdate": "2012-03-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation investigates the advantages of using curvilinear spars and ribs, termed SpaRibs, to design supersonic aircraft wing-box in comparison to the use of classic design concepts that employ straight spars and ribs. The intent is to achieve a more efficient load-bearing mechanism and to passively control aeorelastic behavior of the structure under the flight loads. The use of SpaRibs broadens the design space and allows for the natural frequencies and natural mode shape tailoring. The SpaRibs concept is implemented in a new MATLAB-based optimization framework referred to as EBF3SSWingOpt. This framework interfaces different analysis software to perform the tasks required. VisualDOC is used as optimizer; the generation of the SpaRibs geometry and of the structure Finite Element Model (FEM) is performed by MD.PATRAN; MD.NASTRAN is utilized to compute the weight of the structure, the linear static stress analysis and the linear buckling analysis required for the calculation of the response functions. EBF3SSWingOpt optimization scheme performs both the sizing and the shaping of the internal structural elements. Two methods are compared while optimizing the wing-box; a One-Step method in which sizing and topology optimization are carried out simultaneously and a Two-Step method, in which the sizing and topology optimization are carried out separately but in an iterative way. The optimization problem statements for the One-Step and the Two-Step methodologies are presented. Three methods to define the shape of the SpaRibs parametrically are described: (1) the Bounding Box and Base Curves method defines the shape of the SpaRibs based on the shape of two curves called Base Curves which are positioned into the Bounding Box, a rectangular region defined on the plane z=0 and containing the projection of the wing plan-form onto the same plane; (2) the Linked Shape method defines the shape of a set of SpaRibs in a one by one square domain of the natural space. The set of curves is subsequently transformed in the physical space for creating the wing structure geometry layout. The shape of each curve of each set is unique however, mathematical relations link their curvature in an effort to reduce the number of design variables; and (3) the Independent Shape parameterization is similar to the Linked Shape parameterization however, the shape of each curve is unique.   The framework and parameterization methods described are applied to optimize different types of wing structures. Following results are presented and discussed: (1) a rectangular wing-box subjected to a chord-wise linearly varying load, optimized using SpaRibs parameterized with Bounding-Box and Base Curves method; (2) a rectangular wing-box subjected to a chord-wise linearly varying load, optimized using SpaRibs parameterized with Linked Shape method; (3) a generic fighter wing subjected to uniform distributed pressure load, optimized using SpaRibs parameterized with Bounding-Box and Base Curves method; (4) a general business jet wing subjected to pull-up maneuver loads computed using ZESt (ZONA Technology Inc. Steady Euler equations solver), optimized using SpaRibs parameterized with Independent Shape method; (5) a preliminary application of the Linked Shape parameterization to place SpaRibs into a high speed commercial transport aircraft wing-box characterized by high geometry layout complexity; and (6) an optimization of panels subjected to axial and shear loads using curvilinear stiffeners and grids of curvilinear stiffeners. The results for the optimization of the rectangular wing-box show 36.8% weight reduction from the baseline, when the Bounding Box and Base Curves parameterization is applied and the Two-Step framework is implemented. For the same structure the weight reduction amounts to 46.7% when the Linked Shape parameterization and the Two-Step framework are used. Similar results are obtained for the generic fighter wing-box structure. In this case, the weight saving is about 20%. Bounding Box and Base Curves parameterization and Two-Step framework are used. Finally, the weight reduction for the general business jet wing-box structure amounts to 17% of the baseline weight. In this case, the computation is carried out using the Independent Shape parameterization and the Two-Step framework. In general, the Two-Step optimization framework finds better optimal structure configurations as compared to the One-Step optimization framework. However, the computational time required to find to optimum with the Two-Step optimization is larger when a small number of particles are used in the particle swarm optimization method. For larger number of particles, the computational time for the two methods is comparable. Finally for very large number of particles the Two-Step optimization requires less computational time. It is also important to notice how the Two-Step framework consistently leads to a better optimum than the One-Step framework, for the same number of particles.",
+  "description_provenance": [
+    "Author Email: dloca78@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:56Z (GMT). No. of bitstreams: 1 Locatelli_D_D_2012.pdf: 21885604 bytes, checksum: 54fa41da59dac48cf9628df6f287cb11 (MD5)   Previous issue date: 2012-01-27"
+  ],
+  "handle": "26345",
+  "identifier_other": "etd-03022012-160740",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03022012-160740/",
+  "identifier_uri": "http://hdl.handle.net/10919/26345",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Locatelli_D_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Structural Optimization",
+    "Wing Optimization",
+    "SpaRibs",
+    "Aircraft Design",
+    "Particle Swarm Optimization",
+    "Supersonic Aircraft Design"
+  ],
+  "title": "Optimization of Supersonic Aircraft Wing-Box using Curvilinear SpaRibs",
+  "type": "Dissertation"
+}

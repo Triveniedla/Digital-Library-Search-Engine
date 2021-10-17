@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Sin, Heung  Gweon",
+  "contributor_committeechair": "Rakha, Hesham Ahmed",
+  "contributor_committeemember": [
+    "Collura, John",
+    "Dion, Francois",
+    "Trani, Antonio A.",
+    "Teodorovic, Dusan"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:16:52Z",
+  "date_adate": "2001-09-28",
+  "date_available": "2014-03-14T20:16:52Z",
+  "date_issued": "2001-07-02",
+  "date_rdate": "2002-09-28",
+  "date_sdate": "2001-09-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Field Evaluation Methodology for Quantifying Network-wide Efficiency, Energy, Emission, and Safety Impacts of Operational-Level Transportation Projects  Heung Gweon Sin  (ABSTRACT)  This thesis presents a proposed methodology for the field evaluation of the efficiency, energy, environmental, and safety impacts of traffic-flow improvement projects. The methodology utilizes Global Positioning System (GPS) second-by-second speed measurements using fairly inexpensive GPS units to quantify the impacts of traffic-flow improvement projects on the efficiency, energy, and safety of a transportation network. It should be noted that the proposed methodology is incapable of isolating the effects of induced demand and is not suitable for estimating long-term impacts of such projects that involve changes in land-use. Instead, the proposed methodology can quantify changes in traffic behavior and changes in travel demand.   This thesis, also, investigates the ability of various data smoothing techniques to remove such erroneous data without significantly altering the underlying vehicle speed profile. Several smoothing techniques are then applied to the acceleration profile, including data trimming, Simple Exponential smoothing, Double Exponential smoothing, Epanechnikov Kernel smoothing, Robust Kernel smoothing, and Robust Simple Exponential Smoothing.  The results of the analysis indicate that the application of Robust smoothing (Kernel of Exponential) to vehicle acceleration levels, combined with a technique to minimize the difference between the integral of the raw and smoothed acceleration profiles, removes invalid GPS data without significantly altering the underlying measured speed profile  The methodology has been successfully applied to two case studies provided insights as to the potential benefits of coordinating traffic signals across jurisdictional boundaries. More importantly two case studies demonstrate the feasibility of using GPS second-by-second speed measurements for the evaluation of operational-level traffic flow improvement projects. To identify any statistically significant differences in traffic demand along two case study corridors before and after traffic signal condition, tube counts and turning counts were collected and analyzed using ANOVA technique. The ANOVA results of turning volume counts indicated that there is no statistically significant difference in turning volumes between the before and after conditions. Furthermore, the ANOVA results of tube counts also confirmed that there did not appear to be a statistically significant difference (5 percent level of significance) in the tube counts between the before and after conditions.",
+  "description_provenance": [
+    "Author Email: hsin@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: jcollura@vt.edu",
+    "Advisor Email: fdion@vtti.vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:52Z (GMT). No. of bitstreams: 1 Dissertation1.pdf: 826772 bytes, checksum: e185e5f1137a8affbfd60fec5d1a8f5a (MD5)   Previous issue date: 2001-07-02"
+  ],
+  "handle": "29124",
+  "identifier_other": "etd-09282001-123336",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09282001-123336/",
+  "identifier_uri": "http://hdl.handle.net/10919/29124",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Smoothing Techniques",
+    "Global Positioning System",
+    "Field Evaluation"
+  ],
+  "title": "Field Evaluation Methodology for Quantifying Network-wide Efficiency, Energy, Emission, and Safety Impacts of Operational-level Transportation Projects",
+  "type": "Dissertation"
+}

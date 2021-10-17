@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Govindarajan Balakumaran, Soundar Sriram",
+  "contributor_committeechair": "Weyers, Richard E.",
+  "contributor_committeemember": [
+    "Roberts-Wollmann, Carin L.",
+    "Cousins, Thomas E.",
+    "Brown, Michael C."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:08:14Z",
+  "date_adate": "2012-04-26",
+  "date_available": "2014-03-14T20:08:14Z",
+  "date_issued": "2012-03-01",
+  "date_rdate": "2012-04-26",
+  "date_sdate": "2012-03-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Modeling of chloride-induced deterioration of bridge decks by using Fickâ  s Second Law of diffusion was performed. The objective of this study is to select suitable input parameters for the model to estimate the service life of bridge decks. Five bridge decks, one in each of the following states, Virginia, Florida, New Jersey, New York, and Minnesota were evaluated.  Data collection process involved visual inspections, damage surveys, corrosion testing including continuity, one-point resistivity, four-point resistivity, half-cell potentials, and three-electrode linear polarization, reinforcement cover depths, chloride samples. The Virginia bridge deck was built with epoxy-coated reinforcement as top reinforcement mat and black bar as the bottom mat. The Florida bridge is a segmental prestressed box girder structure built with black bar. The New Jersey bridge deck was overlaid with latex modified concrete. The New York bridge deck, which was built in 1990, is six inch concrete topping over prestressed adjacent box beams structure with epoxy-coated bar in the negative moment area. The Minnesota bridge was rebuilt in 1984. The deck was rebuilt with epoxy coated reinforcing steel in the top and bottom mats.  The probabilistic Fickian model requires reinforcement cover depths, surface chloride concentration, chloride initiation concentration, and diffusion coefficients as input parameters. The chloride initiation concentration was input via parametric bootstrapping, while the other parameters were input as simple bootstrapping. Chloride initiation concentration was determined from the chloride concentration at the reinforcement bar depths.  The modeling results showed that the deterioration of the Virginia bridge deck was corrosion controlled and the bridge will undergo increasingly severe damage in the future. Florida bridge deck is not undergoing corrosion and will not experience corrosion damage within 100 years. New Jersey bridge deckâ  s service life has been most likely extended by the overlay. Deterioration of the New York bridge was not corrosion controlled, but was related to longitudinal cracking of the topping at match lines of adjacent box beams. Minnesota bridge deck is delaminated and contained a large number of cracks that should be included in service life modeling; otherwise the service life estimate is underestimated.  In addition to service life corrosion performance modeling, analyses were conducted on the relationships and interrelations of resistivity, corrosion potential, corrosion current and chloride at the reinforcing bar depth.",
+  "description_provenance": [
+    "Author Email: soundar1@vt.edu",
+    "Advisor Email: wollmann@vt.edu",
+    "Advisor Email: tcousins@vt.edu",
+    "Advisor Email: mibrown7@vt.edu",
+    "Advisor Email: rweyers@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:14Z (GMT). No. of bitstreams: 1 GovindarajanBalakumaran_SS_D_2012.pdf: 41567526 bytes, checksum: 882eb0d3ec0989c51103278904f811f3 (MD5)   Previous issue date: 2012-03-01"
+  ],
+  "handle": "26437",
+  "identifier_other": "etd-03152012-231349",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03152012-231349/",
+  "identifier_uri": "http://hdl.handle.net/10919/26437",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "GovindarajanBalakumaran_SS_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "corrosion",
+    "service life",
+    "bridge decks",
+    "modeling",
+    "deterioration",
+    "chloride diffusion",
+    "concrete",
+    "epoxy",
+    "overlay",
+    "LTBP"
+  ],
+  "title": "Corrosion Testing and Modeling of Chloride-Induced Corrosion Deterioration of Concrete Bridge Decks",
+  "type": "Dissertation"
+}

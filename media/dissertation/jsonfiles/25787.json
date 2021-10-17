@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Morris, Craig C.",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeecochair": [
+    "Sultan, Cornel",
+    "Kapania, Rakesh K.",
+    "Alyanak, Edward"
+  ],
+  "contributor_department": "Aerospace Engineering",
+  "date_accessioned": "2014-02-27T16:38:20Z",
+  "date_available": "2014-02-27T16:38:20Z",
+  "date_issued": "2014-02-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "Ph.D.",
+  "description_abstract": "This work details the development of a stability and control module for implementation into a Multidisciplinary Design Optimization (MDO) framework for the conceptual design of conventional and advanced aircraft. A novel approach, called the Variance Constrained Flying Qualities (VCFQ) approach, is developed to include closed-loop dynamic performance metrics in the design optimization process. The VCFQ approach overcomes the limitations of previous methods in the literature, which only functioned for fully decoupled systems with single inputs to the system. Translation of the modal parameter based flying qualities requirements into state variance upper bounds allows for multiple-input control laws which can guarantee upper bounds on closed-loop performance metrics of the aircraft states and actuators to be rapidly synthesized. A linear matrix inequality (LMI) problem formulation provides a general and scalable numerical technique for computing the feedback control laws using convex optimization tools. The VCFQ approach is exercised in a design optimization study of a relaxed static stability transonic transport aircraft, wherein the empennage assembly is optimized subject to both static constraints and closed-loop dynamic constraints. Under the relaxed static stability assumption, application of the VCFQ approach resulted in a 36% reduction in horizontal tail area and a 32% reduction in vertical tail area as compared to the baseline configuration, which netted a weight savings of approximately 5,200 lbs., a 12% reduction in cruise trimmed drag, and a static margin which was marginally stable or unstable throughout the flight envelope. State variance based dynamic performance constraints offer the ability to analyze large, highly coupled systems, and the linear matrix inequality problem formulation can be extended to include higher-order closed-loop design objectives within the MDO. Recommendations for further development and extensions of this approach are presented at the end.",
+  "description_degree": "Ph.D.",
+  "description_provenance": [
+    "Submitted by Janice Austin (jamarti1@vt.edu) on 2014-02-27T16:38:20Z  No. of bitstreams: 1  Morris_ETD_Final_Approved.pdf: 8585105 bytes, checksum: f2e59259e6a996dbb2c148c2ba0ef683 (MD5)",
+    "Made available in DSpace on 2014-02-27T16:38:20Z (GMT). No. of bitstreams: 1  Morris_ETD_Final_Approved.pdf: 8585105 bytes, checksum: f2e59259e6a996dbb2c148c2ba0ef683 (MD5)"
+  ],
+  "description_sponsorship": "This material is based on research sponsored by Air Force Research Laboratory under agreement number FA8650-09-2-3938. The U.S. Government is authorized to reproduce and distribute reprints for Governmental purposes notwithstanding any copyright notation thereon. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of Air Force Research Laboratory or the U.S. Government.",
+  "handle": "25787",
+  "identifier_uri": "http://hdl.handle.net/10919/25787",
+  "language_iso": "en_US",
+  "publisher": "Virginia Tech",
+  "subject": [
+    "MDO",
+    "Dynamic Performance",
+    "Stability and Control",
+    "Linear Matrix Inequalities"
+  ],
+  "title": "Flight Dynamic Constraints in Conceptual Aircraft Multidisciplinary Analysis and Design Optimization",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Gillett, Philip Winslow",
+  "contributor_committeecochair": [
+    "Johnson, Martin E.",
+    "Carneal, James P."
+  ],
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Roan, Michael J.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:54Z",
+  "date_adate": "2009-09-25",
+  "date_available": "2014-03-14T20:15:54Z",
+  "date_issued": "2009-08-27",
+  "date_rdate": "2009-09-25",
+  "date_sdate": "2009-09-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Microphone arrays are becoming increasingly integrated into every facet of life.  From sonar to gunshot detection systems to hearing aids, the performance of each system is enhanced when multi-sensor processing is implemented in lieu of single sensor processing.  Head mounted microphone arrays have a broad spectrum of uses that follow the rigorous demands of human hearing.  From noise cancellation to focused listening, from localization to classification of sound sources, any and all attributes of human hearing may be augmented through the use of microphone arrays and signal processing algorithms.  Placing a set of headphones on a human provides several desirable features such as hearing protection, control over the acoustic environment (via headphone speakers), and a means of communication.  The shortcoming of headphones is the complete occlusion of the pinnae (the ears), disrupting auditory cues utilized by humans for sound localization.  This thesis presents the underlying theory in designing microphone arrays placed on diffracting bodies, specifically the human head.  A progression from simple to complex geometries chronicles the effect of diffracting structures on array manifold matrices.  Experimental results validate theoretical and computational models showing that arrays mounted on diffracting structures provide better beamforming and localization performance than arrays mounted in the free field.  Data independent, statistically optimal, and adaptive beamforming methods are presented to cover a broad range of goals present in array applications.  A framework is developed to determine the performance potential of microphone array designs regardless of geometric complexity.  Directivity index, white noise gain, and singular value decomposition are all utilized as performance metrics for array comparisons.  The biological basis for human hearing is presented as a fundamental attribute of headset array optimization methods.  A method for optimizing microphone locations for the purpose of the recreation of HRTFs is presented, allowing transparent hearing (also called natural hearing restoration) to be performed.  Results of psychoacoustic testing with a prototype headset array are presented and examined.  Subjective testing shows statistically significant improvements over occluded localization when equipped with this new transparent hearing system prototype.",
+  "description_provenance": [
+    "Author Email: pgillett@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: mroan@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: jcarneal@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:54Z (GMT). No. of bitstreams: 1 GillettDissertation2.pdf: 22144063 bytes, checksum: 7ec92ca811e617a1d113bde5aa56d6b5 (MD5)   Previous issue date: 2009-08-27"
+  ],
+  "handle": "28867",
+  "identifier_other": "etd-09042009-104511",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09042009-104511/",
+  "identifier_uri": "http://hdl.handle.net/10919/28867",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "GillettDissertation2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "transparent hearing",
+    "voice isolation",
+    "acoustic localization",
+    "array performance",
+    "array design optimization"
+  ],
+  "title": "Head Mounted Microphone Arrays",
+  "type": "Dissertation"
+}

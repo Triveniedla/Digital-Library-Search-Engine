@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Chafekar, Deepti Ramesh",
+  "contributor_committeecochair": [
+    "Vullikanti, Anil Kumar S.",
+    "Marathe, Madhav V."
+  ],
+  "contributor_committeemember": [
+    "Back, Godmar V.",
+    "Barrett, Christopher L.",
+    "Hou, Yiwei Thomas",
+    "Srinivasan, Aravind"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:09:52Z",
+  "date_adate": "2009-05-06",
+  "date_available": "2014-03-14T20:09:52Z",
+  "date_issued": "2009-03-11",
+  "date_rdate": "2009-05-06",
+  "date_sdate": "2009-04-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A fundamental problem in multi-hop wireless networks is to estimate their throughout capacity. The problem can be informally stated as follows: given a multi-hop wireless network and a set of source destination pairs, determine the maximum rate r at which data can be transmitted between each source destination pair.  Estimating the capacity of a multi-hop wireless network is practically useful --- it yields insights into the fundamental performance limits of the wireless network and at the same time aids the development of protocols that can utilize the network close to this limit.  A goal of this dissertation is to develop rigorous mathematical foundations to compute the capacity of any given multi-hop wireless network with known source-destination pairs.  An important factor that affects the capacity of multi-hop wireless networks is radio interference. As a result, researchers have proposed increasingly realistic interference models that aim to capture the physical characteristics of radio signals.  Some of the commonly used simple models that capture radio interference are based on geometric disk-graphs. The simplicity of these models facilitate the development of provable and often conceptually simple methods for estimating the capacity of wireless networks. A potential weakness of this class of models is that they oversimplify the physical process by assuming that the signal ends abruptly at the boundary of a geometric region (a disk for omni-directional antennas).  A more sophisticated interference model is the physical interference model, also known as the Signal to Interference Plus Noise Ratio (SINR) model. This model is more realistic than disk-graph models as it captures the effects of signal fading and ambient noise. This work considers both disk-graph and SINR interference models.  In addition to radio interference, the throughput capacity of a multi-hop wireless network also depends on other factors, including the specific paths selected to route the packets between the source destination pairs (routing), the time at which packets are transmitted (scheduling), the power with which nodes transmit (power control) and the rate at which packets are injected (rate control). In this dissertation, we consider three different problems related to estimating network capacity. We propose an algorithmic approach for solving these problems.  We first consider the problem of maximizing throughput with the SINR interference model by jointly considering the effects of routing and scheduling constraints. Second, we consider the problem of maximizing throughput by performing adaptive power control, scheduling and routing for disk-graph interference models.  Finally, we examine the problem of minimizing end-to-end latency by performing joint routing, scheduling and power control using the SINR interference model. Recent results have shown that traditional layered networking principles lead to inefficient utilization of resources in multi-hop wireless networks. Motivated by these observations, recent papers have begun investigating cross-layer design approaches. Although our work does not develop new cross-layered protocols, it yields new insights that could contribute to the development of such protocols in the future.  Our approach for solving these multi-objective optimization problems is based on combining mathematical programming with randomized rounding to obtain polynomial time approximation algorithms with provable worst case performance ratios. For the problems considered in this work, our results provide the best analytical performance guarantees currently known in the literature. We complement our rigorous theoretical and algorithmic analysis with simulation-based experimental analysis. Our experimental results help us understand the limitations of our approach and assist in identifying certain parameters for improving the performance of our techniques.",
+  "description_provenance": [
+    "Author Email: chafekar@vt.edu",
+    "Advisor Email: akumar@vbi.vt.edu",
+    "Advisor Email: mmarathe@vbi.vt.edu",
+    "Advisor Email: gback@vt.edu",
+    "Advisor Email: cbarrett@vbi.vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: srin@cs.umd.edu",
+    "Made available in DSpace on 2014-03-14T20:09:52Z (GMT). No. of bitstreams: 1 chafekar_dissertation_09_etd.pdf: 1262842 bytes, checksum: d77fcc9bac4db65a0f3f7658ea039025 (MD5)   Previous issue date: 2009-03-11"
+  ],
+  "handle": "26939",
+  "identifier_other": "etd-04172009-011100",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04172009-011100/",
+  "identifier_uri": "http://hdl.handle.net/10919/26939",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "chafekar_dissertation_09_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "SINR model",
+    "approximation algorithms",
+    "cross-layer design",
+    "interference",
+    "Wireless networks"
+  ],
+  "title": "Capacity Characterization of Multi-Hop Wireless Networks- A Cross Layer Approach",
+  "type": "Dissertation"
+}

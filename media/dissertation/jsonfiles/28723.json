@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Dickerson, Jr., Jerold W.",
+  "contributor_committeechair": "Hagedorn, Charles  III",
+  "contributor_committeemember": [
+    "Zipper, Carl E.",
+    "Younos, Tamim",
+    "Knowlton, Katharine F.",
+    "Stevens, Ann M."
+  ],
+  "contributor_department": "Crop and Soil Environmental Sciences",
+  "date_accessioned": "2014-03-14T20:15:26Z",
+  "date_adate": "2008-09-26",
+  "date_available": "2014-03-14T20:15:26Z",
+  "date_issued": "2008-07-29",
+  "date_rdate": "2008-09-26",
+  "date_sdate": "2008-08-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The microbial source tracking (MST) methods of antibiotic resistance analysis (ARA) and fluorometry (to detect optical brighteners in detergents) were used in the summers of 2004 and 2005 to determine the origins of fecal pollution at beaches with a past history of, or the potential for, high enterococci counts and posted advisories.  At Hilton and Anderson beaches, ARA and fluorometry in the summer of 2004 detected substantial human-origin pollution in locations producing consistently high counts of Enterococcus spp.  Investigations by municipal officials led to the fluorometric detection and subsequent repair of sewage infrastructure problems at both beaches.  The success of these mitigation efforts was confirmed during the summer of 2005 using ARA and fluorometry, with the results cross-validated by pulsed-field gel electrophoresis (PFGE).  Results at other beaches indicated that birds and/or wildlife were largely responsible for elevated enterococci levels during 2004 and 2005. The application of fluorometry proved difficult in opens waters due to high levels of dilution, but showed potential for use in storm drains.    An additional study developed and tested a new library-based MST approach based on the pattern of DNA band lengths produced by the amplification of the 16S-23S rDNA intergenic spacer region, and subsequent digestion using the restriction endonuclease MboI.  Initial results from small known-source libraries yielded high average rates of correct classification (ARCC).  However, an increase in the library size was accompanied by a reduction in the ARCC of the library and the method was deemed unsuccessful, and unsuitable for field application.  A final study focused on the potential for classification bias with disproportionate source category sizes using discriminant analysis (DA), logistic regression (LR), and k-nearest neighbor (K-NN) statistical classification algorithms.  Findings indicated that DA was the most robust algorithm for use with source category imbalance when measuring both correct and incorrect classification rates.  Conversely k-NN was identified as the most sensitive algorithm to imbalances with the greatest levels of distortion obtained from the highest k values.   \tConclusions of this project include:  1) application of a validation set, as well as a minimum detectable percentage to known-source libraries aids in accurately assessing the classification power of the library and reducing the false positive identification of contributing fecal sources; 2) the validation of MST results using multiple methods is recommended for field applications; 3) fluorometry displayed potential for detecting optical brighteners as indicators of sewage leaks in storm drains; 4)  the digestion of the 16S-23S rDNA intergenic spacer region of Enterococcus spp. using MboI does not provided suitable discriminatory power for use as an MST method; and 5) DA was the least, and k-NN the most, sensitive algorithm to imbalances in the size of source categories in a known-source library.",
+  "description_provenance": [
+    "Author Email: jwdicker@vt.edu",
+    "Advisor Email: chagedor@vt.edu",
+    "Advisor Email: czip@vt.edu",
+    "Advisor Email: tyounos@vt.edu",
+    "Advisor Email: kknowlto@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:26Z (GMT). No. of bitstreams: 1 DissertationJD.pdf: 2095149 bytes, checksum: 1460de2cbf76e3c14b5de2a7c592c312 (MD5)   Previous issue date: 2008-07-29"
+  ],
+  "handle": "28723",
+  "identifier_other": "etd-08192008-142128",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08192008-142128/",
+  "identifier_uri": "http://hdl.handle.net/10919/28723",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationJD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "enterococci",
+    "antibiotic resistance analysis",
+    "microbial source tracking",
+    "fecal pollution",
+    "recreational waters",
+    "fluorometry"
+  ],
+  "title": "Evaluation, Development and Improvement of Genotypic, Phenotypic and Chemical Microbial Source Tracking Methods and Application to Fecal Pollution at Virginia's Public Beaches",
+  "type": "Dissertation"
+}

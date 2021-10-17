@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Muqaibel, Ali Hussein",
+  "contributor_committeecochair": [
+    "Riad, Sedki Mohamed",
+    "Safaai-Jazi, Ahmad",
+    "Woerner, Brian D."
+  ],
+  "contributor_committeemember": [
+    "Nahman, Norris S.",
+    "Besieris, Ioannis M.",
+    "Kohler, Werner E.",
+    "Tranter, William H."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:06Z",
+  "date_adate": "2003-03-14",
+  "date_available": "2014-03-14T20:08:06Z",
+  "date_issued": "2003-03-05",
+  "date_rdate": "2004-03-14",
+  "date_sdate": "2003-03-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ultra-wideband (UWB) communication has been the subject of extensive research in recent years due to its unique capabilities and potential applications, particularly in short-range multiple access wireless communications. However, many important aspects of UWB-based communication systems have not yet been thoroughly investigated. The propagation of UWB signals in indoor environments is the single most important issue with significant impacts on the future direction, scope, and generally the extent of the success of UWB technology. The objective of this dissertation is to obtain a more thorough and comprehensive understanding of the potentials of UWB technology by characterizing the UWB communication channels. Channel characterization refers to extracting the channel parameters from measured data. The extracted parameters are used to quantify the effect of the channel on communication UWB systems using this channel as signal transmission medium. Data are measured in different ways using a variety of time-domain and frequency-domain techniques. The experimental setups used in channel characterization effort also include pulse generators and antennas as integral parts of the channel, since the pulse shape and antenna characteristics have significant impact on channel parameters.  At a fundamental level, the propagation of UWB signals, as any electromagnetic wave, is governed, among other things, by the properties of materials in the propagation medium. One of the objectives of this research is to examine propagation through walls made of typical building materials and thereby acquire ultra-wideband characterization of these materials.  The loss and the dielectric constant of each material are measured over a frequency range of 1 to 15 GHz. Ten commonly used building materials are chosen for this investigation. These include, dry wall, wallboard, structure wood, glass sheet, bricks, concrete blocks, reinforced concrete (as pillar), cloth office partition, wooden door, and styrofoam slab. The work on ultra-wideband characterization of building materials resulted in an additional interesting contribution. A new formulation for evaluating the complex dielectric constant of low-loss materials, which involves solving real equations and thus requiring only one-dimensional root searching techniques, was found. The results derived from the exact complex equation and from the new formulation are in excellent agreement.  Following the characterization of building materials, an indoor UWB measurement campaign is undertaken.  Typical indoor scenarios, including line-of-sight (LOS), non-line-of-sight (NLOS), room-to-room, within-the-room, and hallways, are considered.  Results for indoor propagation measurements are presented for local power delay profiles (local-PDP) and small-scale averaged power delay profiles (SSA-PDP). Site-specific trends and general observations are discussed. The results for pathloss exponent and time dispersion parameters are presented. The analyses results indicate the immunity of UWB signals to multipath fading. The results also clearly show that UWB signals, unlike narrowband signals, do not suffer from small scale fading, unless the receiver is too close to walls. Multipath components are further studies by employing a deconvolution technique. The application of deconvolution results in resolving multipath components with waveforms different from those of the sounding pulse. Resolving more components can improve the design of the rake receiver. The final part of this research elaborates on the nature of multiple access interference and illustrates the application of multi-user detection to improve the performance of impulse radio systems. Measured dispersion parameters and their effects on the multiple access parameters are discussed.",
+  "description_provenance": [
+    "Author Email: amugaibe@vt.edu",
+    "Advisor Email: nsnahman@ieee.org",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:06Z (GMT). No. of bitstreams: 1 ChsUWBCommChannelsMuqaibel.pdf: 7953461 bytes, checksum: c63356240b90c6755b3ce8b378c5158a (MD5)   Previous issue date: 2003-03-05"
+  ],
+  "handle": "26398",
+  "identifier_other": "etd-03092003-095217",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03092003-095217/",
+  "identifier_uri": "http://hdl.handle.net/10919/26398",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ChsUWBCommChannelsMuqaibel.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Impulse Radio",
+    "Wireless Propagation",
+    "Ultra Wideband",
+    "Time Domain Measurements",
+    "Channel Characterization",
+    "Pulse Communication."
+  ],
+  "title": "Characterization of Ultra Wideband Communication Channels",
+  "type": "Dissertation"
+}

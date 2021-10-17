@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Kanprachar, Surachet",
+  "contributor_committeechair": "Jacobs, Ira",
+  "contributor_committeemember": [
+    "Stolen, Roger Hall",
+    "Pratt, Timothy J.",
+    "Shaw, John Kenneth",
+    "Wang, Anbo"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:16Z",
+  "date_adate": "2003-04-11",
+  "date_available": "2014-03-14T20:09:16Z",
+  "date_issued": "2003-03-14",
+  "date_rdate": "2004-04-11",
+  "date_sdate": "2003-04-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation focuses on the use of subcarrier multiplexing (SCM) in multimode fibers, utilizing carrier frequencies above what is generally utilized for multimode fiber transmission, to achieve high bit rates. In the high frequency region (i.e., frequencies larger than the intermodal bandwidth), the magnitude response of multimode fiber does not decrease monotonically as a function of the frequency but is shown to become relatively flat (but with several deep nulls) with an amplitude below that at DC. The statistical properties of this frequency response at high frequencies are analyzed. The probability density function of the magnitude response at high frequencies is found to be a Rayleigh density function. The average amplitude in this high frequency region does not depend on the frequency but depends on the number of modes supported by the fiber. To transmit a high bit rate signal over the multimode fiber, subcarrier multiplexing is adopted. The performance of the SCM multimode fiber system is presented. The performance of the SCM system is significantly degraded if there are some subcarriers located at the deep nulls of the fiber. Equalization and spread spectrum techniques are investigated but are shown to be not effective in combating the effects of these nulls. To cancel the effects of these deep nulls, training process and diversity coding are considered. The basic theory of diversity coding is given. It is found that the performances of the system with training process and the system with diversity coding are almost identical. However, diversity coding is more appropriate since it requires less system complexity. Finally, the practical limits and capacity of the SCM multimode fiber system are investigated. It is shown that a signal with a bit rate of 1.45 Gbps can be transmitted over a distance up to 5 km.",
+  "description_provenance": [
+    "Author Email: skanprac@vt.edu",
+    "Advisor Email: stolen@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:16Z (GMT). No. of bitstreams: 1 Surachet_Kanprachar_Dissertation_1.pdf: 2953966 bytes, checksum: 14f7a33e401408548a6c8a590c571665 (MD5)   Previous issue date: 2003-03-14"
+  ],
+  "handle": "26744",
+  "identifier_other": "etd-04102003-143201",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04102003-143201/",
+  "identifier_uri": "http://hdl.handle.net/10919/26744",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Surachet_Kanprachar_Dissertation_1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multimode Fibers",
+    "Subcarrier Multiplexing (SCM)",
+    "Training Process",
+    "Optical Fiber Transmission",
+    "Diversity Coding"
+  ],
+  "title": "Modeling, Analysis, and Design of Subcarrier Multiplexing on Multimode Fiber",
+  "type": "Dissertation"
+}

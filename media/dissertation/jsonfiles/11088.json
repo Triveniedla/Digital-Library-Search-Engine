@@ -1,0 +1,53 @@
+{
+  "contributor_author": "An, Ke",
+  "contributor_committeechair": "Reifsnider, Kenneth L.",
+  "contributor_committeemember": [
+    "Prather, Carl L.",
+    "Hendricks, Scott L.",
+    "Lesko, John J.",
+    "Case, Scott W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T18:53:08Z",
+  "date_adate": "2004-01-12",
+  "date_available": "2011-08-22T18:53:08Z",
+  "date_issued": "2003-12-19",
+  "date_rdate": "2005-01-12",
+  "date_sdate": "2003-12-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The mechanical properties of unaged and aged constituent materials for solid oxide fuel cells were evaluated using microindentation, plate tensile, four-point bend, ball on ring and pressure on ring tests. The Vickers hardness of the anode, interconnect and electrolyte was determined before and after 1000 hours aging at 1000 oC in air. The fracture toughness KIC was found for the electrolyte materials. Finite element analysis (FEA) was validated and used to calculate the stress distribution and peak stress for the biaxial strength test. A Weibull analysis was carried out on the test/FEA-predicted peak stresses, and Weibull strength, modulus and material scale parameters were found for each test methodology. The methodologies were evaluated based on the results of the Weibull analysis and the pressure on ring test is preferred one for brittle thin film fracture strength testing. Half cell SOFCs with composite cathode (Pr0.7Sr0.3)MnO3Â±Î´ /8YSZ  on the 8YSZ electrolyte were aged 1000 hours at 1000 oC in air with/without polarization and investigated using Electrochemical Impedance Spectroscopy (EIS), Scanning Electron Microscopy (SEM), Brunauer-Emmett-Teller (B.E.T.) method and X-ray Diffraction (XRD). The performance of the half cell SOFCs degraded after aging with/without polarization compared to the initial state, which was ascribed to the decrease of the electrolyte conductivity. The current load was shown to have impact on the performance by slowing down the decreasing rate of the polarization resistance of the SOFCs. After aging, the microstructural properties - pore size and pore volume changed, and growth of grains was found on the (Pr0.7Sr0.3)MnO3 phases, which may have contributed to the decrease of the activation polarization by decreasing the capacitance and increasing the number of active sites. After aging the high frequency EIS arcs/peaks shifted to a lower frequency range, and the low frequency arcs/peaks became unapparent compared to before aging. A 3-D multiphysics finite element model was used to simulate the performance of the half cell SOFC. The effective exchange current density and the effective ionic conductivity of the cathodes showed much influence on the performance of the SOFC. Predicted and observed performance was compared. Suggestions were given for the further experiments on the composite cathode.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:08Z (GMT). No. of bitstreams: 1 KeAnDissertation.pdf: 7685403 bytes, checksum: 64f4a839d70925c745c12e76bab67688 (MD5)   Previous issue date: 2003-12-19",
+    "Author Email: kean@vt.edu",
+    "Advisor Email: mrl@vt.edu",
+    "Advisor Email: cprather@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: scase@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11088",
+  "identifier_other": "etd-12292003-101214",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12292003-101214",
+  "identifier_uri": "http://hdl.handle.net/10919/11088",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KeAnDissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Fracture Strength",
+    "SOFC",
+    "Composite Cathode",
+    "Impedance",
+    "Durability",
+    "Aging",
+    "Mechanical Properties",
+    "Hardness"
+  ],
+  "title": "Mechanical Properties and Electrochemical Durability of Solid Oxide Fuel Cells",
+  "type": "Dissertation"
+}

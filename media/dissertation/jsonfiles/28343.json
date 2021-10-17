@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Mo, Tianmin",
+  "contributor_committeechair": "Bostian, Charles W.",
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:09Z",
+  "date_adate": "2006-10-30",
+  "date_available": "2014-03-14T20:14:09Z",
+  "date_issued": "2006-06-14",
+  "date_rdate": "2006-10-30",
+  "date_sdate": "2006-07-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The IEEE 802.11 wireless local area network (WLAN) standard supports multiple transmission modes.  However, the higher mandatory data rate mode does not necessarily yield higher throughput.  This research started from the relationship between the link throughput and the channel's carrier-to-noise (C/N) ratio.  Two algorithms are proposed, a throughput optimization and transmitter power saving (TOTPS) algorithm and an extended throughput optimization and transmitter power saving (ETOTPS) algorithm, based on the knowledge of the C/N ratio at the receiver.  In particular, we take the approach of adjusting link parameters like transmitter power and transmission mode to achieve the maximum throughput at different C/N values.  Since the TOTPS algorithm tends to reduce the transmitter power without degrading the link throughput, transmitter power can be saved.  This not only prolongs battery life, which is critical in ad hoc wireless networks, but also reduces the potential interference to neighboring wireless network systems.  The ETOTPS algorithm, on the other hand, aims for higher throughput by trading in more transmitter power.  This is particularly desired for high-speed data transfer in an emergency situation.  Both algorithms are developed to be applied to IEEE 802.11b, IEEE 802.11a and IEEE 802.11g links.",
+  "description_provenance": [
+    "Author Email: mtianmin@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:09Z (GMT). No. of bitstreams: 1 disst_aft_defense_09_06_2006_CWB_mo.pdf: 1501261 bytes, checksum: a85de6c9cfb931f6bdf8435e19b3f29e (MD5)   Previous issue date: 2006-06-14"
+  ],
+  "handle": "28343",
+  "identifier_other": "etd-07202006-230155",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07202006-230155/",
+  "identifier_uri": "http://hdl.handle.net/10919/28343",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "disst_aft_defense_09_06_2006_CWB_mo.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "link optimization",
+    "transmitter power",
+    "Wireless LAN",
+    "throughput"
+  ],
+  "title": "Throughput Optimization and Transmitter Power Saving (TOTPS) Algorithm and Extended TOTPS (ETOTPS) Algorithm for IEEE 802.11 Links",
+  "type": "Dissertation"
+}

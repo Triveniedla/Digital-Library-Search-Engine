@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Schwartz, Jana Lyn",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Kasarda, Mary E. F.",
+    "Schaub, Hanspeter",
+    "Stilwell, Daniel J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:54Z",
+  "date_adate": "2004-07-21",
+  "date_available": "2014-03-14T20:13:54Z",
+  "date_issued": "2004-07-07",
+  "date_rdate": "2004-07-21",
+  "date_sdate": "2004-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A spacecraft formation possesses several benefits over a single-satellite mission. However, launching a fleet of satellites is a high-cost, high-risk venture. One way to mitigate much of this risk is to demonstrate hardware and algorithm performance in groundbased testbeds. It is typically difficult to experimentally replicate satellite dynamics in an Earth-bound laboratory because of the influences of gravity and friction. An air bearing provides a very low-torque environment for experimentation, thereby recapturing the freedom of the space environment as effectively as possible. Depending upon con- figuration, air-bearing systems provide some combination of translational and rotational freedom; the three degrees of rotational freedom provided by a spherical air bearing are ideal for investigation of spacecraft attitude dynamics and control problems. <p> An interest in experimental demonstration of formation flying led directly to the development of the Distributed Spacecraft Attitude Control System Simulator (DSACSS). The DSACSS is a unique facility, as it uses two air-bearing platforms working in concert. Thus DSACSS provides a pair of \"spacecraft\" three degrees of attitude freedom each. Through use of the DSACSS we are able to replicate the relative attitude dynamics between nodes of a formation such as might be required for co-observation of a terrestrial target. <p> Many dissertations present a new mathematical technique or prove a new theory. This dissertation presents the design and development of a new experimental system. Although the DSACSS is not yet fully operational, a great deal of work has gone into its development thus far. This work has ranged from configuration design to nonlinear analysis to structural and electrical manufacturing. In this dissertation we focus on the development of the attitude determination subsystem. This work includes development of the equations of motion and analysis of the sensor suite dynamics. We develop nonlinear filtering techniques for data fusion and attitude estimation, and extend this problem to include estimation of the mass properties of the system. We include recommendations for system modifications and improvements.",
+  "description_provenance": [
+    "Author Email: jana@vt.edu",
+    "Advisor Email: woolsey@vt.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: schaub@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:54Z (GMT). No. of bitstreams: 1 schwartzetd.pdf: 6831663 bytes, checksum: d30a50c3de9a88f9aad8b5565e18916c (MD5)   Previous issue date: 2004-07-07"
+  ],
+  "handle": "28269",
+  "identifier_other": "etd-07122004-165209",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122004-165209/",
+  "identifier_uri": "http://hdl.handle.net/10919/28269",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "schwartzetd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Parameter Estimation",
+    "Air Bearing Table",
+    "Spacecraft Simulator",
+    "Attitude Estimation",
+    "Formation Flying"
+  ],
+  "title": "The Distributed Spacecraft Attitude Control System Simulator:  From Design Concept to Decentralized Control",
+  "type": "Dissertation"
+}

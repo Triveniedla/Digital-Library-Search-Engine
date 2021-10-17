@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Daquila, George Lawrence",
+  "contributor_committeechair": "Tauber, Uwe C.",
+  "contributor_committeemember": [
+    "Schmittmann, Beate",
+    "Ritter, Alfred L.",
+    "Pleimling, Michel J. F."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:15:22Z",
+  "date_adate": "2011-08-24",
+  "date_available": "2014-03-14T20:15:22Z",
+  "date_issued": "2011-08-10",
+  "date_rdate": "2011-08-24",
+  "date_sdate": "2011-08-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> We numerically investigate the long-time behavior of the density-density auto-correlation function in driven lattice gases, with particle exclusion and periodic boundary conditions in one, two, and three dimensions using precise Monte Carlo simulations of larger system sizes than previous studies.  In the one-dimensional asymmetric exclusion process on a ring with half the lattice sites occupied, we find that correlations induce extremely slow relaxation to the asymptotic power law decay We compare the crossover functions obtained from our simulations with various analytic results in the literature, and analyze the characteristic oscillations that occur in finite systems away from half-filling.  As expected, correlations are weak in three dimensions and consequently the mean-field description is adequate. We also investigate the relaxation towards the non-equilibrium steady state in the two-time density-density auto-correlations, starting from strongly correlated initial conditions. We obtain simple aging scaling behavior in one, two, and three dimensions, with the expected power laws. </p> <p>  We numerically investigate the behavior of driven lattice gases with nearest neighbor interactions at half-filling with periodic boundary conditions below and at the critical temperature using Monte Carlo simulations of very large lattices in two dimensions.  This work is one of few that explores the relaxation to a non-equilibrium steady state.  We obtain data collapse for the finite-size scaling form of density-density auto-correlation function at the critical point.  We achieve data collapse using finite-size scaling of the time-dependent order parameter during the transient regime starting from strongly correlated initial conditions.  We present simple aging scaling of the density-density auto-correlation function at the critical point starting from strongly correlated initial conditions using Monte Carlo simulations of two different lattice anisotropies.  We thus unambiguously confirm the critical exponents determined by renormalization group methods using measurement of dynamic quantities in the transient regime.  Measuring these dynamic quantities in the transient regime provides more conclusive measurements of the critical exponents than previous studies measuring static quantities in the stationary state.  We provide qualitative arguments that the lattice anisotropy determines the steady-state for sub-critical quenches.",
+  "description_provenance": [
+    "Author Email: gdaquila@vt.edu",
+    "Advisor Email: tauber@vt.edu",
+    "Advisor Email: schmittm@vt.edu",
+    "Advisor Email: aritter@vt.edu",
+    "Advisor Email: Michel.Pleimling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:22Z (GMT). No. of bitstreams: 1 Daquila_GL_D_2011.pdf: 3119844 bytes, checksum: 52aadaea5955603a328da8e90139515a (MD5)   Previous issue date: 2011-08-10"
+  ],
+  "handle": "28701",
+  "identifier_other": "etd-08172011-140052",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08172011-140052/",
+  "identifier_uri": "http://hdl.handle.net/10919/28701",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Daquila_GL_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Slow dynamics",
+    "Driven lattice gas",
+    "Aging",
+    "Non-equilibrium steady states",
+    "Critical aging",
+    "Relaxation dynamics"
+  ],
+  "title": "Monte Carlo analysis of non-equilibrium steady states and relaxation kinetics in driven lattice gases",
+  "type": "Dissertation"
+}

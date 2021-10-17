@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Ge, Rong",
+  "contributor_committeechair": "Cameron, Kirk W.",
+  "contributor_committeemember": [
+    "Hsiao, Michael S.",
+    "Back, Godmar V.",
+    "Kafura, Dennis G.",
+    "Ribbens, Calvin J."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:54Z",
+  "date_adate": "2007-11-02",
+  "date_available": "2014-03-14T20:15:54Z",
+  "date_issued": "2007-08-27",
+  "date_rdate": "2007-11-02",
+  "date_sdate": "2007-09-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Today, power consumption costs supercomputer centers millions of dollars annually and the heat produced can reduce system reliability and availability. Achieving high performance while reducing power consumption is challenging since power and performance are inextricably interwoven; reducing power often results in degradation in performance.  This thesis aims to address these challenges by providing theories, techniques, and tools to 1) accurately predict performance and improve it in systems with advanced hierarchical memories, 2) understand and evaluate power and its impacts on performance, 3) control power and performance for maximum efficiency.  Our theories, techniques, and tools have been applied to high-end computing systems. Our theroetical models can improve algorithm performance by up to 59% and accurately predict the impacts of power on performance. Our techniques can evaluate power consumption of high-end computing systems and their applications with fine granularity and save up to 36% energy with little performance degradation.",
+  "description_provenance": [
+    "Author Email: ge@cs.vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: gback@cs.vt.edu",
+    "Advisor Email: cameron@cs.vt.edu",
+    "Advisor Email: kafura@cs.vt.edu",
+    "Advisor Email: ribbens@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:54Z (GMT). No. of bitstreams: 1 thesis.pdf: 1509670 bytes, checksum: a1ebebde6225c06f91a24c966844a34e (MD5)   Previous issue date: 2007-08-27"
+  ],
+  "handle": "28863",
+  "identifier_other": "etd-09042007-113753",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09042007-113753/",
+  "identifier_uri": "http://hdl.handle.net/10919/28863",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High-performance computing",
+    "power and performance management",
+    "power-performance efficiency",
+    "performance modeling and analysis"
+  ],
+  "title": "Theories and Techniques for Efficient High-End Computing",
+  "type": "Dissertation"
+}

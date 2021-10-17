@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Wright, Richard I.",
+  "contributor_committeechair": "Fuller, Christopher R.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Gibbs, Gary P.",
+    "Kidner, Michael R. F.",
+    "Robertshaw, Harry H.",
+    "Johnson, Martin E."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:02:56Z",
+  "date_adate": "2003-05-05",
+  "date_available": "2011-08-22T19:02:56Z",
+  "date_issued": "2004-07-26",
+  "date_rdate": "2004-05-05",
+  "date_sdate": "2003-05-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A novel noise control system is developed using adaptable tuned vibration absorbers (ATVA) to interact with a vibrating host structure in such a way as to reduce radiated acoustic energy.  ATVA's are single-degree-of-freedom resonant devices that can change their resonant frequency and damping over a range.  This ATVA noise control system is targeted at applications with tonal disturbances such as propeller aircraft.  The motivation for this work is to better understand and experimentally demonstrate the noise control performance of globally detuned vibration absorbers (i.e. tuned away from the disturbance) compared to that of perfectly tuned devices on complex structures.  A two-tier hierarchical control approach is used where a global control algorithm attempts to minimize a global parameter such as radiated acoustic energy by directing the adaptation of subordinate ATVA's.  The global control algorithm uses an adaptive simplex search algorithm that requires no initial knowledge of the structure or the ATVA's.  The ATVA's also require no model of the structure, each utilizing only the local vibration of its own mass and control gains set by the global controller.  Noise control using a single ATVA is first studied on a small simply supported plate.  Then, a multiple ATVA system is tested on a large plate structure at several test frequencies where many structural modes participate.  Noise reductions up to 22 dB are achieved at locations in the radiated field.  Further, it is found in some cases, classic tuning of the ATVA results in increased structural noise radiation.  ATVA's are realized by outfitting typical inertial (proof-mass) actuators with a classical feedback loop.  The device's resonant frequency and damping can be controlled independently, yet simultaneously via two control gains.  The ATVA's are designed, built, and characterized for their adaptable domain and power requirements.  A cohesive analytical model of the ATVA is also developed and used to compliment the experimental results.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:56Z (GMT). No. of bitstreams: 1 etd.pdf: 7771827 bytes, checksum: f1ba673261e156fe0dfe40db0be4880f (MD5)   Previous issue date: 2004-07-26",
+    "Author Email: riwright@vt.edu",
+    "Advisor Email: c.r.fuller@larc.nasa.gov",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: g.p.gibbs@larc.nasa.gov",
+    "Advisor Email: mkidner@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: martyj@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11217",
+  "identifier_other": "etd-05012003-150544",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05012003-150544",
+  "identifier_uri": "http://hdl.handle.net/10919/11217",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Noise Control",
+    "Globally Detuned",
+    "Adaptive Control",
+    "TVA"
+  ],
+  "title": "A Hierarchical Noise Control System Using Adaptable Tuned Vibration Absorbers",
+  "type": "Dissertation"
+}

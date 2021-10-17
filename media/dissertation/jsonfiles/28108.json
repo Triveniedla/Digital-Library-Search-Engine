@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Chandrasekaran, Sriram",
+  "contributor_committeechair": "Lindner, Douglas K.",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Gürdal, Zafer",
+    "Boroyevich, Dushan",
+    "Rogers, Robert C.",
+    "Nayfeh, Ali H."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:28Z",
+  "date_adate": "2000-06-26",
+  "date_available": "2014-03-14T20:13:28Z",
+  "date_issued": "2000-05-23",
+  "date_rdate": "2001-06-26",
+  "date_sdate": "2000-06-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research reported in this dissertation focuses on the development of optimization tools for the design of subsystems in a modern aircraft power distribution system.  The baseline power distribution system is built around a 270V DC bus.  One of the distinguishing features of this power distribution system is the presence of regenerative power from the electrically driven flight control actuators and structurally integrated smart actuators back to the DC bus.  The key electrical components of the power distribution system are bidirectional switching power converters, which convert, control and condition electrical power between the sources and the loads.  The dissertation is divided into three parts. Part I deals with the formulation of an optimization problem for a sample system consisting of a regulated DC-DC buck converter preceded by an input filter.  The individual subsystems are optimized first followed by the integrated optimization of the sample system.  It is shown that the integrated optimization provides better results than that obtained by integrating the individually optimized systems. Part II presents a detailed study of piezoelectric actuators.  This study includes modeling, optimization of the drive amplifier and the development of a current control law for piezoelectric actuators coupled to a simple mechanical structure.   Linear and nonlinear methods to study subsystem interaction and stability are studied in Part III.  A multivariable impedance ratio criterion applicable to three phase systems is proposed.  Bifurcation methods are used to obtain global stability characteristics of interconnected systems.  The application of a nonlinear design methodology, widely used in power systems, to incrementally improve the robustness of a system to Hopf bifurcation instability is discussed.",
+  "description_provenance": [
+    "Author Email: sriramch@ee.vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: zgurdal@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:28Z (GMT). No. of bitstreams: 2 SCFinal_dissertation.pdf: 1270880 bytes, checksum: 18fcaf5a64c8582d5efb4a39bcaff61c (MD5) Title_page.pdf: 15459 bytes, checksum: d7c1ad2fb1234894c90b25189fcb07cd (MD5)   Previous issue date: 2000-05-23"
+  ],
+  "handle": "28108",
+  "identifier_other": "etd-06242000-21390041",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06242000-21390041/",
+  "identifier_uri": "http://hdl.handle.net/10919/28108",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "SCFinal_dissertation.pdf",
+    "Title_page.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "current control",
+    "regenerative power",
+    "optimization",
+    "aircraft power distribution systems",
+    "stability analysis",
+    "active damping",
+    "subsystem interaction",
+    "bifurcation",
+    "piezoelectric actuators",
+    "more electric aircraft"
+  ],
+  "title": "Subsystem Design in Aircraft Power Distribution Systems using Optimization",
+  "type": "Dissertation"
+}

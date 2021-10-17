@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Liu, Xutong",
+  "contributor_committeechair": "Lu, Chang Tien",
+  "contributor_committeemember": [
+    "Chen, Ing Ray",
+    "Xuan, Jianhua",
+    "Ramakrishnan, Narendran",
+    "Li, Qi"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-06-12T08:00:37Z",
+  "date_available": "2013-06-12T08:00:37Z",
+  "date_issued": "2013-06-11",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "With increasing public sensitivity and concern on environmental issues, huge amounts of spatial data have been collected from location based social network applications to scientific data. This has encouraged formation of large spatial data set and generated considerable interests for identifying novel and meaningful patterns. Allowing correlated observations weakens the usual statistical assumption of independent observations, and complicates the spatial analysis. This research focuses on the construction of efficient and effective <br />approaches for three main mining tasks, including spatial outlier detection, robust inference for spatial dataset, and spatial prediction for large multivariate non-Gaussian data.<br /> <br />spatial outlier analysis, which aims at detecting abnormal objects in spatial contexts, can help  extract important knowledge in many applications. There exist the well-known masking and swamping problems in most approaches, which can\\'t still satisfy certain requirements aroused recently. This research focuses on development of spatial outlier detection techniques for three aspects, including spatial numerical outlier detection, spatial categorical outlier detection and identification of the number of spatial numerical outliers.<br /><br />First, this report introduces Random Walk based approaches to identify spatial numerical outliers. The Bipartite and an Exhaustive Combination weighted graphs are modeled based on spatial and/or non-spatial attributes, and then Random walk techniques are performed on the graphs to compute the relevance among objects. The objects with lower relevance are recognized as outliers. Second, an entropy-based method is proposed to estimate the optimum number of outliers. According to the entropy theory, we expect that, by incrementally removing outliers, the entropy value will decrease sharply, and reach a stable state when all the outliers have been removed. Finally, this research designs several Pair Correlation Function based methods to detect spatial categorical outliers for both single and multiple attribute data. Within them, Pair Correlation Ratio(PCR) is defined and estimated for each pair of categorical combinations based on their co-occurrence frequency at different spatial distances. The observations with the lower PCRs are diagnosed as potential SCOs.<br /><br />Spatial kriging is a widely used predictive model whose predictive accuracy could be significantly compromised if the observations are contaminated by outliers. Also, due to spatial heterogeneity, observations are often different types. The prediction of multivariate spatial processes plays an important role when there are cross-spatial dependencies between multiple responses. In addition, given the large volume of spatial data, it is computationally challenging. These raise three research topics: 1).robust prediction for spatial data sets; 2).prediction of multivariate spatial observations; and 3). efficient processing for large data sets. <br /><br />First, increasing the robustness of spatial kriging model can be systematically addressed by integrating heavy tailed distributions. However, it is analytically intractable inference. Here, we presents a novel robust and reduced Rank spatial kriging Model (R$^3$-SKM), which is resilient to the influences of outliers and allows for fast spatial inference. Second, this research introduces a flexible hierarchical Bayesian framework that permits the simultaneous modeling of mixed type variable. Specifically, the mixed-type attributes are mapped to latent numerical random variables that are multivariate Gaussian in nature. Finally, the knot-based techniques is utilized to model the predictive process as a reduced rank spatial process, which projects the process realizations of the spatial model to a lower dimensional subspace. This projection significantly reduces the computational cost.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-12T08:00:37Z (GMT). No. of bitstreams: 2 Liu_X_D_2013.pdf: 6158241 bytes, checksum: a141e7cad9ff06da9d05602bbb3f2223 (MD5) Liu_X_D_2013_support_1.pdf: 5308743 bytes, checksum: fb05e763e842da0d981358e8331783bc (MD5)   Previous issue date: 2013-06-11",
+  "format_medium": "ETD",
+  "handle": "23201",
+  "identifier_other": "vt_gsexam:985",
+  "identifier_uri": "http://hdl.handle.net/10919/23201",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Spatial",
+    "Multivariate",
+    "Robust Inference",
+    "Anomaly Detection"
+  ],
+  "title": "Prediction and Anomaly Detection Techniques for Spatial Data",
+  "type": "Dissertation"
+}

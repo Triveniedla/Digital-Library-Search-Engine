@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Irwin, Ryan",
+  "contributor_committeechair": "DaSilva, Luiz A.",
+  "contributor_committeecochair": "MacKenzie, Allen B.",
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "Hou, Yiwei Thomas",
+    "Gracanin, Denis"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:47Z",
+  "date_adate": "2012-05-07",
+  "date_available": "2014-03-14T20:08:47Z",
+  "date_issued": "2012-03-23",
+  "date_rdate": "2012-05-07",
+  "date_sdate": "2012-04-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation addresses the problem of channel assignment in multi-hop, multi-transceiver wireless networks. We investigate (1) how channels can be assigned throughout the network to ensure that the network is connected and (2) how the channel assignment can be adapted to suit the current traffic demands. We analyze a traffic-aware method for channel assignment that addresses both maintaining network connectivity and adapting the topology based on dynamic traffic demands.  The traffic-aware approach has one component that assigns channels independently of traffic conditions and a second component that assigns channels in response to traffic conditions. The traffic-independent (TI) component is designed to allocate as few transceivers or radios as possible in order to maintain network connectivity, while limiting the aggregate interference induced by the topology. The traffic-driven (TD) component is then designed to maximize end-to-end flow rate using the resources remaining after the TI assignment is complete. By minimizing resources in the TI component, the TD component has more resources to adapt the topology to suit the traffic demands and support higher end-to-end flow rate.  We investigate the fundamental tradeoff between how many resources are allocated to maintaining network connectivity versus how many resources are allocated to maximize flow rate. We show that the traffic-aware approach achieves an appropriately balanced resource allocation, maintaining a baseline network connectivity and adapting to achieve near the maximum theoretical flow rate in the scenarios evaluated.  We develop a set of greedy, heuristic algorithms that address the problem of resource- minimized TI assignment, the first component of the traffic-aware assignment. We develop centralized and distributed schemes for nodes to assign channels to their transceivers. These schemes perform well as compared to the optimal approach in the evaluation. We show that both of these schemes perform within 2% of the optimum in terms of the maximum achievable flow rate.  We develop a set of techniques for adapting the networkâ  s channel assignment based on traffic demands, the second component of the traffic-aware assignment. In our approach, nodes sense traffic conditions and adapt their own channel assignment independently to support a high flow rate and adapt when network demand changes. We demonstrate how our distributed TI and TD approaches complement each other in an event-driven simulation.",
+  "description_provenance": [
+    "Author Email: reirwin@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:47Z (GMT). No. of bitstreams: 2 IRWIN_RE_D_2012.pdf: 1306005 bytes, checksum: 4e1b8810c5c95c613741d7186d356607 (MD5) Irwin_RE_D_2012_Copyright.pdf: 15710 bytes, checksum: 9f209c7af73e3027daf5d92b1def6d33 (MD5)   Previous issue date: 2012-03-23"
+  ],
+  "handle": "26601",
+  "identifier_other": "etd-04022012-100105",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04022012-100105/",
+  "identifier_uri": "http://hdl.handle.net/10919/26601",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "IRWIN_RE_D_2012.pdf",
+    "Irwin_RE_D_2012_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Topology Control",
+    "Traffic-aware",
+    "Channel assignment",
+    "Cognitive Networks",
+    "Multi-channel Networks"
+  ],
+  "title": "Traffic-Aware Channel Assignment for Multi-Transceiver Wireless Networks",
+  "type": "Dissertation"
+}

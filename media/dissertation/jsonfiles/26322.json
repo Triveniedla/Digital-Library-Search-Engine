@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Venkatesh, Swaroop",
+  "contributor_committeechair": "Buehrer, Richard Michael",
+  "contributor_committeemember": [
+    "Davis, Willam A.",
+    "Fraticelli, Barbara M. P.",
+    "Reed, Jeffrey Hugh",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:50Z",
+  "date_adate": "2007-03-09",
+  "date_available": "2014-03-14T20:07:50Z",
+  "date_issued": "2007-02-20",
+  "date_rdate": "2010-03-09",
+  "date_sdate": "2007-02-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Impulse-based Ultrawideband (UWB) is a form of signaling which uses streams of pulses of very short duration, typically on the order of a nanosecond. Impulse-based UWB systems possess the ability to fuse accurate position-location with low-data rate communication, and provide covertness for tactical applications and robustness in dense multipath propagation environments. These features can be leveraged in the design wireless ad hoc position-location networks (PoLoNets) for accurate location tracking and monitoring where GPS is not available, especially indoors. Location information is sequentially propagated through a network of reference nodes in order to create a framework for the tracking of mobile nodes, as well as a multi-hop message-passing infrastructure between mobile nodes and control nodes located outside the area of deployment. The applications of such networks include the location and command-and-control of fire-fighters in emergency scenarios, the location of military personnel deployed in urban or indoor environments, and the guidance of robots through large multi-room indoor environments.   The main objective of this dissertation is to derive design principles, techniques and analytical models for UWB PoLoNets that are useful in the development of practical solutions. Some of the fundamental obstacles to obtaining accurate location information in indoor environments are non-line-of-sight (NLOS) signal propagation, limited connectivity between nodes, and the propagation of localization inaccuracies when using sequential estimation approaches in ad hoc scenarios. Several techniques and algorithms that mitigate these effects, thereby allowing the design of PoLoNets with requisite localization accuracy, are presented. Although these techniques are developed from the perspective of a UWB physical layer, the majority are applicable to generic PoLoNets.",
+  "description_provenance": [
+    "Author Email: vswaroop@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: bfratice@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:50Z (GMT). No. of bitstreams: 1 Swaroop_Venkatesh_ETD_v3.pdf: 8604479 bytes, checksum: 5af931a20ecfc051e9172042e7fae99f (MD5)   Previous issue date: 2007-02-20"
+  ],
+  "handle": "26322",
+  "identifier_other": "etd-02272007-155134",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02272007-155134/",
+  "identifier_uri": "http://hdl.handle.net/10919/26322",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Swaroop_Venkatesh_ETD_v3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Ultra-Wideband",
+    "Position-location",
+    "Wireless Networks",
+    "Localization"
+  ],
+  "title": "The Design and Modeling of Ultra-Wideband Position-Location Networks",
+  "type": "Dissertation"
+}

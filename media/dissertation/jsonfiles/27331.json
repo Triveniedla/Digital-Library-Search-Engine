@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Louganski, Konstantin",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Liu, Yilu",
+    "Tam, Kwa-Sur",
+    "Nelson, Douglas J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:58Z",
+  "date_adate": "2007-04-30",
+  "date_available": "2014-03-14T20:10:58Z",
+  "date_issued": "2007-02-05",
+  "date_rdate": "2007-04-30",
+  "date_sdate": "2007-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dissertation presents a generalized average-current-mode control technique (GACMC), which is an extension of the average-current-mode control (ACMC) for single-phase ac-dc boost converters with power factor correction (PFC). Traditional ACMC is generalized in a sense that it offers improved performance in the form of significant reduction of the current control loop bandwidth requirement for a given line frequency in unidirectional and bidirectional boost PFC converters, and additional functionality in the form of reactive power control capability in bidirectional converters. These features allow using a relatively low switching frequency and slow-switching power devices such as insulated-gate bipolar transistors (IGBTs) in boost PFC converters, including those designed for higher ac line frequencies such as in aircraft power systems (360â  800 Hz). In bidirectional boost PFC converters, including multilevel topologies, the GACMC offers a capability to supply a prescribed amount of reactive power (with leading or lagging current) independently of the dc load power, which allows the converter to be used as a static reactive power compensator in the power system. <BR><BR> A closed-loop dynamic model for the current control loop of the boost PFC converter with the ACMC has been developed. The model explains the structure of the converter input admittance, the current phase lead phenomenon, and lays the groundwork for development of the GACMC. The leading phase admittance cancellation (LPAC) principle has been proposed to completely eliminate the current phase lead phenomenon and, consequently, the zero-crossing distortion in unidirectional converters. The LPAC technique has been adapted for active compensation of the input filter capacitor current in bidirectional boost PFC converters. <BR><BR> The dynamic model of the current control loop for bidirectional boost PFC converters was augmented to include a reactive power controller. The proposed control strategy enables the converter to process reactive power and, thus, be used as a reactive power compensator, independently of the converter operation as an ac-dc converter. <BR><BR> Multiple realizations of the reactive power controller have been identified and examined in a systematic way, along with their merits and limitations, including susceptibility to the ac line noise. Frequency response characteristics of reactive elements emulated by means of these realizations have been described. <BR><BR> Theoretical principles and practical solutions developed in this dissertation have been experimentally verified using unidirectional and bidirectional converter prototypes. Experimental results demonstrated validity of the theory and proposed practical implementations of the GACMC.",
+  "description_provenance": [
+    "Author Email: klougans@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: ktam@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:58Z (GMT). No. of bitstreams: 1 kl_dissertation.pdf: 2236810 bytes, checksum: 770bbc6ffab01b276c444aab018eb607 (MD5)   Previous issue date: 2007-02-05"
+  ],
+  "handle": "27331",
+  "identifier_other": "etd-04262007-173037",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262007-173037/",
+  "identifier_uri": "http://hdl.handle.net/10919/27331",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "kl_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "reactive power control",
+    "input filter capacitor",
+    "leading phase admittance cancellation",
+    "boost converter",
+    "power factor correction",
+    "active-front-end converter",
+    "multilevel converter"
+  ],
+  "title": "Generalized Average-Current-Mode Control of Single-Phase AC-DC Boost Converters with Power Factor Correction",
+  "type": "Dissertation"
+}

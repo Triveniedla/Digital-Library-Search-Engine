@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Rai, Tapan S",
+  "contributor_committeechair": "Green, Edward L.",
+  "contributor_committeemember": [
+    "Brown, Ezra A.",
+    "Haskell, Peter E.",
+    "Linnell, Peter A.",
+    "Rossi, John F."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:08:31Z",
+  "date_adate": "2004-03-30",
+  "date_available": "2014-03-14T20:08:31Z",
+  "date_issued": "2004-03-23",
+  "date_rdate": "2004-03-30",
+  "date_sdate": "2004-03-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We develop a public key cryptosystem whose security is based on the intractability of the ideal membership problem for a noncommutative algebra over a finite field.  We show that this system, which is the noncommutative analogue of the Polly Cracker cryptosystem, is more secure than the commutative version. This is due to the fact that there are a number of ideals of noncommutative algebras (over finite fields) that have infinite reduced Groebner bases, and can be used to generate a public key. We present classes of such ideals and prove that they do not have a finite Groebner basis under any admissible order. We also examine various techniques to realize finite Groebner bases, in order to determine whether these ideals can be used effectively in the design of a public key cryptosystem.  </p>  We then show how some of these classes of ideals, which have infinite reduced Groebner bases, can be used to design a public key cryptosystem. We also study various techniques of encryption. Finally, we study techniques of cryptanalysis that may be used to attack the cryptosystems that we present. We show how poorly constructed public keys can in fact, reveal the private key, and discuss techniques to design public keys that adequately conceal the private key. We also show how linear algebra can be used in ciphertext attacks and present a technique to overcome such attacks. This is different from the commutative version of the Polly Cracker cryptosystem, which is believed to be susceptible to \"intelligent\" linear algebra attacks.",
+  "description_provenance": [
+    "Author Email: tapan@vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: haskell@math.vt.edu",
+    "Advisor Email: linnell@math.vt.edu",
+    "Advisor Email: rossi@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:31Z (GMT). No. of bitstreams: 1 rai_etd.pdf: 501951 bytes, checksum: ecabc6acebf25c13736186db3bda795f (MD5)   Previous issue date: 2004-03-23"
+  ],
+  "handle": "26504",
+  "identifier_other": "etd-03262004-082608",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03262004-082608/",
+  "identifier_uri": "http://hdl.handle.net/10919/26504",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "rai_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Computational Algebra",
+    "Public Key Cryptography",
+    "Noncommutative Groebner Bases",
+    "Information Security",
+    "Polly Cracker"
+  ],
+  "title": "Infinite Groebner Bases And Noncommutative Polly Cracker Cryptosystems",
+  "type": "Dissertation"
+}

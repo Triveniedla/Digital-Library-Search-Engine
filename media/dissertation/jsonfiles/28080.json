@@ -1,0 +1,46 @@
+{
+  "contributor_author": "de la Riva, Diego Horacio",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Devenport, William J.",
+    "Johnson, Martin E.",
+    "Wicks, Alfred L.",
+    "Kwan, Hwa"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:24Z",
+  "date_adate": "2006-07-07",
+  "date_available": "2014-03-14T20:13:24Z",
+  "date_issued": "2006-06-01",
+  "date_rdate": "2009-07-07",
+  "date_sdate": "2006-06-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Commercial aviation transportation has experienced an overwhelming growth over the years. However, this expansion has encountered an important barrier: noise. Several studies have shown that residents in these areas experience problems such as stress and sleep disturbance. These problems have translated into demands for a better quality of life from airport residents which in turn have translated into more stringent aircraft noise regulations. As a result, large amounts of resources have been diverted towards the improvement of existing noise attenuation technologies and the development of more effective ones. In terms of turbofan generated noise, the most widely used technology is that of absorbent materials or liners. In recent investigations Alonso et al. have combined Herschel/Quincke (HQ) tubes with liners. This combination has the potential of effectively controlling pure tones and broadband noise in inlet sections of modern turbofan engines. Since a comprehensive approach for engine noise reduction will involve both inlet and aft HQ-Liner systems, additional research efforts were needed to evaluate their performance at reducing aft fan radiation In the present work, a combination of traditional liners and Herschel/Quincke waveguide resonators for aft fan radiation control is proposed. A theoretical model is developed in order to predict noise reduction due to such systems. The newly developed tool was then utilized to design an HQ-liner that was installed and tested in the aft section of the NASA Active Noise Control Fan (ANCF) rig. This experimental data was utilized to prove the potential of these systems and to validate the mathematical model. Analytical predictions correlate well with experiments.  The NASA ANCF rig is not representative of a real turbofan engine. In order to assess the behavior of HQ-Liners in a more realistic environment a new system was specifically designed for a generic turbofan engine and its performance analyzed.  The sound field inside HQ tubes has been described assuming plane waves only. This assumption limits the model to frequencies below the tube first resonance. In order to overcome this limitation a new model accounting for higher order modes inside the tubes has been developed.",
+  "description_provenance": [
+    "Author Email: driva@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: h.kwan@goodrich.com",
+    "Advisor Email: rburdiss@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:24Z (GMT). No. of bitstreams: 1 dissertation.pdf: 4689756 bytes, checksum: 7a8e59e208e93e390c5e1fec7a683171 (MD5)   Previous issue date: 2006-06-01"
+  ],
+  "handle": "28080",
+  "identifier_other": "etd-06192006-224344",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06192006-224344/",
+  "identifier_uri": "http://hdl.handle.net/10919/28080",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bypass noise",
+    "Turbofan noise",
+    "Herschel-Quincke tube",
+    "Acoustic liner",
+    "Aeroacoustics"
+  ],
+  "title": "Modeling of Herschel/Quincke-Liner Systems for the Control of Aft Fan Radiation in Turbofan Engines",
+  "type": "Dissertation"
+}

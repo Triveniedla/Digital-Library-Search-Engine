@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Taha, Haithem Ezzat Mohammed",
+  "contributor_committeechair": [
+    "Hajj, Muhammad R",
+    "Nayfeh, Ali H"
+  ],
+  "contributor_committeemember": [
+    "Borggaard, Jeffrey T",
+    "Ragab, Saad A",
+    "Canfield, Robert Arthur",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-12-05T09:00:38Z",
+  "date_available": "2013-12-05T09:00:38Z",
+  "date_issued": "2013-12-04",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "A flapping-wing micro-air-vehicle (FWMAV) represents a complex multi-disciplinary system whose analysis invokes the frontiers of the aerospace engineering disciplines. From the aerodynamic point of view, a nonlinear, unsteady flow is created by the flapping motion. In addition, non-conventional contributors, such as the leading edge vortex, to the aerodynamic loads become dominant in flight. On the other hand, the flight dynamics of a FWMAV constitutes a nonlinear, non-autonomous dynamical system. Furthermore, the stringent weight and size constraints that are always imposed on FWMAVs invoke design with minimal actuation. In addition to the numerous motivating applications, all these features of FWMAVs make it an interesting research point for engineers.  In this Dissertation, some challenging points related to FWMAVs are considered. First, an analytical unsteady aerodynamic model that accounts for the leading edge vortex contribution by a feasible computational burden is developed to enable sensitivity and optimization analyses, flight dynamics analysis, and control synthesis. Second, wing kinematics optimization is considered for both aerodynamic performance and maneuverability. For each case, an infinite-dimensional optimization problem is formulated using the calculus of variations to relax any unnecessary constraints induced by approximating the problem as a finite-dimensional one. As such, theoretical upper bounds for the aerodynamic performance and maneuverability are obtained. Third, a design methodology for the actuation mechanism is developed. The proposed actuation mechanism is able to provide the required kinematics for both of hovering and forward flight using only one actuator. This is achieved by exploiting the nonlinearities of the wing dynamics to induce the saturation phenomenon to transfer energy from one mode to another. Fourth, the nonlinear, time-periodic flight dynamics of FWMAVs is analyzed using direct and higher-order averaging. The region of applicability of direct averaging is determined and the effects of the aerodynamic-induced parametric excitation are assessed. Finally, tools combining geometric control theory and averaging are used to derive analytic expressions for the textit{Symmetric Products}, which are vector fields that directly affect the acceleration of the averaged dynamics. A design optimization problem is then formulated to bring the maneuverability index/criterion early in the design process to maximize the FWMAV maneuverability near hover.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-05T09:00:38Z (GMT). No. of bitstreams: 1 Taha_HE_D_2013.pdf: 1780802 bytes, checksum: 679f87a020f17ecfb139e95e263d258e (MD5)   Previous issue date: 2013-12-04",
+  "format_medium": "ETD",
+  "handle": "24428",
+  "identifier_other": "vt_gsexam:1836",
+  "identifier_uri": "http://hdl.handle.net/10919/24428",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Flapping Flight",
+    "Finite-State Unsteady Aerodynamics",
+    "Calculus of Variations and Optimal Control",
+    "Flight Dynamics",
+    "Nonlinear Time-Periodic Systems",
+    "Averaging Theorem",
+    "Geometric Control",
+    "Nonlinear Dynamics and Saturation"
+  ],
+  "title": "Mechanics of Flapping Flight: Analytical Formulations of Unsteady Aerodynamics, Kinematic Optimization, Flight Dynamics and Control",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Xu, Jing",
+  "contributor_committeechair": "Ngo, Khai D. T.",
+  "contributor_committeemember": [
+    "Liu, Yilu",
+    "Nelson, Douglas J.",
+    "Lu, Guo-Quan",
+    "van Wyk, Jacobus Daniel",
+    "Odendaal, Willem Gerhardus"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:01Z",
+  "date_adate": "2009-03-24",
+  "date_available": "2014-03-14T20:08:01Z",
+  "date_issued": "2008-12-05",
+  "date_rdate": "2009-03-24",
+  "date_sdate": "2009-03-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The high-voltage SiC power semiconductor devices have been developed in recent years.  They cause an urgent in the need for the power semiconductor packaging to have not only low interconnect resistance, less noise, less parasitic oscillations, improved reliability, and better thermal management, but also High-Voltage (HV) blocking capability.   The existing power semiconductor packaging technologies includes wire-bonding interconnect, press pack, flip-chip technology, metal posts interconnected parallel plates structure (MIPPS), dimple array interconnection (DAI), power overlay (POL) technology, and embedded power (EP) technology.  None of them meets the requirements of low profile and high voltage rating.  The objective of the work in this dissertation is to propose and design a high-voltage power semiconductor device packaging method with low electric field stress and low profile to meet the requirments of high-voltage blocking capability.  The main contributions of the work presented in this dissertation are: 1.  Understanding the electric field distribution in the package. The power semiconductor packaging is simulated by using Finite Element Analysis (FEA) software.  The electric field distribution is known and the locations of high electric field concentration are identified. 2.  Development of planar high-voltage power semiconductor device packaging method With the proposed structure in the dissertation, the electric field distribution of a planar device package is improved and the high electric field intensity is relieved. 3. Development of design guidelines for the propsed planar high-voltage device packaging method. The influence of the structure dimensions and the material properties is studied.  An optimal design is identified.  The design guideline is given. 4.  Fabrication and experimental verification of the proposed high-voltage device packaging method A detailed fabrication procedure which follows the design guideline is presented.  The fabricated modules are tested by using a high power curve tracer.  Test results verify the proposed method. 5.  Simplification of the structure model of the proposed device package The package structure model is simplified through the elimination of power semiconductor device internal structure model.  The simplified model can be simulated by a non-power device simulator.  The simulation results of the simplified model match the simulation results of the complete model very well.",
+  "description_provenance": [
+    "Author Email: jingx@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: daanvw@uj.ac.za",
+    "Advisor Email: kdtn@vt.edu",
+    "Advisor Email: wgo@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:01Z (GMT). No. of bitstreams: 1 Dissertation090324.pdf: 4140023 bytes, checksum: 1ba637a825be563eb8b55b6f5e02c030 (MD5)   Previous issue date: 2008-12-05"
+  ],
+  "handle": "26373",
+  "identifier_other": "etd-03062009-163955",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03062009-163955/",
+  "identifier_uri": "http://hdl.handle.net/10919/26373",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation090324.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "MEDICI",
+    "SiC diode",
+    "Embedded Power",
+    "Planar package",
+    "High voltage"
+  ],
+  "title": "Technology for Planar Power Semiconductor Devices Package with Improved Voltage Rating",
+  "type": "Dissertation"
+}

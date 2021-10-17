@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Musa, Rami",
+  "contributor_committeechair": "Chen, Fengshan Frank",
+  "contributor_committeemember": [
+    "Sturges, Robert H.",
+    "Bish, Ebru K.",
+    "Deisenroth, Michael P."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:05Z",
+  "date_adate": "2007-05-24",
+  "date_available": "2014-03-14T20:10:05Z",
+  "date_issued": "2007-03-29",
+  "date_rdate": "2007-05-24",
+  "date_sdate": "2007-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Variation is inevitable in any process, so it has to be dealt with effectively and economically. Reducing variation can be achieved in assembly lines strategically and dynamically. Implementing both the strategic and dynamic variation reduction techniques is expected to lead to further reduction in the number of failed final assemblies.  The dissertation is divided into three major parts. In the first part, we propose to reduce variation for assemblies by developing efficient inspection plans based on (1) historical data for existing products, or simulated data for newly developed products; (2) Monte Carlo simulation; and (3) optimization search techniques. The cost function to be minimized is the total of inspection, rework, scrap and failure costs. The novelty of the proposed approach is three-fold. First, the use of CAD data to develop inspection plans for newly launched products is new, and has not been introduced in the literature before. Second, frequency of inspection is considered as the main decision variable, instead of considering whether or not to inspect a quality characteristic of a subassembly. Third, we use a realistic reaction plan (rework-scrap-keep) that mimics reality in the sense that not all out-of-tolerance items should be scrapped or reworked. At a certain stage, real-time inspection data for a batch of subassemblies could be available. In the second part of this dissertation, we propose utilizing this data in near real-time to dynamically reduce variation by assigning the inspected subassembly parts together. In proposing mathematical models, we found that they are hard to solve using traditional optimization techniques. Therefore, we propose using heuristics.Finally, we propose exploring opportunities to reduce the aforementioned cost function by integrating the inspection planning model with the Dynamic Throughput Maximization (DTM) model. This hybrid model adds one decision variable in the inspection planning; which is whether to implement DTM (assemble the inspected subassemblies selectively) or to assemble the inspected items arbitrarily. We expect this hybrid implementation to substantially reduce the failure cost when assembling the final assemblies for some cases. To demonstrate this, we solve a numerical example that supports our findings.",
+  "description_provenance": [
+    "Author Email: rmusa@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: deisenroth@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:05Z (GMT). No. of bitstreams: 1 DissRMusa3.pdf: 1161422 bytes, checksum: 01bca5e0b57f24401c2689ae673eeeb2 (MD5)   Previous issue date: 2007-03-29"
+  ],
+  "handle": "27011",
+  "identifier_other": "etd-04192007-114716",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192007-114716/",
+  "identifier_uri": "http://hdl.handle.net/10919/27011",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissRMusa3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CAD Data",
+    "Six Sigma",
+    "Inspection Planning",
+    "Variation Reduction",
+    "Rolled Yield Throughput",
+    "Selective Assembly"
+  ],
+  "title": "New Strategic and Dynamic Variation Reduction Techniques for Assembly Lines",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Murrugarra Tomairo, David M.",
+  "contributor_committeechair": "Laubenbacher, Reinhard C.",
+  "contributor_committeemember": [
+    "Mortveit, Henning S.",
+    "Ciupe, M. Stanca",
+    "Hoops, Stefan"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:14:16Z",
+  "date_adate": "2012-08-01",
+  "date_available": "2014-03-14T20:14:16Z",
+  "date_issued": "2012-07-18",
+  "date_rdate": "2012-08-01",
+  "date_sdate": "2012-07-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "So called discrete models have been successfully used in engineering and computational systems biology. This thesis discusses algebraic methods for modeling and analysis of gene regulatory networks within the discrete modeling context. The first chapter gives a background for discrete models and put in context some of the main research problems that have been pursued in this field for the last fifty years. It also outlines the content of each subsequent chapter. The second chapter focuses on the problem of inferring dynamics from the structure (topology) of the network. It also discusses the characterization of the attractor structure of a network when a particular class of functions control the nodes of the network. Chapters~3 and 4 focus on the study of multi-state nested canalyzing functions as biologically inspired functions and the characterization of their dynamics. Chapter 5 focuses on stochastic methods, specifically on the development of a stochastic modeling framework for discrete models. Stochastic discrete modeling is an alternative approach from the well-known mathematical formalizations such as stochastic differential equations and Gillespie algorithm simulations. Within the discrete setting, a framework that incorporates propensity probabilities for activation and degradation is presented. This approach allows a finer analysis of discrete models and provides a natural setup for cell population simulations. Finally, Chapter 6 discusses future research directions inspired by the work presented here.",
+  "description_provenance": [
+    "Author Email: davidmur@vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: hmortvei@vbi.vt.edu",
+    "Advisor Email: stanca@math.vt.edu",
+    "Advisor Email: shoops@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:16Z (GMT). No. of bitstreams: 1 Murrugarra_D_D_2012.pdf: 1014464 bytes, checksum: f8609a7125c8f0b0501690b2c562440c (MD5)   Previous issue date: 2012-07-18"
+  ],
+  "handle": "28388",
+  "identifier_other": "etd-07242012-153925",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07242012-153925/",
+  "identifier_uri": "http://hdl.handle.net/10919/28388",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Murrugarra_D_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Systems Biology",
+    "Stochastic Discrete Modeling",
+    "Intrinsic Noise.",
+    "Nested Canalyzing Functions",
+    "Gene Regulatory Networks",
+    "Robustness"
+  ],
+  "title": "Algebraic Methods for Modeling Gene Regulatory Networks",
+  "type": "Dissertation"
+}

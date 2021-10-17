@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Liu, Changrong",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Lee, Fred C.",
+    "Chen, Dan Y.",
+    "Lu, Guo-Quan",
+    "Liu, Yilu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:56Z",
+  "date_adate": "2005-01-28",
+  "date_available": "2014-03-14T20:06:56Z",
+  "date_issued": "2005-01-25",
+  "date_rdate": "2007-01-28",
+  "date_sdate": "2005-01-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Fuel cells are a clean, high-efficiency source for power generation. This innovative technology is going to penetrate all aspects in our life, from utility distributed power, transportation applications, down to power sources for portable devices such as laptop computer and cell phones. To enable the usage of fuel cell, developing power converters dedicated for fuel cells becomes imminent. Currently, the full-bridge converter is the dominating topology in high power dc/dc applications. Although multiphase converters have been proposed, most of them are dealing with high input-voltage systems, and their device characteristic is not suitable for a low voltage source such as a fuel cell. For a high power fuel cell system, high voltage conversion ratios and high input currents are the major obstacles to achieving high-efficiency power conversions. This dissertation proposes a novel 3-phase 6-leg dc/dc power converter with transformer isolation to overcome these obstacles. Major features of the proposed converter include: (1) Increase converter power rating by paralleling phases, not by paralleling multiple devices; (2) Double the output voltage by transformer delta-wye connection, thus lowering the turns-ratio; (3) Reduce the size of output filter and input dc bus capacitor with interleaved control; (4) Achieve Zero-Voltage Zero-Current Switching (ZVZCS) over a wide load range without auxiliary circuitry. High conversion efficiency above 96% is verified with different measurement approaches in experiments.  This dissertation also presents the power stage and control design for the proposed converter. Control design guideline is provided and the design result is confirmed with both simulation and hardware experiments. When using the fuel cell for stationary utility power applications, a low-frequency ripple interaction was identified among fuel cell, dc/dc converter and dc/ac inverter. This low frequency ripple tends to not only damage the fuel cell, but also reduce the source capability. This dissertation also investigates the mechanism of ripple current propagation and exploits the solutions. A linearized ac model is derived and used to explain the ripple propagation. An active ripple reduction technique by the use of the current loop control is proposed. This active current loop control does not add extra converters or expensive energy storage components. Rather, it allows a reduction in capacitance because the ripple current flowing into the capacitor is substantially reduced, and less capacitance can be used while maintaining a clean dc bus voltage. The design process and guideline for the proposed control is suggested, and the effectiveness of this active control is validated by both simulation and experimental results.",
+  "description_provenance": [
+    "Author Email: chliu@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:56Z (GMT). No. of bitstreams: 1 Dissertation_ChLiu.pdf: 13463078 bytes, checksum: 55b25f3dbcc9612210444ef541f2cf1a (MD5)   Previous issue date: 2005-01-25"
+  ],
+  "handle": "26048",
+  "identifier_other": "etd-01272005-004645",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01272005-004645/",
+  "identifier_uri": "http://hdl.handle.net/10919/26048",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_ChLiu.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fuel Cell",
+    "DC/DC Converter",
+    "Converter",
+    "Averaged Model",
+    "Soft Switching",
+    "Phase-shift",
+    "Multi-phase",
+    "Interleaved"
+  ],
+  "title": "A Novel High-Power High-Efficiency Three-Phase Phase-Shift DC/DC Converter for Fuel Cell Applications",
+  "type": "Dissertation"
+}

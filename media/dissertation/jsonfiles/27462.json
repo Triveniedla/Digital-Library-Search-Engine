@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Li, Qiong",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Wilson, Thomas G. Jr.",
+    "Jovanovic, Milan M.",
+    "Johnson, Lee W.",
+    "Chen, Dan Y.",
+    "Borojevich, Dushan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:19Z",
+  "date_adate": "1999-04-30",
+  "date_available": "2014-03-14T20:11:19Z",
+  "date_issued": "1999-03-03",
+  "date_rdate": "2000-04-30",
+  "date_sdate": "1999-04-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation develops a modeling and simulation methodology for design, verification, and testing (DVT) power supply system using a virtual prototype. The virtual prototype is implemented before the hardware prototyping to detect most of the design errors and circuit deficiencies that occur in the later stage of a standard hardware design verification and testing procedure. The design iterations and product cost are reduced significantly by using this approach. The proposed modeling and simulation methodology consists of four major parts: system partitioning, multi-level modeling of device/function block, hierarchical test sequence, and multi-level simulation. By applying the proposed methodology, the designer can use the virtual prototype effectively by keeping a short simulation CPU time as well as catching most of the design problems. The proposed virtual prototype DVT procedure is demonstrated by simulating a 5 V power supply system with a main power supply, a bias power supply, and other protection, monitoring circuitry. The total CPU time is about 8 hours for 780 tests that include the basic function test, steady stage analysis, small-signal stability analysis, large-signal transient analysis, subsystem interaction test, and system interaction test. By comparing the simulation results with the measurements, it shows that the virtual prototype can represent the important behavior of the power supply system accurately. Since the proposed virtual prototype DVT procedure verifies the circuit design with different types of the tests over different line and load conditions, many circuit problems that are not obvious in the original circuit design can be detected by the simulation. The developed virtual prototype DVT procedure is not only capable of detecting most of the design errors, but also plays an important role in design modifications. This dissertation also demonstrates how to analyze the anomalies of the forward converter with active-clamp reset circuit extensively and facilitate the design and improve the circuit performances by utilizing the virtual prototype. With the help of the virtual prototype, it is the first time that the designer is able to analyze the dynamic behavior of the active-clamp forward converter during large-signal transient and optimize the design correspondingly.",
+  "description_provenance": [
+    "Author Email: qli@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:19Z (GMT). No. of bitstreams: 1 etd.pdf: 2708296 bytes, checksum: 63ec71f3dd86fbf909d76d32262bbbb8 (MD5)   Previous issue date: 1999-03-03"
+  ],
+  "handle": "27462",
+  "identifier_other": "etd-043099-132050",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-043099-132050/",
+  "identifier_uri": "http://hdl.handle.net/10919/27462",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "design verification",
+    "active clamp",
+    "modeling",
+    "simulation"
+  ],
+  "title": "Developing Modeling and Simulation Methodology for Virtual Prototype Power Supply System",
+  "type": "Dissertation"
+}

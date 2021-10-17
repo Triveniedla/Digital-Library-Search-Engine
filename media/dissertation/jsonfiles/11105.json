@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Siegel, Nathan Phillip",
+  "contributor_committeechair": "Ellis, Michael W.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "von Spakovsky, Michael R.",
+    "Leo, Donald J.",
+    "Olsommer, Benoit"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T18:53:13Z",
+  "date_adate": "2004-02-17",
+  "date_available": "2011-08-22T18:53:13Z",
+  "date_issued": "2003-05-01",
+  "date_rdate": "2004-02-17",
+  "date_sdate": "2004-01-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A steady-state computational model for a proton exchange membrane fuel cell (PEMFC) is presented.  The model accounts for species transport, electrochemical kinetics, energy transport, current distribution, water uptake and release within the polymer portion of the catalyst layers, and liquid water production and transport. Both two-dimensional and three-dimensional geometries are modeled. For a given geometry, the governing differential equations are solved over a single computational domain.  For the two-dimensional model, the solution domain includes a gas channel, gas diffusion layer, and catalyst layer for both the anode and cathode sides of the cell as well as the solid polymer membrane.  For the three-dimensional model the current collectors are also modeled on both the anode and cathode sides of the fuel cell.   The model for the catalyst layers is based on an agglomerate geometry, which requires water species to exist in dissolved, gaseous, and liquid forms simultaneously.   Data related to catalyst layer morphology that was required by the model was obtained via a physical analysis of both commercially available and in-house membrane electrode assemblies (MEA).  Analysis techniques including cyclic voltammetry and electron microscopy were used. The coupled set of partial differential equations is solved sequentially over a single solution domain with the commercial computational fluid dynamics (CFD) solver, CFDesign™ and is readily adaptable with respect to geometry and material property definitions.   A fuel cell test stand was designed and built to facilitate experimental validation of the model.  The test stand is capable of testing cells up to 50 cm2 under a variety of controlled conditions.   Model results for both two and three-dimensional fuel cell geometries are presented.  Parametric studies performed with the model are also presented and illustrate how fuel cell performance varies due to changes in parameters associated with the transport of reactants and liquid water produced in the cell.  In particular, the transport of oxygen, water within the polymer portions of the catalyst layers and membrane, and liquid water within the porous regions of the cell are shown to have significant impact on cell performance, especially at low cell voltage.  Parametric studies also address the sensitivity of the model results to certain physical properties, which illustrates the importance of accurately determining the physical properties of the fuel cell components on which the model is based.  The results from the three-dimensional model illustrate the impact of the collector plate shoulders (for a conventional flowfield) on oxygen transport and the distribution of current production within the cell.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:13Z (GMT). No. of bitstreams: 1  SiegelETDrev2.pdf: 2736792 bytes, checksum: 81c087cee52279d0bd36479f32b76df4 (MD5)    Previous issue date: 2003-05-01",
+    "Author Email: nsiegel@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: OlsommBC@UTRCCT.res.utc.com"
+  ],
+  "format_medium": "ETD",
+  "handle": "11105",
+  "identifier_other": "etd-01202004-135932",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01202004-135932",
+  "identifier_uri": "http://hdl.handle.net/10919/11105",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SiegelETDrev2.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "single domain",
+    "multi-species",
+    "multi-phase",
+    "water transport",
+    "catalyst properties",
+    "microscopy"
+  ],
+  "title": "Development and validation of a computational model for a proton exchange membrane fuel cell",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Neil, Richard L",
+  "contributor_committeechair": "Arthur, James D.",
+  "contributor_committeemember": [
+    "Davis, Nathaniel J. IV",
+    "Santos, Eunice E.",
+    "Lee, John A. N.",
+    "Kafura, Dennis G."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:41Z",
+  "date_adate": "2005-03-23",
+  "date_available": "2014-03-14T20:07:41Z",
+  "date_issued": "2004-12-17",
+  "date_rdate": "2005-03-23",
+  "date_sdate": "2005-02-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Generative Communication (GC) paradigm was introduced in the early 1980s in the form of the Linda coordination and communication language (Gelernter & Bernstein, 1982).  The goal of the language was to provide an elegant, intuitive alternative to the state-of-the-art in parallel and distributed processing languages at that time, namely remote procedure calls; message passing systems; and shared memory systems (Gelernter, 1985).  Despite the longevity of the Linda coordination language and the GC paradigm, in general, the literature is devoid of meaningful research into the construction and manipulation of dynamic, pointer-based data structures within the context of the GC paradigm.  This document motivates the need for such data structures in GC.  In addition, this document explores the reasons for the lack literature regarding dynamic pointer-based data structures in GC.  Finally, we develop solutions to address the lack of support, within the GC paradigm, for such data structures.",
+  "description_provenance": [
+    "Author Email: arthur@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: santos@cs.vt.edu",
+    "Advisor Email: janlee17@verizon.net",
+    "Advisor Email: kafura@cs.vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:41Z (GMT). No. of bitstreams: 1 Neil_diss.pdf: 477809 bytes, checksum: 4f8ec486844bb812691b042d527b7014 (MD5)   Previous issue date: 2004-12-17"
+  ],
+  "handle": "26275",
+  "identifier_other": "etd-02222005-153132",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02222005-153132/",
+  "identifier_uri": "http://hdl.handle.net/10919/26275",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Neil_diss.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Pointer Semantics",
+    "Tuple Space",
+    "Generative Communication",
+    "Asynchronous Communication",
+    "Concurrent Access",
+    "Shared Dataspace"
+  ],
+  "title": "Support for Pointer Semantics in a Generative Communication Framework",
+  "type": "Dissertation"
+}

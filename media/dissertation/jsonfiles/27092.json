@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Jacoby, Grant Arthur",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Midkiff, Scott F.",
+    "Marchany, Randolph C.",
+    "Bostian, Charles W.",
+    "Park, Jung-Min Jerry"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:20Z",
+  "date_adate": "2005-04-22",
+  "date_available": "2014-03-14T20:10:20Z",
+  "date_issued": "2005-04-12",
+  "date_rdate": "2006-04-22",
+  "date_sdate": "2005-04-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation proposes an efficacious early warning system via a mobile host-based form of intrusion detection that can alert security administrators to protect their corporate network(s) by a novel technique that operates through the implementation of smart battery-based intrusion detection (B-bid) on mobile devices, such as PDAs, HandPCs and smart-phones by correlating attacks with their impact on device power consumption. A host intrusion detection engine (HIDE) monitors power behavior to detect potential intrusions by noting consumption irregularities and serves like a sensor to trigger other forms of protection.  HIDE works in conjunction with a Scan Port Intrusion Engine (SPIE) that ascertains the IP and port source of the attack and with a host analysis signature trace engine (HASTE) that determines the energy signature of the attack and correlates it to a variety of the most common attacks to provide additional protection and alerts to both mobile hosts and their network.",
+  "description_provenance": [
+    "Author Email: grant.jacoby@us.army.mil",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: marchany@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:20Z (GMT). No. of bitstreams: 1 JacobyBatteryBasedIntrusionDetection.pdf: 4288738 bytes, checksum: 570612eda9b669cfa2aac225cf17af4d (MD5)   Previous issue date: 2005-04-12"
+  ],
+  "handle": "27092",
+  "identifier_other": "etd-04212005-120840",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04212005-120840/",
+  "identifier_uri": "http://hdl.handle.net/10919/27092",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JacobyBatteryBasedIntrusionDetection.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Host-Based",
+    "Wireless",
+    "Intrusion Detection",
+    "Mobile",
+    "Power",
+    "Security"
+  ],
+  "title": "Battery-Based Intrusion Detection",
+  "type": "Dissertation"
+}

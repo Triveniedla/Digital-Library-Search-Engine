@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Al-Smadi, Mohammad Ahmed",
+  "contributor_committeechair": "Heatwole, Conrad D.",
+  "contributor_committeemember": [
+    "Carstensen, Laurence William Jr.",
+    "Dymond, Randel L.",
+    "Dillaha, Theo A. III",
+    "Mostaghimi, Saied"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:09:18Z",
+  "date_adate": "2008-04-24",
+  "date_available": "2014-03-14T20:09:18Z",
+  "date_issued": "2007-08-10",
+  "date_rdate": "2010-05-01",
+  "date_sdate": "2008-04-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Erosion and sediment delivery from upland areas to waterbodies is a major problem impacting water quality in the United States and elsewhere.  Measures to reduce these impacts are either targeted at reducing erosion on-site or at reducing delivery of sediment to waterbodies.  AMEENA (Areal Modeling of Erosion for Environmental Nonpoint Applications) is a spatially distributed model that estimates erosion and deposition on a watershed scale by predicting erosion and transport over the landscape surface.  Erosion is predicted based on the Revised Universal Soil Loss Equation (RUSLE), and sediment transport capacity is estimated as a function of upslope flow volume, local gradient, and land use.  Gross erosion is routed to edge-of-stream with a routing algorithm that iteratively compares available sediment with transport capacity on a cell by cell basis from ridge cells to stream cells.  The model is implemented completely within a raster GIS to facilitate use of the model as a tool to readily evaluate impact of land use practices on sediment delivery to streams. <p> AMEENA was validated using field data of net erosion and sediment deposition from three field studies.  AMEENA predicted the spatial distribution of net erosion and deposition better than WaTEM/SEDEM which is a distributed parameter erosion model based on a similar modeling approach.  AMEENAâ  s suitability to simulate the impact of management practices such as filter strips and critical area planting was evaluated on plot (profile) scale and catchment scale simulations.  Results of plot scale simulations were intuitive and the model proved more reasonable for these scenarios than did RUSLE2 and WEPP.  The catchment scale study highlighted features of AMEENA that are not available in RUSLE2 and WEPP in terms of identifying erosion â  hot spotsâ   and the ability to utilize the explicit sediment flow path identification in locating best placement of off-site sediment control measures.  Since AMEENA does not account for in-stream erosion processes, it is not suitable for simulating areas dominated by channel or gully erosion.",
+  "description_provenance": [
+    "Author Email: malsmadi@vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: dymond@vt.edu",
+    "Advisor Email: dillaha@vt.edu",
+    "Advisor Email: smostagh@vt.edu",
+    "Advisor Email: heatwole@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:18Z (GMT). No. of bitstreams: 2 Al-SmadiDissertationV02.pdf: 9271566 bytes, checksum: df787e526578014e191444de9e4c2705 (MD5) AppendixCV02.pdf: 72936 bytes, checksum: 36b13fa981e670abb3580f48b89a1b4d (MD5)   Previous issue date: 2007-08-10"
+  ],
+  "handle": "26754",
+  "identifier_other": "etd-04102008-111028",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04102008-111028/",
+  "identifier_uri": "http://hdl.handle.net/10919/26754",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Al-SmadiDissertationV02.pdf",
+    "AppendixCV02.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "transport capacity",
+    "GIS",
+    "distributed modeling",
+    "sediment deposition",
+    "sediment yield",
+    "soil erosion"
+  ],
+  "title": "AREAL MODELING OF EROSION FOR ENVIRONMENTAL NONPOINT APPLICATIONS (AMEENA)",
+  "type": "Dissertation"
+}

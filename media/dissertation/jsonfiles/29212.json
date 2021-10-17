@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Bae, Kyung Kyoon",
+  "contributor_committeecochair": [
+    "Tranter, William H.",
+    "Annamalai, Annamalai  Jr."
+  ],
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "Gray, Festus Gail",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:08Z",
+  "date_adate": "2005-11-04",
+  "date_available": "2014-03-14T20:17:08Z",
+  "date_issued": "2005-09-09",
+  "date_rdate": "2005-11-04",
+  "date_sdate": "2005-10-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There has been great interest in antenna array processing (diversity, beamforming, null steering, and spatial multiplexing) to enhance the received signal quality and the capacity of wireless communications systems. However, in order to properly exploit the characteristics of different array processing techniques, understanding trade-offs among different techniques and parametric investigation, which offers an insight as to what parameters determine system performance under different situations is necessary. In this study, we present analytical framework which can facilitate the performance analysis of systems with antenna array.  Five original contributions to the performance analysis of antenna array processing are presented in this study. First, we present theoretical outage probability of a system equipped with an array which suppresses a few dominant interering signals in TDMA cellular networks when the fading statistics of interfering signals are independent but non-identically distributed. Most of the related previous works assumed either independent and identically distributed fading statistics among cochannel interferences (CCI) or Rayleigh fading when CCI signals are subject to i.n.d. fading statistics. Secondly, the performance of multi-branch predetection equal gain combiner for different modulation techniques in equally correlated Nakagami-$m$ fading is presented through analytical analysis. Specifically, the characteristic function (CHF) and the moment generating function (MGF) of EGC output with correlated inputs are derived and used to evaluate the average symbol error probability (ASEP) and the outage probability performance, respectively. Thirdly, we derived analytical expression which can be used to analyze the performance of different types of diversity techniques in equally correlated Nakagami-m or Rice fading channels. Fourthly, asymptotic analysis on different types of diversity combiners in generalized fading channels is presented in a unifying way. Finally, we investigate and present the impact of transmit diversity at handsets on the reverse link DS/CDMA systems in terms of capacity and coverage over generalized fading channels through analytical approaches. Then, we validate the analytical results with simulation results and investigate practical issues which are hard to capture through analytical analysis using system level simulator we developed. Although we have mainly focused on applying the analytical framework we have derived in this work to the performance analysis of physical layer algorithms such as spatial diversity and adaptive null steering, the framework can be extended to assist the analysis and design of wireless communication systems such as, to name a few, distributed multiple input multiple output (MIMO) system in cooperative wireless networks, multipath routing protocol analysis in wireless fading channels, and antenna selection problems in MIMO system.",
+  "description_provenance": [
+    "Author Email: kbae@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:08Z (GMT). No. of bitstreams: 1 KyungBae_Dissertation.pdf: 1834888 bytes, checksum: b10698e534dabffee7389eb575a3b0eb (MD5)   Previous issue date: 2005-09-09"
+  ],
+  "handle": "29212",
+  "identifier_other": "etd-10072005-000051",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10072005-000051/",
+  "identifier_uri": "http://hdl.handle.net/10919/29212",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KyungBae_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "DS/CDMA",
+    "Adaptive Array Processing",
+    "Diversity",
+    "Null Steering",
+    "Capacity"
+  ],
+  "title": "Analytical Framework for the Performance Analysis of Multiple Antenna Systems",
+  "type": "Dissertation"
+}

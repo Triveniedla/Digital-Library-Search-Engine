@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Fraker, Shannon E",
+  "contributor_committeechair": "Woodall, William H.",
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:18:22Z",
+  "date_adate": "2007-12-07",
+  "date_available": "2014-03-14T20:18:22Z",
+  "date_issued": "2007-10-31",
+  "date_rdate": "2007-12-07",
+  "date_sdate": "2007-11-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the recent increase in the threat of biological terrorism as well as the continual risk of other diseases, the research in public health surveillance and disease monitoring has grown tremendously. There is an abundance of data available in all sorts of forms. Hospitals, federal and local governments, and industries are all collecting data and developing new methods to be used in the detection of anomalies. Many of these methods are developed, applied to a real data set, and incorporated into software. This research, however, takes a different view of the evaluation of these methods. <p>  \tWe feel that there needs to be solid statistical evaluation of proposed methods no matter the intended area of application. Using proof-by-example does not seem reasonable as the sole evaluation criteria especially concerning methods that have the potential to have a great impact in our lives. For this reason, this  research focuses on determining the  properties of some of the most common anomaly detection methods. A distinction is made between metrics used for retrospective historical monitoring and those used for prospective on-going monitoring with the focus on the latter situation. Metrics such as the recurrence interval and time-to-signal measures are therefore the most applicable. These metrics, in conjunction with control charts such as exponentially weighted moving average (EWMA) charts and cumulative sum (CUSUM) charts, are examined. Two new time-to-signal measures, the average time-between-signal events and the average signal event length, are introduced to better compare the recurrence interval with the time-to-signal properties of surveillance schemes. The relationship commonly thought to exist between the recurrence interval and the average time to signal is shown to not exist once autocorrelation is present in the statistics used for monitoring. This means that closer consideration needs to be paid to the selection of which of these metrics to report. <p>  \tThe properties of a commonly applied scan method are also studied carefully in the strictly temporal setting. The counts of incidences are assumed to occur independently over time and follow a Poisson distribution. Simulations are used to evaluate the method under changes in various parameters. In addition, there are two methods proposed in the literature for the calculation of the p-value, an adjustment based on the tests for previous time periods and the use of the recurrence interval with no adjustment for previous tests. The difference in these two methods is also considered. The quickness of the scan method in detecting an increase in the incidence rate as well as the number of false alarm events that occur and how long the method signals after the increase threat has passed are all of interest. These estimates from the scan method are compared to other attribute monitoring methods, mainly the Poisson CUSUM chart. It is shown that the Poisson CUSUM chart is typically faster in the detection of the increased incidence rate.",
+  "description_provenance": [
+    "Author Email: sfraker@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:22Z (GMT). No. of bitstreams: 1 SEF-EDT.pdf: 645166 bytes, checksum: 78ec157d07a4654fde0a2ce4ad830313 (MD5)   Previous issue date: 2007-10-31"
+  ],
+  "handle": "29511",
+  "identifier_other": "etd-11092007-111843",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11092007-111843/",
+  "identifier_uri": "http://hdl.handle.net/10919/29511",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SEF-EDT.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Recurrence Interval",
+    "EWMA charts",
+    "Anomaly detection",
+    "CUSUM charts",
+    "Time-to-Signal",
+    "Scan Method"
+  ],
+  "title": "Evaluation of Scan Methods Used in the Monitoring of Public Health Surveillance Data",
+  "type": "Dissertation"
+}

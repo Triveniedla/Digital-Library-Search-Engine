@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Lorch, Markus",
+  "contributor_committeechair": "Kafura, Dennis G.",
+  "contributor_committeemember": [
+    "Hicks, James O. Jr.",
+    "Varadarajan, Srinidhi",
+    "Ramakrishnan, Naren",
+    "Ribbens, Calvin J."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:10:03Z",
+  "date_adate": "2004-04-28",
+  "date_available": "2014-03-14T20:10:03Z",
+  "date_issued": "2004-04-16",
+  "date_rdate": "2004-04-28",
+  "date_sdate": "2004-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Computational grids and other heterogeneous, large-scale distributed systems require more powerful and more flexible authorization mechanisms to realize fine-grained access-control of resources.  Computational grids are increasingly used for collaborative problem-solving and advanced science and engineering applications.  Usage scenarios for advanced grids require support for small, dynamic working groups, direct delegation of access privileges among users, procedures for establishing trust relationships without requiring organizational level agreements, precise management by individuals of their privileges, and retention of authority by resource providers.  Existing systems fail to provide the necessary flexibility and granularity to support these scenarios.  The reasons include the overhead imposed by required administrator intervention, coarse granularity that only allows for all-or-nothing access control decisions, and the inability to implement finer-grained access control without requiring trusted application code. <p> PRIMA, the model and system developed in this research, focuses on management and enforcement of fine-grained privileges.  The PRIMA model introduces novel approaches that can be used in place of, or in combination with existing access control mechanisms. PRIMA enables the users of a system to manage access to their own assets directly without the need for, and costs of intervention by technical personnel. System administrators benefit from more flexible and fine-grained definition of access privileges and policies.  A novel access control decision and enforcement model with support for legacy applications has been developed. The model uses on-demand account leasing and implements expressive enforcement mechanisms built on existing low-overhead security primitives of the operating systems.  The combination of the PRIMA components constitutes a comprehensive security model that facilitates highly dynamic authorization scenarios and increases security through least privilege access to resources.  In summary, PRIMA mechanisms enable the use of fine-grained access rights, reduce administrative costs to resource providers, enable ad-hoc and dynamic collaboration scenarios, and provide improved security service to long-lived grid communities.",
+  "description_provenance": [
+    "Author Email: mlorch@vt.edu",
+    "Advisor Email: jhicks@vt.edu",
+    "Advisor Email: srinidhi@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: ribbens@cs.vt.edu",
+    "Advisor Email: kafura@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:03Z (GMT). No. of bitstreams: 1 dissertation-markus-lorch-2004-04-19.pdf: 1067730 bytes, checksum: f26d01547ec5840a9cbd4371b0ad8a6e (MD5)   Previous issue date: 2004-04-16"
+  ],
+  "handle": "26995",
+  "identifier_other": "etd-04192004-092304",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192004-092304/",
+  "identifier_uri": "http://hdl.handle.net/10919/26995",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-markus-lorch-2004-04-19.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Distributed Systems",
+    "Grid Security",
+    "Computer Security"
+  ],
+  "title": "PRIMA - Privilege Management and Authorization in Grid Computing Environments",
+  "type": "Dissertation"
+}

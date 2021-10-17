@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Zhang, Zhiye",
+  "contributor_committeechair": "Lu, Guo-Quan",
+  "contributor_committeemember": [
+    "Davis, Richey M.",
+    "Liu, Yilu",
+    "Guido, Louis J.",
+    "Van Wyk, Daan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:02Z",
+  "date_adate": "2005-09-23",
+  "date_available": "2014-03-14T20:16:02Z",
+  "date_issued": "2005-09-02",
+  "date_rdate": "2006-09-23",
+  "date_sdate": "2005-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Die attachment is one of the most important processes in the packaging of power semiconductor devices.  The current die-attach materials/techniques, including conductive adhesives and reflowed solders, can not meet the advance of power conversation application.  Silver paste sintering has been widely used in microelectronics and been demonstrated the superior properties. The high processing temperature, however, prevents its application of interconnecting power semiconductor devices.  This research focuses processing and characterization of micron-scale and nanoscale silver paste for power semiconductor devices attachment.   Lowering the processing temperature is the essential to implement sintering silver paste for power semiconductor devices attachment.  Two low-temperature sintering techniques - pressure-assisted sintering micro-scale silver paste and sintering nanoscale silver paste without external pressure - were developed.  With the large external pressure, the sintering temperature of micro-scale silver paste can be significantly lowered.  The experimental results show that by using external pressure (>40MPa), the commercial micro-scale silver paste can be sintered to have eighty percent relative density at 240oC, which is compatible with the temperature of solder reflowing.  The measured properties including electrical conductivity, thermal conductivity, interfacial thermal resistance, and the shear strength of sintered silver joints, are significantly better than those of the reflowed solder layer.  Given only twenty percent of small pores in the submicron range, the reliability of the silver joints is also better than that of the solder joints under the thermal cycled environment.  The large external pressure, however, makes this technique difficult to automatically implement and also has a potential to damage the brittle power semiconductor devices.   Reducing silver particles in the paste from micro-size to nanoscale can increases the sintering driving force and thus lowers the sintering temperature.  Several approaches were developed to address sintering challenges of nanoscale silver particles, such as particles aggregation and/or agglomeration, and non-densification diffusion at low temperature.  These approaches are : nanoscale silver slurry, instead of dry silver powder, is used to keep silver particles stable and prevent their aggregation.  Ultrasonic vibration, instead of conventional ball milling, is applied to disperse nanoscale silver particles in the paste from to avoid from agglomerating.  Selected organics in the paste are applied to delay the onset of mass-diffusion and prevent non-densification diffusion at low temperature.  The measured results show that with heat-treatment at 300oC within one hour, the sintered nanoscale silver has significantly improved electrical and thermal properties than reflowed solders.  The shear strength of sintered silver interconnection is compatible with that of solder.  The low-temperature sinterable nanoscale silver paste was applied to attach the bare Silicon carbide (SiC) schottky barrier diode (SBD) for high temperature application.  Limited burn-out path for organics in the silver layer challenges the sintering die-attach.  This difficulty was lessened by reducing organics ratio in the silver paste.  The effects of die-size and heating rate on sintering die-attach were also investigated.  The single chip packaging of SiC SBD was fabricated by sintering die-attach and wire-bonding.  The tested results demonstrate that the sintering nanoscale silver paste can be applied as a viable die-attach solution for high-temperature application.",
+  "description_provenance": [
+    "Author Email: zhzhang2@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: louis.guido@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:02Z (GMT). No. of bitstreams: 1 Dissertation_Zhiye__Zhang.pdf: 5711722 bytes, checksum: d85ffe1b627ebe9cce15555adad93936 (MD5)   Previous issue date: 2005-09-02"
+  ],
+  "handle": "28902",
+  "identifier_other": "etd-09082005-231429",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082005-231429/",
+  "identifier_uri": "http://hdl.handle.net/10919/28902",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Zhiye__Zhang.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "low-temperature sintering",
+    "Power packaging",
+    "nanoscale silver paste",
+    "die-attach",
+    "high-temperature application"
+  ],
+  "title": "Sintering of Micro-scale and Nanscale Silver Paste for Power Semiconductor Devices Attachment",
+  "type": "Dissertation"
+}

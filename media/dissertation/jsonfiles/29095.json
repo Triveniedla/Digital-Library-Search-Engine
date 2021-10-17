@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Yu, Haofeng",
+  "contributor_committeechair": "Iliescu, Traian",
+  "contributor_committeemember": [
+    "Burns, John A.",
+    "De Vita, Raffaella",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:16:46Z",
+  "date_adate": "2011-10-07",
+  "date_available": "2014-03-14T20:16:46Z",
+  "date_issued": "2011-09-19",
+  "date_rdate": "2011-10-07",
+  "date_sdate": "2011-09-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This thesis represents a theoretical and numerical investigation of the canonical duality theory, which has been recently proposed as an alternative to the classic and direct methods for non-convex variational problems. These non-convex variational problems arise in a wide range of scientific and engineering applications, such as phase transitions, post-buckling of large deformed beam models, nonlinear field theory, and superconductivity. The numerical discretization of these non-convex variational problems leads to global minimization problems in a finite dimensional space.  The primary goal of this thesis is to apply the newly developed canonical duality theory to two non-convex variational problems: a modified version of Ericksenâ  s bar and a problem of Landau- Ginzburg type. The canonical duality theory is investigated numerically and compared with classic methods of numerical nature. Both advantages and shortcomings of the canonical duality theory are discussed. A major component of this critical numerical investigation is a careful sensitivity study of the various approaches with respect to changes in parameters, boundary conditions and initial conditions.",
+  "description_provenance": [
+    "Author Email: haofeng.yu@gmail.com",
+    "Advisor Email: burns@math.vt.edu",
+    "Advisor Email: devita@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: Iliescu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:46Z (GMT). No. of bitstreams: 1 Yu_H_D_2011.pdf: 1540688 bytes, checksum: e4ca048b23bafef01efc22ced452efd3 (MD5)   Previous issue date: 2011-09-19"
+  ],
+  "handle": "29095",
+  "identifier_other": "etd-09252011-085711",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09252011-085711/",
+  "identifier_uri": "http://hdl.handle.net/10919/29095",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yu_H_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Ericksenâ  s Bar",
+    "Semi-linear Equations",
+    "Global Optimization",
+    "Canonical Duality Theory",
+    "Canonical Dual Finite Element Method",
+    "Landau-Ginzburg Problem.",
+    "Duality",
+    "Non-convex Variational Problems"
+  ],
+  "title": "A Numerical Investigation Of The Canonical Duality Method For Non-Convex Variational Problems",
+  "type": "Dissertation"
+}

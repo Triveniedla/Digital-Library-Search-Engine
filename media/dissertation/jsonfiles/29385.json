@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Walker, Eric Lee",
+  "contributor_committeechair": "Barnwell, Richard W.",
+  "contributor_committeemember": [
+    "Mayo, Deborah G.",
+    "Starnes, B. Alden",
+    "Hemsch, Michael J.",
+    "Walters, Robert W.",
+    "Mason, William H."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:17:43Z",
+  "date_adate": "2005-11-04",
+  "date_available": "2014-03-14T20:17:43Z",
+  "date_issued": "2005-10-07",
+  "date_rdate": "2005-11-04",
+  "date_sdate": "2005-10-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Wind tunnel experiments will continue to be a primary source of validation data for many types of mathematical and computational models in the aerospace industry. The increased emphasis on accuracy of data acquired from these facilities requires understanding of the uncertainty of not only the measurement data but also any correction applied to the data.   One of the largest and most critical corrections made to these data is due to wall interference. In an effort to understand the accuracy and suitability of these corrections, a statistical validation process for wall interference correction methods has been developed. This process is based on the use of independent cases which, after correction, are expected to produce the same result. Comparison of these independent cases with respect to the uncertainty in the correction process establishes a domain of applicability based on the capability of the method to provide reasonable corrections with respect to customer accuracy requirements.   The statistical validation method was applied to the version of the Transonic Wall Interference Correction System (TWICS) recently implemented in the National Transonic Facility at NASA Langley Research Center.  The TWICS code generates corrections for solid and slotted wall interference in the model pitch plane based on boundary pressure measurements. Before validation could be performed on this method, it was necessary to calibrate the ventilated wall boundary condition parameters. Discrimination comparisons are used to determine the most representative of three linear boundary condition models which have historically been used to represent longitudinally slotted test section walls.   Of the three linear boundary condition models implemented for ventilated walls, the general slotted wall model was the most representative of the data. The TWICS code using the calibrated general slotted wall model was found to be valid to within the process uncertainty for test section Mach numbers less than or equal to 0.60. The scatter among the mean corrected results of the bodies of revolution validation cases was within one count of drag on a typical transport aircraft configuration for Mach numbers at or below 0.80 and two counts of drag for Mach numbers at or below 0.90.",
+  "description_provenance": [
+    "Author Email: eric.l.walker@nasa.gov",
+    "Advisor Email: mayod@vt.edu",
+    "Advisor Email: astarnes@cn.edu",
+    "Advisor Email: barnwell@vces.org",
+    "Advisor Email: michael.j.hemsch@nasa.gov",
+    "Advisor Email: rwalters@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:43Z (GMT). No. of bitstreams: 1 Walker_PhD_Dissertation.pdf: 10015893 bytes, checksum: 696652145a884e00ae2fa8a21ab28bcd (MD5)   Previous issue date: 2005-10-07"
+  ],
+  "handle": "29385",
+  "identifier_other": "etd-10272005-165559",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10272005-165559/",
+  "identifier_uri": "http://hdl.handle.net/10919/29385",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Walker_PhD_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Boundary Pressure",
+    "Blockage",
+    "Wind TunnelTesting",
+    "Wall Interference",
+    "Validation",
+    "Accuracy"
+  ],
+  "title": "Statistical Calibration and Validation of a Homogeneous Ventilated Wall-Interference Correction Method for the National Transonic Facility",
+  "type": "Dissertation"
+}

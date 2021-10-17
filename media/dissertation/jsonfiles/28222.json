@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Rode, Jochen",
+  "contributor_committeecochair": [
+    "Rosson, Mary Beth",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_committeemember": [
+    "Edwards, Stephen H.",
+    "Ramakrishnan, Naren",
+    "Rees, Loren Paul"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:46Z",
+  "date_adate": "2005-07-21",
+  "date_available": "2014-03-14T20:13:46Z",
+  "date_issued": "2005-07-01",
+  "date_rdate": "2005-07-21",
+  "date_sdate": "2005-07-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work investigates entry barriers and approaches for facilitating end-user web application development with the particular focus on shaping web programming technology and tools according to end-users' expectations and natural mental models. My underlying assumption and motivation is that given the right tools and techniques even nonprogrammers may become successful web application developers. The main target audience for this research are \"casual\" webmasters without programming experience - a group likely to be interested in building web applications. As an important subset of web applications I focus on supporting the development of basic data collection, storage and retrieval applications such as online registrations forms, staff databases, or report tools. First I analyze the factors contributing to the complexity of web application development through surveys and interviews of experienced programmers; then I explore the \"natural mental models\" of potential end-user web developers, and finally discuss my particular design solutions for lowering entry barriers, as embodied by a proof-of-concept development tool, called Click. Furthermore, I introduce and evaluate the concept of \"Design-at-Runtime\" - a new technique for facilitating and accelerating the development-test cycle when building web-based applications.",
+  "description_provenance": [
+    "Author Email: jochenrode@gmail.com",
+    "Advisor Email: mrosson@psu.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:46Z (GMT). No. of bitstreams: 1 dissertation.pdf: 3155775 bytes, checksum: ed55ddb7d926d95748f8b54c4b7b6aa2 (MD5)   Previous issue date: 2005-07-01"
+  ],
+  "handle": "28222",
+  "identifier_other": "etd-07062005-152028",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07062005-152028/",
+  "identifier_uri": "http://hdl.handle.net/10919/28222",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "end-user web application development",
+    "mental models",
+    "nonprogrammers"
+  ],
+  "title": "Web Application Development by Nonprogrammers: User-Centered Design of an End-User Web Development Tool",
+  "type": "Dissertation"
+}

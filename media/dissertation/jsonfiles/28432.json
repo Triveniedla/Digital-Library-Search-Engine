@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Nair, Arun Krishnan",
+  "contributor_committeecochair": [
+    "Farkas, Diana",
+    "Kriz, Ronald D."
+  ],
+  "contributor_committeemember": [
+    "Thangjitham, Surot",
+    "Duke, John C. Jr.",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:14:27Z",
+  "date_adate": "2008-08-18",
+  "date_available": "2014-03-14T20:14:27Z",
+  "date_issued": "2008-05-12",
+  "date_rdate": "2009-08-18",
+  "date_sdate": "2008-07-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Theoretical and computational methods have been used to study nonlinear effects in the mechanical response of materials at the nano and macro scales. These methods include, acoustoelastic theory, molecular dynamics and finite element models.   The nonlinear indentation response of Ni thin films of thicknesses in the nano scale was studied using molecular dynamics simulations with embedded atom method (EAM) interatomic potentials. The study included both single crystal films and films containing low angle grain boundaries perpendicular to the film surface. The simulation results for single crystal films show that as film thickness decreases, larger forces are required for similar indentation depths but the contact stress necessary to emit the first dislocation under the indenter is nearly independent of film thickness. The presence of grain boundaries in the films leads to the emission of dislocations at a lower applied stress. For a single crystal Ni thin film of a thickness of 20 nm a direct comparison of simulation and experimental results is presented, showing excellent agreement in hardness values. The effects of using different interatomic potentials and indentation rates for the simulations are also discussed. Dynamic indentation of the Ni thin film was also carried out for different frequencies. It has been found that there is a 12% increase in dislocations compared to quasi static indentation and the results are consistent with experiments.   Acoustoelastic theory was used to study how nonlinear elastic properties of unidirectional graphite/epoxy (gr/ep) effect the energy flux deviation due to an applied shear stress. It was found that the quasi-transverse wave (QT) exhibits more flux deviation compared to the quasi-longitudinal (QL) or the pure transverse (PT) due to an applied shear stress. The flux shift in QT wave due to an applied shear stress is higher than that for an applied normal stress along laminate stacking direction for the same magnitude. The QT wave has energy flux deviation due to shear stress at 0o and 90o fiber orientations as compared to normal stress case where the flux deviation is zero. It was found that the energy flux shift of QT wave in gr/ep varies linearly with applied shear stress. The Finite element model of the equations of motion combined with the Newmark method in time was used to confirm the flux shift predicted by theory.",
+  "description_provenance": [
+    "Author Email: aknair@vt.edu",
+    "Advisor Email: thanjitham@vt.edu",
+    "Advisor Email: jcduke@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: diana@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:27Z (GMT). No. of bitstreams: 6 ETD.pdf: 5268978 bytes, checksum: a20becd79deb7c3a2608e9d02107b7b9 (MD5) Movie_5.mov: 5242422 bytes, checksum: 30cc37f692e71a0833dfc962a02d2112 (MD5) Movie_2.mov: 25042657 bytes, checksum: d9b0648bd745911a6f96ca8d5821fc17 (MD5) Movie_1.mov: 4612837 bytes, checksum: 53390a9277740997e626fb876b7121f0 (MD5) Movie_3.mov: 36756406 bytes, checksum: 91fe11a356adc136c3797fc8b1e36da7 (MD5) Movie_4.mov: 2498255 bytes, checksum: eb49811ffa58df0ba4167165e6527a06 (MD5)   Previous issue date: 2008-05-12"
+  ],
+  "handle": "28432",
+  "identifier_other": "etd-07282008-102841",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07282008-102841/",
+  "identifier_uri": "http://hdl.handle.net/10919/28432",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ETD.pdf",
+    "Movie_5.mov",
+    "Movie_2.mov",
+    "Movie_1.mov",
+    "Movie_3.mov",
+    "Movie_4.mov"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Acoustoelastic Theory",
+    "Wave propagation in Solids",
+    "Stress Induced Anisotropy",
+    "Finite Element Method.",
+    "Molecular Dynamics",
+    "Embedded Atom Method",
+    "Nanoindentation"
+  ],
+  "title": "Modeling nonlinear material behavior at the nano and macro scales.",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Forcey, Stefan Andrew",
+  "contributor_committeechair": "Quinn, Frank S.",
+  "contributor_committeemember": [
+    "Hagedorn, George A.",
+    "Floyd, William J.",
+    "Haskell, Peter E.",
+    "Green, Edward L."
+  ],
+  "contributor_department": "Mathematical Physics",
+  "date_accessioned": "2011-08-22T19:00:21Z",
+  "date_adate": "2004-04-27",
+  "date_available": "2011-08-22T19:00:21Z",
+  "date_issued": "2004-04-15",
+  "date_rdate": "2004-04-27",
+  "date_sdate": "2004-04-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There is an ongoing massive effort by many researchers to link category theory and geometry, especially homotopy coherence and categorical coherence. This constitutes just a part of the broad undertaking known as categorification as described by Baez and Dolan. This effort has as a partial goal that of understanding the categories and functors that correspond to loop spaces and their associated topological functors. Progress towards this goal has been advanced greatly by the recent work of Balteanu, Fiedorowicz, Schwänzl, and Vogt who show a direct correspondence between k–fold monoidal categories and k–fold loop spaces through the categorical nerve.   This thesis pursues the hints of a categorical delooping that are suggested when enrichment is iterated. At each stage of successive enrichments, the number of monoidal products seems to decrease and the categorical dimension to increase, both by one. This is mirrored by topology. When we consider the loop space of a topological space, we see that paths (or 1–cells) in the original are now points (or objects) in the derived space. There is also automatically a product structure on the points in the derived space, where multiplication is given by concatenation of loops. Delooping is the inverse functor here, and thus involves shifting objects to the status of 1–cells and decreasing the number of ways to multiply.   Enriching over the category of categories enriched over a monoidal category is defined, for the case of symmetric categories, in the paper on A∞–categories by Lyubashenko. It seems that it is a good idea to generalize his definition first to the case of an iterated monoidal base category and then to define V–(n + 1)–categories as categories enriched over V–n–Cat, the (k−n)–fold monoidal strict (n+1)–category of V–n–categories where k<n ∈ N. We show that for V k–fold monoidal the structure of a (k−n)–fold monoidal strict (n + 1)–category is possessed by V–n–Cat.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:21Z (GMT). No. of bitstreams: 1  thesisnow.pdf: 2402071 bytes, checksum: 97ea79204dbbe06a44d177b58bee6475 (MD5)    Previous issue date: 2004-04-15",
+    "Author Email: sforcey@math.vt.edu",
+    "Advisor Email: hagedorn@vt.edu",
+    "Advisor Email: quinn@math.vt.edu",
+    "Advisor Email: floyd@math.vt.edu",
+    "Advisor Email: haskell@math.vt.edu",
+    "Advisor Email: green@math.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11147",
+  "identifier_other": "etd-04232004-160123",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04232004-160123",
+  "identifier_uri": "http://hdl.handle.net/10919/11147",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesisnow.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "iterated loop spaces",
+    "enriched categories",
+    "n-categories",
+    "iterated monoidal categories"
+  ],
+  "title": "Loop Spaces and Iterated Higher Dimensional Enrichment",
+  "type": "Dissertation"
+}

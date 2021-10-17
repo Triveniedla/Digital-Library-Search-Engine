@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Dobramysl, Ulrich",
+  "contributor_committeechair": "Tauber, Uwe C",
+  "contributor_committeemember": [
+    "Mather, William",
+    "Pleimling, Michel Jean",
+    "Sharpe, Eric R"
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2013-09-07T08:00:17Z",
+  "date_available": "2013-09-07T08:00:17Z",
+  "date_issued": "2013-09-06",
+  "degree_discipline": "Physics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "We investigate the properties of two distinct disordered systems: the two-species predator-prey Lotka-Volterra model with rate variability, and an elastic line model to simulate vortex lines in type-II superconductors.  We study the effects of intrinsic demographic variability with inheritance in the reaction rates of the Lotka-Volterra model via zero-dimensional Monte Carlo simulations as well as two-dimensional lattice simulations. Individuals of each species are assigned inheritable predation efficiencies during their creation, leading to evolutionary dynamics and thus population-level optimization. We derive an effective subspecies mean-field theory and compare its results to our numerical data. Furthermore, we introduce environmental variability via quenched spatial reaction-rate randomness. We investigate the competing effects and relative importance of the two types of variability, and find that both lead to a remarkable enhancement of the species densities, while the aforementioned optimization effects are essentially neutral in the densities. Additionally, we collected extinction time histograms for small systems and find a marked increase in the stability of the populations against extinction due to the presence of variability.  We employ an elastic line model to investigate the steady-state properties and non-equilibrium relaxation kinetics of magnetic vortex lines in disordered type-II superconductors. To this end, we developed a versatile and efficient Langevin molecular dynamics simulation code, allowing us to do a careful study of samples with or without vortex-vortex interactions or disorder allows us to disentangle the various complex relaxational features present in this system and investigate their origin. In particular, we compare disordered samples with randomly distributed point defects versus correlated columnar defects. We extract two-time quantities such as the mean-square displacement, the height and density correlations, to investigate the relaxation kinetics of the system of flux lines. Additionally, we compare the steady-state mean velocity and gyration radius as a function of an external driving current in the presence of point-like and columnar disorder. We validate our simulation algorithm by matching our results against a previously-used Monte Carlo algorithm, verifying that these microscopically quite distinct methods yield similar results even in out-of-equilibrium settings.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-09-07T08:00:17Z (GMT). No. of bitstreams: 1 Dobramysl_U_D_2013.pdf: 2574047 bytes, checksum: e77cd0f3f979fba0fed58ec9b36c5cc6 (MD5)   Previous issue date: 2013-09-06",
+  "format_medium": "ETD",
+  "handle": "23757",
+  "identifier_other": "vt_gsexam:1642",
+  "identifier_uri": "http://hdl.handle.net/10919/23757",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Relaxation and Disorder",
+    "Non-equilibrium statistical mechanics",
+    "Population Dynamics",
+    "Magnetic Flux Lines"
+  ],
+  "title": "On the Relaxation Dynamics of Disordered Systems",
+  "type": "Dissertation"
+}

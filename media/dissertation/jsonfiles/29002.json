@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Donolo, Marcos A.",
+  "contributor_committeechair": "Centeno, Virgilio A.",
+  "contributor_committeemember": [
+    "Thorp, James S.",
+    "Phadke, Arun G.",
+    "Liu, Yilu",
+    "Kachroo, Pushkin",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:21Z",
+  "date_adate": "2006-11-06",
+  "date_available": "2014-03-14T20:16:21Z",
+  "date_issued": "2006-09-04",
+  "date_rdate": "2008-11-06",
+  "date_sdate": "2006-09-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The behavior of large and tightly interconnected power systems resembles, in certain circumstances, the behavior of a continuously distributed system. This resemblance motivated the derivation of continuum models, which were used to explain and predict disturbance propagation, un-damped power oscillations, and the stability of power systems. In this dissertation, we propose a one-dimensional continuum representation suitable for meshed power systems. Previous continuous representations of meshed power systems used two-dimensional spatial domains. Thus our approach has the potential to provide better resolution for comparable computational burden. It is important to note that, the computational burden required to obtain solutions for PDEs involved in the continuum representation varies notably with the solver implementation.     The contributions of this dissertation are: a) Reviewing a previous continuum model and providing a detailed derivation for the one-dimensional version of it. b) Providing and describing in detail a parameter distribution technique adequate for the continuum approach. c) Identifying and documenting limitations on the continuum model voltage calculation. e) Providing a procedure to simulate the behavior of meshed power systems using the one dimensional continuum model. And f) Identifying and applying a numerical PDE solver for the continuum approach.",
+  "description_provenance": [
+    "Author Email: mdonolo@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:21Z (GMT). No. of bitstreams: 1 Dissertation_mad.pdf: 1210666 bytes, checksum: 8ce46c8acbf0587da5073c51e89ca7dc (MD5)   Previous issue date: 2006-09-04"
+  ],
+  "handle": "29002",
+  "identifier_other": "etd-09172006-234758",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09172006-234758/",
+  "identifier_uri": "http://hdl.handle.net/10919/29002",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_mad.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Power systems simulation",
+    "electromechanical wave propagation",
+    "continuum model"
+  ],
+  "title": "A continuum Approach to Power system simulation",
+  "type": "Dissertation"
+}

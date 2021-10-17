@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Awuor, Risper Akelo",
+  "contributor_committeechair": "Skaggs, Gary E.",
+  "contributor_committeemember": [
+    "Alexander, M. David",
+    "Deater-Deckard, Kirby",
+    "Miyazaki, Yasuo",
+    "Wolfe, Edward W."
+  ],
+  "contributor_department": "Educational Leadership and Policy Studies",
+  "date_accessioned": "2014-03-14T20:14:06Z",
+  "date_adate": "2008-08-04",
+  "date_available": "2014-03-14T20:14:06Z",
+  "date_issued": "2008-06-19",
+  "date_rdate": "2009-08-04",
+  "date_sdate": "2008-07-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<html> <head> <title>Risper Akelo Awuor - Abstract</title> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"> </head>  <body> <p>This simulation study focused on determining the effect of unequal sample sizes on statistical power of SIBTEST and Mantel-Haenszel procedures for detection of DIF of moderate and large magnitudes. Item parameters were estimated by, and generated with the 2PLM using WinGen2 (Han, 2006). MULTISIM was used to simulate ability estimates and to generate response data that were analyzed by SIBTEST. The SIBTEST procedure with regression correction was used to calculate the DIF statistics, namely the DIF effect size and the statistical significance of the bias. The older SIBTEST was used to calculate the DIF statistics for the M-H procedure. SAS provided the environment in which the ability parameters were simulated; response data generated and DIF analyses conducted. Test items were observed to determine if a priori manipulated items demonstrated DIF. The study results indicated that with unequal samples in any ratio, M-H had better Type I error rate control than SIBTEST. The results also indicated that not only the ratios, but also the sample size and the magnitude of DIF influenced the behavior of SIBTEST and M-H with regard to their error rate behavior. With small samples and moderate DIF magnitude, Type II errors were committed by both M-H and SIBTEST when the reference to focal group sample size ratio was 1:.10 due to low observed statistical power and inflated Type I error rates. </p> </body> </html>",
+  "description_provenance": [
+    "Author Email: rawuor@vt.edu",
+    "Advisor Email: mdavid@vt.edu",
+    "Advisor Email: gskaggs@vt.edu",
+    "Advisor Email: kirbydd@vt.edu",
+    "Advisor Email: yasuom@vt.edu",
+    "Advisor Email: edwolfe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:06Z (GMT). No. of bitstreams: 1 RAA_ETD.pdf: 9091648 bytes, checksum: 44c441061798e674f0fece08015eba06 (MD5)   Previous issue date: 2008-06-19"
+  ],
+  "handle": "28321",
+  "identifier_other": "etd-07172008-130938",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07172008-130938/",
+  "identifier_uri": "http://hdl.handle.net/10919/28321",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RAA_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Monte Carlo simulation",
+    "combination ratios",
+    "sample size",
+    "nominal p-value",
+    "DIF detection",
+    "DIF magnitude",
+    "statistical power",
+    "differential item functioning"
+  ],
+  "title": "Effect of Unequal Sample Sizes on the Power of DIF Detection: An IRT-Based Monte Carlo Study with SIBTEST and Mantel-Haenszel Procedures",
+  "type": "Dissertation"
+}

@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Yang, Quan",
+  "contributor_committeechair": "Achenie, Luke E",
+  "contributor_committeemember": [
+    "Rim, Peter B",
+    "Cox, David F",
+    "Davis, Richey M"
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2013-12-11T09:00:13Z",
+  "date_available": "2013-12-11T09:00:13Z",
+  "date_issued": "2013-12-10",
+  "degree_discipline": "Chemical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Membranes made of composite polymer material are widely employed to separate gas mixtures in industrial processes. These membranes have better performance than membranes consisting of polymer alone. To understand the mechanism and therefore aid membrane design it is essential to explore the penetrant transport in the complex composites from the molecular level, but few researchers have done such research to our knowledge. Herein the penetrant transport in the composite Poly (4-methyl-2-pentyne) (PMP) and silica nanoparticle is being explored with molecular dynamics (MD) simulations. The  structure of the PMP and amorphous silica nanoparticle composite was modeled and with the structure the variation of the cavity size distribution was established due to the existence of nanoparticles. The diffusivity of different penetrants, including H2, O2, Ar, CH4 and n-C4H10 was determined through least square fit of the data of mean square displacement at different times in the Fickian diffusive regime. The solubility coefficients and the permeability of different penetrants in PMP and the composite were calculated and the distribution of potential difference due to the penetrant insertion was analyzed in detail to find the reason of higher solubility in composite than pure PMP. Silica has different crystalline form. In faujasite silica, there are pores that are large enough to allow penetrants to pass through, while in cristobalite  silica, the Si and O atoms are densely packed and there are no pores that penetrants can pass through. The transport properties of penetrants in the composite of PMP and nanoparticles of these two types of silica are therefore different. The molecular dynamics method was employed in the research to explore the transport of different penetrants in the composites of PMP and nanoparticles of two forms of silica, namely the cristobalite form and the faujasite form. The  structures of the PMP and nanoparticle of cristobalite silica composite (PMPC) and the PMP and nanoparticle of faujasite silica composite (PMPF) were established and relaxed. With the relaxed structure, the cavity size change due to the insertion of both types of nanoparticle was analyzed. The diffusivity of different penetrants was determined through least square fit of the data of mean square displacement at different time in Fickian diffusive regime. The solubility coefficients and the permeability of different penetrants in PMPC and PMPF were calculated and compared. The parameters of \"Ti\" in the Lennard-Jones potential equation were estimated; MD simulation of penetrants transport in composite poly (4-methyl-2-pentyne) and TiO2 nanoparticles were done; the simulation results were compared with composite poly (4-methyl-2-pentyne) and silica nanoparticles.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-11T09:00:13Z (GMT). No. of bitstreams: 2  Yang_Q_D_2013.pdf: 2967341 bytes, checksum: ad42f9e5416a54da7db2030b60216f6e (MD5)  Yang_Q_D_2013_support_1.pdf: 51073 bytes, checksum: 2db9ddc85470b6e14c5bf2b026427e00 (MD5)    Previous issue date: 2013-12-10",
+  "format_medium": "ETD",
+  "handle": "24521",
+  "identifier_other": "vt_gsexam:1890",
+  "identifier_uri": "http://hdl.handle.net/10919/24521",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Molecular dynamics simulation",
+    "PMP and silica nanoparticle composite",
+    "cristobalite silica",
+    "faujasite silica"
+  ],
+  "title": "Molecular dynamics simulation of penetrant transport in composite poly (4-methyl-2-pentyne) and nanoparticles of different types",
+  "type": "Dissertation"
+}

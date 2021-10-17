@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Krueger, Denise A.",
+  "contributor_committeechair": "King, Belinda B.",
+  "contributor_committeemember": [
+    "Burns, John A.",
+    "Borggaard, Jeffrey T.",
+    "Iliescu, Traian",
+    "Zietsman, Lizette"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2011-08-22T19:02:33Z",
+  "date_adate": "2004-08-03",
+  "date_available": "2011-08-22T19:02:33Z",
+  "date_issued": "2004-07-22",
+  "date_rdate": "2004-08-03",
+  "date_sdate": "2004-08-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We study the behavior of numerical stabilization schemes in the context of linear quadratic regulator (LQR) control problems for convection diffusion equations. The motivation for this effort comes from the observation that when linearization is applied to fluid flow control problems the resulting equations have the form of a convection diffusion equation. This effort is focused on the specific problem of computing the feedback functional gains that are the kernels of the feedback operators defined by solutions of operator Riccati equations. We develop a stabilization scheme based on the Galerkin Least Squares (GLS) method and compare this scheme to the standard Galerkin finite element method. We use cubic B-splines in order to keep the higher order terms that occur in GLS formulation. We conduct a careful numerical investigation into the convergence and accuracy of the functional gains computed using stabilization. We also conduct numerical studies of the role that the stabilization parameter plays in this convergence. Overall, we discovered that stabilization produces much better approximations to the functional gains on coarse meshes than the unstabilized method and that adjustments in the stabilization parameter greatly effects the accuracy and convergence rates. We discovered that the optimal stabilization parameter for simulation and steady state analysis is not necessarily optimal for solving the Riccati equation that defines the functional gains. Finally, we suggest that the stabilized GLS method might provide good initial values for iterative schemes on coarse meshes.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:33Z (GMT). No. of bitstreams: 1  DKrueger.pdf: 2952306 bytes, checksum: 9f2f4f38037512c9e622cbe8e62eca1e (MD5)    Previous issue date: 2004-07-22",
+    "Author Email: dkrueger@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11214",
+  "identifier_other": "etd-08022004-131444",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08022004-131444",
+  "identifier_uri": "http://hdl.handle.net/10919/11214",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DKrueger.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Stabilized Finite Elements",
+    "Convection-Diffusion Equation",
+    "Linear Quadratic Regulator Problems",
+    "Non-normal"
+  ],
+  "title": "Stabilized Finite Element Methods for Feedback Control of Convection Diffusion Equations",
+  "type": "Dissertation"
+}

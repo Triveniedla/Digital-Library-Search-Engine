@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kim, Sookyoung",
+  "contributor_committeechair": "Martin, Thomas L.",
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "Lockhart, Thurmon E.",
+    "Baumann, William T.",
+    "Hsiao, Michael S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:09Z",
+  "date_adate": "2008-09-25",
+  "date_available": "2014-03-14T20:16:09Z",
+  "date_issued": "2008-04-28",
+  "date_rdate": "2009-09-25",
+  "date_sdate": "2008-09-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation studies the problem of increasing battery life-time and reducing CPU heat dissipation without degrading system performance in commodity-OS-based general-purpose (GP) mobile computers using the dynamic voltage scaling (DVS) function of modern CPUs. The dissertation especially focuses on the impact of task scheduling on the effectiveness of DVS in achieving this goal. The task scheduling mechanism used in most contemporary general-purpose operating systems (GPOS) prioritizes tasks based only on their CPU occupancies irrespective of their deadlines. In currently available autonomous DVS schemes for GP mobile systems, the impact of this GPOS task scheduling is ignored and a DVS scheme merely predicts and enforces the lowest CPU speed that can meet tasksâ   deadlines without meddling with task scheduling. This research, however, shows that it is impossible to take full advantage of DVS in balancing energy/power and performance in the current DVS paradigm due to the mismatch between the urgency (i.e., having a nearer deadline) and priority of tasks under the GPOS task scheduling. This research also shows that, consequently, a new DVS paradigm is necessary, where a â  DVS-friendlyâ   task scheduling assigns higher priorities to more urgent tasks. The dissertation begins by showing how the mismatch between the urgency and priority of tasks limits the effectiveness of DVS and why conventional real-time (RT) task scheduling, which is intrinsically DVS-friendly cannot be used in GP systems. Then, the dissertation describes the requirements for â  DVS-friendly GPâ   task scheduling as follows. Unlike the existing GPOS task scheduling, it should prioritize tasks by their deadline. But, at the same time, it must be able to do so without a priori knowledge of the deadlines and be able to handle the various tasks running in todayâ  s GP systems, unlike conventional RT task scheduling. The various tasks include sporadic tasks such as user-interactive tasks and tasks having dependencies on each other such as a family of threads and user-interface server/clients tasks. Therefore, the first major result of this research is to propose a new DVS paradigm for commodity-OS-based GP mobile systems in which DVS is performed under a DVS-friendly GP task scheduling that meets these requirements. The dissertation then proposes GPSched, a DVS-friendly GP task scheduling mechanism for commodity-Linux-based GP mobile systems, as the second major result. GPSched autonomously prioritizes tasks by their deadlines using the type of services that each task is involved with as the indicator of the deadline. At the same time, GPSched properly handles a family of threads and user-interface server/clients tasks by distinguishing and scheduling them as a group, and user-interactive tasks by incorporating a feature of current GPOS task scheduling â   raising the priority of a task that is idle most of the time â   which is desirable to quickly respond to user input events in its prioritization mechanism. The final major result is GPScheDVS, the integration of GPSched and a task-based DVS scheme customized for GPSched called GPSDVS. GPScheDVS provides two alternative modes: (1) the system-energy-centric (SE) mode aiming at a longer battery life-time by reducing system energy consumption and (2) the CPU-power-centric (CP) mode focusing on limiting CPU heat dissipation by reducing CPU power consumption. Experiments conducted under a set of real-life usage scenarios on a laptop show that the best, worst, and average reductions of system energy consumption by the SE mode GPScheDVS were 24%, -1%, and 17%, respectively, over the no-DVS case and 11%, -1%, and 5%, respectively, over the state-of-the-art task-based DVS scheme in the current DVS paradigm. The experiments also show that the best, worst, and average reductions of CPU energy consumption by the SE mode GPScheDVS were 69%, 0%, and 43% over the no-DVS case and 26%, -1%, and 13% over the state-of-the-art task-based DVS scheme in the current DVS paradigm. Considering that no power management was performed on non-CPU components for the experiments, these results imply that the system energy savings achievable by GPScheDVS will be increased if the non-CPU componentsâ   power is properly managed. On the other hand, the best, worst, and average reductions of average CPU power by the CP mode GPScheDVS were 69%, 49%, and 60% over the no-DVS case and 63%, 0%, and 30% over the existing task-based DVS scheme. Furthermore, oscilloscope measurements show that the best, worst, and average reduction of peak system power by the CP mode GPScheDVS were 29%, 10%, and 23% over the no-DVS case and 28%, 6%, and 22% over the existing task-based DVS scheme signifying that GPScheDVS is effective also in restraining the peak CPU power. On the top of these advantages in energy and power, the experimental results show that GPScheDVS even improves system performance in either mode due to its deadline-based task scheduling property. For example, the deadline meet ratio on continuous videos by GPScheDVS was at least 91.2%, whereas the ratios by the no-DVS case and the existing task-based DVS scheme were down to 71.3% and 71.0%, respectively.",
+  "description_provenance": [
+    "Author Email: sokim6@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:09Z (GMT). No. of bitstreams: 1 diss_fin_v5.1.pdf: 1600105 bytes, checksum: 0bbe57c8b5417be08de0672626e07e94 (MD5)   Previous issue date: 2008-04-28"
+  ],
+  "handle": "28943",
+  "identifier_other": "etd-09112008-122010",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09112008-122010/",
+  "identifier_uri": "http://hdl.handle.net/10919/28943",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss_fin_v5.1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Task Scheduling",
+    "Dynamic Voltage Scaling",
+    "Energy Management",
+    "Power Management",
+    "Thermal Management",
+    "General-Purpose Mobile Computers"
+  ],
+  "title": "GPScheDVS: A New Paradigm of the Autonomous CPU Speed Control for Commodity-OS-based General-Purpose Mobile Computers with a DVS-friendly Task Scheduling",
+  "type": "Dissertation"
+}

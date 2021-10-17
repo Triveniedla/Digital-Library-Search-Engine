@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Cheng, Haiyan",
+  "contributor_committeechair": "Sandu, Adrian",
+  "contributor_committeecochair": "Watson, Layne T.",
+  "contributor_committeemember": [
+    "Ribbens, Calvin J.",
+    "Marr, Linsey C.",
+    "Cao, Yang",
+    "Kapania, Rabesh K."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:14:29Z",
+  "date_adate": "2009-08-03",
+  "date_available": "2014-03-14T20:14:29Z",
+  "date_issued": "2009-07-15",
+  "date_rdate": "2009-08-03",
+  "date_sdate": "2009-07-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Modeling and simulations of large-scale systems are used extensively to not only better understand a natural phenomenon, but also to predict future events. Accurate model results are critical for design optimization and policy making. They can be used effectively to reduce the impact of a natural disaster or even prevent it from happening. In reality, model predictions are often affected by uncertainties in input data and model parameters, and by incomplete knowledge of the underlying physics. A deterministic simulation assumes one set of input conditions, and generates one result without considering uncertainties. It is of great interest to include uncertainty information in the simulation. By ``Uncertainty Quantification,'' we denote the ensemble of techniques used to model probabilistically the uncertainty in model inputs, to  propagate it through the system, and to represent the resulting uncertainty in the model result. This added information provides a confidence level about the model forecast. For example, in environmental modeling, the model forecast, together with the quantified uncertainty information, can assist the policy makers in interpreting the simulation results and in  making decisions accordingly. Another important goal in modeling and simulation is to improve the model accuracy and to increase the model prediction power. By merging real observation data into the dynamic system through the data assimilation (DA) technique, the overall uncertainty in the model is reduced. With the expansion of human knowledge and the development of modeling tools, simulation size and complexity are growing rapidly. This poses great challenges to uncertainty analysis techniques. Many conventional uncertainty quantification algorithms, such as the straightforward Monte Carlo method, become impractical for large-scale simulations. New algorithms need to be developed in order to quantify and reduce uncertainties in large-scale simulations.  <p> This research explores novel uncertainty quantification and reduction techniques that are suitable for large-scale simulations. In the uncertainty quantification part, the non-sampling polynomial chaos (PC) method is investigated. An efficient implementation is proposed to reduce the high computational cost for the linear algebra involved in the PC Galerkin approach applied to stiff systems. A collocation least-squares method is proposed to compute the PC coefficients more efficiently. A novel uncertainty apportionment strategy is proposed to attribute the uncertainty in model results to different uncertainty sources. The apportionment results provide guidance for uncertainty reduction efforts. The uncertainty quantification and source apportionment techniques are implemented in the 3-D Sulfur Transport Eulerian Model (STEM-III) predicting pollute concentrations in the northeast region of the United States. Numerical results confirm the efficacy of the proposed techniques for large-scale systems and the potential impact for environmental protection policy making.  <p> ``Uncertainty Reduction'' describes the range of systematic techniques used to fuse information from multiple sources in order to increase the confidence one has in model results. Two DA techniques are widely used in current practice: the ensemble Kalman filter (EnKF) and the four-dimensional variational (4D-Var) approach. Each method has its advantages and disadvantages. By exploring the error reduction directions generated in the 4D-Var optimization process, we propose a hybrid approach to construct the error covariance matrix and to improve the static background error covariance matrix used in current 4D-Var practice. The updated covariance matrix between assimilation windows effectively reduces the root mean square error (RMSE) in the solution. The success of the hybrid covariance updates motivates the hybridization of EnKF and 4D-Var to further reduce uncertainties in the simulation results. Numerical tests show that the hybrid method improves the model accuracy and increases the model prediction quality.",
+  "description_provenance": [
+    "Author Email: hcheng04@vt.edu",
+    "Advisor Email: sandu@cs.vt.edu",
+    "Advisor Email: ltw@vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: lmarr@vt.edu",
+    "Advisor Email: ycao@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:29Z (GMT). No. of bitstreams: 1 Hcheng_dissertation.pdf: 5721933 bytes, checksum: 80a329546046a64f65b835ba0a34459b (MD5)   Previous issue date: 2009-07-15"
+  ],
+  "handle": "28444",
+  "identifier_other": "etd-07282009-102917",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07282009-102917/",
+  "identifier_uri": "http://hdl.handle.net/10919/28444",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hcheng_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Uncertainty quantification",
+    "uncertainty apportionment",
+    "polynomial chaos",
+    "data assimilation",
+    "Kalman filter",
+    "air quality modeling",
+    "4D-Var"
+  ],
+  "title": "Uncertainty Quantification and Uncertainty Reduction Techniques for Large-scale Simulations",
+  "type": "Dissertation"
+}

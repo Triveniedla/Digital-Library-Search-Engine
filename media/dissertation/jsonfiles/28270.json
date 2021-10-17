@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Zhang, Xinyu",
+  "contributor_committeechair": "Myklebust, Arvid",
+  "contributor_committeemember": [
+    "Bohn, Jan Helge",
+    "Mason, William H.",
+    "O'Brien, Walter F. Jr.",
+    "Deisenroth, Michael P."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:55Z",
+  "date_adate": "2005-07-22",
+  "date_available": "2014-03-14T20:13:55Z",
+  "date_issued": "2005-06-15",
+  "date_rdate": "2005-07-22",
+  "date_sdate": "2005-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "B-spline surfaces have been widely used in aircraft design to represent different types of components in a uniform format. Unlike the visual trimming of B-spline surfaces, which hides unwanted portions in rendering, the geometric trimming approach provides a mathematically clean representation. This dissertation focuses on the geometric trimming of fuselage and wing components represented by B-spline surfaces.    To trim two intersecting surfaces requires finding their intersections effectively. Most of the existing algorithms focus on providing intersections suitable for rendering. In this dissertation, an intersection algorithm suitable for geometric trimming of B-spline surfaces is presented. The number of intersection points depends on the number of isoparametric curves selected, and thus is controllable and independent of the error bound of intersection points.   Trimming curves are classified and a new scheme for trimming by a closed trimming curve is provided to improve the accuracy. The surface trimmed by a closed trimming curve is subdivided into four patches and the trimming curve is converted into two open trimming curves. Two surface patches are created by knot insertion, which match the original surface exactly. The other two surface patches are trimmed by the converted open trimming curves. Factors affecting the trimming process are discussed and metrics are provided to measure trimming errors.    Exact trimming is precluded due to the high degree of intersections. The process may lead to significant deviation from the corresponding portion on the original surface. Optimizations are employed to minimize approximation errors and obtain higher accuracy. The hybrid Parallel Tempering and Simulated Annealing optimization method, which is an effective algorithm to overcome the slow convergence waiting dilemma and initial value sensitivity, is applied for the minimization of B-spline surface representation errors. The results confirm that trimming errors are successfully reduced.",
+  "description_provenance": [
+    "Author Email: xizhan10@vt.edu",
+    "Advisor Email: bohn@vt.edu",
+    "Advisor Email: arvid@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: mpdeis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:55Z (GMT). No. of bitstreams: 2 dissertation.pdf: 166883 bytes, checksum: 6f97f46a6a22f75718ec6f33e395baa5 (MD5) dissertation.2.pdf: 11543656 bytes, checksum: 96b8a1a7a35f490dc5d5250b447740c0 (MD5)   Previous issue date: 2005-06-15"
+  ],
+  "handle": "28270",
+  "identifier_other": "etd-07122005-091333",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122005-091333/",
+  "identifier_uri": "http://hdl.handle.net/10919/28270",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "dissertation.pdf",
+    "dissertation.2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Geometric modeling",
+    "geometric trimming",
+    "b-spline",
+    "optimization",
+    "aircraft design",
+    "intersection algorithm"
+  ],
+  "title": "Optimal Geometric Trimming of B-spline Surfaces for Aircraft Design",
+  "type": "Dissertation"
+}

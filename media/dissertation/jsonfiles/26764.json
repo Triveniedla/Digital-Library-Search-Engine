@@ -1,0 +1,45 @@
+{
+  "contributor_author": "El-Badawy, Ayman Aly",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Kirk, R. Gordon",
+    "Cudney, Harley H.",
+    "Mook, Dean T.",
+    "Ahmadian, Mehdi",
+    "Saunders, William R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:20Z",
+  "date_adate": "2000-04-12",
+  "date_available": "2014-03-14T20:09:20Z",
+  "date_issued": "2000-03-30",
+  "date_rdate": "2001-04-12",
+  "date_sdate": "2000-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We tackle the problem of identifying the structural dynamics of the twin tails of the F-15 fighter plane.  The objective is to first investigate and identify the different possible attractors that coexist for the same operating parameters. Second is to develop a model that simulates the experimentally determined dynamics. Third is to suppress the high-amplitude vibrations of the tails due to either principal parametric or external excitations.   To understand the dynamical characteristics of the twin-tails, the model is excited parametrically. For the same excitation amplitude and frequency, five different responses are observed depending on the initial conditions.  The coexisting five responses are the result of the nonlinearities.  After the experimental identification of the system, we develop a model to capture the dynamics realized in the experiment.   We devise a nonlinear control law based on cubic velocity feedback to suppress the response of the model to a principal parametric excitation.  The performance of the control law is studied by comparing the open- and closed-loop responses of the system.  Furthermore, we conduct experiments to verify the theoretical analysis.  The theoretical and experimental findings indicate that the control law not only leads to effective vibration suppression, but also to effective bifurcation control. We investigate the design of a neural-network-based adaptive control system for active vibration suppression of the model when subjected to a parametric excitation.  First, an emulator neural network was trained to represent the structure and thus used to predict the future responses of the model.  Second, a neurocontroller is developed to determine the necessary control action. The computer-simulation studies show great promise for artificial neural networks to control the model vibrations caused by parametric excitations. We investigate the use of four different control strategies to suppress high-amplitude responses of the F-15 fighter to a primary resonance excitation. The control strategies are linear velocity feedback, nonlinear velocity feedback, positive position feedback, and saturation-based control.  For each case, we conduct bifurcation analyses for the open- and closed-loop responses of the system and investigate theoretically the performance of the different control strategies.  We also calculate the instantaneous power requirements of each control law.  The experimental results agree with the theoretical findings.",
+  "description_provenance": [
+    "Author Email: abadawy@mailcity.com",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:20Z (GMT). No. of bitstreams: 1 Aymanetd2.pdf: 2235056 bytes, checksum: dc59dec7861a6f3527ef02b07ca89a53 (MD5)   Previous issue date: 2000-03-30"
+  ],
+  "handle": "26764",
+  "identifier_other": "etd-04112000-13090021",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112000-13090021/",
+  "identifier_uri": "http://hdl.handle.net/10919/26764",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Aymanetd2.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Fighter Aircraft",
+    "Smart Structures",
+    "Buffet",
+    "Neural Networks",
+    "Active Control",
+    "Nonlinear Dynamics",
+    "Perturbation"
+  ],
+  "title": "Structural Identification and Buffet Alleviation of Twin-Tailed Fighter Aircraft",
+  "type": "Dissertation"
+}

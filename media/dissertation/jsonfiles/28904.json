@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Timsina, Tirtha Prasad",
+  "contributor_committeechair": "Sachs, Ekkehard W.",
+  "contributor_committeemember": [
+    "Day, Martin V.",
+    "Cliff, Michael T.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:16:02Z",
+  "date_adate": "2007-09-18",
+  "date_available": "2014-03-14T20:16:02Z",
+  "date_issued": "2007-08-13",
+  "date_rdate": "2007-09-18",
+  "date_sdate": "2007-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The inverse problem in finance consists of determining the unknown parameters of the pricing equation from the values quoted from the market. We formulate the inverse problem as a minimization problem for an appropriate cost function to minimize the difference between the solution of the model and the market observations. Efficient gradient based optimization requires accurate gradient estimation of the cost function. In this thesis we highlight the adjoint method for computing gradients of the cost function in the context of gradient based optimization and show its importance. We derive the continuous adjoint equations with appropriate boundary conditions for three main option pricing models: the Black-Scholes model, the Hestonâ  s model and the jump diffusion model, for European type options. These adjoint equations can be used to compute the gradient of the cost function accurately for parameter estimation problems. The adjoint method allows efficient evaluation of the gradient of a cost function F(Â¾) with respect to parameters Â¾ where F depends on Â¾ indirectly, via an intermediate variable. Compared to the finite difference method and the sensitivity equation method, the adjoint equation method is very efficient in computing the gradient of the cost function. The sensitivity equations method requires solving a PDE corresponding to each parameter in the model to estimate the gradient of the cost function. The adjoint method requires solving a single adjoint equation once. Hence, for a large number of parameters in the model, the adjoint equation method is very efficient. Due to its nature, the adjoint equation has to be solved backward in time. The adjoint equation derived from the jump diffusion model is harder to solve due to its non local integral term. But algorithms that can be used to solve the Partial Integro- Differential Equation (PIDE) derived from jump diffusion model can be modified to solve the adjoint equation derived from the PIDE.",
+  "description_provenance": [
+    "Author Email: ttimsina@gmail.com",
+    "Advisor Email: day@math.vt.edu",
+    "Advisor Email: mcliff@vt.edu",
+    "Advisor Email: esachs@math.vt.edu",
+    "Advisor Email: jborggaard@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:02Z (GMT). No. of bitstreams: 1 Timsina_Thesis_07.pdf: 1208735 bytes, checksum: ccd9e28f145c0eab7ae7a08d2e948229 (MD5)   Previous issue date: 2007-08-13"
+  ],
+  "handle": "28904",
+  "identifier_other": "etd-09082007-155649",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082007-155649/",
+  "identifier_uri": "http://hdl.handle.net/10919/28904",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Timsina_Thesis_07.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Sensitivity",
+    "Optimization",
+    "Jump diffusion",
+    "Gradient method",
+    "Adjoint equations"
+  ],
+  "title": "Sensitivities in Option Pricing Models",
+  "type": "Dissertation"
+}

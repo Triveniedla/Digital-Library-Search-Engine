@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Karri, Satyaprakash Babu",
+  "contributor_committeechair": [
+    "Telionis, Demetri P.",
+    "Vlachos, Pavlos P."
+  ],
+  "contributor_committeemember": [
+    "Prabhu, Santosh",
+    "Ragab, Saad A.",
+    "Tafti, Danesh K."
+  ],
+  "contributor_department": "Biomedical Engineering",
+  "date_accessioned": "2014-03-14T20:15:57Z",
+  "date_adate": "2009-09-30",
+  "date_available": "2014-03-14T20:15:57Z",
+  "date_issued": "2009-08-26",
+  "date_rdate": "2009-09-30",
+  "date_sdate": "2009-09-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Abstract Cardiovascular diseases (CVD) are the number one causes of death in the world. According to the world Health Organization (WHO) 17.5 million people died from cardiovascular disease in 2005, representing 30 % of all global deaths . Of these deaths, 7.6 million were due to heart attacks and 5.7 million due to stroke. If current trends are allowed to continue, by 2015 an estimated 20 million people will die annually from cardiovascular disease. The trends are similar in the United States where on an average 1 person dies every 37 seconds due to CVD. In 2008 an estimated 770,000 Americans will experience a new heart attack (coronary stenosis) and 600,000 will experience a first stroke.  Although the exact causes of cardiovascular disease are not well understood, hemodynamics has been long thought to play a primary role in the progression of cardiovascular disease and stroke. There is strong evidence linking the fluid mechanical forces to the transduction mechanisms that trigger biochemical response leading to atherosclerosis or plaque formation. It is hypothesized that the emergence of abnormal fluid mechanical stresses which dictate the cell mechanotransduction mechanisms and lead to disease progression is dependent on the geometry and compliance of arteries, and pulsatility of blood flow. Understanding of such hemodynamic regulation in relation to atherosclerosis is of significant clinical importance in the prediction and progression of heart disease as well as design of prosthetic devices such as stents. The current work will systematically study the effects of compliance and complex geometry and the resulting fluid mechanical forces.  The objective of this work is to understand the relationship of fluid mechanics and disease conditions using both experimental and computational methods where (a) Compliance effects are studied in idealized stenosed coronary and peripheral arteries using Digital Particle Image Velocimetry (DPIV), (b) Complex geometric effects of stented arteries with emphasis on its design parameters is investigated using CFD, Also (c) a novel method to improve the accuracy of velocity gradient estimation in the presence of noisy flow fields such as in DPIV where noise is inherently present is introduced with the objective to improve accuracy in the estimation of WSS, which are of paramount hemodynamic importance. The broad impact of the current work extends to the understanding of fundamental physics associated with arterial disease progression which can lead to better design of prosthetic devices, and also to better disease diagnostics.",
+  "description_provenance": [
+    "Author Email: karri@vt.edu",
+    "Advisor Email: santosh@aol.com",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:57Z (GMT). No. of bitstreams: 1 masterPhD3.pdf: 6631201 bytes, checksum: 95b5d7daf70bcf3e997d411e3f909380 (MD5)   Previous issue date: 2009-08-26"
+  ],
+  "handle": "28880",
+  "identifier_other": "etd-09062009-204633",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09062009-204633/",
+  "identifier_uri": "http://hdl.handle.net/10919/28880",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "masterPhD3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Wall shear stresses",
+    "Radial Basis Function",
+    "Transition",
+    "Turbulence",
+    "DPIV",
+    "Stenosis"
+  ],
+  "title": "Laminar and Transitional Flow disturbances in Diseased and Stented Arteries",
+  "type": "Dissertation"
+}

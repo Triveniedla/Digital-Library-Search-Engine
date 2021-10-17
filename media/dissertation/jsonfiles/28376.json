@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Beverly, Lesa Lynn",
+  "contributor_committeechair": "Boisen, Monte B. Jr.",
+  "contributor_committeemember": [
+    "Gibbs, Gerald V.",
+    "Brown, Ezra A.",
+    "Rogers, Robert C.",
+    "Haskell, Peter E."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:14:15Z",
+  "date_adate": "2000-09-04",
+  "date_available": "2014-03-14T20:14:15Z",
+  "date_issued": "2000-07-21",
+  "date_rdate": "2001-09-04",
+  "date_sdate": "2000-07-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The goals of the research presented in this dissertation were to create algorithms that produce images of complex phenomena, to study the efficacy of the algorithms, and to apply these algorithms to important mineralogical problems.  The algorithms that were created include the Sphere Projection method, the Chicken Wire method, and methods for calculating the curvature at any point on a surface.  The Sphere Projection method is best applied to roughly spherical surfaces.  A theorem about the \"fit\" to a sphere determines the accuracy of the model in this special case and gives some insight into the limitations of this method.  The Chicken Wire method was developed to model those surfaces for which the Sphere Projection method was ineffective.  The effectiveness of the Chicken Wire method was also determined.  The algorithms were used to produce images of equi-value surfaces of the Laplacian of the electron density function in selected molecules.  The water molecule, H2O, was studied to demonstrate that these new methods are capable of reproducing known features.  The disiloxane molecule, H6Si2O7, was studied because it serves as a model for bonding in quartz and other important silicates.  Lastly, the molecule NaLi2Si2OF9 was examined as a molecular model for low albite.  A new discovery suggests that these algorithms will be an important tool in mineralogy.",
+  "description_provenance": [
+    "Author Email: lbeverly@math.uttyl.edu",
+    "Advisor Email: boisen@math.vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: haskell@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:15Z (GMT). No. of bitstreams: 2 BeverlyAbstract.pdf: 5161 bytes, checksum: 44099cdd1c7fa7c77a7cd3fbd683f6f0 (MD5) etd.pdf: 466523 bytes, checksum: d751f30d525b9ce659d89ac1b0531c58 (MD5)   Previous issue date: 2000-07-21"
+  ],
+  "handle": "28376",
+  "identifier_other": "etd-07242000-18160007",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07242000-18160007/",
+  "identifier_uri": "http://hdl.handle.net/10919/28376",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "BeverlyAbstract.pdf",
+    "etd.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Disiloxane",
+    "Electron Density Function",
+    "Surface Approximations",
+    "Laplacian",
+    "VRML"
+  ],
+  "title": "The Creation of Algorithms Designed for Analyzing Periodic Surfaces of Crystals and Mineralogically Important Sites in Molecular Models of Crystals:  Understanding the Electron Density Function Through Visual Examinations of the Curvature and Shape of the Equi-Value Laplacian Surfaces",
+  "type": "Dissertation"
+}

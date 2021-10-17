@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Zhang, Zhiye",
+  "contributor_committeechair": "Philen, Michael K.",
+  "contributor_committeemember": [
+    "Kapania, Rakesh K.",
+    "Patil, Mayuresh J.",
+    "Priya, Shashank"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:59Z",
+  "date_adate": "2012-11-12",
+  "date_available": "2014-03-14T20:16:59Z",
+  "date_issued": "2012-09-14",
+  "date_rdate": "2012-11-12",
+  "date_sdate": "2012-10-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The braided composite actuator is a pressure-driven muscle-like actuator capable of large displacements as well as large blocking forces. It consists of an elastomeric tube reinforced by a sleeve braided by high performance fibers.  In addition to the actuation properties, this actuator can also exhibit a large change in stiffness through simple valve control when the working fluid has a high bulk modulus. Several analytical models have been previously developed that capture the geometrical and material nonlinearities, the compliance of the inner liner, and entrapped air in the fluid. The inter fiber yarn compaction in the fiber layer, which is shown to reduce the effective closed-valve stiffness, is studied. A new analytical model for uniformly deformed actuators is developed to capture the compaction effect. This model considers the inter fiber yarn compaction effect and the fiber extensibility as well as the material and geometric nonlinearities. Analysis and experimental results demonstrate that the new compaction model can improve the prediction of the response behavior of the actuator. The compaction model is improved by considering the yarn bending stiffness. The governing equations are derived and the solution algorithm is presented.",
+  "description_provenance": [
+    "Author Email: zzy00@vt.edu",
+    "Advisor Email: mphilen@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: spriya@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:59Z (GMT). No. of bitstreams: 1 Zhang_Z_D_2012.pdf: 2989580 bytes, checksum: 546ff28d9c90087fecd9e9833cb40af2 (MD5)   Previous issue date: 2012-09-14"
+  ],
+  "handle": "29162",
+  "identifier_other": "etd-10012012-012241",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10012012-012241/",
+  "identifier_uri": "http://hdl.handle.net/10919/29162",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Zhang_Z_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Braided Composite Actuators",
+    "Variable Stiffness Structures",
+    "Compaction Model",
+    "Smart Materials"
+  ],
+  "title": "Modeling, Analysis, and Experiments of Inter Fiber Yarn Compaction Effects in Braided Composite Actuators",
+  "type": "Dissertation"
+}

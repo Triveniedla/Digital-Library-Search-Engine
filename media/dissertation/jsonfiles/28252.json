@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Banerjee, Soumik",
+  "contributor_committeechair": "Puri, Ishwar K.",
+  "contributor_committeemember": [
+    "Batra, Romesh C.",
+    "Park, Kyungwha",
+    "Hajj, Muhammad R.",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:13:51Z",
+  "date_adate": "2008-08-11",
+  "date_available": "2014-03-14T20:13:51Z",
+  "date_issued": "2008-06-16",
+  "date_rdate": "2008-08-11",
+  "date_sdate": "2008-07-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Interest in nanoscale heat and mass transport has been augmented through current trends in nanotechnology research. The theme of this dissertation is to characterize electric charge, mass and thermal transport at the nanoscale using a fundamental molecular simulation method, namely molecular dynamics. This dissertation reports simulations of (1) ion intake by carbon nanotubes, (2) hydrogen storage in carbon nanotubes, (3) carbon nanotube growth and (4) nanoscale heat transfer. Ion transport is investigated in the context of desalination of a polar solution using charged carbon nanotubes. Simulations demonstrate that when either a spatially or temporally alternating charge distribution is applied, ion intake into the nanotubes is minimal. Thus, the charge distribution can either be maintained constant (for ion encapsulation) or varied (for water intake) in order to achieve different effects. Next, as an application of mass transport, the hydrogen storage characteristics of carbon nanotubes under modified conditions is reported. The findings presented in this dissertation suggest a significant increment in storage in the presence of alkali metals. The dependence of storage on the external thermodynamic conditions is analyzed and the optimal range of operating conditions is identified. Another application of mass transport is the growth mode of carbon nanostructures (viz. tip growth and base growth). A correct prediction of the dominant growth mode depends on the energy gain due to the addition of C-atoms from the carbon-metal catalyst solution to the graphene sheets forming the carbon nanostructures. This energy gain is evaluated through molecular dynamics simulations. The results suggest tip growth for Ni and base growth for Fe catalysts. Finally, unsteady nanoscale thermal transport at solid-fluid interfaces is simulated using non-equilibrium molecular dynamics simulations. It is found that the simulated temperature evolution deviates from an analytical continuum solution due to the overall system heterogeneity. Temperature discontinuities are observed between the solid-like interfaces and their neighboring fluid molecules. With an increase in the temperature of the solid wall the interfacial thermal resistance decreases.",
+  "description_provenance": [
+    "Author Email: soumik@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: kyungwha@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: ikpuri@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:51Z (GMT). No. of bitstreams: 1 etd.pdf: 1961008 bytes, checksum: c2f1806737f3be3faa21806590c02aea (MD5)   Previous issue date: 2008-06-16"
+  ],
+  "handle": "28252",
+  "identifier_other": "etd-07102008-123910",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07102008-123910/",
+  "identifier_uri": "http://hdl.handle.net/10919/28252",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Carbon Nanotube",
+    "Nanotechnology",
+    "Molecular Dynamics"
+  ],
+  "title": "Molecular Simulation Of Nanoscale Transport Phenomena",
+  "type": "Dissertation"
+}

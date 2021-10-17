@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Bassler, Christopher Colby",
+  "contributor_committeechair": "Brown, Alan J",
+  "contributor_committeemember": [
+    "Reed, Arthur M.",
+    "Neu, Wayne L",
+    "Paterson, Eric G"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-06-22T08:00:15Z",
+  "date_available": "2013-06-22T08:00:15Z",
+  "date_issued": "2013-06-21",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Ship roll motion has been the subject of many studies, because of the complexities associated with this mode of ship motion, and its impact on operability, safety, and survivability. Estimation and prediction of the energy transfer and dissipation of the hydrodynamic components, added inertia and damping, is essential to accurately describe the roll motions of a ship. This is especially true for ship operations in moderate to extreme sea conditions. In these conditions, a complex process of energy transfer occurs, which alters the physical behavior of the hydrodynamic components, and ultimately affects the amplitude of ship roll motion. <br />Bilge keels have been used on ships for nearly two centuries, to increase damping and reduce the severity of roll motions experienced by a ship in waves. Because ship motions are more severe in extreme sea conditions, large roll angles may occur. With the possibility of crew injury, cargo damage, or even capsize, it is important to understand the behavior of the roll added inertia and damping for these conditions. Dead ship conditions, where ships may experience excitation from beam, or near beam, seas present a worst case scenario in heavy weather. The behavior of a ship in this condition should be considered in both the design and assessment of seakeeping performance. <br />In this study, hydrodynamic component models of roll added inertia and roll damping were examined and assessed to be unsuitable for accurate prediction of ship motions in heavy weather. A series of model experiments and numerical studies were carried out and analyzed to provide improved understanding of the essential physical phenomena which affect the hydrodynamic components and occur during large amplitude roll motion. These observations served to confirm the hypothesis that the existing models for roll added inertia and damping in large amplitude motions are not sufficient. The change in added inertia and damping behavior for large roll motion is largely due to the effects of hull form geometry, including the bilge keels and topside geometry, and their interactions with the free surface. Therefore, the changes in added inertia and damping must be considered in models to describe and predict roll motions in severe wave environments. <br />Based on the observations and analysis from both experimental and numerical methods, several time-domain model formulations were proposed and examined to model hydrodynamic components of large amplitude roll motions. These time-domain formulations included an analytical model with memory effects, a piecewise formulation, and several possibilities for a bilge keel force model. Although a piecewise model for roll damping was proposed, which can improve the applicability of traditional formulations for roll damping to heavy weather conditions, a further attempt was undertaken to develop a more detailed model specifically for the bilge keel force. This model was based on the consideration of large amplitude effects on the hydrodynamic components of the bilge keel force. Both the piecewise and bilge keel force models have the possibility to enable improved accuracy of potential flow-based numerical prediction of ship roll motion in heavy weather. However, additional development remains to address issues for further practical implementation.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-22T08:00:15Z (GMT). No. of bitstreams: 2 Bassler_CC_D_2013.pdf: 8154648 bytes, checksum: 570ad0bbb856a0b41ff8dd75e4e9395b (MD5) Bassler_CC_D_2013_support_1.PDF: 2091866 bytes, checksum: 0a3bf5755490430026537fd5557b440c (MD5)   Previous issue date: 2013-06-21",
+  "format_medium": "ETD",
+  "handle": "23258",
+  "identifier_other": "vt_gsexam:1165",
+  "identifier_uri": "http://hdl.handle.net/10919/23258",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "ship motions",
+    "seakeeping",
+    "roll motion",
+    "roll damping",
+    "added mass",
+    "added inertia",
+    "bilge keel",
+    "dead ship condition",
+    "beam seas",
+    "larg"
+  ],
+  "title": "Analysis and Modeling of Hydrodynamic Components for Ship Roll Motion in Heavy Weather",
+  "type": "Dissertation"
+}

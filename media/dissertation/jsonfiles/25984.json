@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Bickmore, Barry Robert",
+  "contributor_committeechair": "Hochella, Michael F. Jr.",
+  "contributor_committeemember": [
+    "Rimstidt, james Donald",
+    "Zelazny, Lucian W.",
+    "Gibbs, Gerald V.",
+    "Ribbe, Paul H."
+  ],
+  "contributor_department": "Geological Sciences",
+  "date_accessioned": "2014-03-14T20:06:42Z",
+  "date_adate": "2000-02-03",
+  "date_available": "2014-03-14T20:06:42Z",
+  "date_issued": "1999-12-09",
+  "date_rdate": "2001-02-03",
+  "date_sdate": "2000-01-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An integrated program has been developed to explore the reactivity of 2:1 phyllosilicates (biotite and the clays montmorillonite, hectorite, and nontronite) with respect to acid dissolution using in situ atomic force microscopy (AFM).  Three techniques are described which make it possible to fix these minerals and other small particles to a suitable substrate for examination in the fluid cell of the atomic force microscope.  A suite of macros has also been developed for the Image SXM image analysis environment which make possible the accurate and consistent measurement of the dimensions of clay particles in a series of AFM images, so that dissolution rates can be measured during a fluid cell experiment.  Particles of biotite and montmorillonite were dissolved, and their dissolution rates normalized to their reactive surface area, which corresponds to the area of their edge surfaces (A<sub>e</sub>).  The A<sub>e</sub>-normalized rates for these minerals between pH 1-2 are all ~10E<sup>-8</sup> mol/m<sup>2</sup>*s, and compare very well to other A<sub>e</sub>-normalized dissolution rates in the literature.  Differences between the A<sub>e</sub>-normalized rates for biotite and the BET-normalized rates (derived from solution chemical studies) found in the literature can be easily explained in terms of the proportion of edge surface area and the formation of leached layers.  However, the differences between the A<sub>e</sub>-normalized montmorillonite rates and the literature values cannot be explained the same way.  Rather, it is demonstrated that rates derived from solution studies of montmorillonite dissolution have been affected by the colloidal behavior of the mineral particles.  Finally, the dissolution behavior of hectorite (a trioctahedral smectite) and nontronite ( a dioctahedral smectite) were compared.  Based on the differential reactivity of their crystal faces, a model of their surface atomic structures is formulated using Hartman-Perdock crystal growth theory, which explains the observed data if it is assumed that the rate-determining step of the dissolution mechanism is the breaking of connecting bonds between the octahedral and tetrahedral sheets of the mineral structure.",
+  "description_provenance": [
+    "Author Email: bbickmore@vt.edu",
+    "Advisor Email: jdr02@vt.edu",
+    "Advisor Email: hochella@vt.edu",
+    "Advisor Email: zelazny@vt.edu",
+    "Advisor Email: gvgibbs@vt.edu",
+    "Advisor Email: ribbe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:42Z (GMT). No. of bitstreams: 3 BickmoreVita.pdf: 51023 bytes, checksum: c986e79336999fb3984a5a5047952370 (MD5) etchpit.mov: 390751 bytes, checksum: 0c36da840c6bcb766b2b1a18ae33c672 (MD5) Bickmorebrb_diss.pdf: 3385109 bytes, checksum: 0f16ea7493c90be614daf3d2374ec091 (MD5)   Previous issue date: 1999-12-09"
+  ],
+  "handle": "25984",
+  "identifier_other": "etd-0111100-115522",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-0111100-115522/",
+  "identifier_uri": "http://hdl.handle.net/10919/25984",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "BickmoreVita.pdf",
+    "etchpit.mov",
+    "Bickmorebrb_diss.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "HCl",
+    "vermiculite",
+    "kaolinite",
+    "sapphire",
+    "AFM",
+    "polyethyleneimine",
+    "crystal structure",
+    "periodic bond chain",
+    "phlogopite",
+    "SFM",
+    "biotite",
+    "montmorillonite",
+    "Tempfix"
+  ],
+  "title": "Atomic Force Microscopy Study of Clay Mineral Dissolution",
+  "type": "Dissertation"
+}

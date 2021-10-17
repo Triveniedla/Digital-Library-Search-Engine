@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Xie, Lei",
+  "contributor_committeechair": "Cliff, Eugene M.",
+  "contributor_committeemember": [
+    "Mason, William H.",
+    "Grossman, Bernard M.",
+    "Borggaard, Jeffrey T.",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:10:53Z",
+  "date_adate": "2002-05-02",
+  "date_available": "2014-03-14T20:10:53Z",
+  "date_issued": "2002-04-12",
+  "date_rdate": "2003-05-02",
+  "date_sdate": "2002-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Continuous adjoint methods and optimal control theory are applied to a pressure-matching inverse design problem of quasi 1-D nozzle flows. Pontryagin’s Minimum Principle is used to derive the adjoint system and the reduced gradient of the cost functional. The properties of adjoint variables at the sonic throat and the shock location are studied, revealing a logarithmic singularity at the sonic throat and continuity at the shock location. A numerical method, based on the Steger-Warming flux-vector-splitting scheme, is proposed to solve the adjoint equations. This scheme can finely resolve the singularity at the sonic throat. A non-uniform grid, with points clustered near the throat region, can resolve it even better. The analytical solutions to the adjoint equations are also constructed via Green’s function approach for the purpose of comparing the numerical results. The pressure-matching inverse design is then conducted for a nozzle parameterized by a single geometric parameter.   In the second part, the adjoint methods are applied to the problem of minimizing drag coefficient, at fixed lift coefficient, for 2-D transonic airfoil flows. Reduced gradients of several functionals are derived through application of a Lagrange Multiplier Theorem. The adjoint system is carefully studied including the adjoint characteristic boundary conditions at the far-field boundary. A super-reduced design formulation is also explored by treating the angle of attack as an additional state; super-reduced gradients can be constructed either by solving adjoint equations with non-local boundary conditions or by a direct Lagrange multiplier method. In this way, the constrained optimization reduces to an unconstrained design problem. Numerical methods based on Jameson’s finite volume scheme are employed to solve the adjoint equations. The same grid system generated from an efficient hyperbolic grid generator are adopted in both the Euler flow solver and the adjoint solver. Several computational tests on transonic airfoil design are presented to show the reliability and efficiency of adjoint methods in calculating the reduced (super-reduced) gradients.",
+  "description_provenance": [
+    "Author Email: lxie@vt.edu",
+    "Advisor Email: cliff@origin2.icam.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:53Z (GMT). No. of bitstreams: 1  etd.pdf: 854175 bytes, checksum: ea53f8ad72aa988c18180839c9c5ab1e (MD5)    Previous issue date: 2002-04-12"
+  ],
+  "handle": "27306",
+  "identifier_other": "etd-04262002-101328",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262002-101328/",
+  "identifier_uri": "http://hdl.handle.net/10919/27306",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Optimum aerodynamic design",
+    "Boundary conditions",
+    "Adjoint method",
+    "Transonic airfoil design"
+  ],
+  "title": "Gradient-Based Optimum Aerodynamic Design Using Adjoint Methods",
+  "type": "Dissertation"
+}

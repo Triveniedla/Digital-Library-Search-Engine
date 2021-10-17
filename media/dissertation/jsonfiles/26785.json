@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Yang, Qing",
+  "contributor_committeechair": "McCue-Weil, Leigh S.",
+  "contributor_committeemember": [
+    "Tafti, Danesh K.",
+    "Roy, Christopher J.",
+    "Patil, Mayuresh J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:25Z",
+  "date_adate": "2012-05-02",
+  "date_available": "2014-03-14T20:09:25Z",
+  "date_issued": "2011-12-06",
+  "date_rdate": "2012-05-02",
+  "date_sdate": "2012-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A Computational Fluid Dynamics (CFD) tool is developed in this thesis to solve complex fluid-structure interaction (FSI) problems. The fluid domain is based on Smoothed Particle Hydro-dynamics (SPH) and the structural domain employs large-deformation Finite Element Method (FEM). Validation tests of SPH and FEM are first performed individually. A loosely-coupled SPH-FEM model is then proposed for solving FSI problems. Validation results of two benchmark FSI problems are illustrated (Antoci et al., 2007; Souto-Iglesias et al., 2008). The first test case is flow in a sloshing tank interacting with an elastic body and the second one is dam-break flow through an elastic gate. The results obtained with the SPH-FEM model show good agreement with published results and suggest that the SPH-FEM model is a viable and effective numerical tool for FSI problems.  This research is then applied to simulate a two-dimensional free-stream flow interacting with a deformable, pressurized surface, such as an ACV/SES bow seal. The dynamics of deformable surfaces such as the skirt/seal systems of the ACV/SES utilize the large-deformation FEM model. The fluid part including the air inside the chamber and water are simulated by SPH. A validation case is performed to investigate the application of SPH-FEM model in ACV/SES via comparison with experimental data (Zalek and Doctors, 2010). The thesis provides the theory of the SPH and FEM models incorporated and the derivation of the loosely-coupled SPH-FEM model. The  validation results have suggested that this SPH-FEM model can be readily applied to skirt/seal dynamics of ACV/SES interacting with free-surface flow.",
+  "description_provenance": [
+    "Author Email: ohroyyang@gmail.com",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: cjroy@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:25Z (GMT). No. of bitstreams: 1 Yang_Q_D_2011.pdf: 72419493 bytes, checksum: a4804f696632f5c61e9729299a744e59 (MD5)   Previous issue date: 2011-12-06"
+  ],
+  "handle": "26785",
+  "identifier_other": "etd-04112012-000729",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112012-000729/",
+  "identifier_uri": "http://hdl.handle.net/10919/26785",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yang_Q_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Air Cushion Vehicle (ACV)",
+    "Surface Effect Ship (SES)",
+    "Finite Element Method (FEM)",
+    "Hovercraft",
+    "Smoothed Particle Hydrodynamics (SPH)",
+    "Fluid-Structure Interaction (FSI)"
+  ],
+  "title": "SPH Simulation of Fluid-Structure Interaction Problems with Application to Hovercraft",
+  "type": "Dissertation"
+}

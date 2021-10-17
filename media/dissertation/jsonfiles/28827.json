@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Alzaabi, Aref Alderbas",
+  "contributor_committeechair": "Al-Qadi, Imadeddin L.",
+  "contributor_committeecochair": "Riad, Sedki Mohamed",
+  "contributor_committeemember": [
+    "Holzer, Siegfried M.",
+    "Besieris, Ioannis M.",
+    "Barker, Richard M."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:48Z",
+  "date_adate": "2000-08-31",
+  "date_available": "2014-03-14T20:15:48Z",
+  "date_issued": "2000-08-28",
+  "date_rdate": "2001-08-31",
+  "date_sdate": "2000-08-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Three main objectives have been set for this research.  The first is to develop an accurate method for measuring the dielectric constant of PCC using a capacitor probe (C-Probe) that has been recently developed at Virginia Tech and validate it for field application to detect internal PCC flaws such as delamination.  The C-Probe consists of two flexible conducting plates, connected to a Network Analyzer, with a specific separation between them.  The second is to optimize the C-Probe design configuration for different PCC slab thicknesses.  The third objective is to develop a predictive model that correlates the bulk dielectric constant of PCC with its critical parameters (cement, aggregate, and air content).  Five calibration methods have been developed and evaluated for the C-Probe to measure the dielectric properties of PCC.  This evaluation has demonstrated that open, short, Teflon material (OSM) calibration method is the most appropriate one for the C-Probe.  The selected calibration method was used to validate the C-Probe fixture for field application by measuring 1.5 x 1.5 m PCC slabs prepared with different mix properties, thicknesses, and induced deterioration.  The C-Probe has been proved to detect induced voids in the PCC slabs.  In addition, the effect of steel reinforcement on measurements can be mastered by controlling the penetration of electromagnetic (EM) field in the PCC slabs.  The effective penetration depth of the EM field for different C-Probe design configuration was optimized by computer simulation.  The results have been used to develop a predictive model that correlates the effective penetration depth with the plates' size, separation between them, and the dielectric constant of the PCC under test.  Thus, an optimum design for different desired penetration depth was achieved.  Two experimental designs were developed to identify the critical parameters that affect the bulk dielectric constant of PCC.  A computer simulation was used to identify the significance of each parameter.  A predictive model has been developed to correlate the PCC bulk dielectric constant to the critical parameters.  The estimated dielectric constant of PCC using the predictive model was correlated to that obtained by other theoretical mixture models; the predictive model has found to correlate well with Looyenga theoretical mixture model.",
+  "description_provenance": [
+    "Author Email: alderbas@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: holzer@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: barker@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:48Z (GMT). No. of bitstreams: 1 Dissertation_2.pdf: 1697261 bytes, checksum: 226879fb0ab7e93c02c2df65f7f17218 (MD5)   Previous issue date: 2000-08-28"
+  ],
+  "handle": "28827",
+  "identifier_other": "etd-08302000-16140001",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08302000-16140001/",
+  "identifier_uri": "http://hdl.handle.net/10919/28827",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_2.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Dielectric Constant",
+    "Deterioration",
+    "Electromagnetic",
+    "Portland Cement Concrete",
+    "Capacitor Probe"
+  ],
+  "title": "Capacitor-Probe Calibration and Optimization for NDE Application to Portland Cement Concrete",
+  "type": "Dissertation"
+}

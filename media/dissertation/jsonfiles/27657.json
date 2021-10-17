@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Ranalli, Joseph Allen",
+  "contributor_committeechair": "Vandsburger, Uri",
+  "contributor_committeemember": [
+    "Smith, Kenneth",
+    "Hassa, Christoph",
+    "O'Brien, Walter F. Jr.",
+    "West, Robert L. Jr.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:52Z",
+  "date_adate": "2009-06-01",
+  "date_available": "2014-03-14T20:11:52Z",
+  "date_issued": "2009-04-28",
+  "date_rdate": "2012-04-12",
+  "date_sdate": "2009-05-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Increasingly stringent emissions regulations have led combustion system designers to look for more environmentally combustion strategies.  For gas turbine combustion, one promising technology is lean premixed combustion, which results in lower flame temperatures and therefore the possibility of significantly reduced nitric oxide emissions.  While lean premixed combustion offers reduced environmental impacts, it has been observed to experience increased possibility of the occurrence of combustion instabilities, which may damage hardware and reduce efficiency.  Thermoacoustic combustion instabilities occur when oscillations in the combustor acoustics and oscillations in the flame heat release rate form a closed feedback loop, through one of two possible mechanisms.  The first is direct coupling which occurs due to the mean mass flow oscillations induced by the acoustic velocity.  Secondly, the acoustics may couple with the flame due to acoustic interactions with fuel/air mixing, resulting in an oscillating equivalence ratio.  Only velocity coupling was considered in this study. <p> The methodology used in this study is analysis of instabilities through linear systems theory, requiring knowledge of the individual transfer functions making up the closed-loop system.  Methods already exist by which combustor acoustics may be found.  However, significant gaps still remain in knowledge of the nature of flame dynamics.  Prior knowledge in literature about the flame transfer function suggests that the flame behaves as a low-pass filter, with cutoff frequency on the order of hundreds of hertz. Nondimensionalization of the frequency by flame length scales has been observed to result in a convenient scaling for the flame transfer function, suggesting that the flame dynamics may be dominated by spatial effects.   <p> This work was proposed in two parts to extend and apply the body of knowledge on flame dynamics.  The phase one goal of this study was to further understand this relationship between the flame heat release rate dynamics and the dynamics of the reaction zone size.  The second goal of this work was to apply this flame transfer function knowledge to predictions of instability, validated against measurements in an unstable combustor.  Both of these goals meet an existing practical need, providing a design tool for prediction of potential thermoacoustic instabilities in a combustor at the design stage. Measurements of the flame transfer function were made in a swirl-stabilized, lean-premixed combustor.  The novel portion of these measurements was the inclusion of spatial resolution of the heat release rate dynamics.  By using a speaker, a sine dwell excitation to the velocity was introduced over the range of 10-400Hz.  Measurements were then made of the input (inlet velocity) and output (heat release rate, or flame size) resulting in the flame transfer function.  The spatial dynamics measurement was approached through several measures of the flame size: the volume and offset distance to the center of the heat release.  Each was obtained from deconvoluted, phase averaged images of the flame, referenced to the speaker excitation signal.  The results of these measurements showed that the spatial dynamics for each of these three measures were virtually identical to the heat release rate dynamics.  This suggests a quite important result, namely that the flame heat release rate dynamics are completely determined by the dynamics of the flame structure.  Therefore, prediction of flow structure interaction with the flame distribution is crucial to predict the dynamics of the flame.\t <p> These spatially resolved transfer function measurements were used in conjunction with the linear closed-loop model to make predictions of instability.  These predictions were made by applying the Bode stability criterion to the open-loop system transfer function.  This criterion states that instabilities may occur at frequencies where the heat release rate and acoustic oscillations occur in phase and the system gain has a value greater than unity.  Performing this analysis on the combined system transfer function yielded results that agreed quite well with actual instability measurements made in the combustor.  Closed-loop predictions identified two possible modes for instability, both of which were observed experimentally.  One mode resulted from an acoustic peak around 160 Hz, and occurred at lean equivalence ratios.  A second mode occurred at lower frequencies (100-150 Hz) and was associated with the increase in flame transfer function gain at increasing equivalence ratios.  These are some of the first successful predictions of combustion instability based on linear systems theory.   <p> When multiple modes were predicted, it was assumed that if non-linear effects were to be considered, the lower frequency mode would become the dominant mode at these operating conditions due to its higher gain margin.  Also of note is that in the practical system, high frequency oscillations are observed, but not predicted, associated with harmonics of the low frequency mode due to the linear nature of the predictions.  While these non-linear effects are not captured, the linear predictive capability is thought to be most important, as from a practical perspective, instabilities should be avoided altogether.  <p> The primary findings of this study have significant applications to modeling and prediction of combustion dynamics.  The classic heat release rate flame transfer function was observed to coincide almost exactly with the flame size transfer functions.  The time scales observed in these transfer functions correspond to convective length scales in the combustor, suggesting a fluid mechanical basis of the heat release rate response.  Additionally, linear systems theory predictions of instability based on the measured flame transfer functions were proved capable of capturing the stability of the actual combustor with a reasonable degree of accuracy.  These predictions should have considerable application to design level avoidance of combustion instability in practical systems.",
+  "description_provenance": [
+    "Author Email: jranalli@vt.edu",
+    "Advisor Email: kennliz@cox.net",
+    "Advisor Email: christoph.hassa@dlr.de",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: westrl@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: uri@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:52Z (GMT). No. of bitstreams: 1 Ranalli_Dissertation_finalrev.pdf: 4094866 bytes, checksum: a6e02c41cc34c47e5df02f4d0422927c (MD5)   Previous issue date: 2009-04-28"
+  ],
+  "handle": "27657",
+  "identifier_other": "etd-05112009-124335",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05112009-124335/",
+  "identifier_uri": "http://hdl.handle.net/10919/27657",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ranalli_Dissertation_finalrev.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Combustion Instability",
+    "Hotwire Anemometry",
+    "Thermoacoustics",
+    "Chemiluminescence",
+    "Flame Transfer Functions"
+  ],
+  "title": "Spatially Resolved Analysis of Flame Dynamics for the Prediction of Thermoacoustic Combustion Instabilities",
+  "type": "Dissertation"
+}

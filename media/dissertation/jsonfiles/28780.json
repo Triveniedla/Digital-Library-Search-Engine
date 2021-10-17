@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Horne, Michael Robert",
+  "contributor_committeechair": "Duke, John C. Jr.",
+  "contributor_committeemember": [
+    "Dowling, Norman E.",
+    "Hasselman, D. P. H.",
+    "Reynolds, William T. Jr.",
+    "Henneke, Edmund G. II"
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:15:39Z",
+  "date_adate": "2003-09-01",
+  "date_available": "2014-03-14T20:15:39Z",
+  "date_issued": "2003-08-01",
+  "date_rdate": "2006-09-01",
+  "date_sdate": "2003-08-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An investigation was conducted of the existence of seismic surface pulses (SSP) on  crack faces in near-failure fatigue. An SSP has components of various modes of wave  propagation. The component with the largest amplitude is a Rayleigh surface wave pulse.  The possibility that these surface modes have much higher amplitudes than bulk modes of  acoustic emission (AE) was illustrated by an idealized thought experiment relating an SSP  on a half-space to the response of crack faces to crack extension. <p> A number of aspects of AE monitoring in finite objects were investigated. Attributes of  surface wave propagation on the edge of a specimen were found to be easier to monitor than  other modes of wave propagation. Wavelet analysis was used to compare the characteristics  of brittle AE with other sources.  <p> A new testing paradigm was developed to reduce interference from secondary sources of  AE and enhance the investigation of AE from critical crack behavior. Unique specimen  design features were developed, data acquisition features sought and validated, a dead  weight load frame was modified, and data analysis procedures were developed. Criteria  based on velocity, frequency content, amplitude and shape were devised to determine if an  AE event is an SSP. The tests were designed to mimic load conditions on structures such as  bridges and hence investigate the difference between AE generated in field conditions and  that of typical laboratory conditions. Varieties of steel, from very ductile to very brittle, were  tested.  <p> It was concluded that plastic zone formation, considered a secondary source of AE, was  found not to interfere with the SSP activity. The SSP was found experimentally to have 2-3  times the amplitude of the bulk wave AE. The lack of sufficient AE did not allow for  determination of conclusive changes in the AE as the specimens approached failure.  However, it was found that brittle crack extension in fatigue and ductile failure can produce  wave propagation resembling the SSP.",
+  "description_provenance": [
+    "Author Email: ndedl@vt.edu",
+    "Advisor Email: j.c.duke@vt.edu",
+    "Advisor Email: ndowling@vt.edu",
+    "Advisor Email: hasselmn@vt.edu",
+    "Advisor Email: reynolds@vt.edu",
+    "Advisor Email: henneke@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:39Z (GMT). No. of bitstreams: 11 AllLFSpect.pdf: 8538705 bytes, checksum: 7a3cd46bea7af0fe7c8ee6a38d6cc062 (MD5) AllWaveforms.pdf: 10823100 bytes, checksum: 1cff92dc088262f5878db73aeb7ae768 (MD5) BodyFigures.pdf: 3267228 bytes, checksum: 8c0b986a3479b1c68772823ba8c923a5 (MD5) AllWLHFol.pdf: 28188116 bytes, checksum: 2b972814d121efa4d3ee7ec8dc328845 (MD5) Dissertation.pdf: 4983239 bytes, checksum: 1b4e7e12cd511f06d52e949904ccc395 (MD5) !Readme.txt: 1066 bytes, checksum: 71aa0d492b9be44b2b2bd2a21f6d4400 (MD5) PicsAllTopo.pdf: 29071184 bytes, checksum: 7988f567d6195077c5d67de3eacb303a (MD5) PicsAllFlat.pdf: 18964672 bytes, checksum: 2ccad6613a4b34a2b4834bfe346fc6e6 (MD5) LabViewDocs.pdf: 2025056 bytes, checksum: 22669672f62ca1503b53b06add58d676 (MD5) AllWLHFpz.pdf: 3940528 bytes, checksum: 16d806a8f2875b7c644c1aeab1370df0 (MD5) PicsPZall.pdf: 6083828 bytes, checksum: 1169d5501d22b95aad665fd6d293978a (MD5)   Previous issue date: 2003-08-01"
+  ],
+  "handle": "28780",
+  "identifier_other": "etd-08242003-230649",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08242003-230649/",
+  "identifier_uri": "http://hdl.handle.net/10919/28780",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "AllLFSpect.pdf",
+    "AllWaveforms.pdf",
+    "BodyFigures.pdf",
+    "AllWLHFol.pdf",
+    "Dissertation.pdf",
+    "!Readme.txt",
+    "PicsAllTopo.pdf",
+    "PicsAllFlat.pdf",
+    "LabViewDocs.pdf",
+    "AllWLHFpz.pdf",
+    "PicsPZall.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fatigue",
+    "NDE",
+    "Stress Wave Propagation"
+  ],
+  "title": "Rayleigh Wave Acoustic Emission during Crack Propagation in Steel",
+  "type": "Dissertation"
+}

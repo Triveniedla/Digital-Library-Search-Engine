@@ -1,0 +1,36 @@
+{
+  "contributor_author": "St. Clair, Alison Marie",
+  "contributor_committeechair": "Sinha, Sunil Kumar",
+  "contributor_committeemember": [
+    "De Sturler, Eric",
+    "Edwards, Marc A",
+    "de la Garza, Jesus M"
+  ],
+  "contributor_department": "Civil and Environmental Engineering",
+  "date_accessioned": "2013-04-24T08:00:36Z",
+  "date_available": "2013-04-24T08:00:36Z",
+  "date_issued": "2013-04-23",
+  "degree_discipline": "Civil Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Previous authors have developed many different types of water pipe condition and failure models using the various methodologies available.  Contrary, current utilities are struggling to maintain their current water infrastructure system, due to the lack of effective prediction tools at hand.  The gap between the methodologies available in academic research and the tools available to current water utilities needs to be addressed.  This paper presents a fuzzy inference prediction model used to forecast the performance rating of individual drinking water pipeline sections (node to node) in which utilities can easily apply to their drinking water infrastructure system.<br /><br />Prior to the development of a prediction model, a through literature and current practice review is completed detailing and summarizing all the available mathematical models.  Following, an infrastructure overview is presented detailing the various pipe materials, lifecycle and failure modes and mechanisms.  A data structure is also detailed which lists all parameters that affect the condition and/or performance of a pipeline.  All of these tools are successfully used to develop a fuzzy inference performance model.<br /><br />The fuzzy inference performance model is considered novel in that it considers close to 30 pipe parameters.  Moreover, the performance model is applied using the Western Virginia Water Authority (WVWA) and the Washington Suburban Sanitary Commission (WSSC) databases to evaluate and verify the predicting results.  Lab testing of several pipe samples is also used to evaluate the model.  The testing consists of a ring bearing test which is used to calculate the rupture modulus of the pipe.  Comparing the original vs. the current rupture modulus can determine the remaining strength of the pipe.  The remaining strength can then be used to assess the performance results predicted by the fuzzy inference model.<br /><br />Further a framework is set forth which utilizes the model\\'s predicted performance ratings to develop deterioration curves which can be used as a tool to forecast and plan future inspection, repair, rehabilitation and replacement of water pipelines.  The deterioration model is made up of a Markov chain approach coupled with a non-optimization technique.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-24T08:00:36Z (GMT). No. of bitstreams: 1 St._Clair_AM_D_2013.pdf: 9336179 bytes, checksum: 18cbffb381e7e95580a0e62ae2808d74 (MD5)   Previous issue date: 2013-04-23",
+  "format_medium": "ETD",
+  "handle": "19342",
+  "identifier_other": "vt_gsexam:378",
+  "identifier_uri": "http://hdl.handle.net/10919/19342",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Performance Index",
+    "Fuzzy Logic",
+    "Asset Management",
+    "Drinking Water Pipelines",
+    "Model Evaluation",
+    "Deterioration Prediction"
+  ],
+  "title": "Development of a Novel Performance Index and a Performance Prediction Model for Metallic Drinking Water Pipelines",
+  "type": "Dissertation"
+}

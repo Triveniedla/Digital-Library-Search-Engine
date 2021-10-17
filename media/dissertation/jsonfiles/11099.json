@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Takamizawa, Koichiro",
+  "contributor_committeechair": "Stutzman, Warren L.",
+  "contributor_committeemember": [
+    "Davis, William A.",
+    "Brown, Gary S.",
+    "Safaai-Jazi, Ahmad",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:53:11Z",
+  "date_adate": "2004-01-23",
+  "date_available": "2011-08-22T18:53:11Z",
+  "date_issued": "2002-12-10",
+  "date_rdate": "2005-01-23",
+  "date_sdate": "2004-01-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Wideband phased arrays require very tight element spacing to permit wide angle scanning of the main beam over the wide bandwidth. The consequence of tight spacing is very high mutual coupling among the elements in the array. Previous efforts by Virginia Tech Antenna Group has shown that the strong coupling can be utilized in arrays to obtain broadband frequency response while maintaining a small element spacing. However, mutual coupling between elements in a tightly coupled array can sometimes dramatically change the operating frequency, bandwidth, and radiation pattern from that of the single isolated element. Thus, there are some fundamental questions that remain regarding the effective operation of highly coupled arrays for beam forming, beam scanning, and aperture reconfiguration. Existing antenna pattern analysis techniques including the active element pattern method are inadequate for the application in highly coupled arrays.  This dissertation focuses on the development of a new antenna array analysis technique. The presented method is based on the scattering parameter network descriptions of the array elements, associated feed network and the active element patterns. The developed model is general. It can be applied to an array of any size and configuration. The model can be utilized to determine directivity, gain and realized gain of arrays as well as their radiation efficiency and impedance mismatch. Using the network model, the relationship between radiation pattern characteristics and the input impedance characteristics of the array antennas becomes clear. Three types of source impedance matching conditions for array antennas are investigated using the model. A numerically simulated array of strip dipole array is used to investigate the effects of various impedance matching methods on the radiation pattern and impedance bandwidth. An application of network analysis is presented on an experimental investigation of $3\\times 3$ Foursquare array test bed to further verify the concepts.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:11Z (GMT). No. of bitstreams: 1  takamizawa_diss.pdf: 1898651 bytes, checksum: edc02006ae60cfecdfef1357af7d939f (MD5)    Previous issue date: 2002-12-10",
+    "Author Email: ktakamiz@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: kohler@math.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11099",
+  "identifier_other": "etd-01152004-163750",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01152004-163750",
+  "identifier_uri": "http://hdl.handle.net/10919/11099",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "takamizawa_diss.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Wideband Array",
+    "Mutual Coupling",
+    "Scattering Parameters",
+    "Antenna Array"
+  ],
+  "title": "Analysis of Highly Coupled Wideband Antenna Arrays Using Scattering Parameter Network Models",
+  "type": "Dissertation"
+}

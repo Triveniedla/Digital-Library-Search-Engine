@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Almohri, Hussain",
+  "contributor_committeechair": "Yao, Danfeng",
+  "contributor_committeemember": [
+    "North, Christopher L",
+    "Kafura, Dennis G",
+    "Hsiao, Michael S.",
+    "Tilevich, Eli"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-05-09T08:00:31Z",
+  "date_available": "2013-05-09T08:00:31Z",
+  "date_issued": "2013-05-08",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Despite the recent advances in systems and network security, attacks on large enterprise networks consistently impose serious challenges to maintaining data privacy and software service integrity. We identify two main problems that contribute to increasing the security risk in a networked environment: (i) vulnerable servers, workstations, and mobile devices that suffer from vulnerabilities, which allow the execution of various cyber attacks, and, (ii) poor security and system configurations that create loopholes used by attackers to bypass implemented security defenses.<br /><br />Complex attacks on large networks are only possible with the existence of vulnerable intermediate machines, routers, or mobile devices (that we refer to as network components) in the network. Vulnerabilities in highly connected servers and workstations, that compromise the heart of today\\'s networks, are inevitable. Also, modern mobile devices with known vulnerabilities cause an increasing risk on large networks. Thus, weak security mechanisms in vulnerable  network components open the possibilities for effective network attacks.<br /><br />On the other hand, lack of systematic methods for an effective static analysis of an overall complex network results in inconsistent and vulnerable configurations at individual network components as well as at the network level. For example, inconsistency and faults in designing firewall rules at a host may result in enabling more attack vector. Further, the dynamic nature of networks with changing network configurations, machine availability and connectivity, make the security analysis a challenging task.<br /><br />This work presents a hybrid approach to security by providing two solutions for analyzing the overall security of large organizational networks, and a runtime  framework for protecting individual network components against misuse of system resources by cyber attackers. We  observe that to secure an overall computing environment, a static analysis of a network is not sufficient. Thus, we couple our analysis with a framework to secure individual network components including high performance machines as well as mobile devices that repeatedly enter and leave networks. We also realize the need for advancing the theoretical foundations for analyzing the security of large networks. <br /><br /><br />To analyze the security of large enterprise network, we present the first scientific attempt to compute an optimized distribution of defensive resources with the objective of minimizing the chances of successful attacks. To achieve this minimization, we develop a rigorous probabilistic model that quantitatively measures the chances of a successful attack on any network component. Our model provides a solid theoretical foundation that enables efficient computation of unknown success probabilities on every stage of a network attack. We design an algorithm that uses the computed attack probabilities for optimizing security configurations of a network. Our optimization algorithm  uses state of the art sequential linear programming to approximate the solution to a complex single objective nonlinear minimization problem that formalizes various attack steps and candidate defenses at the granularity of attack stages. <br /><br />To protect individual network components, we develop a new approach under our novel idea of em process authentication.<br />We argue that to provide high assurance security, enforcing authorization is necessary but not sufficient. In fact, existing authorization systems lack a strong and reliable process authentication model for preventing the execution of malicious processes (i.e., processes that intentionally contain malicious goals that violate integrity and confidentiality of legitimate processes and data). Authentication is specially critical when malicious processes may use various system vulnerabilities to install on the system and stealthily execute without the user\\'s consent. <br /><br />We design and implement the Application Authentication (A2) framework that is capable of monitoring application executions and ensuring proper authentication of application processes. A2 has the advantage of strong security guarantees, efficient runtime execution, and compatibility with legacy applications. This authentication framework reduces the risk of infection by powerful malicious applications that may disrupt proper execution of legitimate applications, steal users\\' private data, and spread across the entire organizational network. <br /><br />Our process authentication model is extended and applied to the Android platform. As Android imposes its unique challenges (e.g., virtualized application execution model), our design and implementation of process authentication is extended to address these challenges. Per our results, process authentication in Android can protect the system against various critical vulnerabilities such as privilege escalation attacks and drive by downloads. <br /><br />To demonstrate process authentication in Android, we implement DroidBarrier. As a runtime system, DroidBarrier includes an authentication component and a lightweight permission system to protect legitimate applications and secret authentication information in the file system. Our implementation of DroidBarrier is compatible with the Android runtime (with no need for modifications) and shows efficient performance with negligible penalties in I/O operations and process creations.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-09T08:00:31Z (GMT). No. of bitstreams: 1 Almohri_H_D_2013.pdf: 1418522 bytes, checksum: f4747e7071b18e6b245841e2db48a14c (MD5)   Previous issue date: 2013-05-08",
+  "format_medium": "ETD",
+  "handle": "22030",
+  "identifier_other": "vt_gsexam:469",
+  "identifier_uri": "http://hdl.handle.net/10919/22030",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Systems Security",
+    "Authentication",
+    "Mathematical Programming",
+    "Optimization",
+    "Security Risk"
+  ],
+  "title": "High Assurance Models for Secure Systems",
+  "type": "Dissertation"
+}

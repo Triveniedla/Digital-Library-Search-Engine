@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Blagojevic, Filip",
+  "contributor_committeechair": "Nikolopoulos, Dimitrios S.",
+  "contributor_committeemember": [
+    "Ribbens, Calvin J.",
+    "Lowenthal, David K.",
+    "Feng, Wu-Chun",
+    "Cameron, Kirk W."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:12:44Z",
+  "date_adate": "2008-07-22",
+  "date_available": "2014-03-14T20:12:44Z",
+  "date_issued": "2008-05-30",
+  "date_rdate": "2009-07-22",
+  "date_sdate": "2008-06-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We explore runtime mechanisms and policies for scheduling dynamic multi-grain parallelism on heterogeneous multi-core processors. Heterogeneous multi-core processors integrate conventional cores that run legacy codes with specialized cores that serve as computational accelerators. The term multi-grain parallelism refers to the exposure of multiple dimensions of parallelism from within the runtime system, so as to best exploit a parallel architecture with  heterogeneous computational capabilities between its cores and execution units.  To maximize performance on heterogeneous multi-core processors, programs need to expose multiple dimensions of parallelism simultaneously. Unfortunately, programming with multiple dimensions of parallelism is to date an ad hoc process, relying heavily on the intuition and skill of programmers. Formal techniques are needed to optimize multi-dimensional parallel program designs. We investigate user- and kernel-level schedulers that dynamically \"rightsize\" the dimensions and degrees of parallelism on the asymmetric parallel platforms. The schedulers  address the problem of mapping application-specific concurrency to an architecture with multiple hardware layers of parallelism, without requiring programmer intervention or sophisticated compiler support. Our runtime environment outperforms the native Linux and MPI scheduling environment by up to a factor of 2.7. We also present a model of multi-dimensional parallel computation for steering the parallelization process on heterogeneous multi-core processors. The model predicts with high accuracy the execution time and scalability of a program using  conventional processors and accelerators simultaneously.  More specifically, the model reveals optimal degrees of multi-dimensional, task-level and data-level concurrency, to maximize performance across cores. We evaluate our runtime policies as well as the performance model we developed, on an IBM Cell BladeCenter, as well as on a cluster composed of Playstation3 nodes, using two realistic bioinformatics applications.",
+  "description_provenance": [
+    "Author Email: filip@cs.vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: dkl@cs.uga.edu",
+    "Advisor Email: feng@cs.vt.edu",
+    "Advisor Email: cameron@cs.vt.edu",
+    "Advisor Email: dsn@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:44Z (GMT). No. of bitstreams: 1 dissertation.pdf: 1467332 bytes, checksum: 1cbe4fa680316fb18485ce468df13987 (MD5)   Previous issue date: 2008-05-30"
+  ],
+  "handle": "27952",
+  "identifier_other": "etd-06052008-012156",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06052008-012156/",
+  "identifier_uri": "http://hdl.handle.net/10919/27952",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "process scheduling",
+    "performance prediction",
+    "high-performance computing",
+    "runtime adaptation",
+    "Multicore processors",
+    "Cell BE"
+  ],
+  "title": "Scheduling on Asymmetric Architectures",
+  "type": "Dissertation"
+}

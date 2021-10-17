@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Kim, Jeong I.",
+  "contributor_committeecochair": [
+    "Safaai-Jazi, Ahmad",
+    "Wang, Anbo"
+  ],
+  "contributor_committeemember": [
+    "May, Russell G.",
+    "Pratt, Timothy J.",
+    "Kohler, Werner E.",
+    "Poon, Ting-Chung"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:41Z",
+  "date_adate": "2003-10-27",
+  "date_available": "2014-03-14T20:16:41Z",
+  "date_issued": "2003-09-10",
+  "date_rdate": "2004-10-27",
+  "date_sdate": "2003-09-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Microstructure and photonic crystal fibers with periodic as well as random refractive-index distributions are investigated. Two cases corresponding to fibers with one-dimensional (1D) radial index distributions and two-dimensional (2D) transverse index distributions are considered. For 1D geometries with an arbitrary number of cladding layers, exact analytical solutions of guided modes are obtained using a matrix approach. In this part, for random index distributions, the average transmission properties are calculated and the influence of glass/air ratio on these properties is assessed. Important transmission properties of the fundamental mode, including normalized propagation constant, chromatic dispersion, field distributions, and effective area, are evaluated. For 2D geometries, the numerical techniques, FDTD (Finite-Difference Time-Domain) method and FDM (Finite Difference Method), are utilized. First, structures with periodic index distributions are examined. The investigation is then extended to microstructure optical fibers with random index distributions.  <p>    Design of 2D microstructure fibers with random air-hole distributions is undertaken with the aim of achieving single-mode guiding property and small effective area. The former is a unique feature of the holey fiber with periodic air-hole arrangement and the latter is a suitable property for nonlinear fiber devices. Measurements of holey fibers with random air-hole distributions constitute an important experimental task of this research. Using a section of a holey fiber fabricated in the draw tower facility at Virginia Tech, measurements of transmission spectra and fiber attenuation are performed. Also, test results for far-field pattern measurements are presented.  <p>    Another objective of this dissertation is to explore new applications for holey fibers with random or periodic hole distributions. In the course of measuring the holey fibers, it was noticed that robust temperature-insensitive pressure sensors can be made with these fibers. This offers an opportunity for new low-cost and reliable pressure fiber-optic sensors. Incorporating gratings into holey fibers in conjunction with the possibility of dynamic tuning offers desirable characteristics with potential applications in communications and sensing. Injecting gases or liquids in holey fibers with gratings changes their transmission characteristics. These changes may be exploited in designing tunable optical filters for communication applications or making gas/liquid sensor devices.",
+  "description_provenance": [
+    "Author Email: jekim2@vt.edu, jeong102003@hanmir.com",
+    "Advisor Email: rmay@primephotonics.com",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:41Z (GMT). No. of bitstreams: 1 JeongKim_ETD.pdf: 2218368 bytes, checksum: 122535011f6829333506af0ab8e112e5 (MD5)   Previous issue date: 2003-09-10"
+  ],
+  "handle": "29089",
+  "identifier_other": "etd-09252003-085911",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09252003-085911/",
+  "identifier_uri": "http://hdl.handle.net/10919/29089",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JeongKim_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fiber-Optic Communications",
+    "Holey Fibers",
+    "Photonic Crystal Waveguides"
+  ],
+  "title": "Analysis and Applications of  Microstructure and Holey Optical Fibers",
+  "type": "Dissertation"
+}

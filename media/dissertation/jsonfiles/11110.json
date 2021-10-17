@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Chongburee, Wachira",
+  "contributor_committeechair": "Pratt, Timothy J.",
+  "contributor_committeemember": [
+    "Bostian, Charles W.",
+    "Sweeney, Dennis G.",
+    "Davis, William A.",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:53:16Z",
+  "date_adate": "2004-03-01",
+  "date_available": "2011-08-22T18:53:16Z",
+  "date_issued": "2004-02-06",
+  "date_rdate": "2004-03-01",
+  "date_sdate": "2004-02-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new N-dimensional digital modulation technique is proposed as a bandwidth efficient method for the transmission of digital data.  The technique uses an antipodal scheme in which parallel binary data signs baseband orthogonal waveforms derived from Hermite polynomials.  Orthogonality guarantees recoverability of the data from N simultaneously transmitted Hermite waveforms. The signed Hermite waveform is transmitted over a radio link using either amplitude or frequency modulation.  The bandwidth efficiency of the amplitude Hermite method is found to be as good as filtered BPSK in practice, while the bit error rates for both modulations are identical.  Hermite Keying (HK), the FM modulation version of the N-dimensional Hermite transmission, outperforms constant envelope FSK in terms of spectrum efficiency.  With a simple FM detector, the bit error rate of HK is as good as that of non-coherent FSK.  In a frequency selective fading channel, the simulation results suggest that specific data bits of HK are relatively secure from errors, which is beneficial in some applications. Symbol synchronization is critical to the system.  An optimal synchronization method for the N-dimensional antipodal scheme in additive white Gaussian noise channel is derived.  Simulation results confirm that the synchronizer can operate successfully at E/No of 3 dB.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:16Z (GMT). No. of bitstreams: 1 Chongburee_Dissertation.pdf: 3106960 bytes, checksum: 9733b1756018669411110e0681aca28c (MD5)   Previous issue date: 2004-02-06",
+    "Author Email: wachira@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: surot@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11110",
+  "identifier_other": "etd-02192004-165437",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02192004-165437",
+  "identifier_uri": "http://hdl.handle.net/10919/11110",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Chongburee_Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Antipodal Scheme",
+    "Orthogonal Waveforms",
+    "Hermite Keying",
+    "Digital Modulation",
+    "Optimal Synchronization",
+    "N-dimensional PSD"
+  ],
+  "title": "Digital Transmission by Hermite N-Dimensional Antipodal Scheme",
+  "type": "Dissertation"
+}

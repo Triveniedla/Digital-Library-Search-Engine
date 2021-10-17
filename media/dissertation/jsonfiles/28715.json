@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Veluri, Subrahmanya Pavan Kumar",
+  "contributor_committeechair": "Roy, Christopher J.",
+  "contributor_committeemember": [
+    "Mason, William H.",
+    "McCue-Weil, Leigh S.",
+    "Tafti, Danesh K."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:24Z",
+  "date_adate": "2010-08-30",
+  "date_available": "2014-03-14T20:15:24Z",
+  "date_issued": "2010-08-06",
+  "date_rdate": "2010-08-30",
+  "date_sdate": "2010-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A detailed code verification study of an unstructured finite volume Computational Fluid Dynamics (CFD) code is performed. The Method of Manufactured Solutions is used to generate exact solutions for the Euler and Navier-Stokes equations to verify the correctness of the code through order of accuracy testing. The verification testing is performed on different mesh types which include triangular and quadrilateral elements in 2D and tetrahedral, prismatic, and hexahedral elements in 3D. The requirements of systematic mesh refinement are discussed, particularly in regards to unstructured meshes. Different code options verified include the baseline steady state governing equations, transport models, turbulence models, boundary conditions and unsteady flows. Coding mistakes, algorithm inconsistencies, and mesh quality sensitivities uncovered during the code verification are presented. In recent years, there has been significant work on the development of algorithms for the compressible Navier-Stokes equations on unstructured grids. One of the challenging tasks during the development of these algorithms is the formulation of consistent and accurate diffusion operators. The robustness and accuracy of diffusion operators depends on mesh quality. A survey of diffusion operators for compressible CFD solvers is conducted to understand different formulation procedures for diffusion fluxes. A patch-wise version of the Method of Manufactured Solutions is used to test the accuracy of selected diffusion operators. This testing of diffusion operators is limited to cell-centered finite volume methods which are formally second order accurate. These diffusion operators are tested and compared on different 2D mesh topologies to study the effect of mesh quality (stretching, aspect ratio, skewness, and curvature) on their numerical accuracy. Quantities examined include the numerical approximation errors and order of accuracy associated with face gradient reconstruction. From the analysis, defects in some of the numerical formulations are identified along with some robust and accurate diffusion operators.",
+  "description_provenance": [
+    "Author Email: veluris@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: cjroy@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:24Z (GMT). No. of bitstreams: 1 Veluri_SP_D_2010.pdf: 3182976 bytes, checksum: 9c075e6eb544d926756d79f80f6eea4b (MD5)   Previous issue date: 2010-08-06"
+  ],
+  "handle": "28715",
+  "identifier_other": "etd-08182010-155814",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182010-155814/",
+  "identifier_uri": "http://hdl.handle.net/10919/28715",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Veluri_SP_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Order of Accuracy",
+    "Computational Fluid Dynamics",
+    "Discretization Error",
+    "Method of Manufactured Solutions",
+    "Code Verification"
+  ],
+  "title": "Code Verification and Numerical Accuracy Assessment for Finite Volume CFD Codes",
+  "type": "Dissertation"
+}

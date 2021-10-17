@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Ma, Rui",
+  "contributor_committeechair": "Ferris, John B",
+  "contributor_committeemember": [
+    "Taheri, Saied",
+    "Hendricks, Scott L",
+    "West, Robert L",
+    "Sandu, Corina"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-10-16T08:00:13Z",
+  "date_available": "2013-10-16T08:00:13Z",
+  "date_issued": "2013-10-15",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The vertical force generated from terrain-tire interaction has long been of interest for vehicle dynamic simulations and chassis development.  As the terrain serves as the main excitation to the suspension system through pneumatic tire, proper terrain and tire models are required to produce reliable vehicle response.  Due to the high complexity of the tire structure and the immense size of a high fidelity terrain profile, it is not efficient to calculate the terrain-tire interaction at every location.   The use of a simpler tire model (e.g. point follower tire model) and a pre-filtered terrain profile as equivalent input will considerably reduce the simulation time.   The desired produced responses would be nearly identical to the ones using a complex tire model and unfiltered terrain, with a significant computational efficiency improvement.    In this work, a terrain pre-filtering technique is developed to improve simulation efficiency while still providing reliable load prediction.  The work is divided into three parts.  First a stochastic gridding method is developed to include the measurement uncertainties in the gridded terrain profile used as input to the vehicle simulation.  The obtained uniformly spaced terrain is considered probabilistic, with a series of gridding nodes with heights represented by random variables.  Next, a constraint mode tire model is proposed to emulate the tire radial displacement and the corresponding force given the terrain excitation.  Finally, based on the constraint mode tire model, the pre-filtering technique is developed.  At each location along the tire's path, the tire center height is adjusted until the spindle load reaches a pre-designated constant load.  The resultant tire center trajectory is the pre-filtered terrain profile and serves as an equivalent input to the simple tire model.  The vehicle response produced by using the pre-filtered terrain profile and the simple tire model is analyzed for accuracy assessment.  The computational efficiency improvement is also examined.  The effectiveness of the pre-filtering technique is validated on probabilistic terrain by using different realizations of terrain profiles.  It is shown through multiple profiles that the computational efficiency can be improved by three orders of magnitude with no statistically significant change in resulting loading.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-16T08:00:13Z (GMT). No. of bitstreams: 1 Ma_R_D_2013.pdf: 4683786 bytes, checksum: 6a2a082abf601b9579a8e5221635dbcb (MD5)   Previous issue date: 2013-10-15",
+  "format_medium": "ETD",
+  "handle": "23896",
+  "identifier_other": "vt_gsexam:1684",
+  "identifier_uri": "http://hdl.handle.net/10919/23896",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Terrain",
+    "Gridding",
+    "Stochastic",
+    "Tire Model",
+    "Pre-filtering"
+  ],
+  "title": "Development of a Terrain Pre-filtering Technique applicable to Probabilistic Terrain using Constraint Mode Tire Model",
+  "type": "Dissertation"
+}

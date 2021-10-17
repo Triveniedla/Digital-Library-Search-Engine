@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Correal, Neiyer S.",
+  "contributor_committeechair": "Woerner, Brian D.",
+  "contributor_committeemember": [
+    "Beattie, Christopher A.",
+    "Jacobs, Ira",
+    "Reed, Jeffrey Hugh",
+    "Rappaport, Theodore S."
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:13:56Z",
+  "date_adate": "1999-07-14",
+  "date_available": "2014-03-14T20:13:56Z",
+  "date_issued": "1999-07-01",
+  "date_rdate": "2000-07-14",
+  "date_sdate": "1999-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The focus of this dissertation is the study of advanced processing techniques for multiuser interference cancellation in direct sequence code division multiple access communications.  Emphasis is placed on the development of efficient techniques that are practical to implement.<p>   The work begins with a study of several sub-optimal multiuser detection techniques under a variety of conditions. Multistage parallel interference cancellation is identified as a practical and robust approach for mitigating multiple access interference.  In order to reduce the effect of biased decision statistics inherent to parallel cancellation, a low-complexity modification to parallel interference cancellation that significantly improves performance is derived.  Based on this approach, two real-time DSP implementations are devised, one fully coherent and one non-coherent.  Multi-symbol differential detection is then explored as an alternative for improving the performance of the non-coherent approach.  Additionally, dual-antenna diversity techniques are also investigated as a means for improving performance in multipath environments.",
+  "description_provenance": [
+    "Author Email: neiyer@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: beattie@calvin.math.vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: wireless@mail.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:56Z (GMT). No. of bitstreams: 1 etd.pdf: 1280902 bytes, checksum: c90038ef0dd433240742179b4576221e (MD5)   Previous issue date: 1999-07-01"
+  ],
+  "handle": "28278",
+  "identifier_other": "etd-071299-152441",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-071299-152441/",
+  "identifier_uri": "http://hdl.handle.net/10919/28278",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Software Radios",
+    "Multiuser Detection",
+    "Multiple Access",
+    "Spread Spectrum Communications",
+    "CDMA",
+    "Interference Cancellation"
+  ],
+  "title": "Efficient Interference Cancellation Techniques for Advanced DS-CDMA Receivers",
+  "type": "Dissertation"
+}

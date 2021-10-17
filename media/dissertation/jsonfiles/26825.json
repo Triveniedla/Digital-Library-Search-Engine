@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Patel, Hiren Dhanji",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Edwards, Stephen H.",
+    "Ha, Dong Sam",
+    "Hsiao, Michael S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:31Z",
+  "date_adate": "2007-05-03",
+  "date_available": "2014-03-14T20:09:31Z",
+  "date_issued": "2007-04-06",
+  "date_rdate": "2007-05-03",
+  "date_sdate": "2007-04-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation addresses the problem of making system level design (SLD) methodology based on SystemC more useful to the complex embedded system design community by presenting a number of ingredients currently absent in the existing SLD methodologies and frameworks. The complexity of embedded systems have been increasing at a rapid rate due to proliferation of desired functionality of such systems (e.g., cell phones,  game consoles, hand-held devices, etc., are providing more features every few months), and the device technology still riding the curve predicted by Moore's law. Design methodology is shifting slowly towards system level design (also called electronic system level (ESL)). A number of SLD languages and supporting frameworks are being proposed. SystemC is positioned as being one of the dominant SLD languages. The various design automation tool vendors are proposing frameworks for supporting SystemC-based design methodologies. We believe that compared to the necessity and potential of ESL, the success of the frameworks have been limited due to lack of support for a number of facilities and features in the languages and tool environments. This dissertation proposes, formulates, and provides proof of concept demonstrations of a number of ingredients that we have identified as essential for efficient and productive use of SystemC-based tools and techniques. These are heterogeneity in the form of multiple models of computation, behavioral hierarchy in addition to structural hierarchy, model-driven validation for SystemC designs and a service-oriented tool integration environment. In particular, we define syntactic extensions to the SystemC language, semantic modifications, and simulation algorithms, precise semantics for model based validation etc. For each of these we provide reference implementation for further experimentation on the utility of these extensions.",
+  "description_provenance": [
+    "Author Email: hiren@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:31Z (GMT). No. of bitstreams: 1 hpatel_etd2.pdf: 3924322 bytes, checksum: dc7cce73fe1ef6da77cfd7930592eaa4 (MD5)   Previous issue date: 2007-04-06"
+  ],
+  "handle": "26825",
+  "identifier_other": "etd-04132007-000600",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04132007-000600/",
+  "identifier_uri": "http://hdl.handle.net/10919/26825",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "hpatel_etd2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Abstract State Machines",
+    "Behavioral Hierarchy",
+    "Validation",
+    "Heterogeneity",
+    "Models of Computation"
+  ],
+  "title": "Ingredients for Successful System Level Automation & Design Methodology",
+  "type": "Dissertation"
+}

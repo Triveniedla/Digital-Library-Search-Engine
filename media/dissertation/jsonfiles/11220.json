@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Li, Peng",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:02:56Z",
+  "date_adate": "2004-08-10",
+  "date_available": "2011-08-22T19:02:56Z",
+  "date_issued": "2004-09-14",
+  "date_rdate": "2004-08-10",
+  "date_sdate": "2004-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation first presents an uniprocessor real-time scheduling algorithm called the Generic Benefit Scheduling algorithm (or GBS). GBS solves a previously open real-time scheduling problem: scheduling activities subject to arbitrarily shaped, time/utility function (TUF) time constraints and mutual exclusion resource constraints. A TUF specifies the utility of completing an application activity as an application- or situation-specific function of when that activity completes. GBS considers the scheduling objective of maximizing system-wide, total accrued utility, while respecting mutual exclusion constraints. Since this problem is NP-hard, GBS heuristically computes schedules in polynomial-time. The performance of the GBS algorithm is evaluated through simulation and through an implementation on a Portable Operating System Interface (POSIX)-compliant real-time operating system. The simulation studies and implementation measurements reveal that GBS performs close to, if not better than existing algorithms for the cases that they apply. Further, the results verify the effectiveness of GBS for its unique model. We also analytically establish timeliness and non-timeliness properties of GBS including bounds on activity utilities and mutual exclusion. GBS targets real-time systems that are subject to significant non-determinism inherent in their operating environments e.g., completely unknown activity arrivals. When system uncertainties can be stochastically characterized (e.g., stochastic activity arrivals and execution times), it is possible to provide stochastic assurances on timeliness behavior. The dissertation also presents algorithmic solutions to fundamental assurance problems in TUF-driven real-time systems, including stochastically satisfying individual, activity utility lower bounds and system-wide, total utility lower bounds. The algorithmic solutions include algorithms for processor bandwidth allocation and TUF scheduling. While bandwidth allocation algorithms allocate processor bandwidth share to activities to satisfy utility lower bounds, TUF scheduling algorithms schedule activities to maximize accrued utility. The algorithmic solutions and analysis are extended with a class of lock-free and lock-based resource access protocols to satisfy mutual exclusion constraints. We show that satisfying utility lower bounds with lock-based resource access protocols does not imply doing so with the lock-free scheme, and vice versa. Finally, the dissertation presents a rule-based framework for trading off assurance requirements on utility lower bound satisfaction.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:56Z (GMT). No. of bitstreams: 1 dissertation-final.pdf: 1185039 bytes, checksum: a9e36f743b0e5a0ac399c2e004b36d3e (MD5)   Previous issue date: 2004-09-14",
+    "Author Email: peli2@vt.edu",
+    "Advisor Email: binoy@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11220",
+  "identifier_other": "etd-08092004-230138",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08092004-230138",
+  "identifier_uri": "http://hdl.handle.net/10919/11220",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-final.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "performance assurance",
+    "real-time scheduling",
+    "utility accrual scheduling",
+    "Time/utility functions",
+    "resource management",
+    "overload scheduling"
+  ],
+  "title": "Utility Accrual Real-Time Scheduling: Models and Algorithms",
+  "type": "Dissertation"
+}

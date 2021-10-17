@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Hu, Kun",
+  "contributor_committeechair": "Rahmandad, Hazhir",
+  "contributor_committeemember": [
+    "Smith-Jackson, Tonya L.",
+    "Triantis, Konstantinos P.",
+    "Thompson, Kimberly M."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:11:48Z",
+  "date_adate": "2011-05-18",
+  "date_available": "2014-03-14T20:11:48Z",
+  "date_issued": "2011-05-02",
+  "date_rdate": "2011-05-18",
+  "date_sdate": "2011-05-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Essay #1 â   Factors influencing the risk of falls in the construction industry: a review of the evidence  Falls are a significant public health risk and a leading cause of nonfatal and fatal injuries among construction workers worldwide. A more comprehensive understanding of casual factors leading to fall incidents is essential to prevent falls in the construction industry. However, an extensive overview of causal factors is missing from the literature. In this paper, 536 articles on factors contributing to the risk of falls were retrieved. One hundred twenty-one (121) studies met the criteria for relevance and quality to be coded, and were synthesized to provide an overview. In lieu of the homogeneity needed across studies to conduct a structured meta-analysis, a literature synthesis method based on macro-variables was advanced. This method provides a flexible approach to aggregating previous findings and assessing agreement across those studies. Factors commonly associated with falls included working surfaces and platforms, workersâ   safety behaviors and attitudes, and construction structure and facilities. Significant differences across qualitative and quantitative studies were found in terms of focus, and areas with limited agreement in previous research were identified. Findings contribute to research on the causes of falls in construction, developing engineering controls, informing policy and intervention design to reduce the risk of falls, and improving research synthesis methods.  Essay #2 â   Review of quantitative studies of interventions for responding to infectious disease outbreaks  We reviewed the modeling and retrospective literature on responding to outbreaks of infectious diseases in humans and animals. Unlike routine immunization and control efforts, outbreak response activities require rapid reactive actions to address an urgent or emergent situation. We focused our review on characterizing the types of diseases analyzed, the interventions used, and the models employed. Out of the 211 studies identified, we find that the majority focus on a few diseases (influenza, foot and mouth disease, smallpox, measles, and hepatitis). We identified 34 distinct interventions explored in these studies that fall under the general categories of vaccination, prophylaxis, quarantine/isolation, contact restriction, exposure reduction, killing/slaughtering, and surveillance. A large number of studies (141) use simulation/analytical models to analyze outbreak response strategies. We identify key factors contributing to the effectiveness of different interventions that target high-risk individuals, trace infected contacts, or use a ring to delineate geographical boundaries for an intervention.  Essay #3 â   Development of an individual-based model for polioviruses: implications of the selection of network type and outcome metrics  We developed an individual-based (IB) model to explore the stochastic attributes of state transitions, the heterogeneity of the individual interactions, and the impact of different network structure choices on the poliovirus transmission process in the context of understanding the dynamics of outbreaks. We used a previously published differential equation-based model to develop the IB model and inputs. To explore the impact of different types of networks, we implemented a total of 26 variations of six different network structures in the IB model. We found that the choice of network structure plays a critical role in the model estimates of cases and the dynamics of outbreaks. This study provides insights about the potential use of an IB model to support policy analyses related to managing the risks of polioviruses and shows the importance of assumptions about network structure.",
+  "description_provenance": [
+    "Author Email: hukun@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: hazhir@vt.edu",
+    "Advisor Email: kimt@kidrisk.org",
+    "Made available in DSpace on 2014-03-14T20:11:48Z (GMT). No. of bitstreams: 2 Hu_K_D_2011.pdf: 1842670 bytes, checksum: 085fa550eaef33fd37614e77200264e3 (MD5) Hu_K_D_2011_Copyright.pdf: 378909 bytes, checksum: b04187af4daa0382cd78499a6bc5f829 (MD5)   Previous issue date: 2011-05-02"
+  ],
+  "handle": "27621",
+  "identifier_other": "etd-05092011-164536",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05092011-164536/",
+  "identifier_uri": "http://hdl.handle.net/10919/27621",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Hu_K_D_2011.pdf",
+    "Hu_K_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Literature synthesis method",
+    "dynamic disease models",
+    "disease transmission",
+    "outbreak response",
+    "individual-based (IB) model"
+  ],
+  "title": "Three Essays on Modeling Complex Dynamic Problems in Health and Safety",
+  "type": "Dissertation"
+}

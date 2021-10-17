@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Nakad, Zahi Samir",
+  "contributor_committeecochair": [
+    "Martin, Thomas L.",
+    "Jones, Mark T."
+  ],
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Midkiff, Scott F.",
+    "Baumann, William T.",
+    "Al-Qadi, Imadeddin L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:52:44Z",
+  "date_adate": "2004-01-06",
+  "date_available": "2011-08-22T18:52:44Z",
+  "date_issued": "2003-12-10",
+  "date_rdate": "2004-01-06",
+  "date_sdate": "2003-12-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The huge advancement in the textiles industry and the accurate control on the mechanization process coupled with cost-effective manufacturing offer an innovative environment for new electronic systems, namely electronic textiles. The abundance of fabrics in our regular life offers immense possibilities for electronic integration both in wearable and large-scale applications.  Augmenting this technology with a set of precepts and a simulation environment creates a new software/hardware architecture with widely useful implementations in wearable and large-area computational systems. The software environment acts as a functional modeling and testing platform, providing estimates of design metrics such as power consumption. The construction of an electronic textile (e-textile) hardware prototype, a large-scale acoustic beamformer, provides a basis for the simulator and offers experience in building these systems. The contributions of this research focus on defining the electronic textile architecture, creating a simulation environment, defining a networking scheme, and implementing hardware prototypes.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:52:44Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1586611 bytes, checksum: 6f5d3f6aba86fad6e9dfbd258db6ba68 (MD5)   Previous issue date: 2003-12-10",
+    "Author Email: znakad@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: alqadi@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11084",
+  "identifier_other": "etd-12232003-113641",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12232003-113641",
+  "identifier_uri": "http://hdl.handle.net/10919/11084",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "computational fabrics",
+    "e-textiles",
+    "acoustic array",
+    "beamforming",
+    "embedded systems"
+  ],
+  "title": "Architectures for e-Textiles",
+  "type": "Dissertation"
+}

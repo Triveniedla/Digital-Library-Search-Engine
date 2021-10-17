@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Stulce, John R.",
+  "contributor_committeecochair": [
+    "Dhande, Sanjay G.",
+    "Reinholtz, Charles F."
+  ],
+  "contributor_committeemember": [
+    "Sturges, Robert H.",
+    "Robertshaw, Harry H.",
+    "Myklebust, Arvid",
+    "West, Robert L. Jr."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:10:53Z",
+  "date_adate": "2002-04-30",
+  "date_available": "2014-03-14T20:10:53Z",
+  "date_issued": "2002-01-25",
+  "date_rdate": "2003-04-30",
+  "date_sdate": "2002-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Rugged terrains, including much of the earthâ  s surface, other planets, and many man-made structures, are inaccessible to wheeled and tracked vehicles. This has inspired research into legged vehicles. Prior to the research described here, virtually all legged vehicle designs relied on the concept of mounting actuated leg-type mechanisms onto a single rigid frame or chassis. This dissertation research explores and advances a novel vehicle concept that uses passive legs attached to an actuated multibody structure. This new vehicle moves only its actuated body trunk to achieve locomotion; thus moving in a manner similar to that used by insect larvae known as caterpillars. The passive-legged design is termed a â  crawlingâ   vehicle, to differentiate it from â  walkingâ   vehicles, which have powered legs. <P> A conceptual design for the proposed vehicle was developed using insights from observations of caterpillar specimen geometry, gaits, leg trajectories, and ranges of motion. The flexible, segmented body of the robot is realized using a series of actuated truss-like mechanisms, resulting in a configuration similar to the body structure of caterpillars. <P> A computer simulation was developed to verify the concept and to assist in creating future designs. This simulation includes a parametric model of the robot structure, an efficient kinematics model, a motion programming method based on six-dimensional parametric cubic trajectories, static stability analysis, actuator velocity and acceleration analysis, wire-frame animations, and rendering, thus providing synthesis and analysis tools for this new class of vehicle. <P> Results of this work show that by using properly designed Stewart-Gough platform mechanisms for the vehicle multibody structure, a range of motion very similar to that of caterpillars is achievable. Simulation tests showed that imitating the caterpillarsâ   primary gait (or stepping sequence) yields superior speed and efficiency, with little reduction of stability, when compared to a simpler, more obvious gait. <P> With proper controls, this crawling vehicle will, like its biological counterpart, be intrinsically stable and have excellent maneuverability over rough terrain. The crawling vehicle is shown to be a viable legged locomotion system that may prove to have superior rough terrain mobility to all previous types of man-made land vehicles.",
+  "description_provenance": [
+    "Author Email: jnkpublic@earthlink.net",
+    "Made available in DSpace on 2014-03-14T20:10:53Z (GMT). No. of bitstreams: 12 g-Ch_6-The_Simulation.pdf: 64469 bytes, checksum: 394fcb099b6728867a94e95e2ef8457b (MD5) i-Ch_8-Future_Work_and_Conclusions.pdf: 866204 bytes, checksum: 3edf6f83b4160132e46db191abbad4ed (MD5) e-Ch_4-Modeling.pdf: 283636 bytes, checksum: 0ba214d9148427acadcbf5462d075861 (MD5) c-Ch_2-Conceptual_Design.pdf: 1982862 bytes, checksum: f71e48c25c747ff735fe814df199084c (MD5) f-Ch_5-Motion_Programming.pdf: 181936 bytes, checksum: a625588a298c726e50dc3a7f619045ce (MD5) d-Ch-3-Caterpillar_Locomotion.pdf: 354662 bytes, checksum: 72698f76828425bb65e0b094d9763a87 (MD5) h-Ch_7-Modeling_and_Simulation_Results.pdf: 853850 bytes, checksum: 7541229d0a00d8e0d9bee4ab67d54f59 (MD5) a-Front_Matter_incl_Abstract.pdf: 136486 bytes, checksum: b62a78ddb2693552bd433bab89532dc5 (MD5) k-Appendices_A-C.pdf: 54312 bytes, checksum: 46b0e6d309beb39d6a88a86d0312aa6d (MD5) l-Vita.pdf: 15806 bytes, checksum: 00d0495b6564a94ed23de61d11972c82 (MD5) j-References.pdf: 72555 bytes, checksum: b6bce9f04f74ee131e805129940249a4 (MD5) b-Ch_1-Intro_and_Lit_Review.pdf: 501990 bytes, checksum: 34398b517a3178f97ff4a4b9d901aa77 (MD5)   Previous issue date: 2002-01-25"
+  ],
+  "handle": "27304",
+  "identifier_other": "etd-04262002-012250",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262002-012250/",
+  "identifier_uri": "http://hdl.handle.net/10919/27304",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "g-Ch_6-The_Simulation.pdf",
+    "i-Ch_8-Future_Work_and_Conclusions.pdf",
+    "e-Ch_4-Modeling.pdf",
+    "c-Ch_2-Conceptual_Design.pdf",
+    "f-Ch_5-Motion_Programming.pdf",
+    "d-Ch-3-Caterpillar_Locomotion.pdf",
+    "h-Ch_7-Modeling_and_Simulation_Results.pdf",
+    "a-Front_Matter_incl_Abstract.pdf",
+    "k-Appendices_A-C.pdf",
+    "l-Vita.pdf",
+    "j-References.pdf",
+    "b-Ch_1-Intro_and_Lit_Review.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Motion Programming",
+    "Mobile Robot",
+    "Vehicle",
+    "Crawl",
+    "Walk"
+  ],
+  "title": "Conceptual Design and Simulation of a  Multibody Passive-Legged Crawling Vehicle",
+  "type": "Dissertation"
+}

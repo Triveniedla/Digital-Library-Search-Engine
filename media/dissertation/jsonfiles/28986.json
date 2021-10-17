@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Singh, Gaurav",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Marathe, Madhav V.",
+    "Hsiao, Michael S.",
+    "Nazhandali, Leyla",
+    "Ha, Dong Sam"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:18Z",
+  "date_adate": "2008-10-13",
+  "date_available": "2014-03-14T20:16:18Z",
+  "date_issued": "2008-09-02",
+  "date_rdate": "2008-10-13",
+  "date_sdate": "2008-09-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation addresses the issues of high power consumption and verification associated with a novel hardware design methodology based on high-level synthesis using action-oriented specifications. High-level synthesis of hardware designs is the process of automatically converting high-level behavioral specifications of designs into their corresponding RTL (Register Transfer Level) descriptions. From a designer's perspective, writing high-level specifications of a design alleviates the burden of handling various scheduling and concurrency issues, which can be automatically handled by the high-level synthesis tool. In the recent past, EDA (Electronic Design Automation) industry has seen efforts by various vendors to make such synthesis process practical for generating efficient hardware designs. In most of these cases, the inputs to high-level synthesis tools are the control data-flow graphs (CDFGs) or hierarchical variants of those. These models sequentialize parts of the computation in the form of computation threads. In contrast, in the last couple of years, advances have been made in an alternative high-level hardware design methodology where the specifications are action-oriented rather than the composition of sequential threads. In this paradigm, a hardware design is described in terms of atomic actions and then synthesized into the RTL code. Action-oriented synthesis process inherently targets the reduction of area and latency of a hardware design. However, two important issues that have not been addressed adequately are (1) power optimizations during such synthesis and (2) verification of action-oriented specifications and synthesized power-minimized implementations of the designs. With the proliferation of power-hungry portable devices, ever shrinking geometries and increasing clock frequencies, power consumption of hardware designs has become a critical metric (besides area and latency) that should be taken into consideration while evaluating the viability and success of a synthesis process. In this work, we analyze the complexity of low-power problems associated with the action-oriented specification models, and propose algorithms and techniques for power optimization during the action-oriented synthesis process. Furthermore, verification of hardware designs generated from such models is required in order to verify the changes caused in their structures or behaviors as part of any used power minimization techniques. Verification of high-level action-oriented models is also important for ensuring the correctness of the designs early in the design cycle. In this work, we also propose various formal verification techniques that can be used for verifying desired correctness properties as well as behaviors of power-minimized action-oriented designs at high-level.",
+  "description_provenance": [
+    "Author Email: gasingh@vt.edu",
+    "Advisor Email: marathe@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: leyla@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:18Z (GMT). No. of bitstreams: 1 PhD-Dissertation-GauravSingh.pdf: 761263 bytes, checksum: 06f15b0ba1e95205699279ae633f92fd (MD5)   Previous issue date: 2008-09-02"
+  ],
+  "handle": "28986",
+  "identifier_other": "etd-09152008-233325",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09152008-233325/",
+  "identifier_uri": "http://hdl.handle.net/10919/28986",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhD-Dissertation-GauravSingh.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Problem Complexity",
+    "Power Optimization",
+    "CAOS",
+    "Dynamic Power",
+    "Formal Verification",
+    "Peak Power"
+  ],
+  "title": "Optimization and Verification Techniques for Hardware Synthesis from Concurrent Action-Oriented Specifications",
+  "type": "Dissertation"
+}

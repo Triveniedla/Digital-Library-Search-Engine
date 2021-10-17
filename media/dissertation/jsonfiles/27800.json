@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Deora, Nipa",
+  "contributor_committeechair": "Carlier, Paul R.",
+  "contributor_committeemember": [
+    "Crawford, Daniel T.",
+    "Etzkorn, Felicia A.",
+    "Tanko, James M.",
+    "Troya, Diego"
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:12:17Z",
+  "date_adate": "2010-06-22",
+  "date_available": "2014-03-14T20:12:17Z",
+  "date_issued": "2010-05-10",
+  "date_rdate": "2010-06-22",
+  "date_sdate": "2010-05-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Protonated epoxides feature prominently in organic chemistry as reactive intermediates. Gas-phase calculations studying the structure and ring-opening energetics of protonated ethylene oxide, propylene oxide and 2-methyl-1,2-epoxypropane were performed at the B3LYP and MP2 levels (both with the 6-311++G** basis set). Structural analyses were performed for 10 protonated epoxides using B3LYP, MP2, and CCSD/6-311++G** calculations. Protonated 2-methyl-1,2-epoxypropane was the most problematic species studied, where relative to CCSD, B3LYP consistently overestimates the C2-O bond length. The difficulty for DFT methods in modeling the protonated isobutylene oxide is due to the weakness of this C2-O bond. Protonated epoxides featuring more symmetrical charge distribution and cyclic homologues featuring less ring strain are treated with greater accuracy by B3LYP.  Ion-pair separation (IPS) of THF-solvated fluorenyl, diphenylmethyl, and trityl lithium was studied computationally. Minimum-energy equilibrium geometries of explicit mono, bis and tris-solvated contact ion pairs (CIPs) and tetrakis-sovlated solvent separated ion pair (SSIPs) were modeled at B3LYP/6-31G*. Associative transition structures linking the tris-solvated CIPs and tetrakis-solvated SIPs were also located. In vacuum, B3LYP/6-31G* Î HIPS values are 6-8 kcal/mol less exothermic than the experimentally-determined values in THF solution. Incorporation of secondary solvation in the form of Onsager and PCM single-point calculations showed an increase in exothermicity of IPS. Application of a continuum solvation model (Onsager) during optimization at the B3LYP/6-31G* level of theory produced significant changes in the CÎ±-Li contact distances in the SSIPs. An increase in of ion pair separation exothermicity was observed upon using both PCM and Onsager solvation models, highlighting the importance of both explicit and implicit solvation in modeling of ion pair separation.",
+  "description_provenance": [
+    "Author Email: ndeora@vt.edu",
+    "Advisor Email: pcarlier@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Advisor Email: fetzkorn@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Advisor Email: troya@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:17Z (GMT). No. of bitstreams: 1 Deora_N_2010.pdf: 7970821 bytes, checksum: 922da8f120aa2a8d715a8702ea8b7842 (MD5)   Previous issue date: 2010-05-10"
+  ],
+  "handle": "27800",
+  "identifier_other": "etd-05192010-002946",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05192010-002946/",
+  "identifier_uri": "http://hdl.handle.net/10919/27800",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Deora_N_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "potential-energy surface",
+    "basis-set",
+    "epoxide",
+    "liga"
+  ],
+  "title": "Computational Studies of Protonated Cyclic Ethers and Benzylic Organolithium Compounds",
+  "type": "Dissertation"
+}

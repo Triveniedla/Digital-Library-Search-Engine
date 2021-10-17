@@ -1,0 +1,65 @@
+{
+  "contributor_author": "Avci, Onur",
+  "contributor_committeecochair": [
+    "Setareh, Mehdi",
+    "Murray, Thomas M."
+  ],
+  "contributor_committeemember": [
+    "Charney, Finley A.",
+    "Plaut, Raymond H.",
+    "Wicks, Alfred L."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:17:52Z",
+  "date_adate": "2005-11-15",
+  "date_available": "2014-03-14T20:17:52Z",
+  "date_issued": "2005-09-08",
+  "date_rdate": "2007-11-15",
+  "date_sdate": "2005-11-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this study was to examine the effect of bottom chord extensions on deflections and vibration characteristics of joist supported floor systems when joist bottom chord extensions are installed.  To understand the effect of bottom chord extensions on deflections, natural frequency, damping, mode shape and effective mass, extensive analytical and experimental studies were conducted on single span and three span joist supported laboratory footbridges with different bottom chord extension configurations.  Finite element computer models were created to simulate and compare the results of stiffness and vibration tests.  Testing was done with a) the bottom chord extensions in-place before the concrete was placed, b) with all or part of the bottom chord extensions removed, and c) after the bottom chord extensions had been reinstalled with jacking for the single span footbridge and without jacking for the three-span footbridge.  Results from the stiffness tests indicate that re-installing the bottom chord extensions to the joists of the single span footbridge with cured concrete with the center of the span raised helps to reduce the uniform load deflections to some extent, but not as much as placing the bottom chord extensions before the concrete placement.  Likewise, for the three span footbridge, placing the bottom chord extensions before the concrete placement is observed to be a better solution.  Results from the dynamic tests indicate that the effect of bottom chord extensions on the single span footbridge is consistent for natural frequency, 20 psf live load deflections, sinusoidal excitations with high amplitudes, quarter point heel drop excitations, walking excitations, and effective mass values.  The effect of bottom chord extensions on the three span footbridge is consistent for the natural frequency and 20 psf deflections.  However, the FRF (Frequency Response Function) peaks of chirp, heel drop, sinusoidal excitations, accelerations from walking data, and the MEScope and Finite Element model effective mass results do not follow a common trend.  It can be concluded that even though the footbridge was stiffened by the bottom chord extensions, that does not necessarily mean that the acceleration levels, and hence the frequency response function peaks, decrease.  However, bottom chord extensions do increase the natural frequencies for all the three governing bending modes.",
+  "description_provenance": [
+    "Author Email: oavci@vt.edu",
+    "Advisor Email: fcharney@vt.edu",
+    "Advisor Email: setareh@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: thmurray@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:52Z (GMT). No. of bitstreams: 5 Apx.A,B,C.pdf: 826475 bytes, checksum: c196fd217e4631bd11ecc86e6f84407d (MD5) Apx.E.pdf: 11086990 bytes, checksum: 1cd81abf10f86ddaa0a49d5e1ee90075 (MD5) VITA-Onur-AVCI.pdf: 19687 bytes, checksum: 217b49151456feca10e356c93a96f212 (MD5) Apx.D.pdf: 3214925 bytes, checksum: 31496aa351fbd02b1592b7ffc82cd315 (MD5) Thesis-Onur-AVCI.pdf: 12064755 bytes, checksum: ab7cf0310bf20238b97c56f2956dcc21 (MD5)   Previous issue date: 2005-09-08"
+  ],
+  "handle": "29432",
+  "identifier_other": "etd-11022005-232019",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11022005-232019/",
+  "identifier_uri": "http://hdl.handle.net/10919/29432",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Apx.A,B,C.pdf",
+    "Apx.E.pdf",
+    "VITA-Onur-AVCI.pdf",
+    "Apx.D.pdf",
+    "Thesis-Onur-AVCI.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "acceleration response",
+    "effective mass",
+    "damping",
+    "mode shape",
+    "natural frequency",
+    "vibration testing",
+    "digital signal processing",
+    "experimental modal analysis",
+    "finite element modeling",
+    "dynamic analysis",
+    "Floor vibrations",
+    "joist",
+    "resonance",
+    "stiffness testing",
+    "bottom chord extension",
+    "truss"
+  ],
+  "title": "Effects of Bottom Chord Extensions on the Static and Dynamic Performance of Steel Joist Supported Floors",
+  "type": "Dissertation"
+}

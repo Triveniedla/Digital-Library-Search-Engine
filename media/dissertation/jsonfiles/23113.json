@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Ghoman, Satyajit Sudhir",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Wang, Zhicun",
+    "Canfield, Robert Arthur",
+    "Mason, William H.",
+    "Patil, Mayuresh J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-05-30T08:00:21Z",
+  "date_available": "2013-05-30T08:00:21Z",
+  "date_issued": "2013-05-29",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The main objective of this research is to develop an innovative multi-fidelity multi-disciplinary design, analysis and optimization suite that integrates certain solution generation codes and newly developed innovative tools to improve the overall optimization process. The research performed herein is divided into two parts: (1) the development of an MDAO framework by integration of variable fidelity physics-based computational codes, and (2) enhancements to such a framework by incorporating innovative features extending its robustness.<br /><br />The first part of this dissertation describes the development of a conceptual Multi-Fidelity Multi-Strategy and Multi-Disciplinary Design Optimization Environment (M3 DOE), in context of aircraft wing optimization. M3 DOE provides the user a capability to optimize configurations with a choice of (i) the level of fidelity desired, (ii) the use of a single-step or multi-step optimization strategy, and (iii) combination of a series of structural and aerodynamic analyses. The modularity of M3 DOE allows it to be a part of other inclusive optimization frameworks. The M3 DOE is demonstrated within the context of shape and sizing optimization of the wing of a Generic Business Jet aircraft. Two different optimization objectives, viz. dry weight minimization, and cruise range maximization are studied by conducting one low-fidelity and two high-fidelity optimization runs to demonstrate the application scope of M3 DOE.<br /><br />The second part of this dissertation describes the development of an innovative hybrid optimization framework that extends the robustness of M3 DOE by employing a proper orthogonal decomposition-based design-space order reduction scheme combined with the evolutionary algorithm technique. The POD method of extracting dominant modes from an ensemble of candidate configurations is used for the design-space order reduction. The snapshot of candidate population is updated iteratively using evolutionary algorithm technique of fitness-driven retention. This strategy capitalizes on the advantages of evolutionary algorithm as well as POD-based reduced order modeling, while overcoming the shortcomings inherent with these techniques. When linked with M3 DOE, this strategy offers a computationally efficient methodology for problems with high level of complexity and a challenging design-space. This newly developed framework is demonstrated for its robustness on a non-conventional supersonic tailless air vehicle wing shape optimization problem.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-30T08:00:21Z (GMT). No. of bitstreams: 1  Ghoman_SS_D_2013.pdf: 5293683 bytes, checksum: 97a0da9a33b19a6b9f3f68aaa55c1ca0 (MD5)    Previous issue date: 2013-05-29",
+  "format_medium": "ETD",
+  "handle": "23113",
+  "identifier_other": "vt_gsexam:562",
+  "identifier_uri": "http://hdl.handle.net/10919/23113",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Multi-disciplinary Optimization",
+    "Proper Orthogonal Decomposition",
+    "Evolutionary Algorithm",
+    "Aeroelasticity"
+  ],
+  "title": "A Hybrid Optimization Framework with POD-based Order Reduction and Design-Space Evolution Scheme",
+  "type": "Dissertation"
+}

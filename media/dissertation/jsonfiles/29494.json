@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Park, Tae Young",
+  "contributor_committeechair": "Mozumdar, Abon",
+  "contributor_committeemember": [
+    "Chance, Donald M.",
+    "Day, Martin V.",
+    "Morgan, George E.",
+    "Kumar, Raman"
+  ],
+  "contributor_department": "Finance, Insurance, and Business Law",
+  "date_accessioned": "2014-03-14T20:18:14Z",
+  "date_adate": "2001-11-12",
+  "date_available": "2014-03-14T20:18:14Z",
+  "date_issued": "2001-10-25",
+  "date_rdate": "2002-11-12",
+  "date_sdate": "2001-11-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "EFFICIENCY AND ACCURACY OF ALTERNATIVE IMPLEMENTATIONS OF NO-ARBITRAGE TERM STRUCTURE MODELS OF THE HEATH-JARROW-MORTON CLASS  Tae Young Park  Abstract  Models of the term structure of interest rates play a central role in the modern theory of pricing bonds and other interest rate claims. Term structure models based on the principle of no-arbitrage, especially those of the Heath-Jarrow-Morton (1992) class, have become very popular recently, both with academics and practitioners. Surprisingly however, although the implied volatility function plays a crucial role in these no-arbitrage term structure models, there is little systematic evidence to guide optimal model specification within this broad class.      We study the implied volatility in the Heath-Jarrow-Morton framework using Eurodollar futures options data. We estimate a daily time series of forward rates within the HJM framework such that, by construction, the predicted futures prices from our model exactly match the observed futures prices. Next, we estimate a daily time series of volatility parameters such that the sum of squared errors between futures options prices predicted by the model and observed futures options prices is minimized. We use the six different volatility specifications suggested by Amin and Morton (1994) within the HJM class of models to price interest rate claims. Since the volatilities are the only unobservables, we use these models to infer the volatilities from the market prices of Eurodollar futures options over the 1987-1998 periods. The minimized sum of squared errors in the option prices is used as the measure of accuracy of each specific model. Each model differs from the others in its ability to match the market option prices and the time required for the computation. We compare the performances of the six volatility specifications in the accuracy-versus-computation time tradeoff. We document the systematic biases between the model and market prices as a function of option type, maturity, and moneyness.      We also examine alternative numerical implementations of HJM models using the six volatility specifications. In particular, we analyze the impact on accuracy and computation time of using different numbers of time-steps. We also examine the effect of using time-steps of varying lengths within the same estimation procedure, and of ordering the time-steps in different ways.",
+  "description_provenance": [
+    "Author Email: tapark@vt.edu",
+    "Advisor Email: dmc@vt.edu",
+    "Advisor Email: daymv@vt.edu",
+    "Advisor Email: gmorgan@vt.edu",
+    "Advisor Email: abon@vt.edu",
+    "Advisor Email: rkumar@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:14Z (GMT). No. of bitstreams: 1 ETD.pdf: 527161 bytes, checksum: ea5fbc0069e7977393e413799e3aac6f (MD5)   Previous issue date: 2001-10-25"
+  ],
+  "handle": "29494",
+  "identifier_other": "etd-11082001-094650",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11082001-094650/",
+  "identifier_uri": "http://hdl.handle.net/10919/29494",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Term Structure of Interest Rates",
+    "Eurodollar Futures Options",
+    "Implied Volatility",
+    "Interest Rate Derivatives",
+    "No-Arbitrage Models"
+  ],
+  "title": "Efficiency and Accuracy of Alternative Implementations of No-Arbitrage Term Structure Models of the Heath-Jarrow-Morton Class",
+  "type": "Dissertation"
+}

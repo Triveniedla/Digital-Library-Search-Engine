@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Cheng, Xueqi",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Schaumont, Patrick Robert",
+    "Liu, Yilu",
+    "Ha, Dong Sam",
+    "Fan, Weiguo Patrick"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:32Z",
+  "date_adate": "2010-03-10",
+  "date_available": "2014-03-14T20:07:32Z",
+  "date_issued": "2010-02-04",
+  "date_rdate": "2010-03-10",
+  "date_sdate": "2010-02-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the growing importance of software on which human lives increasingly depend, the correctness requirement of the underlying software becomes especially critical. However, the increasing complexities and sizes of modern software systems pose special challenges on the effectiveness as well as efficiency of software verification. Two major obstacles include the quality of test generation in terms of error detection in software testing and the state space explosion problem in software formal verification (model checking).  In this dissertation, we investigate several hybrid techniques that explore dynamic (with program execution), static (without program execution) as well as the synergies of multiple approaches in software verification from the perspectives of testing and model checking. For software testing, a new simulation-based internal variable range coverage metric is proposed with the goal of enhancing the error detection capability of the generated test data when applied as the target metric. For software model checking, we utilize various dynamic analysis methods, such as data mining, swarm intelligence (ant colony optimization), to extract useful high-level information from program execution data. Despite being incomplete, dynamic program execution can still help to uncover important program structure features and variable correlations. The extracted knowledge, such as invariants in different forms, promising control flows, etc., is then used to facilitate code-level program abstraction (under-approximation/over-approximation), and/or state space partition, which in turn improve the performance of property verification.  In order to validate the effectiveness of the proposed hybrid approaches, a wide range of experiments on academic and real-world programs were designed and conducted, with results compared against the original as well as the relevant verification methods. Experimental results demonstrated the effectiveness of our methods in improving the quality as well as performance of software verification. For software testing, the newly proposed coverage metric constructed based on dynamic program execution data is able to improve the quality of test cases generated in terms of mutation killing â   a widely applied measurement for error detection. For software model checking, the proposed hybrid techniques greatly take advantage of the complementary benefits from both dynamic and static approaches: the lightweight dynamic techniques provide flexibility in extracting valuable high-level information that can be used to guide the scope and the direction of static reasoning process. It consequently results in significant performance improvement in software model checking. On the other hand, the static techniques guarantee the completeness of the verification results, compensating the weakness of dynamic methods.",
+  "description_provenance": [
+    "Author Email: xcheng@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Advisor Email: liu@utk.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:32Z (GMT). No. of bitstreams: 1 Cheng_X_D_2010.pdf: 842252 bytes, checksum: bc0007a8a217cc13c43dac0007ea24e6 (MD5)   Previous issue date: 2010-02-04"
+  ],
+  "handle": "26216",
+  "identifier_other": "etd-02152010-102751",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02152010-102751/",
+  "identifier_uri": "http://hdl.handle.net/10919/26216",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Cheng_X_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Software Verification",
+    "Model Checking",
+    "Data Mining",
+    "Swarm Intelligence"
+  ],
+  "title": "Exploring Hybrid Dynamic and Static Techniques for Software Verification",
+  "type": "Dissertation"
+}

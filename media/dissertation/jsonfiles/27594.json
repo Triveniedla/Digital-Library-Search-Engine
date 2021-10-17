@@ -1,0 +1,48 @@
+{
+  "contributor_author": "August, Nathaniel John",
+  "contributor_committeechair": "Ha, Dong Sam",
+  "contributor_committeemember": [
+    "Armstrong, James R.",
+    "Tront, Joseph G.",
+    "Lockhart, Thurmon E.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:43Z",
+  "date_adate": "2005-08-17",
+  "date_available": "2014-03-14T20:11:43Z",
+  "date_issued": "2005-05-05",
+  "date_rdate": "2005-08-17",
+  "date_sdate": "2005-05-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This thesis investigates distributed medium access control (MAC) protocols custom tailored to both impulse-based ultra wideband (I-UWB) radios and to large ad hoc and sensor networks. I-UWB is an attractive radio technology for large ad hoc and sensor networks due to its robustness to multipath fading effects, sub-centimeter ranging ability, and low-cost, low-power hardware. Current medium access control (MAC) protocols for I-UWB target small wireless personal area networks (WPANs) and cellular networks, but they are not suitable for large, multihop ad hoc and sensor networks. Therefore, this paper proposes a new type of MAC protocol that enables ad hoc and sensor networks to realize the benefits of I-UWB radios. First, we propose a method to overcome the challenges of quickly, reliably, and efficiently sensing medium activity in an ultra wideband network. This provides a base MAC protocol similar to carrier sense multiple access (CSMA) in narrowband systems. Next, we propose to exploit the unique signaling of I-UWB to improve performance over the base MAC protocol without the associated overhead of similar improvements in narrowband systems. I-UWB enables a distributed multichannel MAC protocol, which improves throughput. I-UWB also facilitates a busy signal MAC protocol, which reduces wasted energy from corrupt packets. Finally, because the I-UWB Physical Layer and MAC Layer affect the network and application layers, we propose a cross-layer adaptive system that optimizes performance. Physical Layer simulations show that both the base protocol and the improvements are practical for an I-UWB radio. Networks level simulations characterize the performance of the proposed MAC protocols and compare them to existing MAC protocols.",
+  "description_provenance": [
+    "Author Email: nate_august@yahoo.com",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: jra@vt.edu",
+    "Advisor Email: jgtront@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:43Z (GMT). No. of bitstreams: 1 Dissertation_NA_final_print.pdf: 1821152 bytes, checksum: 9a962c86b93e8bc70b5bde234db8e26c (MD5)   Previous issue date: 2005-05-05"
+  ],
+  "handle": "27594",
+  "identifier_other": "etd-05082005-223850",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05082005-223850/",
+  "identifier_uri": "http://hdl.handle.net/10919/27594",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_NA_final_print.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ultra wideband",
+    "carrier sense",
+    "medium access control",
+    "busy signal",
+    "ad hoc networks",
+    "multi-channel",
+    "sensor networks"
+  ],
+  "title": "Medium Access Control in Impulse-Based Ultra Wideband Ad Hoc and Sensor Networks",
+  "type": "Dissertation"
+}

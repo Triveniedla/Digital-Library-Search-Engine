@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Otoom, Mwaffaq Naif",
+  "contributor_committeechair": "Paul, JoAnn M.",
+  "contributor_committeemember": [
+    "Patterson, Cameron D.",
+    "Midkiff, Scott F.",
+    "Martin, Thomas L.",
+    "Kulczycki, Gregory W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:53Z",
+  "date_adate": "2012-03-05",
+  "date_available": "2014-03-14T20:07:53Z",
+  "date_issued": "2012-02-23",
+  "date_rdate": "2012-03-05",
+  "date_sdate": "2012-02-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The primary contribution of this thesis is the development of a new performance metric, Capacity, which evaluates the performance of Chip Heterogeneous Multiprocessors (CHMs) that process multiple heterogeneous channels. Performance metrics are required in order to evaluate any system, including computer systems. A lack of appropriate metrics can lead to ambiguous or incorrect results, something discovered while developing the secondary contribution of this thesis, that of workload modes for CHMs â   or Workload Specific Processors (WSPs).  For many decades, computer architects and designers have focused on techniques that reduce latency and increase throughput. The change in modern computer systems built around CHMs that process multi-channel communications in the service of single users calls this focus into question.  Modern computer systems are expected to integrate tens to hundreds of processor cores onto single chips, often used in the service of single users, potentially as a way to access the Internet. Here, the design goal is to integrate as much functionality as possible during a given time window. Without the ability to correctly identify optimal designs, not only will the best performing designs not be found, but resources will be wasted and there will be a lack of insight to what leads to better performing designs. To address performance evaluation challenges of the next generation of computer systems, such as multicore computers inside of cell phones, we found that a structurally different metric is needed and proceeded to develop such a metric. In contrast to single-valued metrics, Capacity is a surface with dimensionality related to the number of input streams, or channels, processed by the CHM. We develop some fundamental Capacity curves in two dimensions and show how Capacity shapes reveal interaction of not only programs and data, but the interaction of multiple data streams as they compete for access to resources on a CHM as well. For the analysis of Capacity surface shapes, we propose the development of a demand characterization method in which its output is in the form of a surface. By overlaying demand surfaces over Capacity surfaces, we are able to identify when a system meets its demands and by how much. Using the Capacity metric, computer performance optimization is evaluated against workloads in the service of individual users instead of individual applications, aggregate applications, or parallel applications. Because throughput was originally derived by drawing analogies between processor design and pipelines in the automobile industry, we introduce our Capacity metric for CHMs by drawing an analogy to automobile production, signifying that Capacity is the successor to throughput. By developing our Capacity metric, we illustrate how and why different processor organizations cannot be understood as being better performers without both magnitude and shape analysis in contrast to other metrics, such as throughput, that consider only magnitude. In this work, we make the following major contributions:  â ¢\tDefinition and development of the Capacity metric as a surface with dimensionality related to the number of input streams, or channels, processed by the CHM.   â ¢\tTechniques for analysis of the Capacity metric. Since the Capacity metric was developed out of necessity, while pursuing the development of WSPs, this work also makes the following minor contributions: â ¢\tDefinition and development of three foundations in order to establish an experimental foundation â   a CHM model, a multimedia cell phone example, and a Workload Specific Processor (WSP).  â ¢\tDefinition of Workload Modes, which was the original objective of this thesis.   â ¢\tDefinition and comparison of two approaches to workload mode identification at run time; The Workload Classification Model (WCM) and another model that is based on Hidden Markov Models (HMMs).  â ¢\tDevelopment of a foundation for analysis of the Capacity metric, so that the impact of architectural features in a CHM may be better understood. In order to do this, we develop a Demand Characterization Method (DCM) that characterizes the demand of a specific usage pattern in the form of a curve (or a surface in general). By doing this, we will be able to overlay demand curves over Capacity curves of different architectures to compare their performance and thus identify optimal performing designs.",
+  "description_provenance": [
+    "Author Email: motoom@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: jmpaul@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: gregwk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:53Z (GMT). No. of bitstreams: 1 Otoom_MN_D_2012.pdf: 1494027 bytes, checksum: 0481603df1121b9a9e8c33ab6a9a41e8 (MD5)   Previous issue date: 2012-02-23"
+  ],
+  "handle": "26332",
+  "identifier_other": "etd-02292012-113227",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02292012-113227/",
+  "identifier_uri": "http://hdl.handle.net/10919/26332",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Otoom_MN_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multichannel Workloads",
+    "Workload Modes",
+    "Workload Specific Processors",
+    "Chip Heterogeneous Multiprocessors",
+    "Capacity Metric"
+  ],
+  "title": "Capacity Metric for Chip Heterogeneous Multiprocessors",
+  "type": "Dissertation"
+}

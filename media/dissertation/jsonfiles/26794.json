@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Papenfuss, Cory M",
+  "contributor_committeechair": "Baumann, William T.",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Johnson, Martin E.",
+    "Fuller, Christopher R.",
+    "Lai, Jason"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:27Z",
+  "date_adate": "2006-04-17",
+  "date_available": "2014-03-14T20:09:27Z",
+  "date_issued": "2006-04-04",
+  "date_rdate": "2006-04-17",
+  "date_sdate": "2006-04-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Large, ``rigid'' structures made of interconnecting beams and tendons represent a type of construction that has many engineering benefits.  Lightweight, strong, and generally constructed of standard-shaped metal framework, they also incur significant challenges to control vibration.  The construction that makes them strong, light, and ``rigid'' also makes them have very small inherent structural damping, and highly-complex modal structure.  A myriad of control techniques have been developed to work on this problem with success usually in very small bandwidths related to a specific frequency ``hot-spot'' around a few specific modes.  This work describes the design, analysis, and implementation of a novel controller configuration applicable to broadband vibration suppression on a large, uncertain resonant structure.  The measurement, identification, characterization, and modeling of a large, flexible, lightly-damped test structure with in excess of 1000 modes in 50-5000Hz range was used as the basis for choosing a control configuration.  This choice leverages the relative benefits of different control types to obtain one with a combination of the best features of all of them.  High-order and low-order feedback, and feed-forward controller configurations were all used in different frequency ranges.  Real design tradeoffs such as computation complexity, model accuracy, and available actuator technologies were fundamental to the design choices.    Measured individual modal reduction was as much as 15dB for feedback control, 20dB for feed-forward control, and 4dB broadband over the range of 50-5000Hz.",
+  "description_provenance": [
+    "Author Email: papenfuss@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:27Z (GMT). No. of bitstreams: 1 papenfuss_dissertation.pdf: 20173569 bytes, checksum: 69d56757f9d7d92ccba3cda22a918f5d (MD5)   Previous issue date: 2006-04-04"
+  ],
+  "handle": "26794",
+  "identifier_other": "etd-04122006-150230",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04122006-150230/",
+  "identifier_uri": "http://hdl.handle.net/10919/26794",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "papenfuss_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": "large flexible structures",
+  "title": "Wideband Active Vibration Control Synthesis and Implementation on Uncertain Resonant Structures",
+  "type": "Dissertation"
+}

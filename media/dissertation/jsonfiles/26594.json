@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Williamson, Gregory Scott",
+  "contributor_committeechair": "Weyers, Richard E.",
+  "contributor_committeemember": [
+    "Brown, Michael C.",
+    "Sprinkel, Michael M.",
+    "Lesko, John Jack",
+    "Roberts-Wollmann, Carin L."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:08:46Z",
+  "date_adate": "2007-04-09",
+  "date_available": "2014-03-14T20:08:46Z",
+  "date_issued": "2007-03-20",
+  "date_rdate": "2007-04-09",
+  "date_sdate": "2007-04-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A model to determine the time to the End of Functional Service Life (EFSL) for concrete bridge decks in Virginia was developed.  The service life of Virginia bridge decks is controlled by chloride-induced corrosion of the reinforcing steel.  Monte Carlo resampling techniques were used to integrate the statistical nature of the input variables into the model.  This is an improvement on previous deterministic models in that the effect of highly variable input parameters is reflected in the service life estimations.  The model predicts the time required for corrosion to initiate on 2% of the reinforcing steel in a bridge deck and then a corrosion propagation time period, determined from empirical data, is added to estimate the EFSL for a given bridge deck or set of bridge decks.    Data from 36 Virginia bridge decks was collected in order to validate the service life model as well as to investigate the effect of bridge deck construction specification changes.  The bridge decks were separated into three distinct groups:  10 bare steel reinforcement decks â   0.47 water/cement (w/c), 16 Epoxy-Coated Reinforcement (ECR) decks â   0.45 w/c, and 10 ECR decks â   0.45 w/(c+pozzolan).  Using chloride titration data and cover depth measurements from the sampled bridge decks and chloride corrosion initiation values determined from the literature for bare steel, service life estimates were made for the three sets of bridge decks.  The influence of the epoxy coating on corrosion initiation was disregarded in order to allow direct comparisons between the three sets as well as to provide conservative service life estimates.  The model was validated by comparing measured deterioration values for the bare steel decks to the estimated values from the model.  A comparison was then made between the three bridge deck sets and it was determined that bridge decks constructed with a 0.45 w/(c+p) will provide the longest service life followed by the 0.47 w/c decks and the 0.45 w/c decks, respectively.  From this it can be inferred that the addition of pozzolan to the concrete mix will improve the long-term durability of a bridge deck while a reduction in w/c appears to be of no benefit.",
+  "description_provenance": [
+    "Author Email: grwillia@vt.edu",
+    "Advisor Email: michael.brown@vdot.virginia.gov",
+    "Advisor Email: michael.sprinkel@vdot.virginia.gov",
+    "Advisor Email: rweyers@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: wollmann@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:46Z (GMT). No. of bitstreams: 7 AppendixB.pdf: 286122 bytes, checksum: 3904da7c3658cbc21299326416f98106 (MD5) AppendixA.pdf: 484382 bytes, checksum: 2a30e5dfb60d848e156422ab7d944dcb (MD5) Dissertation.pdf: 1444947 bytes, checksum: 426c341a0be17d3155b144d9a41514f1 (MD5) AppendixC.pdf: 507789 bytes, checksum: 34129aa709e6315cf26478ff537c01c3 (MD5) AppendixD.pdf: 79378 bytes, checksum: 00c8e7e448df7ec3579654e31ec3acfd (MD5) AppendixE.pdf: 282005 bytes, checksum: debc195dbeb2213322dcfd8b67f9666d (MD5) AppendixF.pdf: 213632 bytes, checksum: 4d6f2af5dfaa488fa748cb6444d725f9 (MD5)   Previous issue date: 2007-03-20"
+  ],
+  "handle": "26594",
+  "identifier_other": "etd-04022007-134523",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04022007-134523/",
+  "identifier_uri": "http://hdl.handle.net/10919/26594",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "AppendixB.pdf",
+    "AppendixA.pdf",
+    "Dissertation.pdf",
+    "AppendixC.pdf",
+    "AppendixD.pdf",
+    "AppendixE.pdf",
+    "AppendixF.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bridge deck",
+    "corrosion",
+    "concrete",
+    "service life",
+    "life-cycle cost analysis",
+    "chloride diffusion"
+  ],
+  "title": "Service Life Modeling of Virginia Bridge Decks",
+  "type": "Dissertation"
+}

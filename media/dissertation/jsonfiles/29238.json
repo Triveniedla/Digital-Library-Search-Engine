@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Nguyen, Hien",
+  "contributor_committeechair": "Pratt, Timothy J.",
+  "contributor_committeecochair": "Goldstein, J. Scott",
+  "contributor_committeemember": [
+    "Guerci, Joseph",
+    "DaSilva, Luiz A.",
+    "Schaefer, Daniel J.",
+    "Allnutt, Jeremy E.",
+    "Herdman, Terry L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:16Z",
+  "date_adate": "2002-10-29",
+  "date_available": "2014-03-14T20:17:16Z",
+  "date_issued": "2002-10-10",
+  "date_rdate": "2003-10-29",
+  "date_sdate": "2002-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research presented in this dissertation is on the development of advanced reduced rank adaptive signal processing for airborne radar space-time adaptive processing (STAP) and steering vector mismatch robustness. This is an important area of research in the field of airborne radar signal processing since practical STAP algorithms should be robust against various kinds of mismatch errors. The clutter return in an airborne radar has widely spread Doppler frequencies; therefore STAP, a two-dimensional adaptive filtering algorithm is required for effective clutter and jamming cancellation.  Real-world effects in nonhomogeneous environments increase the number of adaptive degrees of freedom required to adequately suppress interference. The increasing computational complexity and the need to estimate the interference from a limited sample support make full rank STAP impractical. The research presented here shows that the reduced rank multistage Wiener filter (MWF) provides significant subspace compression better than any previous techniques in a nonhomogeneous environment. In addition, the impact of steering vector mismatch will also be examined on the MWF. In an airborne radar environment, it is well known that calibration errors and steering vector mismatch can seriously degrade adaptive array performance and result in signal cancellation. These errors can be caused by many non-ideal factors such as beam steering angle errors, multipath propagation, and phase errors due to array imperfections. Since the MWF centrally features the steering vector on its formulation, it is important to assess the impact of steering vector mismatch. In this dissertation, several novel techniques for increasing robustness are examined and applied to the MWF. These include derivative constraints, quiescent pattern control (QPC) techniques, and covariance matrix tapers (CMT). This research illustrates that a combination of CMT and QPC, denoted CMTQ, is very effective at mitigating the impact of steering vector mismatch. Use of CMTQ augmentation provides the steering vector mismatch robustness that we desire while improving the reduced-rank and reduced sample characteristics of the MWF. Results using Monte Carlo simulations and experimental Multichannel Airborne Radar Measurements (MCARM) data confirm that the use of CMTQ gives superior performance to steering vector errors at a much reduced rank and sample support as compared to conventional techniques.",
+  "description_provenance": [
+    "Author Email: nguyenhi@saic.com",
+    "Made available in DSpace on 2014-03-14T20:17:16Z (GMT). No. of bitstreams: 1 hnguyen_dissertation_final.pdf: 1854108 bytes, checksum: b8ab43e2539453b554f6e3e00f90e7fc (MD5)   Previous issue date: 2002-10-10"
+  ],
+  "handle": "29238",
+  "identifier_other": "etd-10112002-220039",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112002-220039/",
+  "identifier_uri": "http://hdl.handle.net/10919/29238",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "hnguyen_dissertation_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "array signal processing",
+    "reduced rank",
+    "multistage Wiener filter",
+    "steering vector mismatch",
+    "airborne radar",
+    "STAP"
+  ],
+  "title": "Robust Steering Vector Mismatch Techniques for Reduced Rank Adaptive Array Signal Processing",
+  "type": "Dissertation"
+}

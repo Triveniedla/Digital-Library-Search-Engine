@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Mokhtar, Bassem Mahmoud Mohamed Ali",
+  "contributor_committeechair": [
+    "Hou, Yiwei Thomas",
+    "Eltoweissy, Mohamed Youssef"
+  ],
+  "contributor_committeemember": [
+    "Silva, Luiz A",
+    "Rizk, Mohamed Rizk Mohamed",
+    "Chen, Ing Ray",
+    "Riad, Sedki Mohamed"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-02-25T09:00:14Z",
+  "date_available": "2014-02-25T09:00:14Z",
+  "date_issued": "2014-02-24",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Current and emerging large-scale networks, for example the current Internet and the future Internet of Things, target supporting billions of networked entities to provide a wide variety of services and resources. Such complexity results in network-data from different sources with special characteristics, such as widely diverse users and services, multiple media (e.g., text, audio, video, etc.), high-dimensionality (i.e., large sets of attributes) and various dynamic concerns (e.g., time-sensitive data). With huge amounts of network data with such characteristics, there are significant challenges to a) recognize emergent and anomalous behavior in network traffic and b) make intelligent decisions for efficient and effective network operations.   Fortunately, numerous analyses of Internet traffic have demonstrated that network traffic data exhibit multi-dimensional patterns that can be learned in order to enable discovery of data semantics. We claim that extracting and managing network semantics from traffic patterns and building conceptual models to be accessed on-demand would help in mitigating the aforementioned challenges. The current Internet, contemporary networking architectures and current tools for managing large network-data largely lack capabilities to 1) represent, manage and utilize the wealth of multi-dimensional traffic data patterns; 2) extract network semantics to support Internet intelligence through efficiently building conceptual models of Internet entities at different levels of granularity; and 3) predict future events (e.g., attacks) and behaviors (e.g., QoS of unfamiliar services) based on learned semantics. We depict the limited utilization of traffic semantics in networking operations as the “Internet Semantics Gap (ISG)”.   We hypothesize that endowing the Internet and next generation networks with a “memory” system that provides data and semantics management would help resolve the ISG and enable “Internet Intelligence”. We seek to enable networked entities, at runtime and on-demand, to systematically: 1) learn and retrieve network semantics at different levels of granularity related to various Internet elements (e.g., services, protocols, resources, etc.); and 2) utilize extracted semantics to improve network operations and services in various aspects ranging from performance, to quality of service, to security and resilience.   In this dissertation, we propose a distributed network memory management system, termed NetMem, for Internet intelligence. NetMem design is inspired by the functionalities of human memory to efficiently store Internet data and extract and utilize traffic data semantics in matching and prediction processes, and building dynamic network-concept ontology (DNCO) at different levels of granularity. The DNCO provides dynamic behavior models for various Internet elements. Analogous to human memory functionalities, NetMem has a memory system structure comprising short-term memory (StM) and long-term memory (LtM). StM maintains highly dynamic network data or data semantics with lower levels of abstraction for short time, while LtM keeps for long time slower varying semantics with higher levels of abstraction. Maintained data in NetMem can be accessed and learned at runtime and on-demand.   From a system’s perspective, NetMem can be viewed as an overlay network of distributed “memory” agents, called NMemAgents, located at multiple levels targeting different levels of data abstraction and scalable operation. Our main contributions are as follows:   • Biologically-inspired customizable application-agnostic distributed network memory management system with efficient processes for extracting and classifying high-level features and reasoning about rich semantics in order to resolve the ISG and target Internet intelligence.   •Systematic methodology using monolithic and hybrid intelligence techniques for efficiently managing data semantics and building runtime-accessible dynamic ontology of correlated concept classes related to various Internet elements and at different levels of abstraction and granularity that would facilitate:   ▪︎ Predicting future events and learning about new services;   ▪︎ Recognizing and detecting of normal/abnormal and dynamic/emergent behavior of various Internet elements;   ▪︎ Satisfying QoS requirements with better utilization of resources.   We have evaluated the NetMem’s efficiency and effectiveness employing different semantics reasoning algorithms. We have evaluated NetMem operations over real Internet traffic data with and without using data dimensionality reduction techniques. We have demonstrated the scalability and efficiency of NetMem as a distributed multi-agent system using an analytical model. The effectiveness of NetMem has been evaluated through simulation using real offline data sets and also via the implementation of a small practical test-bed. Our results show the success of NetMem in learning and using data semantics for anomaly detection and enhancement of QoS satisfaction of running services.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-25T09:00:14Z (GMT). No. of bitstreams: 1  Mokhtar_BM_D_2014.pdf: 7806124 bytes, checksum: eff8f780fd0d5416839ad17d7cb7a870 (MD5)    Previous issue date: 2014-02-24",
+  "format_medium": "ETD",
+  "handle": "25529",
+  "identifier_other": "vt_gsexam:2230",
+  "identifier_uri": "http://hdl.handle.net/10919/25529",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Network Semantics",
+    "Biologically-inspired Networking",
+    "Network Intelligence",
+    "Network Management",
+    "Memory"
+  ],
+  "title": "Biologically-inspired Network Memory System for Smarter Networking",
+  "type": "Dissertation"
+}

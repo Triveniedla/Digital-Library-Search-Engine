@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Pickle, Stephanie M",
+  "contributor_committeechair": "Birch, Jeffrey B.",
+  "contributor_committeecochair": "Robinson, Timothy J.",
+  "contributor_committeemember": [
+    "Spitzner, Dan J.",
+    "Prins, Samantha C. Bates",
+    "Vining, G. Geoffrey"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "2006-09-14",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "2006-06-28",
+  "date_rdate": "2009-09-14",
+  "date_sdate": "2006-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Many industrial statisticians employ the techniques of Response Surface Methodology (RSM) to study and optimize products and processes.  A second-order Taylor series approximation is commonly utilized to model the data; however, parametric models are not always adequate.  In these situations, any degree of model misspecification may result in serious bias of the estimated response.  Nonparametric methods have been suggested as an alternative as they can capture structure in the data that a misspecified parametric model cannot.  Yet nonparametric fits may be highly variable especially in small sample settings which are common in RSM.  Therefore, semiparametric regression techniques are proposed for use in the RSM setting.  These methods will be applied to an elementary RSM problem as well as the robust parameter design problem.",
+  "description_provenance": [
+    "Author Email: spickle@vt.edu",
+    "Advisor Email: dan.spitzner@vt.edu",
+    "Advisor Email: sbates@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: tjrobin@uwyo.edu",
+    "Advisor Email: vining@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 1 SMPickle_Dissertation.pdf: 657337 bytes, checksum: 6b1af5aeae024257beb618c1119bfce5 (MD5)   Previous issue date: 2006-06-28"
+  ],
+  "handle": "28517",
+  "identifier_other": "etd-08042006-075722",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08042006-075722/",
+  "identifier_uri": "http://hdl.handle.net/10919/28517",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SMPickle_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Genetic Algorithm",
+    "Response Surface Methodology",
+    "Semiparametric Regression",
+    "Robust Parameter Design"
+  ],
+  "title": "Semiparametric Techniques for Response Surface Methodology",
+  "type": "Dissertation"
+}

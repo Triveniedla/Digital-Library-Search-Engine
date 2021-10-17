@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Deng, Shengfu",
+  "contributor_committeechair": "Sun, Shu-Ming",
+  "contributor_committeemember": [
+    "Renardy, Michael J.",
+    "Russell, David L.",
+    "Kim, Jong Uhn"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:51Z",
+  "date_adate": "2008-07-18",
+  "date_available": "2014-03-14T20:13:51Z",
+  "date_issued": "2008-06-30",
+  "date_rdate": "2008-07-18",
+  "date_sdate": "2008-07-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Three-dimensional gravity-capillary steady waves on water of finite-depth, which are uniformly translating in a horizontal propagation direction and periodic in a transverse direction, are considered. The exact Euler equations are formulated as a spatial dynamic system in which the variable used for the propagating direction is the time-like variable. The existence of the solutions of the system is determined by two non-dimensional constants: the Bond number b and Î» (the inverse of the square of the Froude number). The property of Sobolev spaces and the spectral analysis show that the spectrum of the linear part consists of isolated eigenvalues of finite algebraic multiplicity and the number of purely imaginary eigenvalues are finite. The distribution of eigenvalues is described by b and Î». Assume that C<sub>1</sub> is the curve in (b,Î»)-plane on which the first two eigenvalues for three-dimensional waves collide at the imaginary axis, and that the intersection point of the curve C<sub>1</sub> with the line Î»=1 is (b<sub>0</sub>,1) where b<sub>0</sub>>0. Two cases (b<sub>0</sub>,1) and (b,Î») â   C<sub>1</sub> where 0< b< b<sub>0</sub> are investigated. A center-manifold reduction technique and a normal form analysis are applied to show that for each case the dynamical system can be reduced to a system of ordinary differential equations with finite dimensions. The dominant system for the case (b<sub>0</sub>,1) is coupled SchrÃ¶dinger-KdV equations while it is a SchrÃ¶dinger equation for another case (b,Î») â   C<sub>1</sub>. Then, from the existence of the homoclinic orbit connecting to the two-dimensional periodic solution (called generalized solitary wave) for the dominant system, it is obtained that such generalized solitary wave solution persists for the original system by using the perturbation method and adjusting some appropriate constants.",
+  "description_provenance": [
+    "Author Email: sfdeng@vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Advisor Email: russell@math.vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: kim@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:51Z (GMT). No. of bitstreams: 1 DSF-thesis-5.pdf: 892401 bytes, checksum: 0e372162e45beafd57612d43b09feab8 (MD5)   Previous issue date: 2008-06-30"
+  ],
+  "handle": "28254",
+  "identifier_other": "etd-07102008-135733",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07102008-135733/",
+  "identifier_uri": "http://hdl.handle.net/10919/28254",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DSF-thesis-5.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "periodic orbits",
+    "three-dimensional solitary wave",
+    "center manifolds",
+    "homoclinic orbits",
+    "coupled SchrÃ¶dinger-KdV equations",
+    "KdV equation",
+    "normal form"
+  ],
+  "title": "A Spatial Dynamic Approach to Three-Dimensional Gravity-Capillary Water Waves",
+  "type": "Dissertation"
+}

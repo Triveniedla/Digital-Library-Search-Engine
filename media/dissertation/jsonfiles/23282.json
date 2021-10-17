@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Liu, Shaobin",
+  "contributor_committeechair": "Canfield, Robert Arthur",
+  "contributor_committeemember": [
+    "Hajj, Muhammad R",
+    "Kapania, Rakesh K",
+    "Roy, Christopher John",
+    "Patil, Mayuresh J"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-06-29T08:00:17Z",
+  "date_available": "2013-06-29T08:00:17Z",
+  "date_issued": "2013-06-28",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In this dissertation, a continuum sensitivity method is developed for efficient and accurate computation of design derivatives for nonlinear aeroelastic structures subject to transient<br />aerodynamic loads. The continuum sensitivity equations (CSE) are a set of linear partial<br />differential equations (PDEs) obtained by differentiating the original governing equations of<br />the physical system. The linear CSEs may be solved by using the same numerical method<br />used for the original analysis problem. The material (total) derivative, the local (partial)<br />derivative, and their relationship is introduced for shape sensitivity analysis. The CSEs are<br />often posed in terms of local derivatives (local form) for fluid applications and in terms of total<br />derivatives (total form) for structural applications. The local form CSE avoids computing<br />mesh sensitivity throughout the domain, as required by discrete analytic sensitivity methods.<br />The application of local form CSEs to built-up structures is investigated. The difficulty<br />of implementing local form CSEs for built-up structures due to the discontinuity of local<br />sensitivity variables is pointed out and a special treatment is introduced. The application<br />of the local form and the total form CSE methods to aeroelastic problems are compared.<br />Their advantages and disadvantages are discussed, based on their derivations, efficiency,<br />and accuracy. Under certain conditions, the total form continuum method is shown to be<br />equivalent to the analytic discrete method, after discretization, for systems governed by a<br />general second-order PDE. The advantage of the continuum sensitivity method is that less<br />information of the source code of the analysis solver is required. Verification examples are<br />solved for shape sensitivity of elastic, fluid and aeroelastic problems.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-29T08:00:17Z (GMT). No. of bitstreams: 1 Liu_S_D_2013.pdf: 12850389 bytes, checksum: 6037d2e1595edee24af861984fbeb2bf (MD5)   Previous issue date: 2013-06-28",
+  "format_medium": "ETD",
+  "handle": "23282",
+  "identifier_other": "vt_gsexam:1344",
+  "identifier_uri": "http://hdl.handle.net/10919/23282",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Continuum Sensitivity",
+    "Shape Sensitivity",
+    "Aeroelasticity",
+    "Optimization",
+    "Fluid-structure interaction"
+  ],
+  "title": "Continuum Sensitivity Method for Nonlinear Dynamic Aeroelasticity",
+  "type": "Dissertation"
+}

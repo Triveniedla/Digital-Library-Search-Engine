@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Hu, Guangchu",
+  "contributor_committeechair": "Grossman, Bernard M.",
+  "contributor_committeemember": [
+    "Walters, Robert W.",
+    "Mason, William H.",
+    "Steinhoff, John",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "2001-08-24",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "2001-06-08",
+  "date_rdate": "2002-08-24",
+  "date_sdate": "2001-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An accurate and efficient numerical method for Compressible Vorticity Confinement (CVC) was developed. The methodology follows from Steinhoff's vorticity confinement approach that was developed for incompressible flows. In this research, the extension of this approach to compressible flows has been developed by adding a vorticity confinement term as a \"body force\" into the governing compressible flow equations. This vorticity confinement term tends to cancel the numerical dissipative errors inherently related to the numerical discretization in regions of strong vorticity gradients.  <p> The accuracy, reliability, efficiency and robustness of this method were investigated using two methods. One approach is directly applying the CVC method to several real engineering problems involving complex vortex structures and assessing the accuracy by comparison with existing experimental data and with other computational techniques. Examples considered include supersonic conical flows over delta wings, shock-bubble and shock-vortex interactions, the turbulent flow around a square cylinder and the turbulent flow past a surface-mounted 3D cube in a channel floor. A second approach for evaluating the effectiveness of the CVC method is by solving simplified \"model problems\" and comparing with exact solutions. Problems that we have considered are a two-dimensional supersonic shear layer, flow over a flat plate and a two-dimensional vortex moving in a uniform stream.  <p> The effectiveness of the compressible confinement method for flows with shock waves and vortices was evaluated on several complex flow applications. The supersonic flow over a delta wing at high angle of attack produces a leeward vortex separated from the wing and cross flow, as well as bow shock waves. The vorticity confinement solutions compare very favorably with experimental data and with other calculations performed on dense, locally refined grids. Other cases evaluated include isolated shock-bubble and shock-vortex interactions. The resulting complex, unsteady flow structures compare very favorably with experimental data and computations using higher-order methods and highly adaptive meshes.  <P> Two cases involving massive flow separation were considered. First the two-dimensional flow over a square cylinder was considered. The CVC method was applied to this problem using the confinement term added to the inviscid formulation, but with the no-slip condition enforced. This produced an unsteady separated flow that agreed well with experimental data and existing LES and RANS calculations. The next case described is the flow over a cubic protuberance on the floor of a channel. This flow field has a very complex flow structure involving a horseshoe vortex, a primary separation vortex and secondary corner vortices. The computational flow structures and velocity profiles were in good agreement with time-averaged values of the experimental data and with LES simulations, even though the confinement approach utilized more than a factor of 50 fewer cells (about 20,000 compared to over 1 million).  <p> In order to better understand the applicability and limitations of the vorticity confinement, particularly the compressible formulation, we have considered several simple model problems. Classical accuracy has been evaluated using a supersonic shear layer problem computed on several grids and over a range of values of confinement parameter. The flow over a flat plate was utilized to study how vorticity confinement can serve as a crude turbulent boundary layer model. Then we utilized numerical experiments with a single vortex in order to evaluate a number of consistency issues related to the numerical implementation of compressible confinement.",
+  "description_provenance": [
+    "Author Email: guhu@vt.edu",
+    "Advisor Email: walters@aoe.vt.edu",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 1 dissertation.pdf: 3751130 bytes, checksum: 786a296e016b386b3b36be6c9b372db3 (MD5)   Previous issue date: 2001-06-08"
+  ],
+  "handle": "28516",
+  "identifier_other": "etd-08042001-122806",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08042001-122806/",
+  "identifier_uri": "http://hdl.handle.net/10919/28516",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Vortex-Dominant Flows",
+    "Vorticity Confinement",
+    "CFD"
+  ],
+  "title": "The Development and Applications of a  Numerical Method for Compressible Vorticity Confinement in Vortex-Dominant Flows",
+  "type": "Dissertation"
+}

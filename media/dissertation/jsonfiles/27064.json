@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Howarth, Jonathan Randall",
+  "contributor_committeechair": "Hartson, H. Rex",
+  "contributor_committeemember": [
+    "Smith-Jackson, Tonya L.",
+    "Andre, Terence",
+    "Kavanaugh, Andrea L.",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:10:14Z",
+  "date_adate": "2007-04-24",
+  "date_available": "2014-03-14T20:10:14Z",
+  "date_issued": "2007-04-13",
+  "date_rdate": "2007-04-24",
+  "date_sdate": "2007-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The usability of an application often plays an important role in determining its success. Accordingly, organizations that develop software have realized the need to integrate usability engineering into their development lifecycles. Although usability practitioners have successfully applied usability engineering processes to increase the usability of user-interaction designs, the literature suggests that usability practitioners experience a number of difficulties that negatively impact their effectiveness. These difficulties include identifying and recording critical usability data, understanding and relating usability data, and communicating usability information. These difficulties are particularly pronounced for novice usability practitioners.   With this dissertation, I explored approaches to address these difficulties through tool support for novice usability practitioners. Through an analysis of features provided by existing tools with respect to documented difficulties, I determined a set of desirable tool features including usability problem instance records, usability problem diagnosis, and a structured process for combining and associating usability problem data. I developed a usability engineering tool, the Data Collection, Analysis, and Reporting Tool (DCART), which contains these desirable tool features, and used it as a platform for studies of how these desirable features address the documented difficulties.   The results of the studies suggest that appropriate tool support can improve the effectiveness with which novice usability practitioners perform usability evaluations. More specifically, tool support for usability problem instance records helped novice usability practitioners more reliably identify and better describe instances of usability problems experienced by participants. Additionally, tool support for a structured process for combining and associating usability data helped novice usability practitioners create usability evaluation reports that were of higher quality as rated by usability practitioners and developers.   The results highlight key contributions of this dissertation, showing how tools can support usability practitioners. They demonstrate the value of a structured process for transforming raw usability data into usability information based on usability problem instances. Additionally, they show that appropriate tool support is a mechanism for further integrating usability engineering into the overall software development lifecycle; tool support addresses the documented need for more usability practitioners by helping novices perform more like experts.",
+  "description_provenance": [
+    "Author Email: jhowarth@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: hartson@vt.edu",
+    "Advisor Email: Terence.Andre@USAFA.af.mil",
+    "Advisor Email: kavan@vt.edu",
+    "Advisor Email: perez@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:14Z (GMT). No. of bitstreams: 1  JonathanRHowarthDissertation.pdf: 2517148 bytes, checksum: 1cc4777bfacf1f16d3a4016f48cf88f0 (MD5)    Previous issue date: 2007-04-13"
+  ],
+  "handle": "27064",
+  "identifier_other": "etd-04202007-141645",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202007-141645/",
+  "identifier_uri": "http://hdl.handle.net/10919/27064",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JonathanRHowarthDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "usability problem instances",
+    "usability evaluation",
+    "usability engineering tool support",
+    "usability engineering"
+  ],
+  "title": "Supporting Novice Usability Practitioners with Usability Engineering Tools",
+  "type": "Dissertation"
+}

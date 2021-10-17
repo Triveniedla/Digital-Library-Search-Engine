@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Sirisukprasert, Siriroj",
+  "contributor_committeecochair": [
+    "Lai, Jason",
+    "Huang, Alex Q."
+  ],
+  "contributor_committeemember": [
+    "van Wyk, Jacobus Daniel",
+    "Liu, Yilu",
+    "Klaus, Martin"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:00:19Z",
+  "date_adate": "2004-04-23",
+  "date_available": "2011-08-22T19:00:19Z",
+  "date_issued": "2004-04-05",
+  "date_rdate": "2004-04-23",
+  "date_sdate": "2004-04-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is dedicated to a comprehensive study of static synchronous compensator (STATCOM) systems utilizing cascaded-multilevel converters (CMCs). Among flexible AC transmission system (FACTS) controllers, the STATCOM has shown feasibility in terms of cost-effectiveness in a wide range of problem-solving abilities from transmission to distribution levels. Referring to the literature reviews, the CMC with separated DC capacitors is clearly the most feasible topology for use as a power converter in the STATCOM applications. The controls for the CMC-based STATCOM were, however, very complicated. The intricate control design was begun without well-defined system transfer functions. The control compensators were, therefore, randomly selected. The stability of the system was achieved by trial and error processes, which were time-consuming and ineffective. To be able to operate in a high-voltage application, a large number of DC capacitors are utilized in a CMC-based STATCOM. All DC capacitor voltages must be balanced in order to avoid over-voltages on any particular link. Not only do these uneven DC voltages introduce voltage stress on the semiconductor switches, but they also lower the quality of the synthesized output waveforms of the converter. Previous researches into DC capacitor voltage-balancing techniques were very straightforward, in that individual voltage compensators were added into the main control loop. However, the compensator design for these individual loops is very problematic because of the complexity of the voltage-loop transfer functions. Basically, the trial and error technique again provides the simplest way to achieve acceptable compensators. Moreover, the greater number of voltage levels, the more complex the control design, and the main controller must perform all of the feedback control procedures. As a result, this approach potentially reduces the reliability of the controller.  The goal of this dissertation is to achieve high-performance, reliable, flexible, cost-effective power stages and controllers for the CMC-based STATCOM. Major contributions are addressed as follows: 1) optimized design for the CMC-based STATCOM power stages and passive components, 2) accurate models of the CMC for reactive power compensations in both ABC and DQ0 coordinates, 3) an effective decoupling power control technique, 4) DC-link balancing strategies; and 5) improvements in the CMC topology. To enhance the modularity and output voltage of the CMC, the high-switching-frequency, high-power H-bridge building block (HBBB) and the optimized design for its power stage and snubber circuits are first proposed. The high-switching-frequency feature is achieved by utilizing the Virginia Tech-patented emitter turn-off (ETO) thyristor. Three high-power HBBB prototypes were implemented, and their performance was experimentally verified. To simplify the control system design, well-defined models of the CMC in both ABC and DQ0 coordinates are proposed. The proposed models are for the CMC with any number of voltage levels. The key system transfer functions are achieved and used in the control design processes. To achieve independent power control capability, the control technique, called the decoupling power control, is proposed. By applying this control technique, real and reactive power components can be controlled separately.  In order to balance the DC capacitor voltages, a new, effective pulse width modulation (PWM) technique, which is suitable for any number of H-bridge converters, is proposed. The proposed cascaded PWM algorithm can be practically realized into the field programmable gate arrays (FPGA), and its complexity is not affected by the number of voltage levels. In addition, the complexity of the main controller, which is essentially based on the digital signal processor (DSP), is no longer a function of the number of the output voltage levels. The basic structure of the cascaded PWM is modular, which, in general, enhances the modularity of the CMC power stages.  With the combination of the decoupling power control and the cascaded PWM, a CMC with any number of voltage levels can be simply modeled as a three-level cascaded converter, which is the simplest topology to deal with. This significantly simplifies and optimizes the control design process. To verify the accuracy of the proposed models and the performance of the control system for the CMC-based STATCOM, a low-power, seven-level cascaded-based STATCOM hardware prototype is implemented. The key control procedures are performed by a main controller, which consists of a DSP and an FPGA. The simulation and experimental results indicate the superior performance of the proposed control system, as well as the precision of the proposed models.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:19Z (GMT). No. of bitstreams: 2  sirirojdissertation.pdf: 4404832 bytes, checksum: 001296f02e8a21569d41eb2e894e41ea (MD5)  sirirojchapter5.pdf: 3142547 bytes, checksum: f65ddb7cf7b5646977b1074efbd795ad (MD5)    Previous issue date: 2004-04-05",
+    "Author Email: ssirisuk@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: mklaus@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11142",
+  "identifier_other": "etd-04212004-152319",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04212004-152319",
+  "identifier_uri": "http://hdl.handle.net/10919/11142",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "sirirojchapter5.pdf",
+    "sirirojdissertation.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "FACTS",
+    "STATCOM",
+    "Cascaded multilevel converters",
+    "multilevel voltage source converters"
+  ],
+  "title": "The Modeling and Control of a Cascaded-Multilevel Converter-Based STATCOM",
+  "type": "Dissertation"
+}

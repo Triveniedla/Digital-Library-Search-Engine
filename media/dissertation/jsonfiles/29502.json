@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Bhatia, Vikram",
+  "contributor_committeechair": "Murphy, Kent A.",
+  "contributor_committeemember": [
+    "Besieris, Ioannis M.",
+    "Claus, Richard O.",
+    "Jacobs, Ira"
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:18:20Z",
+  "date_adate": "2006-11-08",
+  "date_available": "2014-03-14T20:18:20Z",
+  "date_issued": "1996-11-06",
+  "date_rdate": "2006-11-08",
+  "date_sdate": "2006-11-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A long-period grating is obtained by introducing a periodic refractive index modulation in the core of a hydrogen-sensitized germanosilicate fiber. The phase-matching condition causes light from the fundamental guided mode to couple to discrete, forward-propagating cladding modes. These cladding modes attenuate rapidly on propagation and result in loss bands at distinct wavelengths in the grating transmission spectrum. We present a comprehensive analysis of the spectral modulation provided by long-period  gratings. An analytical model is developed to predict the location of the resonance bands as functions of the grating period and the parameters of the host fiber. These gratings with small insertion loss and negligible back-ret1ection are shown to possess two different regions of operation, namely, normal and anomalous. The fabrication and high temperature  annealing of these devices is detailed, and a novel method to obtain these  gratings without employing ultra-violet radiation is presented.  Long-period gratings are proposed as simple yet versatile optical fiber sensors. It is demonstrated that external temperature and axial strain introduce large spectral shifts in the resonance bands. A theoretical evaluation of the sensitivity reveals a strong dependence on the properties of the optical fiber, the grating periodicity, the order of the cladding mode, the writing and annealing conditions, and the index of refraction of the  surrounding medium. Temperature-insensitive and strain-insensitive long-period gratings written in standard optical fibers are studied for their sensing characteristics. Long period grating-based refractive index sensors are obtained without etching the cladding of the fiber. It is demonstrated that long-period grating sensors can be implemented with simple demodulation schemes. Applications of these devices to structural health monitoring and biochemical sensing are presented. Finally, long-period gratings are  demonstrated as effective sensors that can be used to separate  temperature and axial strain acting simultaneously on the fiber. Strain-insensitive gratings are used to extend the dynamic range of the system in the presence of non-linearities and cross-sensitivities.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:18:20Z (GMT). No. of bitstreams: 1  LD5655.V856_1996.B478.pdf: 13874436 bytes, checksum: 7144fc4703d0554f28a046b078f805ec (MD5)    Previous issue date: 1996-11-06",
+  "format_medium": "BTD",
+  "handle": "29502",
+  "identifier_other": "etd-11082006-133634",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11082006-133634/",
+  "identifier_uri": "http://hdl.handle.net/10919/29502",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1996.B478.pdf",
+  "subject": [
+    "temperature sensor",
+    "long-period gratings",
+    "optical fibers sensors",
+    "strain sensor"
+  ],
+  "subject_lcc": "LD5655.V856 1996.B478",
+  "title": "Properties and sensing applications of long-period gratings",
+  "type": "Dissertation"
+}

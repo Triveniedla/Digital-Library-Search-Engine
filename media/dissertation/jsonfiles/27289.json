@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Valyrakis, Manousos",
+  "contributor_committeechair": "Diplas, Panayiotis",
+  "contributor_committeecochair": "Dancey, Clinton L.",
+  "contributor_committeemember": [
+    "Schetz, Joseph A.",
+    "Ragab, Saad A.",
+    "Little, John C."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:10:50Z",
+  "date_adate": "2011-05-11",
+  "date_available": "2014-03-14T20:10:50Z",
+  "date_issued": "2011-02-04",
+  "date_rdate": "2012-11-13",
+  "date_sdate": "2011-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this thesis is to investigate the flow conditions that lead to coarse grain entrainment at near incipient motion conditions. Herein, a new conceptual approach is proposed, which in addition to the magnitude of hydrodynamic force or flow power, takes into account the duration of the flow event. Two criteria for inception of grain entrainment, namely the critical impulse and critical energy concepts, are proposed and compared. These frameworks adopt a force or energy perspective, considering the momentum or energy transfer from each flow event to the particle respectively, to describe the phenomenon.  <p> A series of conducted mobile particle experiments, are analyzed to examine the validity of the proposed approaches. First a set of bench-top experiments incorporates an electromagnet which applies pulses of known magnitude and duration to a steel spherical particle in a controlled fashion, so as to identify the critical level for entrainment. The utility of the above criteria is also demonstrated for the case of entrainment by the action of turbulent flow, via analysis of a series of flume experiments, where both the history of hydrodynamic forces exerted on the particle as well as its response are recorded simultaneously.  <p> Statistical modeling of the distribution of impulses, as well as conditional excess impulses, is performed using distributions from Extreme Value Theory to effectively model the episodic nature of the occurrence of these events. For the examined uniform and low mobility flow conditions, a power law relationship is proposed for describing the magnitude and frequency of occurrence of the impulse events. The Weibull and exponential distributions provide a good fit for the time between particle entrainments. In addition to these statistical tools, a number of Adaptive Neuro-Fuzzy Inference Systems employing different input representations are used to learn the nonlinear dynamics of the system and perform statistical prediction. The performance of these models is assessed in terms of their broad validity, efficiency and forecast accuracy.  Even though the impulse and energy criteria are deeply interrelated, the latter is shown to be advantageous with regard to its performance, applicability and extension ability. The effect of single or multiple highly energetic events carried by certain coherent flow structures (mainly strong sweep events) with regard to the particle response is also investigated.",
+  "description_provenance": [
+    "Author Email: mvalyrak@vt.edu",
+    "Advisor Email: pdiplas@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Advisor Email: jcl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:50Z (GMT). No. of bitstreams: 1 Valyrakis_MS_D_2011.pdf: 4490732 bytes, checksum: c720bc6bbcba50965826e76961fd8d4f (MD5)   Previous issue date: 2011-02-04"
+  ],
+  "handle": "27289",
+  "identifier_other": "etd-04252011-222556",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252011-222556/",
+  "identifier_uri": "http://hdl.handle.net/10919/27289",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Valyrakis_MS_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "extreme value theory",
+    "impulse and energy event based criteria",
+    "wavelet analysis",
+    "onset of particle entrainment",
+    "neuro-fuzzy inference systems",
+    "coherent flow structures"
+  ],
+  "title": "Initiation of Particle Movement in Turbulent Open Channel Flow",
+  "type": "Dissertation"
+}

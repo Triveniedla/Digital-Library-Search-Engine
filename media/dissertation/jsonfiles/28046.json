@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Guo, Sheng",
+  "contributor_committeechair": "Ramakrishnan, Naren",
+  "contributor_committeemember": [
+    "Fox, Edward Alan",
+    "Helm, Richard Frederick",
+    "Murali, T. M.",
+    "Zaki, Mohammed J."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:09Z",
+  "date_adate": "2012-06-18",
+  "date_available": "2014-03-14T20:13:09Z",
+  "date_issued": "2012-05-02",
+  "date_rdate": "2012-06-18",
+  "date_sdate": "2012-06-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the prevalence of large data stored in the cloud, including unstructured information in the form of text, there is now an increased emphasis on text mining. A broad range of techniques are now used for text mining, including algorithms adapted from machine learning, NLP, computational linguistics, and data mining. Applications are also multi-fold, including classification, clustering, segmentation, relationship discovery, and practically any task that discovers latent information from written natural language.  Classical mining algorithms have traditionally focused on shallow representations such as bag-of-words and similar feature-based models. With the advent of modern high performance computing, deep sentence level linguistic analysis of large scale text corpora has become practical. In this dissertation, we evaluate the utility of dependency parses as textual features for different text mining applications. Dependency parsing is one form of syntactic parsing, based on the dependency grammar implicit in sentences. While dependency parsing has traditionally been used for text understanding, we investigate here its application to supply features for text mining applications.  We specifically focus on three methods to construct textual features from dependency parses. First, we consider a dependency parse as a general feature akin to a traditional bag-of-words model. Second, we consider the dependency parse as the basis to build a feature graph representation. Finally, we use dependency parses in a supervised collocation mining method for feature selection. To investigate these three methods, several applications are studied, including: (i) movie spoiler detection, (ii) text segmentation, (iii) query expansion, and (iv) recommender systems.",
+  "description_provenance": [
+    "Author Email: guos@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: helmrf@vt.edu",
+    "Advisor Email: tmurali@vt.edu",
+    "Advisor Email: zaki@cs.rpi.edu",
+    "Made available in DSpace on 2014-03-14T20:13:09Z (GMT). No. of bitstreams: 1 Guo_Sheng_D_2012.pdf: 1611141 bytes, checksum: c4256c673776a82baaa7f813b3cccdc5 (MD5)   Previous issue date: 2012-05-02"
+  ],
+  "handle": "28046",
+  "identifier_other": "etd-06152012-070746",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06152012-070746/",
+  "identifier_uri": "http://hdl.handle.net/10919/28046",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Guo_Sheng_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dependency parsing",
+    "text mining",
+    "linguistic cues"
+  ],
+  "title": "Using Dependency Parses to Augment Feature Construction for Text Mining",
+  "type": "Dissertation"
+}

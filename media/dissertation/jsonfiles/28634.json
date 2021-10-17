@@ -1,0 +1,62 @@
+{
+  "contributor_author": "Davis, Douglas Bradley",
+  "contributor_committeechair": "Murray, Thomas M.",
+  "contributor_committeemember": [
+    "Setareh, Mehdi",
+    "Wicks, Alfred L.",
+    "Charney, Finley A.",
+    "Easterling, William Samuel"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:07Z",
+  "date_adate": "2008-09-11",
+  "date_available": "2014-03-14T20:15:07Z",
+  "date_issued": "2008-07-30",
+  "date_rdate": "2008-09-11",
+  "date_sdate": "2008-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Floor vibration serviceability is a primary design consideration for steel framed floors.  Designers in North America typically use the AISC Design Guide 11 methods to check this limit state, but its methods are difficult to apply to atypical floor framing.  Finite element analysis is a logical choice for predicting vibration response to walking, but simplified designer-friendly procedures are not available.  Three relatively simple, experimentally verified methods of predicting low frequency floor vibration due to walking are presented in this dissertation.  The methods are based on finite element analysis of the floor system, are applicable to a wide range of situations, and are intended to be no more complicated than is justified by the current ability to predict modal properties.  The first method is to predict the acceleration response using response history analysis with individual footstep forces as the loading function.  The second method also uses response history analysis to predict the acceleration waveform, but with a Fourier series representation of the load.  The third method is a simplified frequency domain method in which the predicted accelerance frequency response function is used to predict the steady-state response to walking which is reduced to account for incomplete resonant build-up.  A two year experimental program including three laboratory specimens, a four bay full-scale mockup, and two steel-framed building floors, was completed at Virginia Tech.  These floor systems represent a wide cross-section of the steel framed floor systems used in North America.  Modal tests were performed using an electrodynamic shaker and experimental modal analysis techniques were used to estimate the modal properties: natural frequencies, mode shapes, and damping ratios.  Responses to walking excitation were measured several times in each tested bay for individuals walking at subharmonics of natural frequencies.  During each test, the walker crossed the middle of the bay using a metronome to help maintain the intended cadence.  The test with maximum response represents the maximum peak acceleration that can be reasonably expected to occur due to a single walker.  The proposed methods were used, with measured damping ratios and walker weights, to predict the modal properties and responses to walking for comparison with measured values.  The methods were found to be reasonably accurate, contain significant data dispersion, and be on the conservative side.  The results of these comparisons were used to develop design recommendations, including reduction factors to account for the conservatism.  The design methods were used to predict the modal properties and responses to walking in a â  blindâ   manner using only information that would be available to a designer.  Comparisons of measurements and predictions were used to determine the accuracy of the proposed prediction methods, which were found to be sufficiently accurate for design usage.",
+  "description_provenance": [
+    "Author Email: dbdavis@vt.edu",
+    "Advisor Email: setareh@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: fcharney@vt.edu",
+    "Advisor Email: seaster@vt.edu",
+    "Advisor Email: thmurray@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:07Z (GMT). No. of bitstreams: 10 DavisChapter5.pdf: 350857 bytes, checksum: 0ddac1fd71631e8daa59a75fc05eb908 (MD5) DavisChapter6.pdf: 41771 bytes, checksum: 9d51fb6d0b0686b322cd11fbb266aa97 (MD5) DavisReferences.pdf: 18409 bytes, checksum: 9b6a0b49bad42ab5eee1bacdf62bf6f7 (MD5) DavisChapter0.pdf: 57782 bytes, checksum: c44c494d331a8a09346e8bea686acf9e (MD5) DavisAppendix.pdf: 255594 bytes, checksum: af9e99e0072a4747c4806b66376c6cae (MD5) DavisChapter2.pdf: 706791 bytes, checksum: bd3b76b7b1fc8a860c93e39d6a0e7033 (MD5) DavisChapter1.pdf: 55148 bytes, checksum: d472a10a89460ff888a75acc9b0c215e (MD5) Davis2008DesignFootsteps.pdf: 37011 bytes, checksum: 3a90535bf9c4af61edcda685a8544df0 (MD5) DavisChapter4.pdf: 2141954 bytes, checksum: 81ad93a49897186b32a52fe0d77a2599 (MD5) DavisChapter3.pdf: 416740 bytes, checksum: 587a1ce3ee1683b8a4ffa53680657e9c (MD5)   Previous issue date: 2008-07-30"
+  ],
+  "handle": "28634",
+  "identifier_other": "etd-08122008-202926",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122008-202926/",
+  "identifier_uri": "http://hdl.handle.net/10919/28634",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "DavisChapter5.pdf",
+    "DavisChapter6.pdf",
+    "DavisReferences.pdf",
+    "DavisChapter0.pdf",
+    "DavisAppendix.pdf",
+    "DavisChapter2.pdf",
+    "DavisChapter1.pdf",
+    "Davis2008DesignFootsteps.pdf",
+    "DavisChapter4.pdf",
+    "DavisChapter3.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "resonance",
+    "walking",
+    "serviceability",
+    "floor",
+    "vibration",
+    "fundamental frequency",
+    "damping",
+    "acceleration response",
+    "finite element",
+    "ground reaction force"
+  ],
+  "title": "Finite Element Modeling for Prediction of Low Frequency Floor Vibrations Due to Walking",
+  "type": "Dissertation"
+}

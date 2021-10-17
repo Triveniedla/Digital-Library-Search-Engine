@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Xiao, Kewei",
+  "contributor_committeechair": "Lu, Guo Quan",
+  "contributor_committeemember": [
+    "Ngo, Khai D",
+    "Aning, Alexander O",
+    "Pickrell, Gary R"
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-01-24T09:00:15Z",
+  "date_available": "2014-01-24T09:00:15Z",
+  "date_issued": "2014-01-23",
+  "degree_discipline": "Materials Science and Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The low-temperature joining technique (LTJT) by silver sintering is being implemented by major manufacturers of power electronics devices and modules for bonding power semiconductor chips. A common die-attach material used with LTJT is a silver paste consisting of silver powder (micron- or nano-size particles) mixed in organic solvent and binder formulation. It is believed that the drying of the paste during the bonding process plays a critical role in determining the quality of the sintered bond-line. In this study, a model based on the diffusion of solvent molecules and viscous mechanics of the paste was introduced to determine the stress and strain states of the silver bond-line. A numerical simulation algorithm of the model was developed and coded in the C++ programming language. The numerical simulation allows determination of the time-dependent physical properties of the silver bond-line as the paste is being dried with a heating profile. The properties studied were solvent concentration, weight loss, shrinkage, stress, and strain. The stress is the cause of cracks in the bond-line and bond-line delamination. The simulated results were verified by complementary experiments in which the formation of cracks in bond-line and interface delamination was observed during the pressure-free drying of a die-attach nanosilver paste. Furthermore, the important drying parameters, such as drying pressure, low temperature drying time and temperature ramp rate of nanosilver LTJT process, are experimentally studied and analyzed with the numerical simulation. The simulated results were consistent with the experimental findings that the quality of sintered silver bond-line increases with increasing external drying pressure, with increasing low temperature drying time, and with decreasing temperature ramp rate. The insight offered by this modeling study can be used to optimize the process profile that enable pressure-free, low-temperature sintering of the die-attach material to significantly lower the cost of implementing the LTJT in manufacturing.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-24T09:00:15Z (GMT). No. of bitstreams: 1 Xiao_K_D_2014.pdf: 5458914 bytes, checksum: d924fbfbd671ce1bf98fd70ce6f8f7eb (MD5)   Previous issue date: 2014-01-23",
+  "format_medium": "ETD",
+  "handle": "25137",
+  "identifier_other": "vt_gsexam:1831",
+  "identifier_uri": "http://hdl.handle.net/10919/25137",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "low-temperature joining",
+    "drying of silver paste",
+    "internal stress",
+    "bond-line defect formation"
+  ],
+  "title": "A diffusion-viscous analysis and experimental verification of the drying behavior in nanosilver-enabled low-temperature joining technique",
+  "type": "Dissertation"
+}

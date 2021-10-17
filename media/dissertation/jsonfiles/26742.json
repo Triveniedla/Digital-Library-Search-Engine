@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Dai, Yang",
+  "contributor_committeechair": "Meirovitch, Leonard",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Inman, Daniel J.",
+    "Liu, Yilu",
+    "Librescu, Liviu"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:09:16Z",
+  "date_adate": "2002-04-17",
+  "date_available": "2014-03-14T20:09:16Z",
+  "date_issued": "2002-04-04",
+  "date_rdate": "2003-04-17",
+  "date_sdate": "2002-04-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation studies the feedback control of the dynamic response of multi-story structures to seismic excitations.  The seismic excitations are represented by arbitrary unknown stochastic disturbances.  The research consists of modeling of the structure with a control system and a control design in the state space.  A combination of the extended Hamilton's principle and the Hierarchical Finite Element Method (HFEM) was used to derive the discrete differential equations of motion.  This method exhibits superior accuracy with fewer degrees of freedom (DOF).  The discrete equation were realized in the state space, where the Multiple Channel Control (MCC) model, the Single Channel Control (SCC) model and the Special Single Channel Control (SSCC) model were proposed.  The MCC model is a general multiple input/multiple output (MIMO) dynamic system; the SSCC model is a single input/multiple output (SIMO) dynamic system; which requires only one actuator acting on the base; the SCC model has duality.  On one hand, the system can be classified as MIMO when control actuators are regarded as the input.  On the other hand, it can be regarded as a SIMO system when control signal as the input.    Moreover, three different types of control methodologies, the Linear Quadratic Gaussian (LQG) control, the Disturbance Accommodating Control (DAC), and the hybrid LQG/DAC approaches, were successfully developed to actively mitigate the vibration of the multi-story structures subjected to the seismic disturbance.  In addition, the Kalman filter was used as an optimal observer to estimate the state of the system in the LQG and the LQG/DAC design.  Finally a numerical simulation of a four-story structure was carried out under nine cases.  The cases covered various combinations of the three models and the three control designs to verify the effectiveness of control technique developed in this study.  The simulation results found were quite encouraging.  The results show each combination has its preponderance corresponding to special priority.  In general, the hybrid LQG/DAC control in conjunction with the SSCC model is the best choice.",
+  "description_provenance": [
+    "Author Email: yangdai@yahoo.com",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: librescu@vt.edu",
+    "Advisor Email: lmeirovi@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:16Z (GMT). No. of bitstreams: 1 YDai_Dissertation.pdf: 1541942 bytes, checksum: c26c1edfcf7172a75ceda6996cf3e34a (MD5)   Previous issue date: 2002-04-04"
+  ],
+  "handle": "26742",
+  "identifier_other": "etd-04102002-155024",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04102002-155024/",
+  "identifier_uri": "http://hdl.handle.net/10919/26742",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "YDai_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "FEA",
+    "Vibration",
+    "Active Control"
+  ],
+  "title": "Feedback Control of Multi-Story Structures under Seismic Excitations",
+  "type": "Dissertation"
+}

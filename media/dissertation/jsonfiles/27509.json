@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Tsai, Jiann-An",
+  "contributor_committeechair": "Woerner, Brian D.",
+  "contributor_committeecochair": "Buehrer, Richard Michael",
+  "contributor_committeemember": [
+    "Stutzman, Warren L.",
+    "Shaw, John Kenneth",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:28Z",
+  "date_adate": "2002-05-03",
+  "date_available": "2014-03-14T20:11:28Z",
+  "date_issued": "2002-05-02",
+  "date_rdate": "2003-05-03",
+  "date_sdate": "2002-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There is increasing interest in the exploitation of multiple-input and multiple-output (MIMO) channels to enhance the capacity of wireless systems.  In this study, we develop and evaluate a channel model,  evaluate the corresponding channel capacity, and design and analyze a simple orthogonal transmit waveform for MIMO channels in mobile radio environments.  We also evaluate the system performance of various interference cancellation techniques when employing multiple-receive antenna in interference-limited systems.   The first part of this dissertation presents two major contributions to MIMO systems. The analytical expression for space-time MIMO channel correlation is derived for a Rayleigh fading channel.  The information-theoretic channel capacity based on this correlation is also evaluated for a wide variety of mobile radio channels.  The second part of this dissertation presents two major contributions to the area of orthogonal waveform design. We analyze the bit-error-rate (BER) performance of a proposed space-time orthogonal waveform for MIMO mobile radio communications.  The application of the proposed space-time orthogonal waveform to a conventional cellular system is also evaluated and briefly discussed.  Finally,  this dissertation investigates a number of interference cancellation techniques for multiple-receive antenna systems. Both adaptive beamforming and multiuser detection are evaluated for various signal waveforms over a variety of mobile radio channels.",
+  "description_provenance": [
+    "Author Email: jtsai@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: shaw@calvin.math.vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:28Z (GMT). No. of bitstreams: 1 Tsai_dissert_final.pdf: 4158898 bytes, checksum: 667d2caaee13148529ecf98aa1aff3e5 (MD5)   Previous issue date: 2002-05-02"
+  ],
+  "handle": "27509",
+  "identifier_other": "etd-05032002-000335",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032002-000335/",
+  "identifier_uri": "http://hdl.handle.net/10919/27509",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Tsai_dissert_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Space-Time Diversity",
+    "Adaptive Antenna Arrays",
+    "Interference Cancellation",
+    "Wireless Communications",
+    "MIMO"
+  ],
+  "title": "Combined Space-Time Diversity and Interference Cancellation for MIMO Wireless Systems",
+  "type": "Dissertation"
+}

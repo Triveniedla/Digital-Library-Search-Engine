@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Camphouse, R. Chris",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeecochair": "Cliff, Eugene M.",
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "King, Belinda B.",
+    "Borggaard, Jeffrey T.",
+    "Hagedorn, George A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:08Z",
+  "date_adate": "2001-08-15",
+  "date_available": "2014-03-14T20:15:08Z",
+  "date_issued": "2001-07-10",
+  "date_rdate": "2002-08-15",
+  "date_sdate": "2001-08-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The chemical oxygen-iodine laser (COIL) has several important military and industrial applications.  The concern of this work is do develop a partial differential equation model describing optical behavior in the COIL.  Optical behavior of the COIL has traditionally been investigated via a ray tracing method.  Photons are represented as discrete particles, and their behavior is described by the geometry of the system.  We develop an optical model wherein photons have a wave description.  In order to construct the mathematical model, we utilize the theory of paraxial wave optics and Gaussian beams.  Doing so allows us to incorporate physical effects such as diffusion/diffraction and refraction into the model.  After describing the optical model, we present numerical methods for obtaining approximate solutions to the model in the cases of one and two transverse directions. Results are presented illustrating the efficacy of the numerical methods.",
+  "description_provenance": [
+    "Author Email: rcamphou@icam.vt.edu",
+    "Advisor Email: rogers@icam.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Advisor Email: bbking@icam.vt.edu",
+    "Advisor Email: borggajt@icam.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:08Z (GMT). No. of bitstreams: 1 etd.pdf: 4560502 bytes, checksum: 0c6058e86b06632b41b894d6e8cac56e (MD5)   Previous issue date: 2001-07-10"
+  ],
+  "handle": "28640",
+  "identifier_other": "etd-08132001-112248",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08132001-112248/",
+  "identifier_uri": "http://hdl.handle.net/10919/28640",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Numerical Techniques",
+    "Crank-Nicholson"
+  ],
+  "title": "Modeling and Numerical Approximations of Optical Activity in the Chemical Oxygen-Iodine Laser",
+  "type": "Dissertation"
+}

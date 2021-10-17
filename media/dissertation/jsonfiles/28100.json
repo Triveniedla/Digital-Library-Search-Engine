@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Zhang, Bing",
+  "contributor_committeechair": "Wang, Linbing",
+  "contributor_committeemember": [
+    "Duncan, James Michael",
+    "Lesko, John J.",
+    "Gutierrez, Marte S.",
+    "Flintsch, Gerardo W."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:27Z",
+  "date_adate": "2007-06-27",
+  "date_available": "2014-03-14T20:13:27Z",
+  "date_issued": "2007-05-14",
+  "date_rdate": "2007-06-27",
+  "date_sdate": "2007-06-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Characterization of composite materials, such as Asphalt Concrete (AC) and other engineering materials is required to provide data for design and construction. This is usually carried out through various performance tests, which are always time consuming for specimen preparation, equipment calibration and test setting up. For materials with time- and temperature-dependent properties, this procedure requires fabrication of a large number of specimens in order to get reasonably comprehensive results. Furthermore, for materials that consist of phases with significant differences in properties, macroscopic homogeneous assumption or microscopic statistic approximation will lead to complex correction schemes. This will add complexity in material characterization. On the other hand, the homogeneity based interpretation of test results makes it difficult to understand the interaction between different components. The objective of this research is to develop a numerical testing method for material characterization based on x-ray tomography and finite element method. The introduction of tomography technology, such as x-ray tomography into engineering field makes it possible to obtain material microstructure without disturbing the phase configuration. Along with the development of image analysis technology, image data can be manipulated to obtain digitalized sample reconstruction and to build finite element geometric model. Based on well developed material models that sufficiently capture the essential behavior of individual material component, we developed a framework of numerical tests for characterization of composite material. The geometric model imports the microstructural data of the sample, the configuration of aggregates, voids and flakes, through x-ray tomography and image processing. The voids distribution as well as density variation was quantified to verify the model microscopic characteristics. FORTRAN programs were developed to automatically achieve data transfer and model generation, e.g. boundary identification and ABAQUS simulation model generation. Material model was studied and selected for different material components. Viscoplastic material models were evaluated and calibrated in ABAQUS. Monotonic loading and repeated loading were considered in the study to validate the model for most characterization needs. The digital model was validated through small sample tests and was implemented and used in various material characterizations. For the wood panel characterization, the anisotropic elastic properties were studied while the viscous and plastic responses were studied for asphalt concrete. Factors affecting the accuracy and the limitations of the application were determined. It is worth noting that further advance and data collection will make the calibration of material model more accurate. Nevertheless, the work can be extended to other regimes, such as high speed impact especially where the actual testing is complicated to setup.",
+  "description_provenance": [
+    "Author Email: bzh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:27Z (GMT). No. of bitstreams: 1 ETD.pdf: 4571635 bytes, checksum: 48f1bea729ce3adfd44bda8d5851a581 (MD5)   Previous issue date: 2007-05-14"
+  ],
+  "handle": "28100",
+  "identifier_other": "etd-06222007-150728",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06222007-150728/",
+  "identifier_uri": "http://hdl.handle.net/10919/28100",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "composite material",
+    "x-ray tomography",
+    "finite element",
+    "digital test"
+  ],
+  "title": "Digital Test of Composite Material Using X-Ray Tomography and Finite Element Simulation",
+  "type": "Dissertation"
+}

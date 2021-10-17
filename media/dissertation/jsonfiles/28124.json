@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Li, Fangxing",
+  "contributor_committeechair": "Broadwater, Robert P.",
+  "contributor_committeecochair": "Cyre, Walling R.",
+  "contributor_committeemember": [
+    "Ravindran, Binoy",
+    "Herdman, Terry L.",
+    "Liu, Yilu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:30Z",
+  "date_adate": "2001-07-02",
+  "date_available": "2014-03-14T20:13:30Z",
+  "date_issued": "2001-07-02",
+  "date_rdate": "2002-07-02",
+  "date_sdate": "2001-06-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work presents a software framework for power system analysis, PowerFrame.  It is composed of four layers.  This four-layer architecture is designed for extensibility and reusability so that more complex power system problems can be tackled within the architecture.  In the context of PowerFrame, this work explores complex power system problems. Included in these problems are parallel-placed cables with multiple conductors, and distributed resources operating in unbalanced power distribution systems.  Mathematical models are derived.  Errors between more exact models and conventional approaches are presented.  PowerFrame is also designed to handle distributed computation for intensive power system calculations on multiple, networked computers.   Distributed power flow algorithms are presented.  Tests on Ethernet LANs show the feasibility of distributed computation under current computer network bandwidth.",
+  "description_provenance": [
+    "Author Email: fali3@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: herdman@origin2.icam.vt.edu",
+    "Advisor Email: cyre@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:30Z (GMT). No. of bitstreams: 1 MyDissertation.pdf: 673651 bytes, checksum: bcba871ed4929766d36db31a3e3fe137 (MD5)   Previous issue date: 2001-07-02"
+  ],
+  "handle": "28124",
+  "identifier_other": "etd-06262001-090407",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06262001-090407/",
+  "identifier_uri": "http://hdl.handle.net/10919/28124",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MyDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Composite Cable",
+    "Distributed Resource",
+    "Software Architecture",
+    "Power Distribution System",
+    "Distributed Computing",
+    "Framework"
+  ],
+  "title": "A Software Framework for Advanced Power System Analysis: Case Studies in Networks, Distributed Generation, and Distributed Computation",
+  "type": "Dissertation"
+}

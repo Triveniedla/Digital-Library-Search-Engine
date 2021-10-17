@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Marcu, Florin M.",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeecochair": "Southward, Steve C.",
+  "contributor_committeemember": [
+    "Jansson, Stefan",
+    "Ferris, John B.",
+    "Sandu, Corina"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:52Z",
+  "date_adate": "2009-04-29",
+  "date_available": "2014-03-14T20:09:52Z",
+  "date_issued": "2009-04-03",
+  "date_rdate": "2012-03-30",
+  "date_sdate": "2009-04-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Truck drivers are exposed to vibrations all day as a part of their work. In addition to repetitive motion injuries the constant vibrations add to the fatigue of the driver which in turn can have safety implications. The goal of this research is to lower the vibrations an occupant of a class 8 semitruck cab sleeper is exposed to by improving the ride quality. Unlike prior research in the area of ride comfort that target the chassis or seat suspension, this work focuses on the cab suspension. The current standard in cab suspensions is comprised of some type of spring and passive damper mechanism. Ride improvements can most easily be accomplished by replacing the stock passive dampers with some type of controllable damper; in this case Magneto-Rheological (MR) dampers. MR dampers can change damping characteristics in real time, while behaving like a passive damper in their OFF state. This means that in case of a failure to the power supply, the dampers still retain their functionality and can provide some level of damping. Additionally, MR dampers can be packaged such that they do not require any redesign of mounting bracketry on the cab or the frame, their use as a retrotable device. The damper controller is based on the skyhook control policy pioneered by Karnopp et al. in the 1970s. A variation on skyhook control is chosen called no-jerk skyhook control. A controller called Hierarchical SemiActive Control (HSAC) is designed and implemented to allow the no-jerk skyhook controller to adapt to the road conditions. It also incorporates an endstop controller to better handle the limited rattle space of the cab suspension. The development and initial testing of the controller prototype is done in simulation using a model of the cab and its suspension. The model is derived from first principles using bond graph modeling. The  controller is implemented in Simulink to ease the transition to hardware testing. The realtime prototype controller is tested on a class 8 semitruck in a lab environment using dSPACE and road input at the rear axles. The laboratory results are veried on the road in a series of road tests on a test truck. The road tests showed a need for HSAC controller. The HSAC is implemented on the test truck in a final prototype system. The test results with this system show signicant improvements over the stock passive suspension, especially when dealing with transient excitations. The overall research results presented show that signicant ride improvements can be achieved from a semiactive cab suspension.",
+  "description_provenance": [
+    "Author Email: fmarcu@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Advisor Email: jbferris@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:52Z (GMT). No. of bitstreams: 1 Florin_Marcu_ETD_Dissertation.pdf: 8702843 bytes, checksum: 05553caa271f6e91e824855364b15e5c (MD5)   Previous issue date: 2009-04-03"
+  ],
+  "handle": "26944",
+  "identifier_other": "etd-04172009-142630",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04172009-142630/",
+  "identifier_uri": "http://hdl.handle.net/10919/26944",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Florin_Marcu_ETD_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Magneto-Rheological",
+    "Skyhook",
+    "Semiactive",
+    "Hierarchical",
+    "Truck cab suspension"
+  ],
+  "title": "Semiactive Cab Suspension Control for Semitruck Applications",
+  "type": "Dissertation"
+}

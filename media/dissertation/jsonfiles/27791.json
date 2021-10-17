@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Velasco-Cruz, Ciro",
+  "contributor_committeecochair": [
+    "Leman, Scotland C.",
+    "Smith, Eric P."
+  ],
+  "contributor_committeemember": [
+    "House, Leanna L.",
+    "Guo, Feng"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:12:16Z",
+  "date_adate": "2012-05-31",
+  "date_available": "2014-03-14T20:12:16Z",
+  "date_issued": "2012-05-04",
+  "date_rdate": "2012-05-31",
+  "date_sdate": "2012-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, a variable selection method for spatial data is developed. It is assumed that the spatial process is non-stationary as a whole but is piece-wise stationary. The pieces where the spatial process is stationary are called regions. The variable selection approach accounts for two sources of correlation: (1) the spatial correlation of the data within the regions, and (2) the correlation of adjacent regions.  The variable selection is carried out by including indicator variables that characterize the significance of the regression coefficients. The Ising distribution as prior for the vector of indicator variables, models the dependence of adjacent regions.  We present a case study on brook trout data where the response of interest is the presence/absence of the fish at sites in the eastern United States. We find that the method outperforms the case of the probit regression where the spatial field is assumed stationary and isotropic. Additionally, the method outperformed the case where multiple regions are assumed independent of their neighbors.",
+  "description_provenance": [
+    "Author Email: cvelasco@vt.edu",
+    "Advisor Email: leman@vt.edu",
+    "Advisor Email: lhouse@vt.edu",
+    "Advisor Email: feng.guo@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:16Z (GMT). No. of bitstreams: 1 Velasco-Cruz_C_D_2012.pdf: 2135947 bytes, checksum: 2b3cb3dee1245cc2dea8eed27f306038 (MD5)   Previous issue date: 2012-05-04"
+  ],
+  "handle": "27791",
+  "identifier_other": "etd-05182012-130009",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182012-130009/",
+  "identifier_uri": "http://hdl.handle.net/10919/27791",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Velasco-Cruz_C_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Spatial statistics",
+    "Ising prior",
+    "Non-stationary spatial fields",
+    "Variable Selection"
+  ],
+  "title": "Spatially Correlated Model Selection (SCOMS)",
+  "type": "Dissertation"
+}

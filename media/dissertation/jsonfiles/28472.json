@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Calkins, Joseph Matthew",
+  "contributor_committeechair": "Reinholtz, Charles F.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Abbott, A. Lynn",
+    "West, Robert L. Jr.",
+    "Salerno, Robert J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:36Z",
+  "date_adate": "2002-08-06",
+  "date_available": "2014-03-14T20:14:36Z",
+  "date_issued": "2002-07-30",
+  "date_rdate": "2003-08-06",
+  "date_sdate": "2002-08-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Spatial coordinate measurement systems play an important role in manufacturing and certification processes.  There are many types of coordinate measurement systems including electronic theodolite networks, total station systems, video photogrammetry systems, laser tracking systems, laser scanning systems, and coordinate measuring machines.  Each of these systems produces coordinate measurements containing some degree of uncertainty.  Often, the results from several different types of measurement systems must be combined in order to provide useful measurement results.  When these measurements are combined, the resulting coordinate data set contains uncertainties that are a function of the base data sets and complex interactions between the measurement sets.  ISO standards, ANSI standards, and others, require that estimates of uncertainty accompany all measurement data.   This research presents methods for quantifying the uncertainty fields associated with coupled spatial measurement systems.  The significant new developments and refinements presented in this dissertation are summarized as follows: 1) A geometrical representation of coordinate uncertainty fields. 2) An experimental method for characterizing instrument component uncertainty.   3) Coordinate uncertainty field computation for individual measurements systems. 4) Measurement system combination methods based on the relative uncertainty of each measurement's individual components.   5) Combined uncertainty field computation resulting from to the interdependence of the measurements for coupled measurement systems.  6) Uncertainty statements for measurement analyses such as best-fit geometrical shapes and hidden-point measurement.   7) The implementation of these methods into commercial measurement software. 8) Case studies demonstrating the practical applications of this research.  The specific focus of this research is portable measurement systems.  It is with these systems that uncertainty field combination issues are most prevalent.  The results of this research are, however, general and therefore applicable to any instrument capable of measuring spatial coordinates.",
+  "description_provenance": [
+    "Author Email: joe@kinematics.com",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: westrl@vt.edu",
+    "Advisor Email: bob@kinematics.com",
+    "Advisor Email: creinhol@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:36Z (GMT). No. of bitstreams: 1 JMCalkinsDissertation.pdf: 50416723 bytes, checksum: c5a16cb9e0282505828b47eb914b7cdb (MD5)   Previous issue date: 2002-07-30"
+  ],
+  "handle": "28472",
+  "identifier_other": "etd-08012002-104658",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08012002-104658/",
+  "identifier_uri": "http://hdl.handle.net/10919/28472",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JMCalkinsDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Combined Uncertainty",
+    "Coordinate Measurement",
+    "Uncertainty Analysis",
+    "Coordinate Metrology",
+    "Coupled Measurement Systems",
+    "Measurement Uncertainty"
+  ],
+  "title": "Quantifying Coordinate Uncertainty Fields in Coupled Spatial Measurement systems",
+  "type": "Dissertation"
+}

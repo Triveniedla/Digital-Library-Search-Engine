@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ramkumar, Barathram",
+  "contributor_committeechair": "Bose, Tamal",
+  "contributor_committeemember": [
+    "Zobel, Christopher W.",
+    "Yang, Yaling",
+    "MacKenzie, Allen B.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:14Z",
+  "date_adate": "2011-09-08",
+  "date_available": "2014-03-14T20:15:14Z",
+  "date_issued": "2011-07-28",
+  "date_rdate": "2011-09-08",
+  "date_sdate": "2011-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Cognitive Radio (CR) is an emerging wireless communications technology that addresses the inefficiency of current radio spectrum usage. CR also supports the evolution of existing wireless applications and the development of new civilian and military applications. In military and public safety applications, there is no information available about the signal present in a frequency band and hence there is a need for a CR receiver to identify the modulation format employed in the signal. The automatic modulation classifier (AMC) is an important signal processing component that helps the CR in identifying the modulation format employed in the detected signal. AMC algorithms developed so far can classify only signals from a single user present in a frequency band. In a typical CR scenario, there is a possibility that more than one user is present in a frequency band and hence it is necessary to develop an AMC that can classify signals from multiple users simultaneously. One of the main objectives of this dissertation is to develop robust multiuser AMC's for CR. It will be shown later that multiple antennas are required at the receiver for classifying multiple signals. The use of multiple antennas at the transmitter and receiver is known as a Multi Input Multi Output (MIMO) communication system. By using multiple antennas at the receiver, apart from classifying signals from multiple users, the CR can harness the advantages offered by classical MIMO communication techniques like higher data rate, reliability, and an extended coverage area. While MIMO CR will provide numerous benefits, there are some significant challenges in applying conventional MIMO theory to CR. In this dissertation, open problems in applying classical MIMO techniques to a CR scenario are addressed.    A blind equalizer is another important signal processing component that a CR must possess since there are no training or pilot signals available in many applications. In a typical wireless communication environment the transmitted signals are subjected to noise and multipath fading. Multipath fading not only affects the performance of symbol detection by causing inter symbol interference (ISI) but also affects the performance of the AMC. The equalizer is a signal processing component that removes ISI from the received signal, thus improving the symbol detection performance. In a conventional wireless communication system, training or pilot sequences are usually available for designing the equalizer. When a training sequence is available, equalizer parameters are adapted by minimizing the well known cost function called mean square error (MSE). When a training sequence is not available, blind equalization algorithms adapt the parameters of the blind equalizer by minimizing cost functions that exploit the higher order statistics of the received signal. These cost functions are non convex and hence the blind equalizer has the potential to converge to a local minimum. Convergence to a local minimum not only affects symbol detection performance but also affects the performance of the AMC. Robust blind equalizers can be designed if the performance of the AMC is also considered while adapting equalizer parameters. In this dissertation we also develop Single Input Single Output (SISO) and MIMO blind equalizers where the performance of the AMC is also considered while adapting the equalizer parameters.",
+  "description_provenance": [
+    "Author Email: bramkum@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: tbose@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:14Z (GMT). No. of bitstreams: 2 Ramkumar_B_D_2011.pdf: 2990171 bytes, checksum: c749217450405a061b2a4550588fee03 (MD5) Ramkumar_B_2011_Copyrigth.pdf: 147014 bytes, checksum: 0e07dc7dedb2844e2523d0ec9356daab (MD5)   Previous issue date: 2011-07-28"
+  ],
+  "handle": "28666",
+  "identifier_other": "etd-08142011-170126",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142011-170126/",
+  "identifier_uri": "http://hdl.handle.net/10919/28666",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Ramkumar_B_D_2011.pdf",
+    "Ramkumar_B_2011_Copyrigth.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "signal classification",
+    "blind equalization"
+  ],
+  "title": "Automatic Modulation Classication and Blind Equalization for Cognitive Radios",
+  "type": "Dissertation"
+}

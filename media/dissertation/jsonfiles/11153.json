@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Nguyen, Hoan Kim Huynh",
+  "contributor_committeechair": "Herdman, Terry L.",
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "Borggaard, Jeffrey T.",
+    "Cliff, Eugene M.",
+    "Burns, John A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2011-08-22T19:00:56Z",
+  "date_adate": "2004-04-30",
+  "date_available": "2011-08-22T19:00:56Z",
+  "date_issued": "2004-04-12",
+  "date_rdate": "2007-04-30",
+  "date_sdate": "2004-04-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We compare an internal state method and a direct Runge-Kutta method  for solving Volterra integro-differential equations and Volterra delay  differential equations. The internal state method requires the kernel of the  Volterra integral to be realizable as an impulse response function. We  discover that when applicable, the internal state method is orders of  magnitude more efficient than the direct numerical method. However,  constructing state representation for realizable kernels can be  challenging at  times; therefore, we propose a rational approximation approach to avoid the  problem. That is, we approximate the transfer function by a rational  function, construct the corresponding linear system, and then approximate the  Volterra integro-differential equation. We show that our method is  convergent for the case where the kernel is nuclear. We focus our  attention on  time-invariant realizations but the case where the state representation of the kernel is a time-variant linear system is briefly discussed.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:56Z (GMT). No. of bitstreams: 1  etd.pdf: 589722 bytes, checksum: 5be80e735968f95e7e89d850038b2d43 (MD5)    Previous issue date: 2004-04-12",
+    "Author Email: honguye5@vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: borjborggaard@vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: herdman@icam.vt.edu",
+    "Advisor Email: burns@icam.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11153",
+  "identifier_other": "etd-04292004-143629",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04292004-143629",
+  "identifier_uri": "http://hdl.handle.net/10919/11153",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Volterr Integro-Differential Equations",
+    "Runge-Kutta Method",
+    "Realization Theory",
+    "Delay Equations",
+    "Internal State"
+  ],
+  "title": "Volterra Systems with Realizable Kernels",
+  "type": "Dissertation"
+}

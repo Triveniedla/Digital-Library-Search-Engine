@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Conte, Roberto",
+  "contributor_committeechair": "Pratt, Timothy J.",
+  "contributor_committeemember": [
+    "Morgan, George E.",
+    "Sweeney, Dennis G.",
+    "Bostian, Charles W.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:21Z",
+  "date_adate": "2000-10-16",
+  "date_available": "2014-03-14T20:17:21Z",
+  "date_issued": "2000-09-28",
+  "date_rdate": "2001-10-16",
+  "date_sdate": "2000-10-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Satellite Rural Telephone Network Design: A Methodology for Performance Optimization  Roberto Conte  (ABSTRACT)  Rural telephony has historically been a recurring subject of concern for most large developing  countries.  It is generally considered that rural telephone users do not generate the same level  of telephone traffic and, thus, revenue as urban  users, lowering the incentives to invest in rural telecommunications.   The financial implications of wiring a vast area for low telephone traffic  causes most telephone service providers to ignore or delay offering telephone service to those  regions.  Still, it is known that telecommunications are essential to the economic development of a  region, and that traffic increases rapidly as  soon as the service is available.  A satellite-based telephone network can provide  efficient long distance telephone service to  remote rural communities at a lower cost than  land-based wired networks in most cases.   Mobile satellite systems already provide this service,  but are limited in capacity and charge high per- minute fees for the satellite link.   Small earth  stations and GEO satellites can provide this  service more efficiently and at lower cost.   A methodology to optimize the network performance  has been developed.   A set of economic models to  evaluate different combinations of network  topologies and multiple access techniques have  been implemented, and a technical-economic  assessment has been performed for the different  technologies under different traffic scenarios.  Traffic intensity, network size and per-minute user costs have been optimized to achieve the  network's economic break-even point under different conditions and constraints.  The general behavior  of fixed-assignment Single Channel per Carrier  SCPC), fixed-assignment Multiple Channel per  Carrier (MCPC) and demand-assignment SCPC star  networks, as well as demand-assignment SCPC mesh networks has been analyzed.  Important parameters  have been identified in order to improve the  process of effective and cost-efficient satellite  rural telephone network design.",
+  "description_provenance": [
+    "Author Email: rconte@vt.edu",
+    "Advisor Email: gmorgan@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:21Z (GMT). No. of bitstreams: 1 RConte.pdf: 2793202 bytes, checksum: 34669c7fbb64a2d640d489e9d5a664d5 (MD5)   Previous issue date: 2000-09-28"
+  ],
+  "handle": "29262",
+  "identifier_other": "etd-10132000-19080033",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10132000-19080033/",
+  "identifier_uri": "http://hdl.handle.net/10919/29262",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RConte.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Wireless Networks",
+    "Network design",
+    "Cellular telephony",
+    "Multiple access",
+    "Rural telephony",
+    "Satellite",
+    "VSAT networks"
+  ],
+  "title": "Satellite Rural Telephone Network Design: A Methodology for Performance Optimization",
+  "type": "Dissertation"
+}

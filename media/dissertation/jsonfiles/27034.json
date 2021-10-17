@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Sayre, Jay Randall",
+  "contributor_committeechair": "Loos, Alfred C.",
+  "contributor_committeemember": [
+    "Gürdal, Zafer",
+    "Batra, Romesh C.",
+    "Baird, Donald G.",
+    "Lesko, John Jack"
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:10:09Z",
+  "date_adate": "2000-04-24",
+  "date_available": "2014-03-14T20:10:09Z",
+  "date_issued": "2000-04-11",
+  "date_rdate": "2001-04-24",
+  "date_sdate": "2000-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Vacuum-Assisted Resin Transfer Molding (VARTM) processes are becoming promising technologies in the manufacturing of primary composite structures in the aircraft industry as well as infrastructure. A great deal of work still needs to be done on efforts to reduce the costly trial-and-error methods of VARTM processing that are currently in practice today. A computer simulation model of the VARTM process would provide a cost-effective tool in the manufacturing of composites utilizing this technique. Therefore, the objective of this research was to modify an existing three-dimensional, Resin Film Infusion (RFI)/Resin Transfer Molding (RTM) model to include VARTM simulation capabilities and to verify this model with the fabrication of aircraft structural composites. An additional objective was to use the VARTM model as a process analysis tool, where this tool would enable the user to configure the best process for manufacturing quality composites. <p> Experimental verification of the model was performed by processing several flat composite panels. The parameters verified included flow front patterns and infiltration times. The flow front patterns were determined to be qualitatively accurate, while the simulated infiltration times over predicted experimental times by 8 to 10%. Capillary and gravitational forces were incorporated into the existing RFI/RTM model in order to simulate VARTM processing physics more accurately. The theoretical capillary pressure showed the capability to reduce the simulated infiltration times by as great as 6%. The gravity, on the other hand, was found to be negligible for all cases. <p> Finally, the VARTM model was used as a process analysis tool. This enabled the user to determine such important process constraints as the location and type of injection ports and the permeability and location of the high-permeable media. A process for a three-stiffener composite panel was proposed. This configuration evolved from the variation of the process constraints in the modeling of several different composite panels. The configuration was proposed by considering such factors as: infiltration time, the number of vacuum ports, and possible areas of void entrapment.",
+  "description_provenance": [
+    "Author Email: sayrej@battelle.org",
+    "Advisor Email: zgurdal@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: dbaird@vt.edu",
+    "Advisor Email: aloos@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:09Z (GMT). No. of bitstreams: 1 etd.pdf: 1377175 bytes, checksum: 0fec154669e19ebdab38327d5e188563 (MD5)   Previous issue date: 2000-04-11"
+  ],
+  "handle": "27034",
+  "identifier_other": "etd-04202000-14560005",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202000-14560005/",
+  "identifier_uri": "http://hdl.handle.net/10919/27034",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Vacuum-Assisted Resin Transfer Molding",
+    "polymer composite processing",
+    "VARTM",
+    "polymer composite process modeling"
+  ],
+  "title": "Vacuum-Assisted Resin Transfer Molding (VARTM) Model Development, Verification, and Process Analysis",
+  "type": "Dissertation"
+}

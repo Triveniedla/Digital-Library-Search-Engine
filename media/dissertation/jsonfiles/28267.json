@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Natarajan, Anand",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Librescu, Liviu",
+    "Inman, Daniel J.",
+    "Mason, William H.",
+    "Johnson, Eric R."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:54Z",
+  "date_adate": "2002-07-23",
+  "date_available": "2014-03-14T20:13:54Z",
+  "date_issued": "2002-07-03",
+  "date_rdate": "2003-07-23",
+  "date_sdate": "2002-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, neural networks are designed to effectively model static non-linear aeroelastic problems in adaptive structures and linear dynamic aeroelastic systems with time varying stiffness. The use of adaptive materials in aircraft wings allows for the change of the contour or the configuration of a wing (morphing) in flight. The use of smart materials, to accomplish these deformations, can imply that the stiffness of the wing with a morphing contour changes as the contour changes. For a rapidly oscillating body in a fluid field, continuously adapting structural parameters may render the wing to behave as a time variant system. Even the internal spars/ribs of the aircraft wing which define the wing stiffness can be made adaptive, that is, their stiffness can be made to vary with time. The immediate effect on the structural dynamics of the wing, is that, the wing motion is governed by a differential equation with time varying coefficients. The study of this concept of a time varying torsional stiffness, made possible by the use of active materials and adaptive spars, in the dynamic aeroelastic behavior of an adaptable airfoil is performed here. <p> \tA time marching technique is developed for solving linear structural dynamic problems with time-varying parameters. This time-marching technique borrows from the concept of Time-Finite Elements in the sense that for each time interval considered in the time-marching, an analytical solution is obtained. The analytical solution for each time interval is in the form of a matrix exponential and hence this technique is termed as Matrix Exponential time marching. Using this time marching technique, Artificial Neural Networks can be trained to represent the dynamic behavior of any linearly time varying system. In order to extend this methodology to dynamic aeroelasticity, it is also necessary to model the unsteady aerodynamic loads over an airfoil. Accordingly, an unsteady aerodynamic panel method is developed using a distributed set of doublet panels over the surface of the airfoil and along its wake. When the aerodynamic loads predicted by this panel method are made available to the Matrix Exponential time marching scheme for every time interval, a dynamic aeroelastic solver for a time varying aeroelastic system is obtained. This solver is now used to train an array of neural networks to represent the response of this two dimensional aeroelastic system with a time varying torsional stiffness. These neural networks are developed into a control system for flutter suppression. <p> \tAnother type of aeroelastic problem of an adaptive structure that is investigated here is the shape control of an adaptive bump situated on the leading edge of an airfoil. Such a bump is useful in achieving flow separation control for lateral directional maneuverability of the aircraft. Since actuators are being used to create this bump on the wing surface, the energy required to do so needs to be minimized. The adverse pressure drag as a result of this bump needs to be controlled so that the loss in lift over the wing is made minimal. The design of such a \"spoiler bump\" on the surface of the airfoil is an optimization problem of maximizing pressure drag due to flow separation while minimizing the loss in lift and energy required to deform the bump. One neural network is trained using the CFD code FLUENT to represent the aerodynamic loading over the bump. A second neural network is trained for calculating the actuator loads, bump displacement and lift, drag forces over the airfoil using the finite element solver, ANSYS and the previously trained neural network. This non-linear aeroelastic model of the deforming bump on an airfoil surface using neural networks can serve as a fore-runner for other non-linear aeroelastic problems. <p> \tThis work enhances the traditional aeroelastic modeling by introducing time varying parameters in the differential equations of motion. It investigates the calculation of non-conservative aerodynamic loads on morphing contours and the resulting structural deformation for non-linear aeroelastic problems through the use of neural networks. Geometric modeling of morphing contours is also addressed.",
+  "description_provenance": [
+    "Author Email: anataraj@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:54Z (GMT). No. of bitstreams: 1 AnandDissert2002.pdf: 2437887 bytes, checksum: 5aa5fa801b4636249104372342448d71 (MD5)   Previous issue date: 2002-07-03"
+  ],
+  "handle": "28267",
+  "identifier_other": "etd-07122002-131703",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122002-131703/",
+  "identifier_uri": "http://hdl.handle.net/10919/28267",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "AnandDissert2002.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Time Varying Systems",
+    "Morphing Wings",
+    "Aeroelasticity",
+    "Adaptable Bump",
+    "Variable Stiffness Wing",
+    "Neural Networks",
+    "Flutter"
+  ],
+  "title": "Aeroelasticity of Morphing Wings Using Neural Networks",
+  "type": "Dissertation"
+}

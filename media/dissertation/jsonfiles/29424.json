@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Allison, Timothy Charles",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Miller, A. Keith",
+    "Kurdila, Andrew J.",
+    "Beattie, Christopher A.",
+    "Goulbourne, Nakhiah C."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:50Z",
+  "date_adate": "2007-12-04",
+  "date_available": "2014-03-14T20:17:50Z",
+  "date_issued": "2007-10-26",
+  "date_rdate": "2007-12-04",
+  "date_sdate": "2007-11-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Although the finite element method is often applied to analyze the dynamics of structures, its application to large, complex structures can be time-consuming and errors in the modeling process may negatively affect the accuracy of analyses based on the model. System identification techniques attempt to circumvent these problems by using experimental response data to characterize or identify a system. However, identification of structures that are time-varying or nonlinear is problematic because the available methods generally require prior understanding about the equations of motion for the system. Nonlinear system identification techniques are generally only applicable to nonlinearities where the functional form of the nonlinearity is known and a general nonlinear system identification theory is not available as is the case with linear theory. Linear time-varying identification methods have been proposed for application to nonlinear systems, but methods for general time-varying systems where the form of the time variance is unknown have only been available for single-input single-output models. This dissertation presents several general linear time-varying methods for multiple-input multiple-output systems where the form of the time variance is entirely unknown. The methods use the proper orthogonal decomposition of measured response data combined with linear system theory to construct a model for predicting the response of an arbitrary linear or nonlinear system without any knowledge of the equations of motion. Separate methods are derived for predicting responses to initial displacements, initial velocities, and forcing functions. Some methods require only one data set but only promise accurate solutions for linear, time-invariant systems that are lightly damped and have a mass matrix proportional to the identity matrix. Other methods use multiple data sets and are valid for general time-varying systems. The proposed methods are applied to linear time-invariant, time-varying, and nonlinear systems via numerical examples and experiments and the factors affecting the accuracy of the methods are discussed.",
+  "description_provenance": [
+    "Author Email: talliso@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: akmille@sandia.gov",
+    "Advisor Email: kurdila@vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: nakg@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:50Z (GMT). No. of bitstreams: 2 TimAllisonDissertation.pdf: 3188523 bytes, checksum: a2969d8df05846064624c80c63977a0f (MD5) CopyrightPermissionFig2pt1.pdf: 21211 bytes, checksum: fd2f096fb866a9c41c5d428470df1f21 (MD5)   Previous issue date: 2007-10-26"
+  ],
+  "handle": "29424",
+  "identifier_other": "etd-11012007-141208",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11012007-141208/",
+  "identifier_uri": "http://hdl.handle.net/10919/29424",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "TimAllisonDissertation.pdf",
+    "CopyrightPermissionFig2pt1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Deconvolution",
+    "Nonlinear Dynamics",
+    "Linear Time-Varying Systems",
+    "System Identification",
+    "Proper Orthogonal Decomposition"
+  ],
+  "title": "System Identification via the Proper Orthogonal Decomposition",
+  "type": "Dissertation"
+}

@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Lazem, Shaimaa",
+  "contributor_committeechair": "Gracanin, Denis",
+  "contributor_committeemember": [
+    "DaSilva, Luiz A.",
+    "Cao, Yong",
+    "Tilevich, Eli",
+    "Harrison, Steven R."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:09:14Z",
+  "date_adate": "2012-05-02",
+  "date_available": "2014-03-14T20:09:14Z",
+  "date_issued": "2012-04-06",
+  "date_rdate": "2012-05-02",
+  "date_sdate": "2012-04-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The rapid evolution of portable devices and social media has enabled pervasive forms of distributed cooperation. A group could perform a task using a heterogeneous set of the devices (desktop, mobile), connections (wireless, wired, 3G) and software clients. We call this form of systems Distributed Dynamic Cooperative Environments (DDCEs).  Content in DDCEs is created and shared by the users. The content could be static (e.g., video or audio), dynamic (e.g.,wikis), and/or Objects with behavior. Objects with behavior are programmed objects that take advantage of the available computational services (e.g., cloud-based services).  Providing a desired Quality of Experience (QoE) in DDCEs is a challenge for cooperative systems designers. DDCEs are expected to provide groups with the utmost flexibility in conducting their cooperative activities. More flexibility at the user side means less control and predictability of the groupsâ   behavior at the system side.  Due to the lack of Quality of Service (QoS) guarantees in DDCEs, groups may experience changes in the system behavior that are usually manifested as delays and inconsistencies in the shared state. We question the extent to which cooperation among group members is sensitive to system changes in DDCEs. We argue that a QoE definition for groups should account for cooperation emergence and sustainability.  An experiment was conducted, where fifteen groups performed a loosely-coupled task that simulates social traps in a 3D virtual world. The groups were exposed to two forms of system delays. Exo-content delays are exogenous to the provided content (e.g., network delay). Endo-content delays are endogenous to the provided content (e.g., delay in processing time for Objects with behavior). Groups' performance in the experiment and their verbal communication have been recorded and analyzed.  The results demonstrate the nonlinearity of groups' behavior when dealing with endo-content delays. System interventions are needed to maintain QoE even though that may increase the cost or the required resources. Systems are designed to be used rather than understood by users. When the system behavior changes, designers have two choices. The first is to expect the users to understand the system behavior and adjust their interaction accordingly. That did not happen in our experiment. Understanding the system behavior informed groups' behavior. It partially influenced how the groups succeeded or failed in accomplishing its goal. The second choice is to understand the semantics of the application and provide guarantees based on these semantics. Based on our results, we introduce the following design guidelines for QoE provision in DDCEs.   â ¢If possible the system should keep track of information about group goals and add guarding constraints to protect these goals.  â ¢QoE guarantees should be provided based on the semantics of the user-generated content that constitutes the group activity.  â ¢Users should be given the option to define the content that is sensitive to system changes (e.g., Objects with behavior that are sensitive to delays or require intensive computations) to avoid the negative impacts of endo-content delays.  â ¢Users should define the Objects with behavior that contribute to the shared state in order for the system to maintain the consistency of the shared state.   â ¢Endo-content delays were proven to have significantly negative impacts on the groups in our experiment compared to exo-content delays. We argue that system designers, if they have the choice, should trade processing time needed for Objects with behavior for exo-content delay.",
+  "description_provenance": [
+    "Author Email: shlazem@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: yongcao@vt.edu",
+    "Advisor Email: tilevich@vt.edu",
+    "Advisor Email: srh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:14Z (GMT). No. of bitstreams: 5 IRB-09-646-approval-letter-2011-1.pdf: 247659 bytes, checksum: 71a375214d75af72c6ae83d48ccbbca0 (MD5) Lazem_Shaimaa_D_2012.pdf: 12510100 bytes, checksum: 51535bf9c2f255142c5b6001d256589f (MD5) IRB-09-646-approval-letter-2011-2.pdf: 225871 bytes, checksum: 52edbe450e98a7f3334c4de6479656c4 (MD5) IRB-09-646-approval-letter-2009.pdf: 253643 bytes, checksum: 6652dc9307524c5769e021a2bbcf56a4 (MD5) IRB-09-646-approval-letter-2010.pdf: 246202 bytes, checksum: 3fc99d5e9f181098d83c854802dd7640 (MD5)   Previous issue date: 2012-04-06"
+  ],
+  "handle": "26732",
+  "identifier_other": "etd-04092012-131309",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04092012-131309/",
+  "identifier_uri": "http://hdl.handle.net/10919/26732",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "IRB-09-646-approval-letter-2011-1.pdf",
+    "Lazem_Shaimaa_D_2012.pdf",
+    "IRB-09-646-approval-letter-2011-2.pdf",
+    "IRB-09-646-approval-letter-2009.pdf",
+    "IRB-09-646-approval-letter-2010.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mixed-Motive Tasks",
+    "Social Traps",
+    "Social Dilemmas",
+    "Dynamics of Cooperation",
+    "Group Dynamics",
+    "Quality of Experience",
+    "Delays",
+    "Online 3D Virtual Worlds",
+    "Quality of Service"
+  ],
+  "title": "Analysis of the Relationships between Changes in Distributed System Behavior and Group Dynamics",
+  "type": "Dissertation"
+}

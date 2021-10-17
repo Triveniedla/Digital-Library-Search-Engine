@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Seresta, Omprakash",
+  "contributor_committeechair": "Gürdal, Zafer",
+  "contributor_committeemember": [
+    "Patil, Mayuresh J.",
+    "Hyer, Michael W.",
+    "Lindner, Douglas K.",
+    "Librescu, Liviu"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:06Z",
+  "date_adate": "2007-03-27",
+  "date_available": "2014-03-14T20:08:06Z",
+  "date_issued": "2007-02-27",
+  "date_rdate": "2009-03-27",
+  "date_sdate": "2007-03-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research work deals with the design and optimization of a large composite structure. In design of large structural systems, it is customary to divide the problem into many smaller independent/semi-independent local design problems. For example, the wing structure design problem is decomposed into several local panel design problem. The use of composite necessitates the inclusion of ply angles as design variables. These design variables are discrete in nature because of manufacturing constraint. The multilevel approach results into a nonblended solution with no continuity of laminate layups across the panels. The nonblended solution is not desirable because of two reasons. First, the structural integrity of the whole system is questionable. Second, even if there is continuity to some extent, the manufacturing process ends up being costlier. In this work, we develop a global local design methodology to design blended composite laminates across the whole structural system. The blending constraint is imposed via a guide based approach within the genetic algorithm optimization scheme. Two different blending schemes are investigated, outer and inner blending. The global local approach is implemented for a complex composite wing structure design problem, which is known to have a strong global local coupling. To reduce the computational cost, the originally proposed local one dimensional search is replaced by an intuitive local improvement operator. The local panels design problem arises in global/local wing structure design has a straight edge boundary condition. A postbuckling analysis module is developed for such panels with applied edge displacements. A parametric study of the effects of flexural and inplane stiffnesses on the design of composite laminates for optimal postbuckling performance is done. The design optimization of composite laminates for postbuckling strength is properly formulated with stacking sequence as design variables. Next, we formulate the stacking sequence design (fiber orientation angle of the layers) of laminated composite flat panels for maximum supersonic flutter speed and maximum thermal buckling capacity. The design is constrained so that the behavior of the panel in the vicinity of the flutter boundary should be limited to stable limit cycle oscillation. A parametric study is carried out to investigate the tradeoff between designs for thermal buckling and flutter. In an effort to include the postbuckling constraint into the multilevel design optimization of large composite structure, an alternative cheap methodology for predicting load paths in postbuckled structure is presented. This approach being computationally less expensive compared to full scale nonlinear analysis can be used in conjunction with an optimizer for preliminary design of large composite structure with postbuckling constraint. This approach assumes that the postbuckled stiffness of the structure, though reduced considerably, remains linear. The analytical expressions for postbuckled stiffness are given in a form that can be used with any commercially available linear finite element solver. Using the developed approximate load path prediction scheme, a global local design approach is developed to design large composite structure with blending and local postbuckling constraints. The methodology is demonstrated via a composite wing box design with blended laminates.",
+  "description_provenance": [
+    "Author Email: oseresta@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: zgurdal@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:06Z (GMT). No. of bitstreams: 1 dissertation_Seresta.pdf: 998794 bytes, checksum: f5a2bcc52b6d6c99d63f1a1ec4d7cd87 (MD5)   Previous issue date: 2007-02-27"
+  ],
+  "handle": "26401",
+  "identifier_other": "etd-03092007-132508",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03092007-132508/",
+  "identifier_uri": "http://hdl.handle.net/10919/26401",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_Seresta.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Postbuckling",
+    "Flutter",
+    "Discrete Optimization",
+    "Genetic Algorithms",
+    "Global/Local Methodology",
+    "Composites",
+    "Buckling",
+    "Blending"
+  ],
+  "title": "Buckling, Flutter, and Postbuckling Optimization of Composite Structures",
+  "type": "Dissertation"
+}

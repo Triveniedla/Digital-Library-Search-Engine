@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Lee, Joo Hong",
+  "contributor_committeechair": "Plassmann, Paul E.",
+  "contributor_committeemember": [
+    "Jones, Mark T.",
+    "Beattie, Christopher A.",
+    "Abbott, A. Lynn",
+    "Martin, Thomas L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:58Z",
+  "date_adate": "2012-10-10",
+  "date_available": "2014-03-14T20:15:58Z",
+  "date_issued": "2012-08-29",
+  "date_rdate": "2013-09-09",
+  "date_sdate": "2012-09-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Multi-core, multi-processor, and Graphics Processing Unit (GPU) computer architectures pose significant challenges with respect to the efficient exploitation of parallelism for large-scale, scientific computing simulations.  For example, a simulation of the human tonsil at the cellular level involves the computation of the motion and interaction of millions of cells over extended periods of time.  Also, the simulation of Radiative Heat Transfer (RHT) effects by the Photon Monte Carlo (PMC) method is an extremely computationally demanding problem.  The PMC method is example of the Monte Carlo simulation methodâ ¯an approach extensively used in wide of application areas. Although the basic algorithmic framework of these Monte Carlo methods is simple, they can be extremely computationally intensive.  Therefore, an efficient parallel realization of these simulations depends on a careful analysis of the nature these problems and the development of an appropriate software framework.  The overarching goal of this dissertation is develop and understand what the appropriate parallel programming model should be to exploit these disparate architectures, both from the metric of efficiency, as well as from a software engineering perspective.<p>  In this dissertation we examine these issues through a performance study of PathSim2, a software framework for the simulation of large-scale biological systems, using two different parallel architecturesâ ¯distributed and shared memory. First, a message-passing implementation of a multiple germinal center simulation by PathSim2 is developed and analyzed for distributed memory architectures.  Second, a germinal center simulation is implemented on shared memory architecture with two parallelization strategies based on Pthreads and OpenMP.  <p> Finally, we present work targeting a complete hybrid, parallel computing architecture. With this work we develop and analyze a software framework for generic Monte Carlo simulations implemented on multiple, distributed memory nodes consisting of a multi-core architecture with attached GPUs.  This simulation framework is divided into two asynchronous parts: (a) a threaded, GPU-accelerated pseudo-random number generator (or producer), and (b) a multi-threaded Monte Carlo application (or consumer).  The advantage of this approach is that this software framework can be directly used within any Monte Carlo application code, without requiring application-specific programming of the GPU.  We examine this approach through a performance study of the simulation of RHT effects by the PMC method on a hybrid computing architecture. We present a theoretical analysis of our proposed approach, discuss methods to optimize performance based on this analysis, and compare this analysis to experimental results obtained from simulations run on two different hybrid, parallel computing architectures.",
+  "description_provenance": [
+    "Author Email: jool@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:58Z (GMT). No. of bitstreams: 1 Lee_J_D_2012.pdf: 3012666 bytes, checksum: 732f2ec9ffb847f6368664ca5ab6edf8 (MD5)   Previous issue date: 2012-08-29"
+  ],
+  "handle": "28882",
+  "identifier_other": "etd-09062012-201814",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09062012-201814/",
+  "identifier_uri": "http://hdl.handle.net/10919/28882",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lee_J_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Pthreads",
+    "Parallel Programming",
+    "GPU Acceleration",
+    "Scientific Computing",
+    "Biological Systems Simulation",
+    "Hybrid Algorithms",
+    "Parallel Monte Carlo Algorithms",
+    "OpenMP",
+    "Hybrid Computing",
+    "Radiative Heat Transfer",
+    "Multiprocessor",
+    "Multi-threaded Software Performance"
+  ],
+  "title": "Hybrid Parallel Computing Strategies for Scientific Computing Applications",
+  "type": "Dissertation"
+}

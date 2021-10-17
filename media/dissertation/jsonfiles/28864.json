@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Zhao, Jun",
+  "contributor_committeechair": "Raman, Sanjay",
+  "contributor_committeemember": [
+    "Guido, Louis J.",
+    "Buehrer, Richard Michael",
+    "Athanas, Peter M.",
+    "Bostian, Charles W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:54Z",
+  "date_adate": "2007-09-11",
+  "date_available": "2014-03-14T20:15:54Z",
+  "date_issued": "2007-03-27",
+  "date_rdate": "2008-09-11",
+  "date_sdate": "2007-09-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Fully integrated Ultra-Wideband (UWB) RFIC transmitters are designed in Si-based technologies for applications such as wireless communications or sensor networks. UWB technology offers many unique features such as broad bandwidth, low power, accurate position location capabilities, etc. This research focuses on the RFIC front-end hardware design issues for proposed UWB transmitters. Two different methods of multiband frequency generation ----- using switched capacitor VCO tanks and frequency mixing with single sideband mixers ----- are explored in great detail. To generate the required UWB signals, pulse generators are designed and integrated into the transmitter chips.     The first prototype UWB transmitter is designed in Freescale Semiconductor 0.18Î¼m SiGe BiCMOS technology for operation over three 500 MHz bands at center frequencies of 4.6/6.4/8.0 GHz, and generates pulses supporting differential BPSK modulation. The transmitter output frequency is controlled by a two-bit code which sets the state of a switched capacitor tank array for coarse tuning of the VCO. While selecting between the different bands, the transmitter is capable of settling and re-transmitting in less than 0.7Î¼s using an integrated, wide band phase-locked loop (PLL). Various issues such as mismatch/inaccuracy of the pulses and high power consumption of the prescaler were identified during the first design and were addressed in subsequent design revisions.     The pulse generator is a critical part of the proposed UWB transmitter. The initial pulse generator design used CMOS delay lines and logic gates to synthesize the required pulse bandwidth; however this approach suffered from inaccurate pulse timing control due to delay time sensitivity to device modelling and process variations. Subsequently, a novel pulse generator design capable of achieving accurate timing control was implemented using digital logic and a fixed oscillator frequency to provide timing information, integrated into a modified transmitter circuit, and subsequently fabricated in Jazz Semiconductor's 0.18Î¼m CA18 RFCMOS process. Experimental results confirm the generation of accurate one-nanosecond pulses.     Finally, a new multiband UWB transmitter based on a new single sideband (SSB) resistive mixer with superior linearity and zero static power consumption was also designed and fabricated using Jazz CA13 0.13Î¼m RF CMOS process. This design is based on a fixed frequency phase-locked VCO and generates different bands through frequency mixing. In the prototype design, two additional carrier frequencies are generated from the VCO center frequency (5 GHz) by mixing it with its output divided-by-4 (1.25 GHz). By switching the relative I/Q phases of the LO/IF inputs to this single side band mixer, either the upper side band (6.25 GHz) or lower side band (3.75 GHz) frequency is selected at the mixer output, while the other sideband is rejected. Simulation results show that the transmitter is capable of generating the desired carrier frequencies while suppressing the image component by more than 40 dB.     Overall, this work has explored various aspects of UWB transmitter design and implementations in fully integrated silicon chips. The major contributions of this work include: proposed hardware architectures for pulse-based multiband UWB transmitters; implemented a fully integrated multiband UWB transmitter with embedded phase-locked switched-tank VCO capable of wide frequency tuning; demonstrated an all digital pulse generator capable of generating accurate one-nanosecond pulse trains in the presence of various mismatches; and investigated resistive SSB mixer topologies and their implementation in a multiband UWB generation architecture.",
+  "description_provenance": [
+    "Author Email: juzhao@vt.edu",
+    "Advisor Email: sraman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:54Z (GMT). No. of bitstreams: 1 thesis.pdf: 4949518 bytes, checksum: 77f2f581b53cb2aa3ba028f34d71622e (MD5)   Previous issue date: 2007-03-27"
+  ],
+  "handle": "28864",
+  "identifier_other": "etd-09042007-162640",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09042007-162640/",
+  "identifier_uri": "http://hdl.handle.net/10919/28864",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mixer",
+    "VCO",
+    "UWB",
+    "PLL"
+  ],
+  "title": "Silicon-Based RFIC Multi-band Transmitter Front Ends for Ultra-Wideband Communications and Sensor Applications",
+  "type": "Dissertation"
+}

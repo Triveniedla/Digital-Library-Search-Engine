@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Smith, Benjamin Scott",
+  "contributor_committeechair": "Devenport, William J.",
+  "contributor_committeecochair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Simpson, Roger L.",
+    "Neu, Wayne L.",
+    "Ng, Fai"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:11:43Z",
+  "date_adate": "2008-05-27",
+  "date_available": "2014-03-14T20:11:43Z",
+  "date_issued": "2008-04-21",
+  "date_rdate": "2008-05-27",
+  "date_sdate": "2008-05-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The aerodynamic flow and fluctuating surface pressure of a plane, turbulent, two-dimensional wall jet flow into still air over smooth and rough surfaces has been investigated in a recently constructed wall jet wind tunnel testing facility.  The facility has been shown to produce a wall jet flow with Reynolds numbers based on the momentum thickness, Re<SUB>&delta</SUB> = &deltaU<SUB>m</SUB>/&nu, of between 395 and 1100 and nozzle exit Reynolds numbers, Re<SUB>j</SUB> = U<SUB>m</SUB>b/&nu, of between 16000 and 45000.  The wall jet flow properties (&delta, &delta<SUP>*</SUP>, &theta, y<SUB>1</SUB><SUB>/</SUB><SUB>2</SUB>, U<SUB>m</SUB>, u<SUP>*</SUP>, etc.) were measured and characterized over a wide range of initial flow conditions and measurement locations relative to the wall jet source.  These flow properties were measured for flow over a smooth flow surface and for flow over roughness patches of finite extent.  The patches used in the current study varied in length from 305 mm to 914 mm (between 24 and 72 times the nozzle height, b) and were placed so that the leading edge of the patch was fixed at 1257 mm (x/b = 99) downstream of the wall jet source.  These roughness patches were of a random sand grain roughness type and the roughness grain size was varied throughout this experiment.  The tests covered roughness Reynolds numbers (k<SUP>+</SUP>) ranging from less than 2 to over 158 (covering the entire range of rough wall flow regimes from hydrodynamically smooth to fully rough).  For the wall jet flows over 305 mm long patches of roughness, the displacement and momentum thicknesses were found to vary noticeably with the roughness grain size, but the maximum velocity, mixing layer length scale,  y<SUB>1</SUB><SUB>/</SUB><SUB>2</SUB>, and the boundary layer thickness were not seen to vary in a consistent, determinable  way.  Velocity spectra taken at a range of initial flow conditions and at several distinct heights above the flow surface showed a limited scaling dependency on the skin friction velocity near the flow surface.   \tThe spectral density of the surface pressure of the wall jet flow, which is not believed to have been previously investigated for smooth or rough surfaces, showed distinct differences with that seen in a conventional boundary layer flow, especially at low frequencies.  This difference is believed to be due to the presence of a mixing layer in the wall jet flow.  Both the spectral shape and level were heavily affected by the variation in roughness grain size.  This effect was most notable in overlap region of the spectrum. Attempts to scale the wall jet surface pressure spectra using outer and inner variables were successful for the smooth wall flows.  The scaling of the rough wall jet flow surface pressure proved to be much more difficult, and conventional scaling techniques used for ordinary turbulent boundary layer surface pressure spectra were not able to account for the changes in roughness present during the current study.  An empirical scaling scheme was proposed, but was only marginally effective at scaling the rough wall surface pressure.",
+  "description_provenance": [
+    "Author Email: besmith5@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: simpson@aoe.vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: wng@vt.edu <wng@vt.edu>",
+    "Made available in DSpace on 2014-03-14T20:11:43Z (GMT). No. of bitstreams: 1 BS_Dissertation_Submitted_Final.pdf: 6055832 bytes, checksum: af898383e1a036d65922edbdbf716e7b (MD5)   Previous issue date: 2008-04-21"
+  ],
+  "handle": "27597",
+  "identifier_other": "etd-05082008-144350",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05082008-144350/",
+  "identifier_uri": "http://hdl.handle.net/10919/27597",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BS_Dissertation_Submitted_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wall jet",
+    "rough surface",
+    "turbulent boundary layer",
+    "surface pressure fluctuations"
+  ],
+  "title": "Wall Jet Boundary Layer Flows Over Smooth and Rough Surfaces",
+  "type": "Dissertation"
+}

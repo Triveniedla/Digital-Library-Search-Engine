@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Steinbrink, Scott Edward",
+  "contributor_committeechair": "Johnson, Eric R.",
+  "contributor_committeemember": [
+    "Librescu, Liviu",
+    "Plaut, Raymond H.",
+    "Hyer, Michael W.",
+    "Kapania, Rabesh K."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:07:05Z",
+  "date_adate": "2000-04-02",
+  "date_available": "2014-03-14T20:07:05Z",
+  "date_issued": "1998-12-04",
+  "date_rdate": "2000-04-02",
+  "date_sdate": "1999-02-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An analysis is presented of the linear and geometrically nonlinear static response  of \"thin\" doubly-curved shells of revolution, under internal pressure loading.  The analysis  is based upon direct numerical integration of the governing differential equations, written  in first-order state vector form.   It is assumed that the loading and response of the shell   are  both axially symmetric; the governing equations are thus ordinary differential equations.   The geometry of the shell is limited in the analysis by the assumptions of axisymmetry  and constant thickness.  The shell is allowed to have general composite laminate construc- tion, elastic supports at the edges and internal ring stiffeners.  In addition, the analysis  allows for the possibility of circumferential line loads at discrete locations along the   dome  meridian.  The problem is a numerically unstable two-point boundary value problem; inte- grations are performed using the technique of multiple shooting.  A development of the  multiple shooting technique known as stabilized marching is given.  Results achieved by  use of the multiple shooting technique are verified by comparison to results of finite ele- ment analysis using the finite element analysis codes STAGS and ABAQUS.  Parametric  studies are performed for ellipsoidal domes constructed of symmetric, 8-ply laminates.   The parametric studies examine the effects of dome geometry for a quasi-isotropic lami- nate first, then examine whether material properties may be adjusted to create a \"better\"  design.  Conclusions and recommendations for future work follow.",
+  "description_provenance": [
+    "Author Email: steinbrink@gannon.edu",
+    "Advisor Email: librescu@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:05Z (GMT). No. of bitstreams: 13 front1.pdf: 15131 bytes, checksum: 0e7fbaf733577d39cc71139e0ac9a861 (MD5) front2.pdf: 8683 bytes, checksum: 1479465831fd8fe99ac4a2de7f150aa5 (MD5) toc.pdf: 23883 bytes, checksum: 82449df20d432b73d23782db9f0017d2 (MD5) lof.pdf: 32850 bytes, checksum: 7ed703f9c6e9eac3f70dfb6c4ef30444 (MD5) chap1.pdf: 66910 bytes, checksum: 8eda7a85dcbfc16e6c9d4ce1f95b5654 (MD5) chap2.pdf: 229207 bytes, checksum: 234134c8d5152a32ad9c4b5c03790c63 (MD5) chap3.pdf: 126216 bytes, checksum: 99a3f795db91fd5335dfc4bdb0a1c6fa (MD5) chap4.pdf: 86150 bytes, checksum: 23a39d14752da9c20708d97d133e1834 (MD5) chap5.pdf: 252894 bytes, checksum: 3b3c137903a1d2517c627f7bff4a820b (MD5) chap6.pdf: 266208 bytes, checksum: 336b0fc98896b91c0b02e582a2741d90 (MD5) chap7.pdf: 30967 bytes, checksum: b0e5b07a338a976abbbd947db6ecfd09 (MD5) refs.pdf: 33744 bytes, checksum: fac073d170828471d2040bd65a7fa0a1 (MD5) vita.pdf: 3192 bytes, checksum: eb2cceb6ecd9736619db8ccbbeb43b9c (MD5)   Previous issue date: 1998-12-04"
+  ],
+  "handle": "26099",
+  "identifier_other": "etd-020299-084246",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-020299-084246/",
+  "identifier_uri": "http://hdl.handle.net/10919/26099",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "front1.pdf",
+    "front2.pdf",
+    "toc.pdf",
+    "lof.pdf",
+    "chap1.pdf",
+    "chap2.pdf",
+    "chap3.pdf",
+    "chap4.pdf",
+    "chap5.pdf",
+    "chap6.pdf",
+    "chap7.pdf",
+    "refs.pdf",
+    "vita.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Shells",
+    "Nonlinear",
+    "Multiple Shooting",
+    "Composite"
+  ],
+  "title": "Geometrically Nonlinear Analysis of Axially Symmetric, Composite Pressure Domes Using the Method of Multiple Shooting",
+  "type": "Dissertation"
+}

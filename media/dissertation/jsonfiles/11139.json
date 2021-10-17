@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Bing, Nan",
+  "contributor_committeechair": "Hoeschele, Ina",
+  "contributor_committeemember": [
+    "Ye, keying",
+    "Ramakrishnan, Naren",
+    "Mendes, Pedro J. P.",
+    "Maroof, M. A. Saghai"
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2011-08-22T19:00:19Z",
+  "date_adate": "2004-04-21",
+  "date_available": "2011-08-22T19:00:19Z",
+  "date_issued": "2004-04-14",
+  "date_rdate": "2004-04-21",
+  "date_sdate": "2004-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The copious information generated from transcriptomes gives us an opportunity to learn biological processes as integrated systems; however, due to numerous sources of variation, high dimensions of data structure, various levels of data quality, and different formats of the inputs, dissecting and interpreting such data presents daunting challenges to scientists. The goal of this research is to provide improved and new statistical tools for analyzing transcriptomes data to identify gene expression patterns for classifying samples, to discover regulatory gene networks using natural genetic perturbations, to develop statistical methods for model fitting and comparison of biochemical networks, and eventually to advance our capability to understand the principles of biological processes at the system level.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:19Z (GMT). No. of bitstreams: 1  Thesis.pdf: 748654 bytes, checksum: 403f33ec40f7032533ba1d6e9389cafa (MD5)    Previous issue date: 2004-04-14",
+    "Author Email: nbing@vt.edu",
+    "Advisor Email: inah@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: pmendes@vt.edu",
+    "Advisor Email: smaroof@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11139",
+  "identifier_other": "etd-04192004-011825",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192004-011825",
+  "identifier_uri": "http://hdl.handle.net/10919/11139",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Structural Equation Model",
+    "Classification",
+    "Mixture Model",
+    "Gene Network",
+    "Genetical Genomics",
+    "Microarray"
+  ],
+  "title": "Statistical Analysis of Gene Expression Profile: Transcription Network Inference and Sample Classification",
+  "type": "Dissertation"
+}

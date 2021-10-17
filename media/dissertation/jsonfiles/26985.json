@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Atwell, Jeanne A.",
+  "contributor_committeechair": "King, Belinda B.",
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "Herdman, Terry L.",
+    "Cliff, Eugene M.",
+    "Burns, John A.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:10:01Z",
+  "date_adate": "2000-04-20",
+  "date_available": "2014-03-14T20:10:01Z",
+  "date_issued": "2000-04-10",
+  "date_rdate": "2001-04-20",
+  "date_sdate": "2000-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Numerical models of PDE systems can involve very large matrix equations, but  feedback controllers for these systems must be computable in real time to be implemented on physical systems.  Classical control design methods produce controllers of the same order as the numerical models. Therefore, emph{reduced} order control design is vital for practical controllers. The main contribution of this research is a method of control order reduction that uses a newly developed low order basis. The low order basis is obtained by applying Proper Orthogonal Decomposition (POD) to a set of functional gains, and is referred to as the functional gain POD basis. Low order controllers resulting from the  functional gain POD basis  are compared with low order controllers resulting from  more commonly used time snapshot POD bases, with the two dimensional heat equation as a test problem. The functional gain POD basis avoids subjective criteria associated with the time snapshot POD basis and provides an equally effective low order controller with larger stability radii. An efficient and effective methodology is introduced for using a low order basis in reduced order compensator design. This method combines \"design-then-reduce\" and \"reduce-then-design\" philosophies. The desirable qualities of the resulting reduced order compensator are verified by application to Burgers' equation in numerical experiments.",
+  "description_provenance": [
+    "Author Email: jeatwell@icam.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: bbking@math.vt.edu",
+    "Advisor Email: herdman@icam.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Advisor Email: borggajt@icam.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:01Z (GMT). No. of bitstreams: 2 AtwellAbstract.pdf: 4545 bytes, checksum: d8f15dccab66f544762d68c1bc6e6a47 (MD5) JAtwell.pdf: 5007718 bytes, checksum: e2174e032c33cc809cc3d81d90579ff7 (MD5)   Previous issue date: 2000-04-10"
+  ],
+  "handle": "26985",
+  "identifier_other": "etd-04192000-17360039",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192000-17360039/",
+  "identifier_uri": "http://hdl.handle.net/10919/26985",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "AtwellAbstract.pdf",
+    "JAtwell.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Stabilized Finite Elements",
+    "Burgers' Equation",
+    "Heat Equation",
+    "Proper Orthogonal Decomposition",
+    "Reduced Order Feedback Control"
+  ],
+  "title": "Proper Orthogonal Decomposition for Reduced Order Control of Partial Differential Equations",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Lin, Hua",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Wernz, Christian",
+    "Yang, Yaling",
+    "Mili, Lamine M.",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:18Z",
+  "date_adate": "2012-10-24",
+  "date_available": "2014-03-14T20:17:18Z",
+  "date_issued": "2012-09-27",
+  "date_rdate": "2012-10-24",
+  "date_sdate": "2012-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The vision of the smart grid is predicated upon pervasive use of modern digital communication techniques in today's power system. As wide area measurements and control techniques are being developed and deployed for a more resilient power system, the role of communication networks is becoming prominent. Advanced communication infrastructure provides much wider system observability and enables globally optimal control schemes. Wide area measurement and monitoring with Phasor Measurement Units (PMUs) or Intelligent Electronic Devices (IED) is a growing trend in this context. However, the large amount of data collected by PMUs or IEDs needs to be transferred over the data network to control centers where real-time state estimation, protection, and control decisions are made. The volume and frequency of such data transfers, and real-time delivery requirements mandate that sufficient bandwidth and proper delay characteristics must be ensured for the correct operations. Power system dynamics get influenced by the underlying communication infrastructure. Therefore, extensive integration of power system and communication infrastructure mandates that the two systems be studied as a single distributed cyber-physical system.  This dissertation proposes a global event-driven co-simulation framework, which is termed as GECO, for interconnected power system and communication network. GECO can be used as a design pattern for hybrid system simulation with continuous/discrete sub-components. An implementation of GECO is achieved by integrating two software packages: PSLF and NS2 into the framework. Besides, this dissertation proposes and studies a set of power system applications which can be only properly evaluated on a co-simulation framework like GECO, namely communication-based distance relay protection, all-PMU state estimation and PMU-based out-of-step protection. All of them take advantage of interplays between the power grid and the communication infrastructure. The GECO experiments described in this dissertation not only show the efficacy of the GECO framework, but also provide experience on how to go about using GECO in smart grid planning activities.",
+  "description_provenance": [
+    "Author Email: birchlin@vt.edu",
+    "Advisor Email: cwernz@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:18Z (GMT). No. of bitstreams: 1 Lin_H_D_2012.pdf: 3124133 bytes, checksum: 4a96a8fa0543b6969ce26085c1a66500 (MD5)   Previous issue date: 2012-09-27"
+  ],
+  "handle": "29248",
+  "identifier_other": "etd-10112012-170844",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112012-170844/",
+  "identifier_uri": "http://hdl.handle.net/10919/29248",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lin_H_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Co-Simulation",
+    "Wide Area Measurement System",
+    "Smart Grid",
+    "Remote Backup Relay",
+    "All-PMU State Estimation",
+    "Out-of-Step Protection"
+  ],
+  "title": "Communication Infrastructure for the Smart Grid: A Co-Simulation Based Study on Techniques to Improve the Power Transmission System Functions with Efficient Data Networks",
+  "type": "Dissertation"
+}

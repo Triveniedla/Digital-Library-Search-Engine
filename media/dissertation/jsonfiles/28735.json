@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Doswell, Felicia",
+  "contributor_committeechair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Fox, Edward Alan",
+    "Abrams, Marc",
+    "Gracanin, Denis",
+    "Kafura, Dennis G."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:28Z",
+  "date_adate": "2005-09-06",
+  "date_available": "2014-03-14T20:15:28Z",
+  "date_issued": "2005-08-08",
+  "date_rdate": "2005-09-06",
+  "date_sdate": "2005-08-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Use of proxy caches in the World Wide Web is beneficial to the end user, network administrator, and server administrator since it reduces the amount of redundant traffic that circulates through the network. In addition, end users get quicker access to documents that are cached. However, the use of proxies introduces additional issues that need to be addressed. In particular, there is growing concern over how to maintain cache consistency and coherency among cached versions of documents.</p><p>  The existing consistency protocols used in the Web are proving to be insufficient to meet the growing needs of the Internet population. For example, too many messages sent over the network are due to caches guessing when their copy is inconsistent. One option is to apply the cache coherence strategies already in use for many other distributed systems, such as parallel computers. However, these methods are not satisfactory for the World Wide Web due to its larger size and more diverse access patterns. </p><p> Many decisions must be made when exploring World Wide Web coherency, such as whether to provide consistency at the proxy level (client pull) or to allow the server to handle it (server push). What  trade offs are inherent for each of these decisions? The relevant usage of any method strongly depends upon the conditions of the network (e.g., document types that are frequently requested or the state of the network load) and the resources available (e.g., disk space and type of cache available). Version 1.1 of HTTP is the first protocol version to give explicit rules for consistency on the Web. Many proposed algorithms require changes to HTTP/1.1. However, this is not necessary to provide a suitable solution.</p><p>  One goal of this dissertation is to study the characteristics of document retrieval and modification to determine their effect on proposed consistency mechanisms. A set of effective consistency policies is identified from the investigation. The main objective of this dissertation is to use these findings to design and implement a consistency algorithm that provides improved performance over the current mechanisms proposed in the literature. Optimistically, we want an algorithm that provides strong consistency. However, we do not want to further degrade the network or cause undue burden on the server to gain this advantage.  We propose a system based on the notion of soft-state and based on server push. In this system, the proxy would have some influence on what state information is maintained at the server (spatial consideration) as well as how long to maintain the information (temporal consideration). We perform a benchmark study of the performance of the new algorithm in comparison with existing proposed algorithms. Our results show that the Synchronous Nodes for Consistency (SINC) framework provides an average of 20% control message savings by limiting how much polling occurs with the current Web cache consistency mechanism, Adaptive Client Polling. In addition, the algorithm shows 30% savings on state space overhead at the server by limiting the amount of per-proxy and per-document state information required at the server.</p>",
+  "description_provenance": [
+    "Author Email: fdoswell@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: mabrams@harmonia.com",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: kafura@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:28Z (GMT). No. of bitstreams: 1 Dissertation_ETD2.pdf: 649015 bytes, checksum: fb37f1796583435b17de350948fdc568 (MD5)   Previous issue date: 2005-08-08"
+  ],
+  "handle": "28735",
+  "identifier_other": "etd-08202005-082728",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08202005-082728/",
+  "identifier_uri": "http://hdl.handle.net/10919/28735",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_ETD2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Caching",
+    "Server",
+    "Consistency",
+    "Coherence",
+    "Proxy"
+  ],
+  "title": "Improving Network Performance and Document Dissemination by Enhancing Cache Consistency on the Web Using Proxy and Server Negotiation",
+  "type": "Dissertation"
+}

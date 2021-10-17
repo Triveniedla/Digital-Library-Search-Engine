@@ -1,0 +1,61 @@
+{
+  "contributor_author": "Shi, Xinhua",
+  "contributor_committeechair": "Abbott, A. Lynn",
+  "contributor_committeemember": [
+    "VanLandingham, Hugh F.",
+    "Conners, Richard W.",
+    "Baumann, William T.",
+    "Kline, D. Earl"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:17Z",
+  "date_adate": "2000-07-27",
+  "date_available": "2014-03-14T20:14:17Z",
+  "date_issued": "2000-02-22",
+  "date_rdate": "2001-07-27",
+  "date_sdate": "2000-07-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "X-ray detection methods have increasingly been used as an effective means for the automatic detection of explosives. While a number of devices are now commercially available, most of these technologies are not yet mature. The purpose of this research has been to investigate methods for using x-ray dual-energy transmission and scatter imaging technologies more effectively.<p> Followed by an introduction and brief overview of x-ray detection technologies, a model for a prototype x-ray scanning system, which was built at Virginia Tech, is given. This model has primarily been used for the purpose of system analysis, design and simulations. Then, an algorithm is developed to correct the non-uniformity of transmission detectors in the prototype scanning system.<p> The x-ray source output energy in the prototype scanning system is not monochromatic, resulting in two problems: spectrum overlap and output signal unbalance between high and low energy levels, which will degrade the performance of dual-energy x-ray sensing. A copper filter has been introduced and a numerical optimization method to remove thickness effect of objects has been developed to improve the system performance.<p> The back scattering and forward scattering signals are functions of solid angles between the object and detectors. A given object may be randomly placed anywhere on the conveyor belt, resulting in a variation in the detected signals. Both an adaptive modeling technique and least squares method are used to decrease this distance effect.<p> Finally, discriminate function methods have been studied experimentally, and classification rules have been obtained to separate explosives from other types of materials. In some laboratory tests on various scenarios by inserting six explosive simulants, we observed improvements in classification accuracy from 60% to 80%, depending on the complexity of luggage bags.<p>",
+  "description_provenance": [
+    "Author Email: xshi@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: kline@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:17Z (GMT). No. of bitstreams: 15 05Ch1.pdf: 120655 bytes, checksum: 70f0329bd79f079b0a3de5dc140b7ef1 (MD5) 03Ack.pdf: 45357 bytes, checksum: cd83f1c52f92cecba9ff55a014fbb692 (MD5) 12Ch8.pdf: 59551 bytes, checksum: 0cfbdc740b50327b7773bb7b431e16db (MD5) 11Ch7.pdf: 1038571 bytes, checksum: 7b25d97c0d1bd5206be31ed306849a27 (MD5) 13references.pdf: 102787 bytes, checksum: 62155f4c6070f11fd6551fec7c43b7bf (MD5) 09Ch5.pdf: 430714 bytes, checksum: b42c3bc336aeec4507d855a0d88bd89a (MD5) 04TOCFT.pdf: 92264 bytes, checksum: ee76d18fcc44bfb140f9e4deae25576b (MD5) 15Vita.pdf: 41480 bytes, checksum: d66d04027df81898592c9d362f6ec5d2 (MD5) 08Ch4.pdf: 211340 bytes, checksum: 3a1ad1e78d8af137964d6d23a62cff7e (MD5) 07Ch3.pdf: 714680 bytes, checksum: 13cf289770605833dd0874d837b67987 (MD5) 06Ch2.pdf: 448936 bytes, checksum: cc4a037d782f0d49c5f16c7507bc1a75 (MD5) 14Appendix.pdf: 104956 bytes, checksum: 0dbd74e3b4f27e69e9f47bf65c5c9972 (MD5) 10Ch6.pdf: 206681 bytes, checksum: d9f0b336d5e296052677263904ebfde6 (MD5) 02Abstract.pdf: 49525 bytes, checksum: 27af3c9a1f207bc77df8ec8f02f25840 (MD5) 01title.pdf: 48387 bytes, checksum: bd9c70ef6597934fe2a8a5d885fae81b (MD5)   Previous issue date: 2000-02-22"
+  ],
+  "handle": "28389",
+  "identifier_other": "etd-07252000-10110036",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07252000-10110036/",
+  "identifier_uri": "http://hdl.handle.net/10919/28389",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "05Ch1.pdf",
+    "03Ack.pdf",
+    "12Ch8.pdf",
+    "11Ch7.pdf",
+    "13references.pdf",
+    "09Ch5.pdf",
+    "04TOCFT.pdf",
+    "15Vita.pdf",
+    "08Ch4.pdf",
+    "07Ch3.pdf",
+    "06Ch2.pdf",
+    "14Appendix.pdf",
+    "10Ch6.pdf",
+    "02Abstract.pdf",
+    "01title.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "explosive detection",
+    "object classification",
+    "x-ray imaging",
+    "digital signal processing"
+  ],
+  "title": "Improving Object Classification in X-ray Luggage Inspection",
+  "type": "Dissertation"
+}

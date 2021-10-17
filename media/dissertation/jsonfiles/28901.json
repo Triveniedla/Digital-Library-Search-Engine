@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Gantovnik, Vladimir",
+  "contributor_committeechair": "Gürdal, Zafer",
+  "contributor_committeemember": [
+    "Watson, Layne T.",
+    "Singh, Mahendra P.",
+    "Librescu, Liviu",
+    "Asryan, Levon V."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:16:02Z",
+  "date_adate": "2005-11-04",
+  "date_available": "2014-03-14T20:16:02Z",
+  "date_issued": "2005-08-26",
+  "date_rdate": "2005-11-04",
+  "date_sdate": "2005-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There are many diverse applications that are mathematically modelled in terms of mixed discrete-continuous variables. The optimization of these models is typically difficult due to their combinatorial nature and potential existence of multiple local minima in the search space. Genetic algorithms (GAs) are powerful tools for solving such problems. GAs do not require gradient or Hessian information. However, to reach an optimal solution with a high degree of confidence, they typically require a large number of analyses during the optimization search. Performance of these methods is even more of an issue for problems that include continuous variables. <p> The work here enhances the efficiency and accuracy of the GA with memory using multivariate approximations of the objective and constraint functions individually instead of direct approximations of the overall fitness function. The primary motivation for the proposed improvements is the nature of the fitness function in constrained engineering design optimization problems. Since GAs are algorithms for unconstrained optimization, constraints are typically incorporated into the problem formulation by augmenting the objective function of the original problem with penalty terms associated with individual constraint violations. The resulting fitness function is usually highly nonlinear and discontinuous, which makes the multivariate approximation highly inaccurate unless a large number of exact function evaluations are performed. Since the individual response functions in many engineering problems are mostly smooth functions of the continuous variables (although they can be highly nonlinear), high quality approximations to individual functions can be constructed without requiring a large number of function evaluations. The proposed modification improve the efficiency of the memory constructed in terms of the continuous variables. The dissertation presents the algorithmic implementation of the proposed memory scheme and demonstrates the efficiency of the proposed multivariate approximation procedure for the weight optimization of a segmented open cross section composite beam subjected to axial tension load. Results are generated to demonstrate the advantages of the proposed improvements to a standard genetic algorithm.",
+  "description_provenance": [
+    "Author Email: gantovnik@gmail.com",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: librescu@vt.edu",
+    "Advisor Email: asryan@vt.edu",
+    "Advisor Email: z.gurdal@lr.TUDelft.nl",
+    "Made available in DSpace on 2014-03-14T20:16:02Z (GMT). No. of bitstreams: 1 mainthesis.pdf: 964893 bytes, checksum: b5d7cebe61dcf60e1a832db775c8f67d (MD5)   Previous issue date: 2005-08-26"
+  ],
+  "handle": "28901",
+  "identifier_other": "etd-09082005-185414",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082005-185414/",
+  "identifier_uri": "http://hdl.handle.net/10919/28901",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mainthesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "binary tree memory",
+    "composite structures",
+    "multivariate approximation",
+    "genetic algorithm",
+    "optimization"
+  ],
+  "title": "An Improved Genetic Algorithm for the Optimization of Composite Structures",
+  "type": "Dissertation"
+}

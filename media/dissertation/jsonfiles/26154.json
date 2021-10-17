@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Gadre, Aditya Shrikant",
+  "contributor_committeechair": "Stilwell, Daniel J.",
+  "contributor_committeemember": [
+    "Saunders, William R.",
+    "Kachroo, Pushkin",
+    "Reed, Jeffrey Hugh",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:15Z",
+  "date_adate": "2007-02-28",
+  "date_available": "2014-03-14T20:07:15Z",
+  "date_issued": "2007-01-26",
+  "date_rdate": "2007-02-28",
+  "date_sdate": "2007-02-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Precise navigation of autonomous underwater vehicles (AUV) is one of the most important challenges in the realization of distributed and cooperative algorithms for marine applications. We investigate an underwater navigation technology that enables an AUV to compute its trajectory in the presence of unknown currents in real time and simultaneously estimate the currents, using range or distance measurements from a single known location. This approach is potentially useful for small AUVs which have severe volume and power constraints.  The main contribution of this work is observability analysis of the proposed navigation system using novel approaches towards uniform observability  of linear time-varying (LTV) systems. We utilize the notion of limiting systems in order to address uniform observability of LTV systems. Uniform observability of an LTV system can be studied by assessing finite time observability of its limiting systems. A new definition of uniform observability over a finite interval is introduced in order to address existence of an observer whose estimation error is bounded by an exponentially decaying function on the finite interval. We also show that for a class of LTV systems, uniform observability of a lower dimensional subsystem derived from an LTV system is sufficient for uniform observability of the LTV system.",
+  "description_provenance": [
+    "Author Email: agadre@vt.edu",
+    "Advisor Email: will@adaptivetechinc.com",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:15Z (GMT). No. of bitstreams: 1 dissertation.pdf: 3482402 bytes, checksum: 9af267e6e634c31eb70ed213dc239fb8 (MD5)   Previous issue date: 2007-01-26"
+  ],
+  "handle": "26154",
+  "identifier_other": "etd-02092007-152020",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02092007-152020/",
+  "identifier_uri": "http://hdl.handle.net/10919/26154",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Autonomous Underwater Vehicles",
+    "Underwater Range Navigation",
+    "Uniform Observability",
+    "Finite-time Uniform Observability",
+    "Limiting Systems"
+  ],
+  "title": "Observability Analysis in Navigation Systems with an Underwater Vehicle Application",
+  "type": "Dissertation"
+}

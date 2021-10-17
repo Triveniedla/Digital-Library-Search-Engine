@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Yu, Huijie",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Liu, Yilu",
+    "Lu, Guo-Quan",
+    "Wang, Fei Fred"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:06Z",
+  "date_adate": "2005-03-17",
+  "date_available": "2014-03-14T20:08:06Z",
+  "date_issued": "2005-02-23",
+  "date_rdate": "2006-03-17",
+  "date_sdate": "2005-03-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The work in this dissertation presents the first attempt in the literature to propose the concept of â  soft switchâ  . The goal of â  soft switchâ   is to develop a standard PWM switch cell with built-in adaptive soft switching capabilities. Just like a regular switch, only one PWM signal is needed to drive the soft switch under soft switching condition.  The core technique in soft switch development is a built-in adaptive soft switching circuit with minimized circulation energy. The necessity of minimizing circulation energy is first analyzed. The design and implementation of a universal controller for implementation of variable timing control to minimize circulation energy is presented. The controller has been tested successfully with three different soft switching inverters for electric vehicles application in the Partnership for a New Generation Vehicles (PNGV) project. To simplify the control, several methods to achieve soft switching with fixed timing control are proposed by analyzing a family of zero-voltage switching converters.  The driver based soft switch concept was originated from development of a base driver circuit for current driven bipolar junction transistor (BJT). A new insulated-gate-bipolar-transistor (IGBT) and power metal-oxide-semiconductor field-effect-transistor (MOSFET) gated transistor (IMGT) base drive structure was initially proposed for a high power SiC BJT. The proposed base drive method drives SiC BJTs in a way similar to a Darlington transistor. With some modification, a new base driver structure can adaptively achieve zero voltage turn-on for BJT at all load current range with one single gate. The proposed gate driver based soft switching method is verified by experimental test with both Si and SiC BJT. The idea is then broadened for â  soft switchâ   implementation. The whole soft switched BJT (SSBJT) structure behaves like a voltage-driven soft switch. The new structure has potentially inherent soft transition property with reduced stress and switching loss.  The basic concept of the current driven soft switch is then extended to a voltage-driven device such as IGBT and MOSFET. The key feature and requirement of the soft switch is outlined. A new coupled inductor based soft switching cell is proposed. The proposed zero-voltage-transition (ZVT) cell serves as a good candidate for the development of soft switch. The â  Equivalent Inductorâ   and state plane based analysis method are used to simply the analysis of coupled inductor based zero-voltage switching scheme. With the proposed analysis method, the operational property of the ZVT cell can be identified without solving complicated differential equations. Detailed analysis and design is proposed for a 3kW boost converter example. With the proposed soft switch design, the boost converter can achieve up to 98.9% efficiency over a wide operation range with a single gate drive. A high power inverter with coupled inductor scheme is also designed with simple control compared to the earlier implementation. A family of soft-switching converters using the proposed â  soft switchâ   cell can be developed by replacing the conventional PWM switch with the proposed soft switch.",
+  "description_provenance": [
+    "Author Email: huyu@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: wangfred@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:06Z (GMT). No. of bitstreams: 1 Softswitch.pdf: 3313608 bytes, checksum: 8655a57767af5d56ebfc8d6e8d011ea8 (MD5)   Previous issue date: 2005-02-23"
+  ],
+  "handle": "26399",
+  "identifier_other": "etd-03092005-002643",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03092005-002643/",
+  "identifier_uri": "http://hdl.handle.net/10919/26399",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Softswitch.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "SiC",
+    "ZVT",
+    "zero voltage transition",
+    "inverter",
+    "BJT",
+    "PWM",
+    "coupled inductor",
+    "soft switch",
+    "soft switching",
+    "base drive"
+  ],
+  "title": "Driver Based Soft Switch for Pulse-Width-Modulated Power Converters",
+  "type": "Dissertation"
+}

@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Martin, Luke Andrew",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Ahmadian, Mehdi",
+    "Wicks, Alfred L.",
+    "Kasarda, Mary E. F.",
+    "Yagla, Jon J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:43Z",
+  "date_adate": "2011-05-06",
+  "date_available": "2014-03-14T20:09:43Z",
+  "date_issued": "2011-04-01",
+  "date_rdate": "2011-05-06",
+  "date_sdate": "2011-04-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Accurately modeling damping in engineering structures has plagued scientist and engineers for decades. The integration of viscoelastic materials into engineering structures can reduce undesired vibrations and serve as an effective passive control mechanism. Various techniques have been developed to model viscoelastic materials. The growing popularity of finite element analysis in the 1980s and 1990s spawned new techniques for modeling damping in complex structures. The technique defined in this dissertation can be incorporated into finite element models. In metals, the modulus of elasticity can be modeled as a constant. That is, the modulus of elasticity is not treated as a function of frequency in dynamic models. For viscoelastic materials, the modulus of elasticity can be assumed to be constant for static forces and sinusoidal forcing functions. However, when viscoelastic materials undergo excitations from a random or transient forcing function the constant modulus of elasticity assumption may not be valid. This is because the second order equation of motion has non-constant coefficients or coefficients that vary as a function of frequency. The Golla-Hughes-McTavish (GHM) method is a technique used to incorporate the frequency dependency of viscoelastic materials into finite element models. The GHM method is used as a way to alleviate working with second order differential equations with non-constant coefficients. This dissertation presents the theory for a new material modulus function suitable for application within the framework of the GHM method. However, the new material modulus function uses different assumptions and is referred to as the Modified GHM method or MGHM method. The MGHM method is shown to improve the curve fit and damping characteristics of the GHM method. Additionally, the MGHM method is shown to reduce to the GHM method when the original GHM assumptions are imposed.",
+  "description_provenance": [
+    "Author Email: lukeandrewmartin@gmail.com",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: jon.yagla.ctr@navy.mil",
+    "Made available in DSpace on 2014-03-14T20:09:43Z (GMT). No. of bitstreams: 1 LukeAMartin_Dissertation20110506.pdf: 5243017 bytes, checksum: a83a73341a8060467328d01a0c7e7cbc (MD5)   Previous issue date: 2011-04-01"
+  ],
+  "handle": "26891",
+  "identifier_other": "etd-04152011-140601",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04152011-140601/",
+  "identifier_uri": "http://hdl.handle.net/10919/26891",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LukeAMartin_Dissertation20110506.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Sorbothane",
+    "sandwich beam",
+    "modal",
+    "viscoelastic",
+    "complex modulus",
+    "material modulus function",
+    "damping",
+    "GHM",
+    "MGHM"
+  ],
+  "title": "A Novel Material Modulus Function for Modeling Viscoelastic Materials",
+  "type": "Dissertation"
+}

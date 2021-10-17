@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Wan, Wen",
+  "contributor_committeechair": "Birch, Jeffrey B.",
+  "contributor_committeemember": [
+    "Morgan, John P.",
+    "Patterson, Angela N.",
+    "Vining, G. Geoffrey",
+    "Woodall, William H."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:17:51Z",
+  "date_adate": "2007-11-05",
+  "date_available": "2014-03-14T20:17:51Z",
+  "date_issued": "2007-10-29",
+  "date_rdate": "2007-11-05",
+  "date_sdate": "2007-11-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The multi-response optimization (MRO) problem in response surface methodology (RSM) is quite common in industry and in many other areas of science. During the optimization stage in MRO, the desirability function method, one of the most flexible and popular MRO approaches and which has been utilized in this research, is a highly nonlinear function. Therefore, we have proposed use of a genetic algorithm (GA), a global optimization tool, to help solve the MRO problem. Although a GA is a very powerful optimization tool, it has a computational efficiency problem. To deal with this problem, we have developed an improved GA by incorporating a local directional search into a GA process.   In real life, practitioners usually prefer to identify all of the near-optimal solutions, or all feasible regions, for the desirability function, not just a single or several optimal solutions, because some feasible regions may be more desirable than others based on practical considerations. We have presented a procedure using our improved GA to approximately construct all feasible regions for the desirability function. This method is not limited by the number of factors in the design space.  Before the optimization stage in MRO, appropriate fitted models for each response are required. The parametric approach, a traditional RSM regression technique, which is inflexible and heavily relies on the assumption of well-estimated models for the response of interests, can lead to highly biased estimates and result in miscalculating optimal solutions when the userâ  s model is incorrectly specified. Nonparametric methods have been suggested as an alternative, yet they often result in highly variable estimates, especially for sparse data with a small sample size which are the typical properties of traditional RSM experiments.  Therefore, in this research, we have proposed use of model robust regression 2 (MRR2), a semi-parametric method, which combines parametric and nonparametric methods. This combination does combine the advantages from each of the parametric and nonparametric methods and, at the same time, reduces some of the disadvantages inherent in each.",
+  "description_provenance": [
+    "Author Email: wenw@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: jpmorgan@vt.edu",
+    "Advisor Email: patterso@crd.ge.com",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:51Z (GMT). No. of bitstreams: 1 Final-Wen-11-05-07.pdf: 6260566 bytes, checksum: 52dc64a9d2391f9931b563d51d9f451c (MD5)   Previous issue date: 2007-10-29"
+  ],
+  "handle": "29425",
+  "identifier_other": "etd-11012007-163459",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11012007-163459/",
+  "identifier_uri": "http://hdl.handle.net/10919/29425",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Final-Wen-11-05-07.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": "Desirability Function; Genetic Algorithm (GA); Mod",
+  "title": "Semi-Parametric Techniques for Multi-Response Optimization",
+  "type": "Dissertation"
+}

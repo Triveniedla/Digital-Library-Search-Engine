@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Hertweck, Bryan M.",
+  "contributor_committeechair": "Rakes, Terry R.",
+  "contributor_committeemember": [
+    "Zobel, Christopher W.",
+    "Brown, Evelyn C.",
+    "Matheson, Lance Arthur",
+    "Rees, Loren Paul"
+  ],
+  "contributor_department": "Management Science and Information Technology",
+  "date_accessioned": "2014-03-14T20:16:29Z",
+  "date_adate": "2005-10-07",
+  "date_available": "2014-03-14T20:16:29Z",
+  "date_issued": "2005-09-08",
+  "date_rdate": "2005-10-07",
+  "date_sdate": "2005-09-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Electronic commerce markets are becoming increasingly popular forums for commerce.  As those markets mature, buyers and sellers will both vigorously seek techniques to improve their performance.  The Internet lends itself to the use of agents to work on behalf of buyers and sellers.  Through simulation, this research examines different implementations of buyers' agents (shopbots) and sellers' agents (pricebots) so that buyers, sellers, and agent builders can capitalize on the evolution of e-commerce technologies.</p> <p>Internet markets bring price visibility to a level beyond what is observed in traditional brick-and-mortar markets.  Additionally, an online seller is able to update prices quickly and cheaply.  Due to these facts, there are many pricing strategies that sellers can implement via pricebot to react to their environments.  The best strategy for a particular seller is dependent on characteristics of its marketplace.  This research shows that the extent to which buyers are using shopbots is a critical driver of the success of pricing strategies.  When measuring profitability, the interaction between shopbot usage and seller strategy is very strong - what works well at low shopbot usage levels may perform poorly at high levels.  If a seller is evaluating strategies based on sales volume, the choice may change.  Additionally, as markets evolve and competitors change strategies, the choice of most effective counterstrategies may evolve as well.  Sellers need to clearly define their goals and thoroughly understand their marketplace before choosing a pricing strategy.</p> <p>Just as sellers have choices to make in implementing pricebots, buyers have decisions to make with shopbots.  In addition to the factors described above, the types of shopbots in use can actually affect the relative performance of pricing strategies.  This research also shows that varying shopbot implementations (specifically involving the use of a price memory component) can affect the prices that buyers ultimately pay - an especially important consideration for high-volume buyers.</p> <p>Modern technology permits software agents to employ artificial intelligence.  This work demonstrates the potential of neural networks as a tool for pricebots.  As discussed above, a seller's best strategy option can change as the behavior of the competition changes.  Simulation can be used to evaluate a multitude of scenarios and determine what strategies work best under what conditions.  This research shows that a neural network can be effectively implemented to classify the behavior of competitors and point to the best counterstrategy.</p>",
+  "description_provenance": [
+    "Author Email: bhertwec@highpoint.edu",
+    "Advisor Email: czoble@vt.edu",
+    "Advisor Email: evebrown@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: trakes@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:29Z (GMT). No. of bitstreams: 1 Dissertation_Final.pdf: 452192 bytes, checksum: ec3b9783e939dde123b86b9e854a86e0 (MD5)   Previous issue date: 2005-09-08"
+  ],
+  "handle": "29037",
+  "identifier_other": "etd-09202005-140727",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09202005-140727/",
+  "identifier_uri": "http://hdl.handle.net/10919/29037",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Neural Networks",
+    "Intelligent Agents",
+    "Electronic Commerce",
+    "Simulation"
+  ],
+  "title": "Examining Electronic Markets in Which Intelligent Agents Are Used for Comparison Shopping and Dynamic Pricing",
+  "type": "Dissertation"
+}

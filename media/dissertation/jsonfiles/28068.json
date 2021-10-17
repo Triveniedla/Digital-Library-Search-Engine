@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Waly, Ahmed Fathi",
+  "contributor_committeechair": "Thabet, Walid",
+  "contributor_committeemember": [
+    "Beliveau, Yvan J.",
+    "Schubert, Robert P.",
+    "Wakefield, Ronald R."
+  ],
+  "contributor_department": "Environmental Design and Planning",
+  "date_accessioned": "2014-03-14T20:13:22Z",
+  "date_adate": "2001-06-18",
+  "date_available": "2014-03-14T20:13:22Z",
+  "date_issued": "2001-06-12",
+  "date_rdate": "2002-06-18",
+  "date_sdate": "2001-06-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Macro Planning of construction projects is among the most challenging tasks faced by the project team.  Decisions made during this process have a tremendous impact on the successful execution of the project from its early conceptual phases, through the project construction and completion.  For a large majority of construction projects, the current planning practices remain manually based.  General and project specific data are communicated among project participants through design drawings in a 2D paper-based format.  Due to the interdependence between the different elements and the large amount of information that needs to be manually processed, the current manual implementation approach is very difficult to undertake, and imposes a heavy burden on the project team to carry out the planning process.  Various research efforts have been undertaken in an attempt to capture current planning techniques and allow for the development of new innovative and automated ways in planning.  The developed planning systems are characterized as responsive decision systems, relying mainly on programmed knowledge and heuristics for decision making, hence reducing or eliminating the role of the human planner.  This research presents the framework for a new interactive planning environment called the Virtual Construction Environment (VCE) that supports the thinking process of the project team during the macro planning phase of design-build projects.  Unlike previous responsive-type systems developed, the approach utilized in the VCE is supportive to the project team enabling them to be an active participant in the decision making process.  The main purpose of the VCE is to assist the project team during decision making, by providing pertinent information necessary for making appropriate decisions in a structured format.  This information may be organized, stored, and retrieved by the project team whenever needed during the virtual sessions.  The VCE also provides the project team with appropriate tools to test different work execution and site layout planning scenarios early during project development.  During the virtual sessions, the project team reconstructs the facility by bringing graphical elements together.  The project teamâ  s movements and interactions are recorded to capture their thinking process on how to construct the facility (i.e. sequence of major assemblies).  Other project participants can retrieve recorded decisions for further review or modification.  The project team is also able to specify construction methods, and allocate resources required for the implementation of major assemblies.  The VCE guides the project team to perform these interdependent planning functions interactively and concurrently.  Using system graphical libraries, major equipment and temporary facilities can be superimposed and displayed as graphical objects for site layout planning.  This enables the project team to visually check for space and accessibility conflicts during different virtual construction time intervals.  In order to define required information in the VCE, the author has developed a MAcro Planning Information Classification (MAPIC) model under which information required for macro planning decision making could be classified and organized in a structured standardized format.  The project team may then retrieve and utilize this information whenever needed during the virtual sessions.  A prototype computer tool is developed to illustrate the framework of the VCE.  The computer prototype is implemented using available commercial software tools.",
+  "description_provenance": [
+    "Author Email: awaly@vt.edu",
+    "Advisor Email: thabet@vt.edu",
+    "Advisor Email: yvan@vt.edu",
+    "Advisor Email: silver@vt.edu",
+    "Advisor Email: ronwak@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:22Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 3676851 bytes, checksum: 9976cbd83afdf5160a22a69de3b22a7c (MD5)   Previous issue date: 2001-06-12"
+  ],
+  "handle": "28068",
+  "identifier_other": "etd-06182001-150744",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06182001-150744/",
+  "identifier_uri": "http://hdl.handle.net/10919/28068",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Information Classification",
+    "Virtual Environments",
+    "MAPIC",
+    "Constructability",
+    "CAVE",
+    "3D modeling",
+    "Macro Planning"
+  ],
+  "title": "A Virtual Construction Environment (VCE) for Macro Planning",
+  "type": "Dissertation"
+}

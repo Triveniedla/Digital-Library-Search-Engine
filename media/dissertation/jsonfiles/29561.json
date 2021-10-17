@@ -1,0 +1,49 @@
+{
+  "contributor_author": "McLaughlin, Shane Brendan",
+  "contributor_committeecochair": [
+    "Nussbaum, Maury A.",
+    "Dingus, Thomas A."
+  ],
+  "contributor_committeemember": [
+    "Hankey, Jonathan M.",
+    "Smith-Jackson, Tonya L."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:18:29Z",
+  "date_adate": "2007-12-10",
+  "date_available": "2014-03-14T20:18:29Z",
+  "date_issued": "2007-10-30",
+  "date_rdate": "2007-12-10",
+  "date_sdate": "2007-11-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Collision avoidance systems (CASs) are being developed and fielded to reduce the number and severity of rear-end crashes.  Kinematic algorithms within CASs evaluate sensor input and apply assumptions describing human-response timing and deceleration to determine when an alert should be presented.  This dissertation presents an analytic assessment of dynamic function and performance CASs and associated driver performance for preventing automotive rear-end crashes.  A method for using naturalistic data in the evaluation of CAS algorithms is described and applied to three algorithms.  Time-series parametric data collected during 13 rear-end crashes and 70 near-crashes are input into models of collision avoidance algorithms to determine when the alerts would have occurred.  Algorithm performance is measured by estimating how much of the driving population would be able to respond in the time available between when an alert would occur and when braking was needed.  A sensitivity analysis was performed to consider the effect of alternative inputs into the assessment method.  The algorithms were found to warn in sufficient time to permit 50â  70% of the population to avoid collision in similar scenarios.   However, the accuracy of this estimate was limited because the tested algorithms were found to alert too frequently to be feasible.  The response of the assessment method was most sensitive to differences in assumed response-time distributions and assumed driver braking levels.  Low-speed crashes were not addressed by two of the algorithms.  Analysis of the events revealed that the necessary avoidance deceleration based on kinematics was generally less than 2 s in duration.  At the time of driver response, the time remaining to avoid collision using a 0.5g average deceleration ranged from â  1.1 s to 2.1 s.  In 10 of 13 crashes, no driver response deceleration was present.  Mean deceleration for the 70 near-crashes was 0.37g and maximum was 0.72g.  A set of the events was developed to measure driver response time.  The mean driver response time was 0.7 s to begin braking and 1.1 s to reach maximum deceleration.  Implications for collision countermeasures are considered, response-time results are compared to previous distributions and future work is discussed.",
+  "description_provenance": [
+    "Author Email: smclaughlin@vtti.vt.edu",
+    "Advisor Email: nussbaum@vt.edu",
+    "Advisor Email: tdingus@vtti.vt.edu",
+    "Advisor Email: jhankey@vtti.vt.edu",
+    "Advisor Email: smithjac@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:29Z (GMT). No. of bitstreams: 1 McLaughlin_Dissertation_Final.pdf: 903483 bytes, checksum: 36458df3508fca01c40bc2bccef61cd4 (MD5)   Previous issue date: 2007-10-30"
+  ],
+  "handle": "29561",
+  "identifier_other": "etd-11132007-143951",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11132007-143951/",
+  "identifier_uri": "http://hdl.handle.net/10919/29561",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "McLaughlin_Dissertation_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "collision avoidance",
+    "alert algorithm",
+    "reaction time",
+    "rear-end crash",
+    "driver deceleration",
+    "false alarm",
+    "vehicle braking",
+    "naturalistic driving"
+  ],
+  "title": "Analytic Assessment of Collision Avoidance Systems and Driver Dynamic Performance in Rear-End Crashes and Near-Crashes",
+  "type": "Dissertation"
+}

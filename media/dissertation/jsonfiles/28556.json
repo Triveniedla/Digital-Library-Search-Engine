@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Sarangi, Sudipta",
+  "contributor_committeecochair": [
+    "Gilles, Robert P.",
+    "Haller, Hans H."
+  ],
+  "contributor_committeemember": [
+    "Stegeman, Mark",
+    "Feltenstein, Andrew",
+    "Ball, Sheryl B."
+  ],
+  "contributor_department": "Economics (Arts and Sciences)",
+  "date_accessioned": "2014-03-14T20:14:51Z",
+  "date_adate": "2000-08-25",
+  "date_available": "2014-03-14T20:14:51Z",
+  "date_issued": "2000-07-31",
+  "date_rdate": "2001-08-25",
+  "date_sdate": "2000-08-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation explores the importance of the payoff structure and beliefs for noncooperative games. \tChapter 2 considers instances where the payoffs and the objectives may not be very clear to the players or the analyst. We develop a model for analyzing such games using a vector of reference utilities which are included in the definition of the game and assumed to be shared by all players. These are used to obtain the true utilities in the game. Conditions for the existence of equilibrium are identified by allowing players to have beliefs about the others. The solution concept is applied to the Traveler's Dilemma and a duopoly. \tIn Chapter 3 a non-cooperative model of network formation is developed. Agents form links based on the cost of the link and its assessed benefit. Link formation is one-sided, i.e., agents can initiate links with other agents without their consent, provided the agent forming the link makes the appropriate investment. The model builds on the work of Bala and Goyal, but allows for agent heterogeneity by allowing for different failure probabilities. We investigate Nash networks that exhibit connectedness and redundancy and provide an explicit characterization of star networks. Efficiency and Pareto-optimality issues are discussed through examples. We also explore the consequences of three alternative specifications which address criticisms of such communication networks. \tChapter 4 examines noncooperative fuzzy games. Both in fuzzy noncooperative games and in abstract economies, players impose mutual restrictions on their available strategic choices. Here we combine these two theories: A player tries to minimize the restrictions he imposes on others, while respecting the restrictions imposed by others on him, but does not explicitly pursue any other objectives of his own. We establish existence of an equilibrium in this framework. \tIn Chapter 5 normal form game is modeled using tools from fuzzy set theory. We extend the decision theory framework of Bellman and Zadeh (1970) to a game-theoretic setting. The formulation is preliminary",
+  "description_provenance": [
+    "Author Email: ssarangi@vt.edu",
+    "Advisor Email: Stegeman@vt.edu",
+    "Advisor Email: Rgilles@vt.edu",
+    "Advisor Email: Afeltens@vt.edu",
+    "Advisor Email: Sball@vt.edu",
+    "Advisor Email: Haller@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:51Z (GMT). No. of bitstreams: 1 suddisert.pdf: 841861 bytes, checksum: 0f62355b9777a237ece9afb34ac34a97 (MD5)   Previous issue date: 2000-07-31"
+  ],
+  "handle": "28556",
+  "identifier_other": "etd-08072000-17060036",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08072000-17060036/",
+  "identifier_uri": "http://hdl.handle.net/10919/28556",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "suddisert.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Fuzzy Games",
+    "Nash Networks",
+    "Traveler's Dilemma",
+    "Reference Payoffs"
+  ],
+  "title": "Exploring Payoffs and Beliefs in Game Theory",
+  "type": "Dissertation"
+}

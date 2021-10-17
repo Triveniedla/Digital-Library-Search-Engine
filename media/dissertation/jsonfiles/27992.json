@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Bisha, James Victor",
+  "contributor_committeechair": "Kline, D. Earl",
+  "contributor_committeemember": [
+    "Horvath, Laszlo",
+    "Kim, Young Tek",
+    "Ellis, Kimberly P.",
+    "White, Marshall S."
+  ],
+  "contributor_department": "Wood Science and Forest Products",
+  "date_accessioned": "2014-03-14T20:12:52Z",
+  "date_adate": "2012-07-26",
+  "date_available": "2014-03-14T20:12:52Z",
+  "date_issued": "2012-05-24",
+  "date_rdate": "2012-07-26",
+  "date_sdate": "2012-06-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this research was to correlate the applied material properties of stretch film with its elastic properties measured in a laboratory setting. There are currently no tools available for a packaging engineer to make a scientific decision on how one stretch film performs against another without applying the film. The system for stretch wrap comparison is mostly based on trial and error which can lead to a significant loss of product when testing a new film or shipping a new product for the first time. If the properties of applied stretch film could be predicted using a tensile test method, many different films could be compared at once without actually applying the film, saving time and money and reducing risk. The current method for evaluating the tensile properties of stretch film advises the user apply a hysteresis test to a standard sample size and calculate several standard engineering values. This test does not represent how the material is actually used. Therefore, a new tensile testing method was developed that considers the film gauge (thickness) and its prestretch. The results of this testing method allowed for the calculation of the material stiffness (Bisha Stiffness) and were used to predict its performance in unit load containment. Applied stretch film is currently compared measuring containment force, which current standards define as the amount of force required to pull out a 15.2cm diameter plate, 10.1cm out, located 25.4cm down from the top and 45.7cm over from the side of a standard 121.9cm width unit load. Given this definition, increasing the amount of force required to pull the plate out can be achieved by manipulating two different stretch film properties, either increasing the stiffness of the film or increasing the tension of the film across the face of the unit load during the application process. Therefore, for this research, the traditional definition of containment force has been broken down into two components. Applied film stiffness was defined as the amount of force required to pull the film a given distance off the unit load. Containment force was defined as the amount of force that an applied film exerts on the corner of the unit load. The applied stretch film was evaluated using two different methods. The first method used the standard 10.1cm pull plate (same plate as ASTM D 4649) to measure the force required to pull the film out at different increments from the center on the face of the unit load. This measurement force was transformed into a material stiffness and film tension (which were subsequently resolved into containment force). The second, newly developed, method involved wrapping a bar under the film, on the corner of the unit load, and pulling out on the bar with a tensile testing machine. This method allowed for the direct measurement of the containment force and material stiffness. The results indicated that while some statistically significant differences were found for certain films, the material stiffness and containment were relatively consistent and comparable using either method.The use of the Bisha Stiffness to predict the applied stiffness and containment force yielded a statistically significant correlation but with a very low coefficient of determination. These results suggest that while film thickness and prestretch are key variables that can predict applied stiffness and containment force, more research should be conducted to study other variables that may allow for a better. High variability of the predictions observed were caused by the differences in film morphology between the different method of elongation (tensile vs application). This study was the first that attempted to define and correlate the tensile properties of stretch film and the applied properties of stretch film. From this research many, terms have been clarified, myths have been dispelled, formulas have been properly derived and applied to the data collected and a clear path forward had been laid out for future researchers to be able to predict applied stiffness and containment force from the elastic properties of stretch film.",
+  "description_provenance": [
+    "Author Email: Jim.Bisha@gmail.com",
+    "Advisor Email: lhorvat@vt.edu",
+    "Advisor Email: ytkim@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: kline@vt.edu",
+    "Advisor Email: mswhite@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:52Z (GMT). No. of bitstreams: 1 Bisha_JV_D_2012.pdf: 5316077 bytes, checksum: 97cfe880a8992702aad7b75631c513eb (MD5)   Previous issue date: 2012-05-24"
+  ],
+  "handle": "27992",
+  "identifier_other": "etd-06072012-125910",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06072012-125910/",
+  "identifier_uri": "http://hdl.handle.net/10919/27992",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Bisha_JV_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Stretch Film",
+    "Stiffness",
+    "Containment Force",
+    "Unit Load",
+    "Stretch Wrapping",
+    "Material Handling",
+    "Pallet"
+  ],
+  "title": "Correlation of the Elastic Properties of Stretch Film on Unit Load Containment",
+  "type": "Dissertation"
+}

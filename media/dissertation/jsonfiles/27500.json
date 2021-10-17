@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Popescu, Marius",
+  "contributor_committeechair": "Kumar, Raman",
+  "contributor_committeemember": [
+    "Keown, Arthur J.",
+    "Cliff, Michael T.",
+    "Kadlec, Gregory B."
+  ],
+  "contributor_department": "Finance, Insurance, and Business Law",
+  "date_accessioned": "2014-03-14T20:11:26Z",
+  "date_adate": "2007-05-08",
+  "date_available": "2014-03-14T20:11:26Z",
+  "date_issued": "2007-04-11",
+  "date_rdate": "2007-05-08",
+  "date_sdate": "2007-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation consists of two essays. The first essay develops a new methodology for estimating the probability of informed trading from the observed quotes and depths, by extending the Copeland and Galai (1983) model. This measure (PROBINF) can be computed for each quote and it represents the specialistâ  s ex-ante estimate of the probability of informed trading. I show that PROBINF exhibits a strong and robust relationship with the observed level of insider trading and with measures of the price impact of trades (Ã«) estimated based on the models of Glosten and Harris (1988), Madhavan and Smidt (1991) and Foster and Viswanathan (1993). In contrast, the alternative measure of the probability of informed trading (PIN) developed by Easley, Kiefer, Oâ  Hara and Paperman (1996) exhibits a weaker and less robust relationship with insider trading and price impact of trades. The time series pattern of PROBINF in an intra-day analysis around earnings announcement is consistent with previous findings regarding informed trading. An important advantage of PROBINF over PIN and other measures of information asymmetry such as price impact of trades and adverse selection component of the spread is that, unlike these measures, it can be estimated for each quote, and thus can also be used to measure intra-day changes in informed trading and information asymmetry.  In the second essay, I examine whether the underwriting syndicate composition influences the secondary market liquidity for initial public offerings (IPOs). Specifically, I argue that co-managers improve the liquidity of IPOs through the other services they provide, besides market making. Using a comprehensive sample of initial public offerings completed between January 1993 and December 2005, I find that IPOs with a high number of co-managers in their syndicates have lower spreads and a lower level of information asymmetry in the aftermarket. I argue that the information produced during the premarket and the analyst coverage in the aftermarket are the main channels through which co-managers mitigate the information asymmetry risk in the secondary market.",
+  "description_provenance": [
+    "Author Email: mpopescu@vt.edu",
+    "Advisor Email: emily@vt.edu",
+    "Advisor Email: mcliff@vt.edu",
+    "Advisor Email: kadlec@vt.edu",
+    "Advisor Email: rkumar@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:26Z (GMT). No. of bitstreams: 1 Marius_ETD.pdf: 376760 bytes, checksum: 0ecc4460e450725dc8d7151f3d4aa54c (MD5)   Previous issue date: 2007-04-11"
+  ],
+  "handle": "27500",
+  "identifier_other": "etd-05022007-153028",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022007-153028/",
+  "identifier_uri": "http://hdl.handle.net/10919/27500",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Marius_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "initial public offering (IPO)",
+    "bid-ask spread",
+    "informed trading",
+    "information asymmetry",
+    "underwriting syndicate"
+  ],
+  "title": "Two Essays on the Probability of Informed Trading",
+  "type": "Dissertation"
+}

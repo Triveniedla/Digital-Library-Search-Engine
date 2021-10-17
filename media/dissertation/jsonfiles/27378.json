@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Conrad, Emery David",
+  "contributor_committeechair": "Rogers, Robert C.",
+  "contributor_committeecochair": "Tyson, John J.",
+  "contributor_committeemember": [
+    "Renardy, Michael J.",
+    "Phillips, John B.",
+    "Laubenbacher, Reinhard C."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:06Z",
+  "date_adate": "2006-05-10",
+  "date_available": "2014-03-14T20:11:06Z",
+  "date_issued": "2006-04-14",
+  "date_rdate": "2006-05-10",
+  "date_sdate": "2006-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Circadian rhythms are the endogenous, roughly 24-hour rhythms that coordinate an organism's interaction with its cycling environment. The molecular mechanism underlying this physiological process is a cell-autonomous oscillator comprised of a complex regulatory network of interacting DNA, RNA and proteins that is surprisingly conserved across many different species. It is not a trivial task to understand how the positive and negative feedback loops interact to generate an oscillator capable of a) maintaining a 24-hour rhythm in constant conditions; b) entraining to external light and temperature signals; c) responding to pulses of light in a rather particular, predictable manner; and d) compensating itself so that the period is relatively constant over a large range of temperatures, even for mutations that affect the basal period of oscillation.  <p>Mathematical modeling is a useful tool for dealing with such complexity, because it gives us an object that can be quickly probed and tested in lieu of the experiment or actual biological system. If we do a good job designing the model, it will help us to understand the biology better by predicting the outcome of future experiments. The difficulty lies in properly designing a model, a task that is made even more difficult by an acute lack of quantitative data. Thankfully, our qualitative understanding of a particular phenomenon, i.e. the observed physiology of the cell, can often be directly related to certain mathematical structures. Bifurcation analysis gives us a glimpse of these structures, and we can use these glimpses to build our models with greater confidence.  <p>In this dissertation, I will discuss the particular problem of the circadian clock and describe a number of new methods and tools related to bifurcation analysis. These tools can effectively be applied during the modeling process to build detailed models of biological regulatory with greater ease.",
+  "description_provenance": [
+    "Author Email: econrad@vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Advisor Email: jphillip@vt.edu",
+    "Advisor Email: tyson@vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:06Z (GMT). No. of bitstreams: 5 Fig_1_1_b_and_Fig_1_2_permissions.pdf: 22197 bytes, checksum: d0f33949bd251e6e6927a17320aa078e (MD5) Fig_1_1_a_permissions.pdf: 15690 bytes, checksum: bb9db2935881f7a1869c351e2fe77258 (MD5) Fig_1_6_permissions_need_fax_too.pdf: 18710 bytes, checksum: df648bcd53c2b210cfeee1f84d90f1d8 (MD5) Fig_1_5_permissions.pdf: 18498 bytes, checksum: 1a2e549de306d14dc275cbca3041e2a8 (MD5) phd_20060510.pdf: 2659390 bytes, checksum: 11a413964f93cced6f92344961e250cc (MD5)   Previous issue date: 2006-04-14"
+  ],
+  "handle": "27378",
+  "identifier_other": "etd-04272006-110409",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272006-110409/",
+  "identifier_uri": "http://hdl.handle.net/10919/27378",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Fig_1_1_b_and_Fig_1_2_permissions.pdf",
+    "Fig_1_1_a_permissions.pdf",
+    "Fig_1_6_permissions_need_fax_too.pdf",
+    "Fig_1_5_permissions.pdf",
+    "phd_20060510.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "circadian rhythms",
+    "parameter optimization",
+    "bifurcation analysis"
+  ],
+  "title": "Bifurcation Analysis and Qualitative Optimization of Models in Molecular Cell Biology with Applications to the Circadian Clock",
+  "type": "Dissertation"
+}

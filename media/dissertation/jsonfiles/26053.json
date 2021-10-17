@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zhang, Liang",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Lu, Guo-Quan",
+    "Shimozono, Mark M.",
+    "Martin, Thomas L.",
+    "Tront, Joseph G."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:57Z",
+  "date_adate": "2005-01-31",
+  "date_available": "2014-03-14T20:06:57Z",
+  "date_issued": "2005-01-27",
+  "date_rdate": "2005-01-31",
+  "date_sdate": "2005-01-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the ever increasing complexity of digital systems, functional verification has become a daunting task to circuit designers. Functional verification alone often surpasses 70% of the total development cost and the situation has been projected to continue to worsen. The most critical limitations of existing techniques are the capacity issue and the run-time issue. This dissertation addresses the functional verification problem using a unified approach, which utilizes different core algorithms at various abstraction levels. At the logic level, we focus on incorporating a set of novel ideas to existing formal verification approaches. First, we present a number of powerful optimizations to improve the performance and capacity of a typical SAT-based bounded model checking framework. Secondly, we present a novel method for performing dynamic abstraction within a framework for abstraction-refinement based model checking. Experiments on a wide range of industrial designs have shown that the proposed optimizations consistently provide between 1-2 orders of magnitude speedup and can be extremely useful in enhancing the efficacy of existing formal verification algorithms. At the register transfer level, where the formal verification is less likely to succeed, we developed an efficient ATPG-based validation framework, which leverages the high-level circuit information and an improved observability-enhanced coverage to generate high quality validation sequences. Experiments show that our approach is able to generate high quality validation vectors, which achieve both high tag coverage and high bug coverage with extremely low computational cost.",
+  "description_provenance": [
+    "Author Email: liang@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: mshimo@math.vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: jgtront@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:57Z (GMT). No. of bitstreams: 1 dissertation_v3.pdf: 834713 bytes, checksum: bdbc6e85753d73ce0ab03d4776868ad9 (MD5)   Previous issue date: 2005-01-27"
+  ],
+  "handle": "26053",
+  "identifier_other": "etd-01282005-102938",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01282005-102938/",
+  "identifier_uri": "http://hdl.handle.net/10919/26053",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_v3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bounded Model Checking",
+    "Formal Verification",
+    "SAT",
+    "Simulation",
+    "ATPG"
+  ],
+  "title": "Design Verification for Sequential Systems at Various Abstraction Levels",
+  "type": "Dissertation"
+}

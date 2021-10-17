@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Beck, Roger Ezekiel",
+  "contributor_committeechair": "Durham, Wayne C.",
+  "contributor_committeemember": [
+    "Cliff, Eugene M.",
+    "Hall, Christopher D.",
+    "Lutze, Frederick H. Jr.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:25Z",
+  "date_adate": "2002-06-24",
+  "date_available": "2014-03-14T20:13:25Z",
+  "date_issued": "2002-06-11",
+  "date_rdate": "2003-06-24",
+  "date_sdate": "2002-06-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Methods for allocating redundant controls for systems with four or more objectives are studied. Previous research into aircraft control allocation has focused on allocating control effectors to provide commands for three rotational degrees of freedom. Redundant control systems have the capability to allocate commands for a larger number of objectives. For aircraft, direct force commands can be applied in addition to moment commands. <p> When controls are limited, constraints must be placed on the objectives which can be achieved. Methods for meeting commands in the entire set of of achievable objectives have been developed. The Bisecting Edge Search Algorithm has been presented as a computationally efficient method for allocating controls in the three objective problem. Linear programming techniques are also frequently presented. <p> This research focuses on an effort to extend the Bisecting Edge Search Algorithm to handle higher numbers of objectives. A recursive algorithm for allocating controls for four or more objectives is proposed. The recursive algorithm is designed to be similar to the three objective allocator  and to require computational effort which scales linearly with the controls.   <p> The control allocation problem can be formulated as a linear program. Some background on linear programming is presented.  Methods based on five formulations are presented. <p> The recursive allocator and linear programming solutions are implemented. Numerical results illustrate how the average and worst case performance scales with the problem size. The recursive allocator is found to scale linearly with the number of controls. As the number of objectives increases, the computational time grows much faster. The linear programming solutions are also seen to scale linearly in the controls for problems with many more controls than objectives.  <p> In online applications, computational resources are limited. Even if an allocator performs well in the average case, there still may not be sufficient time to find the worst case solution. If the optimal solution cannot be guaranteed within the available time, some method for early termination should be provided. Estimation of solutions from current information in the allocators is discussed. For the recursive implementation, this estimation is seen to provide nearly optimal performance.",
+  "description_provenance": [
+    "Author Email: rbeck@vt.edu",
+    "Advisor Email: durham@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:25Z (GMT). No. of bitstreams: 1 DISS.pdf: 440505 bytes, checksum: aaf205620680a8fdc6ac544fada00409 (MD5)   Previous issue date: 2002-06-11"
+  ],
+  "handle": "28088",
+  "identifier_other": "etd-06202002-150316",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06202002-150316/",
+  "identifier_uri": "http://hdl.handle.net/10919/28088",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DISS.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "BESA",
+    "Linear Programming",
+    "Control Allocation"
+  ],
+  "title": "Application of Control Allocation Methods to Linear Systems with Four or More Objectives",
+  "type": "Dissertation"
+}

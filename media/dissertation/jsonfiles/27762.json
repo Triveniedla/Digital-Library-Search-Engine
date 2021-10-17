@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zhu, Yizheng",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Xu, Yong",
+    "Heflin, James R.",
+    "Pickrell, Gary R.",
+    "Jacobs, Ira"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:10Z",
+  "date_adate": "2007-06-05",
+  "date_available": "2014-03-14T20:12:10Z",
+  "date_issued": "2007-05-03",
+  "date_rdate": "2010-10-08",
+  "date_sdate": "2007-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Measurement of physical parameters in harsh environments (high pressure, high temperature, highly corrosive, high electromagnetic interference) is often desired in a variety of areas, such as aerospace, automobile, energy, military systems, and industrial processes. Pressure and temperature are among the most important of these parameters. A typical example is pressure monitoring in jet engine compressors to help detect and control undesirable air flow instabilities, namely rotating stall and surge. However, the temperatures inside a compressor could reach beyond 600&#176;C for today's large engines. Current fiber-optic sensor can operate up to about 300&#176;C and even the most widely employed semiconductor sensors are limited below 500Â°C. </p><p> The objective of this research is to push the limit of fiber-optic sensing technology in harsh environment applications for both pressure and temperature measurements by developing novel sensing structures, fabrication techniques, and signal processing algorithms. An all-fused-silica pressure sensor has been demonstrated which is fabricated on the tip of a fiber with a diameter no larger than 125Ï m. The sensor was able to function beyond the current limit and operate into the 600~700Â°C range. Also a temperature sensor has been developed using sapphire fibers and wafers for ultra-high temperature measurement as high as 1600Â°C. This effort will generate more understanding regarding sapphire fiber's high temperature properties and could possibly lead to novel designs of pressure sensor for beyond 1000Â°C. Both sensors have been field tested in real-world harsh environments and demonstrated to be reliably and robust. </p><p> In this dissertation, the design, fabrication, and testing of the sensors are discussed in detail. The system and signal processing techniques are presented. The plan and direction for future work are also suggested with an aim of further pushing the operating limit of fiber-optic sensors.</p>",
+  "description_provenance": [
+    "Author Email: yizhu1@vt.edu",
+    "Advisor Email: yong@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: pickrell@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:10Z (GMT). No. of bitstreams: 1 Dissertation_Zhu.pdf: 1383981 bytes, checksum: 0e6529dd445aab49d0267789e8f14a22 (MD5)   Previous issue date: 2007-05-03"
+  ],
+  "handle": "27762",
+  "identifier_other": "etd-05172007-235731",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172007-235731/",
+  "identifier_uri": "http://hdl.handle.net/10919/27762",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Zhu.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "white-light interferometry",
+    "fiber-optic sensor",
+    "temperature sensor",
+    "miniature",
+    "pressure sensor"
+  ],
+  "title": "Miniature Fiber-Optic Sensors for High-Temperature Harsh Environments",
+  "type": "Dissertation"
+}

@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Grover, Piyush",
+  "contributor_committeechair": "Ross, Shane D.",
+  "contributor_committeemember": [
+    "Kriz, Ronald D.",
+    "Stremler, Mark A.",
+    "Dankowicz, Harry J.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:57Z",
+  "date_adate": "2010-07-06",
+  "date_available": "2014-03-14T20:12:57Z",
+  "date_issued": "2010-06-01",
+  "date_rdate": "2010-07-06",
+  "date_sdate": "2010-06-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dynamics of a complex system can be understood by analyzing the phase space structure of that system. We apply geometric and statistical techniques to two Hamiltonian systems to find and exploit structure in the phase space that helps us get qualitative and quantitative results about the phase space transport. While the structure can be revealed by the study of invariant manifolds of fixed points and periodic orbits in the first system, there do not exist any fixed points (and hence invariant manifolds) in the second system. The use of statistical (or measure theoretic) and topological methods reveals the phase space structure even in the absence of fixed points or stable and unstable invariant manifolds.  The first problem we study is the four-body problem in the context of a spacecraft in the presence of a planet and two of its moons, where we exploit the phase space structure of the problem to devise an intelligent control strategy to achieve mission objectives. We use a family of analytically derived controlled Keplerian Maps in the Patched-Three-Body framework to design fuel efficient trajectories with realistic flight times. These maps approximate the dynamics of the Planar Circular Restricted Three Body Problem (PCR3BP) and we patch solutions in two different PCR3BPs to form the desired trajectories in the four body system.  The second problem we study concerns phase space mixing in a two-dimensional time dependent Stokes flow system. Topological analysis of the braiding of periodic points has been recently used to find lower bounds on the complexity of the flow via the Thurston-Nielsen classification theorem (TNCT). We extend this framework by demonstrating that in a perturbed system with no apparent periodic points, the almost-invariant sets computed using a transfer operator approach are the natural objects on which to pin the TNCT.",
+  "description_provenance": [
+    "Author Email: groverp@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: sdross@vt.edu",
+    "Advisor Email: mark.stremler@vt.edu",
+    "Advisor Email: danko@illinois.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:57Z (GMT). No. of bitstreams: 1 Grover_P_D_2010.pdf: 44788348 bytes, checksum: 1bf4960a8034d618006b6a7f225dbe18 (MD5)   Previous issue date: 2010-06-01"
+  ],
+  "handle": "28019",
+  "identifier_other": "etd-06112010-162808",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06112010-162808/",
+  "identifier_uri": "http://hdl.handle.net/10919/28019",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Grover_P_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "set-oriented methods",
+    "braid bifurcation",
+    "Perron-Frobenius operator",
+    "ghost rods",
+    "braids",
+    "fluid mixing",
+    "multi-moon orbiter",
+    "low energy mission design",
+    "braiding of almost-invariant sets"
+  ],
+  "title": "Finding and exploiting structure in complex systems via geometric and statistical methods",
+  "type": "Dissertation"
+}

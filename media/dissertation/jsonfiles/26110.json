@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Shedied, Samy Aly",
+  "contributor_committeechair": "Kachroo, Pushkin",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "VanLandingham, Hugh F.",
+    "Mili, Lamine M.",
+    "Reinholtz, Charles F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:08Z",
+  "date_adate": "2002-02-06",
+  "date_available": "2014-03-14T20:07:08Z",
+  "date_issued": "2002-01-22",
+  "date_rdate": "2003-02-06",
+  "date_sdate": "2002-02-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation we introduce a new class of pursuit-evasion games; the herding problem. Unlike regular pursuit evasion games where the pursuer aims to hunt the evader the objective of the pursuer in this game is to drive the evader to a certain location on the x-y grid. The dissertation deals with this problem using two different methodologies. In the first, the problem is introduced in the continuous-time, continuous-space domain. The continuous time model of the problem is proposed, analyzed and we came up with an optimal control law for the pursuer is obtained so that the evader is driven to the desired destination position in the x-y grid following the local shortest path in the Euler Lagrange sense. Then, a non-holonomic realization of the two agents is proposed. In this and we show that the optimal control policy is in the form of a feedback control law that enables the pursuer to achieve the same objective using the shortest path.  The second methodology deals with the discrete model representation of the problem. In this formulation, the system is represented by a finite di-graph. In this di-graph, each state of the system is represented by a node in the graph. Applying dynamic programming technique and shortest path algorithms over the finite graph representing the system, we come up with the optimal control policy that the pursuer should follow to achieve the desired goal. To study the robustness, we formulate the problem in a stochastic setting also. We analyze the stochastic model and derive an optimal control law in this setting. Finally, the case with active evader is considered, the optimal control law for this case is obtained through the application of dynamic programming technique.",
+  "description_provenance": [
+    "Author Email: sshedied@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: creinhol@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:08Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 2068637 bytes, checksum: e3cb7edc937e82348331b22430d1c2f8 (MD5)   Previous issue date: 2002-01-22"
+  ],
+  "handle": "26110",
+  "identifier_other": "etd-02042002-152330",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02042002-152330/",
+  "identifier_uri": "http://hdl.handle.net/10919/26110",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Shortest Path",
+    "Dynamic Programming",
+    "Non-holonomic Systems",
+    "Pursuit Evasion"
+  ],
+  "title": "Optimal Control for a Two Player Dynamic Pursuit Evasion Game; The Herding Problem",
+  "type": "Dissertation"
+}

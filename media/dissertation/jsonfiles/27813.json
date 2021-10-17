@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhou, Ming",
+  "contributor_committeechair": "Centeno, Virgilio A.",
+  "contributor_committeemember": [
+    "Phadke, Arun G.",
+    "Stilwell, Daniel J.",
+    "Lin, Tao",
+    "Liu, Yilu",
+    "Thorp, James S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:20Z",
+  "date_adate": "2008-06-20",
+  "date_available": "2014-03-14T20:12:20Z",
+  "date_issued": "2008-05-19",
+  "date_rdate": "2009-06-20",
+  "date_sdate": "2008-05-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Phasor Measurement Units (PMUs) are widely acknowledged as one of the most promising developments in the field of real-time monitoring of power systems. By aligning the time stamps of voltage and current phasor measurements that are consistent with Coordinated Universal Time (UTC), a coherent picture of the power system state can be achieved through either direct measurements or simple linear calculations. With the growing number of PMUs planned for installation in the near future, both utilities and research institutions are looking for the best solutions to the placement of units as well as to the applications that make the most of phasor measurements.  This dissertation explores a method for optimal PMU placement as well as two applications of synchronized phasor measurements in state estimation. The pre-processing PMU placement method prepares the system data for placement optimization and reduces the size of the optimization problem. It is adaptive to most of the optimal placement methods and can save a large amount of computational effort.  Depth of un-observability is one of the criteria to allow the most benefit out of a staged placement of the units. PMUs installed in the system provide synchronized phasor measurements that are highly beneficial to power system state estimations. Two related applications are proposed in the dissertation. First, a post-processing inclusion of phasor measurements in state estimators is introduced. This method avoids the revision of the existing estimators and is able to realize similar results as mixing phasor data with traditional SCADA with a linear afterwards step. The second application is a method to calibrate instrument transformers remotely using phasor measurements. Several scans of phasor measurements are used to accomplish estimating system states in conjunction with complex instrument transformer correction factors. Numerical simulation results are provided for evaluation of the calibration performance with respect to the number of scans and load conditions.  Conducting theoretical and numerical analysis, the methods and algorithms  developed in this dissertation are aimed to strategically place PMUs and to incorporate phasor measurements into state estimators effectively and extensively for better system state monitoring. Simulation results show that the proposed placement method facilitates approaching the exact optimal placement while keep the computational effort low. Simulation also shows that the use of phasor measurement with the proposed instrument transformer correction factors and proposed state estimation enhancement largely improves the quality of state estimations.",
+  "description_provenance": [
+    "Author Email: zhouming@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: fdr@vt.edu",
+    "Advisor Email: jsthorp@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:20Z (GMT). No. of bitstreams: 1 Advanced_System_Monitoring_with_Phasor_Measurements.pdf: 863355 bytes, checksum: 8e124d98f173672aa0e72aba26ccca5c (MD5)   Previous issue date: 2008-05-19"
+  ],
+  "handle": "27813",
+  "identifier_other": "etd-05202008-105242",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05202008-105242/",
+  "identifier_uri": "http://hdl.handle.net/10919/27813",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Advanced_System_Monitoring_with_Phasor_Measurements.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Calibration",
+    "State Estimation",
+    "PMU",
+    "Phasor Measurements"
+  ],
+  "title": "Advanced System Monitoring with Phasor Measurements",
+  "type": "Dissertation"
+}

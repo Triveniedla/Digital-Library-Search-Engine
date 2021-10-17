@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Phillips, John Michael",
+  "contributor_committeechair": "Anderson, Mark R.",
+  "contributor_committeemember": [
+    "Lutze, Frederick H. Jr.",
+    "Durham, Wayne C.",
+    "Cliff, Eugene M.",
+    "Hall, Christopher D."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:14:40Z",
+  "date_adate": "2000-08-28",
+  "date_available": "2014-03-14T20:14:40Z",
+  "date_issued": "2000-07-27",
+  "date_rdate": "2001-08-28",
+  "date_sdate": "2000-08-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Human operators often employ discontinuous or \"bang-bang\" control strategies when performing large-amplitude acquisition tasks.  The current study applies Variable Structure Control (VSC) techniques to model human operator behavior during acquisition tasks. The result is a coupled, multi-input model replicating the discontinuous control strategy. In the VSC formulation, a switching surface is the mathematical representation of the operator's control strategy. The performance of the Variable Strategy Model (VSM) is evaluated by considering several examples, including the longitudinal control of an aircraft during the visual landing task. The aircraft landing task becomes an acquisition maneuver whenever large initial offsets occur. Several different strategies are explored in the VSM formulation for the aircraft landing task. First, a switching surface is constructed from literal interpretations of pilot training literature.  This approach yields a mathematical representation of how a pilot is trained to fly a generic aircraft. This switching surface is shown to bound the trajectory response of a group of pilots performing an offset landing task in an aircraft simulator study. Next, front-side and back-side landing strategies are compared. A back-side landing strategy is found to be capable of landing an aircraft flying on either the front side or back side of the power curve. However, the front-side landing strategy is found to be insufficient for landing an aircraft flying on the back side. Finally, a more refined landing strategy is developed that takes into the account the specific aircraft's dynamic characteristics. The refined strategy is translated back into terminology similar to the existing pilot training literature.",
+  "description_provenance": [
+    "Author Email: ecp.jmp@mailcity.com",
+    "Advisor Email: lutze@aoe.vt.edu",
+    "Advisor Email: durham@aoe.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: chall@aoe.vt.edu",
+    "Advisor Email: anderson@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:40Z (GMT). No. of bitstreams: 1 mike_ths.pdf: 1184573 bytes, checksum: d719a5e1cc92a5bacc5093bef7c44ca0 (MD5)   Previous issue date: 2000-07-27"
+  ],
+  "handle": "28496",
+  "identifier_other": "etd-08032000-08520024",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08032000-08520024/",
+  "identifier_uri": "http://hdl.handle.net/10919/28496",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mike_ths.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Human Operator Modeling",
+    "Man-Machine Systems"
+  ],
+  "title": "Variable Strategy Model of the Human Operator",
+  "type": "Dissertation"
+}

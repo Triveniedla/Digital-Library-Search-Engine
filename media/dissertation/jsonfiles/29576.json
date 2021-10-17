@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Zhang, Xin",
+  "contributor_committeecochair": [
+    "Huang, Alex Q.",
+    "Thorp, James S."
+  ],
+  "contributor_committeemember": [
+    "van Wyk, Jacobus Daniel",
+    "Lindner, Douglas K.",
+    "Lee, Fred C.",
+    "Hendricks, Robert W.",
+    "Ha, Dong Sam"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:18:31Z",
+  "date_adate": "2005-12-06",
+  "date_available": "2014-03-14T20:18:31Z",
+  "date_issued": "2005-11-01",
+  "date_rdate": "2008-12-06",
+  "date_sdate": "2005-11-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Modern microprocessors require low supply voltage (about 1V), but very high current (maximum current is 300A in servers, 100A in desktop PCs and 70A in notebook PCs), and tighter voltage regulation. However, the size of a CPU Voltage Regulator (VR) needs to be reduced.  To achieve much higher power density with decent efficiency in VR design is a major challenge. Moreover, the CPU current rating can vary from 40A to 300A for different kinds of computers, and CPU power supply specifications change quickly even for the same type of computers. Since the maximum power rating of one channel converter is limited, the VR channel number may vary over a large range to meet VR specifications. Traditionally, VR design with different channel numbers needs different types of VR controllers. To reduce the developing cost of different control ICs, and to maximize the market share of one design, scalable phase design based on the same type of IC is a new trend in VR design.  </p><p>    To achieve higher power density and at the same time to achieve scalable phase design, the concept of Monolithic Voltage Regulator Channel (MVRC) is introduced in this dissertation. MVRC is a power IC with one channel converter's power MOSFETs, drivers and control circuitries monolithically integrated based on lateral device technology and working at high frequency. It can be used alone to supply a POL (Point of Load). And without the need for a separate master controller, multiple MVRC chips can be paralleled together to supply a higher current load such as a CPU. </p><p>    To make MVRC a reality, the key is to develop a fully distributed control scheme and its associated analog IC circuitry, so that it can provide control functions required by microprocessors and the performance must be equal or better than a traditional a centralized VRM controller. These functions includes: multiphase interleaving, Adaptive Voltage Position (AVP) and current sharing. </p><p>    To achieve interleaving, this dissertation introduces a novel distributed interleaving scheme that can easily achieve scalable phase interleaving without channel number limitation. Each channel's interleaving circuitry can be monolithically integrated without any external components.  The proposed scheme is verified by a hardware prototype. The key building block is a self-adjusting saw-tooth generator, which can produce accurate saw-tooth waveforms without trimming. The interleaving circuit for each channel has two self-adjusting saw-tooth generators. One behaves as a Phase Lock Loop to produce accurate phase delay, and the other produces carrier signals. </p><p>    To achieve Adaptive Voltage Position and current sharing, a novel distributed control scheme adopting the active droop control for each channel is introduced. Verified by hardware testing and transient simulations, the proposed distributed AVP and current sharing control scheme meets the requirements of Intel's guidelines for today and future's VR design. Monte Carlo simulation and statistics analysis show that the proposed scheme has a better AVP tolerance band than the traditional centralized control if the same current sensing scheme is used, and its current sharing performance is as good as the traditional control. </p><p>    It is critical for the current sensing to achieve a tight AVP regulation window and good current sharing in both the traditional centralized control scheme and the proposed distributed control scheme. Inductor current sensing is widely adopted because of the acceptable accuracy and no extra power loss. However, the Signal-to-Noise Ratio (SNR) of the traditional inductor current sensing scheme may become too small to be acceptable in high frequency VR design where small inductor with small DCR is often adopted.  To improve the SNR, a novel current sensing scheme with an accurate V/I converter is proposed. To reduce the complexity of building an accurate V/I converter with traditional Opamps, an accurate monolithic transconductance (Gm) amplifier with a large dynamic range is developed. The proposed Gm amplifier can achieve accurate V/I conversion without trimming.  </p><p>    To obtain further verification, above proposed control schemes are monolithically integrated in a dual channel synchronous BUCK controller using TSMC BiCMOS 0.5um process. Testing results show that all the proposed novel analog circuits work as expected. System testing results show good interleaving, current sharing and AVP performance. The silicon size of each channel is 1800&#215;1000um<sup>2</sup>. </p><p>    With proposed current sensing, interleaving, AVP and current sharing, as well as their associated analog IC implementations, the technical barriers to develop a MVRC are overcome. MVRC has the potential to become a generic power IC solution for today and future POL and CPU power management. </p><p>    The proposed distributed interleaving, AVP and current sharing schemes can also be used in any cellular converter system. The proposed analog building blocks like the self-adjusting saw-tooth generator and the accurate transconductance amplifier can be used as basic building blocks in any DC-DC controller. </p>",
+  "description_provenance": [
+    "Author Email: xizhang7@vt.edu",
+    "Advisor Email: aqhuang@ncsu.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: hendrxrw@vt.edu",
+    "Advisor Email: jsthorp@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:31Z (GMT). No. of bitstreams: 1 XinZhang_PhD_Dissertation_ver3.pdf: 4864314 bytes, checksum: d75cb0795fb7cc3b896bd6f22f63b534 (MD5)   Previous issue date: 2005-11-01"
+  ],
+  "handle": "29576",
+  "identifier_other": "etd-11142005-000332",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11142005-000332/",
+  "identifier_uri": "http://hdl.handle.net/10919/29576",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "XinZhang_PhD_Dissertation_ver3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Scalable",
+    "Distributed control",
+    "IC",
+    "Multiphase",
+    "Analog",
+    "Voltage Regulator"
+  ],
+  "title": "Fully Distributed Control and Its Analog IC Design For Scalable Multiphase Voltage Regulators",
+  "type": "Dissertation"
+}

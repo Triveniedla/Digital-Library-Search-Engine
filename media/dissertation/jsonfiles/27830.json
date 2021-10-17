@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Dippold, Amanda",
+  "contributor_committeechair": "Hovakimyan, Naira",
+  "contributor_committeecochair": "Woolsey, Craig A.",
+  "contributor_committeemember": [
+    "Hall, Christopher D.",
+    "Farhood, Mazen"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:12:25Z",
+  "date_adate": "2009-06-11",
+  "date_available": "2014-03-14T20:12:25Z",
+  "date_issued": "2009-05-05",
+  "date_rdate": "2009-06-11",
+  "date_sdate": "2009-05-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation discusses vision-based static obstacle avoidance for a fleet of nonholonomic robots tasked to arrive at a final destination simultaneously. Path generation for each vehicle is computed using a single polynomial function that incorporates the vehicle constraints on velocity and acceleration and satisfies boundary conditions by construction. Furthermore, the arrival criterion and a preliminary obstacle avoidance scheme is incorporated into the path generation. Each robot is equipped with an inertial measurement unit that provides measurements of the vehicleâ  s position and velocity, and a monocular camera that detects obstacles. The obstacle avoidance algorithm deforms the vehicleâ  s original path around at most one obstacle per vehicle in a direction that minimizes an obstacle avoidance potential function. Deconfliction of the vehicles during obstacle avoidance is achieved by imposing a separation condition at the path generation level. Two estimation schemes are applied to estimate the unknown obstacle parameters. The first is an existing method known in the literature as Identifier-Based Observer and the second is a recently-developed fast estimator. It is shown that the performance of the fast estimator and its effect on the obstacle avoidance algorithm can be arbitrarily improved by the appropriate choice of parameters as compared to the Identifier-Based Observer method. Coordination in time of all vehicles is completed in an outer loop which adjusts the desired velocity profile of each vehicle in order to meet the simultaneous arrival constraints. Simulation results illustrate the theoretical findings.",
+  "description_provenance": [
+    "Author Email: ayoung83@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: nhovakim@illinois.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Advisor Email: farhood@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:25Z (GMT). No. of bitstreams: 1 FinalVersion.pdf: 5805297 bytes, checksum: a9bdb8e8b7b21e7e4f2259392a230f81 (MD5)   Previous issue date: 2009-05-05"
+  ],
+  "handle": "27830",
+  "identifier_other": "etd-05212009-143624",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05212009-143624/",
+  "identifier_uri": "http://hdl.handle.net/10919/27830",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "FinalVersion.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Path generation",
+    "path following",
+    "obstacle avoidance",
+    "path deformation",
+    "vision-based estimation",
+    "visual sensors",
+    "coordinated control",
+    "time-critical missions"
+  ],
+  "title": "Vision-Based Obstacle Avoidance for Multiple Vehicles Performing Time-Critical Missions",
+  "type": "Dissertation"
+}

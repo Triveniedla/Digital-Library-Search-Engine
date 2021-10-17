@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Liang, Hong",
+  "contributor_committeechair": "Foutz, Robert",
+  "contributor_committeemember": [
+    "Reynolds, Marion R. Jr.",
+    "Jensen, Donald R.",
+    "Terrell, George R.",
+    "Anderson-Cook, Christine M."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:12:04Z",
+  "date_adate": "2002-05-22",
+  "date_available": "2014-03-14T20:12:04Z",
+  "date_issued": "2002-04-16",
+  "date_rdate": "2003-05-22",
+  "date_sdate": "2002-05-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Adaptive Fourier Analysis For Unequally-Spaced Time Series Data  by  Hong Liang  Robert V. Foutz, Chairman  Statistics  (ABSTRACT)  Fourier analysis, Walsh-Fourier analysis, and  wavelet  analysis have often  been used  in time series analysis. Fourier analysis can be used to detect periodic components that have sinusoidal shape; however, it might be misleading when the periodic components are not sinusoidal.  Walsh-Fourier analysis is suitable for revealing the rectangular trends of time series.  The  flaw of  the Walsh-Fourier analysis  is that Walsh  functions are not periodic. The  resulting Walsh-Fourier analysis  is more difficult  to interpret than classical Fourier analysis.   Wavelet analysis  is very useful in  analyzing and  describing  time  series with gradual frequency changes.  Wavelet  analysis also has  a shortcoming by giving no exact meaning to the concept of frequency because wavelets are not periodic functions. In addi-tion, all three analysis methods above require equally-spaced time series observations. \tIn this dissertation, by using a sequence  of periodic step functions, a new analysis method,  adaptive Fourier analysis, and  its theory are developed. These can be applied to time series data where patterns may take general periodic shapes that include sinusoids as special cases.  Most importantly,  the resulting adaptive  Fourier analysis does not require equally-spaced time series observations.",
+  "description_provenance": [
+    "Author Email: holiang@vt.edu",
+    "Advisor Email: b2948@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: djensen@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:04Z (GMT). No. of bitstreams: 1 dissertation_new.pdf: 568874 bytes, checksum: a8b89be46999d798be6edeaaccf20c20 (MD5)   Previous issue date: 2002-04-16"
+  ],
+  "handle": "27722",
+  "identifier_other": "etd-05152002-152728",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05152002-152728/",
+  "identifier_uri": "http://hdl.handle.net/10919/27722",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_new.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Adaptive Fourier Analysis",
+    "Unequally-Spaced",
+    "Time Series",
+    "Wavelet",
+    "Walsh-Fourier"
+  ],
+  "title": "Adaptive Fourier Analysis For Unequally-Spaced Time Series Data",
+  "type": "Dissertation"
+}

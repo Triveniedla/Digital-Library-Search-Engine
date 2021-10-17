@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Skidmore, Roger Ray",
+  "contributor_committeecochair": [
+    "Rappaport, Theodore S.",
+    "Ferrari, Leonard A."
+  ],
+  "contributor_committeemember": [
+    "Woerner, Brain D.",
+    "Ramakrishnan, Naren",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:46Z",
+  "date_adate": "2003-05-28",
+  "date_available": "2014-03-14T20:11:46Z",
+  "date_issued": "2003-04-25",
+  "date_rdate": "2004-05-28",
+  "date_sdate": "2003-05-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Increasingly, wireless subscribers are demanding reliable data capabilities from wireless networks.  The ability of wireless network engineers and Information Technology (IT) professionals to rapidly design, deploy, and maintain wireless communication systems that can provide strong, reliable data service is severely hampered by a lack of adequate systems and methods for simulating the performance of such networks a priori.  Unlike older generation wireless systems that could be readily deployed on the basis of strong received signal strength and simple circuit-switched channel allocation protocols, modern and emerging wireless data networks are more noise and interference limited and rely on packet-based protocols.  A heavier emphasis is needed on predicting and simulating throughput, bit error rate, frame error rate, user priority classes, and overall network capacity.  This research provides wireless network engineers and IT professionals with a comprehensive system and method for the simulation and design of wireless communication systems that combines site-specific databases, equipment-specific distribution system modeling, and advanced ray tracing propagation analysis to directly predict throughput, frame error rate (FER), and other critical performance parameters for emerging wireless data networks.",
+  "description_provenance": [
+    "Author Email: skid@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: tsrwvcomm@aol.com",
+    "Advisor Email: ferrari@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:46Z (GMT). No. of bitstreams: 1 etd.pdf: 11545353 bytes, checksum: 74421911738973cdcd35286d4e648e97 (MD5)   Previous issue date: 2003-04-25"
+  ],
+  "handle": "27611",
+  "identifier_other": "etd-05092003-114544",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05092003-114544/",
+  "identifier_uri": "http://hdl.handle.net/10919/27611",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "communication system",
+    "computer networks",
+    "networks",
+    "throughput",
+    "propagation",
+    "ray tracing",
+    "communications",
+    "communication networks",
+    "wireless",
+    "indoor communications",
+    "WLAN",
+    "radio waves",
+    "radio",
+    "wireless communications"
+  ],
+  "title": "A Comprehensive Method and System for the Design and Deployment of Wireless Data Networks",
+  "type": "Dissertation"
+}

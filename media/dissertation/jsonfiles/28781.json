@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Wu, Haisang",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Jensen, E. Douglas",
+    "Martin, Thomas L.",
+    "Sarin, Subhash C.",
+    "Mishra, Amitabh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:39Z",
+  "date_adate": "2005-08-29",
+  "date_available": "2014-03-14T20:15:39Z",
+  "date_issued": "2005-07-29",
+  "date_rdate": "2005-08-29",
+  "date_sdate": "2005-08-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we consider timeliness and energy optimization in battery-powered, mobile embedded real-time systems. We focus on real-time systems that operate in environments with dynamically uncertain properties, including context-dependent activity execution times and arbitrary activity arrival patterns. We consider an application model where activities are subject to time/utility function (or TUF) time constraints, mutual exclusion constraints on concurrent sharing of non-CPU resources, timeliness requirements including assurances on individual activity timeliness behavior, and system-level energy consumption requirements including a non-exhaustable energy budget.   To account for uncertainties in activity properties in dynamic systems, we stochastically describe activity execution demands, and describe activity arrival behaviors using the unimodal arbitrary arrival model, which allows unbounded arrival frequencies. We consider the scheduling optimality criteria of: (1) probabilistically satisfying lower bounds on individual activities' maximal timeliness utilities, and (2) maximizing system-level energy efficiency, while ensuring that the system's energy consumption never exhausts the energy budget and resource mutual exclusion constraints are satisfied.   For this multi-criteria scheduling problem, we present a DVS (dynamic voltage scaling)-based, real-time scheduling algorithm called the Energy-Bounded Utility Accrual Algorithm (or EBUA). Since the scheduling problem is NP-hard, EBUA heuristically (and dynamically) allocates CPU cycles to activities, computes activity schedules, and scales CPU voltage and frequency with a polynomial-time cost. If activities' cumulative execution demands exceed the available CPU time or may exhaust the system's energy budget, the algorithm defers and rejects jobs in a controlled fashion, minimizing system-level energy consumption and maximizing total accrued utility.   We analytically establish several properties of EBUA. We prove that the algorithm never exhausts the specified energy budget. Further, we establish EBUA's timeliness optimality during under-loads, freedom from deadlocks, and correctness in mutually exclusive resource sharing. In particular, we prove that the algorithm's timeliness behavior subsumes the optimal timeliness behavior of deadline scheduling as a special case, and identify the conditions under which lower bounds on individual activity utilities are satisfied. In addition, we upper bound the time needed for mutually exclusively accessing shared resources under EBUA.  We conduct experimental studies by simulating the algorithm on the DVS-enabled AMD k6 processor model, and by implementing it on QNX Neutrino 6.2.1 RTOS. Our experimental results validate our analytical results. Further, they confirm EBUA's superiority over other energy-efficient real-time scheduling algorithms on timeliness and energy consumption behaviors.",
+  "description_provenance": [
+    "Author Email: hswu02@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: jensen@mitre.org",
+    "Advisor Email: thmartin@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: mishra@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:39Z (GMT). No. of bitstreams: 1 Wu_Hao_T_2012.pdf: 29968575 bytes, checksum: 096f876ee12251317183cd5898643f03 (MD5)   Previous issue date: 2005-07-29"
+  ],
+  "handle": "28781",
+  "identifier_other": "etd-08242005-145355",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08242005-145355/",
+  "identifier_uri": "http://hdl.handle.net/10919/28781",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wu_Hao_T_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Overload Scheduling",
+    "Dynamic Voltage Scaling",
+    "Utility Accrual Scheduling",
+    "Time/Utility Functions",
+    "Energy-Efficient Scheduling",
+    "Real-Time Scheduling"
+  ],
+  "title": "Energy-Efficient, Utility Accrual Real-Time Scheduling",
+  "type": "Dissertation"
+}

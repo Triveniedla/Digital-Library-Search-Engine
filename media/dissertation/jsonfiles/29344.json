@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Pratt, Jon  Robert Jr.",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Mook, Dean T.",
+    "Inman, Daniel J.",
+    "Herdman, Terry L.",
+    "Hajj, Muhammad R."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:17:34Z",
+  "date_adate": "1997-12-18",
+  "date_available": "2014-03-14T20:17:34Z",
+  "date_issued": "1997-11-05",
+  "date_rdate": "1998-12-18",
+  "date_sdate": "1997-11-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A mechatronic system of actuators, sensors, and analog circuits is demonstrated to control the self-excited oscillations known as chatter that occur when single-point turning a rigid workpiece with a flexible tool.  The nature of this manufacturing process, its complex geometry, harsh operating environment, and poorly understood physics, present considerable challenges to the control system designer. The actuators and sensors must be rugged and of exceptionally high bandwidth and the control must be robust in the presence of unmodeled dynamics. In this regard, the qualitative characterization of the chatter instability itself becomes important. Chatter vibrations are finite and recognized as limit cycles, yet modeling and control efforts have routinely focused only on the linearized problem. The question naturally arises as to whether the nonlinear stability is characterized by a jump phenomenon.  If so, what does this imply for the \"robustness\" of linear control solutions?     To answer our question, we present an advanced hardware and control system design for a boring bar application. Initially, we treat the cutting forces merely as an unknown disturbance to the structure which is essentially a cantilevered beam. We then approximate the structure as a linear single-degree-of-freedom damped oscillator in each of the two principal modal coordinates and seek a control strategy that reduces the system response to general disturbances. Modal-based control strategies originally developed for the control of large flexible space structures are employed; they use second-order compensators to enhance selectively the damping of the modes identified for control.   To attack the problem of the nonlinear stability, we seek a model that captures some of the behavior observed in experiments. We design this model based on observations and intuition because theoretical expressions for the complex dynamic forces generated during cutting are lacking. We begin by assuming a regenerative chatter mechanism, as is common practice, and presume that it has a nonlinear form, which is approximated using a cubic polynomial. Experiments demonstrate that the cutting forces couple the two principal modal coordinates. To obtain the jump phenomena observed experimentally, we find it necessary to account for structural nonlinearies. Gradually, using experimental observation as a guide, we arrive at a two-degree-of-freedom chatter model for the boring process. We analyze the stability of this model using the modern methods of nonlinear dynamics. We apply the method of multiple scales to determine the local nonlinear normal form of the bifurcation from static to dynamic cutting. We then find the  subsequent periodic motions by employing the method of harmonic balance. The  stability of these periodic motions is analysed using Floquet theory.  Working from a model that captures the essential nonlinear behavior, we develop a new post-bifurcation control strategy based on quench control. We observe that nonlinear state feedback can be used to control the amplitude of post-bifurcation limit cycles. Judicious selection of this nonlinear state feedback makes a supplementary open-loop control strategy possible. By injecting a harmonic force with a frequency incommensurate with the chatter frequency, we find that the self-excited chatter can be exchanged for a forced vibratory response, thereby reducing tool motions.",
+  "description_provenance": [
+    "Author Email: prattj@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:34Z (GMT). No. of bitstreams: 3 PRATT.PDF: 7506461 bytes, checksum: 6b0b067c24c91a4a960451740289a949 (MD5) CHATMARKS2B.PDF: 55117 bytes, checksum: 41f76c516f44c6ee3f3230cff492eb68 (MD5) SPECIMENS.PDF: 170447 bytes, checksum: c7c5c434717898358a29073c6a10b52b (MD5)   Previous issue date: 1997-11-05"
+  ],
+  "handle": "29344",
+  "identifier_other": "etd-102297-21500",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-102297-21500/",
+  "identifier_uri": "http://hdl.handle.net/10919/29344",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "PRATT.PDF",
+    "CHATMARKS2B.PDF",
+    "SPECIMENS.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Active-vibration absorber",
+    "Manufacturing",
+    "Smart structures",
+    "Terfenol-D",
+    "Vibration control",
+    "Boring bar",
+    "Chatter",
+    "Nonlinear dynamics",
+    "Machine tools"
+  ],
+  "title": "Vibration Control for Chatter Suppression with  Application to Boring Bars",
+  "type": "Dissertation"
+}

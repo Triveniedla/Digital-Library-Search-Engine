@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Lopez-Collado, Jose",
+  "contributor_committeechair": "Stone, Nicholas D.",
+  "contributor_committeemember": [
+    "Wolfe, Mary Leigh",
+    "Roach, John W.",
+    "Bosch, Darrell J.",
+    "Mack, Timothy P."
+  ],
+  "contributor_department": "Entomology",
+  "date_accessioned": "2014-03-14T20:15:48Z",
+  "date_adate": "1999-08-30",
+  "date_available": "2014-03-14T20:15:48Z",
+  "date_issued": "1999-08-13",
+  "date_rdate": "1999-08-30",
+  "date_sdate": "1999-08-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A decision support system for preventive integrated pest management (IPM) and nonpoint source (NPS) pollution control was designed, implemented and evaluated. The objective of the system was to generate plans at the farm level to satisfy economic and production goals while limiting risks of insect pest outbreaks, nitrate and pesticide leaching and runoff, and soil erosion. <p> The system is composed of a constraint satisfaction planner (CROPS-LT), a modified version of CROPS (Stone, 1995), a farm-level resource management system (FLAME), an NPS module, which includes a weather generator, CLIGEN (Nicks et al. 1995), and an NPS distributed-parameter model, ANSWERS (Bouraoui, 1994), databases, a database engine and utility programs.  <p> The performance of the system was analyzed and performance enhancing features were added to increase the planner's ability to find near-optimal plans within a limited planning time. Using heuristics to sort potential crop rotations based on profit generally improved the planner's performance, as did removal of fields that were not suitable for growing target crops. Not surprisingly, the planner was best able to find plans for crops that can be grown in a variety of rotational systems. Throughout, the ability to apply environmental constraints selectively to individual fields greatly improved the planner's ability to find acceptable plans. <p> Preventive IPM (PIPM) heuristics to control corn rootworms CRW (<I>Diabrotica virgifera virgifera</I> and <I>D. barberi</I>) were added to the planner. The model was represented and solved as a constraint satisfaction problem. Results indicated that plans obtained using PIPM heuristics had less risk of CRW damage, reduced chemical control costs, higher profit and reduced soil erosion as compared to a control plan.   <p> Linking the planner to the NPS model in a feedback control loop improved the planner's ability to reduce soil losses while preserving economic and production goals.",
+  "description_provenance": [
+    "Author Email: jlopezco@vt.edu",
+    "Advisor Email: mlwolfe@vt.edu",
+    "Advisor Email: roach@cs.vt.edu",
+    "Advisor Email: bosch@vt.edu",
+    "Advisor Email: nstone@vt.edu",
+    "Advisor Email: tmack@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:48Z (GMT). No. of bitstreams: 1 etd.pdf: 1058668 bytes, checksum: b10f5b40c3c86057aae1c5df3dbdbb9a (MD5)   Previous issue date: 1999-08-13"
+  ],
+  "handle": "28831",
+  "identifier_other": "etd-083099-155635",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-083099-155635/",
+  "identifier_uri": "http://hdl.handle.net/10919/28831",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Whole-Farm Planning",
+    "Preventive IPM",
+    "Decision Support Systems",
+    "Constraint Satisfaction",
+    "Nonpoint Source Pollution Control",
+    "Corn Rootworm Control"
+  ],
+  "title": "A Whole-Farm Planning Decision Support System for Preventive Integrated Pest Management and Nonpoint Source Pollution Control",
+  "type": "Dissertation"
+}

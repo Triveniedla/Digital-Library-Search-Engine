@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Patankar, Kshitish A",
+  "contributor_committeechair": "David A. Dillard",
+  "contributor_committeecochair": "Michael W. Ellis",
+  "contributor_committeemember": [
+    "Robert B. Moore",
+    "Herve Marand",
+    "Scott W. Case",
+    "Yeh-Hung Lai"
+  ],
+  "contributor_department": "Macromolecular Science and Engineering",
+  "date_accessioned": "2014-03-14T20:14:16Z",
+  "date_adate": "2009-08-20",
+  "date_available": "2014-03-14T20:14:16Z",
+  "date_issued": "2009-07-02",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-07-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, the effect of temperature and humidity on the viscoelastic and fracture properties of proton exchange membranes (PEM) used in fuel cell applications was studied. Understanding and accurately modeling the linear and nonlinear viscoelastic constitutive properties of a PEM are important for making hygrothermal stress predictions in the cyclic temperature and humidity environment of operating fuel cells. In this study, NafionÂ® NRE 211, Gore-SelectÂ® 57, and Ion PowerÂ® N111-IP were characterized under various humidity and temperature conditions. These membranes were subjected to a nominal strain in a dynamic mechanical analyzer (DMA), and their stress relaxation behavior was characterized over a period of time. Hygral master curves were constructed noting hygral shift factors, followed by thermal shifts to construct a hygrothermal master curve. This process was reversed (thermal shifts followed by hygral shifts) and was seen to yield a similar hygrothermal master curve. Longer term stress relaxation tests were conducted to validate the hygrothermal master curve. The Prony series coefficients determined based on the hygrothermal stress relaxation master curves were utilized in a linear viscoelastic stress model.   The nonlinear viscoelastic behavior of the membranes was characterized by conducting creep tests on uniaxial tensile specimens at various constant stress conditions and evaluating the resulting isochronal stress-strain plots. The nonlinearity was found to be induced at relatively moderate stress/strain levels under dry conditions. To capture the nonlinearity, the well known Schapery model was used. To calculate the nonlinear parameters defined in the Schapery model, creep/recovery tests at various stress levels and temperatures were performed. A one-dimensional Schapery model was developed and then validated using various experiments.  <p>\tThe fracture properties were studied by cutting membranes using a sharp knife mounted on a specially designed fixture. Again, various temperature and humidity conditions were used, and the fracture energy of the membranes was recorded as a function of cutting rate. Fracture energy master curves with respect to reduced cutting rates were constructed to get some idea about the intrinsic fracture energy of the membrane. The shift factors obtained from the fracture tests were found to match with those obtained from the stress relaxation experiments, suggesting that the knife cutting process is viscoelastic in nature. The rate and temperature dependence for these fracture energies are consistent with the rate, temperature, and moisture dependence of the relaxation modulus, suggesting the usefulness of a viscoelastic framework for examining and modeling durability of fuel cell membranes. The intrinsic fracture energy was initially thought to be a differentiating factor, which would separate various membranes tested in this study from one another. However, it was later found that all the membranes tested showed similar values at lower cutting rates, but showed significant variation at higher reduced cutting rates, and thus was thought to be a more meaningful region to differentiate the membranes for durability understanding.<p>  While the preceding work was undertaken to characterize as-received commercial PEMs, it is possible to modify material properties through treatment processes including thermal annealing and water treatment. The transient and dynamic viscoelastic properties of water-treated Nafion membranes revealed unusual behavior. Such unusual properties might have originated from irreversible morphological changes in PEM. Besides the constitutive viscoelastic properties, another set of properties useful for the stress modeling is the hygral strain induced as a function of relative humidity (RH) The effect of pretreatment on hygral strains induced as a function of RH was also investigated. These studies suggest that pretreatment significantly changes the mechanical properties of proton exchange membranes.",
+  "description_provenance": [
+    "Author Email: kpatanka@vt.edu",
+    "Advisor Email: rbmoore3@vt.edu",
+    "Advisor Email: hmarand@vt.edu",
+    "Advisor Email: dillard@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: scase@exchange.vt.edu",
+    "Advisor Email: yeh-hung.lai@gm.com",
+    "Made available in DSpace on 2014-03-14T20:14:16Z (GMT). No. of bitstreams: 2  Patankar_Dissertation.pdf: 2414769 bytes, checksum: ea556ea2d8f79fccfbe17afaf7df9095 (MD5)  Licenses.pdf: 206455 bytes, checksum: b7d971c36efba4e5d814e7a79ce8ae89 (MD5)    Previous issue date: 2009-07-02"
+  ],
+  "handle": "28385",
+  "identifier_other": "etd-07242009-141024",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07242009-141024/",
+  "identifier_uri": "http://hdl.handle.net/10919/28385",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Patankar_Dissertation.pdf",
+    "Licenses.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "fracture energy of proton exchange membranes",
+    "hygrothermal stresses",
+    "hygrothermal viscoelastic characterization",
+    "mechanical durability",
+    "proton exchange membrane fuel cell",
+    "Schapery modeling",
+    "nonlinear viscoelasticity"
+  ],
+  "title": "LINEAR AND NONLINEAR VISCOELASTIC CHARACTERIZATION OF PROTON EXCHANGE MEMBRANES AND STRESS MODELING FOR FUEL CELL APPLICATIONS",
+  "type": "Dissertation"
+}

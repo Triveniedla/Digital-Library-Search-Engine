@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Pierson, Mark A",
+  "contributor_committeecochair": [
+    "Herdman, Terry L.",
+    "Cliff, Eugene M."
+  ],
+  "contributor_committeemember": [
+    "Borggaard, Jeffrey T.",
+    "Burns, John A.",
+    "Russell, David L."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:11Z",
+  "date_adate": "2005-04-29",
+  "date_available": "2014-03-14T20:11:11Z",
+  "date_issued": "2005-04-25",
+  "date_rdate": "2007-04-29",
+  "date_sdate": "2005-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We first provide a detailed background of a geometric projection methodology developed by Professor Roswitha Marz at Humboldt University in Berlin for showing uniqueness and existence of solutions for ordinary differential-algebraic equations (DAEs).  Because of the geometric and operator-theoretic aspects of this particular method, it can be extended to the case of infinite-dimensional abstract DAEs.  For example, partial differential equations (PDEs) are often formulated as abstract Cauchy or evolution problems which we label abstract ordinary differential equations or AODE.  Using this abstract formulation, existence and uniqueness of the Cauchy problem has been studied.   Similarly, we look at an AODE system with operator constraint equations to formulate an abstract differential-algebraic equation or ADAE problem. Existence and uniqueness of solutions is shown under certain conditions on the operators for both index-1 and index-2 abstract DAEs. These existence and uniqueness results are then applied to some index-1 DAEs in the area of thermodynamic modeling of a chemical vapor deposition reactor and to a structural dynamics problem.  The application for the structural dynamics problem, in particular, provides a detailed construction of the model and development of the DAE framework.  Existence and uniqueness are primarily demonstrated using a semigroup approach.  Finally, an exploration of some issues which arise from discretizing the abstract DAE are discussed.",
+  "description_provenance": [
+    "Author Email: mark.pierson@vt.edu",
+    "Advisor Email: herdman@icam.vt.edu",
+    "Advisor Email: borggajt@icam.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: russell@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:11Z (GMT). No. of bitstreams: 1 Dissert.pdf: 567032 bytes, checksum: 237e332bc5f34c6ec17f6018998ee4cf (MD5)   Previous issue date: 2005-04-25"
+  ],
+  "handle": "27416",
+  "identifier_other": "etd-04282005-163231",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282005-163231/",
+  "identifier_uri": "http://hdl.handle.net/10919/27416",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissert.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "well-posedness",
+    "systems of partial differential equations",
+    "existence and uniqueness",
+    "hybrid systems",
+    "partial differential-algebraic equations (PDAE)",
+    "abstract differential-algebraic equations (DAE)"
+  ],
+  "title": "Theory and Application of a Class of Abstract Differential-Algebraic Equations",
+  "type": "Dissertation"
+}

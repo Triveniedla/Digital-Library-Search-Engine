@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Orr, Matthew William",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Marchman, James F. III",
+    "Murphy, Kent A.",
+    "Mason, William H.",
+    "Johnson, Eric R.",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:07:06Z",
+  "date_adate": "2004-02-10",
+  "date_available": "2014-03-14T20:07:06Z",
+  "date_issued": "2004-01-21",
+  "date_rdate": "2005-02-10",
+  "date_sdate": "2004-02-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Design, Analysis, and Initial Testing of a Fiber-Optic Shear Gage for 3D, High-Temperature Flows  Matthew W. Orr Dr. Joseph A. Schetz, Chairman Aerospace Engineering Abstract     This investigation concerns the design, analysis, and initial testing of a new, two-component wall shear gage for 3D, high-temperature flows.   This gage is a direct-measuring, non-nulling design with a round head surrounded by a small gap.  Two flexure wheels are used to allow small motions of the floating head.  Fiber-optic displacement sensors measure how far the polished faces of counterweights on the wheels move in relation to a fixed housing as the primary measurement system. No viscous damping was required.  The gage has both fiber-optic instrumentation and strain gages mounted on the flexures for validation of the newer fiber optics.  The sensor is constructed of Haynes 230, a high-temperature nickel alloy.  The gage housing is made of 316 stainless steel.  All components of the gage in pure fiber-optic form can survive to a temperature of 1073 K.  The bonding methods of the backup strain gages limit their maximum temperature to 473 K.  The dynamic range of the gage is from 0-500 Pa (0-10g) and higher shears can be measured by changing the floating head size.     Extensive use of finite element modeling was critical to the design and analysis of the gage.  Static structural, modal, and thermal analyses were performed on the flexures using the ANSYS finite element package.  Static finite element analysis predicted the response of the flexures to a given load, and static calibrations using a direct force method confirmed these results.  Finite element modal analysis results were within 16.4% for the first mode and within 30% for the second mode when compared with the experimentally determined modes.  Vibration characteristics of the gage were determined from experimental free vibration data after the gage was subjected to an impulse.  Uncertainties in the finished geometry make this level of error acceptable.  A transient thermal analysis examined the effects of a very high heat flux on the exposed head of the gage.  The 100,000 W/m2 heat flux used in this analysis is typical of a value in a scramjet engine.  The gage can survive for 10 minutes and operate for 3 minutes before a 10% loss in flexure stiffness occurs under these conditions.    Repeated cold-flow wind tunnel tests at Mach 2.4 with a stagnation pressure from 3.7-8.2 atm (55-120 psia) and ambient stagnation temperature (Re=6.6x107/m) and Mach 4.0 with a stagnation pressure from 10.2-12.2 atm (150-180 psia) and ambient stagnation temperature (Re=7.4x107/m) were performed in the Virginia Tech Supersonic Wind Tunnel.  Some of these tests had the gage intentionally misaligned by 25o to create a virtual 3D flow in this nominally 2D facility.  Experimental results gave excellent agreement with semi-empirical prediction methods for both the aligned and 25o experiments.  This fiber-optic skin friction gage operated successfully without viscous damping.  These tests in the supersonic wind tunnel validated this wall shear gage design concept.",
+  "description_provenance": [
+    "Author Email: morr@vt.edu",
+    "Advisor Email: marchman@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: devenpor@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:06Z (GMT). No. of bitstreams: 1 Orr-Dissertation-Final.pdf: 7952653 bytes, checksum: f36fe79c9988d17661eaea6fb15743f8 (MD5)   Previous issue date: 2004-01-21"
+  ],
+  "handle": "26100",
+  "identifier_other": "etd-02032004-142749",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02032004-142749/",
+  "identifier_uri": "http://hdl.handle.net/10919/26100",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Orr-Dissertation-Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wall shear",
+    "fiber-optic",
+    "skin friction",
+    "high-temperature",
+    "ANSYS"
+  ],
+  "title": "Design, Analysis, and Initial Testing of a Fiber-Optic Shear Gage for 3D, High-Temperature Flows",
+  "type": "Dissertation"
+}

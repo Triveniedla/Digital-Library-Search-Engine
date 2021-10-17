@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Humfeld, G. Robert Jr.",
+  "contributor_committeechair": "Dillard, David A.",
+  "contributor_committeemember": [
+    "Ward, Thomas C.",
+    "Giurgiutiu, Victor"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:40Z",
+  "date_adate": "1997-02-07",
+  "date_available": "2014-03-14T20:12:40Z",
+  "date_issued": "1997-02-07",
+  "date_rdate": "1997-02-07",
+  "date_sdate": "1998-07-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "Master of Science",
+  "description_abstract": "The effect of thermal cycling on the       state of stress in polymeric materials       bonded to stiff elastic substrates was       investigated using numerical       techniques, including finite element       methods. The work explored the       relationship between a cyclic       temperature environment,       temperature-dependent viscoelastic       behavior of polymers, and thermal       stresses induced in a constrained       system. Due to the complexity of       developing a closed-form solution       for a system with time, temperature,       material properties, and boundary       conditions all coupled, numerical       techniques were used to acquire       approximate solutions. Descriptions       of attempted experimental       verification are also included.         The results of the numerical work       indicate that residual stresses in an       elastic-viscoelastic bimaterial system       incrementally shift over time when       subjected to thermal cycling. Tensile       axial and peel stresses develop over       a long period of time as a result of       viscoelastic response to thermal       stresses induced in the polymeric       layer. The applied strain energy       release rate at the crack tip of       layered specimens is shown to       similarly increase. The rate of change       of the stress state is dependent upon       the thermal cycling profile and the       adhesiveÂ¹s thermo-mechanical       response. Discussion of the results       focuses on the probability that the       incrementing tensile residual stresses       induced in an adhesive bond       subjected by thermal cycling may       lead to damage and debonding, thus       reducing durability.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:12:40Z (GMT). No. of bitstreams: 1 etd.pdf: 565402 bytes, checksum: 9cb994a7e9ae0c8954eb2f8c3cbe6956 (MD5)   Previous issue date: 1997-02-07",
+  "handle": "27923",
+  "identifier_other": "etd-05416181972480",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05416181972480/",
+  "identifier_uri": "http://hdl.handle.net/10919/27923",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "etd.pdf",
+    "ETD.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "thermal cycling",
+    "adhesive bond",
+    "polymer",
+    "residual thermal stress",
+    "viscoelasticity",
+    "fracture mechanics",
+    "thermal ratchetting"
+  ],
+  "title": "Mechanical Behavior of Adhesive joints Subjected To Thermal Cycling",
+  "type": "Dissertation"
+}

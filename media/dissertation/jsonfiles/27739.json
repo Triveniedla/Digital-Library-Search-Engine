@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Choi, Bumsuk",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Buehrer, Richard Michael",
+    "Reed, Jeffrey Hugh",
+    "Roan, Michael J.",
+    "Johnson, Martin E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:07Z",
+  "date_adate": "2012-06-05",
+  "date_available": "2014-03-14T20:12:07Z",
+  "date_issued": "2012-04-30",
+  "date_rdate": "2012-06-05",
+  "date_sdate": "2012-05-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The detection and localization of important acoustic events in a complex urban environment, such as gunfire and explosions, is critical to providing effective surveillance of military and civilian areas and installations. In a complex environment, obstacles such as terrain or buildings introduce multipath propagations, reflections, and diffractions which make source localization challenging. This dissertation focuses on the problem of source localization in three-dimensional (3D) realistic urban environments. Two different localization techniques are developed to solve this problem: a) Beamforming using a few microphone phased arrays in conjunction with a high fidelity model and b) Fingerprinting using many dispersed microphones in conjunction with a low fidelity model of the environment. For an effective source localization technique using microphone phased arrays, several candidate beamformers are investigated using 2D and corresponding 3D numerical models. Among them, the most promising beamformers are chosen for further investigation using 3D large models. For realistic validation, localization error of the beamformers is analyzed for different levels of uncorrelated noise in the environment. Multiple-array processing is also considered to improve the overall localization performance. The sensitivity of the beamformers to uncertainties that cannot be easily accounted for (e.g. temperature gradient and unmodeled object) is then investigated. It is observed that evaluation in 3D models is critical to assess correctly the potential of the localization technique. The enhanced minimum variance distortionless response (EMVDR) is identified to be the only beamformer that has super-directivity property (i.e. accurate localization capability) and still robust to uncorrelated noise in the environment. It is also demonstrated that the detrimental effect of uncertainties in the modeling of the environment can be alleviated by incoherent multiple arrays. For efficient source localization technique using dispersed microphones in the environment, acoustic fingerprinting in conjunction with a diffused-based energy model is developed as an alternative to the beamforming technique. This approach is much simpler requiring only microphones rather than arrays. Moreover, it does not require an accurate modeling of the acoustic environment. The approach is validated using the 3D large models. The relationship between the localization accuracy and the number of dispersed microphones is investigated. The effect of the accuracy of the model is also addressed. The results show a progressive improvement in the source localization capabilities as the number of microphones increases. Moreover, it is shown that the fingerprints do not need to be very accurate for successful localization if enough microphones are dispersed in the environment.",
+  "description_provenance": [
+    "Author Email: choib@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: mroan@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:07Z (GMT). No. of bitstreams: 1 Choi_B_D_2012.pdf: 8864173 bytes, checksum: 528cf30fdfa37a672f8e632c2b217c8d (MD5)   Previous issue date: 2012-04-30"
+  ],
+  "handle": "27739",
+  "identifier_other": "etd-05152012-235307",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05152012-235307/",
+  "identifier_uri": "http://hdl.handle.net/10919/27739",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Choi_B_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fingerprinting",
+    "Outdoor Propagation Modeling",
+    "Multi-array processing",
+    "Uncertainty",
+    "3D",
+    "Adaptive Beamforming",
+    "Matched-Field Processing",
+    "Acoustic Localization"
+  ],
+  "title": "Acoustic source localization in 3D complex urban environments",
+  "type": "Dissertation"
+}

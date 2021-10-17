@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Niu, Sanjun",
+  "contributor_committeechair": "Saraf, Ravi F.",
+  "contributor_committeemember": [
+    "Oyama, Shigeo Ted",
+    "Cox, David F.",
+    "Marand, Eva",
+    "English, Sam"
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2011-08-22T19:03:47Z",
+  "date_adate": "2004-08-23",
+  "date_available": "2011-08-22T19:03:47Z",
+  "date_issued": "2004-08-12",
+  "date_rdate": "2004-08-23",
+  "date_sdate": "2004-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "DNA chip technology has drawn tremendous attention since it emerged in the mid 90 s as a method that expedites gene sequencing by over 100-fold. DNA chip, also called DNA microarray, is a combinatorial technology in which different single-stranded DNA (ssDNA) molecules of known sequences are immobilized at specific spots. The immobilized ssDNA strands are called probes. In application, the chip is exposed to a solution containing ssDNA of unknown sequence, called targets, which are labeled with fluorescent dyes. Due to specific molecular recognition among the base pairs in the DNA, the binding or hybridization occurs only when the probe and target sequences are complementary. The nucleotide sequence of the target is determined by imaging the fluorescence from the spots.  The uncertainty of background in signal detection and statistical error in data analysis, primarily due to the error in the DNA amplification process and statistical distribution of the tags in the target DNA, have become the fundamental  barriers  in bringing the technology into application for clinical diagnostics. Furthermore, the dye and tagging process  are expensive, making the cost of DNA chips inhibitive for clinical testing. These limitations and challenges make it difficult to implement DNA chip methods as a diagnostic tool in a pathology laboratory. The objective of this dissertation research is to provide an alternative approach that will address the above challenges.. In this research, a label-free assay is designed and studied. Polystyrene (PS), a commonly used polymeric material, serves as the fluorescence agent. Probe ssDNA is covalently immobilized on polystyrene thin film that is supported by a reflecting substrate. When this chip is exposed to excitation light, fluorescence light intensity from PS is detected as the signal.  Since the optical constants and conformations of ssDNA and dsDNA (double stranded DNA) are different, the measured fluorescence from PS changes for the same intensity of excitation light.. The fluorescence contrast is used to quantify the amount of probe-target hybridization. A mathematical model that considers multiple reflections and scattering is developed to explain the mechanism of the fluorescence contrast which depends on the thickness of the PS film. Scattering is the dominant factor that contributes to the contrast. The potential of this assay to detect single nucleotide polymorphism is also tested.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:03:47Z (GMT). No. of bitstreams: 1  dissertation_final.pdf: 1859991 bytes, checksum: f39ee09235f7567f3b15a225cbf70278 (MD5)    Previous issue date: 2004-08-12",
+    "Author Email: sniu@vt.edu",
+    "Advisor Email: oyama@vt.edu",
+    "Advisor Email: dfcox@vt.edu",
+    "Advisor Email: rsaraf@vt.edu",
+    "Advisor Email: emarand@vt.edu",
+    "Advisor Email: senglish@carilion.com"
+  ],
+  "format_medium": "ETD",
+  "handle": "11229",
+  "identifier_other": "etd-08122004-113221",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122004-113221",
+  "identifier_uri": "http://hdl.handle.net/10919/11229",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_final.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "SNPs",
+    "fluorescence",
+    "label-free",
+    "microarray",
+    "DNA chip",
+    "polystyrene"
+  ],
+  "title": "A label-free, fluorescence based assay for microarray",
+  "type": "Dissertation"
+}

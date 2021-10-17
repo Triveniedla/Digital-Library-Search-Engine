@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Vera-Licona, Martha Paola",
+  "contributor_committeechair": "Laubenbacher, Reinhard C.",
+  "contributor_committeemember": [
+    "Mendes, Pedro J. P.",
+    "Stillman, Michael",
+    "Burns, John A.",
+    "Jarrah, Abdul Salam"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:22Z",
+  "date_adate": "2007-06-27",
+  "date_available": "2014-03-14T20:13:22Z",
+  "date_issued": "2007-06-06",
+  "date_rdate": "2007-06-27",
+  "date_sdate": "2007-06-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Systems biology is an emergent field focused on developing a system-level understanding of biological systems. In the last decade advances in genomics, transcriptomics and proteomics have gathered a remarkable amount data enabling the possibility of a system-level analysis to be grounded at a molecular level. The reverse-engineering of biochemical networks from experimental data has become a central focus in systems biology. A variety of methods have been proposed for the study and identification of the systemâ  s structure and/or dynamics.   The objective of this dissertation is to introduce and propose solutions to some of the challenges inherent in reverse-engineering of biological systems.   First, previously developed reverse engineering algorithms are studied and compared using data from a simulated network. This study draws attention to the necessity for a uniform benchmark that enables an ob jective comparison and performance evaluation of reverse engineering methods.   Since several reverse-engineering algorithms require discrete data as input (e.g. dynamic Bayesian network methods, Boolean networks), discretization methods are being used for this purpose. Through a comparison of the performance of two network inference algorithms that use discrete data (from several different discretization methods) in this work, it has been shown that data discretization is an important step in applying network inference methods to experimental data.   Next, a reverse-engineering algorithm is proposed within the framework of polynomial dynamical systems over finite fields. This algorithm is built for the identification of the underlying network structure and dynamics; it uses as input gene expression data and, when available, a priori knowledge of the system. An evolutionary algorithm is used as the heuristic search method for an exploration of the solution space. Computational algebra tools delimit the search space, enabling also a description of model complexity. The performance and robustness of the algorithm are explored via an artificial network of the segment polarity genes in the D. melanogaster.   Once a mathematical model has been built, it can be used to run simulations of the biological system under study. Comparison of simulated dynamics with experimental measurements can help refine the model or provide insight into qualitative properties of the systems dynamical behavior. Within this work, we propose an efficient algorithm to describe the phase space, in particular to compute the number and length of all limit cycles of linear systems over a general finite field.   This research has been partially supported by NIH Grant Nr. RO1GM068947-01.",
+  "description_provenance": [
+    "Author Email: mveralic@vbi.vt.edu",
+    "Advisor Email: mendes@vbi.vt.edu",
+    "Advisor Email: mike@math.cornell.edu",
+    "Advisor Email: burns@silver.icam.vt.edu",
+    "Advisor Email: ajarrah@vbi.vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:22Z (GMT). No. of bitstreams: 1  PVL_ETD.pdf: 1345347 bytes, checksum: 223c37475c2e1ef3d227f3b356977616 (MD5)    Previous issue date: 2007-06-06"
+  ],
+  "handle": "28073",
+  "identifier_other": "etd-06182007-222927",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06182007-222927/",
+  "identifier_uri": "http://hdl.handle.net/10919/28073",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PVL_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Discrete Mathematics",
+    "Systems Biology",
+    "Biochemical Networks",
+    "Discrete Finite Dynamical Systems",
+    "Polynomial Dynamical Systems",
+    "Data Discretization",
+    "Reverse-engineering",
+    "Computational Algebra",
+    "Evolutionary Algorithms"
+  ],
+  "title": "Algorithms for modeling and simulation of biological systems; applications to gene regulatory networks",
+  "type": "Dissertation"
+}

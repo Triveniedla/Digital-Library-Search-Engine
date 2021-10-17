@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Fayed, Hassan El-Hady Hassan",
+  "contributor_committeechair": "Ragab, Saad A",
+  "contributor_committeemember": [
+    "Luttrell, Gerald H",
+    "Adjerid, Slimane",
+    "Thangjitham, Surot",
+    "Hajj, Muhammad R"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-01-21T09:00:25Z",
+  "date_available": "2014-01-21T09:00:25Z",
+  "date_issued": "2014-01-20",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The collisions frequency of dispersed phases (particles, droplets, bubbles) in a turbulent carrier phase is a fundamental quantity that is needed for modeling multiphase flows with applications to chemical processes, minerals flotation, food science, and many other industries.  In this dissertation, numerical simulations are performed to determine collisions frequency of bi-dispersed particles (solid particles and bubbles) in homogeneous isotropic turbulence. Both direct numerical simulations (DNS) and Large Eddy simulations (LES) are conducted to determine velocity fluctuations of the carrier phase. The DNS results are used to validate existing theoretical models as well as the LES results. The dissertation also presents a CFD-based flotation model for predicting the pulp recovery rate in froth flotation machines.  In the direct numerical simulations work, particles and bubbles suspended in homogeneous isotropic turbulence are tracked and their collisions frequency is determined as a function of particle Stokes number. The effects of the dispersed phases on the carrier phase are neglected. Particles and bubbles of sizes on the order of Kolmogorov length scale are treated as point masses. Equations of motion of dispersed phases are integrated simultaneously with the equations of the carrier phase using the same time stepping scheme. In addition to Stokes drag, the pressure gradient in the carrier phase and added-mass forces are also included. The collision model used here allows overlap of particles and bubbles. Collisions kernel, radial relative velocity, and radial distribution function found by DNS are compared to theoretical models over a range of particle Stokes number. In general, good agreement  between DNS and recent theoretical models is obtained for radial relative velocity for both particle-particle and particle-bubble collisions. The DNS results show that around Stokes number of unity particles of the same group undergo expected preferential concentration while particles and bubbles are segregated. The segregation behavior of particles and bubbles leads to a radial distribution function that is less than one. Existing theoretical models do not account for effects of this segregation behavior of particles and bubbles on the radial distribution function.  In the large-eddy simulations efforts, the dissertation addresses the importance of the subgrid fluctuations on the collisions frequency and investigates techniques for predicting those fluctuations. The cases studied are of particles-particles and particles-bubbles collisions at Reynolds number Re = 96. A study is conducted first by neglecting the effects of subgrid velocity fluctuations on particles and bubbles motions. It is found that around Stokes number of unity solid particles of the same group undergo the well known preferential concentration as observed in the DNS. Effects of pressure gradient on the particles are negligible due to their small sizes. Bubbles as a low inertia particles are very sensitive to subgrid velocity and acceleration fields where the effects of pressure gradient in the carrier phase are dominant. However, particle-bubble radial distribution functions from LES are not as low as that from DNS. To account for the effects of subgrid field on the dispersion of particles and bubbles, a new multifractal methodology has been developed to construct a subgrid vorticity field from the resolved vorticity field in frame work of LES. A Poisson's solver is used to obtain the subgrid velocity field from the subgrid vorticity field. Accounting for the subgrid velocity fluctuations (but neglecting pressure gradient) produced minor changes in the radial distribution function for particle-particle and particle-bubble collisions. We conclude from this study that for accurate particle tracking in LES the subgrid velocity fluctuations must be dynamically realizable field (temporally and spatially correlated with the large scale motion). Adding random SGS velocity  fluctuations is not enough to capture the correct radial distribution functions of dispersed phases especially for bubbles-particles collisions where the pressure gradient term ( or acceleration Du/Dt) is responsible for particle-bubble segregation around particle Stokes number near one.  A CFD-based model for minerals  flotation machines has been developed in this dissertation. The objective of flotation models is to predict the recovery rate of minerals from a flotation cell. The developed model advances the state-of-the-art of pulp recovery rate prediction by incorporating validated theoretical collisions frequency models and detailed hydrodynamics from two-phase flow simulations. Spatial distributions of dissipation rate and air volume fraction are determined by the two-phase hydrodynamic simulations. Knowing these parameters throughout the machine is essential in understanding the effectiveness of different components of flotation machine (rotor, stator or disperser, jets) on the  flotation efficiency. The developed model not only predicts the average pulp recovery rate but also it indicates regions of high/low recovery rates. The CFD-based flotation model presented here can be used to determine the dependence of recovery rate constant at any locality within the pulp based on particle diameter, particle specfic gravity, contact angle, and surface tension.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-21T09:00:25Z (GMT). No. of bitstreams: 1 Fayed_HH_D_2014.pdf: 61227021 bytes, checksum: 36a1e2e03bd66756d8bad2cc188242a0 (MD5)   Previous issue date: 2014-01-20",
+  "format_medium": "ETD",
+  "handle": "24910",
+  "identifier_other": "vt_gsexam:2077",
+  "identifier_uri": "http://hdl.handle.net/10919/24910",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Collisions Frequency",
+    "Multiphase  flow",
+    "Homogeneous turbulence",
+    "Direct numerical simulation",
+    "Large-eddy simulation",
+    "Multifractal modeling",
+    "Bubble size distribution",
+    "Minerals  flotation machines"
+  ],
+  "title": "Particles and Bubbles Collisions Frequency in Homogeneous Turbulence and Applications to Minerals Flotation Machines",
+  "type": "Dissertation"
+}

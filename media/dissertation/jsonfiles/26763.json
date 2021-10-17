@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Bays, Matthew Jason",
+  "contributor_committeecochair": [
+    "Kochersberger, Kevin Bruce",
+    "Stilwell, Daniel J."
+  ],
+  "contributor_committeemember": [
+    "Furukawa, Tomonari",
+    "Leonessa, Alexander",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:19Z",
+  "date_adate": "2012-04-24",
+  "date_available": "2014-03-14T20:09:19Z",
+  "date_issued": "2012-03-30",
+  "date_rdate": "2012-04-24",
+  "date_sdate": "2012-04-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation addresses high-level path planning and cooperative control for autonomous vehicles. The objective of our work is to closely and rigorously incorporate classication and detection performance into path planning algorithms, which is not addressed with typical approaches found in literature. We present novel path planning algorithms for two different applications in which autonomous vehicles are tasked with engaging targets within a stochastic environment. In the first application an autonomous underwater vehicle (AUV) must reacquire and identify clusters of discrete underwater objects. Our planning algorithm ensures that mission objectives are met with a desired probability of success. The utility of our approach is verified through field trials. In the second application, a team of  vehicles must intercept mobile targets before the targets enter a specified area. We provide a formal framework for solving the second problem by jointly minimizing a cost function utilizing Bayes risk.",
+  "description_provenance": [
+    "Author Email: mjb222@gmail.com",
+    "Advisor Email: tomonari@vt.edu",
+    "Advisor Email: aleoness@vt.edu",
+    "Advisor Email: kbk@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:19Z (GMT). No. of bitstreams: 2 Bays_MJ_D_2012.pdf: 2452115 bytes, checksum: 670964716dec3418660981e4e211f6d4 (MD5) Bays_MJ_D_permission.pdf: 318817 bytes, checksum: 3ec38768be3546c4e6055abb22f88ff2 (MD5)   Previous issue date: 2012-03-30"
+  ],
+  "handle": "26763",
+  "identifier_other": "etd-04102012-134338",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04102012-134338/",
+  "identifier_uri": "http://hdl.handle.net/10919/26763",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Bays_MJ_D_2012.pdf",
+    "Bays_MJ_D_permission.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Classification",
+    "Bayes Risk",
+    "Detection",
+    "Robotics",
+    "Autonomous Underwater Vehicles",
+    "Decision Theory",
+    "Path Planning"
+  ],
+  "title": "Stochastic Motion Planning for Applications in Subsea Survey and Area Protection",
+  "type": "Dissertation"
+}

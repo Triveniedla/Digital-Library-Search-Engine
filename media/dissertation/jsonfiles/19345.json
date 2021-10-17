@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Artavanis, Nikolaos",
+  "contributor_committeechair": [
+    "Kumar, Raman",
+    "Kadlec, Gregory B"
+  ],
+  "contributor_committeemember": [
+    "Patterson, Douglas M",
+    "Ince, Ozgur Safak",
+    "Singal, Vijay",
+    "Kecskes, Ambrus"
+  ],
+  "contributor_department": "Finance, Insurance and Business Law",
+  "date_accessioned": "2013-04-25T08:00:11Z",
+  "date_available": "2013-04-25T08:00:11Z",
+  "date_issued": "2013-04-24",
+  "degree_discipline": "Business, Finance",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation is comprised of two papers. The first paper (Chapter 1) provides the theoretical foundation for the estimation of systematic downside risk. Using a new approach, I derive a measure of downside systematic risk, downside beta, that is free of the endogeneity problem and thus straightforward to calculate. Since there is no consensus in the literature regarding the appropriate method for the estimation of downside beta, I review the alternative specifications proposed in the past. I explicitly show that the derived formula here is more efficient in capturing downside risk on both theoretical grounds and in terms of empirical results.<br /><br />Using this efficient specification of systematic downside risk, I show that downside beta has increased explanatory power towards the cross-section of equity returns as compared to unconditional beta. In particular, downside beta predicts larger and more significant future premia, insignificant intercepts in portfolio cross-section tests and cannot be subsumed by additional risk factors proposed in the past literature. I attribute this superior performance to the ability of downside risk to capture distress risk and to the fact that it does not penalize (reward) good (bad) events in good states.<br /><br />In the second paper (Chapter 2) that is co-authored with my advisor, Gregory Kadlec, we exploit the notion of downside risk to explain a long-withstanding market anomaly; the long-term stock return reversals. We show that downside betas of past losers are significantly greater than downside betas of past winners, and the inclusion of downside beta in Fama-Macbeth regressions subsumes the reversal effect.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-25T08:00:11Z (GMT). No. of bitstreams: 1 Artavanis_N_D_2013.pdf: 1484178 bytes, checksum: 2a938b9b315c4c8692aa856e6c671ea3 (MD5)   Previous issue date: 2013-04-24",
+  "format_medium": "ETD",
+  "handle": "19345",
+  "identifier_other": "vt_gsexam:761",
+  "identifier_uri": "http://hdl.handle.net/10919/19345",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "downside risk",
+    "downside beta",
+    "asset pricing",
+    "stock reversals",
+    "contrarian effect",
+    "market efficiency"
+  ],
+  "title": "A Treatise on Downside Risk",
+  "type": "Dissertation"
+}

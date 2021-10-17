@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Linford, John Christian",
+  "contributor_committeechair": "Sandu, Adrian",
+  "contributor_committeemember": [
+    "Ribbens, Calvin J.",
+    "Marr, Linsey C.",
+    "Plassmann, Paul E.",
+    "Nikolopoulos, Dimitrios S."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:11:44Z",
+  "date_adate": "2010-05-18",
+  "date_available": "2014-03-14T20:11:44Z",
+  "date_issued": "2010-05-05",
+  "date_rdate": "2010-05-18",
+  "date_sdate": "2010-05-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The new generations of multi-core chipset architectures achieve unprecedented levels of computational power while respecting physical and economical constraints.  The cost of this power is bewildering program complexity.  Atmospheric modeling is a grand-challenge problem that could make good use of these architectures if they were more accessible to the average programmer.  To that end, software tools and programming methodologies that greatly simplify the acceleration of atmospheric modeling and simulation with emerging multi-core technologies are developed.  A general model is developed to simulate atmospheric chemical transport and atmospheric chemical kinetics.  The Cell Broadband Engine Architecture (CBEA), General Purpose Graphics Processing Units (GPGPUs), and homogeneous multi-core processors (e.g. Intel Quad-core Xeon) are introduced.  These architectures are used in case studies of transport modeling and kinetics modeling and demonstrate per-kernel speedups as high as 40x.  A general analysis and code generation tool for chemical kinetics called \"KPPA\" is developed.  KPPA generates highly tuned C, Fortran, or Matlab code that uses every layer of heterogeneous parallelism in the CBEA, GPGPU, and homogeneous multi-core architectures.  A scalable method for simulating chemical transport is also developed.  The Weather Research and Forecasting Model with Chemistry (WRF-Chem) is accelerated with these methods with good results: real forecasts of air quality are generated for the Eastern United States 65% faster than the state-of-the-art models.",
+  "description_provenance": [
+    "Author Email: jlinford@vt.edu",
+    "Advisor Email: ribbens@cs.vt.edu",
+    "Advisor Email: lmarr@vt.edu",
+    "Advisor Email: pep3@vt.edu",
+    "Advisor Email: dsn@cs.vt.edu",
+    "Advisor Email: sandu@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:44Z (GMT). No. of bitstreams: 1 Linford_JC_D_2010.pdf: 3229124 bytes, checksum: 773ac703dd39d3c36a9ff677fae81f65 (MD5)   Previous issue date: 2010-05-05"
+  ],
+  "handle": "27599",
+  "identifier_other": "etd-05082010-155149",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05082010-155149/",
+  "identifier_uri": "http://hdl.handle.net/10919/27599",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Linford_JC_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hardware",
+    "high performance computing",
+    "software"
+  ],
+  "title": "Accelerating Atmospheric Modeling Through Emerging Multi-core Technologies",
+  "type": "Dissertation"
+}

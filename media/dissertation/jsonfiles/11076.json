@@ -1,0 +1,62 @@
+{
+  "contributor_author": "Haber, Ludwig Christian",
+  "contributor_committeechair": "Vandsburger, Uri",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Brown, Eugene F.",
+    "Saunders, William R.",
+    "Banaszuk, Andrzej"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T18:52:42Z",
+  "date_adate": "2003-12-11",
+  "date_available": "2011-08-22T18:52:42Z",
+  "date_issued": "2003-10-01",
+  "date_rdate": "2004-12-11",
+  "date_sdate": "2003-10-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Turbulent swirling flows are important in many applications including gas turbines, furnaces and cyclone dust separators among others. Although the mean flow fields have been relatively well studied, a complete understanding of the flow field including its dynamics has not been achieved. The work contained in this dissertation attempts to shed further light on the behavior of turbulent swirling flows, especially focused on the dynamic behavior of a turbulent swirling flow encountering a sudden expansion. Experiments were performed in a new isothermal turbulent swirling flow test facility. Two geometrical nozzle configurations were studied. The \\cb\\ nozzle configuration exhibits a cylindrical \\cb\\ in the center of the nozzle. The free vortex nozzle configuration is obtained when the cylindrical \\cb\\ is removed. Detailed laser velocimeter measurements were performed to map out the flow field near the sudden expansion of the 2.9\" (ID) nozzle leading to the 7.4\" (ID) downstream section. In addition to presenting detailed flow profiles for both nozzle and downstream flow fields, representative frequency spectra of the flow dynamics are presented. Along with the flow time histories and histograms, the wide variety of dynamic behavior was thus described in great detail. The dynamics observed in the experiment can be classified into three main categories: coherent and large scale motion, intermittent motion and coherent periodic motion. Free vortex geometry flows, in the parameter space of the experiments (Swirl number = 0 - 0.21), exhibited mostly coherent and large scale motion. The spectra in these cases were broadband with very light concentration of spectral energy observed in some specific cases. Center--body geometry flows exhibited all three categories of flows as swirl strength was increased from zero. Flows with little or no swirl exhibited broad--band spectra similar to those for the free vortex geometry. Intermediate swirl levels resulted in a large amount of low frequency energy which, with the aid of the time histories, was identified as a large scale intermittence associated with radial movement of the annular jet as it enters the sudden expansion. Large swirl levels resulted in high magnitude coherent oscillations concentrated largely just downstream of the sudden expansion. Linear stability analysis was used to help in the interpretation of the observed dynamics. Although, as implemented here (using the parallel flow assumption), the analysis was not successful in quantitatively matching the experimentally observed dynamics, significant insight into the physical mechanisms of the observed dynamics was obtained from the analysis. Specifically, the coherent oscillations observed for larger swirl levels were able to be described in terms of the interaction between the inner and outer shear layers of the flow field.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:52:42Z (GMT). No. of bitstreams: 11  10AppendixBC_MicsStepper.pdf: 271486 bytes, checksum: 4e69f3e88fdff080ca3ed710c4efe3fb (MD5)  09AppendixA_LDVManual.pdf: 1745380 bytes, checksum: f1f8f0fe228bef322a67678fa42591ae (MD5)  08Bibliography.pdf: 99904 bytes, checksum: 8f72777bf1e30d4815ca0dfe1c3f52ee (MD5)  07Chapter7Conclusions.pdf: 125948 bytes, checksum: 4e6ae1acd803f3dc2f8d30ff340f47df (MD5)  06Chapter6LinearStability.pdf: 387776 bytes, checksum: 7356156c0a668731b70c979bc20c00e2 (MD5)  05Chapter5ExperimentalResultsDynamics.pdf: 1232927 bytes, checksum: ff6a5e8c770e22a01c55a4a9a90225fa (MD5)  04Chapter4ExperimentalResultsStatistics.pdf: 450037 bytes, checksum: 4c8f115ce7fd8b17b635055b22b451da (MD5)  03Chapter3ExperimentalMethods.pdf: 484637 bytes, checksum: 2671b99a71a3975471198bcd21de3fbb (MD5)  02Chapter2ExperimentalSetup.pdf: 1929617 bytes, checksum: 04c2c31f7bbf244e2ef0e9524a4b465a (MD5)  01Chapter1Introduction.pdf: 326848 bytes, checksum: b1a03aba08495eb77ce6b8c3a797ee91 (MD5)  00FrontMatter.pdf: 135932 bytes, checksum: dbb114e5b81fd725d1a61a389be96b87 (MD5)    Previous issue date: 2003-10-01",
+    "Author Email: ludhaber@vt.edu",
+    "Advisor Email: uri@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: efbrown@vt.edu",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: BanaszA@utrc.utc.com"
+  ],
+  "format_medium": "ETD",
+  "handle": "11076",
+  "identifier_other": "etd-10282003-221118",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10282003-221118",
+  "identifier_uri": "http://hdl.handle.net/10919/11076",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "05Chapter5ExperimentalResultsDynamics.pdf",
+    "06Chapter6LinearStability.pdf",
+    "10AppendixBC_MicsStepper.pdf",
+    "04Chapter4ExperimentalResultsStatistics.pdf",
+    "08Bibliography.pdf",
+    "09AppendixA_LDVManual.pdf",
+    "03Chapter3ExperimentalMethods.pdf",
+    "07Chapter7Conclusions.pdf",
+    "01Chapter1Introduction.pdf",
+    "02Chapter2ExperimentalSetup.pdf",
+    "00FrontMatter.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "linear stability analysis",
+    "laser doppler velocimeter",
+    "flow dynamics",
+    "flow stability",
+    "swirling flow"
+  ],
+  "title": "Investigation of Dynamics in Turbulent Swirling Flows Aided by Linear Stability Analysis",
+  "type": "Dissertation"
+}

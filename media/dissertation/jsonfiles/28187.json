@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Ni, Lingli",
+  "contributor_committeechair": "Fuller, Christopher R.",
+  "contributor_committeemember": [
+    "Robertshaw, Harry H.",
+    "Inman, Daniel J.",
+    "Cudney, Harley H.",
+    "Saunders, William R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:41Z",
+  "date_adate": "2001-07-03",
+  "date_available": "2014-03-14T20:13:41Z",
+  "date_issued": "2001-06-29",
+  "date_rdate": "2002-07-03",
+  "date_sdate": "2001-07-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Unmanned Underwater Vehicles (UUVs) are widely used in commercial, scientific, and military missions for various purposes. What makes this technology challenging is the increasing mission duration and unknown environment. It is necessary to embed fault-tolerant control paradigms into UUVs to increase the reliability of the vehicles and enable them to execute and finalize complex missions. Specifically, fault-tolerant control (FTC) comprises fault detection, identification, and control reconfiguration for fault compensation. Literature review shows that there have been no systematic methods for fault-tolerant control of UUVs in earlier investigations. This study presents a hierarchical methodology of fault detection, identification and compensation (HFDIC) that integrates these functions systematically in different levels. The method uses adaptive finite-impulse-response (FIR) modeling and analysis in its first level to detect failure occurrences. Specifically, it incorporates a FIR filter for on-line adaptive modeling, and a least-mean-squares (LMS) algorithm to minimize the output error between the monitored system and the filter in the modeling process. By analyzing the resulting adaptive filter coefficients, we extract the information on the fault occurrence. The HFDIC also includes a two-stage design of parallel Kalman filters in levels two and three for fault identification using the multiple-model adaptive estimation (MMAE). The algorithm activates latter levels only when the failure is detected, and can return back to the monitoring loop in case of false failures. On the basis of MMAE, we use multiple sliding-mode controllers and reconfigure the control law with a probability-weighted average of all the elemental control signals, in order to compensate for the fault.   We validate the HFDIC on the steering and diving subsystems of Naval Postgraduate School (NPS) UUVs for various simulated actuator and/or sensor failures, and test the hierarchical fault detection and identification (HFDI) with realistic data from at-sea experiment of the Florida Atlantic University (FAU) Autonomous Underwater Vehicles (AUVs). For both occasions, we model actuator and sensor failures as additive parameter changes in the observation matrix and the output equation, respectively.     Simulation results demonstrate the ability of the HFDIC to detect failures in real time, identify failures accurately with a low computational overhead, and compensate actuator and sensor failures with control reconfiguration. In particular, verification of HFDI with FAU data confirms the performance of the fault detection and identification methodology, and provides important information on the vehicle performance.",
+  "description_provenance": [
+    "Author Email: lni@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: c.r.fuller@larc.nasa.gov",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: cudney@vt.edu",
+    "Advisor Email: wisaund2@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:41Z (GMT). No. of bitstreams: 1 dissertation.pdf: 2789832 bytes, checksum: db281ab6d50ab999f8fd207f82d1a655 (MD5)   Previous issue date: 2001-06-29"
+  ],
+  "handle": "28187",
+  "identifier_other": "etd-07022001-140324",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07022001-140324/",
+  "identifier_uri": "http://hdl.handle.net/10919/28187",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Kalman filters",
+    "adaptive LMS modeling and analysis",
+    "multiple-model sliding-mode control",
+    "fault detection and identification",
+    "control reconfiguration",
+    "unmanned underwater vehicles"
+  ],
+  "title": "Fault-Tolerant Control of Unmanned Underwater Vehicles",
+  "type": "Dissertation"
+}

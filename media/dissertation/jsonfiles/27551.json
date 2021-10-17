@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Burbey, Ingrid",
+  "contributor_committeechair": "Martin, Thomas L.",
+  "contributor_committeemember": [
+    "Tront, Joseph G.",
+    "Pérez-Quiñones, Manuel A.",
+    "Jones, Mark T.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:36Z",
+  "date_adate": "2011-05-13",
+  "date_available": "2014-03-14T20:11:36Z",
+  "date_issued": "2011-04-26",
+  "date_rdate": "2011-05-13",
+  "date_sdate": "2011-05-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work has two objectives: a) to predict people's future locations, and b) to predict when they will be at given locations.  Current location-based applications react to the userâ  s current location.  The progression from location-awareness to location-prediction can enable the next generation of proactive, context-predicting applications. <p> Existing location-prediction algorithms predict someoneâ  s next location.  In contrast, this dissertation predicts someoneâ  s future locations.  Existing algorithms use a sequence of locations and predict the next location in the sequence.  This dissertation incorporates temporal information as timestamps in order to predict someoneâ  s location at any time in the future.  Sequence predictors based on Markov models have been shown to be effective predictors of someone's next location.  This dissertation applies a Markov model to two-dimensional, timestamped location information to predict future locations.  <p> This dissertation also predicts when someone will be at a given location.  These predictions can support presence or understanding co-workersâ   routines.  Predicting the times that someone is going to be at a given location is a very different and more difficult problem than predicting where someone will be at a given time.  A location-prediction application may predict one or two key locations for a given time, while there could be hundreds of correct predictions for times of the day that someone will be in a given location.  The approach used in this dissertation, a heuristic model loosely based on Market Basket Analysis, is the first to predict when someone will arrive at any given location. <p>  The models are applied to sparse, WiFi mobility data collected on PDAs given to 275 college freshmen.  The location-prediction model predicts future locations with 78-91% accuracy.  The temporal-prediction model achieves 33-39% accuracy.  If a tolerance of plus/minus twenty minutes is allowed, the prediction rates rise to 77%-91%. <p>  This dissertation shows the characteristics of the timestamped, location data which lead to the highest number of correct predictions.  The best data cover large portions of the day, with less than three locations for any given timestamp.",
+  "description_provenance": [
+    "Author Email: iburbey@vt.edu",
+    "Advisor Email: jgtront@vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:36Z (GMT). No. of bitstreams: 2 Burbey_IE_D_2011_Copyright.pdf: 577080 bytes, checksum: c934d2434c9d836b228254fbf986258d (MD5) Burbey_IE_D_2011_2.pdf: 3414913 bytes, checksum: 0ec90c1a33c3021f60a6932aa0065840 (MD5)   Previous issue date: 2011-04-26"
+  ],
+  "handle": "27551",
+  "identifier_other": "etd-05052011-130912",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05052011-130912/",
+  "identifier_uri": "http://hdl.handle.net/10919/27551",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Burbey_IE_D_2011_Copyright.pdf",
+    "Burbey_IE_D_2011_2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Location Awareness",
+    "Context Prediction",
+    "Location Prediction",
+    "Time-of-Arrival Prediction",
+    "Context Awareness"
+  ],
+  "title": "Predicting Future Locations and Arrival Times of Individuals",
+  "type": "Dissertation"
+}

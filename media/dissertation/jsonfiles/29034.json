@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Sahin, Ferat",
+  "contributor_committeechair": "VanLandingham, Hugh F.",
+  "contributor_committeemember": [
+    "Bay, John S.",
+    "Abbott, A. Lynn",
+    "Kachroo, Pushkin",
+    "Parry, Charles J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:29Z",
+  "date_adate": "2000-09-25",
+  "date_available": "2014-03-14T20:16:29Z",
+  "date_issued": "2000-08-25",
+  "date_rdate": "2001-09-25",
+  "date_sdate": "2000-09-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A Bayesian network approach to self-organization and learning is introduced for use with intelligent agents.  Bayesian networks, with the help of influence diagrams, are employed to create a decision-theoretic intelligent agent.  Influence diagrams combine both Bayesian networks and utility theory.  In this research, an intelligent agent is modeled by its belief, preference, and capabilities attributes.  Each agent is assumed to have its own belief about its environment.  The belief aspect of the intelligent agent is accomplished by a Bayesian network.  The goal of an intelligent agent is said to be the preference of the agent and is represented with a utility function in the decision theoretic intelligent agent.  Capabilities are represented with a set of possible actions of the decision-theoretic intelligent agent.  Influence diagrams have utility nodes and decision nodes to handle the preference and capabilities of the decision-theoretic intelligent agent, respectively.     Learning is accomplished by Bayesian networks in the decision-theoretic intelligent agent. Bayesian network learning methods are discussed intensively in this paper.  Because intelligent agents will explore and learn the environment, the learning algorithm should be implemented online.  None of the existent Bayesian network learning algorithms has online learning.  Thus, an online Bayesian network learning method is proposed to allow the intelligent agent learn during its exploration.       Self-organization of the intelligent agents is accomplished because each agent models other agents by observing their behavior.  Agents have belief, not only about environment, but also about other agents.  Therefore, an agent takes its decisions according to the model of the environment and the model of the other agents.  Even though each agent acts independently, they take the other agents behaviors into account to make a decision.  This permits the agents to organize themselves for a common task.       To test the proposed intelligent agent's learning and self-organizing abilities, Windows application software is written to simulate multi-agent systems.  The software, IntelliAgent, lets the user design decision-theoretic intelligent agents both manually and automatically.  The software can also be used for knowledge discovery by employing Bayesian network learning a database.       Additionally, we have explored a well-known herding problem to obtain sound results for our intelligent agent design.  In the problem, a dog tries to herd a sheep to a certain location, i.e. a pen.  The sheep tries to avoid the dog by retreating from the dog.  The herding problem is simulated using the IntelliAgent software.  Simulations provided good results in terms of the dog's learning ability and its ability to organize its actions according to the sheep's (other agent) behavior.      In summary, a decision-theoretic approach is applied to the self-organization and learning problems in intelligent agents.  Software was written to simulate the learning and self-organization abilities of the proposed agent design.  A user manual for the software and the simulation results are presented.       This research is supported by the Office of Naval Research with the grant number N00014-98-1-0779.  Their financial support is greatly appreciated.",
+  "description_provenance": [
+    "Author Email: feseee@rit.edu",
+    "Advisor Email: jbay@fallschurch.esys.com",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: parry@calvin.math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:29Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1066259 bytes, checksum: 5eb9f4980fe8671e6c9bf6061d499010 (MD5)   Previous issue date: 2000-08-25"
+  ],
+  "handle": "29034",
+  "identifier_other": "etd-09202000-00230057",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09202000-00230057/",
+  "identifier_uri": "http://hdl.handle.net/10919/29034",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "self-organization",
+    "Bayesian networks",
+    "intelligent agent",
+    "multi-agent systems",
+    "learning",
+    "online Bayesian network learning"
+  ],
+  "title": "A Bayesian Network Approach to the Self-organization and Learning in Intelligent Agents",
+  "type": "Dissertation"
+}

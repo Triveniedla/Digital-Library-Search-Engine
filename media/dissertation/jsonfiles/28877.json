@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Chevva, Konda Reddy",
+  "contributor_committeechair": "Woolsey, Craig A.",
+  "contributor_committeecochair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Masoud, Ziyad N.",
+    "Inman, Daniel J.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:15:56Z",
+  "date_adate": "2005-09-23",
+  "date_available": "2014-03-14T20:15:56Z",
+  "date_issued": "2005-08-23",
+  "date_rdate": "2005-09-23",
+  "date_sdate": "2005-09-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The method of controlled Lagrangians is an energy shaping control technique for underactuated Lagrangian systems. Energy shaping control design methods are appealing as they retain the underlying nonlinear dynamics and can provide stability results that hold over larger domain than can be obtained using linear design and analysis. The objective of this dissertation is to identify the control challenges in applying the method of controlled Lagrangians to practical engineering problems and to suggest ways to enhance the closed-loop performance of the controller. This dissertation describes a procedure for incorporating artificial gyroscopic forces in the method of controlled Lagrangians.  Allowing these energy-conserving forces in the closed-loop system provides greater freedom in tuning closed-loop system performance and expands the class of eligible systems. In energy shaping control methods, physical dissipation terms that are neglected in the control design may enter the system in a way that can compromise stability. This is well illustrated through the \"ball on a beam\" example. The effect of physical dissipation on the closed-loop dynamics is studied in detail and conditions for stability in the presence of natural damping are discussed. The control technique is applied to the classic \"inverted pendulum on a cart\" system.  A nonlinear controller is developed which asymptotically stabilizes the inverted equilibrium at a specific cart position for the conservative dynamic model.  The region of attraction contains all states for which the pendulum is elevated above the horizontal plane.  Conditions for asymptotic stability in the presence of linear damping are developed. The onlinear controller is validated through experiments. Experimental cart damping is best modeled using static and Coulomb friction. Experiments show that static and Coulomb friction degrades the closed-loop performance and induces limit cycles. A Lyapunov-based switching controller is proposed and successfully implemented to suppress the limit cycle oscillations. The Lyapunov-based controller switches between the energy shaping nonlinear controller, for states away from the equilibrium, and a well-tuned linear controller, for states close to the equilibrium. The method of controlled Lagrangians is applied to vehicle systems  with internal moving point mass actuators. Applications of moving mass actuators include certain spacecraft, atmospheric re-entry vehicles, and underwater vehicles. Control design using moving mass actuators is challenging; the system is often underactuated and multibody dynamic models are higher dimensional. We consider two examples to illustrate the application of controlled Lagrangian formulation. The first example is a spinning disk, a simplified, planar version of a spacecraft spin stabilization problem. The second example is a planar, streamlined underwater vehicle.",
+  "description_provenance": [
+    "Author Email: konda@vt.edu",
+    "Advisor Email: zmasoud@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:56Z (GMT). No. of bitstreams: 1 ETD_KONDAREDDYCHEVVA_2005.pdf: 1693803 bytes, checksum: 3ccbc63e05fec22ec19fb23c8e42e184 (MD5)   Previous issue date: 2005-08-23"
+  ],
+  "handle": "28877",
+  "identifier_other": "etd-09062005-161543",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09062005-161543/",
+  "identifier_uri": "http://hdl.handle.net/10919/28877",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_KONDAREDDYCHEVVA_2005.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Underactuated Systems",
+    "Moving Mass Actuators",
+    "Method of Controlled Lagrangians",
+    "Energy Shaping Control"
+  ],
+  "title": "Practical Challenges in the Method of Controlled Lagrangians",
+  "type": "Dissertation"
+}

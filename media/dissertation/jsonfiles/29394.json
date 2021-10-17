@@ -1,0 +1,61 @@
+{
+  "contributor_author": "Wang, Kunrong",
+  "contributor_committeecochair": [
+    "Lee, Fred C.",
+    "Boroyevich, Dushan"
+  ],
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Chen, Dan Y.",
+    "De La Ree Lopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:45Z",
+  "date_adate": "1998-11-11",
+  "date_available": "2014-03-14T20:17:45Z",
+  "date_issued": "1998-11-16",
+  "date_rdate": "1999-11-11",
+  "date_sdate": "1998-10-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The generic concept of quasi-single-stage (QSS) power conversion topology for ac-dc rectification and dc-ac inversion is proposed.  The topology is reached by direct cascading and synchronized switching of two variety of buck or two variety of boost switching networks.  The family of QSS power converters feature single-stage power processing without a dc-link low-pass filter, a unidirectional pulsating dc-link voltage, soft-switching capability with minimal extra commutation circuitry, simple PWM control, and high efficiency and reliability. <p> \tA new soft-switched single-phase QSS bi-directional inverter/rectifier (charger) topology is derived based on the QSS power conversion concept.  A simple active voltage clamp branch is used to clamp the otherwise high transient voltage on the current-fed ac side, and at the same time, to achieve zero-voltage-switching (ZVS) for the switches in the output side bridge.  Seamless four-quadrant operation in the inverter mode, and rectifier operation with unity power factor in the charger (rectifier) mode are realized with the proposed uni-polar center-aligned PWM scheme.  Single-stage power conversion, standard half-bridge connection of devices, soft-switching for all the power devices, low conduction loss, simple center-aligned PWM control, and high reliability and efficiency are among its salient features.  Experimental results on a 3 kVA bi-directional inverter/rectifier prototype validate the reliable operation of the circuit.  Other single-phase and three-phase QSS bi-directional inverters/rectifiers can be easily derived as topological extensions of the basic QSS bi-directional inverter/rectifier.   <p> \tA new QSS isolated three-phase zero-voltage/zero-current-switching (ZVZCS) buck PWM rectifier for high-power off-line applications is also proposed.  It consists of a three-phase buck bridge switching under zero current and a phase-shift-controlled full-bridge with ZVZCS, while no intermediate dc-link is involved.  Input power and displacement factor control, input current shaping, tight output voltage regulation, high-frequency transformer isolation, and soft-switching for all the power devices are realized in a unified single stage.  Because of ZVZCS and single-stage power conversion, it can operate at high switching frequency while maintaining reliable operation and achieving higher efficiency than standard two-stage approaches.  A family of isolated ZVZCS buck rectifiers are obtained by incorporating various ZVZCS schemes for full-bridge dc-dc converters into the basic QSS isolated buck rectifier topology.  Experimental and simulation results substantiate the reliable operation and high efficiency of selected topologies. <p> \tThe concept of charge control (or instantaneous average current control) of three-phase buck PWM rectifiers is introduced.  It controls precisely the average input phase currents to track the input phase voltages by sensing and integrating only the dc rail current, realizes six-step PWM, and features simple implementation, fast dynamic response, excellent noise immunity, and is easy to realize with analog circuitry or to integrate.  One particular merit of the scheme is its capability to correct any duty-cycle distortion incurred on only one of the two active duty-cycles which often happens in the soft-switched buck rectifiers, another merit is the smooth transition of the input currents between the 60o sectors.  Simulation and preliminary experimental results show that smooth operations and high quality sinusoidal input currents in the full line cycle are achieved with the control scheme.",
+  "description_provenance": [
+    "Author Email: kwang@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: dyshan@vt.edu",
+    "Advisor Email: delaree@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:45Z (GMT). No. of bitstreams: 9 ch4.pdf: 307685 bytes, checksum: 2752689d7fe79efe66bc93ef30c82f21 (MD5) ch3.pdf: 292258 bytes, checksum: 95fb4525dce7c830d2d392bfe614f6e7 (MD5) ch2.pdf: 175970 bytes, checksum: dce2326523bb69ad88eab6bd0b1044c6 (MD5) ch1.pdf: 128223 bytes, checksum: ad15cb2933a54db1fd8536099e3177e1 (MD5) etd.pdf: 67948 bytes, checksum: 1a626fb89b3ef0fd4717e47bdc67a3fa (MD5) REF1.PDF: 156545 bytes, checksum: 2ebd280ad9bd2e54cbd4bd5fb5c47f5b (MD5) VITAE.PDF: 32411 bytes, checksum: 0eae6a0d27abb06d5f9776159e290380 (MD5) CH6.PDF: 45560 bytes, checksum: 982e088e35836d41af503111c7b038e7 (MD5) CH5.PDF: 192686 bytes, checksum: e91dabf16979ec8c35a552710854232c (MD5)   Previous issue date: 1998-11-16"
+  ],
+  "handle": "29394",
+  "identifier_other": "etd-102898-042132",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-102898-042132/",
+  "identifier_uri": "http://hdl.handle.net/10919/29394",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ch4.pdf",
+    "ch3.pdf",
+    "ch2.pdf",
+    "ch1.pdf",
+    "etd.pdf",
+    "REF1.PDF",
+    "VITAE.PDF",
+    "CH6.PDF",
+    "CH5.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Battery Charger",
+    "PFC",
+    "Charge Control",
+    "UPS",
+    "Matrix Converter",
+    "Soft-Switched Rectifier",
+    "Single-Stage Rectifier/Inverter",
+    "Three-Phase Rectifier"
+  ],
+  "title": "HIGH-FREQUENCY QUASI-SINGLE-STAGE (QSS) ISOLATED AC-DC AND DC-AC POWER CONVERSION",
+  "type": "Dissertation"
+}

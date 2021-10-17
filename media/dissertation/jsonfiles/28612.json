@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Francisco Venustiano, Canales  Abarca",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Liu, Yilu",
+    "Wang, Fei Fred",
+    "Boroyevich, Dushan",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:02Z",
+  "date_adate": "2003-08-27",
+  "date_available": "2014-03-14T20:15:02Z",
+  "date_issued": "2003-07-29",
+  "date_rdate": "2003-08-27",
+  "date_sdate": "2003-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One of the requirements for the next generation of power supplies for distributed power systems (DPSs) is to achieve high power density with high efficiency.  \tIn the traditional front-end converter based on the two-stage approach for high-power three-phase DPSs, the DC-link voltage coming from the power factor correction (PFC) stage penalizes the second-stage DC/DC converter. This DC/DC converter not only has to meet the characteristics demanded by the load, but also must process energy with high efficiency, high reliability, high power density and low cost. To meet these requirements, approaches such as the series connection of converters and converters that reduce the voltage stress across the main devices have been proposed. \tIn order to improve the characteristics of these solutions, this dissertation proposes high-efficiency, high-density DC/DC converters for high-power high-voltage applications. \tIn the first part of the dissertation, a DC/DC converter based on a three-level structure and operated with pulse width modulation (PWM) phase-shift control is proposed. This new way to operate the three-level DC/DC converter allows soft-switching operation for the main devices. Zero-voltage switching (ZVS) and zero-voltage and zero-current switching (ZVZCS) soft-switching techniques are studied, analyzed and compared in order to improve the characteristics of the proposed converter. This results in a series of ZVS and ZVZCS three-level DC/DC converters for high-power high-voltage applications. In all cases, results from 6kW prototypes operating at 100 kHz are presented.  \tIn addition, with the ultimate goal of improving the power density of the DC/DC converter, a study of several resonant DC/DC converters that can operate at higher switching frequencies is presented. From this study, a three-element ZVS three-level resonant converter for applications with wide input voltage and load variations is proposed. Experimental results at 745 kHz obtained without penalizing the efficiency of the PWM approaches are presented. \tThe second part of the dissertation proposes a quasi-integrated AC/DC three-phase converter that aims to reduce the complexity and cost of the traditional two-stage front-end converter. This converter improves the complexity/low-efficiency tradeoff characteristics evident in the two-stage approach and previous integrated converters. The principle of operation for the converter is analyzed and verified on a 3kW experimental prototype.",
+  "description_provenance": [
+    "Author Email: fcanales@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: wangfred@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: dusan@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:02Z (GMT). No. of bitstreams: 1 Francisco_Canales_ETD.pdf: 2767088 bytes, checksum: ad836b8a80e11ac6e9324ee5a42b5ce0 (MD5)   Previous issue date: 2003-07-29"
+  ],
+  "handle": "28612",
+  "identifier_other": "etd-08112003-114345",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112003-114345/",
+  "identifier_uri": "http://hdl.handle.net/10919/28612",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Francisco_Canales_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "three-level converter",
+    "integrated converters",
+    "front-end converters",
+    "high-voltage DC/DC converters",
+    "three-phase rectifiers",
+    "distributed power systems",
+    "soft-switching"
+  ],
+  "title": "Novel DC/DC Converters For High-Power Distributed Power Systems",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Perez, Miguel A.",
+  "contributor_committeechair": "Nussbaum, Maury A.",
+  "contributor_committeemember": [
+    "Granata, Kevin P.",
+    "Babski-Reeves, Kari L.",
+    "Zhang, Xudong",
+    "Madigan, Michael L.",
+    "Lockhart, Thurmon E."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:22Z",
+  "date_adate": "2005-08-25",
+  "date_available": "2014-03-14T20:15:22Z",
+  "date_issued": "2005-08-15",
+  "date_rdate": "2005-08-25",
+  "date_sdate": "2005-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Musculoskeletal pain and injury continue to be prevalent sources of disability for thousands of workers in the U.S. every year.  Proactive approaches to the reduction of this incidence attempt to prevent the injury by effecting task design so that human capabilities and limitations are driving factors in the task design and analysis process.  Knowledge about the posture and kinematics that might be employed by an individual in performing a task is an important element of these proactive approaches to task design and analysis, especially for manual materials handling (i.e., lifting) exertions.  In turn, accurate models that predict posture and kinematics can reduce the need for empirical postural and kinematic data in this task development process.  Artificial neural networks were used in this investigation to achieve these predictions.  As input, these networks received information about lift characteristics (e.g. target location, movement duration) and returned a predicted set of joint angles.  Two types of networks were created, one to predict static posture based on target position, the second to predict the time histories of several joint angles (i.e., kinematics) as an object is lifted or lowered.  Initial networks were created for sagittally symmetric lifts (two dimensions), but the final set of networks was expanded to make predictions for symmetric and asymmetric lifts in three dimensions.  Networks were trained and verified with an empirical set of non-cyclic lifting motions.  Notably, the within-subject variability in these motions was similar in magnitude to the associated between-subjects variability.  In general, the networks were able to assimilate the data relatively well, especially in predicting kinematics, where root mean square errors were typically smaller than 20 degrees.  These errors were similar in magnitude to the levels of within-subject variability observed in the dataset.  Network performance also compared favorably to other existing models, typically resulting in smaller prediction errors than these other approaches.  In addition, the internal connections of trained networks were examined to infer hypothetical motor control strategies.  Results of this examination showed that feedback was an important component in providing kinematic predictions, whereas posture prediction benefited greatly from knowledge about individual anthropometry.  Finally, potential improvements to increase prediction accuracy are discussed.  Overall, these results support the use of artificial neural network models to predict posture and kinematics for lifting tasks.",
+  "description_provenance": [
+    "Author Email: mperez@vt.edu",
+    "Advisor Email: granata@vt.edu",
+    "Advisor Email: kbabski@vt.edu",
+    "Advisor Email: nussbaum@vt.edu",
+    "Advisor Email: xudong@uiuc.edu",
+    "Advisor Email: mlmadigan@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:22Z (GMT). No. of bitstreams: 1 Dissertation-ETD.pdf: 6895293 bytes, checksum: 876b16f72feac921661217083a298b66 (MD5)   Previous issue date: 2005-08-15"
+  ],
+  "handle": "28706",
+  "identifier_other": "etd-08182005-092808",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182005-092808/",
+  "identifier_uri": "http://hdl.handle.net/10919/28706",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Artificial Neural Network",
+    "Modeling",
+    "Lifting",
+    "Kinematics Prediction"
+  ],
+  "title": "Prediction of Whole-body Lifting Kinematics using Artificial Neural Networks",
+  "type": "Dissertation"
+}

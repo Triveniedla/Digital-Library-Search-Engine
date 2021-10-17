@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Intiyot, Boonyarit",
+  "contributor_committeechair": "Nachlas, Joel A.",
+  "contributor_committeemember": [
+    "Bish, Ebru K.",
+    "Koelling, Charles Patrick",
+    "Badinelli, Ralph D."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:16:10Z",
+  "date_adate": "2007-09-26",
+  "date_available": "2014-03-14T20:16:10Z",
+  "date_issued": "2007-09-05",
+  "date_rdate": "2010-10-07",
+  "date_sdate": "2007-09-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A quasi-renewal process is more realistic in modeling the behavior of a repairable system than traditional models such as perfect repair and minimal repair since it reflects the deterioration process of the system over time while traditional models do not. The quasi-renewal parameter is set to a value between 0 and 1 to indicate the rate of deterioration. Moreover, a quasi-renewal process can also be used to model the increasing time of maintenance actions due to the increasing difficulty of maintaining an aging system by setting the parameter to a value larger than 1. We construct a model where the operating times follow a quasi-renewal process and the corrective/preventive maintenance times follow another quasi-renewal process. A quasi-renewal function and two equivalent point availability expressions are developed for the model described by a quasi-renewal process with and age-dependent preventive maintenance policy. In addition, numerical results from various theoretical distributions are obtained to illustrate the behavior of the models. The two equivalent point availability functions each contains an infinite sum and must be truncated to obtain a numerical approximation. The two approximated point availability functions form upper and lower bounds on the real value. The bounds are useful for determining the result accuracy, which can be arbitrarily increased by adding more terms to the truncated summation. Our framework provides a new time-dependent availability model for a non-stationary process with a preventive maintenance policy without any cost structure or optimization problem.",
+  "description_provenance": [
+    "Author Email: bintiyot@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: ralphb@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:10Z (GMT). No. of bitstreams: 1 dissertation.pdf: 2618955 bytes, checksum: 65a6a2d5df8bcdac37f02d5e9429bc8b (MD5)   Previous issue date: 2007-09-05"
+  ],
+  "handle": "28955",
+  "identifier_other": "etd-09122007-214414",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09122007-214414/",
+  "identifier_uri": "http://hdl.handle.net/10919/28955",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "reliability",
+    "availability",
+    "quasi-renewal process",
+    "corrective maintenance",
+    "age-dependent preventive maintenance"
+  ],
+  "title": "Availability Analysis for the Quasi-Renewal Process with an Age-Dependent Preventive Maintenance Policy",
+  "type": "Dissertation"
+}

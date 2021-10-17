@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Liu, Sirui",
+  "contributor_committeechair": "Murray-Tuite, Pamela M.",
+  "contributor_committeemember": [
+    "Hancock, Kathleen L.",
+    "Schweitzer, Lisa A.",
+    "Trani, Antoino A.",
+    "Hobeika, Antoine G."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:12:40Z",
+  "date_adate": "2011-06-09",
+  "date_available": "2014-03-14T20:12:40Z",
+  "date_issued": "2011-05-04",
+  "date_rdate": "2011-06-09",
+  "date_sdate": "2011-06-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "No-notice incidents occur with no advance notice of time and place. Family members may be separated when a no-notice incident strikes during the daytime. They may seek to gather the household members first and evacuate as a unit, and parents may head in the â  wrongâ   direction to pick up their children from schools/daycare centers. Many previous studies have acknowledged that such behavior exists but few, if any, have examined it in-depth.  Additionally, this behavior has rarely been integrated with transportation simulation models of evacuation conditions.  As shown through this work, such omissions generate overly optimistic network performance.  Acknowledging the behavior also leads to potential network improvements by moving dependents (people being picked up by other household members) to more accessible locations. This study investigated no-notice evacuation household gathering behavior based on 315 interviews conducted in the Chicago metropolitan area, in which interviewees were asked about their evacuation and logistic decisions. The study analyzed household pick-up and gathering behavior from the interviews, developed models to represent the behavior, and integrated the household behavior models with network simulation modeling to examine the effects of household behaviors on network evacuation performance. Logistic regression models were built to predict the probability that parents retrieve children from school in normal and emergency situations. Gender, car availability, and travel distance (between parents and children) were the main influencing factors to determining child-chauffeuring travel behavior, where gender difference appeared to be most prominent. Women are more responsible for picking up children from school than men, and both women and men are more likely to pick up children under emergency conditions compared to a normal situation.    A complex model to integrating human behavior analysis and network assignment modeling was presented in this study. The model follows the traditional four step urban transportation planning process and 1) estimates household gathering chains in an evacuation using a discrete choice (Logit) model and sequences chains following the principle of â  nearest firstâ  , 2) assigns directions of destinations ensuring the least travel time to safe zones from the last stop within the hot zones, 3) applies decision tree based mode choice models to determine the mode used for evacuation, and 4) uses a dynamic assignment method to assign time-varying demand to the network. The whole framework was tested in the Chicago metropolitan region for two hypothetical incidents, one causing a 5-mile evacuation radius and the other a 25-mile radius evacuation. The results showed that considering household gathering behavior will reduce proportions of evacuees who reach safe zones by a certain time period, while not necessarily deteriorating overall network traffic performance. To facilitate the chain-based evacuations, a relocation model is proposed by moving carless dependents of facilities (such as schools and daycare centers) to more accessible locations for pickup; a linear integer program is presented to determine optimal sites. The optimization model uses estimated travel time obtained from a micro-simulation model and a procedure is presented to iterate between the two models (optimization and simulation). The methodology was applied to a sample network based on Chicago Heights, Illinois. The sample application involved four facilities with 780 dependents and three safe time thresholds, i.e., 30, 45 and 60 minutes. The sample application tested two scenarios - no mode shift and mode shift from car to bus - and introduced average speed and the number of successful evacuations of dependents to evaluate the performance of a relocation strategy. The safe evacuation time threshold was quite important for the relocation strategy; when it is adequate, relocating dependents benefits both those picking up dependents and the other vehicles in the network.  This dissertation contributes to the fields of evacuation modeling and transportation engineering, in general. This study investigates child pick-up, spouse gathering, and home gathering behavior during hypothetical incidents, and identifies characteristics associated with household decision makers that influence this behavior. The study also presents a model to integrate the behavior with road network simulation modeling; the combined model could be used to investigate the effects of gathering behavior on network traffic performance and identify potential spatial and temporal bottlenecks. Finally, this work explored a strategy to facilitate household pick up chains by relocating facility dependents to more accessible site. The study can support any city evacuation plan development.",
+  "description_provenance": [
+    "Author Email: lius77@vt.edu",
+    "Advisor Email: hancockk@vt.edu",
+    "Advisor Email: lschwei@mac.com",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: murraytu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:40Z (GMT). No. of bitstreams: 2 Liu_S_D_2011.pdf: 1598490 bytes, checksum: 2f61fbc35cf81afa89f3dc17cb602525 (MD5) Liu_S_D_2011_Copyright.pdf: 60670 bytes, checksum: 8ea0226f0cec4dee5ebd600b2ad4ef83 (MD5)   Previous issue date: 2011-05-04"
+  ],
+  "handle": "27927",
+  "identifier_other": "etd-06012011-164838",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06012011-164838/",
+  "identifier_uri": "http://hdl.handle.net/10919/27927",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Liu_S_D_2011.pdf",
+    "Liu_S_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Household Behavior",
+    "No-Notice",
+    "Evacuation"
+  ],
+  "title": "Analysis and Evaluation of Household Pick-up and Gathering Behavior in No-Notice Evacuations",
+  "type": "Dissertation"
+}

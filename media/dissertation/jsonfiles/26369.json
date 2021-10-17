@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Balbahadur, Avinash Chetnand",
+  "contributor_committeechair": "Kirk, R. Gordon",
+  "contributor_committeemember": [
+    "Vick, Brian L.",
+    "West, Robert L. Jr.",
+    "Kasarda, Mary E. F.",
+    "Kapania, Rabesh K."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:08:00Z",
+  "date_adate": "2001-03-07",
+  "date_available": "2014-03-14T20:08:00Z",
+  "date_issued": "2001-02-27",
+  "date_rdate": "2002-03-07",
+  "date_sdate": "2001-03-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Unlike most instabilities, which are non-synchronous in nature, the Morton Effect is a synchronous phenomenon.  This thermal instability occurs primarily in overhung rotors that are supported by fluid film bearings and is caused by differential viscous shearing within the bearing lubricant.  The Morton Effect has also gained much attention within the last decade. Prior studies of the Morton Effect have used complex analysis in the frequency domain to model this instability.  However, such an approach makes it difficult to develop a user-friendly design tool for engineers.  The current research employs a steady-state analysis to predict the onset of the Morton Effect, and it uses an instability criterion which is based on a threshold unbalance caused by a force equal to 15% of the weight of the rotor.  It is hoped that this method will provide a more easily adaptable platform for design and analytical purposes. The current model has demonstrated good agreement with other theoretical models and experimental data.  This agreement applies to rotors that are supported by either plain or tilting pad journal bearings and it was found that a worse case scenario for the Morton Effect would involve centered, circular and large-amplitude bearing orbits. A test rotor was also designed and built.  Initial experimental data revealed an unusual instability that might have been caused by the Morton Effect.",
+  "description_provenance": [
+    "Author Email: abalbaha@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: westrl@vt.edu",
+    "Advisor Email: gokirk@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:00Z (GMT). No. of bitstreams: 1 Dissertation.PDF: 3046877 bytes, checksum: 8998767eb1f7aebbd1320ebe6579dccf (MD5)   Previous issue date: 2001-02-27"
+  ],
+  "handle": "26369",
+  "identifier_other": "etd-03062001-110706",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03062001-110706/",
+  "identifier_uri": "http://hdl.handle.net/10919/26369",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.PDF",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Morton Effect",
+    "Bearings",
+    "Thermal Bending"
+  ],
+  "title": "A Thermoelastohydrodynamic Model  of The Morton Effect  Operating in Overhung Rotors Supported by  Plain or Tilting Pad Journal Bearings",
+  "type": "Dissertation"
+}

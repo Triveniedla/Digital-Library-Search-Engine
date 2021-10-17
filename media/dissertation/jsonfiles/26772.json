@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Ikuma, Takeshi",
+  "contributor_committeechair": "Beex, A. A. Louis",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Ball, Joseph A.",
+    "Kachroo, Pushkin",
+    "Tranter, William H."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:22Z",
+  "date_adate": "2007-04-25",
+  "date_available": "2014-03-14T20:09:22Z",
+  "date_issued": "2007-04-10",
+  "date_rdate": "2007-04-25",
+  "date_sdate": "2007-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>The least mean square (LMS) algorithm is widely expected to operate near the corresponding Wiener filter solution. An exception to this popular perception occurs when the algorithm is used to adapt a transversal equalizer in the presence of additive narrowband interference. The steady-state LMS equalizer behavior does not correspond to that of the fixed Wiener equalizer: the mean of its weights is different from the Wiener weights, and its mean squared error (MSE) performance may be significantly better than the Wiener performance. The contributions of this study serve to better understand this so-called non-Wiener phenomenon of the LMS and normalized LMS adaptive transversal equalizers.</p> <p>The first contribution is the analysis of the mean of the LMS weights in steady state, assuming a large interference-to-signal ratio (ISR). The analysis is based on the Butterweck expansion of the weight update equation. The equalization problem is transformed to an equivalent interference estimation problem to make the analysis of the Butterweck expansion tractable. The analytical results are valid for all step-sizes. Simulation results are included to support the analytical results and show that the analytical results predict the simulation results very well, over a wide range of ISR.</p> <p>The second contribution is the new MSE estimator based on the expression for the mean of the LMS equalizer weight vector. The new estimator shows vast improvement over the Reuter-Zeidler MSE estimator. For the development of the new MSE estimator, the transfer function approximation of the LMS algorithm is generalized for the steady-state analysis of the LMS algorithm. This generalization also revealed the cause of the breakdown of the MSE estimators when the interference is not strong, as the assumption that the variation of the weight vector around its mean is small relative to the mean of the weight vector itself.</p> <p>Both the expression for the mean of the weight vector and for the MSE estimator are analyzed for the LMS algorithm at first. The results are then extended to the normalized LMS algorithm by the simple means of adaptation step-size redefinition. </p>",
+  "description_provenance": [
+    "Author Email: tikuma@vt.edu",
+    "Advisor Email: w.t.baumann@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: btranter@exchange.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:22Z (GMT). No. of bitstreams: 1 IKUMA-PhD.pdf: 1794059 bytes, checksum: 91c4ceacbb6d64575eb0596c96481ad5 (MD5)   Previous issue date: 2007-04-10"
+  ],
+  "handle": "26772",
+  "identifier_other": "etd-04112007-104316",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112007-104316/",
+  "identifier_uri": "http://hdl.handle.net/10919/26772",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "IKUMA-PhD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Butterweck expansion",
+    "Transfer function approximation",
+    "MSE analysis",
+    "Mean weight analysis",
+    "LMS algorithm",
+    "NLMS algorithm"
+  ],
+  "title": "Non-Wiener Effects in Narrowband Interference Mitigation Using Adaptive Transversal Equalizers",
+  "type": "Dissertation"
+}

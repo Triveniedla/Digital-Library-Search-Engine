@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Kook, Kyung Soo Soo",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Lin, Tao",
+    "Wang, Anbo",
+    "De La Ree Lopez, Jaime",
+    "Mili, Lamine M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:10Z",
+  "date_adate": "2007-07-03",
+  "date_available": "2014-03-14T20:12:10Z",
+  "date_issued": "2007-05-04",
+  "date_rdate": "2010-10-07",
+  "date_sdate": "2007-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> This study selects several new advanced topics in power systems, and verifies their usefulness using the simulation. In the study on ratio of the equivalent reactance and resistance of the bulk power systems, the simulation results give us the more correct value of X/R of the bulk power system, which can explain why the active power compensation is also important in voltage flicker mitigation. In the application study of the Energy Storage System(ESS) to the wind power, the new model implementation of the ESS connected to the wind power is proposed, and the control effect of ESS to the intermittency of the wind power is verified. Also this study conducts the intensive simulations for clarifying the behavior of the wide-area power system frequency as well as the possibility of the on-line instability detection.   </p> <p>  In our POWER IT Laboratory, since 2003, the U.S. national frequency monitoring network (FNET) has been being continuously operated to monitor the wide-area power system frequency in the U.S. Using the measured frequency data, the event of the power system is triggered, and its location and scale are estimated. This study also looks for the possibility of using the simulation technologies to contribute the applications of FNET, finds similarity of the event detection orders between the frequency measurements and the simulations in the U.S. Eastern power grid, and develops the new methodology for estimating the event location based on the simulated N-1 contingencies using the frequency measurement.  </p> <p>  It has been pointed out that the simulation results can not represent the actual response of the power systems due to the inevitable limit of modeling power systems and different operating conditions of the systems at every second. However, in the circumstances that we need to test such an important infrastructure supplying the electric energy without   taking any risk of it, the software based simulation will be the best solution to verify the new technologies in power system engineering and, for doing this, new models and better application of the simulation should be proposed.  </p> <p>  Conducting extensive simulation studies, this dissertation verified that the actual X/R ratio of the bulk power systems is much lower than what has been known as its typical value, showed the effectiveness of the ESS control to mitigate the intermittence of the wind power from the perspective of the power grid using the newly proposed simulation model of ESS connected to the wind power, and found many characteristics of the wide-area frequency wave propagation. Also the possibility of using the simulated responses of the power system for replacing the measured data could be confirmed and this is very promising to the future application of the simulation to the on-line analysis of the power systems based on the FNET measurements.</p>",
+  "description_provenance": [
+    "Author Email: kskook@vt.edu",
+    "Advisor Email: tlin@calvin.math.vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:10Z (GMT). No. of bitstreams: 1 Kook_Ph_D_Dissertation3.pdf: 6511044 bytes, checksum: fddb2289e8677f929e4661a58a3c161b (MD5)   Previous issue date: 2007-05-04"
+  ],
+  "handle": "27761",
+  "identifier_other": "etd-05172007-202319",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172007-202319/",
+  "identifier_uri": "http://hdl.handle.net/10919/27761",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kook_Ph_D_Dissertation3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "X/R of bulk power systems",
+    "Energy Storage System",
+    "Power system frequency dynamics",
+    "Wind power",
+    "Simulation based power system analysis",
+    "event location estimation",
+    "US Eastern Interconnection",
+    "PSS/E",
+    "FNET",
+    "detection order"
+  ],
+  "title": "Dynamic Model Based Novel Findings in Power Systems Analysis and Frequency Measurement Verification",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Teotia, Seemant",
+  "contributor_committeechair": "Jacobs, Ira",
+  "contributor_committeemember": [
+    "Guido, Louis J.",
+    "Tranter, William H.",
+    "Shaw, John Kenneth",
+    "Pratt, Timothy J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:25Z",
+  "date_adate": "2006-06-15",
+  "date_available": "2014-03-14T20:11:25Z",
+  "date_issued": "2006-05-01",
+  "date_rdate": "2006-06-15",
+  "date_sdate": "2006-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this dissertation is to find the channel capacity in optical fiber communication systems when incoherent detection is used with single (polarization filtering) and two-polarizations (no polarization filtering).   Optical fiber systems employ photodetectors that convert optical intensity to electrical current. Bandpass vector fields may be represented by four orthogonal baseband components corresponding to two quadrature phases and two orthogonal polarizations. Intensity is proportional to the sum of the squares of these four components. In the case of a coherent receiver, a strong optical local oscillator (in phase and with same polarization as the signal) is added to the signal prior to the photodetector. This results in the removal of the quadrature phase and polarization components, and reduces to the one degree of freedom (DOF) case of signal plus local oscillator shot noise for which the Shannon channel capacity formula applies. Electrical noise following the photodetector may also be neglected if there is an optical amplifier before the photodetector in the receiver. The amplifier introduces amplified spontaneous emission noise containing both quadrature phase components and both polarizations (4 DOFs), but the 2 DOF case would result if a polarization filter were used. Although the 1 and 2 DOF cases are of less practical interest than the 4 DOF case, they provide useful benchmarks for comparing performance limits.   We evaluate both spectral efficiency limits (bps/Hz) in the limit of high and low SNR for the 1,2 and 4 DOF cases and also find the power efficiency (minimum number of photons per bit) for each of these cases. It is shown that for high SNR the spectral efficiency is the same independent of the number of DOFs and that the half-Gaussian distribution is the optimum distribution. We are able to thus obtain a compact equation for spectral efficiency which behaves in a similar way to the Shannon capacity formula but with the SNR scaled by a constant.  We also show that for low SNR the half-Gaussian distribution is not the optimum distribution as the slope of the mutual information changes with the square of SNR which would lead to the number of photons per bit becoming infinite in the limit of SNR going to zero. We use a modified half-Gaussian distribution which has a discrete component (an impulse function at the origin) and provide a simple proof that this distribution results in a mutual information that goes to zero linearly with SNR resulting in a minimum number of photons per bit. Furthermore, by increasing the magnitude of the discrete component at the origin, it is shown that the minimum number of photons per bit for the incoherent channel approaches that of the coherent channel.",
+  "description_provenance": [
+    "Author Email: steotia@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: louis.guido@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: jkshaw@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:25Z (GMT). No. of bitstreams: 4 Title.pdf: 7275 bytes, checksum: 56adbbbd1b4fddf8c14da32ae5506174 (MD5) DissertationBody.pdf: 406111 bytes, checksum: 179bb9453fe984079f725ef302bac887 (MD5) AcknowledgmentsandTableofContents.pdf: 31289 bytes, checksum: 363ea10a564375218d1cd49959deec1a (MD5) Abstract.pdf: 9809 bytes, checksum: 21256d2028614216d9e1c712c2bdd3c8 (MD5)   Previous issue date: 2006-05-01"
+  ],
+  "handle": "27497",
+  "identifier_other": "etd-05022006-024817",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022006-024817/",
+  "identifier_uri": "http://hdl.handle.net/10919/27497",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Title.pdf",
+    "DissertationBody.pdf",
+    "AcknowledgmentsandTableofContents.pdf",
+    "Abstract.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Degrees of Freedom",
+    "Incoherent Optical Channels",
+    "Channel Capacity"
+  ],
+  "title": "Influence of the Number of Degrees of Freedom on the Capacity of Incoherent Optical Fiber Communication Systems",
+  "type": "Dissertation"
+}

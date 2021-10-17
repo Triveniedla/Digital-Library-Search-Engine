@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ali, Mir Farooq",
+  "contributor_committeechair": "Pérez-Quiñones, Manuel A.",
+  "contributor_committeemember": [
+    "Abrams, Marc",
+    "Ramakrishnan, Naren",
+    "Midkiff, Scott F.",
+    "McCrickard, Donald Scott"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:12:09Z",
+  "date_adate": "2005-05-25",
+  "date_available": "2014-03-14T20:12:09Z",
+  "date_issued": "2004-11-16",
+  "date_rdate": "2005-05-25",
+  "date_sdate": "2005-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The widespread emergence of computing devices that go beyond the capabilities of traditional desktop computers has created a challenge for user interface (UI) developers who face the problem of a lack of a unified development process for building these UIs. This dissertation research focuses on creating a simplified development process for building UIs for multiple platforms. As part of this, the necessary building blocks (and their relationships) that can be used in a process to develop multi-platform UIs (MPUIs) are identified and specified. A task model, which is an abstract representation of the tasks that users perform with a system, is used as a high-level platform-independent specification for representing UIs for multiple platforms.  The task model is supplemented with additional navigation attributes and containment operators for each target platform to facilitate the UI development process. This contribution is based on the insight that an uncontaminated task model, in conjunction with additional operators, allows different styles of UIs to be derived for different platforms.      This development process is evaluated by functional comparison with a few other multi-platform development processes, based on a set of criteria. In particular, a detailed comparison of this approach is performed with the approach used in the TERESA development environment. The process is also evaluated by demonstrating how the new features of this approach allow different styles of UIs to be built not only for a single platform, but also for different platforms. The two underlying notations that are used in this work include the Concurrent Task Tree (CTT) modeling notation for the task model and an intermediate language for UIs, the User Interface Markup Language (UIML). This research associates a new vocabulary with the UIML language to facilitate a multi-step transformation-based MPUI development process.",
+  "description_provenance": [
+    "Author Email: miali@cs.vt.edu",
+    "Advisor Email: mabrams@harmonia.com",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:09Z (GMT). No. of bitstreams: 1 finaldissertation.pdf: 3133574 bytes, checksum: f6f09d9a1bf92ad82bac3aa5a60e0587 (MD5)   Previous issue date: 2004-11-16"
+  ],
+  "handle": "27753",
+  "identifier_other": "etd-05172005-041721",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172005-041721/",
+  "identifier_uri": "http://hdl.handle.net/10919/27753",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "finaldissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "User Interface Markup Language",
+    "Vocabulary",
+    "Task Model",
+    "Transformation Algorithms",
+    "Multi-Platform User Interfaces"
+  ],
+  "title": "A Transformation-based Approach to Building Multi-Platform User Interfaces Using a Task Model and the User Interface Markup Language",
+  "type": "Dissertation"
+}

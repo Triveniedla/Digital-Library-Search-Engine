@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Huang, Liling",
+  "contributor_committeechair": "Phadke, Arun G.",
+  "contributor_committeemember": [
+    "Kohler, Werner E.",
+    "VanLandingham, Hugh F.",
+    "Mili, Lamine M.",
+    "Liu, Yilu",
+    "De La Ree Lopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:50:30Z",
+  "date_adate": "2003-11-03",
+  "date_available": "2011-08-22T18:50:30Z",
+  "date_issued": "2003-09-16",
+  "date_rdate": "2004-11-03",
+  "date_sdate": "2003-10-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In a large and dense power network, the transmission lines, the generators and the loads are considered to be continuous functions of space. The continuum technique provides a macro-scale analytical tool to gain an insight into the mechanisms by which the disturbances initiated by faults and other random events propagate in the continuum. This dissertation presents one-dimensional and two-dimensional discrete models to illustrate the propagation of electromechanical waves in a continuum system. The more realistic simulations of the non-uniform distribution of generators and boundary conditions are also studied. Numerical simulations, based on the swing equation, demonstrate electromechanical wave propagation with some interesting properties. The coefficients of reflection, reflection-free termination, and velocity of propagation are investigated from the numerical results. Discussions related to the effects of electromechanical wave propagation on protection systems are given. In addition, the simulation results are compared with field data collected by phasor measurement units, and show that the continuum technique provides a valuable tool in reproducing electromechanical transients on modern power systems. Discussions of new protection and control functions are included. A clear understanding of these and related phenomena will lead to innovative and effective countermeasures against unwanted trips by the protection systems, which can lead to system blackouts.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:50:30Z (GMT). No. of bitstreams: 1 Liling_Dissertation.pdf: 1593350 bytes, checksum: 55897c0065fa4d494fbc008655500306 (MD5)   Previous issue date: 2003-09-16",
+    "Author Email: liling@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: jreelope@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11054",
+  "identifier_other": "etd-10162003-125452",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10162003-125452",
+  "identifier_uri": "http://hdl.handle.net/10919/11054",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Liling_Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Phasor Measurement Unit",
+    "Electromechanical Wave Propagation",
+    "Continuum",
+    "Power System Relaying"
+  ],
+  "title": "Electromechanical Wave Propagation in Large Electric Power Systems",
+  "type": "Dissertation"
+}

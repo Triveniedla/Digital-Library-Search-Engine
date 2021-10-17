@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Kannan, Govindan",
+  "contributor_committeechair": "Vorster, Michael C.",
+  "contributor_committeemember": [
+    "de la Garza, Jesus M.",
+    "Karmis, Michael E.",
+    "Martinez, Julio C.",
+    "Rakes, Terry R.",
+    "Showalter, William E."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:21Z",
+  "date_adate": "1999-06-26",
+  "date_available": "2014-03-14T20:13:21Z",
+  "date_issued": "1999-05-26",
+  "date_rdate": "2000-06-26",
+  "date_sdate": "1999-06-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Automated data acquisition has revolutionized the reliability of product design in recent years. A noteworthy example is the improvement in the design of aircrafts through field data. This research proposes a similar improvement in the reliability of process design of earthmoving operations through automated field data acquisition. The segment of earthmoving operations addressed in this research constitutes the truck-loader operation. Therefore, the applicability of this research extends to other industries involving truck-operation such as mining, agriculture and forest logging and is closely related to wheel-based earthmoving operations such as scrapers.<p>  The context of this research is defined by data collection needed to increase the validity of the results obtained by analysis tools such as simulation, performance measures and graphical representation of variance in an activityâ  s performance, and the relation between operating conditions and the variance in an activityâ  s performance. The automated cycle time data collection is facilitated by instrumented trucks and the collection of information on operating conditions is facilitated by image database and paper forms. The cycle time data and the information on operating conditions are linked together to form the experience database.<p>  This research developed methods to extract, quantify and understand the variation in each component of the earthmoving cycle namely, load, haul and return, and dump activities. For the load activity, the simultaneous variation in payload and load time is illustrated through the development of a PLT (PayLoad Time) Map. Among the operating conditions, material type, load area floor, space constraints and shift are investigated. A dynamic normalization process of determining the ratio of actual travel time to expected travel time is developed for the haul and return activities. The length of the haul road, sequence of gear downshifts and shift are investigated for their effect on the travel time. The discussion on the dump activity is presented in a qualitative form due to the lack of data.<p>  Each component is integrated within the framework of the experience database. The implementation aspects with respect to developing and using the experience database are also described in detail. The practical relevance of this study is highlighted using an example.<p>",
+  "description_provenance": [
+    "Author Email: gkannan@vt.edu",
+    "Advisor Email: mikev@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:21Z (GMT). No. of bitstreams: 6 FINALDISS.PDF: 3391893 bytes, checksum: 16e9c5b79a9db240f8bbb59be38ff770 (MD5) THESIS.EXE: 1457664 bytes, checksum: 50aacf4d1b64854e1d3d64d06c6de410 (MD5) THESIS.S2: 1457664 bytes, checksum: 6fb71746b18f3ab2c351cba80e603830 (MD5) THESIS.S3: 756400 bytes, checksum: 8cefb17bfa920fdb8cf3e3a5826b797d (MD5) ADDENDUM.PDF: 3638189 bytes, checksum: 468d6dd81ea93ea1df855f11b58541b2 (MD5) THESISDIRECTION.PDF: 3283 bytes, checksum: 3aa34933d408a0f7db78513743e75bd0 (MD5)   Previous issue date: 1999-05-26"
+  ],
+  "handle": "28065",
+  "identifier_other": "etd-061799-134330",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-061799-134330/",
+  "identifier_uri": "http://hdl.handle.net/10919/28065",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "FINALDISS.PDF",
+    "THESIS.EXE",
+    "THESIS.S2",
+    "THESIS.S3",
+    "ADDENDUM.PDF",
+    "THESISDIRECTION.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Simulation",
+    "Probabilistic Data",
+    "Automated Data Collection",
+    "Process Design",
+    "Earthmoving",
+    "Image Database"
+  ],
+  "title": "A Methodology for the Development of a Production Experience Database for Earthmoving Operations Using Automated Data Collection",
+  "type": "Dissertation"
+}

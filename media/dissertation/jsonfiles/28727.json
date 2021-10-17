@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Tarazaga, Pablo Alberto",
+  "contributor_committeecochair": [
+    "Inman, Daniel J.",
+    "Johnson, Martin E."
+  ],
+  "contributor_committeemember": [
+    "Roan, Michael J.",
+    "Stremler, Mark A.",
+    "Leo, Donald"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:27Z",
+  "date_adate": "2009-09-07",
+  "date_available": "2014-03-14T20:15:27Z",
+  "date_issued": "2009-08-07",
+  "date_rdate": "2009-09-07",
+  "date_sdate": "2009-08-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Optical membranes are currently pursued for their ability to replace the conventional mirrors that are used to correct wave front aberration and space-based telescopes.  Among some of the many benefits of using optical membranes, is their ability to considerably reduce the weight of the structure.  As a secondary effect, the cost of transportation, which is of great interest in space applications, is reduced as well. Given the low density of these thin-film membranes, the lower end dynamics play a greater significant role than their rigid plate-like counterparts in achieving functional mirrors.  Space-based mirrors are subjected to a series of disturbances. Among those encountered are thermal radiation, debris impact, and slewing maneuvers. Thus, dynamic control is essential for the adequate performance of thin-film membrane mirrors.  With this in mind, the work described herein aims to improve the performance of optical membranes with an innovative, acoustical control approach to suppress vibration of optical membranes backed by an air cavity. This is achieved by using a centralized acoustic source in the cavity as the method of actuation. The acoustic actuation is of great interest since it does not mass load the membrane in the conventional way, as most methods of actuation would.  To achieve this end goal, two structural-acoustic coupled models are developed to describe the dynamics of a pressurized optical membrane system. This is done through an impedance based modeling approach where the subsystems are modeled individually, and then coupled at the interface. The control of the membrane is implemented using a positive position feedback approach. The theory is also extended to positive velocity and positive acceleration feedback.   Three experiments are carried out to validate the models previously mentioned. Successful implementation of a control experiment is also accomplished leading to considerable attenuations in the coupled membraneâ  s dynamics.",
+  "description_provenance": [
+    "Author Email: pablot@vt.edu",
+    "Advisor Email: mroan@vt.edu",
+    "Advisor Email: mark.stremler@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:27Z (GMT). No. of bitstreams: 1 TarazagaDissertationETD.pdf: 34404307 bytes, checksum: 4ad356050b1621446cd4af0db3d5e77e (MD5)   Previous issue date: 2009-08-07"
+  ],
+  "handle": "28727",
+  "identifier_other": "etd-08192009-154702",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08192009-154702/",
+  "identifier_uri": "http://hdl.handle.net/10919/28727",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "TarazagaDissertationETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Membrane Modal Testing",
+    "Structural Acoustic Coupling",
+    "Operation Deflection Shapes",
+    "Acoustic Radiation",
+    "Impedance Modeling",
+    "Vibration Suppression",
+    "Gossamer",
+    "Pressurized Membrane",
+    "Optical Membranes"
+  ],
+  "title": "Dynamics and Control of a Pressurized Optical Membranes",
+  "type": "Dissertation"
+}

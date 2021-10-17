@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Svitek, Richard M",
+  "contributor_committeechair": "Raman, Sanjay",
+  "contributor_committeemember": [
+    "Bostian, Charles W.",
+    "Lu, Guo-Quan",
+    "Buehrer, Richard Michael",
+    "Sweeney, Dennis G."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:05Z",
+  "date_adate": "2005-04-28",
+  "date_available": "2014-03-14T20:11:05Z",
+  "date_issued": "2005-04-07",
+  "date_rdate": "2005-04-28",
+  "date_sdate": "2005-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The advent of high-fT silicon CMOS/BiCMOS technologies has led to a dramatic upsurge in the research and development of radio and microwave frequency integrated circuits (ICs) in silicon.  The integration of silicon-germanium heterojunction bipolar transistors (SiGe HBTs) into established \"digital\" CMOS processes has provided analog performance in silicon that is not only competitive with III-V compound-semiconductor technologies, but is also potentially lower in cost.  Combined with improvements in silicon on-chip passives, such as high-Q metal-insulator-metal (MIM) capacitors and monolithic spiral inductors, these advanced RF CMOS and SiGe BiCMOS technologies have enabled complete silicon-based RF integrated circuit (RFIC) solutions for emerging wireless communication standards; indeed, both the analog and digital functionalities of an entire wireless system can now be combined in a single IC, also known as a wireless \"system-on-a-chip\" (SoC).  This approach offers a number of potential benefits over multi-chip solutions, such as reductions of parasitics, size, power consumption, and bill-of-materials; however, a number of critical challenges must be considered in the integration of such SoC solutions.     The focus of this research is the application of SiGe BiCMOS technology to on-going challenges in the development of receiver components for high speed wireless data networks.  The research seeks to drive SoC integration by investigating circuit topologies that eliminate the need for off-chip components and are amenable to complete on-chip integration.  The first part of this dissertation presents the design, fabrication, and measurement of a 5--6GHz  sub-harmonic direct-conversion-receiver (DCR) front-end, implemented in the IBM 0.5um  5HP SiGe BiCMOS process.  The design consists of a fully-differential low-noise amplifier (LNA), a set of quadrature (I and Q)x~2 sub-harmonic mixers, and an LO conditioning chain.  The front-end design provides a means to address performance limitations of the DCR architecture (such as DC-offsets, second-order distortion, and quadrature phase and amplitude imbalances) while enabling the investigation of high-frequency IC design complications, such as package parasitics and limited on-chip isolation.  The receiver front-end has a measured conversion gain of ~18dB, an input second-order intercept point of +17.5dBm, and a noise figure of 7.2dB.  The quadrature phase balance at the sub-harmonic mixer IF outputs was measured in the presence of digital switching noise; 90<degree> balance was achieved, over a specific range of LO power levels, with a square wave noise signal injected onto the mixer DC supply rails.     The susceptibility of receiver I/Q balance to mixed-signal effects in a SoC environment motivates the second part of this dissertation --- the design of a phase and amplitude tunable, quadrature voltage-controlled oscillator (QVCO) for the on-chip synthesis of quadrature signals.  The QVCO design, implemented in the Freescale (formerly Motorola) 0.18um  SiGe:C RFBiCMOS process, uses two identical, differential LC-tank VCOs connected such that the two oscillator outputs lock in quadrature to the same frequency.  The QVCO designs proposed in this work provide the additional feature of phase-tunability, i.e. the relative phase balance between the quadrature outputs can be adjusted dynamically, offering a simulated tuning range of ~90<degree>+/-10â ¹degree> in addition, a variable-gain buffer/amplifier circuit that provides amplitude tunability is introduced.  One potential application of the QVCO is in a self-correcting RF receiver architecture, which, using the phase and amplitude tunability of the QVCO, could dynamically adjust the IF output quadrature phase and amplitude balance, in near real-time, in the analog-domain.     The need for high-quality inductors in both the DCR and QVCO designs motivates the third aspect of this dissertation --- the characterization and modeling of on-chip spiral inductors with patterned ground shields, which are placed between the inductor coil and the underlying substrate in order to improve the inductor quality factor (Q).  The shield prevents the coupling of energy away from the inductor spiral to the typically lossy Si substrate, while the patterning disrupts the flow of induced image currents within the shield.  The experimental effort includes the fabrication and testing of a range of inductors with different values, and different types of patterned ground shields in different materials.  Two-port measurements show a ~50% improvement in peak-Q and a ~20% degradation in self-resonant frequency for inductors with shields.  From the measured results, a scalable lumped element model is developed for the rapid simulation of spiral inductors with and without patterned ground shields.     The knowledge gained from this work can be combined and applied to a range of future RF/wireless SoC applications.  The designs developed in this dissertation can be ported to other technologies (e.g. RF CMOS) and scaled to other frequency ranges (e.g. 24GHz  ISM band) to provide solutions for emerging applications that require low-cost, low-power RF/microwave circuit implementations.",
+  "description_provenance": [
+    "Author Email: rsvitek@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: sraman@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:05Z (GMT). No. of bitstreams: 1 rsvitek.pdf: 11113105 bytes, checksum: b53b5d86397b84d7106828e71affa561 (MD5)   Previous issue date: 2005-04-07"
+  ],
+  "handle": "27375",
+  "identifier_other": "etd-04272005-174707",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272005-174707/",
+  "identifier_uri": "http://hdl.handle.net/10919/27375",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "rsvitek.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "direct-conversion",
+    "5 GHz",
+    "IEEE 802.11a",
+    "phase tunability",
+    "RF front-end",
+    "RFIC",
+    "quadrature VCO",
+    "sub-harmonic",
+    "SiGe",
+    "U-NII",
+    "WLAN",
+    "integrated circuit"
+  ],
+  "title": "SiGe BiCMOS RF ICs and Components for High Speed Wireless Data Networks",
+  "type": "Dissertation"
+}

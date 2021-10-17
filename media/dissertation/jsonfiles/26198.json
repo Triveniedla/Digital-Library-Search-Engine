@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Obenberger, Jon T.",
+  "contributor_committeecochair": [
+    "Collura, John",
+    "Kikuchi, Shinya"
+  ],
+  "contributor_committeemember": [
+    "Rakha, Hesham Ahmed",
+    "Gracanin, Denis",
+    "Tignor, Samuel C."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:22Z",
+  "date_adate": "2007-03-24",
+  "date_available": "2014-03-14T20:07:22Z",
+  "date_issued": "2007-01-31",
+  "date_rdate": "2007-03-24",
+  "date_sdate": "2007-02-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Enabling vehicles to preempt the normal operation of traffic signals has the potential to improve the safety and efficiency of both the requesting vehicle and all of the other vehicles.  Little is known about which strategy is the most effective to exit from preemption control and transition back to the traffic signals normal timing plan.  Common among these traffic signal transition strategies is the method of either increasing or decreasing the cycle length of the signal timing plan, as the process followed to return to the coordination point of the effected signal timing plan, to coordinate its operation with adjacent traffic signals.  This research evaluates commonly available transition strategies: best way, long, short, and hold strategies.    The major contribution of this research is enhancing the methodology to evaluate the impacts of using these alternative transition strategies.  Part of this methodology consists of the â  software-in-the-loopâ   simulation tool which replicates the stochastic characteristics of traffic flow under different traffic volume levels.  This tool combines the software from a traffic signal controller (Gardner NextPhase Suitcase Tester, version 1.4B) with a microscopic traffic simulation model (CORSIM, TSIS 5.2 beta version).  The research concludes that a statistically significant interaction exists between traffic volume levels and traffic signal transition strategies.  This interaction eliminates the ability to determine the isolated effects of either the transition strategies on average travel delay and average travel time, or the effects of changes in traffic volume levels on average travel delay and average travel time.  Conclusions, however, could be drawn on the performance of different transition strategies for specific traffic volume levels.  As a result, selecting the most effective transition strategy needs to be based on the traffic volume levels and conditions specific to each traffic signal or series of coordinated traffic signals.  The research also concludes that for the base traffic volume and a 40% increase in traffic volume, the most effective transition strategies are the best way, long or hold alternatives.  The best way was the most effective transition strategy for a 20% increase in traffic volume.  The least effective strategy is the short transition strategy for both the base and 40% increase in traffic volume, and the long and short for a 20% increase in traffic volume.  Further research needs to be conducted to assess the performance of different transition strategies in returning to coordinated operation under higher levels of traffic volume (e.g., approaching or exceeding congested flow regime), with varying cycle lengths, with different signal timing plans, and when different roadway geometric configurations (e.g., turn lanes, length of turn lanes, number of lanes, spacing between intersections) are present.",
+  "description_provenance": [
+    "Author Email: jon.obenberger@fhwa.dot.gov",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: collura@ecs.umass.edu",
+    "Advisor Email: kikuchi@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: stignor@aol.com",
+    "Made available in DSpace on 2014-03-14T20:07:22Z (GMT). No. of bitstreams: 1 ObenbergerDissertationVaTech031207.pdf: 844771 bytes, checksum: 3b5eac477b8897da98984461ba4d5e59 (MD5)   Previous issue date: 2007-01-31"
+  ],
+  "handle": "26198",
+  "identifier_other": "etd-02142007-171401",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02142007-171401/",
+  "identifier_uri": "http://hdl.handle.net/10919/26198",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ObenbergerDissertationVaTech031207.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Traffic Signals",
+    "Traffic Simulation",
+    "Traffic Signal Transition Strategies",
+    "Preemption Control",
+    "Traffic Signal Timing Plans",
+    "â  Software-in-the-loopâ   Simulation Tool"
+  ],
+  "title": "Methodology to Assess Traffic Signal Transition Strategies Employed to Exit Preemption Control",
+  "type": "Dissertation"
+}

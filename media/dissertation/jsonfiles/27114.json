@@ -1,0 +1,48 @@
+{
+  "contributor_author": "MacLean, Matthew",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Devenport, William J.",
+    "Pelletier, Dominique H.",
+    "Kapania, Rakesh K.",
+    "Thole, Karen A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:10:25Z",
+  "date_adate": "2002-04-25",
+  "date_available": "2014-03-14T20:10:25Z",
+  "date_issued": "2002-04-15",
+  "date_rdate": "2003-04-25",
+  "date_sdate": "2002-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work examines the detailed flow characteristics of direct measuring skin friction gages with computational methods.  This type of device uses a small movable head mounted flush to a wall such that the head is assumed to be exposed to the same shear stress from the flow as the surrounding wall.  The force caused by the action of the shear stress on the head deflects a flexure system monitored by instruments such as strain gages mounted at the base of a beam. \tThe goal of the study was to develop an understanding of the effects that the geometric design and installation parameters of the sensor have on the surrounding flow and the ability of the sensor to reflect the undisturbed shear stress value.  Disruption of the external flow due to poor design and/or improper installation of the sensor can take the form of intrusion into the flow, recession into the wall, and/or tilted alignment of the sensor such that the head is not flat in the plane of the wall, as well as flow into or out of the small gap surrounding the sensing head.  Further, the performance of a direct measuring skin friction sensor in the presence of a pressure gradient has always been a concern.  These effects are studied here with a three-dimensional, Navier-Stokes code based on a finite element method technique. \tNumerical solutions for cases in which one or more design parameters were varied are shown for a variety of flow situations.  These situations include: (a) a laminar fully-developed channel flow at a low Reynolds number, (b) a turbulent flat plate boundary layer flow at a high Reynolds number, and (c) strong favorable and adverse pressure gradient turbulent boundary layer flows created by converging and diverging channels at high Reynolds number.  Reported results for all cases include detailed flow visualization and stress field imagery, and total surface forces on the sensing head and gage flexure.  Under ideal circumstances, these total forces should reflect as accurately as possible the average value of undisturbed shear stress times the exposed sensing head area (the friction force).  Any deviation from this value was considered an â  errorâ   in the simulated measurement. \tThe laminar channel flow case with a strong favorable pressure gradient showed the importance of proper alignment of the sensor.  Protrusion or recession of the sensing head proved to be the dominant effect on resulting forces seen by the gage, changing the output by up to 15% for head protrusion and 10% for head recession for misalignments up to +/-1% of the head diameter.  The thickness of the lip on the edge of the head also proved to have a significant effect on the output, with a smaller lip thickness generally showing better performance than a large one.  Zero lip thickness indicated accuracy to within 1% of the desired wall shear result, since the pressure differences had little influence on the sensing head.  Finally, the assumption of a linear pressure variation from the surface to the cavity along the lip as has been suggested in the past was investigated.  The results indicate that the linear assumption works well only for large ratios of lip thickness to gap size, a fact which is correlated with previous experimental results. \tFor the turbulent external flat plate case, misalignment remained the dominant effect on the sensor response.  Results indicated that, in general, protrusion is more costly than the same level of recession, and a protrusion of +1% of the head diameter was shown to cause in excess of 100% error in indicated wall shear output.  Both protrusion and recession produced large variations in both force and moment on the sensing flexure, but the outcome was that for protrusion the errors caused by these two effects tended to sum together, while for recession they tended to partially cancel out. \tThe gap size played an increased role in the high Reynolds number boundary layer cases.  Gap sizes of 1.67% up to 6.67% of the head diameter were studied and were shown to produce output errors between 4% and 22% (with larger errors corresponding to larger gap sizes), thus showing the importance of minimizing the gap for high Reynolds number flows.  The lip was shown to have no significant effect for a flow without a pressure gradient. \tFinally, the favorable and adverse pressure gradient flows showed reasonable performance of the skin friction gage.  Errors in output were shown to be -6% for the favorable pressure gradient case and 17% for the adverse pressure gradient case.  Only the baseline gage design was studied for these situations, but the results from the two cases indicate that further reducing the lip thickness may not improve the performance of the gage.  The error in output was caused almost entirely by applied moment for the adverse pressure gradient, while the applied force and applied moment had a cancellation effect in the favorable pressure gradient case. \tAs a general result, the use of computational fluid dynamics has been shown to be an effective tool in the design and analysis of skin friction gages.  Using a computational approach has the advantage of being able to resolve the small, confined gap regions of the gage, providing information that has been shown to be unavailable from previous experimental studies.  This work has contributed to a much better understanding of the detailed flow over, in, and around skin friction gages.  This will lead to improved gage design and reduced uncertainty in these important measurements.",
+  "description_provenance": [
+    "Author Email: matt@chimeracfd.com",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: Dominique.Pelletier@polymtl.ca",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: thole@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:25Z (GMT). No. of bitstreams: 1 MacLeanDissertation.pdf: 22289014 bytes, checksum: edc5ac8085f196cf71a7c2016d285476 (MD5)   Previous issue date: 2002-04-15"
+  ],
+  "handle": "27114",
+  "identifier_other": "etd-04222002-222548",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04222002-222548/",
+  "identifier_uri": "http://hdl.handle.net/10919/27114",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MacLeanDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CFD",
+    "finite element method",
+    "computational fluid dynamics",
+    "skin friction measurement",
+    "boundary layer"
+  ],
+  "title": "A Numerical Study of Internal Flow Effects on Skin Friction Gages",
+  "type": "Dissertation"
+}

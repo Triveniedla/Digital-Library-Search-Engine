@@ -1,0 +1,41 @@
+{
+  "contributor_author": "You, Budong",
+  "contributor_committeechair": "Huang, Alex Q.",
+  "contributor_committeemember": [
+    "Chen, Dan Y.",
+    "Borojevich, Dushan",
+    "Lee, Fred C.",
+    "Hendricks, Robert W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:05Z",
+  "date_adate": "2000-02-04",
+  "date_available": "2014-03-14T20:07:05Z",
+  "date_issued": "2000-01-21",
+  "date_rdate": "2001-02-04",
+  "date_sdate": "2000-02-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The MOS-gated thyristors (MGT) refer to the class of power devices that combine the ease of a MOS gate control with the superior current carrying capability of a thyristor structure for high-power applications. The MOS-controlled thyristor (MCT) is a typical MGT device. A comprehensive investigation of the reverse-biased safe operating area (RBSOA) characteristics of the MCT has been undertaken. The electrical failure mechanisms of the MCT are discussed, and the relationship between the dynamic avalanche limited RBSOA boundary of the MCT and the lower open-base transistor is identified. An analytical model based on the dynamic current gain concept is proposed to characterize the open-base transistor. For the first time, a RBSOA characteristic equation is developed for the MCT and a unified view of the RBSOA characteristics of the MCT is presented. The fundamental characteristics of the MCT are compared to those of the insulated gate bipolar transistor (IGBT) at two levels: unit-cell and multi-cell. The investigation of the unit-cell level focuses on the tradeoff between the on-state voltage drop, the turn-off loss, and the RBSOA characteristic. The investigation of the multi-cell level reveals the fundamental difference between the MCT and the IGBT in handling the non-uniform turn-off caused by the internal propagation gate delay of a large-area device. Lack of current saturation capability is identified as the main reason for the severe degradation of the turn-off capability of a large-area multi-cell MCT.  The current saturation and controlled turn-on capabilities can be realized in the MGT devices with dual operation modes. For the first time, a dual operation mode MCT developed with superior current saturation capability is used to demonstrate how the dual operation device can be beneficial in the switching circuit application. The maximum controllable current density (Jmcc) is the most important characteristic of the dual operation mode MGT devices. A first-order analytic model is developed to characterize the Jmcc of the dual operation mode MGT structures compatible with the IGBT fabrication process. A new device structure with improved Jmcc characteristics is proposed and verified by both simulation and experimental results. The dissertation also carries out a comprehensive investigation of the development of power diodes. A new power diode, called the Trench Bipolar Junction Diode (TBJD), which has superior dynamic characteristics over the conventional P-i-N diode, is proposed. The TBJD controls the anode injection efficiency of the diode by the action of a reverse active transistor structure integrated into its anode junction. The reverse active transistor helps tailor an optimized on-state carrier profile to improve the diode switching characteristics. A novel self-aligned process is developed to fabricate the TBJD. Experimental characterization of the fabricated TBJD devices shows that the TBJD achieves superior dynamic characteristics without sacrificing the on-state voltage drop and the leakage current characteristics.",
+  "description_provenance": [
+    "Author Email: byou@vt.edu",
+    "Advisor Email: huang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:05Z (GMT). No. of bitstreams: 1 byou_dissertation.pdf: 1814585 bytes, checksum: 9f9ba6937042486d19f4d6354bd41ee9 (MD5)   Previous issue date: 2000-01-21"
+  ],
+  "handle": "26094",
+  "identifier_other": "etd-02022000-12250027",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02022000-12250027/",
+  "identifier_uri": "http://hdl.handle.net/10919/26094",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "byou_dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Power diodes",
+    "MOS-controlled thyristor",
+    "Power semiconductor devices",
+    "MOS-gated thyristors"
+  ],
+  "title": "Investigation of MOS-Gated Thyristors and Power Diodes",
+  "type": "Dissertation"
+}

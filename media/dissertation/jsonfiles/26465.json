@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Arendt, Dustin Lockhart",
+  "contributor_committeechair": "Cao, Yang",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Ramakrishnan, Naren",
+    "Paul, Mark R.",
+    "Ribbens, Calvin J."
+  ],
+  "contributor_department": "Computer Science and Applications",
+  "date_accessioned": "2014-03-14T20:08:19Z",
+  "date_adate": "2012-05-02",
+  "date_available": "2014-03-14T20:08:19Z",
+  "date_issued": "2012-03-15",
+  "date_rdate": "2012-05-02",
+  "date_sdate": "2012-03-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Many who study complex systems believe that the complexity we observe in the world around us is frequently the product of a large number of interactions between components following a simple rule.  However, the task of discerning the rule governing the evolution of any given system is often quite difficult, requiring intuition, guesswork, and a great deal of expertise in that domain.  To circumvent this issue, researchers have considered the inverse problem where one searches among many candidate rules to reveal those producing interesting behavior.  This approach has its own challenges because the search space grows exponentially and interesting behavior is rare and difficult to rigorously define.  Therefore, the contribution of this work includes tools and techniques for searching for dimer automaton rules that exhibit self-organization (the transformation of disorder into structure in the absence of centralized control).  Dimer automata are simple, discrete, asynchronous rewriting systems that operate over the edges of an arbitrary graph.  Specifically, these contributions include a number of novel, surprising, and useful applications of dimer automata, practical methods for measuring self-organization, advanced techniques for searching for dimer automaton rules, and two efficient GPU parallelizations of dimer automata to make searching and simulation more tractable.",
+  "description_provenance": [
+    "Author Email: darendt@cs.vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: ycao@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:19Z (GMT). No. of bitstreams: 1 Arendt_DL_D_2012.pdf: 11660504 bytes, checksum: 8f0c4dbf0200c5e2ee8e2d0bf0806c74 (MD5)   Previous issue date: 2012-03-15"
+  ],
+  "handle": "26465",
+  "identifier_other": "etd-03202012-143226",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03202012-143226/",
+  "identifier_uri": "http://hdl.handle.net/10919/26465",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Arendt_DL_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dimer Automata",
+    "Self-Organization",
+    "GPGPU",
+    "Complex Systems"
+  ],
+  "title": "In Search of Self-Organization",
+  "type": "Dissertation"
+}

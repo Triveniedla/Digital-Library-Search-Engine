@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Doerpinghaus, Jr., Phillip J.",
+  "contributor_committeechair": "Baird, Donald G.",
+  "contributor_committeemember": [
+    "Wilkes, Garth L.",
+    "Long, Timothy E.",
+    "Wapperom, Peter",
+    "Davis, Richey M."
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:15:05Z",
+  "date_adate": "2002-08-26",
+  "date_available": "2014-03-14T20:15:05Z",
+  "date_issued": "2002-08-08",
+  "date_rdate": "2003-08-26",
+  "date_sdate": "2002-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work is concerned with a better understanding of the influences that sparse long-chain branching has on the rheological and processing behavior of commercial metallocene polyethylene (mPE) resins. In order to clarify these influences, a series of six commercial polyethylenes was investigated. Four of these resins are mPE resins having varying degrees of long-chain branching and narrow molecular weight distribution. The remaining two resins are deemed controls and include a highly branched low-density polyethylene and a linear low-density polyethylene. Together, the effects of long-chain branching are considered with respect to the shear and extensional rheological properties, the melt fracture behavior, and the ability to accurately predict the flow through an abrupt 4:1 contraction geometry.<P>   The effects that sparse long-chain branching (Mbranch > Mc) has on the shear and extensional rheological properties are analyzed in two separate treatments. The first focuses on the shear rheological properties of linear, sparsely branched, and highly branched PE systems. By employing a time-molecular weight superposition principle, the effects of molecular weight on the shear rheological properties are factored out. The results show that as little as 0.6 LCB/104 carbons (<1 LCB/molecule) significantly increases the zero-shear viscosity, reduces the onset of shear-thinning behavior, and increases elasticity at low deformation rates when compared to linear materials of equivalent molecular weight. Conversely, a high degree of long-chain branching ultimately reduces the zero-shear viscosity. The second treatment focuses on the relationship between long-chain branching and extensional strain-hardening behavior. In this study, the McLeish-Larson molecular constitutive model is employed to relate long-chain  branching to rheological behavior. The results show that extensional strain hardening arises from the presence of LCB in polyethylene resins, and that the frequency of branching in sparsely branched metallocene polyethylenes dictates the degree of strain hardening.   This observation for the metallocene polyethylenes agrees well with the proposed mechanism for polymerization.<P>   The presence of long-chain branching profoundly alters the melt fracture behavior of commercial polyethylene resins.  Results obtained from a sparsely branched metallocene polyethylene show that as few as one long-chain branch per two molecules was found to mitigate oscillatory slip-stick fracture often observed in linear polyethylenes. Furthermore, the presence and severity of gross melt fracture was found to increase with long-chain branching content. These indirect effects were correlated to an early onset of shear-thinning behavior and extensional strain hardening, respectively. Conversely, linear resins exhibiting a delayed onset of shear-thinning behavior and extensional strain softening were found to manifest pronounced slip-stick fracture and less severe gross melt fracture.  The occurrence of surface melt fracture appeared to correlate best with the degree of shear thinning arising from both molecular weight distribution and long-chain branching.<P>   The ability to predict the flow behavior of long-chain branched and linear polyethylene resins was also investigated. Using the benchmark 4:1 planar contraction geometry, pressure profile measurements and predictions were obtained for a linear and branched polyethylene. Two sets of finite element method (FEM) predictions were obtained using a viscoelastic Phan-Thien/Tanner (PTT) model and an inelastic Generalized Newtonian Fluid (GNF) model. The results show that the predicted profiles for the linear PE resin were consistently more accurate than those of the branched PE resin, all of which were within 15% of the measured vales. Furthermore, the differences in the predictions provided by the two constitutive models was found to vary by less than 5% over the range of numerical simulations obtained. In the case of the branched PE resin, this range was very narrow due to loss of convergence. It was determined that the small differences between the PTT and GNF predictions were the result of the small  contraction ratio utilized and the long relaxation behavior of the branched PE resin, which obscured the influence of extensional strain hardening on the pressure predictions. Hence, it was expected that numerical simulations of the 4:1 planar contraction flow for the mildly strain hardening metallocene polyethylenes would not be fruitful.<P>",
+  "description_provenance": [
+    "Author Email: pjd2@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:05Z (GMT). No. of bitstreams: 1 pjd-etd.pdf: 7092141 bytes, checksum: be3681f15745c0f938f0b1bb9337f9ea (MD5)   Previous issue date: 2002-08-08"
+  ],
+  "handle": "28626",
+  "identifier_other": "etd-08122002-084604",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122002-084604/",
+  "identifier_uri": "http://hdl.handle.net/10919/28626",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "pjd-etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "contraction flow behavior",
+    "rheology",
+    "melt fracture",
+    "metallocene",
+    "polyethylene"
+  ],
+  "title": "Flow Behavior of Sparsely Branched Metallocene-Catalyzed Polyethylenes",
+  "type": "Dissertation"
+}

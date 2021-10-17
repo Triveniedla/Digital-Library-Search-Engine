@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Rutishauser, David",
+  "contributor_committeechair": "Jones, Mark T.",
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Martin, Thomas L.",
+    "Brown, Gary S.",
+    "Barnwell, Richard W.",
+    "Proctor, Fred"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:34Z",
+  "date_adate": "2011-05-05",
+  "date_available": "2014-03-14T20:09:34Z",
+  "date_issued": "2010-12-16",
+  "date_rdate": "2011-05-05",
+  "date_sdate": "2011-04-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Prior to the availability of massively parallel supercomputers, the implementation of choice for scientific computing problems such as large numerical physical simulations was typically a vector supercomputer. Legacy code still exists optimized for vector supercomputers. Rehosting legacy code often requires a complete re-write of the original code, which is a long and expensive effort. This work provides a framework and approach to utilize reconfigurable computing resources in place of a vector supercomputer towards the implementation of a legacy source code without a large re-hosting effort. The choice of a vector processing model constrains the solution space such that practical solutions to the underlying resource constrained scheduling problem are achieved. Reconfigurable computing resources that implement capabilities characteristic of the applicationâ  s original target platform are examined. The framework includes the following components: (1) a template for a parameterized, configurable vector processing core, (2) a scheduling and allocation algorithm that employs lessons learned from the mature knowledge base of vector supercomputing, and (3) the design of the VectCore co-processor to provide a low-overhead interface and control method for instances of the architectural template. The implementation approach applies the framework to produce VectCore instances tailored for specific input problems that meet resource constraints. Experimental data shows the VectCore approach results in efficient implementations with favorable performance compared to both general purpose processing and fixed vector architecture alternatives for the majority of the benchmark cases. Half the benchmark cases scale nearly linearly under a fixed time scaling model. The fixed workload scaling is also linear for the same cases until becoming constant for a subset of the benchmarks due to resource contention in the VectCore implementation limiting the maximum achievable parallelism. The architectural template contributed by this work supports established vector performance enhancing techniques such as parallel and chained operations. As the hardware resources are scaled, the VectCore approach scales the amount of parallelism applied in a problem implementation. In end-to-end hardware experiments, the VectCore co-processor overhead is shown to be small (less than 4%) compared to the schedule length.",
+  "description_provenance": [
+    "Author Email: david.k.rutishauser@nasa.gov",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: rbarnwel@vt.edu",
+    "Advisor Email: fred.h.proctor@nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:09:34Z (GMT). No. of bitstreams: 2 Rutishauser_DK_D_2010.pdf: 1331527 bytes, checksum: ee6bdac219d86a004a252edd52ec74ef (MD5) Rutishauser_DK_D_2010_v2.pdf: 1331528 bytes, checksum: 5fe274c31414c784d58783adbe3a67fe (MD5)   Previous issue date: 2010-12-16"
+  ],
+  "handle": "26838",
+  "identifier_other": "etd-04132011-174232",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04132011-174232/",
+  "identifier_uri": "http://hdl.handle.net/10919/26838",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Rutishauser_DK_D_2010.pdf",
+    "Rutishauser_DK_D_2010_v2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Scientific Computing",
+    "Vector Computing",
+    "Reconfigurable Computing",
+    "Field-Programmable Gate Arrays"
+  ],
+  "title": "Implementing Scientific Simulation Codes Tailored for Vector Architectures Using Custom Configurable Computing Machines",
+  "type": "Dissertation"
+}

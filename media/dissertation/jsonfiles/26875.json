@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Charonko, John James",
+  "contributor_committeechair": "Vlachos, Pavlos P.",
+  "contributor_committeemember": [
+    "Roan, Michael J.",
+    "Prabhu, Santosh",
+    "Ragab, Saad A.",
+    "Little, William C.",
+    "Ball, Kenneth S."
+  ],
+  "contributor_department": "Biomedical Engineering",
+  "date_accessioned": "2014-03-14T20:09:41Z",
+  "date_adate": "2009-05-04",
+  "date_available": "2014-03-14T20:09:41Z",
+  "date_issued": "2009-04-01",
+  "date_rdate": "2012-06-22",
+  "date_sdate": "2009-04-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Cardiovascular diseases are among the leading causes of deaths worldwide, but the fluid mechanics of many of these conditions and the devices used to treat them are only partially understood.Â  This goal of this dissertation was to develop new experimental techniques that would enable translational research into two of these conditions.Â  The first set of experiments examinedÂ  <i>in-vitro</i> the changes in Wall Shear Stress (WSS) and Oscillatory Shear Index (OSI) caused by the implantation of coronary stents into the arteries of the heart using Particle Image Velocimetry.Â  These experiments featured one-to-one scaling, commercial stents, and realistic flow and pressure waveforms, and are believed to be the most physiologically accurate stent experiments to date.Â  This work revealed distinct differences in WSS and OSI between the different stent designs tested, and showed that changes in implantation configuration also affected these hemodynamic parameters.Â  Also, the production of vortices near the stent struts during flow reversal was noted, and an inverse correlation between WSS and OSI was described.</p>  </p>  <p>The second set of experiments investigated Left Ventricular Diastolic Dysfunction (LVDD) using phase contrast magnetic resonance imaging (pcMRI).Â  Using this technique, ten patients with and without LVDD were scanned and a 2D portrait of blood flow through their heart was obtained.Â  To augment this data, pressure fields were calculated from the velocity data using an omni-directional pressure integration scheme coupled with a proper-orthogonal decomposition-based smoothing.Â  This technique was selected from a variety of methods from the literature based on an extensive error analysis and comparison.Â  With this coupled information, it was observed that healthy patients exhibited different flow patterns than diseased patients, and had stronger pressure differences during early filling.Â  In particular, the ratio of early filling pressure to late filling pressure was a statistically significant predictor of diastolic dysfunction.Â  Based on these observations, a novel hypothesis was presented that related the motion of the heart walls to the observed flow patterns and pressure gradients, which may explain the differences observed clinically between healthy and diseased patients.</p>",
+  "description_provenance": [
+    "Author Email: john.charonko@vt.edu",
+    "Advisor Email: mroan@vt.edu",
+    "Advisor Email: santosh.prabhu@av.abbott.com",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: wlittle@wfubmc.edu",
+    "Advisor Email: ball@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:41Z (GMT). No. of bitstreams: 1 Charonko_Dissertation_ETD_version2.pdf: 7136244 bytes, checksum: 57f7961b5bf72392ff16594c808dd330 (MD5)   Previous issue date: 2009-04-01"
+  ],
+  "handle": "26875",
+  "identifier_other": "etd-04152009-094121",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04152009-094121/",
+  "identifier_uri": "http://hdl.handle.net/10919/26875",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Charonko_Dissertation_ETD_version2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wall shear stress",
+    "oscillatory shear index",
+    "left ventricular diastolic dysfunction",
+    "dilated cardiomyopathy",
+    "phase contrast magnetic resonance imaging",
+    "digital particle image velocimetry",
+    "coronary stents"
+  ],
+  "title": "Studies of Stented Arteries and Left Ventricular Diastolic Dysfunction Using Experimental and Clinical Analysis with Data Augmentation",
+  "type": "Dissertation"
+}

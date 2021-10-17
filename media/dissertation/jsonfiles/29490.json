@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Chen, Jian",
+  "contributor_committeechair": "Bowman, Douglas A.",
+  "contributor_committeemember": [
+    "North, Christopher L.",
+    "Loftin, R. Bowen",
+    "Thabet, Walid",
+    "Pérez-Quiñones, Manuel A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:18:13Z",
+  "date_adate": "2006-11-29",
+  "date_available": "2014-03-14T20:18:13Z",
+  "date_issued": "2006-10-25",
+  "date_rdate": "2006-11-29",
+  "date_sdate": "2006-11-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Immersive virtual environments (VEs) are broadly applicable to situations where a user can directly perceive and interact with three-dimensional (3D) virtual objects. Currently, successful interactive applications of VEs are limited. Some interactive applications in the AEC (architecture / engineering / construction) domain have not yet benefited from applying VEs. A review of prior work has suggested that 3D interaction has not reached a level that meets real-world task requirements. Most interaction techniques pay little attention to the application contexts. When designers assemble these techniques to develop an interactive system, the interfaces often have very simple and not highly useful UIs.  In this work, we describe a domain-specific design approach (DSD) that utilizes pervasive and accurate domain knowledge for interaction design. The purpose of this dissertation is to study the effects of domain knowledge on interaction design. The DSD approach uses a three-level interaction design framework to represents a continuous design space of interaction. The framework has generative power to suggest alternative interaction techniques. We choose the AEC domain as the subject of study. Cloning and object manipulation for massing study are the two example tasks to provide practical and empirical evidences for applying the DSD.  This dissertation presents several important results of the knowledge use in the DSD approach. First, the DSD approach provides a theoretical foundation for designing 3D interaction. Techniques produced using DSD result in more useful real-world applications, at least in the domain of AEC. Second, the three-level interaction design framework forms a continuum of design and expands our understanding of 3D interaction design to a level that addresses real-world use. Third, this research proposes an integrated system design approach that integrates DSD and the usability engineering process. Fourth, this work produces a large set of empirical results and observations that demonstrate the effectiveness of domain-knowledge use in designing interaction techniques and applications. Finally, we apply domain-specific interaction techniques to real world applications and create a fairly complex application with improved usefulness.",
+  "description_provenance": [
+    "Author Email: jichen8@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: loftin@tamug.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: thabet@vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:13Z (GMT). No. of bitstreams: 9 JianChen-VSAP2.mov: 54775319 bytes, checksum: 98cf65046e2bc10b835def230a3cc054 (MD5) JianChen-massingStudy.mov: 103830820 bytes, checksum: fc2250d049f68516014ce21251709c75 (MD5) JianChen-spaceMetaphor.mov: 212146123 bytes, checksum: 03f2bd73d17e563d7c2e9ebca1042c57 (MD5) JianChen-copyAndPaste.mov: 145792301 bytes, checksum: ba615f4df890067dbc6462230636d90f (MD5) cloning-eurovr-video.mov: 23229354 bytes, checksum: 1c4b0e899047032ba79a699af0740017 (MD5) JianChen-copyByExample.mov: 228067990 bytes, checksum: e349911261874b2b888ac02a964fa907 (MD5) JianChen-port.mov: 169416966 bytes, checksum: 96af9494680474411724d427cb6d8cff (MD5) JianChen-domainSpecificDesign.pdf: 8894511 bytes, checksum: cd04202bffeb4dbec751b68edee76a5e (MD5) JianChen-keypad.mov: 80809347 bytes, checksum: 401bb8b810af3cb2b431152e7ded4440 (MD5)   Previous issue date: 2006-10-25"
+  ],
+  "handle": "29490",
+  "identifier_other": "etd-11072006-200403",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11072006-200403/",
+  "identifier_uri": "http://hdl.handle.net/10919/29490",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "JianChen-VSAP2.mov",
+    "JianChen-massingStudy.mov",
+    "JianChen-spaceMetaphor.mov",
+    "JianChen-copyAndPaste.mov",
+    "cloning-eurovr-video.mov",
+    "JianChen-copyByExample.mov",
+    "JianChen-port.mov",
+    "JianChen-domainSpecificDesign.pdf",
+    "JianChen-keypad.mov"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "3D interaction",
+    "design theory",
+    "usability engineering",
+    "virtual environment",
+    "evaluation method",
+    "domain-specificity"
+  ],
+  "title": "Design and Evaluation of Domain-Specific Interaction Techniques in the AEC Domain for Immersive Virtual Environments",
+  "type": "Dissertation"
+}

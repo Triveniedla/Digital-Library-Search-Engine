@@ -1,0 +1,52 @@
+{
+  "contributor_author": "van Aardt, Marleen",
+  "contributor_committeechair": "Duncan, Susan E.",
+  "contributor_committeemember": [
+    "Nielsen-Sims, Susan R.",
+    "O'Keefe, Sean F.",
+    "Marcy, Joseph E.",
+    "Long, Timothy E."
+  ],
+  "contributor_department": "Food Science and Technology",
+  "date_accessioned": "2011-08-22T18:51:23Z",
+  "date_adate": "2003-12-08",
+  "date_available": "2011-08-22T18:51:23Z",
+  "date_issued": "2003-11-21",
+  "date_rdate": "2004-12-08",
+  "date_sdate": "2003-12-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Residual value is defined as the price for which a used piece of equipment can be sold in the market at a particular time. It is an important element of the owning costs of equipment and needs to be estimated by equipment managers for making investment decisions. The purpose of this study is to gain insights into the residual value of selected groups of heavy construction equipment and to develop a mathematical model for its prediction. Auction sales data were collected from two online databases. Manufacturer publications and an online source provided size parameters and manufacturers suggested retail prices matching the auction records. Macroeconomic indicator values were collected from a variety of sources, including government agencies. The data were brought into the same electronic format and were matched by model name and calendar date, respectively. Data from auctions in the U.S. and in Canada were considered for this study. Equipment from four principal manufacturers of up to 15 years of age at the time of sale was included. A total of 35,542 entries were grouped into 11 different equipment types and 28 categories by size as measured by horse power, standard operating weight, or bucket volume. Equipment types considered were track and wheel excavators, wheel and track loaders, backhoe loaders, integrated toolcarriers, rigid frame and articulated trucks, track dozers, motor graders, and wheel tractor scrapers. Multiple linear regression analyses of the 28 datasets were carried out after outliers had been deleted. Explanatory variables for the regression model were age in years, the indicator variables manufacturer, condition rating, and geographic region, and selected macroeconomic indicators. The response variable was residual value percent, defined as auction price divided by manufacturers suggested retail price. Different first, second, and third-order polynomial models and exponential and logarithmic models of age were examined. A second-order polynomial was selected from these functional forms based on the adjusted coefficient of determination. Coefficients for the 28 models and related statistics were tabulated. A spreadsheet tool incorporating the final regression model and its coefficients was developed. It allows performing the residual value prediction in an interactive and intuitive manner.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:51:23Z (GMT). No. of bitstreams: 1  Final_dissert.pdf: 4211920 bytes, checksum: 7a8d6f6fd1e95458e54173f143eb5131 (MD5)    Previous issue date: 2003-11-21",
+    "Author Email: mvanaard@vt.edu",
+    "Advisor Email: ssims@voridian.com",
+    "Advisor Email: okeefes@vt.edu",
+    "Advisor Email: jmarcy@vt.edu",
+    "Advisor Email: duncans@vt.edu",
+    "Advisor Email: telong@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11069",
+  "identifier_other": "etd-12042003-112216",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12042003-112216",
+  "identifier_uri": "http://hdl.handle.net/10919/11069",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Final_dissert.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Butylated hydroxyanisole",
+    "Butylated hydroxytoluene",
+    "Lipid Oxidation",
+    "α-Tocopherol",
+    "Antioxidants",
+    "Poly(lactide-co-glycolide)",
+    "Milk"
+  ],
+  "title": "Controlled Release of Antioxidants via Biodegradable Polymer Films  into Milk and Dry Milk Products",
+  "type": "Dissertation"
+}

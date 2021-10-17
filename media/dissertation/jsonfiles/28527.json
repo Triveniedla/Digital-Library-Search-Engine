@@ -1,0 +1,61 @@
+{
+  "contributor_author": "Khanna, Vivek K.",
+  "contributor_committeechair": "Vandsburger, Uri",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Saunders, William R.",
+    "Lovett, Jeffery A.",
+    "Richards, George"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:45Z",
+  "date_adate": "2001-08-07",
+  "date_available": "2014-03-14T20:14:45Z",
+  "date_issued": "2001-07-30",
+  "date_rdate": "2002-08-07",
+  "date_sdate": "2001-08-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This present research effort was directed towards developing reduced order models for the dynamics of laminar flat flames, swirl stabilized turbulent flames, and in evaluating the effects of the variation in fuel composition on flame dynamics. The laminar flat flame study was conducted on instrument grade methane, propane, and ethane flames for four total flow rates from 145 cc/sec to 200 cc/sec, and five equivalence ratios from 0.5 to 0.75.  The analysis was done by measuring the frequency resolved velocity perturbations, u', and the OH* chemiluminescence, as a measure of unsteady heat release rate, q'.   The experimental data showed the corresponding flame dynamics to be fourth order in nature with a pure time delay.  One of the resonance was shown to represent the pulsation of the flame location caused by fluctuation in the flame speed and fluctuating heat losses to the flame stabilizer.  The other resonance  was correlated to the dynamics of the chemical kinetics involved in the combustion process.   The time delay was correlated to the chemical time delay.  Upon comparing the results of the experiments with the three fuels, it was concluded that for all equivalence ratios studied, propane flame had a higher dynamic gain than methane flames.  Ethane flames exhibited a higher dynamic gain than methane flame in the frequency range of 20-100 Hz.  Thus, burning of propane instead of methane increased the likelihood of the occurrence of thermo-acoustic instabilities.  The experimental techniques developed during the dynamic studies conducted on laminar flat flames were applied to swirl stabilized turbulent flames.  Experiments  were performed for QAir  = 15 scfm and 20 scfm, F  = 0.55, 0.6, 0.65, and S = 0.79 and 1.19.  The results of fully premixed experiments showed that the flame behaved as a 8th order low pass filter.  The results of the partially premixed experiment exhibited a rich spectra, which maintained its bandwidth over the entire range of frequency studied.  Comparison of fully and partially premixed flames in the frequency range of 200-400 Hz, indicated that at overall lean conditions the dynamic gain of the totally premixed flames was almost an order of magnitude lower than that of the partially premixed conditions.  Thus, it was concluded that combustors with fully premixed flames have a higher probability of being thermo-acoustically stable than those with partially premixed flames.",
+  "description_provenance": [
+    "Author Email: vkhanna@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: lovettj@pweh.com",
+    "Advisor Email: uri@vt.edu",
+    "Advisor Email: gricha@netl.doe.gov",
+    "Made available in DSpace on 2014-03-14T20:14:45Z (GMT). No. of bitstreams: 13  13appendix.pdf: 404879 bytes, checksum: 4f8b86f715f56f8dee66de7e3a298a87 (MD5)  07chapter6.pdf: 698423 bytes, checksum: 20e510fff1a3e94d80e80194527d9997 (MD5)  02chapter1.pdf: 94869 bytes, checksum: 1bd8047567369f9c17cd4957f06bd13f (MD5)  01TOC.pdf: 136692 bytes, checksum: 4daf4d6c18d15d20dbe1eeabaaf97717 (MD5)  03chapter2.pdf: 139728 bytes, checksum: 6ed49ee0fe5d8062b8e69da0ab920e12 (MD5)  11chapter10.pdf: 2052786 bytes, checksum: b5b60ff0168def78e39d358f3a8bdec0 (MD5)  04chapter3.pdf: 168660 bytes, checksum: c9f84c3beb96962e3169b274caa36bc7 (MD5)  06chapter5.pdf: 130233 bytes, checksum: bf6ec25f4c88c431ae6d94278cd8d413 (MD5)  08chapter7.pdf: 341528 bytes, checksum: 7127e028c4cb8b2e680c8a5cf5dfa215 (MD5)  05chapter4.pdf: 527747 bytes, checksum: 6132d95b5306a90e6dea43511e57e401 (MD5)  10chapter9.pdf: 294941 bytes, checksum: 5625154652358abfbe026af5408f4c61 (MD5)  12conclusions.pdf: 144979 bytes, checksum: ede663de10e3cf854be2ffc00e8a1d03 (MD5)  09chapter8.pdf: 240567 bytes, checksum: d16dec7ed14eb27bda07a36bf5512c4e (MD5)    Previous issue date: 2001-07-30"
+  ],
+  "handle": "28527",
+  "identifier_other": "etd-08052001-220918",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08052001-220918/",
+  "identifier_uri": "http://hdl.handle.net/10919/28527",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "13appendix.pdf",
+    "07chapter6.pdf",
+    "02chapter1.pdf",
+    "01TOC.pdf",
+    "03chapter2.pdf",
+    "11chapter10.pdf",
+    "04chapter3.pdf",
+    "06chapter5.pdf",
+    "08chapter7.pdf",
+    "05chapter4.pdf",
+    "10chapter9.pdf",
+    "12conclusions.pdf",
+    "09chapter8.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dynamics",
+    "combustion",
+    "thermo-acoustic instability",
+    "turbulent flames",
+    "flame transfer function",
+    "laminar flames"
+  ],
+  "title": "A Study of the Dynamics of Laminar and Turbulent Fully and Partially Premixed Flames",
+  "type": "Dissertation"
+}

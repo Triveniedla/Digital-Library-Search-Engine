@@ -1,0 +1,25 @@
+{
+  "contributor_author": "Allison, Darcy L.",
+  "date_accessioned": "2013-11-18T19:57:12Z",
+  "date_available": "2013-11-18T19:57:12Z",
+  "date_issued": "2013-11-18",
+  "degree_level": "doctoral",
+  "description": "This material is based on research sponsored by Air Force Research Laboratory under agreement number FA8650-09-2-3938. The U.S. Government is authorized to reproduce and distribute reprints for Governmental purposes notwithstanding any copyright notation thereon. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of Air Force Research Laboratory or the U.S. Government.",
+  "description_abstract": "This work seeks to develop multidisciplinary design optimization (MDO) methods to find the optimal design of a particular aircraft called an Efficient Supersonic Air Vehicle (ESAV). This is a long-range military bomber type of aircraft that is to be designed for high speed (supersonic) flight and survivability. The design metric used to differentiate designs is minimization of the take-off gross weight.    The usefulness of MDO tools, rather than compartmentalized design practices, in the early stages of the design process is shown. These tools must be able to adequately analyze all pertinent physics, simultaneously and collectively, that are important to the aircraft of interest.    Low-fidelity and higher-fidelity ESAV MDO frameworks have been constructed. The analysis codes in the higher-fidelity framework were validated by comparison with the legacy B-58 supersonic bomber aircraft. The low-fidelity framework used a computationally expensive process that utilized a large design of computer experiments study to explore its design space. This resulted in identifying an optimal ESAV with an arrow wing planform. Specific challenges to designing an ESAV not addressed with the low-fidelity framework were addressed with the higher-fidelity framework. Specifically, models to characterize the effects of the low-observable ESAV characteristics were required. For example, the embedded engines necessitated a higher-fidelity propulsion model and engine exhaust-washed structures discipline. Low-observability requirements necessitated adding a radar cross section discipline.    A relatively less costly computational process utilizing successive NSGA-II optimization runs was used for the higher-fidelity MDO. This resulted in an optimal ESAV with a trapezoidal wing planform. The NSGA-II optimizer considered arrow wing planforms in early generations during the process, but these were later discarded in favor of the trapezoidal planform. Sensitivities around this optimal design were computed using the well-known ANOVA method to characterize the surrounding design space.    The lower and higher fidelity frameworks could not be combined in a mixed-fidelity optimization process because the low-fidelity was not faithful enough to the higher-fidelity analysis results. The low-fidelity optimum was found to be infeasible according to the higher-fidelity framework and vice versa. Therefore, the low-fidelity framework was not capable of guiding the higher-fidelity framework to the eventual trapezoidal planform optimum.",
+  "description_provenance": [
+    "Submitted by Janice Austin (jamarti1@vt.edu) on 2013-11-18T19:57:12Z  No. of bitstreams: 1  DarcyAllison_Dissertation_SubmittedToVT-ETD.pdf: 5937873 bytes, checksum: af395a7f1772a68f7b06485417d98750 (MD5)",
+    "Made available in DSpace on 2013-11-18T19:57:12Z (GMT). No. of bitstreams: 1  DarcyAllison_Dissertation_SubmittedToVT-ETD.pdf: 5937873 bytes, checksum: af395a7f1772a68f7b06485417d98750 (MD5)"
+  ],
+  "description_sponsorship": "Air Force Research Laboratory",
+  "handle": "24187",
+  "identifier_uri": "http://hdl.handle.net/10919/24187",
+  "language_iso": "en_US",
+  "subject": [
+    "aircraft design",
+    "multidisciplinary design optimization",
+    "supersonic military aircraft",
+    "design of computer experiments"
+  ],
+  "title": "Multidisciplinary Analysis and Design Optimization of an Efficient Supersonic Air Vehicle",
+  "type": "Dissertation"
+}

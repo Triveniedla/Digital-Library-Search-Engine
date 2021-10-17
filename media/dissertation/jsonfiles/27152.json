@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Cox, Steven Scott",
+  "contributor_committeechair": "Little, John C.",
+  "contributor_committeemember": [
+    "Dietrich, Andrea M.",
+    "Hughes, J. Martin",
+    "Zhao, Dongye",
+    "Marand, Eva"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:10:30Z",
+  "date_adate": "2001-04-25",
+  "date_available": "2014-03-14T20:10:30Z",
+  "date_issued": "2001-03-29",
+  "date_rdate": "2002-04-25",
+  "date_sdate": "2001-04-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The adverse effects of contaminated outdoor air have been recognized and subject to control for many years.  More recently environmental engineers and health professionals have become cognizant of the hazards associated with contaminated indoor air.  It is now understood that contaminated indoor air negatively impacts human health, worker productivity, and physical property. Volatile organic compounds (VOCs) are a common class of indoor air pollutants.  Building materials such as treated wood, pressed-wood products, wallboard, sealants, adhesives, floor coverings, and paints can be sources of VOC emissions.  The knowledge-base necessary to develop effective solutions to indoor air quality problems requires an understanding of the emissions behavior of indoor materials. Environmental chambers are often utilized to characterize indoor material as sources of VOC emissions to indoor air.  Chamber studies, although expensive and time consuming, can be utilized to provide estimates of the rates at which a particular material emits VOCs under a specific set of environmental conditions. By fitting curves to emissions data obtained through chamber studies, VOC emissions models have been constructed.  These models are frequently empirical and as a consequence, 1) apply only to the specific material and environmental conditions investigated, 2) provide little understanding of the source/sink characteristics of the material, and 3) provide little knowledge of the mass transfer processes governing emissions behavior.  As a result, our understanding of the mechanisms that control VOC emissions from indoor materials remains rudimentary. Physically-based models that describe the emissions characteristics of building materials would greatly facilitate the process of improving indoor air quality.  Evidence exists suggesting well-established fundamental mass transfer mechanisms govern emissions from indoor materials.  Of the various mechanisms governing emissions behaviors, diffusion appears to be one of the most significant. The primary objective of this research was to demonstrate that the VOC emissions source behavior of a diffusion-controlled homogenous building material could be predicted using a mechanistic mathematical model.  A commercial grade sheet vinyl flooring (VF) was selected for study because VF is present in many residential and commercial buildings, is relatively homogenous, and has been shown to emit hazardous organic chemicals.  If successful, this research would demonstrate that the proposed strategy could be generalized to other VOC sources using appropriately constructed mathematical models. Satisfying the research objective required development of a physically-based model to predict gas-phase VOC concentrations resulting from exposure to a diffusion-controlled material.  Key parameters for this model are the solid-phase diffusion coefficient, D; the solid/air partition coefficient, K; and the initial solid-phase VOC concentration, C0. D and K have been previously quantified for only a few indoor materials and methods for determining C0 are rudimentary.  Therefore, this research project required development and execution of methods for quantifying D, K, and C0.  D and K were quantified using a recording microbalance.  C0 was evaluated using a new technique of cryogenic milling followed by fluidized bed desorption. The model was validated by exposing a VF sample in an environmental chamber and directly measuring gas-phase VOC concentrations resulting from mass transfer from the solid material.  Further model validation was achieved by directly measuring the VOC concentration profiles after exposure in environmental chambers.  Because the key model parameters were quantified independently of chamber studies, the model validation process provided a rigorous test of the validity of the mass transfer model in particular and of the source characterization strategy in general. The results of this research contribute to our understanding of the fundamental mechanisms that govern emissions of VOCs from vinyl flooring and provide a sound theoretical foundation for characterization of a wide range of other sources of indoor VOCs.  This understanding could facilitate product reformulation strategies aimed at preventing or reducing indoor air contamination.  Mass transfer models could also be utilized to develop standards for the environmental performance of indoor materials.  The proposed approach will prove useful in conjunction with broader studies on sick building syndrome to identify sources that may have a critical impact on the health and comfort of building occupants.",
+  "description_provenance": [
+    "Author Email: stcox2@vt.edu",
+    "Advisor Email: jcl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:30Z (GMT). No. of bitstreams: 1 ETDCox.pdf: 980250 bytes, checksum: 8e9e45dca77defd9c55cdf0043851934 (MD5)   Previous issue date: 2001-03-29"
+  ],
+  "handle": "27152",
+  "identifier_other": "etd-04232001-174756",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04232001-174756/",
+  "identifier_uri": "http://hdl.handle.net/10919/27152",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETDCox.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PVC",
+    "VOC",
+    "vinyl flooring",
+    "modeling",
+    "indoor",
+    "diffusion",
+    "emission"
+  ],
+  "title": "Modeling Diffusion-Controlled Emissions of Volatile Organic Compounds from Building Materials",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Kim, Hongman",
+  "contributor_committeechair": "Mason, William H.",
+  "contributor_committeemember": [
+    "Watson, Layne T.",
+    "Cliff, Eugene M.",
+    "Haftka, Raphael T.",
+    "Grossman, Bernard M."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:14:17Z",
+  "date_adate": "2001-07-25",
+  "date_available": "2014-03-14T20:14:17Z",
+  "date_issued": "2001-06-18",
+  "date_rdate": "2002-07-25",
+  "date_sdate": "2001-07-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Errors of computational simulations in design of  a high-speed civil transport (HSCT) are investigated.  First, discretization error from a supersonic panel code,  WINGDES, is considered. Second, convergence error from  a structural optimization procedure using GENESIS is  considered along with the Rosenbrock test problem.     A grid converge study is performed to estimate  the order of the discretization error in the lift  coefficient (CL) of the HSCT calculated from WINGDES.  A response surface (RS) model using several mesh sizes  is applied to reduce the noise magnification problem  associated with the Richardson extrapolation. The RS model  is shown to be more efficient than Richardson extrapolation  via careful use of design of experiments.     A programming error caused inaccurate optimization  results for the Rosenbrock test function, while  inadequate convergence criteria of the structural  optimization produced error in wing structural weight  of the HSCT. The Weibull distribution is successfully  fit to the optimization errors of both problems.  The probabilistic model enables us to estimate average  errors without performing very accurate optimization runs  that can be expensive, by using differences between  two sets of results with different optimization control  parameters such as initial design points or convergence  criteria.     Optimization results with large errors, outliers,  produced inaccurate RS approximations. A robust regression  technique, M-estimation implemented by iteratively  reweighted least squares (IRLS), is used to identify  the outliers, which are then repaired by higher fidelity  optimizations. The IRLS procedure is applied to the  results of the Rosenbrock test problem, and wing structural  weight from the structural optimization of the HSCT.  A nonsymmetric IRLS (NIRLS), utilizing one-sidedness  of optimization errors, is more effective than IRLS in  identifying outliers. Detection and repair of the outliers  improve accuracy of the RS approximations. Finally,  configuration optimizations of the HSCT are performed  using the improved wing bending material weight RS models.",
+  "description_provenance": [
+    "Author Email: kimhm@vt.edu",
+    "Advisor Email: ltw@vtopus.cs.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: haftka@ufl.edu",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:17Z (GMT). No. of bitstreams: 1 dissertation_hongmankim.pdf: 725878 bytes, checksum: a2075ed0e25389ca2d8a7c783d26f5d9 (MD5)   Previous issue date: 2001-06-18"
+  ],
+  "handle": "28390",
+  "identifier_other": "etd-07252001-160717",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07252001-160717/",
+  "identifier_uri": "http://hdl.handle.net/10919/28390",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_hongmankim.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Weibull distribution",
+    "response surface technique",
+    "M-estimation",
+    "convergence error",
+    "discretization error"
+  ],
+  "title": "Statistical Modeling of Simulation Errors and Their Reduction via Response Surface Techniques",
+  "type": "Dissertation"
+}

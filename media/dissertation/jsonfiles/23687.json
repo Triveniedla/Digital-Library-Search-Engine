@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Ramesh, Bharath",
+  "contributor_committeechair": [
+    "Varadarajan, Srinidhi",
+    "Ribbens, Calvin J"
+  ],
+  "contributor_committeemember": [
+    "Jones, Mark T",
+    "Ramakrishnan, Narendran",
+    "Kafura, Dennis G"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-08-06T08:00:20Z",
+  "date_available": "2013-08-06T08:00:20Z",
+  "date_issued": "2013-08-05",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Among the key challenges of computing today are the emergence of many-core architectures and the resulting need to effectively exploit explicit parallelism. Indeed, programmers are striving to exploit parallelism across virtually all platforms and application domains. The shared memory programming model effectively addresses the parallelism needs of mainstream computing (e.g., portable devices, laptops, desktop, servers), giving rise to a growing ecosystem of shared memory parallel techniques, tools, and design practices. However, to meet the extreme demands for processing and memory of critical problem domains, including scientific computation and data intensive computing, computing researchers continue to innovate in the high-end distributed memory architecture space to create cost-effective and scalable solutions. The emerging distributed memory architectures are both highly parallel and increasingly heterogeneous. As a result, they do not present the programmer with a cache-coherent view of shared memory, either across the entire system or even at the level of an individual node. Furthermore, it remains an open research question which programming model is best for the heterogeneous platforms that feature multiple traditional processors along with accelerators or co-processors. Hence, we have two contradicting trends. On the one hand, programming convenience and the presence of shared memory     call for a shared memory programming model across the entire heterogeneous system. On the other hand, increasingly parallel and heterogeneous nodes lacking cache-coherent shared memory call for a message passing model. In this dissertation, we present the architecture of Samhita, a distributed shared memory (DSM) system that addresses the challenge of providing shared memory for non-cache-coherent systems. We define regional consistency (RegC), the memory consistency model implemented by Samhita. We present performance results for Samhita on several computational kernels and benchmarks, on both cluster supercomputers and heterogeneous systems. The results demonstrate the promising potential of Samhita and the RegC model, and include the largest scale evaluation by a significant margin for any DSM system reported to date.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-06T08:00:20Z (GMT). No. of bitstreams: 1 Ramesh_B_D_2013.pdf: 1002822 bytes, checksum: ac892d795e399c920264c89a80718fc4 (MD5)   Previous issue date: 2013-08-05",
+  "format_medium": "ETD",
+  "handle": "23687",
+  "identifier_other": "vt_gsexam:1413",
+  "identifier_uri": "http://hdl.handle.net/10919/23687",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Distributed Shared Memory",
+    "Virtual Shared Memory",
+    "Memory Consistency"
+  ],
+  "title": "Samhita: Virtual Shared Memory for Non-Cache-Coherent Systems",
+  "type": "Dissertation"
+}

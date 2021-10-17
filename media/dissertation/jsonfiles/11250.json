@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Mullen, Jeffrey D.",
+  "contributor_committeechair": "Taylor, Daniel B.",
+  "contributor_committeemember": [
+    "Alwang, Jeffrey R.",
+    "Norton, George W.",
+    "Mills, Bradford F.",
+    "Caldwell, John S."
+  ],
+  "contributor_department": "Agricultural and Applied Economics",
+  "date_accessioned": "2011-08-22T19:05:35Z",
+  "date_adate": "1999-10-08",
+  "date_available": "2011-08-22T19:05:35Z",
+  "date_issued": "2000-07-10",
+  "date_rdate": "2000-10-08",
+  "date_sdate": "1999-06-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The parasitic weeds belonging to the genus Striga are among the world's most tenacious, prolific and destructive agricultural pests.  Crop loss estimates due to Striga infestations can reach 100 percent.  Furthermore, the weeds' affinity for low-fertility soils and low rainfall means that those farming the most marginal lands are most severely affected.  Nonetheless, subsistence farmer have yet to adopt seemingly beneficial control practices to any appreciable degree.  This paper develops a bio-economic model capable of identifying: (1) affordable, effective Striga control practices consistent with the resource constraints of subsistence farmers; and (2) barriers to the adoption of those practices.   The model is comprised of two components: a biological component modeling Striga population dynamics, and an economic component representing the production opportunity set, resource constraints, and price parameters farmers face.  The model is applied to two zones in Northwestern Mali, Sirakorola and Mourdiah, and solved using non-linear, dynamic programming.  Data collected by the USAID IPM-CRSP/Mali project are used to specify the economic parameters of the model.  A new technique for estimating the lower bound of a farmer's production planning horizon is also developed and employed in the application of the model to Sirakorola and Mourdiah.  The results of several model scenarios indicate that the availability of information regarding the efficacy of Striga control practices is a primary barrier to their adoption by subsistence farmers.   The movement of Striga seed between fields, however, is of limited importance. The \"optimal control practices\" identified by the model depend on the size and demographic composition of the production unit (UP), the zone in which the UP is located, and the cash budget available to the UP.  At low budget levels, the model suggests planting millet without fertilizer at a high density in Sirakorola and a low density in Mourdiah.  At high budget levels, the model suggests planting millet at a high density in both zones while applying urea.   The benefits of adopting the optimal set of practices are presented in both nutritional and financial terms, and can reach as much as a ten-fold increase in the nutritional content of and financial returns to a harvest.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:05:35Z (GMT). No. of bitstreams: 2 vita.pdf: 5052 bytes, checksum: 2fec5f11ee214384df70e5d421ad9d2b (MD5) jdmdoc.pdf: 744653 bytes, checksum: 29c361cae1f348ea6372baa7bbc3b419 (MD5)   Previous issue date: 2000-07-10",
+    "Author Email: jemullen@vt.edu",
+    "Advisor Email: jalwang@vt.edu",
+    "Advisor Email: taylord@vt.edu",
+    "Advisor Email: gnorton@vt.edu",
+    "Advisor Email: bfmills@vt.edu",
+    "Advisor Email: caldwelj@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11250",
+  "identifier_other": "etd-062699-161902",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-062699-161902",
+  "identifier_uri": "http://hdl.handle.net/10919/11250",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "vita.pdf",
+    "jdmdoc.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Subsistence Farming",
+    "Striga",
+    "Integrated Pest Management",
+    "Mali",
+    "Dynamic Programming"
+  ],
+  "title": "A Bio-Economic Model of Long-Run Striga Control with an Application to Subsistence Farming in Mali",
+  "type": "Dissertation"
+}

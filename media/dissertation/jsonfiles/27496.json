@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Yu, Bing",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Stolen, Roger Hall",
+    "Poon, Ting-Chung",
+    "Liu, Yilu",
+    "Hendricks, Robert W.",
+    "Spillman, William B. Jr."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:25Z",
+  "date_adate": "2005-05-18",
+  "date_available": "2014-03-14T20:11:25Z",
+  "date_issued": "2005-04-28",
+  "date_rdate": "2005-05-18",
+  "date_sdate": "2005-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Interferometric fiber optic sensors have been extensively used to measure a large variety of physical, chemical and biomedical parameters due to their superior performance. At the Center for Photonics Technology of Virginia Tech, a variety of interferometric fiber optic sensors have been developed in recent years, for efficient oil recovery, partial discharge detection in high voltage transformers, pressure sensing in gas turbine engines, and temperature measurements in gasifiers and boilers. However, interrogating an interferometric sensor involves accurate recovery of a measurand from the phase-modulated lightwaves, and has been a challenge for high performance, high speed, and low-cost, to current white-light interferometry (WLI) techniques, such as the widely used scanning WLI (S-WLI) and spectral-domain WLI (SD-WLI). The performance of a white-light interferometric sensing system depends not only on the design of the probes, but also, to a great extent, on the interrogation strategy to be used. In this Ph.D. research, a tunable optical filter based WLI (TOF-WLI) is proposed and validated as a low cost, yet high performance, solution to the interrogation of various types of interferometric sensors. In addition to the capability of linear/quadrature demodulation, TOF-WLI retains all the features of WLI, is compatible with the SD-WLI, and can be tailored for both static and wideband signals. It also has great potential in surface metrology and biomedical imaging as well as optical spectroscopy. The key, to the success of this new approach in competition with the other available WLI techniques, is that the tunable optical filter (TOF) must be specially designed for sensing and extremely low cost. Therefore, two novel TOFs, a diffraction grating tunable filter (DG-TOF) and an extrinsic Fabry-Perot tunable filter (EFP-TF), are proposed and demonstrated. Laboratory and field test results on using the DG-TOF WLI for partial discharge and thermal fault detection in high voltage power transformers, and the EFP-TF WLI in temperature sensor systems and a turbine engine monitoring system will also be presented to demonstrate the feasibility for efficient sensor interrogation.",
+  "description_provenance": [
+    "Author Email: biyu@vt.edu",
+    "Advisor Email: stolen@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: robert.hendricks@vt.edu",
+    "Advisor Email: wspillma@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:25Z (GMT). No. of bitstreams: 1 BingYu_ECE.pdf: 9459430 bytes, checksum: 7b6ef8628f4359c1ed97e8660c33bf66 (MD5)   Previous issue date: 2005-04-28"
+  ],
+  "handle": "27496",
+  "identifier_other": "etd-05022005-231857",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022005-231857/",
+  "identifier_uri": "http://hdl.handle.net/10919/27496",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BingYu_ECE.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "white-light interferometry",
+    "tunable optical filter",
+    "optical fiber sensor"
+  ],
+  "title": "Development of Tunable Optical Filters for Interrogation of White-Light Interferometric Sensors",
+  "type": "Dissertation"
+}

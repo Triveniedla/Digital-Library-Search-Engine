@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Farag, Mohammed Morsy Naeem",
+  "contributor_committeechair": "Patterson, Cameron D.",
+  "contributor_committeemember": [
+    "Martin, Thomas L.",
+    "Mortveit, Henning S.",
+    "Ravindran, Binoy",
+    "Riad, Sedki Mohamed",
+    "Rizk, Mohamed"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:40Z",
+  "date_adate": "2012-10-25",
+  "date_available": "2014-03-14T20:16:40Z",
+  "date_issued": "2012-09-17",
+  "date_rdate": "2012-10-25",
+  "date_sdate": "2012-09-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Embedded electronics are widely employed in cyber-physical systems (CPSes), which tightly integrate and coordinate computational and physical elements.   CPSes are extensively deployed in security-critical applications and nationwide infrastructure. Perimeter security approaches to preventing malware infiltration of CPSes are challenged by the complexity of modern embedded systems incorporating numerous heterogeneous and updatable components. Global supply chains and third-party hardware components, tools, and software limit the reach of design verification techniques and introduce security concerns about deliberate Trojan inclusions. As a consequence, skilled attacks against CPSes have demonstrated that these systems can be surreptitiously compromised. Existing run-time security approaches are not adequate to counter such threats because of either the impact on performance and cost, lack of scalability and generality, trust needed in global third parties, or significant changes required to the design flow. <p> We present a protection scheme called Run-time Enhancement of Trusted Computing (RETC) to enhance trust in CPSes containing untrusted software and hardware. RETC is complementary to design-time verification approaches and serves as a last line of defense against the rising number of inexorable threats against CPSes. We target systems built using reconfigurable hardware to meet the flexibility and high-performance requirements of modern security protections. Security policies are derived from the system physical characteristics and component operational specifications and translated into synthesizable hardware integrated into specific interfaces on a per-module or per-function basis. The policy-based approach addresses many security challenges by decoupling policies from system-specific implementations and optimizations, and minimizes changes required to the design flow. Interface guards enable in-line monitoring and enforcement of critical system computations at run-time. Trust is only required in a small set of simple, self-contained, and verifiable guard components. Hardware trust anchors simultaneously addresses the performance, flexibility, developer productivity, and security requirements of contemporary CPSes.<p>  We apply RETC to several CPSes having common security challenges including: secure reconfiguration control in reconfigurable cognitive radio platforms, tolerating hardware Trojan threats in third-party IP cores, and preserving stability in process control systems. High-level architectures demonstrated with prototypes are presented for the selected applications. Implementation results illustrate the RETC efficiency in terms of the performance and overheads of the hardware trust anchors. Testbenches associated with the addressed threat models are generated and experimentally validated on reconfigurable platform to establish the protection scheme efficacy in thwarting the selected threats. This new approach significantly enhances trust in CPSes containing untrusted components without sacrificing cost and performance.",
+  "description_provenance": [
+    "Author Email: mmorsy@vt.edu",
+    "Advisor Email: thmartin@vt.edu",
+    "Advisor Email: hmortvei@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: sedki@vt.edu",
+    "Advisor Email: rizk@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:40Z (GMT). No. of bitstreams: 2 Farag_MM_D_2012.pdf: 2607056 bytes, checksum: 58770a70e55e21feada7ab00c464d113 (MD5) Farag_MM_D_2012_Copyright_1.pdf: 885901 bytes, checksum: b7f5f07a3b9e0a47b27df912e6c66380 (MD5)   Previous issue date: 2012-09-17"
+  ],
+  "handle": "29084",
+  "identifier_other": "etd-09242012-185941",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09242012-185941/",
+  "identifier_uri": "http://hdl.handle.net/10919/29084",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Farag_MM_D_2012.pdf",
+    "Farag_MM_D_2012_Copyright_1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Hardware Trojans",
+    "Reconfigurable Hardware",
+    "Embedded Systems Security",
+    "Cognitive Radio",
+    "Trusted Computing",
+    "Cyber-Physical Systems",
+    "Process Control Systems"
+  ],
+  "title": "Architectural Enhancements to Increase Trust in Cyber-Physical Systems Containing Untrusted Software and Hardware",
+  "type": "Dissertation"
+}

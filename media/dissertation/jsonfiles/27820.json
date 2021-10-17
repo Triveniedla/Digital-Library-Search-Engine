@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Shukla, Nitin",
+  "contributor_committeechair": "Huxtable, Scott T.",
+  "contributor_committeemember": [
+    "Diller, Thomas E.",
+    "Paul, Mark R.",
+    "Meehan, Kathleen",
+    "Khodaparast, Giti A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:20Z",
+  "date_adate": "2009-06-08",
+  "date_available": "2014-03-14T20:12:20Z",
+  "date_issued": "2009-05-13",
+  "date_rdate": "2009-06-08",
+  "date_sdate": "2009-05-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "All interfaces offer resistance to heat transport. As the size of a device or structure approaches nanometer lengthscales, the contribution of the interface thermal resistance often becomes comparable to the intrinsic thermal resistance offered by the device or structure itself. In many microelectronic devices, heat has to transfer across a metal-nonmetal interface, and a better understanding about the origins of this interface thermal conductance (inverse of the interface thermal resistance) is critical in improving the performance of these devices. In this dissertation, heat transport across different metal-nonmetal interfaces are investigated with the primary goal of gaining qualitative and quantitative insight into the heat transport mechanisms across such interfaces. A time-domain thermoreflectance (TDTR) system is used to measure the thermal properties at the nanoscale. TDTR is an optical pump-probe technique, and it is capable of measuring thermal conductivity, k, and interface thermal conductance, G, simultaneously. The first study examines k and G for amorphous and crystalline Zr47Cu31Al13Ni9 metallic alloys that are in contact with poly-crystalline Y2O3. The motivation behind this study is to determine the relative importance of energy coupling mechanisms such as electron-phonon or phonon-phonon coupling across the interface by changing the material structure (from amorphous to crystalline), but not the composition. From the TDTR measurements k=4.5 W m-1 K-1 for the amorphous metallic glass of Zr47Cu31Al13Ni9, and k=5.0 W m-1 K-1 for the crystalline Zr47Cu31Al13Ni9.  TDTR also gives G=23 MW m-2 K-1 for the metallic glass/Y2O3 interface and G=26 MW m-2 K-1 for the interface between the crystalline Zr47Cu31Al13Ni9 and Y2O3.  The thermal conductivity of the poly-crystalline Y2O3 layer is found to be k=5.0 W m-1 K-1. Despite the small difference between k and G for the two alloys, the results are repeatable and they indicate that the structure of the alloy plays a role in the electron-phonon coupling and interface conductance.  The second experimental study examines the effect of nickel nanoparticle size on the thermal transport in multilayer nanocomposites. These nanocomposites consist of five alternating layers of nickel nanoparticles and yttria stabilized zirconia (YSZ) spacer layers that are grown with pulsed laser deposition.  Using TDTR, thermal conductivities of k=1.8, 2.4, 2.3, and 3.0 W m-1 K-1 are found for nanocomposites with nickel nanoparticle diameters of 7, 21, 24, and 38 nm, respectively, and k=2.5 W m-1 K-1 for a single 80 nm thick layer of YSZ. The results indicate that the overall thermal conductivity of these nanocomposites is strongly influenced by the Ni nanoparticle size and the interface thermal conductance between the Ni particles and the YSZ matrix. An effective medium theory is used to estimate the lower limits for the interface thermal conductance between the nickel nanoparticles and the YSZ matrix (G>170 MW m-2 K-1), and the nickel nanoparticle thermal conductivity.",
+  "description_provenance": [
+    "Author Email: nshukla@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: kameehan@vt.edu",
+    "Advisor Email: khodapar@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:20Z (GMT). No. of bitstreams: 1 Nitin_Shukla_dissertation_modified.pdf: 1530343 bytes, checksum: 37717b1a8bdfaa9dbf409d391923a618 (MD5)   Previous issue date: 2009-05-13"
+  ],
+  "handle": "27820",
+  "identifier_other": "etd-05202009-132245",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05202009-132245/",
+  "identifier_uri": "http://hdl.handle.net/10919/27820",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Nitin_Shukla_dissertation_modified.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Nanoscale heat transport",
+    "thermal conductivity",
+    "interface thermal conductance",
+    "nanocomposite",
+    "metallic glass",
+    "time-domain thermoreflectance"
+  ],
+  "title": "Heat Transport across Dissimilar Materials",
+  "type": "Dissertation"
+}

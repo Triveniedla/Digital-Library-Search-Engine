@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Korah, John",
+  "contributor_committeechair": "Santos, Eunice E.",
+  "contributor_committeemember": [
+    "Santos, Eugene  Jr.",
+    "Ribbens, Calvin J.",
+    "Arthur, James D.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:38Z",
+  "date_adate": "2010-03-10",
+  "date_available": "2014-03-14T20:07:38Z",
+  "date_issued": "2009-11-03",
+  "date_rdate": "2011-03-10",
+  "date_sdate": "2010-02-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Increasing size and prevalence of real time information have become important characteristics of databases found on the internet. Due to changing information, the relevancy ranking of the search results also changes. Current methods in information retrieval, which are based on offline indexing, are not efficient in such dynamic search spaces and cannot quickly provide the most current results. Due to the explosive growth of the internet, stove-piped approaches for dealing with dynamism by simply employing large computational resources are ultimately not scalable. A new processing methodology that incorporates intelligent resource allocation strategies is required. Also, modeling the dynamism in the search space in real time is essential for effective resource allocation. In order to support multi-grained dynamic resource allocation, we propose to use a partial processing approach that uses anytime algorithms to process the documents in multiple steps. At each successive step, a more accurate approximation of the final similarity values of the documents is produced. Resource allocation algorithm use these partial results to select documents for processing, decide on the number of processing steps and the computation time allocated for each step. We validate the processing paradigm by demonstrating its viability with image documents. We design an anytime image algorithm that uses a combination of wavelet transforms and machine learning techniques to map low level visual features to higher level concepts. Experimental validation is done by implementing the image algorithm within an established multiagent information retrieval framework called I-FGM. We also formulate a multiagent resource allocation framework for design and performance analysis of resource allocation with partial processing. A key aspect of the framework is modeling changes in the search space as external and internal dynamism using a grid-based search space model. The search space model divides the documents or candidates into groups based on its partial-value and portion processed. Hence the changes in the search space can be effectively represented in the search space model as flow of agents and candidates between the grids. Using comparative experimental studies and detailed statistical analysis we validate the search space model and demonstrate the effectiveness of the resource allocation framework.",
+  "description_provenance": [
+    "Author Email: jkorah@vt.edu",
+    "Advisor Email: santos@cs.vt.edu",
+    "Advisor Email: esj@dartmouth.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:38Z (GMT). No. of bitstreams: 1 KORAH_J_D_2009.pdf: 2053619 bytes, checksum: 5ec0f3d2bacb918f13c4f583af3508dc (MD5)   Previous issue date: 2009-11-03"
+  ],
+  "handle": "26253",
+  "identifier_other": "etd-02192010-184412",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02192010-184412/",
+  "identifier_uri": "http://hdl.handle.net/10919/26253",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KORAH_J_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Real time Information Retrieval",
+    "Large and Dynamic Search",
+    "Anytime Image Retrieval",
+    "Multiagent Resource Allocation Framework",
+    "Performance Analysis"
+  ],
+  "title": "Issues of Real Time Information Retrieval in Large, Dynamic and Heterogeneous Search Spaces",
+  "type": "Dissertation"
+}

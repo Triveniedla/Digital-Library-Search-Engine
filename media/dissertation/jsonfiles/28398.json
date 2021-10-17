@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Amini Moghadam, Shahram",
+  "contributor_committeecochair": [
+    "Parmeter, Christopher F.",
+    "Ashley, Richard A."
+  ],
+  "contributor_committeemember": [
+    "Cothren, Richard D.",
+    "Tsang, Kwok Ping"
+  ],
+  "contributor_department": "Economics (Science)",
+  "date_accessioned": "2014-03-14T20:14:18Z",
+  "date_adate": "2012-08-24",
+  "date_available": "2014-03-14T20:14:18Z",
+  "date_issued": "2012-07-16",
+  "date_rdate": "2012-08-24",
+  "date_sdate": "2012-07-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The primary aim of this research is to shed more light on the issue of model uncertainty in applied econometrics in general and cross-country growth as well as happiness and well-being regressions in particular. Model uncertainty consists of three main types: theory uncertainty, focusing on which principal determinants of economic growth or happiness should be included in a model; heterogeneity uncertainty, relating to whether or not the parameters that describe growth or happiness are identical across countries; and functional form uncertainty, relating to which growth and well-being regressors enter the model linearly and which ones enter nonlinearly.   Model averaging methods including Bayesian model averaging and Frequentist model averaging are the main statistical tools that incorporate theory uncertainty into the estimation process. To address functional form uncertainty, a variety of techniques have been proposed in the literature. One suggestion, for example, involves adding regressors that are nonlinear functions of the initial set of theory-based regressors or adding regressors whose values are zero below some threshold and non-zero above that threshold. In recent years, however, there has been a rising interest in using nonparametric framework to address nonlinearities in growth and happiness regressions.  The goal of this research is twofold. First, while Bayesian approaches are dominant methods used in economic empirics to average over the model space, I take a fresh look into Frequentist model averaging techniques and propose statistical routines that computationally ease the implementation of these methods. I provide empirical examples showing that Frequentist estimators can compete with their Bayesian peers. The second objective is to use recently-developed nonparametric techniques to overcome the issue of functional form uncertainty while analyzing the variance of distribution of per capita income. Nonparametric paradigm allows for addressing nonlinearities in growth and well-being regressions by relaxing both the functional form assumptions and traditional assumptions on the structure of error terms.",
+  "description_provenance": [
+    "Author Email: shahram@vt.edu",
+    "Advisor Email: cparmeter@bus.miami.edu",
+    "Advisor Email: ashleyr@vt.edu",
+    "Advisor Email: rcothren@vt.edu",
+    "Advisor Email: byront@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:18Z (GMT). No. of bitstreams: 1 AminiMoghadam_S_D_2012.pdf: 3209278 bytes, checksum: f1351741c8553928c48339508b85470c (MD5)   Previous issue date: 2012-07-16"
+  ],
+  "handle": "28398",
+  "identifier_other": "etd-07252012-123116",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07252012-123116/",
+  "identifier_uri": "http://hdl.handle.net/10919/28398",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "AminiMoghadam_S_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Frequentist",
+    "Bayesian",
+    "Jackknife",
+    "Model Averaging",
+    "Mallows",
+    "Nonparametric"
+  ],
+  "title": "Model Uncertainty & Model Averaging Techniques",
+  "type": "Dissertation"
+}

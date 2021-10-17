@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Wang, Ying",
+  "contributor_committeechair": "Bostian, Charles W.",
+  "contributor_committeemember": [
+    "Hsiao, Michael S.",
+    "Smith-Jackson, Tonya L.",
+    "da Silva, Claudio R. C. M.",
+    "MacKenzie, Allen B."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:56Z",
+  "date_adate": "2009-10-26",
+  "date_available": "2014-03-14T20:16:56Z",
+  "date_issued": "2009-09-25",
+  "date_rdate": "2009-10-26",
+  "date_sdate": "2009-09-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Dynamic Cellular Cognitive System (DCCS) serves as a cognitive network for white space devices in TV white space. It is also designed to provide quality communications for first responders in area with damaged wireless communication infrastructure. In DCCS network, diverse types of communication devices interoperate, communicate, and cooperate with high spectrum efficiency in a Dynamic Spectrum Access (DSA) scenario. DCCS can expand to a broad geographical distribution via linking to existing infrastructure. DCCS can quickly form a network to accommodate a diverse set of devices in natural disaster areas. It can also recover the infrastructure in a blind spot, for example, a subway or mountain area. Its portability and low cost make it feasible for commercial applications. This dissertation starts with an overview of DCCS network. DCCS defines a cognitive radio network and a set of protocols that each cognitive radio node inside the network must adopt to function as a user within the group. Multiple secondary users cooperate based on a fair and efficient scheme without losing the flexibility and self adaptation features. The basic unit of DCCS is a cell. A set of protocols and algorithms are defined to meet the communication requirement for intra-cell communications. DCCS includes multiple layers and multiple protocols. This dissertation gives a comprehensive description and analysis of building a DCCS network. It covers the network architecture, physical and Medium Access Control (MAC) layers for data and command transmission, spectrum management in DSA scenario, signal classification and synchronization and describes a working prototype of DCCS. 3 Two key technologies of intra-cell communication are spectrum management and Universal Classification and Synchronization (UCS). A channel allocation algorithm based on calculating the throughput of an available is designed and the performance is analyzed. UCS is conceived as a self-contained system which can detect, classify, and synchronize with a received signal and extract all parameters needed for physical layer demodulation. It enables the accommodation of non-cognitive devices and improves communication quality by allowing a cognitive receiver to track physical layer changes at the transmitter. Inter-cell communications are the backhaul connections of DCCS. This dissertation discusses two approaches to obtaining spectrum for inter-cell communications. A temporary leasing approach focuses on the policy aspects, and the other approach is based on using OFDMA to combine separate narrowband channels into a wideband channel that can meet the inter-cell communications throughput requirements. A prototype of DCCS implemented on GNU radio and USRP platform is included in the dissertation. It serves as the proof of concept of DCCS.",
+  "description_provenance": [
+    "Author Email: ywang06@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: smithjac@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:56Z (GMT). No. of bitstreams: 1 YW_Dissertation4.pdf: 13965755 bytes, checksum: f529c40734f433394e57aa4d73d5648f (MD5)   Previous issue date: 2009-09-25"
+  ],
+  "handle": "29146",
+  "identifier_other": "etd-09302009-162117",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09302009-162117/",
+  "identifier_uri": "http://hdl.handle.net/10919/29146",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "YW_Dissertation4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cognitive Radio",
+    "Cognitive Radio Network",
+    "Signal Classification and Synchronization",
+    "Dynamic Spectrum Accessing",
+    "Channel Allocation",
+    "Software Defined Radio"
+  ],
+  "title": "Dynamic Cellular Cognitive System",
+  "type": "Dissertation"
+}

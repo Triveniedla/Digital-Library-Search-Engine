@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Spano, Justin",
+  "contributor_committeechair": "Wi, Sungsool",
+  "contributor_committeemember": [
+    "Yee, Gordon T.",
+    "Morris, John R.",
+    "Madsen, Louis A.",
+    "Dorn, Harry C."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:12:15Z",
+  "date_adate": "2011-06-17",
+  "date_available": "2014-03-14T20:12:15Z",
+  "date_issued": "2011-05-04",
+  "date_rdate": "2011-06-17",
+  "date_sdate": "2011-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this dissertation is to demonstrate different applications of ssNMR, with particular emphasis on uses in polymeric and biosciences.  First, dynamics investigations on two polymers will be discussed:  (1) disulfonated poly(arylene ether sulfone)s /poly(ethylene glycol) blends (BPS-20_PEG), which are under development as chlorine-resistant reverse osmosis (RO) membrane alternatives to aromatic polyamide (PA) technology, and (2) poly(arylene ether sulfone)s modified with 1,4-cyclohexyl ring units to improve processability. Simple cross-polarization magic-angle-spinning (CPMAS) experiments compared the chlorine tolerance of BPS-20_PEG and PA. Techniques capable of detecting motional geometries and rates on timescales from nanoseconds to seconds, including relaxation time measurements, were applied. Correlations were established between relaxation time and water permeability for the RO membranes, and between relaxation time and polydispersity in the 1,4- cyclohexyl ring modified polymer. \tNext, 31P and 2H static ssNMR experiments evidencing the formation of toroidal pores and thinned bilayers in oriented zwitterionic and anionic phospholipid bilayers, (biomembrane mimetic systems), by the antimicrobial peptides (AMPs) magainin-2 and aurein-3.3, will be mentioned.  The toroidal pore geometries induced by magainin-2 were different than those produced by aurien-3.3.  The most prominent features were observed in 2H spectra, implying greater interaction of the peptides with hydrophobic lipid acyl chains.   \tFollowing this, a new two-dimensional homonuclear dipolar recoupling MAS experiment, capable of correlating long range 13C-13C spin pairs in a uniformly/ extensively 13C-labeled biomolecule, will be introduced.  This technique was demonstrated on 13C-labeled versions of Glutamine and Glycine-Alanine-Leucine. Experiments involving the recoupling of all 13C-13C spin pairs, and experiments with selective recoupling using Gaussian or cosine-modulated Gaussian pulses, were demonstrated. \t Finally, work using static 1H- 13C CP ssNMR to selectively detect interfacial water around hydrophobic C60 will be recounted.  This project exploited the distance limitation of CP, and 1H spin-lattice relaxation times, to separate the influence of bulk and interfacial water on the spectra.  Results indicated that the tumbling of interfacial water is slowed by a factor of 105 compared to bulk water, providing it with a solid-like character, and allowing the hydration shell to be stable at temperatures above the freezing point of water.",
+  "description_provenance": [
+    "Author Email: jspano@vt.edu",
+    "Advisor Email: sungsool@vt.edu",
+    "Advisor Email: gyee@vt.edu",
+    "Advisor Email: jrmorris@vt.edu",
+    "Advisor Email: lmadsen@vt.edu",
+    "Advisor Email: hdorn@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:15Z (GMT). No. of bitstreams: 2 Spano_Justin_D_2011.pdf: 4692577 bytes, checksum: cfd2e6924023c6202257a458b5f5363d (MD5) Spano_Justin_D_2011_Copyright.pdf: 215321 bytes, checksum: 416777f41b5183b4001bc4f9baa59986 (MD5)   Previous issue date: 2011-05-04"
+  ],
+  "handle": "27788",
+  "identifier_other": "etd-05182011-112402",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182011-112402/",
+  "identifier_uri": "http://hdl.handle.net/10919/27788",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Spano_Justin_D_2011.pdf",
+    "Spano_Justin_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "magic-angle-spinning",
+    "relaxation time",
+    "antimicrobial peptide",
+    "reverse osmosis",
+    "solid-state NMR",
+    "dynamics"
+  ],
+  "title": "Solid-State NMR Studies of Polymeric and Biomembranes",
+  "type": "Dissertation"
+}

@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Robertson, Jennifer E.",
+  "contributor_committeechair": "Ward, Thomas C.",
+  "contributor_committeemember": [
+    "Forsten-Williams, Kimberly",
+    "Marand, Eva",
+    "Shultz, Allan R.",
+    "Davis, Richey M."
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:12:01Z",
+  "date_adate": "2001-05-14",
+  "date_available": "2014-03-14T20:12:01Z",
+  "date_issued": "2001-05-04",
+  "date_rdate": "2002-05-14",
+  "date_sdate": "2001-05-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Polymeric materials are increasingly being used in diverse, very demanding applications. Either pre- or post- application environments may require exposures to conditions hostile to the polymer's integrity.  Frequently, these demanding conditions result in degradation of the polymer and subsequent decreases in desirable properties.  Clearly then, a methodology to predict important properties, such as Tg, molecular weight, and tensile strength, from knowledge of the environmental history of a polymeric-based specimen is beneficial.   The current study focuses on bisphenol A polycarbonate and tracks changes in the properties of this material as a function of the degree of degradation, t.  For the purposes of the present research, the environmental effects have been limited to those associated with elevated temperature, although the methodology is general.  This t parameter is a product of the kinetic rate constant, k, found from isothermal kinetics, and the time of degradation, t.  Elucidation of t has been linked to measurement of the molecular weight distribution which in turn can be related to various properties to yield predictive relationships for these properties.  Only the thermal history of the polymer and its initial properties are required for the model.  This technique is not limited to a specific polymer or even to thermal degradation.  As long as the kinetics of the process can be mathematically modeled, this approach should apply to a host of other situations, providing property prediction simply from knowledge of the material history.  The research seeks to better understand the thermal degradation of polycarbonate.  Kinetics of the process was explored, and the chemical mechanisms were examined.  A key part of the project was the determination of the molecular weights and molecular weight distributions at each level of degradation.  Furthermore, mechanical stress-strain properties, glass transition temperatures, and melt viscosities were also measured.  This information, together with the kinetic expressions, facilitated prediction of these types of material properties for a known thermal history.",
+  "description_provenance": [
+    "Author Email: jebrook4@vt.edu",
+    "Advisor Email: kforsten@vt.edu",
+    "Advisor Email: emarand@vt.edu",
+    "Advisor Email: ashultz@vt.edu",
+    "Advisor Email: tward@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:01Z (GMT). No. of bitstreams: 9 chapter3.pdf: 324357 bytes, checksum: 6543a758e321a4fc304ec009e1bc0aae (MD5) chapter1.pdf: 450919 bytes, checksum: 49fdbaa3acfc0f19525e0ca7506cc888 (MD5) chapter4.pdf: 461437 bytes, checksum: 74a10736f2b08bed304ca79151983fc1 (MD5) chapter2.pdf: 333394 bytes, checksum: 5b96bfd834f84285d22bc93eed0a2903 (MD5) vita.pdf: 4877 bytes, checksum: 6b48ea56ef581f08fa1339c59015bc6b (MD5) acktoc.pdf: 87542 bytes, checksum: 05f2198189b9c7fff322ed05eaafcca8 (MD5) chapter5.pdf: 321061 bytes, checksum: a8f66229444394ea0261bd9ab8a2bed3 (MD5) Concl.pdf: 12204 bytes, checksum: 25a029187b2e3768465ed922a7433b6a (MD5) title&abs.pdf: 7379 bytes, checksum: 408ea2c96758b5a0e927a40b9b00c972 (MD5)   Previous issue date: 2001-05-04"
+  ],
+  "handle": "27704",
+  "identifier_other": "etd-05142001-092334",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05142001-092334/",
+  "identifier_uri": "http://hdl.handle.net/10919/27704",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chapter3.pdf",
+    "chapter1.pdf",
+    "chapter4.pdf",
+    "chapter2.pdf",
+    "vita.pdf",
+    "acktoc.pdf",
+    "chapter5.pdf",
+    "Concl.pdf",
+    "title&abs.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "polymer",
+    "degradation kinetic models",
+    "degradation",
+    "polycarbonate"
+  ],
+  "title": "Thermal Degradation Studies of Polycarbonate",
+  "type": "Dissertation"
+}

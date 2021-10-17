@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Jeenanunta, Chawalit",
+  "contributor_committeechair": "Sherali, Hanif D.",
+  "contributor_committeecochair": "Hobeika, Antoine G.",
+  "contributor_committeemember": [
+    "Fraticelli, Barbara M. P.",
+    "Teodorovic, Dusan",
+    "Bish, Ebru K."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:12:13Z",
+  "date_adate": "2004-07-30",
+  "date_available": "2014-03-14T20:12:13Z",
+  "date_issued": "2004-05-10",
+  "date_rdate": "2007-07-30",
+  "date_sdate": "2004-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we consider two important problems pertaining to the analysis of transportation systems.  The first of these is an approach-dependent, time-dependent, label-constrained shortest path problem that arises in the context of the Route Planner Module of the Transportation Analysis Simulation System (TRANSIMS), which has been developed by the Los Alamos National Laboratory for the Federal Highway Administration.  This is a variant of the shortest path problem defined on a transportation network comprised of a set of nodes and a set of directed arcs such that each arc has an associated label designating a mode of transportation, and an associated travel time function that depends on the time of arrival at the tail node, as well as on the node via which this node was approached. The lattermost feature is a new concept injected into the time-dependent, label-constrained shortest path problem, and is used to model turn-penalties in transportation networks. The time spent at an intersection before entering the next link would depend on whether we travel straight through the intersection, or make a right turn at it, or make a left turn at it.  Accordingly, we model this situation by incorporating within each linkâ  s travel time function a dependence on the link via which its tail node was approached. We propose two effective algorithms to solve this problem by adapting two efficient existing algorithms to handle time dependency and label constraints: the Partitioned Shortest Path (PSP) algorithm and the Heap-Dijkstra (HP-Dijkstra) algorithm, and present related theoretical complexity results.  In addition, we also explore various heuristic methods to curtail the search.  We explore an Augmented Ellipsoidal Region Technique (A-ERT) and a Distance-Based A-ERT, along with some variants to curtail the search for an optimal path between a given origin and destination to more promising subsets of the network.  This helps speed up computation without sacrificing optimality. We also incorporate an approach-dependent delay estimation function, and in concert with a search tree level-based technique, we derive a total estimated travel time and use this as a key to prioritize node selections or to sort elements in the heap. As soon as we reach the destination node, while it is within some p% of the minimum key value of the heap, we then terminate the search. We name the versions of PSP and HP-Dijkstra that employ this method as Early Terminated PSP (ET-PSP) and Early Terminated Heap-Dijkstra (ETHP-Dijkstra) algorithms.  All of these procedures are compared with the original Route Planner Module within TRANSIMS, which is implemented in the Linux operating system, using C++ along with the g++ GNU compiler.  <p> Extensive computational testing has been conducted using available data from the Portland, Oregon, and Blacksburg, Virginia, transportation networks to investigate the efficacy of the developed procedures.  In particular, we have tested twenty-five different combinations of network curtailment and algorithmic strategies on three test networks: the Blacksburg-light, the Blacksburg-full, and the BigNet network.  The results indicate that the Heap-Dijkstra algorithm implementations are much faster than the PSP algorithmic approaches for solving the underlying problem exactly.  Furthermore, mong the curtailment schemes, the ETHP-Dijkstra with p=5%, yields the best overall results.  This method produces solutions within 0.37-1.91% of optimality, while decreasing CPU effort by 56.68% at an average, as compared with applying the best available exact algorithm. <p> The second part of this dissertation is concerned with the Classification and Regression Tree (CART) algorithm, and its application to the Activity Generation Module of TRANSIMS.  The CART algorithm has been popularly used in various contexts by transportation engineers and planners to correlate a set of independent household demographic variables with certain dependent activity or travel time variables.  However, the algorithm lacks an automated mechanism for deriving classification trees based on optimizing specified objective functions and handling desired side-constraints that govern the structure of the tree and the statistical and demographic nature of its leaf nodes. Using a novel set partitioning formulation, we propose new tree development, and more importantly, optimal pruning strategies to accommodate the consideration of such objective functions and side-constraints, and establish the theoretical validity of our approach.  This general enhancement of the CART algorithm is then applied to the Activity Generator module of TRANSIMS.  Related computational results are presented using real data pertaining to the Portland, Oregon, and Blacksburg, Virginia, transportation networks to demonstrate the flexibility and effectiveness of the proposed approach in classifying data, as well as to examine its numerical performance.  The results indicate that a variety of objective functions and constraints can be readily accommodated to efficiently control the structural information that is captured by the developed classification tree as desired by the planner or analyst, dependent on the scope of the application at hand.",
+  "description_provenance": [
+    "Author Email: cjeenanu@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: barbf@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: ebru@tioli.ise.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:13Z (GMT). No. of bitstreams: 1 Dissertation-1-2-3-4.pdf: 2350734 bytes, checksum: 44bfac09035673a6058a8efdef59f6fe (MD5)   Previous issue date: 2004-05-10"
+  ],
+  "handle": "27773",
+  "identifier_other": "etd-05182004-031158",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182004-031158/",
+  "identifier_uri": "http://hdl.handle.net/10919/27773",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-1-2-3-4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Integer Programming",
+    "Classification and Regression Tree",
+    "Shortest path"
+  ],
+  "title": "The Approach-dependent, Time-dependent, Label-constrained Shortest Path Problem and Enhancements for the CART Algorithm with Application to Transportation Systems",
+  "type": "Dissertation"
+}

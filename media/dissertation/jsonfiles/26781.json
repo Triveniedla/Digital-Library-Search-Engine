@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Cotting, Malcolm Christopher",
+  "contributor_committeechair": "Woolsey, Craig A.",
+  "contributor_committeecochair": "Durham, Wayne C.",
+  "contributor_committeemember": [
+    "McCue-Weil, Leigh S.",
+    "Bordignon, Kenneth A.",
+    "Mason, William H."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:24Z",
+  "date_adate": "2010-05-05",
+  "date_available": "2014-03-14T20:09:24Z",
+  "date_issued": "2010-03-29",
+  "date_rdate": "2010-05-05",
+  "date_sdate": "2010-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>A number of challenges in the development and application of flying qualities criteria for modern aircraft are addressed in this dissertation. The history of flying qualities is traced from its origins to modern day techniques as applied to piloted aircraft. Included in this historical review is the case that was made for the development of flying qualities criteria in the 1940â  s and 1950â  s when piloted aircraft became prevalent in the United States military. It is then argued that UAVs today are in the same context historically as piloted aircraft when flying qualities criteria were first developed.</p> <p>To aid in development of a flying qualities criterion for UAVs, a relevant classification system for UAVs. Two longitudinal flying qualities criteria are developed for application to autonomous UAVs. These criteria center on mission performance of the integrated aircraft and sensor system. The first criterion is based on a sensor platformâ  s ability to reject aircraft disturbances in pitch attitude. The second criterion makes use of energy methods to create a metric to quantify the transmission of turbulence to the sensor platform. These criteria are evaluated with airframe models of different classes of air vehicles using the CASTLE 6 DOF simulation.</p> <p>Another topic in flying qualities is the evaluation of nonlinear control systems in piloted aircraft. A L1 adaptive controller was implemented and tested in a motion based, piloted flight simulator. This is the first time that the L1 controller has been evaluated for piloted handling qualities. Results showed that the adaptive controller was able to recover good flying qualities from a degraded aircraft.</p> <p>The final topic addresses a less direct, but extremely important challenge for flying qualities research and education: a capstone course in flight mechanics teaching flight test techniques and featuring a motion based flight simulator was implemented and evaluated. The course used a mixture of problem based learning and role based learning to create an environment where students could explore key flight mechanics concepts. Evaluation of the courseâ  s effectiveness to promote the understanding of key flight mechanics concepts is presented.</p>",
+  "description_provenance": [
+    "Author Email: ccotting@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Advisor Email: bordignk@erau.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: durham@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:24Z (GMT). No. of bitstreams: 1 Cotting_MC_D_2010.pdf: 7728751 bytes, checksum: b6c127528ba2b3083dff50f334035738 (MD5)   Previous issue date: 2010-03-29"
+  ],
+  "handle": "26781",
+  "identifier_other": "etd-04112010-222856",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112010-222856/",
+  "identifier_uri": "http://hdl.handle.net/10919/26781",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Cotting_MC_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Education",
+    "Flight Mechanics",
+    "Flying Qualities",
+    "UAV"
+  ],
+  "title": "Evolution of Flying Qualities Analysis: Problems for a New Generation of Aircraft",
+  "type": "Dissertation"
+}

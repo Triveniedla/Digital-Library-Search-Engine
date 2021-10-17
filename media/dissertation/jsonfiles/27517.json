@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Wang, Hongfang",
+  "contributor_committeechair": "Wang, Fei Fred",
+  "contributor_committeemember": [
+    "Lai, Jason",
+    "Lu, Guo-Quan",
+    "Liu, Yilu",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:29Z",
+  "date_adate": "2007-05-03",
+  "date_available": "2014-03-14T20:11:29Z",
+  "date_issued": "2007-04-11",
+  "date_rdate": "2009-05-03",
+  "date_sdate": "2007-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The next generation of power converters not only must meet the characteristics demanded by the load, but also has to meet some specific requirements like limited space and high ambient temperature etc. This needs the power converter to achieve high power density and high temperature operation. It is usually required that the active power devices operate at higher switching frequencies to shrink the passive components volume.  The power semiconductor devices for high frequency high density power converter applications have been investigated. Firstly, the methodology is developed to evaluate the power semiconductor devices for high power density applications. The power density figure of merit (PDFOM) for power MOSFET and IGBT are derived from the junction temperature rise, power loss and package points of view. The device matrices are generated for device comparison and selection to show how to use the PDFOM. A calculation example is given to validate the PDFOM. Several semiconductor material figures of merit are also proposed. The wide bandgap materials based power devices benefits for power density are explored compared to the silicon material power devices. Secondly, the high temperature operation characteristics of power semiconductor devices have been presented that benefit the power density. The electrical characteristics and thermal stabilities are tested and analyzed, which include the avalanche breakdown voltage, leakage current variation with junction temperature rise. To study the thermal stability of power device, the closed loop thermal system and stability criteria are developed and analyzed. From the developed thermal stability criterion, the maximum switching frequency can be derived for the converter system design. The developed thermal system analysis approach can be extended to other Si devices or wide bandgap devices. To fully and safely utilize the power devices the junction temperature prediction approach is developed and implemented in the system test, which considers the parasitic components inside the power MOSFET module when the power MOSFET module switches at hundreds of kHz. Also the thermal stability for pulse power application characteristics is studied further to predict how the high junction temperature operation affects the power density improvement.  Thirdly, to develop high frequency high power devices for high power high density converter design, the basic approaches are paralleling low current rating power MOSFETs or series low voltage rating IGBTs to achieve high frequency high power output, because power MOSFETs and low voltage IGBTs can operate at high switching frequency and have better thermal handling capability. However the current sharing issues caused by transconductance, threshold voltage and miller capacitance mismatch during conduction and switching transient states may generate higher power losses, which need to be analyzed further. A current sharing control approach from the gate side is developed. The experimental results indicate that the power MOSFETs can be paralleled with proper gate driver design and accordingly the switching losses are reduced to some extent, which is very useful for the switching loss dominated high power density converter design. The gate driving design is also important for the power MOSFET module with parallel dice inside thus increased input capacitance. This results in the higher gate driver power loss when the traditional resistive gate driver is implemented. Therefore the advanced self-power resonant gate driver is investigated and implemented. The low gate driver loss results in the development of the self-power unit that takes the power from the power bus. The overall volume of the gate driver can be minimized thus the power density is improved.  Next, power semiconductor device series-connection operation is often used in the high power density converter to meet the high voltage output such as high power density boost converter. The static and dynamic voltage balancing between series-connected IGBTs is achieved using a hybrid approach of an active clamp circuit and an active gate control. A Scalable Power Semiconductor Switch (SPSS) based on series-IGBTs is developed with built-in power supply and a single optical control terminal. An integrated package with a common baseplate is used to achieve a better thermal characteristic. These design features allow the SPSS unit to function as a single optically controlled three-terminal switching device for users. Experimental evaluation of the prototype SPSS shows it fully achieved the design objectives. The SPSS is a useful power switch concept for building high power density, high switching frequency and high voltage functions that are beyond the capability of individual power devices. As conclusions, in this dissertation, the above-mentioned issues and approaches to develop high density power converter from power semiconductor devices standpoint are explored, particularly with regards to high frequency high temperature operation. To realize such power switches the related current sharing, voltage balance and gate driving techniques are developed. The power density potential improvements are investigated based on the real high density power converter design. The power semiconductor devices effects on power density are investigated from the power device figure of merit, high frequency high temperature operation and device parallel operation points of view.",
+  "description_provenance": [
+    "Author Email: howang5@vt.edu",
+    "Advisor Email: fred.wang@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:29Z (GMT). No. of bitstreams: 1 Dissertation_whf.pdf: 4026516 bytes, checksum: 2050907c6edea6003f7a3c6846c4bb49 (MD5)   Previous issue date: 2007-04-11"
+  ],
+  "handle": "27517",
+  "identifier_other": "etd-05032007-021715",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032007-021715/",
+  "identifier_uri": "http://hdl.handle.net/10919/27517",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_whf.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Power semiconductor device",
+    "High frequency",
+    "High power density",
+    "High temperature",
+    "Gate driving",
+    "Parallel and series",
+    "Figure of merit"
+  ],
+  "title": "Investigation of Power Semiconductor Devices for High Frequency High Density Power Converters",
+  "type": "Dissertation"
+}

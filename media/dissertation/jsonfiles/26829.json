@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Raghavan, Brijesh",
+  "contributor_committeechair": "Patil, Mayuresh J.",
+  "contributor_committeemember": [
+    "McCue-Weil, Leigh S.",
+    "Woolsey, Craig A.",
+    "Kapania, Rakesh K."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:32Z",
+  "date_adate": "2009-04-22",
+  "date_available": "2014-03-14T20:09:32Z",
+  "date_issued": "2009-03-30",
+  "date_rdate": "2009-04-22",
+  "date_sdate": "2009-04-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "High aspect-ratio flying wing configurations designed for high altitude, long endurance missions are characterized by high flexibility, leading to significant static aeroelastic deformation in flight, and coupling between aeroelasticity and flight dynamics. As a result of this coupling, an integrated model of the aeroelasticity and flight dynamics has to be used to accurately model the dynamics of the flexible flying wing. Such an integrated model of the flight dynamics and the aeroelasticity developed by Patil and Hodges is reviewed in this dissertation and is used for studying the unique flight dynamics of high aspect-ratio flexible flying wings. It was found that a rigid body configuration that accounted for the static aeroelastic deformation at trim captured the predominant flight dynamic characteristics shown by the flexible flying wing. Moreover, this rigid body configuration was found to predict the onset of dynamic instability in the flight dynamics seen in the integrated model. Using the concept of the mean axis, a six degree-of-freedom reduced order model of the flight dynamics is constructed that minimizes the coupling between rigid body modes and structural dynamics while accounting for the nonlinear static aeroelastic deformation of the flying wing. Multi-step nonlinear dynamic inversion applied to this reduced order model is coupled with a nonlinear guidance law to design a flight controller for path following. The controls computed by this flight controller are used as inputs to a time-marching simulation of the integrated model of aeroelasticity and flight dynamics. Simulation results presented in this dissertation show that the controller is able to successfully follow both straight line and curved ground paths while maintaining the desired altitude. The controller is also shown to be able to handle an abrupt change in payload mass while path-following. Finally, the equations of motion of the integrated model were non-dimensionalized to identify aeroelastic parameters for optimization and design of high aspect-ratio flying wings.",
+  "description_provenance": [
+    "Author Email: brijeshr@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:32Z (GMT). No. of bitstreams: 1 Raghavan_Dissertation.pdf: 4363355 bytes, checksum: c219a918b75513c4782246de3cf99970 (MD5)   Previous issue date: 2009-03-30"
+  ],
+  "handle": "26829",
+  "identifier_other": "etd-04132009-143933",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04132009-143933/",
+  "identifier_uri": "http://hdl.handle.net/10919/26829",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Raghavan_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Flexible high aspect-ratio flying-wings",
+    "flight dynamics",
+    "flight control"
+  ],
+  "title": "Flight Dynamics and Control of Highly Flexible Flying-Wings",
+  "type": "Dissertation"
+}

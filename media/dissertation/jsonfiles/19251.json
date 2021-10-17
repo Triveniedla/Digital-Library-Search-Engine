@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Veda, Santosh Sambamoorthy",
+  "contributor_committeechair": [
+    "Thorp, James S",
+    "Phadke, Arun G"
+  ],
+  "contributor_committeemember": [
+    "De La Reelopez, Jaime",
+    "Pierson, Mark Alan",
+    "Shukla, Sandeep K",
+    "Centeno, Virgilio A"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-02-19T22:40:47Z",
+  "date_available": "2013-02-19T22:40:47Z",
+  "date_issued": "2013-01-07",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Severe disturbances in a large electrical interconnection cause a large mismatch in generation and load in the network, leading to frequency instability. If the mismatch is not rectified quickly, the system may disintegrate into multiple islands. Though the Automatic Generation Controls (AGC) perform well in correcting frequency deviation over a period of minutes, they are ineffective during a rolling blackout. While traditional Under Frequency Load Shedding Schemes (UFLS) perform quick control actions to arrest frequency decline in an islanded network, they are not designed to prevent unplanned islanding. <br /><br />The proposed Intelligent Load Shedding algorithm combines the effectiveness of AGC Scheme by observing tie line flows and the speed of operation of the UFLS Scheme by shedding loads intelligently, to preserve system integrity in the event of an evolving cascading failure. The proposed scheme detects and estimates the size of an event by monitoring the tie lines of a control area using Wide Area Measurement Systems (WAMS) and initiates load shedding by removing loads whose locations are optimally determined by a sensitivity analysis. The amount and location of the load shedding depends on the location and size of the initiating event, making the proposed algorithm adaptive and selective. Case Studies have been presented to show that control actions of the proposed scheme can directly mitigate a cascading blackout.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:40:47Z (GMT). No. of bitstreams: 1 Veda_SS_D_2013.pdf: 1864626 bytes, checksum: 4116c759ababd225f31c71eeb740ee7a (MD5)   Previous issue date: 2013-01-07",
+  "format_medium": "ETD",
+  "handle": "19251",
+  "identifier_other": "vt_gsexam:111",
+  "identifier_uri": "http://hdl.handle.net/10919/19251",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Intelligent Load Shedding(ILS)",
+    "Wide Area Measurement System (WAMS)",
+    "Smart Grids",
+    "Under Frequency Load Shedding (UFLS)",
+    "blackout"
+  ],
+  "title": "WAMS-based Intelligent Load Shedding Scheme for Preventing Cascading Blackouts",
+  "type": "Dissertation"
+}

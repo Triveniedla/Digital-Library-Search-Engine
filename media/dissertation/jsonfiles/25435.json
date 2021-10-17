@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Salehi, Mohsen",
+  "contributor_committeechair": "Manteghi, Majid",
+  "contributor_committeemember": [
+    "Davis, William A",
+    "Kohler, Werner E",
+    "Safaai-Jazi, Ahmad",
+    "Brown, Gary S"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-02-18T14:18:48Z",
+  "date_available": "2014-02-18T14:18:48Z",
+  "date_issued": "2013-12-18",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "A desirable goal in wireless communication systems is to achieve a high-rate data transmission through electrically small antennas. However, the overall transmission bandwidth is limited by the antenna size. As a well-known physical limitation, maximum achievable bandwidth of a small antenna is governed by the fundamental limit which defines a lower bound on the antenna quality factor. This limit is a function of electrical size of the antenna and therefore, as the antenna shrinks in size the bandwidth decreases as well. This dissertation presents a new technique to decouple the impedance bandwidth of a high-Q antenna from the information bandwidth in order to provide a wideband data-transmission. This technique controls the natural resonant frequencies of an electrically small antenna in a time-varying fashion such that ultra-fast frequency-shift keying modulation can be achieved regardless of the narrow bandwidth of the antenna. A major advantage of the proposed technique is that the high-Q property of a miniaturized antenna is a desirable design parameter rather than a limiting factor. Therefore, the antenna size can be reduced as much as required.  It is shown that if the fundamental resonance of an antenna is shifted in time, the frequency of the near-zone fields which construct the reactive stored energy, changes momentarily and hence, the radiating fields track any instantaneous variation of the antenna fundamental resonance. This characteristic is utilized to employ a single-mode high-Q antenna in the transient state and modulate the fundamental resonant frequency according to the baseband data information. This approach leads to a new class of compact transmitters with a minimized architecture and high data-rate transmission capability.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-18T14:18:48Z (GMT). No. of bitstreams: 1 Salehi_M_D_2013.pdf: 7842981 bytes, checksum: 91eb1947512b9980040182e8ace1e23f (MD5)   Previous issue date: 2013-12-18",
+  "format_medium": "ETD",
+  "handle": "25435",
+  "identifier_other": "vt_gsexam:1801",
+  "identifier_uri": "http://hdl.handle.net/10919/25435",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Antenna",
+    "Direct Modulation",
+    "Quality Factor",
+    "Small Antenna",
+    "Switched Antenna",
+    "Switched Resonator",
+    "Time Domain",
+    "Transient",
+    "Wideband"
+  ],
+  "title": "Time-varying Small Antennas for Wideband Applications",
+  "type": "Dissertation"
+}

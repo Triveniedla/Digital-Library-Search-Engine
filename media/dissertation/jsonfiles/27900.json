@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Guo, Jinghong",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeecochair": "Edwards, Stephen H.",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Wang, Fei Fred",
+    "Ravindran, Binoy"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:36Z",
+  "date_adate": "2005-06-22",
+  "date_available": "2014-03-14T20:12:36Z",
+  "date_issued": "2005-05-13",
+  "date_rdate": "2005-06-22",
+  "date_sdate": "2005-05-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Due to close coupling to hardware and lack of software engineering technologies, the control software in digitally controlled power conversion systems is difficult to design and maintain. This is a natural consequence of a topology- or application-driven design approach. This research work proposes a distributed, modular, open control architecture for power conversion systems to reduce control design complexity, encapsulate and localize design dependencies, reduce unnecessary redesign effort and improve software quality. Dataflow style is chosen as the architectural style for the proposed control architecture based on comparative analysis. The detailed implementation of the dataflow architecture is presented. The resulting dataflow control software is evaluated in comparison to the legacy approach to control design used in industry and academia. The dataflow control software for a 3-phase voltage source inverter is also tested on a real PEBB-based converter system. To further explore the flexibility of control composition that is brought by the dataflow approach, the feasibility of dynamic control reconfiguration is also presented as an important future research direction.",
+  "description_provenance": [
+    "Author Email: jguo@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: wangfred@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:36Z (GMT). No. of bitstreams: 1 dissertation_JHG.pdf: 3279949 bytes, checksum: 2c39ab7b0c0b24790bf3de20ae67481e (MD5)   Previous issue date: 2005-05-13"
+  ],
+  "handle": "27900",
+  "identifier_other": "etd-05262005-140756",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05262005-140756/",
+  "identifier_uri": "http://hdl.handle.net/10919/27900",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_JHG.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PEBB",
+    "real-time system",
+    "open control architecture",
+    "dataflow"
+  ],
+  "title": "Distributed, Modular, Open Control Architecture for Power Conversion Systems",
+  "type": "Dissertation"
+}

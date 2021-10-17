@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Dong, Junwei",
+  "contributor_committeechair": "Zaghloul, Amir I.",
+  "contributor_committeemember": [
+    "Davis, William A.",
+    "Xu, Yong",
+    "Paul, JoAnn M.",
+    "Lu, Chang-Tien",
+    "Weiss, Steven J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:39Z",
+  "date_adate": "2009-10-30",
+  "date_available": "2014-03-14T20:16:39Z",
+  "date_issued": "2009-09-11",
+  "date_rdate": "2009-10-30",
+  "date_sdate": "2009-09-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Microwave lenses support low-phase error, wideband, wide-angle scanning, and true-time delay (TTD) beam forming. They provide ideal performance for applications such as satellites, remote-piloted vehicles, collision-avoidance radars and ultra-wideband communications systems. The emerging printed lenses in recent years have facilitated the advancement of designing high performance but low-profile, light-weight, and small-size beam-forming networks (BFNs). The microwave lens adopts a few beam ports to illuminate the prescribed receiving ports that feed energy into radiating antennas. Multi-beam patterns can be achieved by exciting multiple beam ports at a time. The design process starts with path-length equations from a limited number of beam-port foci assumptions. This constraint does not take into account the amplitude information; however, it allows an initial lens geometry to be solved. The resulted scanning angle of microwave lens is limited by the beam port contour, as such Â± 90 degrees.   In this dissertation, three contributions are made from the aspects of minimized phase errors, accurate and efficient simulation algorithms, and 360-degree scanning range extension. First, a minimum-phase-error, non-focal lens design method is proposed. It does not require a specific number of foci along the beam contour; however, minimum phase errors for all beam ports are able to be achieved. The proposed method takes into account flexible prescribed geometrical design parameters, and adopts numerical optimization algorithms to perform phase error minimization. Numerical results compared with the published tri-focal and quadru-focal lenses demonstrate the merits of the proposed method. Second, an accurate and fast simulation method for the microwave lens has been developed to predict the phase, amplitude, array factor, and power efficiency performance. The proposed method is compared to both full-wave simulation and measurement. Comparable results have been achieved. Third, a novel method for a 360-degree scanning microwave lens is proposed. This concept uses the beam ports and the receive ports in an interleaving sequence such that adjacent ports alternate beam and receive functions.  The result is a lens that produces scanned beams on opposite sides of the structure resulting in a 360-degree scanning range.  The structure can use multiple opposing facets or continuous circular-port and radiating-element contours.  To prove the concept, a four-facet microstrip lens has been designed, simulated, fabricated, and tested. The comparison between full-wave simulation and measurement has demonstrated good agreement.",
+  "description_provenance": [
+    "Author Email: djwei@vt.edu, junweid@gmail.com",
+    "Advisor Email: amirz@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: yong@vt.edu",
+    "Advisor Email: jmpaul@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: sweiss@arl.army.mil",
+    "Made available in DSpace on 2014-03-14T20:16:39Z (GMT). No. of bitstreams: 1 Dong_J_D_2009.pdf: 7456836 bytes, checksum: b3771646f13347915c7bf273660c25b9 (MD5)   Previous issue date: 2009-09-11"
+  ],
+  "handle": "29081",
+  "identifier_other": "etd-09242009-195704",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09242009-195704/",
+  "identifier_uri": "http://hdl.handle.net/10919/29081",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dong_J_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "rotman lens",
+    "microwave lens",
+    "multifunctional array",
+    "printed lens",
+    "beam-forming network",
+    "minimum phase error",
+    "fast simulation",
+    "360-degree scanning"
+  ],
+  "title": "Microwave Lens Designs: Optimization, Fast Simulation Algorithms, and 360-Degree Scanning Techniques",
+  "type": "Dissertation"
+}

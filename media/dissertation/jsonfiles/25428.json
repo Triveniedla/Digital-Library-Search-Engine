@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Liu, Kui",
+  "contributor_committeechair": "Zhou, Ying",
+  "contributor_committeemember": [
+    "Weiss, Chester J",
+    "King, Scott David",
+    "Hole, John Andrew"
+  ],
+  "contributor_department": "Geosciences",
+  "date_accessioned": "2014-02-12T09:00:11Z",
+  "date_available": "2014-02-12T09:00:11Z",
+  "date_issued": "2014-02-11",
+  "degree_discipline": "Geosciences",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In this thesis, a finite-frequency theory is developed to calculate Born sensitivity kernels for Rayleigh-wave phase and amplitude measurements that are valid in regions near seismic stations. Calculations of sensitivity kernels for inter-station measurements show that exact travelling-wave representation of Green tensor is necessary when station spacing is close to or smaller than the seismic wavelength. This finite-frequency theory will allow  us to take advantage of dense seismic arrays to obtain high-resolution surface-wave tomography using inter-station measurements.  The non-linear dependence of surface wave phase upon large perturbations in crustal thickness as well as finite-frequency effects in global surface-wave tomography are investigated using wave propagation simulations. Calculations show that non-linearity as well as finite-frequency effects can be accounted for by using 2D phase-velocity kernels for boundary perturbations. A 3D-reference tomographic approach is developed for iterative inversions of global crustal structure where Frechet kernels  are calculated in 3D reference models.  A global dataset of minor-arc and major-arc Rayleigh wave dispersion measurements at periods between 25 seconds and 100 seconds are built and global phase velocity maps based on the dataset are obtained using diffractional tomography. The phase velocity model confirms many general features associated with surface tectonics including the ocean-continent dichotomy and the signature of lithospheric cooling in oceanic plates. There are significant differences between the phase velocity model and calculations based on a current global model CRUST2.0+S20RTS in oceanic regions, Archean and Proterozoic cratons as well as orogenic belts. In addition, the high resolution phase velocity maps  reveal a major change in the distribution of small scale anomalies in the Pacific at different wave periods.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-12T09:00:11Z (GMT). No. of bitstreams: 1 Liu_K_D_2014.pdf: 18280150 bytes, checksum: 7fd45b7af6e56e85ee5574b951da139c (MD5)   Previous issue date: 2014-02-11",
+  "format_medium": "ETD",
+  "handle": "25428",
+  "identifier_other": "vt_gsexam:1849",
+  "identifier_uri": "http://hdl.handle.net/10919/25428",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Surface waves",
+    "Global crustal structure",
+    "Diffractional seismic tomography"
+  ],
+  "title": "Surface Wave Propagation and Global Crustal Tomography",
+  "type": "Dissertation"
+}

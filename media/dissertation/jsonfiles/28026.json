@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Rappold, Patrick Matthew",
+  "contributor_committeecochair": [
+    "Kline, D. Earl",
+    "Bond, Brian H."
+  ],
+  "contributor_committeemember": [
+    "Wiedenbeck, Janice K.",
+    "Shewchuk, John P.",
+    "Smith, Robert L."
+  ],
+  "contributor_department": "Wood Science and Forest Products",
+  "date_accessioned": "2014-03-14T20:12:59Z",
+  "date_adate": "2006-07-31",
+  "date_available": "2014-03-14T20:12:59Z",
+  "date_issued": "2006-06-02",
+  "date_rdate": "2006-07-31",
+  "date_sdate": "2006-06-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this research was to quantify the impact of the log variables: length, grade, and scaling diameter, on the cost of producing hardwood lumber, using the activity-based costing technique. The usual technique of calculating hardwood lumber product costs is based upon traditional cost accounting, where manufacturing costs are allocated to the products based upon the volume of each product that is produced. With the traditional cost accounting procedure, the variation in the resources used to process the logs is not taken into consideration. As a result, when the cost to manufacture the products is subtracted from the market value of the products, the resulting profit levels of the products may not be truly representative of the actual resources consumed in manufacturing the product.  Using discrete-event simulation, two hardwood sawmills were modeled and a series of experiments were conducted which would not have been feasible to conduct on the mill floors. Results from the simulation experiments illustrated that the activity-based and traditional cost accounting techniques allocated different amounts of manufacturing costs to the products. The largest difference between the two cost accounting techniques was found to be the amount of raw material costs allocated to the products. For one of the sawmills modeled, log grade was identified as having the greatest influence on determining product costs and total manufacturing costs. Results from the model of the second sawmill however demonstrated that log diameter had a greater impact on determining product costs and total manufacturing costs. The commonality of the results from the two simulation models was that the differences in the volume of lumber produced, between the logs that were studied, was a critical component in determining which log parameter had the most effect on changing the dynamics of the sawmill system. To enable hardwood managers a more precise method of allocating raw material costs to the lumber products, a methodology was developed that uses the principles of activity-based costing to allocate raw material costs. The proposed methodology, termed the lumber yield method, uses lumber yield values from logs with similar characteristics to allocate raw material costs to the lumber products. Analysis of the output from the simulation models illustrated that with the lumber yield method, the amount of raw material costs allocated to the products was not significantly different than the amount allocated by the activity-based costing method. The calculated raw material costs of the products were however, found to be significantly different between the lumber yield method and the traditional volume costing method.",
+  "description_provenance": [
+    "Author Email: prappold@vt.edu",
+    "Advisor Email: jwiedenbeck@fs.fed.us",
+    "Advisor Email: kline@vt.edu",
+    "Advisor Email: bbond@vt.edu",
+    "Advisor Email: shewchuk@vt.edu",
+    "Advisor Email: rsmith4@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:59Z (GMT). No. of bitstreams: 5 Rappold_Dissertation.pdf: 2440581 bytes, checksum: eccb1c0173681509f6bfce86abcb20d6 (MD5) Simulation_Models.zip: 11167780 bytes, checksum: b7bec982712e02b88d45fb69298b3069 (MD5) SIMAN_code_for_model_of_the_large_volume_sawmill.txt: 266077 bytes, checksum: 064ab6362010fe891a444bf2cdc3058d (MD5) SIMAN_code_for_the_model_of_the_medium_volume_sawmill.txt: 131781 bytes, checksum: e40fa047bae1c5c41bfd17798add5040 (MD5) Instructions_for_the_simulation_models.txt: 515 bytes, checksum: 8468ae97850c427f2561ff7176ea74e1 (MD5)   Previous issue date: 2006-06-02"
+  ],
+  "handle": "28026",
+  "identifier_other": "etd-06122006-162052",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06122006-162052/",
+  "identifier_uri": "http://hdl.handle.net/10919/28026",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Rappold_Dissertation.pdf",
+    "Simulation_Models.zip",
+    "SIMAN_code_for_model_of_the_large_volume_sawmill.txt",
+    "SIMAN_code_for_the_model_of_the_medium_volume_sawmill.txt",
+    "Instructions_for_the_simulation_models.txt"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "discrete-event simulation",
+    "product costing",
+    "activity-based costing",
+    "hardwood sawmill"
+  ],
+  "title": "Activity-based product costing in a hardwood sawmill through the use of discrete-event simulation",
+  "type": "Dissertation"
+}

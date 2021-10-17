@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Ibrahim, Jihad E",
+  "contributor_committeechair": "Buehrer, Richard Michael",
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "da Silva, Claudio R. C. M.",
+    "Hou, Yiwei Thomas",
+    "Taaffe, Michael R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:07Z",
+  "date_adate": "2007-03-26",
+  "date_available": "2014-03-14T20:07:07Z",
+  "date_issued": "2007-01-25",
+  "date_rdate": "2010-03-26",
+  "date_sdate": "2007-02-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Impulse-based Ultra Wideband (UWB) radio technology has recently gained significant research attention for various indoor ranging, sensing and communications applications due to the large amount of allocated bandwidth and desirable properties of UWB signals (e.g., improved timing resolution or multipath fading mitigation). However, most of the applications have focused on indoor environments where the UWB channel is characterized by tens to hundreds of resolvable multipath components. Such environments introduce tremendous complexity challenges to traditional radio designs in terms of signal detection and synchronization. Additionally, the extremely wide bandwidth and shared nature of the medium means that UWB receivers must contend with a variety of interference sources. Traditional interference mitigation techniques are not amenable to UWB due to the complexity of straight-forward translations to UWB bandwidths. Thus, signal detection, synchronization and interference mitigation are open research issues that must be met in order to exploit the potential benefits of UWB systems. This thesis seeks to address each of these three challenges by first examining and accurately characterizing common approaches borrowed from spread spectrum and then proposing new methods which provide an improved trade-off between complexity and performance.",
+  "description_provenance": [
+    "Author Email: jibrahim@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: taaffe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:07Z (GMT). No. of bitstreams: 1 Ibrahim_March20.pdf: 2165155 bytes, checksum: 755f94da8db8727b35789a7af4a849a6 (MD5)   Previous issue date: 2007-01-25"
+  ],
+  "handle": "26105",
+  "identifier_other": "etd-02032007-110816",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02032007-110816/",
+  "identifier_uri": "http://hdl.handle.net/10919/26105",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ibrahim_March20.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "narrowband interference (NBI)",
+    "synchronization",
+    "multipath channel",
+    "Ultra wideband"
+  ],
+  "title": "Algorithms and Architectures for UWB Receiver Design",
+  "type": "Dissertation"
+}

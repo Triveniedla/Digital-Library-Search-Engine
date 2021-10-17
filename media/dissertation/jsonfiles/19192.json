@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Lamont, Justin Andrew",
+  "contributor_committeechair": "Ekkad, Srinath",
+  "contributor_committeemember": [
+    "Tafti, Danesh K",
+    "Roy, Christopher John",
+    "Ng, Wing Fai",
+    "Stern, Curtis H"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-02-19T22:31:45Z",
+  "date_available": "2013-02-19T22:31:45Z",
+  "date_issued": "2012-11-27",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Heat transfer inside rotating coolant channels have a significant impact in design of gas turbine airfoils and other rotating components such as generator windings.  The effects of the Coriolis acceleration and centrifugal buoyancy have a significant impact on heat transfer behavior inside such rotating coolant channels due to the complex flow patterns of coolant.  Detailed heat transfer knowledge greatly enhances the designers\\' ability to validate numerical models of newly designed channels. A rotating experimental rig was designed and built to model scaled up coolant channels at speeds up to 750 rotations per minute (rpm).  A camera is mounted onto the rotating test section and a transient liquid crystal technique is used to measure detailed heat transfer coefficients on a surface of interest.  The experimental set-up is innovative, as it involves no surface heating of the test section, very little instrumentation beyond a few thermocouples and a spray coating of thermochromic liquid crystals on the test surface.  To validate the test rig and the experimental method, multipass coolant channels with rib turbulators, large diameter radially outward channels with rib turbulators, and jet impingement cooling schemes are studied during rotation.  90deg, W, and M-shaped rib enhancements are studied and detailed heat transfer measurements clearly capture the heat transfer enhancement mechanisms with and without rotation.  Jet impingement schemes with single and double rows, normal and off-angle jets, and a cross flow outlet condition are all studied under rotation.  Non-rotating studies are also performed for baseline comparisons to rotating conditions.  Large aspect ratio, diverging channels with dimple and rib turbulators are studied in a stationary condition.  Results for all different test geometries show good comparisons with published studies indicating that the rotating rig and experimental method are valid.  Jet impingement schemes produce higher heat transfer compared to the two-pass channels with ribs, however pressure losses are significantly higher.  The fewer the jets and H/d=1 produces the highest pressure losses with no significant gain in heat transfer.  Off angle jets at H/d=1 produces very high pressure losses with no heat transfer advantage.  A final study with radially outward coolant channels is performed with the highest rotation speeds.  The structure, test section, and camera are thoroughly designed to withstand the exceptional g-forces.  Heat transfer in the radial channels with and without rotation show very little effect of rotation due to the small rotation number.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:31:45Z (GMT). No. of bitstreams: 1 Lamont_JA_D_2012.pdf: 18294237 bytes, checksum: 7f1aad107772712f474822c206d5f443 (MD5)   Previous issue date: 2012-11-27",
+  "format_medium": "ETD",
+  "handle": "19192",
+  "identifier_other": "vt_gsexam:45",
+  "identifier_uri": "http://hdl.handle.net/10919/19192",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Heat Transfer",
+    "Gas Turbine Cooling",
+    "Stator Winding Cooling",
+    "Rotor Winding Cooling",
+    "Liquid Crystal Thermography"
+  ],
+  "title": "Heat Transfer in Stationary and Rotating Coolant Channels Using a Transient Liquid Crystal Technique",
+  "type": "Dissertation"
+}

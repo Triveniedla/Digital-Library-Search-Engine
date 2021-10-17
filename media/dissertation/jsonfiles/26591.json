@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Jones III, Creed Farris",
+  "contributor_committeechair": "Abbott, A. Lynn",
+  "contributor_committeemember": [
+    "Conners, Richard W.",
+    "Ehrich, Roger W.",
+    "Jacobs, Ira",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:45Z",
+  "date_adate": "2005-04-26",
+  "date_available": "2014-03-14T20:08:45Z",
+  "date_issued": "2004-12-13",
+  "date_rdate": "2005-04-26",
+  "date_sdate": "2005-04-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation reports the development of a technique for automated face recognition, using color images.  One of the more powerful techniques for recognition of faces in monochromatic images has been extended to color by the use of hypercomplex numbers called quaternions.  Two software implementations have been written of the new method and the analogous method for use on monochromatic images.  Test results show that the new method is superior in accuracy to the analogous monochrome method. Although color images are generally collected, the great majority of published research efforts and of commercially available systems use only the intensity features.  This surprising fact provided motivation to the three thesis statements proposed in this dissertation. The first is that the use of color information can increase face recognition accuracy.  Face images contain many features, some of which are only easily distinguishable using color while others would seem more robust to illumination variation when color is considered. The second thesis statement is that the currently popular technique of graph-based face analysis and matching of features extracted from application of a family of Gabor filters can be extended to use with color.  A particular method of defining a filter appropriate for color images is used; the usual complex Gabor filter is adapted to  the domain of quaternions..  Four alternative approaches to the extension of complex Gabor filters to quaternions are defined and discussed; the most promising is selected and used as the basis for subsequent implementation and experimentation. The third thesis statement is that statistical analysis can identify portions of the face image that are highly relevant â   i.e., locations that are especially well suited for use in face recognition systems.  Conventionally, the Gabor-based graph method extracts features at locations that are equally spaced, or perhaps selected manually on a non-uniform graph.  We have defined a relevance image, in which the intensity values are computed from the intensity variance across a number of images from different individuals and the mutual information between the pixel distributions of sets of images from different individuals and the same individual. A complete software implementation of the new face recognition method has been developed.  Feature vectors called jets are extracted by application of the novel quaternion Gabor filter, and matched against models of other faces.  In order to test the validity of the thesis statements, a parallel software implementation of the conventional monochromatic Gabor graph method has been developed and side-by-side testing has been conducted.  Testing results show accuracy increases of 3% to 17% in the new color-based method over the conventional monochromatic method.  These testing results demonstrate that color information can indeed provide a significant increase in accuracy, that the extension of Gabor filters to color through the use of quaternions does give a viable feature set, and that the face landmarks chosen via statistical methods do have high relevance for face discrimination.",
+  "description_provenance": [
+    "Author Email: creedj@spu.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: rehrich@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:45Z (GMT). No. of bitstreams: 1 CJonesDissertation-ColorFaceRecognition.pdf: 2903934 bytes, checksum: ae301493b00297cd2453dfd86a8b0c49 (MD5)   Previous issue date: 2004-12-13"
+  ],
+  "handle": "26591",
+  "identifier_other": "etd-04022005-235756",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04022005-235756/",
+  "identifier_uri": "http://hdl.handle.net/10919/26591",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CJonesDissertation-ColorFaceRecognition.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "color",
+    "face recognition",
+    "image processing",
+    "quaternions",
+    "biometrics"
+  ],
+  "title": "Color Face Recognition using Quaternionic Gabor Filters",
+  "type": "Dissertation"
+}

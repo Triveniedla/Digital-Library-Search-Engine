@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Singh, Hermanpreet",
+  "contributor_committeechair": "Gracanin, Denis",
+  "contributor_committeemember": [
+    "Ehrich, Roger W",
+    "Bukvic, Ivica",
+    "Feng, Wu-Chun",
+    "Bohner, Shawn A"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-05-02T08:00:34Z",
+  "date_available": "2013-05-02T08:00:34Z",
+  "date_issued": "2013-05-01",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "A Distributed Virtual Environment (DVE) system provides a shared virtual environment where physically separated users can interact and collaborate over a computer network. More simultaneous DVE users could result in intolerable system performance degradation. We address the three major challenges to improve DVE scalability: effective DVE system performance measurement, understanding the controlling factors of system performance/quality and determining the consequences of DVE system changes.   We propose a DVE Scalability Engineering (DSE) process that addresses these three major challenges for DVE design. DSE allow us to identify, evaluate, and leverage trade-offs among DVE resources, the DVE software, and the virtual environment. DSE has three stages. First, we show how to simulate different numbers and types of users on DVE resources. Collected user study data is used to identify representative user types. Second, we describe a modeling method to discover the major trade-offs between quality of service and DVE resource usage. The method makes use of a new instrumentation tool called ppt. ppt collects atomic blocks of developer-selected instrumentation at high rates and saves it for offline analysis. Finally, we integrate our load simulation and modeling method into a single process to explore the effects of changes in DVE resources.   We use the simple Asteroids DVE as a minimal case study to describe the DSE process. The larger and commercial Torque and Quake III DVE systems provide realistic case studies and demonstrate DSE usage. The Torque case study shows the impact of many users on a DVE system. We apply the DSE process to significantly enhance the Quality of Experience given the available DVE resources. The Quake III case study shows how to identify the DVE network needs and evaluate network characteristics when using a mobile phone platform. We analyze the trade-offs between power consumption and quality of service.   The case studies demonstrate the applicability of DSE for discovering and leveraging tradeoffs between Quality of Experience and DVE resource usage. Each of the three stages can be used individually to improve DVE performance. The DSE process enables fast and effective DVE performance improvement.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-02T08:00:34Z (GMT). No. of bitstreams: 1  Singh_H_D_2013.pdf: 7814694 bytes, checksum: 81b62d535d632fd45fddefea60eab36f (MD5)    Previous issue date: 2013-05-01",
+  "format_medium": "ETD",
+  "handle": "20372",
+  "identifier_other": "vt_gsexam:741",
+  "identifier_uri": "http://hdl.handle.net/10919/20372",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Scalability",
+    "Distributed Virtual Environments",
+    "Virtual Reality"
+  ],
+  "title": "Controlling Scalability in Distributed Virtual Environments",
+  "type": "Dissertation"
+}

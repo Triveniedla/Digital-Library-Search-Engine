@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Al-Masalha, Sami",
+  "contributor_committeechair": "Wakefield, Ronald R.",
+  "contributor_committeemember": [
+    "O'Brien, Michael J.",
+    "Schubert, Robert P.",
+    "Beliveau, Yvan J.",
+    "Mills, Thomas H."
+  ],
+  "contributor_department": "Environmental Design and Planning",
+  "date_accessioned": "2014-03-14T20:08:32Z",
+  "date_adate": "2006-03-13",
+  "date_available": "2014-03-14T20:08:32Z",
+  "date_issued": "2004-08-02",
+  "date_rdate": "2007-03-13",
+  "date_sdate": "2005-03-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A Common Taxonomy for Modeling Construction Operations By Sami Al-Masalha Ron Wakefield, Chairman Department of Building Construction Environmental Design and Planning Ph.D. Program (ABSTRACT) The construction industry continues to strive for new ways to improve construction operations. This requires better understanding and analysis of these operations, which necessitates a way to systematically capture and analyze the diverse elements involved. The dynamic nature of construction is very difficult to describe using existing computer simulation and modeling systems. What is needed is rather a common construction language and a comprehensive modeling system that can be used to capture and analyze construction operations and potentially lead to improvements. A new taxonomy and its use for modeling construction operations are developed here. This taxonomy identifies a hierarchical representation of construction projects based on operational considerations. The hierarchy consists of seven levels: product, assemblies and subassemblies, components, operations, processes, physics, and control. The hierarchical levels were established by looking in the ways that construction field ii operations are being carried out. The new modeling system successfully accounts for the geometric and physical representations of not only the product but also the processes involved in shaping the product. Six major blocks of construction knowledge are described and information about the interaction processes required to model construction operations in a logical way is provided. An overview of the current state of modeling and simulation techniques that are used to develop and evaluate construction operations is presented. The advantages and limitations of physical-based modeling, 4D-CAD, and virtual modeling techniques as an integral part of the developed taxonomy are identified. The potential uses of robotics and automation opportunities in construction are described. Also, distribution of work between humans and tools and equipment based on their physical and information contributions are reviewed and analyzed. Classifications of construction work at different levels of detail are described to identify which operations can be usefully modeled and the appropriate level of the model. Two practical case studies are discussed that show the capabilities and potential uses of the developed taxonomy. The first case study describes the modeling process of the fabrication, assembly, and erection of steel structures. The second exploratory case study shows the potential use of the developed modeling in improving the heat recovery system generatorâ  s (HRSG) erection process. Also, prototype models and 3D models of the HRSG assemblies are developed. Both case studies validate with great confidence the use of the developed taxonomy as a direct support tool that captures the diverse elements and enhances the modeling and analysis to improve construction operations.",
+  "description_provenance": [
+    "Author Email: salmasal@yahoo.com",
+    "Advisor Email: silver@vt.edu",
+    "Advisor Email: ronwak@vt.edu",
+    "Advisor Email: yvan@vt.edu",
+    "Advisor Email: thommill@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:32Z (GMT). No. of bitstreams: 1 PhDDissertationforSamiAlmasalha_rev1.pdf: 4820764 bytes, checksum: 5acab98ef6d9bf0a549428994e7a418e (MD5)   Previous issue date: 2004-08-02"
+  ],
+  "handle": "26518",
+  "identifier_other": "etd-03272005-092430",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03272005-092430/",
+  "identifier_uri": "http://hdl.handle.net/10919/26518",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhDDissertationforSamiAlmasalha_rev1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Virtual Modeling.",
+    "Construction Taxonomy",
+    "Modeling of Construction Operations",
+    "Construction simulation"
+  ],
+  "title": "A Common Taxonomy for Modeling Construction Operations",
+  "type": "Dissertation"
+}

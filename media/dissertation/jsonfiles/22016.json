@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Elglaly, Yasmine Nader Mohamed",
+  "contributor_committeechair": "Quek, Francis",
+  "contributor_committeemember": [
+    "Ehrich, Roger W",
+    "Gracanin, Denis",
+    "Smith-Jackson, Tonya L",
+    "Rizk, Mohamed Rizk Mohamed"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-05-07T08:00:25Z",
+  "date_available": "2013-05-07T08:00:25Z",
+  "date_issued": "2013-05-06",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In this research we introduce a novel reading system that enables Individuals with Blindness<br />or Severe Visual Impairment (IBSVI) to have equivalent spatial reading experience to their<br />sighted counterparts, in terms of being able to engage in different reading strategies e.g.<br />scanning, skimming, and active reading. IBSVI are enabled to read in a self-paced manner<br />with spatial access to the original layout of any electronic text document. This system<br />renders text on iPad-type devices, and reads aloud each word touched by the user\\'s finger.<br />The user could move her finger smoothly along the lines to read continuously with the<br />support of tactile landmarks. A tactile overlay on the iPad screen helps IBSVI to navigate<br />a page, furnishing a framework of tactile landmarks to give IBSVI a sense of place on the<br />page. As the user moves her finger along the tangible pattern of the overlay, the text on the<br />screen that is touched is rendered audibly to speech. The system supports IBSVI to develop<br />and maintain a cognitive map of the structure and the layout of the page. IBSVI are enabled<br />to fuse audio, tactile landmarks, and spatial information in order to read.<br />The system\\'s initial design is founded on a theoretical hypothesis. A participatory design<br />approach with IBSVI consultants was then applied to refine the initial design. The re\"fined<br />design was tested in a usability study, which revealed two major issues with the tested<br />design. These issues are related to the lack of instant feedback from the system (psycho-<br />motorical problem), and the lack of conveying the semantic level of the page structure.<br />We adapted the reader design to solve the usability problems. The improved design was<br />tested in an experience sampling study. The results showed a leap in the system usability.<br />IBSVI participants successfully self-paced read spatial text. Further reading support was<br />then added to the system to improve the user experience while reading and interacting with<br />the system. We tested the latest design of the reader system with respect to its featured<br />function of enabling self-paced reading and re-finding information. A decomposition study<br />was conducted to evaluate the main components of the system; the tactile overlay, and the<br />intelligent active reading support. The results showed that both components are required<br />to achieve the best performance in terms of efficiency, effectiveness, and spatial perception.<br />We conducted an evaluation study to compare our reader system to the state-of-the-art<br />iBook with VoiceOver. The results show that our reader system is more effective than iBook<br />with VoiceOver in finding previously read information and in estimating the layout of the<br />page, implying that IBSVI were able to construct a cognitive map for the pages they read,<br />and perform advanced reading strategies. Our goal is to to enable IBSVI to access digital<br />reading materials effectively, so that they may have equal learning opportunities as their<br />sighted counterparts.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-07T08:00:25Z (GMT). No. of bitstreams: 2 Elglaly_YN_D_2013.pdf: 14812027 bytes, checksum: c7d321c26e7424ff3254294d171ea236 (MD5) Elglaly_YN_D_2013_support_1.pdf: 424523 bytes, checksum: 3146328f4b1ceceef35c229991f6f7ca (MD5)   Previous issue date: 2013-05-06",
+  "format_medium": "ETD",
+  "handle": "22016",
+  "identifier_other": "vt_gsexam:479",
+  "identifier_uri": "http://hdl.handle.net/10919/22016",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Active reading",
+    "Audio rendering",
+    "Spatial cognition",
+    "Multimodality",
+    "Blindness",
+    "Touch devices",
+    "Assistive technology"
+  ],
+  "title": "Spatial Reading System for Individuals with Blindness",
+  "type": "Dissertation"
+}

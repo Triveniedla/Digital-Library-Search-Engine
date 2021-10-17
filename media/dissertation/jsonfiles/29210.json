@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Zhou, Aixi",
+  "contributor_committeechair": "Lesko, John J.",
+  "contributor_committeecochair": "Cousins, Thomas E.",
+  "contributor_committeemember": [
+    "Batra, Romesh C.",
+    "Librescu, Liviu",
+    "Case, Scott W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:17:08Z",
+  "date_adate": "2002-11-07",
+  "date_available": "2014-03-14T20:17:08Z",
+  "date_issued": "2002-09-26",
+  "date_rdate": "2003-11-07",
+  "date_sdate": "2002-10-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research investigates two principal characteristics that are of primary importance in Fiber Reinforced Polymer (FRP) bridge deck applications: STIFFNESS and STRENGTH. The research was undertaken by investigating the stiffness and strength characteristics of the multi-cellular FRP bridge deck systems consisting of pultruded FRP shapes.    A systematic analysis procedure was developed for the stiffness analysis of multi-cellular FRP deck systems. This procedure uses the Method of Elastic Equivalence to model the cellular deck as an equivalent orthotropic plate. The procedure provides a practical method to predict the equivalent orthotropic plate properties of cellular FRP decks. Analytical solutions for the bending analysis of single span decks were developed using classical laminated plate theory. The analysis procedures can be extended to analyze continuous FRP decks. It can also be further developed using higher order plate theories.   Several failure modes of the cellular FRP deck systems were recorded and analyzed through laboratory and field tests and Finite Element Analysis (FEA). Two schemes of loading patches were used in the laboratory test: a steel patch made according to the ASSHTO's bridge testing specifications; and a tire patch made from a real truck tire reinforced with silicon rubber. The tire patch was specially designed to simulate service loading conditions by modifying real contact loading from a tire. Our research shows that the effects of the stiffness and contact conditions of loading patches are significant in the stiffness and strength testing of FRP decks. Due to the localization of load, a simulated tire patch yields larger deflection than the steel patch under the same loading level. The tire patch produces significantly different failure compared to the steel patch: a local bending mode with less damage for the tire patch; and a local punching-shear mode for the steel patch. A deck failure function method is proposed for predicting the failure of FRP decks. Using developed laminated composite theories and FEA techniques, a strength analysis procedure containing ply-level information was proposed and detailed for FRP deck systems.  The behavior of the deck's unsupported (free) edges was also investigated using ply-level FEA.",
+  "description_provenance": [
+    "Author Email: azhou@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: tcousins@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:08Z (GMT). No. of bitstreams: 1 Dissertation_AZhou.pdf: 11377768 bytes, checksum: 5e50236b69f7510aeea17158371c45e6 (MD5)   Previous issue date: 2002-09-26"
+  ],
+  "handle": "29210",
+  "identifier_other": "etd-10072002-164345",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10072002-164345/",
+  "identifier_uri": "http://hdl.handle.net/10919/29210",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_AZhou.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "FRP Composites",
+    "Stiffness Analysis",
+    "Strength Analysis",
+    "Bridge Deck"
+  ],
+  "title": "Stiffness and Strength of Fiber Reinforced Polymer Composite Bridge Deck Systems",
+  "type": "Dissertation"
+}

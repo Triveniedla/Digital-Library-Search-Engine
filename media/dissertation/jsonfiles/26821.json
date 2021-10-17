@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Lancaster, Jeff A",
+  "contributor_committeechair": "Casali, John G.",
+  "contributor_committeemember": [
+    "Lockhart, Thurmon E.",
+    "Trani, Antoino A.",
+    "Kleiner, Brian M.",
+    "Robinson, Gary S."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:09:31Z",
+  "date_adate": "2004-04-19",
+  "date_available": "2014-03-14T20:09:31Z",
+  "date_issued": "2004-04-09",
+  "date_rdate": "2004-04-19",
+  "date_sdate": "2004-04-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Empirical studies of general aviation (GA) pilot performance are lacking, especially with respect to envisioned future requirements.  Two research studies were conducted to evaluate human performance using new technologies.  In the first study, ten participants completed the Modified Rhyme Test (MRT) in an effort to compare the intelligibility of two text-to-speech (TTS) engines (DECtalk and AT&Tâ  s Natural Voices) as presented in 85 dB(A) aircraft cockpit engine noise.  Results indicated significant differences in intelligibility (p Â£ 0.05) between the two speech synthesizers across the tested speech-to-noise ratios (S/N) (i.e., â  5 dB, -8 dB, and â  11 dB S/N) with the AT&T engine resulting in superior intelligibility in all of the S/N.  The AT&T product was therefore selected as the TTS engine for the second study.    In the second study, 16 visual flight rules (VFR) rated pilots were evaluated for their data link performance using a flight simulator (ELITE i-GATE) equipped with a mixed-modality simulated data link within one of two flight conditions.  Data link modalities included textual, synthesized speech, digitized speech, and synthesized speech/textual combination.  Flight conditions included VFR (unlimited ceiling, visibility) or marginal VFR (MVFR) flight conditions (clouds 2800 feet above ground level [AGL], three miles visibility).   Evaluation focused on the time required accessing, understanding, and executing data link commands. Additional data were gathered to evaluate workload, situation awareness, and subjective preference.   Results indicated significant differences in pilot performance, mental workload, and situation awareness across the data link modalities and between flight conditions.  Textual data link resulted in decreased performance while the other three data link conditions did not differ in performance.  Workload evaluation indicated increased workload in the textual data link condition.  Situation awareness (SA) measures indicated differences in perceived SA between flight conditions while objective SA measures differed across data link conditions.  Actual or potential applications of this research include guidance in the development of flight performance objectives for future GA systems. Other applications include guidance in the integration of automated voice technologies in the cockpit and/or in similar systems that present elevated levels of background noise during normal communications and auditory display operations.",
+  "description_provenance": [
+    "Author Email: jlancast@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: grobins@vt.edu",
+    "Advisor Email: jcasali@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:31Z (GMT). No. of bitstreams: 1 Dissertation.JeffALancaster.pdf: 1891450 bytes, checksum: df2ad731875b0a5cb969b783e6f52984 (MD5)   Previous issue date: 2004-04-09"
+  ],
+  "handle": "26821",
+  "identifier_other": "etd-04132004-084749",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04132004-084749/",
+  "identifier_uri": "http://hdl.handle.net/10919/26821",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.JeffALancaster.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mixed-modality",
+    "Situation awareness",
+    "Workload",
+    "Pilot performance",
+    "Data link"
+  ],
+  "title": "Investigating Pilot Performance Using Mixed-Modality Simulated Data Link",
+  "type": "Dissertation"
+}

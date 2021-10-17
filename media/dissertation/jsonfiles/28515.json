@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Khalaf, Yaser A.",
+  "contributor_committeechair": "Riad, Sedki Mohamed",
+  "contributor_committeemember": [
+    "Elshabini-Riad, Aicha A.",
+    "Besieris, Ioannis M.",
+    "El-Ghazaly, Samir M.",
+    "Scales, Wayne A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "2000-08-09",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "2000-07-24",
+  "date_rdate": "2001-08-09",
+  "date_sdate": "2000-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Accurate small and large-signal models of metal-semiconductor field effect transistor (MESFET) devices are essential in all modern microwave and millimeter wave applications. Those models are used for robust designs and fabrication development. The sophistication of modern communication systems urged the need of monolithic microwave integrated circuits (MMICs), which consists of many MESFETs on the same chip. As the chip density increases, the need of accurate MESFET models becomes more pronounced. In this study, a new technique has been developed to extract a 15-element small signal model of MESFET devices. This technique implies the use of three sets of S-parameter measurements at different bias conditions. The technique consists of two major steps; in the first step, some of the bias-independent extrinsic parameters are estimated in preparation for the second step. In the second step, all other parameters should be extracted at the bias point of interest. This technique shows reliable results. Unlike other optimization techniques, our proposed technique shows insensitivity to the unavoidable measurement errors over any frequency range. It shows a unique solution for all parameter values. This technique has been tested on S-parameters of a hypothetical device model and compared with other optimization-based extraction techniques. Moreover, it has been also applied to GaAsTEK 0.8x300 Î¼m2 MESFETs to extract the model parameters at different bias voltages. The study reveals accurate and consistent results among the similar devices on the same wafer. Some thermal characteristics of the small-signal parameters are discussed. The parameters are extracted from measurements at three temperatures for two similar devices on the same wafer. The thermal results of the two devices demonstrate consistent results, which assure the preciseness, and robustness of our proposed technique. In addition, the relation between the small-signal model parameters and the large signal model parameters is also presented. The parameters of an empirical model for the drain-source current are extracted from the dc measurements along with the small-signal transconductance and output conductance. The large-signal model results for a GaAsTEK 0.8x300 Î¼m2 MESFET are introduced.",
+  "description_provenance": [
+    "Author Email: ykhalaf@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1575671 bytes, checksum: 992988fa39e331be5479b320c1ec9f41 (MD5)   Previous issue date: 2000-07-24"
+  ],
+  "handle": "28515",
+  "identifier_other": "etd-08042000-17470052",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08042000-17470052/",
+  "identifier_uri": "http://hdl.handle.net/10919/28515",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Optimization",
+    "MESFET",
+    "semiconductor",
+    "Small-Signal model",
+    "Large-Signal model",
+    "Transistor",
+    "Modeling"
+  ],
+  "title": "Systematic Optimization Technique for MESFET Modeling",
+  "type": "Dissertation"
+}

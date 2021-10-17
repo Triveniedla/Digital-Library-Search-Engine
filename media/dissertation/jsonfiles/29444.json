@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Williams, Larry D.",
+  "contributor_committeechair": "Carlier, Paul R.",
+  "contributor_committeemember": [
+    "Tanko, James M.",
+    "Kingston, David G. I.",
+    "Crawford, Daniel T.",
+    "Etzkorn, Felicia A."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:17:54Z",
+  "date_adate": "2008-11-19",
+  "date_available": "2014-03-14T20:17:54Z",
+  "date_issued": "2008-10-28",
+  "date_rdate": "2011-09-05",
+  "date_sdate": "2008-11-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Acetylcholinesterase (AChE) terminates cholinergic neurotransmission by catalyzing the hydrolysis of the neurotransmitter acetylcholine (ACh).  Inhibition of AChE has proven an effective treatment for the memory loss exhibited by early stage Alzheimerâ  s disease (AD) patients; four AChE inhibitors (AChEI) have been approved by the FDA for this purpose.  The first AChEI approved for the palliative treatment of AD-related memory loss was 9-amino-1,2,3,4-tetrahydroacridine (tacrine).  <p> \tInhibition of AChE may present either therapeutic or toxic effects depending upon the dose administered.  With the goal of discovering safe and effective pesticides to control the population of Anopheles gambiae, a malaria-transmitting mosquito indigenous to Sub-Saharan Africa, the reoptimization of the tacrine pharmacophore was undertaken.  Because the optimized drug would necessarily be a poor inhibitor for human AChE (hAChE), initial ligand design focused on modification to tacrine known to negatively impact the inhibition potency for hAChE.  Ultimately, an AChEI was discovered, which exhibited micromolar inhibition of Anopheles gambiae AChE (AgAChE) and essentially no potency for hAChE.  Two units of this lead compound were tethered through an alkyl chain to yield a nanomolar inhibitor of AgAChE that was more than 1,100-fold selective for the mosquito enzyme over hAChE.<p> \tDimerization of an active inhibitor is an effective strategy to increase the potency and selectivity of AChEI, and many examples of tacrine hetero- and homodimers complexed to AChE can be found in the RCSB Protein Data Bank (PDB).  The bond formed between the exocyclic amine moiety and the heterocyclic ring system of tacrine is analogous to an amide bond when tacrine is protonated.  Therefore, the rotational profile of protonated N-alkyltacrine should exhibit a conformational profile in which dihedral angles significantly out of the plane formed by the ring system are associated with high energies relative to those when the dihedral angles are nearly coplanar with the ring system.  The barrier of rotation (Î Gâ ¡) produced by this phenomenon in two tacrine derivatives and two quinoline derivatives was experimentally   determined using dynamic 1H NMR.  These values were compared to density functional theory (DFT) derived values for the same phenomenon. Furthermore, since the Î Gâ ¡ proved to be impossible to experimentally determine for the optimal model compound for the active site portion of tacrine dimers, N-methyltacrine, the DFT method employed for modeling the Î Gâ ¡ of the tacrine and quinoline analogs was used to computationally derive the entire rotational conformation diagram of N-methyltacrine.  The calculated values were then used to comment on the relative energies of adopting certain conformations found in the X-ray crystal structures of dimer/AChE complexes.",
+  "description_provenance": [
+    "Author Email: LDouglasWilliams@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Advisor Email: dkingston@vt.edu",
+    "Advisor Email: pcarlier@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Advisor Email: fetzkorn@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:54Z (GMT). No. of bitstreams: 1 LarryWilliamsDissertation3.pdf: 18357225 bytes, checksum: 45b330c3a485409851e55c79c08da1ac (MD5)   Previous issue date: 2008-10-28"
+  ],
+  "handle": "29444",
+  "identifier_other": "etd-11032008-143845",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11032008-143845/",
+  "identifier_uri": "http://hdl.handle.net/10919/29444",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LarryWilliamsDissertation3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bump-hole",
+    "density functional theory",
+    "acetylcholinesterase",
+    "coalescence",
+    "tacrine"
+  ],
+  "title": "Experimental and Computational Investigation of Tacrine-Based Inhibitors of Acetylcholinesterase",
+  "type": "Dissertation"
+}

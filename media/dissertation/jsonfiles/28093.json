@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Rolling, August Jameson",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Boyer, Keith M.",
+    "Hallauer, William L. Jr.",
+    "MacLean, Matthew",
+    "Kapania, Rakesh K."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:25Z",
+  "date_adate": "2007-07-05",
+  "date_available": "2014-03-14T20:13:25Z",
+  "date_issued": "2007-06-07",
+  "date_rdate": "2007-07-05",
+  "date_sdate": "2007-06-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research produced a new class of skin friction gages that measures wall shear even in shock environments.  One test specimen separately measured wall shear and variable-pressure induced moment.  Through the investigation of available computational modeling methods, techniques for accurately predicting gage physical responses were developed.  The culmination of these model combinations was a design optimization procedure.  This procedure was applied to three disparate test conditions: 1) short-duration, high-enthalpy testing, 2) blow-down testing, and 3) flight testing.  The resulting optimized gage designs were virtually tested against each set of nominal load conditions.  The finalized designs each successfully met their respective test condition constraints while maximizing strain output due to wall shear. \tThese gages limit sources of apparent strain: inertia, temperature gradient, and uniform pressure.  A unique use of bellows provided a protective shroud for surface strain gages.  Oil fill provided thermal and dynamic damping while eliminating uniform pressure as a source of output voltage.  Two Wheatstone bridge configurations were developed to minimize temperature effects first from temperature gradient and then from spatially varying heat flux induced gradient.  An inertia limiting technique was developed that parametrically investigated mass and center of gravity impact on strain output. \tMultiple disciplinary computational simulations of thermal, dynamic, shear, moment, inertia, and instrumentation interaction were developed.  Examinations of instrumentation error, settling time, filtering, multiple input dynamic response, and strain gage placement to avoid thermal gradient were conducted.  Detailed mechanical drawings for several gages were produced for fabrication and future testing.",
+  "description_provenance": [
+    "Author Email: arolling@vt.edu",
+    "Advisor Email: Keith.Boyer@USAFA.af.mil",
+    "Advisor Email: whallaue@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: maclean@cubrc.org",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:25Z (GMT). No. of bitstreams: 1 RollingVT2007July3.pdf: 3034146 bytes, checksum: a93901ffaa3d94dde6f15051dd955865 (MD5)   Previous issue date: 2007-06-07"
+  ],
+  "handle": "28093",
+  "identifier_other": "etd-06212007-161239",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06212007-161239/",
+  "identifier_uri": "http://hdl.handle.net/10919/28093",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RollingVT2007July3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wall shear",
+    "shock impingement",
+    "complex turbulent flow",
+    "skin friction"
+  ],
+  "title": "Design of Gages for Direct Skin Friction Measurements in Complex Turbulent Flows with Shock Impingement Compensation",
+  "type": "Dissertation"
+}

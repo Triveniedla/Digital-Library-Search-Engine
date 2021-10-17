@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Sha, Wei",
+  "contributor_committeechair": "Mendes, Pedro J. P.",
+  "contributor_committeemember": [
+    "Gibas, Cynthia J.",
+    "Sible, Jill C.",
+    "Tyson, John J.",
+    "Ye, Keying"
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:12:26Z",
+  "date_adate": "2006-06-12",
+  "date_available": "2014-03-14T20:12:26Z",
+  "date_issued": "2006-05-12",
+  "date_rdate": "2006-06-12",
+  "date_sdate": "2006-05-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Oxidative stress is a harmful condition in a cell, tissue, or organ, caused by an imbalance between reactive oxygen species or other oxidants and the capacity of antioxidant defense systems to remove them. These oxidants cause wide-ranging damage to macromolecules, including proteins, lipids, DNA and carbohydrates. Oxidative stress is an important pathophysiologic component of a number of diseases, such as Alzheimerâ  s disease, diabetes and certain cancers. Cells contain effective defense mechanisms to respond to oxidative stress. Despite much accumulated knowledge about these responses, their kinetics, especially the kinetics of early responses is still not clearly understood.   The Yap1 transcription factor is crucial for the normal response to a variety of stress conditions including oxidative stress. Previous studies on Yap1 regulation started to measure gene expression profile at least 20 minutes after the induction of oxidative stress. Genes and pathways regulated by Yap1 in early oxidative stress response (within 20 minutes) were not identified in these studies.   Here we study the kinetics of early oxidative stress response induced by the cumene hydroperoxide (CHP) in Saccharomyces cerevisiae wild type and yap1 mutant. Gene expression profiles after exposure to CHP were obtained in controlled conditions using Affymetrix Yeast Genome S98 arrays. The oxidative stress response was measured at 8 time points along 120 minutes after the addition of CHP, with the earliest time point at 3 minute after the exposure. Statistical analysis methods, including ANOVA, k-means clustering analysis, and pathway analysis were used to analyze the data. The results from this study provide a dynamic resolution of the oxidative stress responses in S. cerevisiae, and contribute to a richer understanding of the antioxidant defense systems. It also provides a global view of the roles that Yap1 plays under normal and oxidative stress conditions.",
+  "description_provenance": [
+    "Author Email: wsha@vt.edu",
+    "Advisor Email: mendes@vbi.vt.edu",
+    "Advisor Email: cgibas@uncc.edu",
+    "Advisor Email: siblej@vt.edu",
+    "Advisor Email: tyson@vt.edu",
+    "Advisor Email: keying.ye@utsa.edu",
+    "Made available in DSpace on 2014-03-14T20:12:26Z (GMT). No. of bitstreams: 1 Dissertation_WeiSha.pdf: 944624 bytes, checksum: 347b4160b73e144fa41e25c5ffcc1919 (MD5)   Previous issue date: 2006-05-12"
+  ],
+  "handle": "27840",
+  "identifier_other": "etd-05222006-155528",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05222006-155528/",
+  "identifier_uri": "http://hdl.handle.net/10919/27840",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_WeiSha.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "oxidative stress",
+    "microarray data analysis",
+    "cumeme hydroperoxide",
+    "Yap1"
+  ],
+  "title": "Microarray data analysis methods and their applications to gene expression data analysis for Saccharomyces cerevisiae under oxidative stress",
+  "type": "Dissertation"
+}

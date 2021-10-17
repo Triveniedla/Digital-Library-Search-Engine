@@ -1,0 +1,61 @@
+{
+  "contributor_author": "Cooke, Harry G.",
+  "contributor_committeechair": "Mitchell, James K.",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Duncan, James Michael",
+    "Martin, James R. II",
+    "Brandon, Thomas L."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:14:22Z",
+  "date_adate": "2000-07-27",
+  "date_available": "2014-03-14T20:14:22Z",
+  "date_issued": "2000-07-13",
+  "date_rdate": "2001-07-27",
+  "date_sdate": "2000-07-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The feasibility of using ground improvement at existing highway bridges to mitigate the risk of earthquake-induced liquefaction damage has been studied. The factors and phenomena governing the performance of the improved ground were identified and clarified. Potential analytical methods for predicting the treated ground performance were investigated and tested.  <p> Key factors affecting improved ground performance are the type, size, and location of the treated ground.  The improved ground behavior is influenced by excess pore water pressure migration, ground motion amplification, inertial force phasing, dynamic component of liquefied soil pressure, presence of a supported structure, and lateral spreading forces. <p> Simplified, uncoupled analytical methods were unable to predict the final performance of an improved ground zone and supported structure, but provided useful insights.  Pseudostatic stability and deformation analyses can not successfully predict the final performance because of their inability to adequately account for the transient response.  Equivalent-linear dynamic response analyses indicate that significant shear strains, pore water pressures and accelerations will develop in the improved ground when the treated-untreated soil system approaches resonance during shaking.  Transient seepage analyses indicate that evaluating pore pressure migration into a three-dimensional improved zone using two-dimensional analyses can underestimate the pore pressures in the zone. <p> More comprehensive, partially-coupled analyses performed using the finite difference computer program FLAC provided better predictions of treated ground performance.  These two-dimensional, dynamic analyses based on effective stresses incorporated pore pressure generation, non-linear stress-strain behavior, strength reduction, and groundwater flow. Permanent movements of structures and improved soil zones were predicted within a factor of approximately two.  Predictions of ground accelerations and pore water pressures were less accurate. <p> Dynamic analyses were performed with FLAC for an example bridge pier and stub abutment on an approach embankment supported on shallow foundations and underlain by thick, liquefiable soils with and without improved ground zones.  Ground improvement that restricted movements of the pier and stub abutment to tolerable levels included improved zones of limited size extending completely through the underlying liquefiable soils and formed through densification by compaction grouting or cementation by chemical grouting or jet grouting.  A buttress fill at the abutment was unsuccessful.",
+  "description_provenance": [
+    "Author Email: hcooke@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: jkm@vt.edu",
+    "Advisor Email: jmd@vt.edu",
+    "Advisor Email: jrm@vt.edu",
+    "Advisor Email: tbrandon@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:22Z (GMT). No. of bitstreams: 13 09chapter9.pdf: 120823 bytes, checksum: 74293b6ea6ac2dfb4c09e3a793898ef9 (MD5) CookeAbstract.pdf: 5831 bytes, checksum: eb3c14442ba9270f99543444d9a4c040 (MD5) 03chapter3.pdf: 278008 bytes, checksum: 3e4471ef039efb75d58e9de8105354bf (MD5) 08chapter8.pdf: 696016 bytes, checksum: 7ef864be7f3cefb23cce38fb3a05e5fd (MD5) 06chapter6.pdf: 753629 bytes, checksum: c99260ee036ffa74e9de7848d9aaccc2 (MD5) 01chapter1.pdf: 105753 bytes, checksum: 66ccc2fe829f27a21f4a6fddd290dbac (MD5) 02chapter2.pdf: 250831 bytes, checksum: 3fd3081d89901287e49619368c379a86 (MD5) 05chapter5.pdf: 488496 bytes, checksum: e2c113cba44ac446bf003d9afa3211c3 (MD5) 10references.pdf: 102002 bytes, checksum: 62ad5fe7a86fdc9ee5453770149b2185 (MD5) 07chapter7.pdf: 650668 bytes, checksum: 577bbf3a008fd9344cdedb3c713cdb09 (MD5) 11vitae.pdf: 40108 bytes, checksum: d2e533b855f2186e13f833490443f411 (MD5) 00etdcontent.pdf: 324476 bytes, checksum: a24392d58d154ce428851e8184e6e6f4 (MD5) 04chapter4.pdf: 228313 bytes, checksum: c013c5051738e2194dc32ee7c228080a (MD5)   Previous issue date: 2000-07-13"
+  ],
+  "handle": "28417",
+  "identifier_other": "etd-07272000-09570038",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07272000-09570038/",
+  "identifier_uri": "http://hdl.handle.net/10919/28417",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "09chapter9.pdf",
+    "CookeAbstract.pdf",
+    "03chapter3.pdf",
+    "08chapter8.pdf",
+    "06chapter6.pdf",
+    "01chapter1.pdf",
+    "02chapter2.pdf",
+    "05chapter5.pdf",
+    "10references.pdf",
+    "07chapter7.pdf",
+    "11vitae.pdf",
+    "00etdcontent.pdf",
+    "04chapter4.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "liquefaction",
+    "remediation",
+    "numerical modeling",
+    "earthquakes",
+    "ground improvement",
+    "bridges"
+  ],
+  "title": "Ground Improvement for Liquefaction Mitigation at Existing Highway Bridges",
+  "type": "Dissertation"
+}

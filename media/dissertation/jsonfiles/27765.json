@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Camargo, Hugo Elias",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeecochair": "Devenport, William J.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Paul, Mark R.",
+    "Johnson, Martin E."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:11Z",
+  "date_adate": "2010-06-08",
+  "date_available": "2014-03-14T20:12:11Z",
+  "date_issued": "2010-05-04",
+  "date_rdate": "2012-06-08",
+  "date_sdate": "2010-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new technique to de-Dopplerize microphone signals from moving sources of sound is derived. Currently available time domain de-Dopplerization techniques require oversampling and interpolation of the microphone time data. In contrast, the technique presented in this dissertation performs the de-Dopplerization entirely in the frequency domain eliminating the need for oversampling and interpolation of the microphone data. As a consequence, the new de-Dopplerization technique is computationally more efficient. \t<p> The new de-Dopplerization technique is then implemented into a frequency domain beamforming algorithm to locate moving sources of sound. The mathematical formulation for the implementation of the new de-Dopplerization technique is presented for sources moving along a linear trajectory and for sources moving along a circular trajectory, i.e. rotating sources.  <p> The resulting frequency domain beamforming method to locate moving sound sources is then validated using numerical simulations for various source configurations (e.g. emission angle, emission frequency, and source velocity), and different processing parameters (e.g. time window length). Numerical datasets for sources with linear motion as well as for rotating sources were simulated. For comparison purposes, selected datasets were also processed using traditional time domain beamforming. The results from the numerical simulations show that the frequency domain beamforming method is at least 10 times faster than the traditional time domain beamforming method with the same performance. Furthermore, the results show that as the number of microphones and/or grid points increase, the processing time for the traditional time domain beamforming method increases at a rate 20 times larger than the rate of increase in processing time of the new frequency domain beamforming method.",
+  "description_provenance": [
+    "Author Email: hcamargo@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:11Z (GMT). No. of bitstreams: 1 Camargo_HE_D_2010.pdf: 8145940 bytes, checksum: 4864d9a755c28817a2142614286caa81 (MD5)   Previous issue date: 2010-05-04"
+  ],
+  "handle": "27765",
+  "identifier_other": "etd-05172010-163151",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172010-163151/",
+  "identifier_uri": "http://hdl.handle.net/10919/27765",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Camargo_HE_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Phased Array",
+    "Aeroacoustics",
+    "De-Dopplerization",
+    "Moving Sound Sources",
+    "Frequency Domain Beamforming"
+  ],
+  "title": "A Frequency Domain Beamforming Method to Locate Moving Sound Sources",
+  "type": "Dissertation"
+}

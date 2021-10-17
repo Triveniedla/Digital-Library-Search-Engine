@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Kim, Kyunghwan",
+  "contributor_committeechair": "de la Garza, Jesus M.",
+  "contributor_committeemember": [
+    "Vorster, Michael C.",
+    "Songer, Anthony D.",
+    "Martinez, Julio C.",
+    "Ellis, Kimberly P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:33Z",
+  "date_adate": "2003-08-04",
+  "date_available": "2014-03-14T20:13:33Z",
+  "date_issued": "2003-06-12",
+  "date_rdate": "2003-08-04",
+  "date_sdate": "2003-06-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research presents a Resource-constrained Critical Path Method (RCPM) technique that capitalizes on and improves the existing Critical Path Method (CPM) and Resource-Constrained Scheduling (RCS) techniques.  A traditional CPM schedule is not realistic since it assumes unlimited resources, some of which are highly limited in practice.  Although traditional RCS techniques can consider resource limitations, they do not provide correct floats and the critical path as the CPM does.  The difference between the theoretical remaining total float and the real remaining total float is referred to as \"Phantom Float\" in this study.  Another disadvantage of the traditional RCS techniques is that work sequence in the schedule could be considerably changed with a schedule update resulting in high costs to reorganize it.  These problems are caused by the fact that, in addition to technological relationships, a resource-constrained schedule contains resource dependencies between activities that are neglected in traditional RCS techniques.    This study proposes a step-by-step RCPM algorithm to consider those resource-constrained relationships.  Hence, the method can identify real floats and correct critical paths, considering both technological and resource-dependent relationships.  RCPM also provides a certain level of stability with a schedule update due to the newly identified resource relationships.  Based on the RCPM algorithm, a prototype RCPM system has been developed using Visual C++, Visual Basic, and Ra (Primavera Project Planner API).  The system is integrated with P3, so that it reads project information directly from a P3 project, performs necessary RCPM procedures, and updates the P3 project to contain identified resource relationships.  To make the system more practical, functions to handle multiple project calendars and progressed schedules have been included as well.",
+  "description_provenance": [
+    "Author Email: kim6@vt.edu",
+    "Advisor Email: mikev@vt.edu",
+    "Advisor Email: ansonger@vt.edu",
+    "Advisor Email: julio@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: chema@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:33Z (GMT). No. of bitstreams: 1 ETD.pdf: 2441223 bytes, checksum: f4b04788d5013fcbf16a887de97b7b35 (MD5)   Previous issue date: 2003-06-12"
+  ],
+  "handle": "28139",
+  "identifier_other": "etd-06272003-143644",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06272003-143644/",
+  "identifier_uri": "http://hdl.handle.net/10919/28139",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Project Management Software",
+    "Phantom Float",
+    "RCPM",
+    "Scheduling",
+    "CPM",
+    "Multiple Calendars",
+    "Resource-constrained Scheduling"
+  ],
+  "title": "A Resource-constrained CPM (RCPM)  Scheduling and Control Technique with Multiple Calendars",
+  "type": "Dissertation"
+}

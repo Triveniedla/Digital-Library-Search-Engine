@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Intaratep, Nanyaporn",
+  "contributor_committeechair": "Devenport, William J.",
+  "contributor_committeemember": [
+    "Thole, Karen A.",
+    "Neu, Wayne L.",
+    "Simpson, Roger L.",
+    "Ng, Fai"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:22Z",
+  "date_adate": "2006-04-28",
+  "date_available": "2014-03-14T20:09:22Z",
+  "date_issued": "2006-02-23",
+  "date_rdate": "2006-04-28",
+  "date_sdate": "2006-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The interaction between rotor blade tip leakage vortex and inflow disturbances, such as encountered in shrouded marine propulsors, was simulated in the Virginia Tech Linear Cascade Wind Tunnel equipped with a moving endwall system. Upstream of the blade row, idealized periodic inflow unsteadiness was generated using vortex generator pairs attached to the endwall at the same spacing as the blade spacing. At three tip gap settings, 1.7%c, 3.3%c and 5.7%c, the flow near the lower endwall of the center blade passage was investigated through three-component mean velocity and turbulence distributions measured by four-sensor hotwires. Besides time-averaged data, the measurements were processed for phase-locked analysis, with respect to pitchwise locations of the vortex generators relative to the blade passage. Moreover, surface pressure distributions at the blade tip were acquired at eight tip gaps from 0.87%c to 12.9%c. Measurements of pressure-velocity correlation were also performed with wall motion but without inflow disturbances.  Achieved in this study is an understanding of the characteristics and structures of the tip leakage vortex at its initial formation. The mechanism of the tip leakage vortex formation seems to be independent of the tip gap setting. The tip leakage vortex consists of a vortical structure and a region of low streamwise-momentum fluid next to the endwall. The vortical structure is initially attached to the blade tip that creates it. This structure picks up circulation shed from that blade tip, as well as those from the endwall boundary layer, and becomes stronger with downstream distance. Partially induced by the mirror images in the endwall, the vortical structure starts to move across the passage resulting in a reduction in its rotational strength as the cross sectional area of the vortex increases but little circulation is added. The larger the tip gap, the longer the vortical structure stays attached to the blade tip, and the stronger the structure when it reaches downstream of the passage.  Phased-averaged data show that the inflow disturbances cause small-scale responses and large-scale responses upstream and downstream of the vortex shedding location, respectively. This difference in scale is possibly dictated by a variation in the shedding location since the amount of circulation in the vortex is dependent on this location. The inflow disturbances possibly cause a variation in the shedding location by manipulating the separation of the tip leakage flow from the endwall and consequently the flowâ  s roll-up process. Even though this manipulation only perturbs the leakage flow in a small scale, the shedding mechanism of the tip leakage vortex amplifies the outcome.",
+  "description_provenance": [
+    "Author Email: nintarat@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: thole@vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:22Z (GMT). No. of bitstreams: 4 readme.txt: 305 bytes, checksum: 39223ba6e50919496c883313802cc5a7 (MD5) movies.zip: 88688315 bytes, checksum: e0a7a5cc3b5353eaced50caca7ea9eb7 (MD5) NI_disseration.pdf: 109358891 bytes, checksum: 36c9fab174d3c1c9c9f6bd776835a716 (MD5) NI_vita.pdf: 10140 bytes, checksum: 4db8c5fba95b2729dca1745d35a4e3c5 (MD5)   Previous issue date: 2006-02-23"
+  ],
+  "handle": "26771",
+  "identifier_other": "etd-04112006-165724",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112006-165724/",
+  "identifier_uri": "http://hdl.handle.net/10919/26771",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "readme.txt",
+    "movies.zip",
+    "NI_disseration.pdf",
+    "NI_vita.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "unsteady inflow",
+    "vortex shedding",
+    "moving endwall",
+    "linear cascade",
+    "axial compressor",
+    "tip leakage vortex"
+  ],
+  "title": "Formation and Development of the Tip Leakage Vortex in a Simulated Axial Compressor with Unsteady Inflow",
+  "type": "Dissertation"
+}

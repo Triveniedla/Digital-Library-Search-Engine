@@ -1,0 +1,63 @@
+{
+  "contributor_author": "Barrett, Anthony R",
+  "contributor_committeechair": "Murray, Thomas M.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Plaut, Raymond H.",
+    "Easterling, William Samuel",
+    "Setareh, Mehdi",
+    "Charney, Finley A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:56Z",
+  "date_adate": "2006-10-06",
+  "date_available": "2014-03-14T20:15:56Z",
+  "date_issued": "2006-08-21",
+  "date_rdate": "2008-10-06",
+  "date_sdate": "2006-09-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> The presented research examined three areas: best practices in high quality dynamic testing of in-situ floor systems, extensive dynamic testing of three bare (non-fit out) in-situ multi-bay steel composite floors to estimate their dynamic parameters/response and to identify trends in dynamic behavior, and development of a set of fundamental finite element (FE) modeling techniques to adequately represent the dynamic response of steel composite floors for the purpose of evaluating vibration serviceability.  The measurement, analysis, and computation of a floor's accelerance frequency response function (FRF) is the core premise linking all areas of the presented research.  </p><p> The burst chirp signal using an electrodynamic shaker is recommended as the most accurate and consistent source of excitation for acquiring high quality measurements suitable for use in parameter estimation, operating deflection shape animation, and calibration/validation of FE models.  A reduced mid-bay testing scheme is recommended as a time-saving alternative to modal testing over a full coverage area, provided the only desired estimated parameters are frequencies, damping, and mid-bay acceleration response.</p><p> Accelerance FRFs were measured with an electrodynamic shaker located within 23 unique bays on the three tested floors.  Dominant frequencies ranged from 4.85 Hz to 9 Hz and measured estimates of damping varied considerably, ranging from 0.44% to 2.4% of critical (0.5%-1.15% was typical).  Testing showed several mode shapes were localized to just a few bays and not all modes were adequately excited by forcing at a single location. The quality of the estimated mode shapes was significantly improved using multi-reference modal testing. </p><p> FE models for the tested floors were developed based on high quality measured data and were shown to provide adequate representations of measured floor behavior.  Fundamental techniques are presented for modeling mass, stiffness, boundary conditions, and performing dynamic analysis.  A method of evaluating vibration serviceability was proposed using the FE model's computed accelerance FRF for comparison with a design accelerance curve that represents an acceleration response threshold in the frequency domain.  An example design accelerance curve is presented based on current serviceability guidelines for acceleration tolerance and effective harmonic forces due to human activities such as walking.</p>",
+  "description_provenance": [
+    "Author Email: abrrtt@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: seaster@vt.edu",
+    "Advisor Email: setareh@vt.edu",
+    "Advisor Email: fcharney@vt.edu",
+    "Advisor Email: thmurray@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:56Z (GMT). No. of bitstreams: 8 Chapter_3.pdf: 4937984 bytes, checksum: af6139963fd861e4b1b05e68e5701723 (MD5) Chapter_4.pdf: 6510149 bytes, checksum: aa666901e4c1b11f80dc0a9517cc2264 (MD5) Chapter_6_References.pdf: 35452 bytes, checksum: c14c2854f7b14a8b1eda63c42fb561a1 (MD5) Chapter_1.pdf: 124175 bytes, checksum: 4c744b1f59830b99e2eb53dff4b9ce68 (MD5) Chapter_0.pdf: 62025 bytes, checksum: b8856edd13724c3401112457cbfa6ebf (MD5) Chapter_5.pdf: 65706 bytes, checksum: 6906a1d116aad4c0e59d36cbc11f2074 (MD5) Chapter_7_Appendices.pdf: 8217085 bytes, checksum: ef54cdc40ae87504a7d9d42afa9afaab (MD5) Chapter_2.pdf: 1409293 bytes, checksum: a1319a1eea0dadddd4622d31226a6174 (MD5)   Previous issue date: 2006-08-21"
+  ],
+  "handle": "28879",
+  "identifier_other": "etd-09062006-184827",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09062006-184827/",
+  "identifier_uri": "http://hdl.handle.net/10919/28879",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter_3.pdf",
+    "Chapter_4.pdf",
+    "Chapter_6_References.pdf",
+    "Chapter_1.pdf",
+    "Chapter_0.pdf",
+    "Chapter_5.pdf",
+    "Chapter_7_Appendices.pdf",
+    "Chapter_2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "damping",
+    "vibration",
+    "floor",
+    "serviceability",
+    "walking",
+    "modal analysis",
+    "fundamental frequency",
+    "finite element",
+    "resonance",
+    "acceleration response",
+    "mode shape"
+  ],
+  "title": "Dynamic Testing of In-Situ Composite Floors and Evaluation of Vibration Serviceability Using the Finite Element Method",
+  "type": "Dissertation"
+}

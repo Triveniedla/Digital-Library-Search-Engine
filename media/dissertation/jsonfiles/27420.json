@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Porfiri, Maurizio",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Librescu, Liviu",
+    "Hyer, Michael W.",
+    "Henneke, Edmund G. II"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:11:12Z",
+  "date_adate": "2006-05-08",
+  "date_available": "2014-03-14T20:11:12Z",
+  "date_issued": "2006-04-27",
+  "date_rdate": "2006-05-08",
+  "date_sdate": "2006-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Meshless Local Petrov-Galerkin (MLPG) method has been employed to analyze the following linear and nonlinear solid mechanics problems: free and forced vibrations of a segmented bar and a cracked beam, pull-in instability of an electrostatically actuated microbeam, and plane strain deformations of incompressible hyperelastic materials. The Moving Least Squares (MLS) approximation is used to generate basis functions for the trial solution, and for the test functions. Local symmetric weak formulations are derived, and the displacement boundary conditions are enforced by the method of Lagrange multipliers. Three different techniques are employed to enforce continuity conditions at the material interfaces: Lagrange multipliers, jump functions, and MLS basis functions with discontinuous derivatives. For the electromechanical problem, the pull-in voltage and the corresponding deflection are extracted by combining the MLPG method with the displacement iteration pull-in extraction algorithm. The analysis of large deformations of incompressible hyperelastic materials is performed by using a mixed pressure-displacement formulation. For every problem studied, computed results are found to compare well with those obtained either analytically or by the Finite Element Method (FEM). For the same accuracy, the MLPG method requires fewer nodes but more CPU time than the FEM.",
+  "description_provenance": [
+    "Author Email: mporfiri@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: librescu@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: henneke@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:12Z (GMT). No. of bitstreams: 1 porfiri_etd.pdf: 1381933 bytes, checksum: 3fdfeddf1cf02db82883653828b7077a (MD5)   Previous issue date: 2006-04-27"
+  ],
+  "handle": "27420",
+  "identifier_other": "etd-04282006-102241",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282006-102241/",
+  "identifier_uri": "http://hdl.handle.net/10919/27420",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "porfiri_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Rubberlike Materials",
+    "Discontinuities",
+    "Vibrations",
+    "MEMS",
+    "MLPG method"
+  ],
+  "title": "Analysis by Meshless Local Petrov-Galerkin Method of Material Discontinuities, Pull-in Instability in MEMS, Vibrations of Cracked Beams, and Finite Deformations of Rubberlike  Materials",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Reed, William Randolph",
+  "contributor_committeechair": "Westman, Erik Christian",
+  "contributor_committeemember": [
+    "Suboleski, Stanley",
+    "Luttrell, Gerald H.",
+    "Haycocks, Christopher",
+    "Adel, Gregory T."
+  ],
+  "contributor_department": "Mining and Minerals Engineering",
+  "date_accessioned": "2014-03-14T20:10:19Z",
+  "date_adate": "2003-04-23",
+  "date_available": "2014-03-14T20:10:19Z",
+  "date_issued": "2003-03-21",
+  "date_rdate": "2004-04-23",
+  "date_sdate": "2003-04-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Air quality permits are required for the construction of all new surface mining operations.   An air quality permit requires a surface mining operation to estimate the type and amount  of pollutants the facility will produce.  During surface mining the most common pollutant  is particulate matter having an aerodynamic diameter less than 10 microns (PM10).     <p> The Industrial Source Complex (ISC3) model, created by the United States  Environmental Protection Agency (U.S. EPA), is a model used for predicting dispersion  of pollutants from industrial facilities, including surface mines and quarries.  The use of  this model is required when applying for a surface mining permit.  However, the U.S.  EPA and mining companies have repeatedly demonstrated that this model over-predicts  the amount of PM10 dispersed by surface mining facilities, resulting in denied air quality  permits.   <p> Past research has shown that haul trucks create the majority (80-90%) of PM10 emissions  from surface mining operations.  Therefore, this research concentrated on improving the  ISC3 model by focusing on modeling PM10 emissions from mobile sources, specifically  haul trucks at surface mining operations.   <p> Research into the ISC3 model showed that its original intended use was for facilities that  emit pollutants via smoke stacks.  The method used to improve the ISC3 model consisted  of applying the dispersion equation used by the ISC3 model in a manner more  representative of a moving haul truck.  A new model called the Dynamic Component  Program was developed to allow modeling of dust dispersion from haul trucks. <p> To validate the Dynamic Component Program, field experiments were designed and  conducted.  These experiments measured PM10 from haul trucks at two different surface  mining operations.  The resulting analysis of the Dynamic Component Program, ISC3  model, and the actual field study results showed that the Dynamic Component Program  was a 77% improvement over the ISC3 model overall.",
+  "description_provenance": [
+    "Author Email: wireed@vt.edu",
+    "Advisor Email: stan.suboleski@masseyenergyco.com",
+    "Advisor Email: luttrell@vt.edu",
+    "Advisor Email: algy@vt.edu",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: adel@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:19Z (GMT). No. of bitstreams: 1 WRREEDDissertation.pdf: 36572098 bytes, checksum: d2f3a0d0cba014625c095f7e5e48a28e (MD5)   Previous issue date: 2003-03-21"
+  ],
+  "handle": "27085",
+  "identifier_other": "etd-04212003-143843",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04212003-143843/",
+  "identifier_uri": "http://hdl.handle.net/10919/27085",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WRREEDDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Haul Trucks",
+    "Dispersion",
+    "Particulate Matter",
+    "Dust",
+    "Mining",
+    "Surface Mines"
+  ],
+  "title": "An Improved Model for Prediction of PM10 from Surface Mining Operations.",
+  "type": "Dissertation"
+}

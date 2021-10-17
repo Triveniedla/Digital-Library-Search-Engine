@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Baik, Hojong",
+  "contributor_committeecochair": [
+    "Sherali, Hanif D.",
+    "Trani, Antonio A."
+  ],
+  "contributor_committeemember": [
+    "Teodorovic, Dusan",
+    "Martinez, Julio C.",
+    "Rakha, Hesham Ahmed"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:37Z",
+  "date_adate": "2000-07-12",
+  "date_available": "2014-03-14T20:13:37Z",
+  "date_issued": "2000-05-22",
+  "date_rdate": "2001-07-12",
+  "date_sdate": "2000-06-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research is concerned with the modeling and development of algorithmic approaches for solving airport operational problems that arise in Air Traffic Control (ATC) systems within the terminal area at hub airports. Specifically, the problems addressed include the Aircraft Sequencing Problem (ASP) for runway operations, the Network Assignment Problem (NAP) for taxiway operations, and a simulation model for the evaluation of current or proposed ATC system in detail. For the ASP, we develop a mathematical model and apply the Reformulation-Linearization-Technique (RLT) of Sherali and Adams to construct an enhanced tightened version of the proposed model. Since ASP is NP-Hard and in fact, it is a variation of the well-known Traveling Salesman Problem with time-windows, sub-optimal solutions are usually derived to accommodate the real-time constraints of ATC systems. Nevertheless, we exhibit a significant advancement in this challenging class of problem. Also for the purpose of solving relatively large sized problems in practice, we develop and test suitable heuristic procedures. For the NAP, we propose a quasi-dynamic assignment scheme which is based on the incremental assignment technique. This quasi-dynamic assignment method assumes that the current aircraft route is influenced only by the previous aircraft assigned to the network. This simplified assumption obviates the need for iterative rerouting procedures to reach a pure equilibrium state which might not be achievable in practical taxiway operations. To evaluate the overall system, we develop a microscopic simulation model. The simulation model is designed to have the capability for reproducing not only the dynamic behavior of aircraft, but also incorporates communication activities between controllers and pilots. These activities are critical in ATC operations, and in some instances, might limit the capacity of the facility. Finally, using the developed simulation model named Virginia Tech Airport Simulation Model (VTASM) in concert with ASP and NAP, we compare the overall efficiencies of several control strategies, including that of the existing control system as well as of the proposed advanced control system.",
+  "description_provenance": [
+    "Author Email: hbaik@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: julio@vt.edu",
+    "Advisor Email: rakha@ctr.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:37Z (GMT). No. of bitstreams: 1 all.PDF: 1000029 bytes, checksum: 1b92075d8e0fb6982deee06dd562db54 (MD5)   Previous issue date: 2000-05-22"
+  ],
+  "handle": "28162",
+  "identifier_other": "etd-06302000-00270039",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06302000-00270039/",
+  "identifier_uri": "http://hdl.handle.net/10919/28162",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "all.PDF",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Dynamic Network Assignment Problem",
+    "Traveling Salesman Problem with Time-window",
+    "Integer Programming",
+    "Object-oriented Programming",
+    "Microscopic Simulation Model",
+    "Air Traffic Control"
+  ],
+  "title": "Development of Optimization and Simulation Models for the Analysis of Airfield Operations",
+  "type": "Dissertation"
+}

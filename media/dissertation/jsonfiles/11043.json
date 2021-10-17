@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Kim, Byung-ki",
+  "contributor_committeechair": "Stutzman, Warren L.",
+  "contributor_committeemember": [
+    "Sweeney, Dennis G.",
+    "Reed, Jeffrey Hugh",
+    "Johnson, Lee W.",
+    "Davis, Willam A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:35:36Z",
+  "date_adate": "2002-07-15",
+  "date_available": "2011-08-22T18:35:36Z",
+  "date_issued": "2002-05-07",
+  "date_rdate": "2003-07-15",
+  "date_sdate": "2002-07-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Smart antenna systems are employed to overcome multipath fading, extend range, and increase capacity by using diversity or beamforming techniques in wireless communication systems.  Understanding of the smart base antenna performance mechanisms for various environments is important to design cost effective systems and network.  This dissertation focuses on the experimental characterization and modeling of the smart base station antenna performance for various propagation environment scenarios.    An eight-channel Virginia Tech smart base station antenna testbed was developed to investigate performances of three reverse link diversity methods.  The experiment campaign resulted in 245 sets of collected data over 83 measurement sites, which were used to compare the performance of space, polarization, and angle diversity under identical conditions.  Measured propagation path loss, envelope correlation coefficients, power imbalances, and mean effective gain (MEG) are characterized as a function of distance between the base station and the mobile terminal to illustrate the diversity performance mechanisms over different propagation environments.  The performance of the three base station diversity methods with selection combining (SC), maximal ratio combining (MRC), and equal gain combining (EGC) techniques for both urban and suburban non-line-of-sight (NLOS) environments are presented and summarized using the measured data.     Forward-link performance of a twelve-fixed narrow-beam base station antenna system for urban NLOS environments is investigated using the same measured data.  A new procedure is introduced to experimentally model the forward-link performance of muitlple-fixed narrow-beam (MFNB) antennas using the measured reverse-link vector channel response.  The experimentally calculated lower bound performance result shows that it achieves 2.5 to 2.8 times higher average RF SIR compared to the conventional three-sector base station system for typical urban NLOS multipath fading environment conditions.  Also, a new mobile user angle estimation algorithm using the muitlple-fixed narrow-beam antennas for NLOS multipath fading environment conditions is developed and the experiment results are presented.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:35:36Z (GMT). No. of bitstreams: 1  PhDThesisofBKKim.pdf: 1950593 bytes, checksum: 93c716f4eac60b80295550aa0268969c (MD5)    Previous issue date: 2002-05-07",
+    "Author Email: bykim1@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: Lee Johnson johnsonl@math.vt.edu",
+    "Advisor Email: wadavis@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11043",
+  "identifier_other": "etd-07042002-053418",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07042002-053418",
+  "identifier_uri": "http://hdl.handle.net/10919/11043",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhDThesisofBKKim.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Beamforming",
+    "Diversity",
+    "Base Station",
+    "Smart Antenna",
+    "Multipath"
+  ],
+  "title": "Smart Base Station Antenna Performance for Several Scenarios - an Experimental and Modeling Investigation",
+  "type": "Dissertation"
+}

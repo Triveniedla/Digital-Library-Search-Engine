@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Ravula, Poorna Pradeep",
+  "contributor_committeecochair": [
+    "Cundiff, John S.",
+    "Grisso, Robert D. Jr."
+  ],
+  "contributor_committeemember": [
+    "Taylor, Daniel B.",
+    "Heatwole, Conrad D.",
+    "Sarin, Subhash C."
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:11:39Z",
+  "date_adate": "2007-05-09",
+  "date_available": "2014-03-14T20:11:39Z",
+  "date_issued": "2007-04-25",
+  "date_rdate": "2007-05-09",
+  "date_sdate": "2007-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The US Department of Energy has set an ambitious goal of replacing 30% of current petroleum consumption with biomass and its products by the year 2030. To achieve this goal, various systems capable of handling biomass at this magnitude have to be designed and built. The transportation system for a cotton gin was studied and modeled with the current management policy (FIFO) used by the gin to gain understanding of a logistic system where the processing plant (gin) pays for the transportation of the feedstock. Alternate management policies for transporting cotton modules showed significant time savings of 24% in days-to-haul.  To design a logistics system and management strategy that will minimize the cost of biomass delivery (round bales of switchgrass), a seven-county region in southern Piedmont region of Virginia was selected as the location for a 50 Mg/h bioprocessing plant which operates 24 h/day, 7 days/week. Some of the equipment are not be commercially available and need to be developed. The transport equipment (trucks, loaders and unloaders) was defined and the operational parameters estimated. One hundred and fifty-five secondary storage locations (SSLs) along with a 3.2-km procurement area for each SSL were determined for the region. The travel time from each SSL to the plant was calculated based on a network flow analysis.  Seven different policies (strategies) for scheduling loaders were studied. The two key variables were maximum number of trucks required and the maximum at-plant inventory. Five policies were based on â  Shortest Travel Time - Longest Travel Timeâ   allocation and two policies were based on â  Sector-basedâ   allocation. Policies generating schedules with minimum truck requirement and at-plant storage were simulated. A discrete event simulation model for the logistic system was constructed and the productive operating times for system equipment and inventory was computed. Lowest delivered cost was $14.68/Mg with truck cost averaging $8.44/Mg and loader cost averaging $2.98/Mg. The at-plant inventory levels were held to a maximum of 390 loads. The loaders operated less than 9,500 hours and the unloaders operated for a total of 2,700 hours for both systems simulated.",
+  "description_provenance": [
+    "Author Email: pravula@vt.edu",
+    "Advisor Email: taylord@vt.edu",
+    "Advisor Email: heatwole@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: jcundiff@vt.edu",
+    "Advisor Email: rgrisso@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:39Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 9310174 bytes, checksum: 4db65488b9c8de4fe5b31d792d74f316 (MD5)   Previous issue date: 2007-04-25"
+  ],
+  "handle": "27572",
+  "identifier_other": "etd-05072007-165454",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072007-165454/",
+  "identifier_uri": "http://hdl.handle.net/10919/27572",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "transport",
+    "management",
+    "scheduling",
+    "biomass",
+    "logistics",
+    "simulation"
+  ],
+  "title": "Design, Simulation, Analysis and Optimization of Transportation System for a Biomass to Ethanol Conversion Plant",
+  "type": "Dissertation"
+}

@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Hicks, James Edward",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Stutzman, Warren L.",
+    "Beattie, Christopher A.",
+    "Tranter, William H.",
+    "Woerner, Brain D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:15Z",
+  "date_adate": "2003-08-22",
+  "date_available": "2014-03-14T20:15:15Z",
+  "date_issued": "2003-08-08",
+  "date_rdate": "2003-08-22",
+  "date_sdate": "2003-08-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An antenna array is overloaded when the number of cochannel signals in its operating environment exceeds the number of elements.  Conventional space-time array processing for narrow-band signals fails in overloaded environments.  Overloaded array processing (OLAP) is most difficult when signals impinging on the array are near equal power, have tight excess bandwidth, and are of identical signal type.  Despite the failure of conventional beamforming in such environments, OLAP becomes possible when a receiver exploits additional signal properties such as the finite-alphabet property and signal excess-bandwidth.  This thesis proposes three approaches to signal extraction in overloaded environments, each providing a different tradeoff in performance and complexity.  The first receiver architecture extracts signals from an overloaded environment through the use of MMSE interference rejection filtering embedded in a successive interference cancellation (SIC) architecture.  The second receiver architecture enhances signal extraction performance by embedding a stronger interference rejection receiver, the reduced-state maximum aposteriori probability (RS-MAP) algorithm in a similar SIC architecture.  The third receiver fine-tunes the performance of spatially reduced search joint detection (SRSJD) with the application of an energy focusing transform (EFT), a complexity reducing front-end linear pre-processor.  A new type of EFT, the Energy Focusing Unitary Relaxed Transform (EFURT) is developed.  This transform facilitates a continuous tradeoff between noise-enhancement and error-propagation in an SRSJD framework.  EFURT is used to study the role of this tradeoff for SRSJD receivers in a variety of signal environments.  It is found that for the environments studied in this thesis, SRSJD enjoys an aggressive reduction in interference at the expense of possible noise-enhancement.",
+  "description_provenance": [
+    "Author Email: jahicks@vt.edu",
+    "Advisor Email: stuzman@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:15Z (GMT). No. of bitstreams: 1 JEH_ETD.pdf: 1478811 bytes, checksum: 05b938eeffcc869fa211eb33b45a75c9 (MD5)   Previous issue date: 2003-08-08"
+  ],
+  "handle": "28670",
+  "identifier_other": "etd-08152003-134744",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08152003-134744/",
+  "identifier_uri": "http://hdl.handle.net/10919/28670",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JEH_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Overloaded Array",
+    "Antenna Array",
+    "Multi-user Detection"
+  ],
+  "title": "Novel Approaches to Overloaded Array Processing.",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "StClair, Jessica Lindsey",
+  "contributor_committeechair": "Haskell, Peter E.",
+  "contributor_committeemember": [
+    "Day, Martin V.",
+    "Floyd, William J.",
+    "Thomson, James E."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:09:42Z",
+  "date_adate": "2011-05-04",
+  "date_available": "2014-03-14T20:09:42Z",
+  "date_issued": "2011-04-14",
+  "date_rdate": "2011-05-04",
+  "date_sdate": "2011-04-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this dissertation is to investigate the geometry of spaces of planar quadrilaterals. The topology of moduli spaces of planar quadrilaterals (the set of all distinct planar quadrilaterals with fixed side lengths) has been well-studied [5], [8], [10]. The symplectic geometry of these spaces has been studied by Kapovich and Millson [6], but the Riemannian geometry of these spaces has not been thoroughly examined. We study paths in the moduli space and the pre-moduli space. We compare intraplanar paths between points in the moduli space to extraplanar paths between those same points. We give conditions on side lengths to guarantee that intraplanar motion is shorter between some points. Direct applications of this result could be applied to motion-planning of a robot arm. We show that horizontal lifts to the pre-moduli space of paths in the moduli space can exhibit holonomy. We determine exactly which collections of side lengths allow holonomy.",
+  "description_provenance": [
+    "Author Email: jessicab@vt.edu",
+    "Advisor Email: phaskell@vt.edu",
+    "Advisor Email: daymv@vt.edu",
+    "Advisor Email: wfloyd@vt.edu",
+    "Advisor Email: jthomson@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:42Z (GMT). No. of bitstreams: 1 StClair_JL_D_2011.pdf: 861158 bytes, checksum: 0e7275a36eb809cd71ebb813b7df5be2 (MD5)   Previous issue date: 2011-04-14"
+  ],
+  "handle": "26887",
+  "identifier_other": "etd-04152011-110946",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04152011-110946/",
+  "identifier_uri": "http://hdl.handle.net/10919/26887",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "StClair_JL_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Holonomy",
+    "Robotics",
+    "Riemannian Metric",
+    "Moduli Space",
+    "Pre-Moduli Space",
+    "Differential Geometry"
+  ],
+  "title": "Geometry of Spaces of Planar Quadrilaterals",
+  "type": "Dissertation"
+}

@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Ashakul, Aphinat",
+  "contributor_committeechair": "Murray, Thomas M.",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Plaut, Raymond H.",
+    "Easterling, William Samuel",
+    "Charney, Finley A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2011-08-22T19:02:25Z",
+  "date_adate": "2004-06-18",
+  "date_available": "2011-08-22T19:02:25Z",
+  "date_issued": "2004-05-05",
+  "date_rdate": "2006-06-18",
+  "date_sdate": "2004-06-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There have been several design models for single plate shear connections in the past 20 years. The current design model states that the bolt shear rupture strength of a connection is a function of the number of bolts and the a-distance, which is the distance from the weld line to the bolt line. The evaluation of this design model demonstrates inconsistent predictions for the strength of the connection. The finite element program ABAQUS was used throughout the research to study single plate shear connections. Finite element analyses included model verification and investigations of parameters, including the effect of a-distance, plate thickness, plate material, and the position of a connection with respect to a beam neutral axis. In addition, double-column bolt connections were studied.  The results show that bolt shear rupture strength of a connection is not a function of the a-distance. Plate materials and thicknesses that do not satisfy ductility criteria result in connections with significant horizontal forces at the bolts. This horizontal force reduces the shear strength of a bolt group and creates a moment that must be considered in design. The magnitude of the force depends on the location of the bolt with respect to the beam neutral axis. A new design model for single plate shear connections with bolts in a single column is proposed. It was found that in double-column bolt connections, force redistribution among the bolt columns occurs. Force redistribution does not occur when thick plates are used, resulting in bolts in the outer column (from the support) fracturing while bolts in the inner column resist much less force. Further study is needed for double-column configurations. The study of plate behavior shows that the shear stress distribution when a plate reaches the strain hardening stage is not constant throughout the cross section. A relationship for calculating plate shear yielding strength based on this shear distribution is proposed.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:25Z (GMT). No. of bitstreams: 1 DissertationFullN_Ashakul_Edit3.pdf: 2784062 bytes, checksum: 18a676c6bcf9561f73eedc51436cf2f1 (MD5)   Previous issue date: 2004-05-05",
+    "Author Email: aashakul@vt.edu",
+    "Advisor Email: thmurray@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: seaster@vt.edu",
+    "Advisor Email: fcharney@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11192",
+  "identifier_other": "etd-06042004-141144",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06042004-141144",
+  "identifier_uri": "http://hdl.handle.net/10919/11192",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationFullN_Ashakul_Edit3.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Simulation",
+    "Weld",
+    "Bolt",
+    "Connection",
+    "ABAQUS",
+    "Finite Element",
+    "Plate",
+    "Shear"
+  ],
+  "title": "Finite Element Analysis of Single Plate Shear Connections",
+  "type": "Dissertation"
+}

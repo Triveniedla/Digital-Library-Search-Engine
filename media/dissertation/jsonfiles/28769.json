@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Rivera, Leonardo",
+  "contributor_committeechair": "Chen, Fengshan Frank",
+  "contributor_committeemember": [
+    "Van Aken, Eileen M.",
+    "Sturges, Robert H.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:35Z",
+  "date_adate": "2006-09-26",
+  "date_available": "2014-03-14T20:15:35Z",
+  "date_issued": "2006-08-03",
+  "date_rdate": "2007-09-26",
+  "date_sdate": "2006-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Measuring the use of resources in a production process has been a subject under great scrutiny since more than a hundred years ago. Traditionally, costing systems and cost accounting systems have been in charge of such functions in manufacturing corporations. On the other hand, in recent years Lean Manufacturing has become a powerful and popular force for change. A premier tool for process visualization and understanding is Value Stream Mapping, and it focuses primarily in the time dimension of the processes.</p><p>  However, it is clear that the interaction of cost and time is very important. This is felt in everyday occurrences, such as paying interests for credit cards, mortgages and other types of loans. It is intuitive that the longer a certain amount of money is held, the more it costs. Also, if a larger amount of money is held for one day, it will obviously cost more than holding a smaller amount of money. Therefore, cost and time, BOTH, determine the real cost of the use of money.</p><p>  However, this simple perception has not been applied equally to the measurement of manufacturing processes. They usually concentrate on either cost or time, but seldom in both at the same time and their interaction. The Westinghouse corporation formalized the concepts of the Cost-Time Profile in 1993, based on work done there during several decades. </p><p>  Simply put, the Cost-Time Profile measures how much money is invested in the manufacturing process of a product and for how long, creating a chart that presents the accumulated cost at every point in time (Cost-Time Profile) and measuring the area under this curve (Cost-Time Investment), and then using this quantification to measure the bottom line impact.</p><p>  This research has accomplished two main things: the detailed consideration of the Cost-Time Profile (CTP) and the issues and factors that affect it, and the extension of the concepts to the new reality of Extended Enterprises. In a logical sequence, the basic concepts of CTP are defined and presented. Then, the extension of them to Inter-Enterprise environments follows.</p><p>  Successive sections present how to build a CTP and the Inter-Enterprise Cost-Time Profile (IE-CTP), as well as discussing the factors that should be taken into account to bring the IE-CTP to practical applications, such as the effect of batching; the interaction with existing accounting systems; the consideration of direct cost, overhead and profit and the relationships between companies in supply networks to build IE-CTPs.</p><p>  Then the issue of how to improve the results of the Cost-Time Investment (CTI) and CTP is addressed, and schedule optimization models are developed; generic improvement scenarios and lean implementation scenarios are discussed; some simulation studies are presented for cases when this tool has advantages over deterministic tools and an IE-CTP specific software tool is presented. </p><p> After learning how to improve the CTP and CTI, a discussion about how to use it and implement it is presented, and finally the summary and conclusions close this research report, identifying the contributions presented and leaving open avenues for future research.</p>",
+  "description_provenance": [
+    "Author Email: lrivera@vt.edu",
+    "Advisor Email: evanaken@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:35Z (GMT). No. of bitstreams: 1 Leonardo-Rivera-Dissertation-91106.pdf: 1616597 bytes, checksum: cce616072d67f20af8a205fd14c6e07f (MD5)   Previous issue date: 2006-08-03"
+  ],
+  "handle": "28769",
+  "identifier_other": "etd-08232006-152834",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232006-152834/",
+  "identifier_uri": "http://hdl.handle.net/10919/28769",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Leonardo-Rivera-Dissertation-91106.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Lean Manufacturing",
+    "Leanness",
+    "Cost",
+    "Cost-Time Profile",
+    "Investment",
+    "Measurement"
+  ],
+  "title": "Inter-Enterprise Cost-Time Profiling",
+  "type": "Dissertation"
+}

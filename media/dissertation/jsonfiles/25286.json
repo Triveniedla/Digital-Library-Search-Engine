@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Brunson, Jason Cory",
+  "contributor_committeechair": "Shimozono, Mark M",
+  "contributor_committeemember": [
+    "Loehr, Nicholas A",
+    "Brown, Ezra A",
+    "Mihalcea, Constantin Leonardo"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-02-04T09:00:24Z",
+  "date_available": "2014-02-04T09:00:24Z",
+  "date_issued": "2014-02-03",
+  "degree_discipline": "Mathematics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Schubert calculus has become an indispensable tool for enumerative geometry. It concerns the multiplication of Schubert classes in the cohomology of flag varieties, and is typically conducted using algebraic combinatorics by way of a polynomial ring presentation of the cohomology ring. The polynomials that represent the Schubert classes are called Schubert polynomials.    An ongoing project in Schubert calculus has been to provide geometric foundations for the combinatorics. An example is the recovery by Knutson and Miller of the Schubert polynomials for finite flag varieties as the equivariant cohomology classes of matrix Schubert varieties. The present thesis is the start of a project to recover Schubert polynomials for the Borel-Moore homology of the (special linear) affine Grassmannian by an analogous process. This requires finitizing an affine Schubert variety to produce a matrix affine Schubert variety. This involves a choice of ``window'', so one must then identify a class representative that is independent of this choice. Examples lead us to conjecture that this representative is a k-Schur function. Concluding the discussion is a preliminary investigation into the combinatorics of Gröbner degenerations of matrix affine Schubert varieties, which should lead to a combinatorial proof of the conjecture.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-04T09:00:24Z (GMT). No. of bitstreams: 2  Brunson_JC_D_2014.pdf: 1199902 bytes, checksum: b821d33feddb3de62e311606fa113dd9 (MD5)  Brunson_JC_D_2014_support_1.pdf: 17379 bytes, checksum: 425f119eed4ed14949ce45fabadf02cf (MD5)    Previous issue date: 2014-02-03",
+  "format_medium": "ETD",
+  "handle": "25286",
+  "identifier_other": "vt_gsexam:2174",
+  "identifier_uri": "http://hdl.handle.net/10919/25286",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Schubert polynomials",
+    "affine Grassmannian",
+    "matrix Schubert varieties"
+  ],
+  "title": "Matrix Schubert varieties for the affine Grassmannian",
+  "type": "Dissertation"
+}

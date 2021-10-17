@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Alonso-Miralles, Jose Santiago",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Ng, Fai",
+    "Johnson, Martin E.",
+    "Kwan, Hwa W.",
+    "Hajj, Muhammad R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:08:28Z",
+  "date_adate": "2004-10-06",
+  "date_available": "2011-08-22T19:08:28Z",
+  "date_issued": "2004-09-16",
+  "date_rdate": "2007-10-06",
+  "date_sdate": "2004-09-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The combination of traditional passive acoustic liners with Herschel-Quincke (HQ) waveguides is proposed in this work as a device for Turbofan Engine Noise Control. The approach consists of installing circumferential arrays of HQ tubes on the lined sector of the inlet of a turbofan engine. A theoretical model is developed to predict the performance of this system assuming that the engine inlet is a circular lined duct with uniform mean flow. The tube-duct interfaces are modeled as finite piston sources that couple the sound field inside the duct with the dynamics of the HQ tubes. The finite piston source radiation is modeled in terms of a new closed form Green's function, which is found as the solution of the non-homogeneous convected acoustic wave equation with soft wall boundary conditions. The Green's function is extended from a point source to a finite piston by using the Divergence Theorem in the appropriate form. The dynamics of the HQ tube are both modeled as plane waves inside a straight tube and experimentally determined. The experimental determination of the HQ-dynamics is undertaken using impedance tubes with a 4-microphone technique. The newly developed theoretical model was used to predict the performance of a combined HQ-Liner system, which was tested on a scale simulated turbofan rig. The model is validated for broadband noise with the experimental data obtained from this test rig. The analytical predictions are shown to correlate well with experimental data. The results of the application of a HQ-Liner on a turbofan engine show a great potential in order to improve the performance of traditional passive acoustic liners.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:08:28Z (GMT). No. of bitstreams: 1  Dissertation_Jose_Alonso.pdf: 7922989 bytes, checksum: c043570c64f5c42fc081841c33a80c31 (MD5)    Previous issue date: 2004-09-16",
+    "Author Email: jalonsom@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: mhajj@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11260",
+  "identifier_other": "etd-09292004-110538",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09292004-110538",
+  "identifier_uri": "http://hdl.handle.net/10919/11260",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Jose_Alonso.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Herschel-Quincke tube",
+    "Aeroacoustics",
+    "Turbofan Noise",
+    "Acosutic Liners"
+  ],
+  "title": "Theoretical Modeling with Validation of a Combined HQ-Liner System for Turbofan Engine Noise Control",
+  "type": "Dissertation"
+}

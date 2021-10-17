@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Varano, Nathaniel David",
+  "contributor_committeechair": "Simpson, Roger L.",
+  "contributor_committeemember": [
+    "Mason, William H.",
+    "Devenport, William J.",
+    "Roy, Christopher J.",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:48Z",
+  "date_adate": "2010-04-29",
+  "date_available": "2014-03-14T20:09:48Z",
+  "date_issued": "2010-01-29",
+  "date_rdate": "2010-04-29",
+  "date_sdate": "2010-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Turbulent boundary layers over rough surfaces are a common, yet often overlooked, problem of practical engineering importance. Development of correlations between boundary layer parameters that can be used in turbulence models and the surface geometry is the only practical option for solving these problems. Experiments have been performed on a two-dimensional zero pressure gradient turbulent boundary layer over sparsely spaced hemispherical roughness elements of 2 mm diameter. Laser Doppler velocimetry was used to measure all three components of velocity. The friction velocity was calculated using an integral momentum balance. Comparisons were made with various fitting methods that assume the von KÃ¡rmÃ¡n constant is appropriate for rough walls. Results indicate that this is not the case, and that the slope of the semi-logarithmic portion of the mean streamwise profile may be a function of the ratio of inner and outer length scales. Comparisons were also made between various correlations that relate the surface geometry to the behavior of the mean velocity profile. In general, the existing correlations achieved a reasonable agreement with the data within the estimated uncertainties.  A detailed study of the local turbulent structure around the roughness elements was performed. It was found that, in contrast to `sharper-edged' elements such as cylinders, an elevated region of TKE and Reynolds shear stress was found downstream of the element below the peak. This can be explained by the delay in separation of the flow coming over the top of the element due to the smooth curvature of the element.  Surface pressure fluctuation measurements were made as well using a dual microphone noise reduction technique. There have only been a few past experiments on the surface pressure fluctuations under rough wall boundary layers. However, it has been shown that the spectra of the wall fluctuations can be used to predict the far-field noise spectrum [1,2]. Therefore it is been the goal of this research to verify existing correlations between the surface pressure fluctuation spectrum and the surface geometry as well as develop new correlations that provide insight into the interactions between the turbulent motions in the flow surface pressure.",
+  "description_provenance": [
+    "Author Email: nvarano@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: cjroy@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:48Z (GMT). No. of bitstreams: 1 Varano_ND_D_2010.pdf: 6667437 bytes, checksum: 1c36966e012014c8ee51064b7568a4de (MD5)   Previous issue date: 2010-01-29"
+  ],
+  "handle": "26918",
+  "identifier_other": "etd-04162010-154904",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162010-154904/",
+  "identifier_uri": "http://hdl.handle.net/10919/26918",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Varano_ND_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "roughness",
+    "laser Doppler velocimetry",
+    "skin friction",
+    "turbulence",
+    "boundary layer",
+    "surface pressure"
+  ],
+  "title": "Fluid Dynamics and Surface Pressure Fluctuations of Turbulent Boundary Layers Over Sparse Roughness",
+  "type": "Dissertation"
+}

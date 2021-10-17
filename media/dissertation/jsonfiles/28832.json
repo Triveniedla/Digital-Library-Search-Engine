@@ -1,0 +1,42 @@
+{
+  "contributor_author": "zhou, xunwei",
+  "contributor_committeechair": "lee, fred c.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Chen, Dan Y.",
+    "Huang, Alex Q.",
+    "Borojevich, Dushan"
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:15:48Z",
+  "date_adate": "1999-09-02",
+  "date_available": "2014-03-14T20:15:48Z",
+  "date_issued": "1999-07-02",
+  "date_rdate": "2000-09-02",
+  "date_sdate": "1999-08-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In order to meet demands for faster and more efficient data processing, modern microprocessors are being designed with lower voltage implementations. The processor voltage supply in future generation processors will decrease to 1.1 V ~ 1.8V. More devices will be packed on a single processor chip, and processors will operate at higher frequencies, beyond 1GHz. Therefore, microprocessors need aggressive power management. Future generation processors will draw current up to 50 A ~ 100 A [2]. These demands, in turn, will require special power supplies and Voltage Regulator Modules (VRMs) to provide lower voltages with higher currents and fast transient capabilities for microprocessors. This work presents several low-voltage high-current VRM technologies for future generation data processing, communication, and portable applications. The developed advanced VRMs with these new technologies have advantages over conventional ones in power density, efficiency, transient response, reliability, and cost. The multi-module interleaved quasi-square-wave VRM topology achieves a very fast transient response and a very high power density. This topology significantly reduces the filter inductance and capacitance, while having small output and input ripples. The analysis, design, and experimental verification for this new topology are presented in this work. The current sensing and current sharing techniques are developed with simple and cost-effective implementations. With this technique, traditional current transformers and sensing resistors are not required, and the inductance value, MOSFET on resistance and other parasitics have no effect on current sharing results. The design principles are developed and experimentally verified. A generalized approach and an extension of the novel current sharing control are presented in this work. The techniques for improving VRM light load efficiency are developed in this work. By utilizing the duty cycle signal, VRMs can be implemented with advanced power management functions to reduce further the power consumption at light loads to extend the battery-operation time in portable systems or to facilitate the compliance with various \"energy star\" (\"green\" power) requirements in office systems. Four improved approaches are presented and verified with experimental results. The high-input-voltage VRM topology, push-pull forward converter, can be used in high-bus-voltage distributed power systems. This converter has a high efficiency, a high power density, a fast transient response, and can be easily packaged as a standard module. The circuit design and experimental evaluation are addressed to demonstrate the operation principles and advantages of this topology.",
+  "description_provenance": [
+    "Author Email: xunwei@vpec.vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: duschan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:48Z (GMT). No. of bitstreams: 1 xunweizhou3.pdf: 1820687 bytes, checksum: bc24c5b634e3a304338cd9746d68ab23 (MD5)   Previous issue date: 1999-07-02"
+  ],
+  "handle": "28832",
+  "identifier_other": "etd-083099-171315",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-083099-171315/",
+  "identifier_uri": "http://hdl.handle.net/10919/28832",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "xunweizhou3.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "low voltage",
+    "fast transient response",
+    "high efficiency"
+  ],
+  "title": "Low-voltage High-efficiency Fast-transient Voltage regulator Module",
+  "type": "Dissertation"
+}

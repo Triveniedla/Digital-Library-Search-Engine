@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Bordikar, Maitrayee Ranade",
+  "contributor_committeechair": "Scales, Wayne A",
+  "contributor_committeemember": [
+    "Clauer, C Robert",
+    "Davis, William A",
+    "Pratt, Timothy",
+    "Tafti, Danesh K"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-06-12T08:01:02Z",
+  "date_available": "2013-06-12T08:01:02Z",
+  "date_issued": "2013-05-26",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This work focuses on the analysis of plasma irregularities generated during two active space<br />experiments: the injection of an artificial dust layer, and high-power radio waves. The objective<br />of the \"first experiment is to examine the effects of arti\"ficially created dust layers on the<br />scatter of radars from plasma irregularities embedded in dusty plasma in space. This is an<br />alternate approach for understanding the mechanisms of enhanced radar scatter from plasma irregularities embedded in Noctilucent Clouds and Polar Mesospheric Summer Echoes. The second experiment involves a transmission of high power electromagnetic waves into the ionospheric plasma from the ground, which can excite stimulated electromagnetic emissions off\"set from the transmitter frequency. These stimulated electromagnetic emissions provide diagnostic information of the ionosphere and thus can be used to investigate fundamental physical principles which govern the earth\\'s ionosphere, so that present and future transmission technologies may take into account the complexities of the ionosphere. The interaction altitude of the artificial dust layer and high power radio waves is approximately 250 km and 160 km respectively, thus dealing with uniquely different regions of the ionosphere. Each experiment is discussed separately using theoretical, observational and advanced computational methodologies.<br /><br />The study fi\"rst investigates plasma turbulence associated with the creation of an artificial<br />dust layer in the earth\\'s ionosphere. Two scenarios are considered for plasma irregularity<br />generation as dust is injected at an oblique angle across the geomagnetic \"field. The \"first<br />is a shear-driven plasma instability due to inhomogeneities in the boundary layer between<br />the injected charged dust layer and the background plasma. This begins to appear at very<br />early times once the dust is released into the space plasma, which is of the order or less<br />than the dust charging time period. The second mechanism is free streaming of the charged<br />dust relative to the background plasma. This produces irregularities at times much longer<br />than the dust charging period and also longer than the dust plasma period. Although<br />both mechanisms are shown to produce turbulence in the lower hybrid frequency range,<br />the resulting irregularities have important differences in their physical characteristics. A<br />comparison between the processes is made to determine the consequences for upcoming<br />observations. Both processes are shown to have the possibility of generating turbulence<br />after the release of dust for the regimes of upcoming space experiments over a range of<br />timescales.<br /><br />This work also presents the fi\"rst observations of unique narrowband emissions ordered near<br />the Hydrogen ion (H+) gyro-frequency (fcH) in the Stimulated Electromagnetic Emission<br />(SEE) spectrum when the transmitter is tuned near the second electron gyro-harmonic frequency (2fce), during ionospheric modifi\"cation experiments. The frequency structuring of these newly discovered emission lines is quite unexpected since H+ is known to be a minor<br />constituent in the interaction region which is near 160 km altitude. The spectral lines are<br />typically shifted from the pump wave frequency by harmonics of a frequency about 10%<br />less than fcH (\" 800 Hz) and have a bandwidth of less than 50 Hz which is near the O+<br />gyro-frequency fcO. A theory is proposed to explain these emissions in terms of a Parametric<br />Decay Instability (PDI) in a multi-ion species plasma due to possible proton precipitation associated with the disturbed conditions during the heating experiment. The observations can<br />be explained by including several percent H+ ions into the background plasma. The implications are new possibilities for characterizing proton precipitation events during ionospheric heating experiments.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-12T08:01:02Z (GMT). No. of bitstreams: 5 Bordikar_MR_D_2013.pdf: 13298965 bytes, checksum: 9634a4cb6baa631a7fd4af1bf9d95911 (MD5) Bordikar_MR_D_2013_support_1.pdf: 2477242 bytes, checksum: 03aee44cd7a31cbd27ff618d2d3c0d32 (MD5) Bordikar_MR_D_2013_support_6.pdf: 2477242 bytes, checksum: 03aee44cd7a31cbd27ff618d2d3c0d32 (MD5) Bordikar_MR_D_2013_support_7.pdf: 507877 bytes, checksum: 358fdd394d0dd98a32c4a99b8b0f6ef2 (MD5) Bordikar_MR_D_2013_support_8.pdf: 299624 bytes, checksum: 0197c3c04da5013f6f4d8641b098c954 (MD5)   Previous issue date: 2013-05-26",
+  "format_medium": "ETD",
+  "handle": "23206",
+  "identifier_other": "vt_gsexam:603",
+  "identifier_uri": "http://hdl.handle.net/10919/23206",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Dusty Plasma",
+    "Particle-in-Cell Code",
+    "Hybrid Code",
+    "Numerical Simulation",
+    "SEE",
+    "Ion-Ion Hybrid Structuring",
+    "Three-wave Parametric Decay Instability"
+  ],
+  "title": "Analysis of Plasma Wave Irregularities Generated during Active Experiments in Near-Earth Space Environment",
+  "type": "Dissertation"
+}

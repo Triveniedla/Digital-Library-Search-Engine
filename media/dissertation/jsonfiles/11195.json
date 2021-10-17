@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Sitapati, Kartik",
+  "contributor_committeechair": "Davis, William A.",
+  "contributor_committeemember": [
+    "Safaai-Jazi, Ahmad",
+    "Brown, Gary S.",
+    "Johnson, Lee W.",
+    "Scales, Wayne A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:02:26Z",
+  "date_adate": "2004-06-30",
+  "date_available": "2011-08-22T19:02:26Z",
+  "date_issued": "2004-06-14",
+  "date_rdate": "2004-06-30",
+  "date_sdate": "2004-06-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new method called the Direct Method is developed to solve for the propagating modes in waveguides via the finite-element method. The variational form of the Direct method is derived to ensure that an extremum is reached. The Direct method uses Maxwell's equations directly, both zero and first-order, scalar and vector bases that are used in the finite-element formulation. The direct solution method solves for both the magnetic and electric fields simultaneously. Comparisons are made with the traditionally used vector-Helmholtz equation set. The advantages and disadvantages of the newly developed method is described as well as several results displayed using the WR-90 waveguide and a circular waveguide as test waveguides. Results include a partially filled dielectric loaded rectangular waveguide. The effects of including the divergence of the fields in the functional as penalty terms on the quality of results obtained by the Direct method and the vector-Helmholtz method is explored. The quality of results is gauged on the accuracy of the computed modes as well as the elimination or a significant reduction in the number of 'spurious modes' that are often encountered in solutions to waveguide problems. It is shown that computational time for the solution and computer storage requirements exceed the typically used Helmholtz equation method but the results obtained can be more accurate. Future work may include developing a sparse eigenvalue solution method that could reduce the solution time and storage requirements significantly. The Direct method of solution in dynamics resulted after an initial search in magnetostatics for methods to solve for the magnetic field without using the magnetic-vector potential using finite-element methods. A variational derivation that includes the boundary conditions is developed for the magnetic-vector potential method. Several techniques that were used to attempt accurate solutions for the magnetostatic fields with multiple materials and without the use of the magnetic-vector potential are described. It was found that some of the newly developed general techniques for magnetostatics are only accurate when homogeneous media are present. A method using two curl equations is developed which is a Direct method in magnetostatics and reveals the interaction between the bases used. The transition from magnetostatics to dynamics is made and similar Direct methods are applied to the waveguide problem using different bases.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:26Z (GMT). No. of bitstreams: 1 KS_etd.pdf: 5168114 bytes, checksum: 2a68d9f1f5450e6414d560a90bc58e00 (MD5)   Previous issue date: 2004-06-14",
+    "Author Email: ksitapati@kollmorgen.com",
+    "Advisor Email: wadavis@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11195",
+  "identifier_other": "etd-06152004-152800",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06152004-152800",
+  "identifier_uri": "http://hdl.handle.net/10919/11195",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KS_etd.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Finite-Elements",
+    "Helmholtz",
+    "Waveguides",
+    "Direct Methods"
+  ],
+  "title": "Mixed-Field Finite-Element Computations",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Ibrahim, Yasser El-Husseini",
+  "contributor_committeechair": "Charney, Finley A.",
+  "contributor_committeemember": [
+    "Murray, Thomas M.",
+    "Plaut, Raymond H.",
+    "Roberts-Wollmann, Carin L.",
+    "Singh, Mahendra P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:21Z",
+  "date_adate": "2005-02-18",
+  "date_available": "2014-03-14T20:07:21Z",
+  "date_issued": "2005-02-07",
+  "date_rdate": "2005-02-18",
+  "date_sdate": "2005-02-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new visco-plastic damper for seismic protection is introduced. This device combines and enhances many of the proven characteristics of both displacement-dependent and velocity-dependent devices.    The device consists of a block of a high-damping viscoelastic material sandwiched between two steel shapes (plates or channels) bent in a certain configuration to amplify the deformations in the device in order to obtain large tensile and compressive strains in the viscoelastic material. Under low levels of vibrations, the device dissipates energy through amplified strains in the viscoelastic material only; however, under moderate to strong levels of vibrations, a new source of energy dissipation is added through the yielding of the steel elements. The inelastic behavior of the steel elements is controlled by the rigidity of the viscoelastic material. In addition to the energy dissipation, the device provides stiffness through the steel elements as well as the viscoelastic material. Moreover, one of the main advantages of the device is that its behavior is fully controlled through different parameters.  First, a nonlinear time history analysis was conducted on structures with a preliminary model of the device using SAP2000 program to check the effectiveness of the device on the response of different structures under ground excitations. The device resulted in better improvement in the structural response compared to the existing viscoelastic dampers.  A three-dimensional finite element model was developed for the device using the finite element package, ABAQUS. The hyperelastic and viscoelastic behavior of the block of the viscoelastic material were considered. The inelastic behavior of the steel elements was considered as well using the Von Mises yielding criterion. The device was analyzed under different dynamic loadings with different frequencies.  Three simplified models were developed using SAP2000 program in order to facilitate the modeling of the device for structural engineers. These models were compared to the detailed finite element model to check their accuracy. The best model was used in the analysis of a multi-story steel frame with the visco-plastic devices under different ground excitations. Two different arrangements of the device were considered. The devices caused significant reduction in the story displacements, base shear and bending moment at column bases.",
+  "description_provenance": [
+    "Author Email: yibrahim@vt.edu",
+    "Advisor Email: thmurray@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: wollmann@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: fcharney@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:21Z (GMT). No. of bitstreams: 1 Yasser_Ibrahim_Dissertation.pdf: 2939780 bytes, checksum: dcbd33052f8670a8b31b99d0336b829e (MD5)   Previous issue date: 2005-02-07"
+  ],
+  "handle": "26193",
+  "identifier_other": "etd-02142005-120040",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02142005-120040/",
+  "identifier_uri": "http://hdl.handle.net/10919/26193",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yasser_Ibrahim_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Earthquakes",
+    "Seismic",
+    "Passive control",
+    "Dampers",
+    "Viscoelastic",
+    "Visco-plastic"
+  ],
+  "title": "A New Visco-Plastic Device for Seismic Protection of Structures",
+  "type": "Dissertation"
+}

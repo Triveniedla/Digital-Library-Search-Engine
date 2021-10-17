@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Baughman, D. Richard",
+  "contributor_committeechair": "Liu, Y. A.",
+  "contributor_committeemember": [
+    "Conger, William L.",
+    "McGee, Henry A. Jr.",
+    "Davis, Richey M.",
+    "Rony, Peter R."
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:16:34Z",
+  "date_adate": "2008-09-22",
+  "date_available": "2014-03-14T20:16:34Z",
+  "date_issued": "1995-12-01",
+  "date_rdate": "2012-05-08",
+  "date_sdate": "2008-09-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation introduces the fundamental principles and practical aspects of neural networks, focusing on their applications in bioprocessing and chemical engineering. This study introduces neural networks and provides an overview oftheir structures, strengths, and limitations, together with a survey oftheir potential and commercial applications (Chapter 1). In addition to covering both the fundamental and practical aspects of neural computing (Chapter 2), this dissertation demonstrates, by numerous illustrative examples, practice problems, and detailed case studies, how to develop, train and apply neural networks in bioprocessing and chemical engineering. This study includes the neural network applications of interest to the biotechnologists and chemical engineers in four main groups: (1) fault classification and feature categorization (Chapter 3); (2) prediction and optimization (Chapter 4); (3) process forecasting, modeling, and control of time-dependent systems (Chapter 5); and (4) preliminary design of complex processes using a hybrid combination of expert systems and neural networks (Chapter 6). <p>  This dissertation is also unique in that it includes the following ten detailed case studies of neural network applications in bioprocessing and chemical engineering: â ¢ Process fault-diagnosis of a chemical reactor. â ¢ Leonard-Kramer fault-classification problem. â ¢ Process fault-diagnosis for an unsteady-state continuous stirred-tank reactor system. â ¢ Classification of protein secondary-structure categories. â ¢ Quantitative prediction and regression analysis of complex chemical kinetics. â ¢ Software-based sensors for quantitative predictions ofproduct compositions from fluorescent spectra in bioprocessing. â ¢ Quality control and optimization of an autoclave curing process for manufacturing composite materials. â ¢ Predictive modeling of an experimental batch fermentation process. â ¢ Supervisory control of the Tennessee Eastman plantwide control problem â ¢ Predictive modeling and optimal design of extractive bioseparation in aqueous two-phase systems This dissertation also includes a glossary, which explains the terminology used in neural network applications in science and engineering.",
+  "description_provenance": [
+    "Author Email: none@vt.edu",
+    "Advisor Email: @vt.edu",
+    "Advisor Email: @vt.edu",
+    "Advisor Email: @vt.edu",
+    "Advisor Email: @vt.edu",
+    "Advisor Email: @vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:34Z (GMT). No. of bitstreams: 2 LD5655.V856_1995.B384.V1.pdf: 13279755 bytes, checksum: 1cdfb04850bb347f10a3aa2a5ffd5601 (MD5) LD5655.V856_1995.B384.V2.pdf: 11366866 bytes, checksum: 7cd8a7bb632c46ae37c6a57fa04ec538 (MD5)   Previous issue date: 1995-12-01"
+  ],
+  "handle": "29061",
+  "identifier_other": "etd-09222008-135734",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09222008-135734/",
+  "identifier_uri": "http://hdl.handle.net/10919/29061",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "LD5655.V856_1995.B384.V1.pdf",
+    "LD5655.V856_1995.B384.V2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "artificial intelligence",
+    "neural network",
+    "chemical engineering",
+    "bioprocessing"
+  ],
+  "subject_lcc": "LD5655.V856 1995.B384",
+  "title": "Neural Networks in Bioprocessing and Chemical Engineering",
+  "type": "Dissertation"
+}

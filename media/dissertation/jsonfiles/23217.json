@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Xue, Wenjing",
+  "contributor_committeechair": "Wang, Linbing",
+  "contributor_committeemember": [
+    "Wang, Anbo",
+    "Flintsch, Gerardo W.",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Civil and Environmental Engineering",
+  "date_accessioned": "2013-06-13T08:00:28Z",
+  "date_available": "2013-06-13T08:00:28Z",
+  "date_issued": "2013-06-12",
+  "degree_discipline": "Civil Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In the passing decades, the monitoring of pavements and passing vehicles was developed vigorously with the growth of information and sensing technology. Pavement monitoring is an essential part of pavement research and plays an important role in transportation system. At the same time, the monitoring system about the traffic, such as Weigh-in-Motion (WIM) system and traffic classification system, also attracted lots of attention because of their importance in traffic statistics and management. <br />The monitoring system in this dissertation combines the monitoring for pavements and traffic together with the same sensing network. For pavement health monitoring purpose, the modulus of the asphalt layer can be back-calculated based on the collected mechanical responses under corresponding environmental conditions. At the same time, the actually strain and stress in pavements induced by each passing vehicle are also used for pavement distress prediction. For traffic monitoring purpose, the horizontal strain traces are analyzed with a Gaussian model to estimate the speed, wandering position, weight and classification of each passing vehicle. The whole system, including the sensing network and corresponding analysis method, can monitor the pavement and the traffic simultaneously, and is called transportation monitoring system. This system has a high efficiency because of its low cost and easy installation; multi-functionality to provide many important information of transportation system.<br /> <br />Many related studies were made to improve the prototyped transportation monitoring system. With the assistance of numerical simulation software ABAQUS and 3D-Move, the effect of many loading and environmental conditions, including temperature, vehicle speed, tire configuration and inflation pressure, are taken into consideration. A method was set up to integrate data points from many tests of similar environmental and loading conditions based on Gaussian model. Another method for consistent comparison of variable field sensor data was developed. It was demonstrated that variation in field measurement was due to uncontrollable environmental and loading factors, which may be accounted for by using laboratory test and numerical simulation based corrections.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-13T08:00:28Z (GMT). No. of bitstreams: 2  Xue_W_D_2013.pdf: 5031341 bytes, checksum: acad36977125d0c1fa9bc8596e39f1ae (MD5)  Xue_W_D_2013_support_1.pdf: 139442 bytes, checksum: d7a792aae3f27f599c460b547b4090e6 (MD5)    Previous issue date: 2013-06-12",
+  "format_medium": "ETD",
+  "handle": "23217",
+  "identifier_other": "vt_gsexam:822",
+  "identifier_uri": "http://hdl.handle.net/10919/23217",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Pavement Monitoring",
+    "Traffic Monitoring",
+    "Weigh-In-Motion System",
+    "Traffic Classification",
+    "Pavement Health Status"
+  ],
+  "title": "Integrated transportation monitoring system for both pavement and traffic",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Sud, Seema",
+  "contributor_committeechair": "Pratt, Timothy J.",
+  "contributor_committeemember": [
+    "Goldstein, J. Scott",
+    "DaSilva, Luiz A.",
+    "Annamalai, Annamalai  Jr.",
+    "Herdman, Terry L.",
+    "Zoltowski, Michael"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:31Z",
+  "date_adate": "2002-05-01",
+  "date_available": "2014-03-14T20:10:31Z",
+  "date_issued": "2002-03-14",
+  "date_rdate": "2003-05-01",
+  "date_sdate": "2002-04-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The research presented in this dissertation is on the development and application of advanced reduced rank adaptive signal processing techniques for high data rate wireless code division multiple access (CDMA) communications systems. This is an important area of research in the field of wireless communications. Current systems are moving towards the use of multiple simultaneous users in a given channel to increase system capacity as well as spatial and/or temporal diversity for improved performance in the presence of multipath and fading channels. Furthermore, to accommodate the demand for higher data rates, fast signal processing algorithms are required, which often translate into blind signal detection and estimation and the desire for optimal, low complexity detection techniques. The research presented here shows how minimum mean square error (MMSE) receivers implemented via the multistage Wiener filter (MWF) can be employed at the receiving end of a CDMA system to perform multiuser detection (MUD) or interference suppression (IS) with no loss in performance and significant signal subspace compression better than any previous reduced rank techniques have shown. This is important for optimizing performance because it implies a reduction in the number of required samples, so it lessens the requirement that the channel be stationary for a time duration long enough to obtain enough samples for an accurate MMSE estimate. The structure of these receivers is derived for synchronous and asynchronous systems for a multipath environment, and then it is shown that implementation of the receiver in a reduced rank subspace results in no loss in performance over full rank methods. It is also shown in some instances that reduced rank exceeds full rank performance. Multiuser detectors are also studied, and the optimal reduced rank detector is shown to be equivalent to a bank of parallel single user detectors performing interference suppression (IS). The performance as a function of rank for parallel and joint multiuser detectors are compared. The research is then extended to include joint space-code (i.e. a joint multiuser detector) and joint space-time processing algorithms which employ receiver diversity for low complexity diversity gain. Non-linear techniques, namely serial interference cancellation (SIC) and parallel interference cancellation (PIC), will also be studied. The conventional matched filter correlator will be replaced by the MWF, thereby incorporating IS at each stage of the interference canceller for improved performance. A closed form expression is derived for the probability of error, and performance gains are evaluated. It will be further shown how the receiver structure can be extended when space-time codes are employed at the transmitter for additional diversity gain with minimal impact on complexity. The MMSE solution is derived and implemented via the MWF with some examples. It is believed that these new techniques will have a significant impact on the design of fourth generation (4G) and beyond cellular CDMA systems.",
+  "description_provenance": [
+    "Author Email: suds@saic.com",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: JAY.S.GOLDSTEIN@saic.com",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: annamalai@vt.edu",
+    "Advisor Email: herdman@origin2.icam.vt.edu",
+    "Advisor Email: mikedz@ecn.purdue.edu",
+    "Made available in DSpace on 2014-03-14T20:10:31Z (GMT). No. of bitstreams: 1 ssud_dissertation_May2002.pdf: 11243732 bytes, checksum: a26274d983ffe04654cbc49a3cc7fd2e (MD5)   Previous issue date: 2002-03-14"
+  ],
+  "handle": "27158",
+  "identifier_other": "etd-04232002-225202",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04232002-225202/",
+  "identifier_uri": "http://hdl.handle.net/10919/27158",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ssud_dissertation_May2002.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "multiuser detection",
+    "multistage Wiener filter",
+    "interference suppression",
+    "reduced rank",
+    "CDMA"
+  ],
+  "subject_lcc": "LD5655.V856 2002.S832",
+  "title": "Reduced Rank Adaptive Filtering Applied to Interference Mitigation in Wideband CDMA Systems",
+  "type": "Dissertation"
+}

@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Siridhara, Siradol",
+  "contributor_committeechair": "Drew, Donald R.",
+  "contributor_committeemember": [
+    "Lin, Wei-hua",
+    "Trani, Antonio A.",
+    "Teordorovic, Dusan",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:17:10Z",
+  "date_adate": "1999-11-02",
+  "date_available": "2014-03-14T20:17:10Z",
+  "date_issued": "1999-08-23",
+  "date_rdate": "2000-11-02",
+  "date_sdate": "1999-10-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the period between 1993-1998 a vision was presented of an Automated Highway System developed under a contract naming Virginia Tech one of the three ITS Research Centers of Excellence in the United States by the Federal Highway Administration.  The AHS envisioned would consist of a guideway constructed in the rights-of-way of the Interstate Highway System which would utilized magnetic levitation (\"maglev\") to propel closely-space, individual vehicles at high speeds with full longitudinal and lateral control.  In this dissertation the system architecture is described in detail.<p> The system architecture is organized according to system structural, system operational, and vehicle subsystem technological elements.  The structural aspects are concerned with the decision making capability allocated between a vehicle and the guideway, the characteristics of the control and sensing equipment contained within the guideway, the traveling unit configuration, and certain of the vehicle's structural and equipment considerations.  The operational aspects are concerned with vehicle entrainment policy, system fleet mixture, network type and control functions, and guideway lane separation requirements.  The vehicle subsystem and the vehicle longitudinal and lateral control subsystem.<p> The operational architecture concentrates on developing and evaluating strategies for forming platoons of vehicles on the guideway since the average platoon sizes determine the practical capacity of the guideway as well as the safety of operation.  It is instructive to review how platoons form naturally on conventional highways as a prelude to developing a strategy for forming platoon on the AHS Maglev Guideway.  A novel, non-linear car-following model called \"car maneuvering\" is explored by defining the stimuli on the right-hand side of the model in terms of several vehicles ahead of the response vehicle. In order to add still more realism in developing a strategy for platoon formation in a guideway under automatic control, an additional spacing dependent term is introduced to achieve a \"magnetic coupling headway\" between platooned vehicles.  Once vehicles are magnetically coupled, the desired intraplatoon headway is maintained through attraction and repulsion.<p> In this dissertation the term \"architecture\" is interpreted in the broadest possible sense based on the assumption that any transportation system intended to serve society throughout the 21st Century and beyond must address a hierarchy of goals and issues ranging from the strategic (sustainable development) to the tactical (the concept of operations) and including the in-between (interfacing with the existing transportation system).  In the past, transportation planning, policy, investment and operating decisions have been made in isolation from each other with incomplete information inputs from a broad base of disciplines and sectors, without a synthesizing instrumentality.  A new approach is described to promote the best informed decisions governing planning and management.  The approach features a realistic framework for allocating public sector-private sector effort, an instrumentality for generating the knowledge needed to conceive and implement the new transportation paradigm, and a strategic vision for rallying support.<p> The new approach to the problem begins with a strategic vision for society's AHS infrastructure.  We believe that the strategic vision must be based on the concept of \"sustainable development.\"  To affect this new strategic vision, higher budgets will be a necessary, but not a sufficient condition.  A fundamental Decision Support System (DSS) with knowledge bases with contributions from the braid spectrum of science and engineering disciplines, and a methodology based on system dynamics capable of synthesizing these contributions is proposed.<p> The AHS Maglev Alternative is compared to a \"Do-Nothing\" Alternative and a \"Traditional Expansion\" Alternative using user and nonuser benefit analyses.  The advantages of AHS Maglev are seen to be overwhelming.  Moreover, the ability of AHS Maglev to alleviate airport congestion by reducing short and medium range of flights, and to serve as a structuring device for rational population distribution is shown.<p>",
+  "description_provenance": [
+    "Author Email: siamese@vt.edu",
+    "Advisor Email: whlin@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: drdrew@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:10Z (GMT). No. of bitstreams: 14 04contents.PDF: 15302 bytes, checksum: decb1024ffd30d062c70e4e8b10ba20e (MD5) 6threedim.PDF: 914113 bytes, checksum: e3b085b22e4492542fa54548b07975c5 (MD5) 01title.PDF: 2295 bytes, checksum: b3e4c33f43d39d6101d5269e50d34add (MD5) 81references.PDF: 20731 bytes, checksum: 47f0fa6a533d0a4850f40761285b64a1 (MD5) 5flow.PDF: 192156 bytes, checksum: ec5045570c8dc24c2bf0caa6153c3ac7 (MD5) 1introduction.PDF: 34012 bytes, checksum: 59f27df4d9623b47aec8c731d02039c6 (MD5) 83vita.PDF: 2712 bytes, checksum: 9d0e7d5b51d5b1243d5a719d0725b073 (MD5) 3sustaindev.PDF: 74547 bytes, checksum: bb5370f14f71d781ce1ff2ea16fb4c06 (MD5) 02abstract.PDF: 7943 bytes, checksum: 9ec6c7aece44bf8101709d29e12b5bc4 (MD5) 03acknowledge.PDF: 2716 bytes, checksum: 30e76ee3a796320e261ead20d0cd9c6a (MD5) 4landuse.PDF: 198770 bytes, checksum: d3358ca7d5b281982bee95917b941529 (MD5) 2literature.PDF: 75402 bytes, checksum: 305a496977780f10df4faad5b2910753 (MD5) 7conclusion.PDF: 32156 bytes, checksum: b3ec8522bba61da687391f696ea7be05 (MD5) 82appendices.PDF: 37969 bytes, checksum: cd9d52df0f52d842ae1772108ddda53a (MD5)   Previous issue date: 1999-08-23"
+  ],
+  "handle": "29219",
+  "identifier_other": "etd-100799-120014",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-100799-120014/",
+  "identifier_uri": "http://hdl.handle.net/10919/29219",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "04contents.PDF",
+    "6threedim.PDF",
+    "01title.PDF",
+    "81references.PDF",
+    "5flow.PDF",
+    "1introduction.PDF",
+    "83vita.PDF",
+    "3sustaindev.PDF",
+    "02abstract.PDF",
+    "03acknowledge.PDF",
+    "4landuse.PDF",
+    "2literature.PDF",
+    "7conclusion.PDF",
+    "82appendices.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "automated highway system",
+    "magnetic levetation technology",
+    "transportation engineering"
+  ],
+  "title": "AHS Maglev System Architecture",
+  "type": "Dissertation"
+}

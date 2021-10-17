@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Salehian, Armaghan",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Johnson, Martin E.",
+    "Kasarda, Mary E. F.",
+    "Cliff, Eugene M.",
+    "Seigler, Michael T."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:17Z",
+  "date_adate": "2008-02-26",
+  "date_available": "2014-03-14T20:07:17Z",
+  "date_issued": "2008-01-30",
+  "date_rdate": "2008-02-26",
+  "date_sdate": "2008-02-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The presented work is intended to develop a geometrically reduced order (homogenized) model for a large antenna space structure with flexible joints. An energy equivalence concept is employed to find the continuum model for the system. The kinetic and strain energy expressions of the fundamental elements are found based on the assumptions of the micropolar elasticity theory. Necessary assumptions are made to reduce the order of the strain variables while retaining the effects of the micro-rotations that are coupled to the primary strain terms. As a result, a micropolar-based continuum model is found for the structure with torsional joints. The vibrations equations of motion for various coordinates of the one dimensional equivalent model are presented. Subsequently, the relations between the physical parameters of the distributed parameter model and the radar structure are introduced. The effect of the asymmetric mass distribution as a result of the addition of the radar panel to the truss system is studied. For the purpose of the experimental validation of the suggested model a planar truss structure with Pratt Girder configuration was built and tested in the laboratory. The results for the experimental frequency response functions are shown to be in good agreement with the theory. Finally, the continuum model is used to quantify the effects of the thermally induced disturbances on the satellite system during the eclipse transition.",
+  "description_provenance": [
+    "Author Email: armaghan@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: seigler@engr.uky.edu",
+    "Made available in DSpace on 2014-03-14T20:07:17Z (GMT). No. of bitstreams: 1 thesis.pdf: 1370231 bytes, checksum: 3db943395c8852f025143eed6fc03a7e (MD5)   Previous issue date: 2008-01-30"
+  ],
+  "handle": "26167",
+  "identifier_other": "etd-02102008-231624",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02102008-231624/",
+  "identifier_uri": "http://hdl.handle.net/10919/26167",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Experimental Validation",
+    "Large Space Structures",
+    "Thermally Induced Vibrations",
+    "ISAT",
+    "Vibrations",
+    "Micropolar Continuum Modeling"
+  ],
+  "title": "Micropolar Continuum Modeling of Large Space Structures with Flexible Joints and Thermal Effects: Theory and Experiment",
+  "type": "Dissertation"
+}

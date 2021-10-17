@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Hall, Kristopher Joseph",
+  "contributor_committeecochair": [
+    "Abbott, A. Lynn",
+    "Davis, Nathaniel J. IV"
+  ],
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Park, Jung-Min Jerry",
+    "Hou, Yiwei Thomas",
+    "Bostian, Charles W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:05Z",
+  "date_adate": "2006-06-12",
+  "date_available": "2014-03-14T20:12:05Z",
+  "date_issued": "2006-05-11",
+  "date_rdate": "2006-06-12",
+  "date_sdate": "2006-05-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research developed a system, Rx, to provide early identification and effective control of network stealth worms in digital networks through techniques based on biological epidemiology.  Network stealth worms comprise a class of surreptitious, self-propagating code that spread over network connections by exploiting security vulnerabilities in hosts.  Past outbreaks due to traditional worms subverted hundreds of thousands of machines.  Network stealth worms exacerbate that threat by using clandestine methods to maintain a persistent presence in the network.                                                                                  Biological epidemiology was shown to support the real-time detection, characterization, forecasting, and containment of network stealth worms.  Epidemiology describes a scientific methodology in biology that seeks to understand, explain, and control disease.  Bio-mathematical modeling led to the development of a mechanism for digital networks to identify worm infection behavior buried in anomaly data, to characterize a worm, and to forecast the temporal spread of a worm.  Demographic analysis of the infected hosts revealed the subset of vulnerable machines within the population.  The automated response of advanced quarantine used this information to control the spread of an identified worm by isolating both infected and vulnerable machines.                                                                                  The novel contributions of this research included the identification of a network stealth worm at the network-level based on end-host reports while simultaneously characterizing and forecasting the spread of the worm.  Additionally, this task offered the technique of advanced quarantine through demographic analysis of the population.  This work resulted in a scalable, fault-tolerant strategy that dramatically enhanced the survival rate of network hosts under attack by a stealth worm.  Moreover, this approach did not require new hardware, changes to existing protocols, or participation outside the implementing organization.                                                                                  This research showed application to a wider range of challenges.  The bio-mathematical models are extensible, allowing Rx to respond to variations on the self-propagating code presented here.  The approach is applicable to other forms of malware beyond self-propagating code by interchanging the epidemic model with one more appropriate.  Lastly, the strategy allowed anomaly detectors to be sensitive to lower reporting thresholds and a variety of often benign yet potentially useful events.",
+  "description_provenance": [
+    "Author Email: kjh@ieee.org",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: Nathaniel.Davis@afit.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:05Z (GMT). No. of bitstreams: 1 hall_dissertation.pdf: 965599 bytes, checksum: 5e000137e58f2f8b2037f901b6cf7b03 (MD5)   Previous issue date: 2006-05-11"
+  ],
+  "handle": "27726",
+  "identifier_other": "etd-05152006-121930",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05152006-121930/",
+  "identifier_uri": "http://hdl.handle.net/10919/27726",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "hall_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Network Stealth Worms",
+    "Demographic Analysis",
+    "Bio-mathematical Modeling",
+    "Epidemiology",
+    "Network Security"
+  ],
+  "title": "Thwarting Network Stealth Worms in Computer Networks through Biological Epidemiology",
+  "type": "Dissertation"
+}

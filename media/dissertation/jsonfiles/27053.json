@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Perala, Chuck H.",
+  "contributor_committeechair": "Casali, John G.",
+  "contributor_committeemember": [
+    "Lancaster, Jeff A.",
+    "Kalb, Joel T.",
+    "Kleiner, Brian M.",
+    "Haas, Ellen"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:12Z",
+  "date_adate": "2006-04-28",
+  "date_available": "2014-03-14T20:10:12Z",
+  "date_issued": "2006-04-10",
+  "date_rdate": "2009-04-28",
+  "date_sdate": "2006-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Currently in the United States, Active Noise Reduction (ANR) headphones cannot be tested and labeled as hearing protection devices (HPDs) due to inherent limitations with the existing psychophysical headphone testing standard, real-ear attenuation at threshold (REAT).  This research focused on the use of a standard, for physical, microphone-in-real-ear testing, (MIRE, ANSI S12.42-1995), to determine if MIRE may be appropriately used to measure the total attenuation (i.e., passive + active) of ANR headphones.  The REAT â  Method B, Subject-Fit protocol,â   ANSI S12.6-1997(R2002), was also used to assess passive attenuation (and used for comparison with the MIRE data), as this is the current standard for passive Headphone attenuation testing.   The MIRE protocol currently does not specify a standardized location for measurement microphone placement.  Prior research is mixed as to the potential benefits and shortcomings of placing the measurement microphone outside versus inside the ear canal.  This study captured and compared acoustic spectral data at three different microphone locations: in concha, in ear canal-shallow depth, and in ear canal-deep depth (with a probe tube microphone positioned near the tympanic membrane), using human test participants and five ANR headphones of differing design.    Results indicate that the MIRE protocol may be used to supplant the REAT protocol for the measurement of passive attenuation, although differences were observed at the lowest-tested frequency of 125 Hz.  Microphone placement analysis revealed no significant difference among the three locations specified, with a noted caveat for the probe tube microphone location at the highest tested frequency of 8000 Hz.   Overall findings may be useful to standards-making committees for evaluating a viable solution and standardized method for testing and labeling ANR headphones for use as hearing protection devices.  Microphone placement results may assist the practitioner in determining where to place measurement microphones to best suit their particular needs when using MIRE.   Discussion includes an in-depth interpretation of the data, comparisons within and between each protocol, and recommendations for further avenues to explore based on the data presented.",
+  "description_provenance": [
+    "Author Email: chuck.perala@knox.army.mil",
+    "Advisor Email: jlancast@vt.edu",
+    "Advisor Email: jkalb@arl.army.mil",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: ehaas@arl.army.mil",
+    "Advisor Email: jcasali@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:12Z (GMT). No. of bitstreams: 1 Perala_PHD_Dissertation_27April06.pdf: 2193828 bytes, checksum: 54a0b3797639e643ea6972fd66531a15 (MD5)   Previous issue date: 2006-04-10"
+  ],
+  "handle": "27053",
+  "identifier_other": "etd-04202006-131749",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202006-131749/",
+  "identifier_uri": "http://hdl.handle.net/10919/27053",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Perala_PHD_Dissertation_27April06.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "active noise reduction",
+    "HPD testing",
+    "Microphone placement",
+    "REAT vs. MIRE",
+    "ANR"
+  ],
+  "title": "Active noise reduction headphone measurement: Comparison of physical and psychophysical protocols and effects of microphone placement",
+  "type": "Dissertation"
+}

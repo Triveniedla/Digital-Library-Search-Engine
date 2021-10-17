@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Daqaq, Mohammed F.",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Inman, Daniel J.",
+    "Ragab, Saad A.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:14:34Z",
+  "date_adate": "2006-08-15",
+  "date_available": "2014-03-14T20:14:34Z",
+  "date_issued": "2006-07-28",
+  "date_rdate": "2007-08-15",
+  "date_sdate": "2006-07-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>We investigate the implementation of nontraditional open-loop and closed-loop control techniques to systems at the micro and macro scales. At the macro level, we consider a quay-side container crane. It is known that the United States relies on ocean transportation for 95% of cargo tonnage that moves in and out of the country. Each year over six million loaded marine containers enter U.S. ports. Current growth predictions indicate that container cargo will quadruple in the next twenty years. To cope with this rapid growth, we develop a novel open-loop input-shaping control technique to mitigate payload oscillations on quay-side container cranes. The proposed approach is suitable for automated crane operations, does not require any alterations to the existing crane structure, uses the maximum crane capabilities, and is based on an accurate two-dimensional four-bar-mechanism model of a container crane. The shaped commands are based on a nonlinear approximation of the two-dimensional model frequency and, unlike traditional input-shaping techniques, our approach can account for large hoisting operations. For operator-in-the-loop crane operations, we develop a closed-loop nonlinear delayed-position feedback controller. Key features of this controller are that it: does not require major modifications to the existing crane structure, accounts for motion inversion delays, rejects external disturbances, and is superimposed on the crane operator commands. To validate the controllers, we construct a 1:10 scale model of a 65-ton quay-side container crane. The facility consists of a 7-meter track, 3.5-meter hoisting cables, a trolley, a traverse motor, two hoisting motors, and a 50-pound payload. Using this setup, we demonstrated the effectiveness of the controllers in mitigating payload oscillations in both of the open-loop and closed-loop modes of operation. </p><p> At the micro level, we consider a micro optical device known as the torsional micromirror. This device has a tremendous number of industrial and consumer market applications including optical switching, light scanning, digital displays, etc. To analyze this device, we develop a comprehensive model of an electrically actuated torsional mirror. Using a Galerkin expansion, we develop a reduced-order model of the mirror and verify it against experimental data. We investigate the accuracy of representing the mirror using a two-degrees-of-freedom lumped-mass model. We conclude that, under normal operating conditions, the statics and dynamics of the mirror can be accurately represented by the simplified lumped-mass system. We utilize the lumped-mass model to study and analyze the nonlinear dynamics of torsional micromirrors subjected to combined DC and resonant AC excitations. The analysis is aimed at enhancing the performance of micromirrors used for scanning applications by providing better insight into the effects of system parameters on the microscanner's optimal design and performance. Examining the characteristics of the mirror response, we found that, for a certain DC voltage range, a two-to-one internal resonance might be activated between the first two modes. Due to this internal resonance, the mirror exhibits complex dynamic behavior. This behavior results in undesirable vibrations that can be detrimental to the scanner performance. </p><p> Torsional micromirrors are currently being implemented to provide all-optical switching in fiber optic networks. Traditional switching techniques are based on converting the optical signal into electrical signal and back into optical signal before it can be switched into another fiber. This reduces the rate of data transfer substantially. To realize fast all-optical switching, we enhance the transient dynamic characteristics and performance of torsional micromirrors by developing a novel technique for preshaping the voltage commands applied to activate the mirror. This new approach is the first to effectively account for inherent nonlinearities, damping effects, and the energy of the significant higher modes. Using this technique, we are able to realize very fast switching operations with minimal settling time and almost zero overshoot.</p>",
+  "description_provenance": [
+    "Author Email: fmohamme@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:34Z (GMT). No. of bitstreams: 1 Diss_Daqaq.pdf: 3524367 bytes, checksum: bf29edfc3b2225e2d9e28c21126633ff (MD5)   Previous issue date: 2006-07-28"
+  ],
+  "handle": "28466",
+  "identifier_other": "etd-07312006-132913",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07312006-132913/",
+  "identifier_uri": "http://hdl.handle.net/10919/28466",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Diss_Daqaq.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Delayed-position feedback",
+    "Container crane",
+    "Torsional micromirror",
+    "Input shaping",
+    "Nonlinear interaction",
+    "Reduced-order model"
+  ],
+  "title": "Adaptation of Nontraditional Control Techniques to Nonlinear Micro and Macro Mechanical Systems",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Smith, Christopher Edward",
+  "contributor_committeechair": "Crawford, Daniel T.",
+  "contributor_committeemember": [
+    "Tissue, Brian M.",
+    "Morris, John R.",
+    "Esker, Alan R.",
+    "Carlier, Paul R."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:11:12Z",
+  "date_adate": "2006-05-08",
+  "date_available": "2014-03-14T20:11:12Z",
+  "date_issued": "2006-04-24",
+  "date_rdate": "2006-05-08",
+  "date_sdate": "2006-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We give an overview of quantum chemical methods with a particular emphasis on the development of high-accuracy quantum chemical models. The reliability of these methods often hinges on whether enough electron correlation is included in the truncated wave function. As an example, we investigate the structures of m-benzyne and its fluorinated derivative, tetrafluoro-m-benzyne where the inclusion of triple excitations is paramount to correctly describe through-bond delocalization of the monocyclic form. At the CCSDT/6-31G** level of theory, the C1â  C3 distance of the minimum energy form of m-benzyne is 2.0Â°A and the profile of the PES along the C1â  C3 distance is that of an asymmetric, single-well, in agreement with previous density-functional theory and coupled cluster studies. In addition, the calculated CCSD(T) fundamental frequencies are in excellent agreement with the measured infrared frequencies, thus confirming the monocyclic form of m-benzyne. For tetrafluoro-m-benzyne, however, the increased eclipsing strain between the ring-external Câ  X bonds stabilizes the bicyclo[3.1.0]hexatriene form: the C1â  C3 distance is calculated at the CCSD(T)/cc-pVTZ level to be approximately 1.75 Â°A, which is in the range of elongated CC bonds. Computed harmonic vibrational frequencies compare reasonably well with the experimental neon-matrix difference spectrum and provide further evidence for the existence of a bicyclic form.  We also report an extension of the coupled cluster iterative-triples model, CC3, to excited states of open-shell molecules, including radicals. We define the method for both spin-unrestricted Hartree-Fock (UHF) and spin-restricted open-shell Hartree-Fock (ROHF) reference determinants and discuss its efficient implementation in the PSI3 program package. The program is streamlined to use at most O(N7) computational steps and avoids storage of the triple-excitation amplitudes for both the ground-and excited-state calculations. The excitation-energy program makes use of a Lowdin projection formalism (comparable to that of earlier implementations) that allows computational reduction of the Davidson algorithm to only the single- and double-excitation space, but limits the calculation to only one excited state at a time. However, a root-following algorithm may be used to compute energies for multiple states of the same symmetry. Benchmark applications of the new methods to the lowest valence 2B1 state of the allyl radical, low-lying states of the CH and CO+ diatomics, and the nitromethyl radical show substantial improvement over ROHF- and UHF-based CCSD excitation energies for states with strong double-excitation character or cases suffering from significant spin contamination. For the allyl radical, CC3 adiabatic excitation energies differ from experiment by less than 0.02 eV, while for the 2Â§+ state of CH, significant errors of more than 0.4 eV remain.  Finally, ground- and excited-state dipole moments are derived diagramatically and were recently developed within the PSI3 quantum chemistry package. However, convergence problems with computing the left-hand excited-state has prevented us from reporting any meaningful results. Thus, future work includes solving this convergence problem before the effects of triple excitations on one-electron properties can be reported with certainty.",
+  "description_provenance": [
+    "Author Email: cesmith13@vt.edu",
+    "Advisor Email: tissue@vt.edu",
+    "Advisor Email: jrmorris@vt.edu",
+    "Advisor Email: aesker@vt.edu",
+    "Advisor Email: pcarlier@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:12Z (GMT). No. of bitstreams: 1 Smith.Christopher.pdf: 1598369 bytes, checksum: 6a3de10e8a8284cf7f64f8b8bbc08299 (MD5)   Previous issue date: 2006-04-24"
+  ],
+  "handle": "27421",
+  "identifier_other": "etd-04282006-104840",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282006-104840/",
+  "identifier_uri": "http://hdl.handle.net/10919/27421",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Smith.Christopher.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CC3",
+    "Coupled Cluster Theory",
+    "EOM-CC",
+    "Allyl Radical",
+    "m-Benzyne"
+  ],
+  "title": "Development and Application of Coupled Cluster Ground- and Excited-State Models",
+  "type": "Dissertation"
+}

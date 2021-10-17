@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Vardakos, Sotirios",
+  "contributor_committeechair": "Gutierrez, Marte S.",
+  "contributor_committeemember": [
+    "Westman, Erik Christian",
+    "Caichu, Xia",
+    "Mauldon, Matthew",
+    "Dove, Joseph E."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:10Z",
+  "date_adate": "2007-03-07",
+  "date_available": "2014-03-14T20:07:10Z",
+  "date_issued": "2007-01-24",
+  "date_rdate": "2011-09-26",
+  "date_sdate": "2007-02-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<P>A fundamental element of the observational method in geotechnical engineering practice is the utilization of a carefully laid out performance monitoring system which provides rapid insight of critical behavioral trends of the work. Especially in tunnels, this is of paramount importance when the contractual arrangements allow an adaptive tunnel support design during construction such as the NATM approach. Utilization of measurements can reveal important aspects of the ground-support interaction, warning of potential problems, and design optimization and forecasting of future behavior of the underground work.</P><P> The term back-analysis involves all the necessary procedures so that a predicted simulation yields results as close as possible to the observed behavior. This research aims in a better understanding of the back-analysis methodologies by examining both simplified approaches of tunnel response prediction but also more complex numerical methods. Today a wealth of monitoring techniques is available for tunnel monitoring. Progress has also been recorded in the area of back-analysis in geotechnical engineering by various researchers. One of the most frequently encountered questions in this reverse engineering type of work is the uniqueness of the final solution. When possible errors are incorporated during data acquisition, the back analysis problem becomes formidable.  Up to the present, various researchers have presented back-analysis schemes, often coupled with numerical methods such as the Finite Element Method, and in some cases the more general approach of neural networks has been applied.</P><P> The present research focuses on the application of back-analysis techniques that are applicable to various conditions and are directly coupled with a widely available numerical program. Different methods are discussed and examples are given. The strength and importance of global optimization is introduced for geotechnical engineering applications along with the novel implementation of two global optimization algorithms in geotechnical parameter identification. The techniques developed are applied to the back-analysis of a modern NATM highway tunnel in China and the results are discussed.</P>",
+  "description_provenance": [
+    "Author Email: svardako@vt.edu, svardako@fulbrightweb.org",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: caichu@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: mauldon@vt.edu",
+    "Advisor Email: jodove@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:10Z (GMT). No. of bitstreams: 1 PHD_Dissertation_Vardakos_ver_2.pdf: 5283072 bytes, checksum: a6603f92dc8f1f852a37723644209b0b (MD5)   Previous issue date: 2007-01-24"
+  ],
+  "handle": "26124",
+  "identifier_other": "etd-02052007-104922",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02052007-104922/",
+  "identifier_uri": "http://hdl.handle.net/10919/26124",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PHD_Dissertation_Vardakos_ver_2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "excavation monitoring",
+    "tunneling",
+    "back-analysis",
+    "optimization"
+  ],
+  "title": "Back-analysis methods for optimal tunnel design",
+  "type": "Dissertation"
+}

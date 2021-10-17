@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Zhang, Li",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Conners, Richard W.",
+    "Centeno, Virgilio A.",
+    "Phadke, Arun G.",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:34Z",
+  "date_adate": "2006-11-27",
+  "date_available": "2014-03-14T20:14:34Z",
+  "date_issued": "2006-07-28",
+  "date_rdate": "2010-10-22",
+  "date_sdate": "2006-07-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The electric power supply industry has evolved into one of the largest industries. Even though secure and reliable operation of the electric power system is fundamental to economy, social security and quality of modern life, the complicated power grid is now facing severe challenges to meet the high-level secure and reliable operation requirements.  <p> New technologies will play a major role in helping today's electric power industry to meet the above challenges. This dissertation has focused on some key technologies among them, including the emerging technologies of energy storage, controlled power electronics and wide area measurement technologies. Those technologies offer an opportunity to develop the appropriate objectives for power system control.  The use of power electronics based devices with energy storage system integrated into them, such as FACTS/ESS, can provide valuable added benefits to improve stability, power quality, and reliability of power systems. The study in this dissertation has provided several guidelines for the implementation of FACTS/ESS in bulk power systems.<p>  The interest of this study lies in a wide range of FACTS/ESS technology applications in bulk power system to solve some special problems that were not solved well without the application of FACTS/ESS. The special problems we select to solve by using FACTS/ESS technology in this study include power quality problem solution by active power compensation, electrical arc furnace (EAF) induced problems solution, inter-area mode low frequency oscillation suppression, coordination of under frequency load shedding (UFLS) and under frequency governor control (UFGC), wide area voltage control.<p>  From this study, the author of this dissertation reveals the unique role that FACTS/ESS technology can play in the bulk power system stability control and power quality enhancement in power system. In this dissertation, almost all the studies are based on the real system problems, which means that the study results are special valuable to certain utilities that have those problems. The study in this dissertation can assist power industry choose the right FACTS/ESS technology for their intended functions, which will improve the survivability, minimize blackouts, and reduce interruption costs through the use of energy storage systems.",
+  "description_provenance": [
+    "Author Email: zhangli@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:34Z (GMT). No. of bitstreams: 1 Dissertation_LZ_FinalVersion17-1.pdf: 2585131 bytes, checksum: 869cbbfeabb859b4139b7c4f236cd098 (MD5)   Previous issue date: 2006-07-28"
+  ],
+  "handle": "28465",
+  "identifier_other": "etd-07312006-110028",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07312006-110028/",
+  "identifier_uri": "http://hdl.handle.net/10919/28465",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_LZ_FinalVersion17-1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Low Frequency Oscillation Suppression",
+    "Active Power Compensation",
+    "Power Quality Control",
+    "Power System Stability",
+    "Energy Storage Systems",
+    "Wide Area Measurement",
+    "Flexible AC Transmission Systems",
+    "Under Frequency Load Shedding",
+    "Electric Arc Furnace"
+  ],
+  "title": "Study of FACTS/ESS Applications in Bulk Power System",
+  "type": "Dissertation"
+}

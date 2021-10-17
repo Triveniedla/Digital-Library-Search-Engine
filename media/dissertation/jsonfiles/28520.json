@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Salem Said, Abdel-Halim Saber",
+  "contributor_committeechair": "Ragab, Saad A.",
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:14:44Z",
+  "date_adate": "2007-08-07",
+  "date_available": "2014-03-14T20:14:44Z",
+  "date_issued": "2007-07-23",
+  "date_rdate": "2007-08-07",
+  "date_sdate": "2007-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Studying the effects of free stream turbulence on noise, vibration, and heat transfer on structures is very important in engineering applications. The problem of the interaction of large scale turbulence with a flat-plate cascade is a model of important problems in propulsion systems. Addressing the problem of large scale turbulence interacting with a flat plate cascade requires flow simulation over a large number of plates (6-12 plates) in order to be able to represent numerically integral length scales on the order of blade-to-blade spacing. Having such a large number of solid surfaces in the simulation requires very large computational grid points to resolve the boundary layers on the plates, and that is not possible with the current computing resources.  In this thesis we develop a computational technique to predict the distortion of homogeneous isotropic turbulence as it passes through a cascade of thin flat plates. We use Large-Eddy Simulation (LES) to capture the spatial development of the incident turbulence and its interaction with the plates which are assumed to be inviscid walls. The LES is conducted for a linear cascade composed of six plates. Because suppression of the normal component of velocity is the main mechanism of distortion, we neglect the presence of mean shear in the boundary layers and wakes, and allow slip velocity on the plate surfaces. We enforce the zero normal velocity condition on the plates. This boundary condition treatment is motivated by rapid distortion theory (RDT) in which viscous effects are neglected, however, the present LES approach accounts for nonlinear and turbulence diffusion effects by a sub-grid scale model. We refer to this type of turbulence-blade interaction as shear-free interaction.  To validate our calculations, we computed the unsteady loading and radiated acoustic pressure field from flat plates interacting with vortical structures. We consider two fundamental problems: (1) A linear cascade of flat plates excited by a vortical wave (gust) given by a 2D Fourier mode, and (2) The parallel interaction of a finite-core vortex with a single plate. We solve the nonlinear Euler equations by a high-order finite-differece method. We use nonreflecting boundary conditions at the inflow and outflow boundaries. For the gust problem, we found that the cascade response depends sensitively on the frequency of the convicted gust. The unsteady surface pressure distribution and radiated pressure field agree very well with predictions of the linear theory for the tested range of reduced frequency. We have also investigated the effects of the incident gust frequency on the undesirable wave reflection at the inflow and outflow boundaries. For the vortex-plate interaction problem, we investigate the effects of the internal structure of the vortex on the strength and directivity of radiated sound.  Then we solved the turbulence cascade interaction problem. The normal Reynolds stresses and velocity spectra are analyzed ahead, within, and downstream of the cascade. Good agreement with predictions of rapid distortion theory in the region of its validity is obtained. Also, the normal Reynolds stress profiles are found to be in qualitative agreement with available experimental data. As such, this dissertation presents a viable computational alternative to rapid distortion theory (RDT) for the prediction of noise radiation due to the interaction of free stream turbulence with structures.",
+  "description_provenance": [
+    "Author Email: asalemsa@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:44Z (GMT). No. of bitstreams: 1 thesis.pdf: 3734856 bytes, checksum: c5180d2375656f9873c67394104d104f (MD5)   Previous issue date: 2007-07-23"
+  ],
+  "handle": "28520",
+  "identifier_other": "etd-08042007-005600",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08042007-005600/",
+  "identifier_uri": "http://hdl.handle.net/10919/28520",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "large eddy simulation",
+    "acoustic radiation",
+    "cascade interaction",
+    "homogeneous turbulence",
+    "high order finite difference"
+  ],
+  "title": "Large Eddy Simulation of Shear-Free Interaction of Homogeneous Turbulence with a Flat-Plate Cascade",
+  "type": "Dissertation"
+}

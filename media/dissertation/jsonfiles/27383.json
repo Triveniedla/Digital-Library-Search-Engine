@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Borg, Randy Charles",
+  "contributor_committeechair": "Notter, David R.",
+  "contributor_committeemember": [
+    "Lewis, Ronald M.",
+    "Kott, Rodney W.",
+    "Greiner, Scott P."
+  ],
+  "contributor_department": "Animal and Poultry Sciences",
+  "date_accessioned": "2014-03-14T20:11:07Z",
+  "date_adate": "2007-05-02",
+  "date_available": "2014-03-14T20:11:07Z",
+  "date_issued": "2007-04-23",
+  "date_rdate": "2008-05-02",
+  "date_sdate": "2007-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objectives of this dissertation were to evaluate genetic and environmental relationships between lamb and ewe traits including body weight, fleece weight and quality, prolificacy, body condition, ewe stayability and lamb survival.  Average heritability estimates for lamb birth weight (BWT), weaning weight (WW), maternal weaning weight, yearling body weight, fleece weight, spinning count and staple length were 0.19, 0.09, 0.08, 0.35, 0.38, 0.25, and 0.31 respectively.   Heritability estimates for adult traits averaged 0.43 for body weight (AW), 0.13 for body condition (AC), and 0.12 for number of lambs born per ewe lambing (NLB).  Correlations between direct additive  AW and direct additive and maternal lamb weights ranged from 0.21 to 0.96 (P < 0.05) and 0.29 to 0.53 (P < 0.05), respectively, with residual correlations ranging from 0.05 to 0.95.  Correlations of lamb traits with adult body condition and NLB were generally not different from zero; genetic and residual correlations ranged from -0.52 to 0.69 and -.39 to 0.31, respectively.     Ewe stayability was analyzed as overall stayability (STAYn|2) which indicated the presence or absence of a ewe at n yrs of age, given that she was present at 2 yrs of age, and marginal stayability (STAYn|1-n) recording the presences of a ewe at n yrs of age, given that she was in the flock the previous year.  Additive variance in ewe stayability was only found in stayability at 5 and 6 yr of age (P < 0.05).  Heritability estimates for STAY5|4 and STAY6|2 from multiple trait analyses with other traits averaged 0.08 and 0.10, respectively.  Phenotypic correlations between STAY and all other traits were near zero, ranging from -0.04 to 0.03.  The estimated correlations between additive effects on STAY5|4 and STAY6|2 and additive maternal effects on WW were positive (both 0.46; P < 0.05).  Genetic correlations between STAY5|4 and WW, adult weight, and NLB were 0.06, 0.13 and -0.06 (P > 0.10), respectively.  However, genetic correlations between STAY6|2 and WW, adult weight, and NLB were negative (-0.17, -0.32 (P < 0.05) and -0.03, respectively).  Significant genetic variation was thus present in stayability, with nonzero genetic correlations present between STAY, maternal milk, WW, and adult weight. Survival analysis was performed using a proportional hazards model to measure the probability of lamb death before weaning.  Lamb survival was recorded as the day of age at death.  Records were censored if a live lamb was artificially removed from their litter before death.  Fixed effects on survival included ewe age, litter size, sex, and linear and quadratic BWT.  Average age of death was 13.7 d.  Censoring of records before weaning occurred in 12.9% of the total lambs born.  Risk ratios indicated lambs from yearlings and ewes older than 5 yr had the greater risk of death, as did triplet and quadruplet lambs.  Linear and quadratic BWT effects on lamb survival were found (P < 0.05) and accounted for most of the litter size effects in large litters.  The influence of informative censoring was considered by assuming that lambs censored by 3 d of age had died at the time of censoring.  Heritability of lamb survival at 3 d of age (estimated using an animal model in MTDFREML) was near zero, ranging from 0.00 to 0.01.  The lack of additive variance suggests that improvement in lamb survival should be made through changes in management practices.",
+  "description_provenance": [
+    "Author Email: rborg@vt.edu",
+    "Advisor Email: rmlewis@vt.edu",
+    "Advisor Email: rkott@montana.edu",
+    "Advisor Email: sgreiner@vt.edu",
+    "Advisor Email: drnotter@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:07Z (GMT). No. of bitstreams: 3 Borg_Dissertation_one.pdf: 592500 bytes, checksum: 11a5a2339ae778b5daab5971b2489134 (MD5) Borg_Dissertation_two.pdf: 212734 bytes, checksum: f25eccd647170ded5da0361c2a45812f (MD5) Borg_Dissertation_tre.pdf: 14689 bytes, checksum: 07a8258bc8e75997a0f0a3f9ba22001d (MD5)   Previous issue date: 2007-04-23"
+  ],
+  "handle": "27383",
+  "identifier_other": "etd-04272007-102808",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272007-102808/",
+  "identifier_uri": "http://hdl.handle.net/10919/27383",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Borg_Dissertation_one.pdf",
+    "Borg_Dissertation_two.pdf",
+    "Borg_Dissertation_tre.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "stayability",
+    "heritability",
+    "survival analysis",
+    "sheep",
+    "ewe size"
+  ],
+  "title": "Phenotypic and genetic evaluation of fitness characteristics in sheep under a range environment",
+  "type": "Dissertation"
+}

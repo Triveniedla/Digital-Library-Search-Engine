@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Harne, Ryan Lee",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Kapania, Rakesh K.",
+    "Leonessa, Alexander",
+    "Papenfuss, Cory M."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:06:57Z",
+  "date_adate": "2012-02-10",
+  "date_available": "2014-03-14T20:06:57Z",
+  "date_issued": "2012-01-18",
+  "date_rdate": "2012-02-10",
+  "date_sdate": "2012-01-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work focuses on the broadband attenuation of structural vibration and, in the process, employs a new perspective of vibrational energy harvesting devices. The first part of the research studies and develops a continuously distributed vibration control device which combines the benefits of point mass-spring-dampers at low frequencies as well as the resistive or dissipative influence of constraining treatments at high frequencies. This embodiment provides broadband passive vibration attenuation for a minimal cost in added mass, spanning the present divide between the ability to attenuate a single low frequency and the need to attenuate all frequencies. The second part adopts a vibration control perspective to energy harvesting analysis and considers the harvesting devices to be electromechanically stiffened and/or damped vibration absorbers. Rigorous analysis and experiments are carried out which show that vibration control and energy harvesting appear to be mutually beneficial given that maximum harvested energy from structural vibrations is achieved when the harvesters exert a finite dynamic influence on the host system. This suggests that vibration control concerns presently alleviated using tuned-mass-dampers are ideal energy harvesting applications.  A generalized analytical model is derived which is applicable to both portions of the work. Continuously distributed vibration control devices are studied in depth and a superposition method is presented which allows for convenient implementation of a realistic device design into the numerical model. Tests carried out with the distributed device validate the model as well as show the device's competitive benefits compared with traditional, and much heavier, vibration control treatments. The inclusion of electromechanical coupling effects into the modeling is straightforward and numerous analyses are carried out to observe how electromagnetic and piezoelectric energy harvesting devices affect the dynamics of the host vibrating structure while the harvesters themselves convert the 'absorbed' energy into electrical power. Altering the device created in the first portion of the research to use a piezoelectric material as the distributed spring yields one such embodiment capable of both surface vibration control and energy harvesting. Tests carried out with the device additionally serve as model validation but also indicate that, for a given harvester, the attenuation of and energy harvesting from structural vibrations are nearly simultaneously maximized as modeling predicted.",
+  "description_provenance": [
+    "Author Email: rharne@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: leonessa@vt.edu",
+    "Advisor Email: papenfuss@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:57Z (GMT). No. of bitstreams: 1 Harne_RL_D_2012.pdf: 8382989 bytes, checksum: 6371ba57d36b27c4d7bc6c3ae9900bc9 (MD5)   Previous issue date: 2012-01-18"
+  ],
+  "handle": "26051",
+  "identifier_other": "etd-01272012-112904",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01272012-112904/",
+  "identifier_uri": "http://hdl.handle.net/10919/26051",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Harne_RL_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "vibration suppression",
+    "energy harvesting",
+    "structural dynamics",
+    "piezoelectricity",
+    "electromagnetism"
+  ],
+  "title": "The study and development of distributed devices for concurrent vibration attenuation and energy harvesting",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Sun, Jian",
+  "contributor_committeechair": "Jelesko, John G.",
+  "contributor_committeecochair": "McDowell, John M.",
+  "contributor_committeemember": [
+    "Vinatzer, Boris A.",
+    "Beers, Eric P.",
+    "Grabau, Elizabeth A."
+  ],
+  "contributor_department": "Plant Pathology, Physiology, and Weed Science",
+  "date_accessioned": "2014-03-14T20:12:02Z",
+  "date_adate": "2008-06-06",
+  "date_available": "2014-03-14T20:12:02Z",
+  "date_issued": "2008-04-30",
+  "date_rdate": "2009-06-06",
+  "date_sdate": "2008-05-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Plant gene families organized as linked clusters are capable of evolving by a process of unequal crossing-over.  This results in the formation of chimeric genes that may impart a novel function. However, the frequency and functional consequences of these unequal cross-over events are poorly characterized.  Plant disease resistance genes (R genes) genes are frequently organized as gene clusters.  In this study, I constructed an elaborately designed reconfigurable synthetic RPP1 (for resistance to Paranospora parasitica) gene cluster (synthRPP1) to model R gene evolution by meiotic recombination. This experimental design utilizes gain-of-luciferase phenotype (luc+) to identify and isolate recombinant R genes and uses two alternatively marked alleles to distinguish and measure different types of meiotic recombination (intra- vs. inter-chromosomal). Two putative single copy transgenic plants containing the synthRPP1 gene cluster were generated. These synthRPP1 gene clusters were reconfigured in vivo by two kinds of site-specific recombination systems (CRE/Lox, FLP/FRT) to generate two alternative versions of the synthRPP1 gene clusters in vivo. These lines, as well as others being developed, will be used in future genetic crosses to identify and characterize plants expressing chimeric RPP1 genes. My second area of research was to use a previously developed synthetic RBCSB gene cluster (synthRBCSB) gene cluster to investigate the relative frequency of meiotic unequal crossing over between paralogous genes located on either homologous chromosomes (homozygous lines) or sister chromatids (hemizygous lines).  In contrast to published somatic recombination frequencies using a different reporter gene system, no statistically significant difference of meiotic unequal crossing over was observed between homo- and hemi-zygous synthRBCSB lines. This result suggests that meiotic unequal crossing-over between paralogs located on homologous chromosomes occurs at about the same frequency as paralogs located on sister chromatids.  To investigate the rate of somatic recombination in synthRBCSB lines, a QRT-PCR method was developed to estimate the frequency of somatic recombination.  Preliminary results suggest that the somatic recombination frequency was about 10,000 fold higher than meiotic recombination in the same generation. Moreover, two of five cloned chimeric genes that formed by somatic recombination indicated a different distribution of resolution sites than those observed in meiotic recombination. This finding suggests there are significant differences in both the frequency and character of somatic versus meiotic unequal crossing-over between paralogous genes in Arabidopsis.",
+  "description_provenance": [
+    "Author Email: jisun3@vt.edu",
+    "Advisor Email: vinatzer@vt.edu",
+    "Advisor Email: ebeers@vt.edu",
+    "Advisor Email: johnmcd@vt.edu",
+    "Advisor Email: jelesko@vt.edu",
+    "Advisor Email: egrabau@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:02Z (GMT). No. of bitstreams: 1 RPP1recomb.pdf: 2482628 bytes, checksum: 811dc6bf680002a0d34a03f367394fc4 (MD5)   Previous issue date: 2008-04-30"
+  ],
+  "handle": "27712",
+  "identifier_other": "etd-05142008-123222",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05142008-123222/",
+  "identifier_uri": "http://hdl.handle.net/10919/27712",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RPP1recomb.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "synthetic gene cluster",
+    "meiotic",
+    "evolution",
+    "R gene",
+    "recombination",
+    "unequal crossing-over",
+    "somatic"
+  ],
+  "title": "Investigating R gene evolution by meiotic recombination using synthetic gene clusters in Arabidopsis",
+  "type": "Dissertation"
+}

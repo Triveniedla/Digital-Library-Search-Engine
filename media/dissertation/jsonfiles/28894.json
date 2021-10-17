@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Phanse, Kaustubh Suhas",
+  "contributor_committeechair": "DaSilva, Luiz A.",
+  "contributor_committeemember": [
+    "Liang, Yao",
+    "Midkiff, Scott F.",
+    "Chen, Ing-Ray",
+    "Annamalai, Annamalai  Jr."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:59Z",
+  "date_adate": "2003-09-11",
+  "date_available": "2014-03-14T20:15:59Z",
+  "date_issued": "2003-08-22",
+  "date_rdate": "2003-09-11",
+  "date_sdate": "2003-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Managing mobile ad hoc networks (MANETs) presents new challenges due to the need for a distributed management mechanism that can efficiently adapt to the dynamic nature of these networks. In particular, provisioning and management of Quality of Service (QoS) in such networks remains a challenging task. Previous works in this field have focused largely on the monitoring and data collection aspects of network management; literature on the provisioning of devices and protocol support for MANET configuration is scarce.    One approach for QoS provisioning and management in the Internet that has met with considerable interest in the networking community is that of Policy-Based Network Management (PBNM). However, its application has been so far limited mainly to fixed high-bandwidth networks. In this research, we apply the PBNM concept, for the first time, for managing QoS in ad hoc networks. We formulate a framework to understand the various crucial components that should comprise an ad hoc network management system. We propose a taxonomy of policy architectures to classify the various feasible architectures into distinct categories. Based on our assessment using the taxonomy, we identify architectures that seem promising for managing ad hoc networks. We propose a solution suite to address the different challenges in deploying policy-based management in MANETs. These solutions include k-hop clustering, Dynamic Service Redundancy (DynaSeR), inter-domain policy negotiation, and automated service discovery. We propose extensions to the standard Common Open Policy Service (COPS) protocol and suggest methods for cross-layer interaction to implement our solutions.  Our methodology focuses on both a prototype implementation and experimental analysis using wired and wireless testbed networks, and modeling and performance evaluation using simulation. The whole exercise of conducting experiments provided valuable insight into the challenges of operating in an actual ad hoc network environment; implementation and testing facilitated assessment of the feasibility of our proposed schemes. Simulation allowed us to evaluate our solutions for different cluster sizes, network densities, and node mobility. The scalability of our solutions was tested with networks of up to 100 nodes.  In general, average service availability for the PBNM system improved as the cluster size increased, with decreased COPS connection overhead (the tradeoff is increased unpredictability, longer response time, and resource requirements at intermediate nodes to support larger clusters). We were also able to determine that, for a given cluster size, our proposed delegation scheme resulted in a 10 to 25% improvement in service availability. Using our proposed time-based heuristic, savings on the order of 50 to 400% were obtained in the service discovery overhead for larger cluster sizes. We also validated some of the simulation results against proof-of-concept experiments conducted using the testbed. We presented a working illustration of our PBNM system prototype by demonstrating its application for managing QoS for multimedia and real-time mission critical applications in a multi-domain ad hoc network.   The policy-based approach is a promising one for the management of MANETs, but it requires the flexibility to adapt to a constantly changing environment. Through experimental studies and simulation, we were able to determine that using our proposed solution suite and through the addition of a set of extensions to the COPS protocol, we can achieve our objective of a self-organizing, robust, and efficient PBNM system for managing MANETs.",
+  "description_provenance": [
+    "Author Email: kphanse@vt.edu",
+    "Advisor Email: yaliang@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: irchen@cs.vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: annamala@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:59Z (GMT). No. of bitstreams: 1 kphanse_dissertation.pdf: 4333518 bytes, checksum: 07fae43b7f6be713f6e98854b7e619ed (MD5)   Previous issue date: 2003-08-22"
+  ],
+  "handle": "28894",
+  "identifier_other": "etd-09082003-110529",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082003-110529/",
+  "identifier_uri": "http://hdl.handle.net/10919/28894",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "kphanse_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Testbed",
+    "Simulation",
+    "Solution Suite",
+    "Ad Hoc Network",
+    "Quality of Service",
+    "Framework",
+    "Policy-Based Network Management"
+  ],
+  "title": "Policy-Based Quality of Service Management in Wireless Ad Hoc Networks",
+  "type": "Dissertation"
+}

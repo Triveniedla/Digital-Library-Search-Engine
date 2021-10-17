@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Ba-abbad, Mazen",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Johnson, Eric R.",
+    "Allen, Michael J.",
+    "West, Robert L. Jr.",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:12:35Z",
+  "date_adate": "2004-06-18",
+  "date_available": "2014-03-14T20:12:35Z",
+  "date_issued": "2004-03-23",
+  "date_rdate": "2005-06-18",
+  "date_sdate": "2004-05-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A two part study is performed to investigate the application of reliability-based design optimization (RBDO) approach to design elastic-plastic stiffener beams with Tsection. The objectives of this study are to evaluate the benefits of reliability-based optimization over deterministic optimization, and to illustrate through a practical design example some of the difficulties that a design engineer may encounter while performing reliability-based optimization. Other objectives are to search for a computationally economic RBDO method and to utilize that method to perform RBDO to design an elastic-plastic T-stiffener under combined loads and with flexural-torsional buckling and local buckling failure modes. First, a nonlinear elastic-plastic T-beam was modeled using a simple 6 degree-of-freedom non-linear beam element. To address the problems of RBDO, such as the high non-linearity and derivative discontinuity of the reliability function, and to illustrate a situation where RBDO fails to produce a significant improvement over the deterministic optimization, a graphical method was developed. The method started by obtaining a deterministic optimum design that has the lowest possible weight for a prescribed safety factor (SF), and based on that design, the method obtains an improved optimum design that has either a higher reliability or a lower weight or cost for the same level of reliability as the deterministic design. Three failure modes were considered for an elastic-plastic beam of T cross-section under combined axial and bending loads. The failure modes are based on the total plastic failure in a beam section, buckling, and maximum allowable deflection. The results of the first part show that it is possible to get improved optimum designs (more reliable or lighter weight) using reliability-based optimization as compared to the design given by deterministic optimization. Also, the results show that the reliability function can be highly non-linear with respect to the design variables and with discontinuous derivatives. Subsequently, a more elaborate 14-degrees-of-freedom beam element was developed and used to model the global failure modes, which include the flexural-torsional and the out-of-plane buckling modes, in addition to local buckling modes. For this subsequent study, four failure modes were specified for an elasticplastic beam of T-cross-section under combined axial, bending, torsional and shear loads. These failure modes were based on the maximum allowable in-plane, out-ofplane and axial rotational deflections, in addition, to the web-tripping local buckling. Finally, the beam was optimized using the sequential optimization with reliabilitybased factors of safety (SORFS) RBDO technique, which was computationally very economic as compared to the widely used nested optimization loop techniques. At the same time, the SOPSF was successful in obtaining superior designs than the deterministic optimum designs (either up to12% weight savings for the same level of safety, or up to six digits improvement in the reliability for the same weight for a design with Safety Factor 2.50).",
+  "description_provenance": [
+    "Author Email: mbaabbad@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: miallen@vt.edu",
+    "Advisor Email: westrl@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:35Z (GMT). No. of bitstreams: 1 MB_Dissertation.pdf: 1814277 bytes, checksum: 140f7ecb6148a9df39b9f7205103f4ce (MD5)   Previous issue date: 2004-03-23"
+  ],
+  "handle": "27895",
+  "identifier_other": "etd-05262004-131642",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05262004-131642/",
+  "identifier_uri": "http://hdl.handle.net/10919/27895",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MB_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Nonlinear",
+    "Reliability-Based Optimization",
+    "Finite Element"
+  ],
+  "title": "Reliability-based Design Optimization of a Nonlinear Elastic Plastic Thin-Walled T-Section Beam",
+  "type": "Dissertation"
+}

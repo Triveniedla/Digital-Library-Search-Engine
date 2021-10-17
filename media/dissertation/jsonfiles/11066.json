@@ -1,0 +1,60 @@
+{
+  "contributor_author": "Hayes, Michael David",
+  "contributor_committeechair": "Lesko, John J.",
+  "contributor_committeemember": [
+    "Case, Scott W.",
+    "Hyer, Michael W.",
+    "Hajj, Muhammad R.",
+    "Cousins, Thomas E."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T18:51:22Z",
+  "date_adate": "2003-12-08",
+  "date_available": "2011-08-22T18:51:22Z",
+  "date_issued": "2003-11-18",
+  "date_rdate": "2003-12-08",
+  "date_sdate": "2003-12-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is focused on understanding the performance of a particular fiber-reinforced polymeric composite structural beam, a 91.4 cm (36 inch) deep pultruded double-web beam (DWB) designed for bridge construction.  Part 1 focuses on calculating the Timoshenko shear stiffness of the DWB and understanding what factors may introduce error in the experimental measurement of the quantity for this and other sections.  Laminated beam theory and finite element analysis (FEA) were used to estimate the shear stiffness.  Several references in the literature have hypothesized an increase in the effective measured shear stiffness due to warping.  A third order laminated beam theory (TLBT) was derived to explore this concept, and the warping effect was found to be negligible.  Furthermore, FEA results actually indicate a decrease in the effective shear stiffness at shorter spans for simple boundary conditions.  This effect was attributed to transverse compression at the load points and supports.  The higher order sandwich theory of Frostig shows promise for estimating the compression related error in the shear stiffness for thin-walled beams.  Part 2 attempts to identify the failure mechanism(s) under quasi-static loading and to develop a strength prediction for the DWB.  FEA was utilized to investigate two possible failure modes in the top flange: compression failure of the carbon fiber plies and delamination at the free edges or taper regions.  The onset of delamination was predicted using a strength-based approach, and the stress analysis was accomplished using a successive sub-modeling approach in ANSYS.  The results of the delamination analyses were inconclusive, but the predicted strengths based on the compression failure mode show excellent agreement with the experimental data.  A fatigue life prediction, assuming compression failure, was also developed using the remaining strength and critical element concepts of Reifsnider et al.  One DWB fatigued at about 30% of the ultimate capacity showed no signs of damage after 4.9 million cycles, although the predicted number of cycles to failure was 4.4 million.  A test on a second beam at about 60% of the ultimate capacity was incomplete at the time of publication.  Thus, the success of the fatigue life prediction was not confirmed.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:51:22Z (GMT). No. of bitstreams: 4  Hayes_Part_2_strength_and_life_predictions.pdf: 2781820 bytes, checksum: 542136ba54aa13a2c7412bd89c89de29 (MD5)  Hayes_Part_1_shear_stiffness.pdf: 995394 bytes, checksum: d75442376386f3110b7483ea521bf57c (MD5)  Hayes_Appendix_B_ANSYS_code.pdf: 47546 bytes, checksum: 8eccd63888ad41f8c76b580fba18671d (MD5)  Hayes_Appendix_A_TLBT.pdf: 2072558 bytes, checksum: 7cbe650db3fb8cb0f7b51c4edc81b4b7 (MD5)    Previous issue date: 2003-11-18",
+    "Author Email: mdhayes@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: mhajj@vt.eu",
+    "Advisor Email: tcousins@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11066",
+  "identifier_other": "etd-12052003-154555",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12052003-154555",
+  "identifier_uri": "http://hdl.handle.net/10919/11066",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Hayes_Appendix_A_TLBT.pdf",
+    "Hayes_Part_1_shear_stiffness.pdf",
+    "Hayes_Appendix_B_ANSYS_code.pdf",
+    "Hayes_Part_2_strength_and_life_predictions.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "finite element analysis",
+    "beam theory",
+    "fatigue life",
+    "remaining strength",
+    "strength",
+    "durability",
+    "FRP beam",
+    "compression",
+    "delamination",
+    "Timoshenko shear stiffness"
+  ],
+  "title": "Structural Analysis of a Pultruded Composite Beam: Shear Stiffness Determination and Strength and Fatigue Life Predictions",
+  "type": "Dissertation"
+}

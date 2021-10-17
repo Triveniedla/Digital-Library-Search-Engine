@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Karlgaard, Christopher David",
+  "contributor_committeecochair": [
+    "Schaub, Hanspeter",
+    "Hall, Christopher D."
+  ],
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Sultan, Cornel",
+    "Seywald, Hans"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:56Z",
+  "date_adate": "2010-08-12",
+  "date_available": "2014-03-14T20:13:56Z",
+  "date_issued": "2010-06-28",
+  "date_rdate": "2010-08-12",
+  "date_sdate": "2010-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The development of navigation filters that make use of  robust estimation techniques is important due to the sensitivity of the typical minimum L2 norm techniques, such as the Kalman filter, to deviations in the assumed underlying probability distribution. In particular, those distributions with thicker tails than the Gaussian distribution can give rise to erratic filter performance and inconsistency of results. This dissertation discusses the development of an adaptive discrete-time robust nonlinear filtering technique based on a recursive form of Huber's mixed minimum L1/L2 norm approach to estimation, which is robust with respect to deviations from the assumed Gaussian error probability distributions inherent to the Kalman filter. This mixed norm approach is applied to a type of Sigma-Point Kalman filter, known as the Divided Difference Filter, which can capture second-order effects of nonlinearities in the system and measurement dynamics.  Additionally, if these assumed parameters of the distribution differ greatly from the true parameters, then the filter can exhibit large errors and possibly divergence in nonlinear problems. This behavior is possible even if the true error distributions are Gaussian. To remedy these problems, adaptive filtering techniques have been introduced in order to automatically tune the Kalman filter by estimating the measurement and process noise covariances, however these techniques can also be highly sensitive to the nature of the underlying error distributions. The Huber-based formulations of the filtering problem also make some assumptions regarding the distribution, namely the approach considers a class of contaminated densities in the neighborhood of the Gaussian density. Essentially the method assumes that the statistics of the main Gaussian density are known, as well as the ratio or percentage of the contamination. The technique can be improved upon by the introduction of a method to adaptively estimate the noise statistics along with the state and state error covariance matrix. One technique in common use for adaptively estimating the noise statistics in real-time filtering applications is known as covariance matching. The covariance matching technique is an intuitively appealing approach in which the measurement noise and process noise covariances are determined in such a way that the true residual covariance matches the theoretically predicted covariance. The true residual covariance is approximated in real time using the sample covariance, over some finite buffer of stored residuals.  The drawback to this approach is that the presence of outliers and non-Gaussianity can create problems of robustness with the use of the covariance matching technique. Therefore some additional steps must be taken to identify the outliers before forming the covariance estimates. In this dissertation, an adaptive scheme is proposed whereby the filter can estimate the process noise and measurement noise covariance matrices along with the state estimate and state estimate error covariance matrix. The adaptation technique adopts a robust approach to estimating these covariances that can resist the effects of outliers. The particular outlier identification method employed in this paper is based on quantities known as projection statistics, which utilize the sample median and median absolute deviation, and as a result are highly effective technique for multivariate outlier identification. These projection statistics are then employed as weights in the covariance matching procedure in order to reduce the influence of the outliers.  The hybrid robust/adaptive nonlinear filtering methods introduced in this dissertation are applied to the problem of 6-DOF rendezvous navigation in elliptical orbit. The full nonlinear equations of relative motion are formulated in spherical coordinates centered on the target orbit. A relatively simple control law based on feedback linearization is used to track a desired rendezvous trajectory. The attitude dynamics are parameterized using Modified Rodrigues Parameters, which are advantageous for both control law development and estimation since they constitute a minimal 3-parameter attitude description. A  switching technique which exploits the stereographic projection properties of the MRP coordinate is utilized to avoid singularities which inevitably arise in minimal attitude descriptions. This dissertation also introduces the proper covariance transformations associated with the singularity avoidance switching technique. An attitude control law based on backstepping is employed to track the target vehicle.  A sensor suite consisting of a generic lidar or optical sensor, an Inertial Measurement Unit, consisting of accelerometers and gyroscopes, a star tracker, and a horizon sensor are utilized to provide measurement data to the navigation filters so that the chaser vehicle can estimate its relative state during the rendezvous maneuver. Several filters are implemented for comparison, including the Extended Kalman Filter, First and Second-Order Divided Difference Filters and Huber-based generalizations of these filters that include adaptive techniques for estimating the noise covariances. Monte-Carlo simulations are presented which include both Gaussian and non-Gaussian errors, including mismatches in the assumed noise covariances in the navigation filters in order to illustrate the benefits of the robust/adaptive nonlinear filters. Additionally, computational burdens of the various filters is compared.",
+  "description_provenance": [
+    "Author Email: karlgaard@ama-inc.com",
+    "Advisor Email: hanspeter.schaub@colorado.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: csultan@vt.edu",
+    "Advisor Email: seywald@ama-inc.com",
+    "Made available in DSpace on 2014-03-14T20:13:56Z (GMT). No. of bitstreams: 1 Karlgaard_CD_D_2010.pdf: 16101368 bytes, checksum: a778a9d55ff88440171c1e3ff6b69c4e (MD5)   Previous issue date: 2010-06-28"
+  ],
+  "handle": "28274",
+  "identifier_other": "etd-07122010-002959",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122010-002959/",
+  "identifier_uri": "http://hdl.handle.net/10919/28274",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Karlgaard_CD_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Robust Estimation",
+    "Rendezvous",
+    "Adaptive Estimation"
+  ],
+  "title": "Robust Adaptive Estimation for Autonomous Rendezvous in Elliptical Orbit",
+  "type": "Dissertation"
+}

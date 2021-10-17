@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Qiu, Bin",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Broadwater, Robert P.",
+    "Lin, Tao",
+    "Abbott, A. Lynn",
+    "Conners, Richard W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:54Z",
+  "date_adate": "2002-05-06",
+  "date_available": "2014-03-14T20:10:54Z",
+  "date_issued": "2002-04-22",
+  "date_rdate": "2003-05-06",
+  "date_sdate": "2002-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As the power industry enters the new century, powerful driving forces, uncertainties and new services and functions are compelling electric utilities to make dramatic changes in the way they communicate. Expanding network services such as real time monitoring are also driving the need for more increasing bandwidth in the communication network backbone. These needs will grow further as new remote real-time protection and control applications become more feasible and pervasive. This dissertation addresses two main issues for the future power system information infrastructure: communication network infrastructure and associated power system applications.  Optical network no doubt will become the predominate network for the next generation power system communication. The rapid development of fiber optic network technology poses new challenges in the areas of topology design, network management and real time applications. Based on advanced fiber optic technologies, an all-fiber network was investigated and proposed. The study will cover the system architecture and data exchange protocol aspects.   High bandwidth, robust optical network could provide great opportunities to the power system for better service and efficient operation. In the dissertation, different applications were investigated. One of the typical applications is the SCADA information accessing system. An Internet-based application for the substation automation system will be presented. VLSI (Very Large Scale Integration) technology is also used for one-line diagrams auto-generation. High transition rate and low latency optical network is especially suitable for power system real time control. In the dissertation, a new local area network based Load Shedding Controller (LSC) for isolated power system will be presented. By using PMU and fiber optic network, an AGE (Area Generation Error) based accurate wide area load shedding scheme will also be proposed. The objective is to shed the load in the limited area with minimum disturbance.",
+  "description_provenance": [
+    "Author Email: qiubin@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:54Z (GMT). No. of bitstreams: 1 DissertationFinal.pdf: 2651328 bytes, checksum: af7cdf5a741bce83cc8f4c12abc30299 (MD5)   Previous issue date: 2002-04-22"
+  ],
+  "handle": "27308",
+  "identifier_other": "etd-04262002-133006",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262002-133006/",
+  "identifier_uri": "http://hdl.handle.net/10919/27308",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationFinal.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Phasor Measurement Unit",
+    "One-Line Diagram Auto-Generation",
+    "Information Infrastructure",
+    "LAN Load Shedding",
+    "Power System"
+  ],
+  "title": "Next Generation Information Communication Infrastructure and Case Studies for Future Power Systems",
+  "type": "Dissertation"
+}

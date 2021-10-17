@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Suhaib, Syed Mohammed",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Hsiao, Michael S.",
+    "Ha, Dong Sam",
+    "Kachroo, Pushkin",
+    "Shockley, James E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:10Z",
+  "date_adate": "2007-09-25",
+  "date_available": "2014-03-14T20:16:10Z",
+  "date_issued": "2007-08-29",
+  "date_rdate": "2007-09-25",
+  "date_sdate": "2007-09-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A significant part of the System-on-a-Chip (SoC) design problem is in the correct composition of intellectual property (IP) blocks. Ever increasing clock frequencies make it impossible for signals to reach from one end of the chip to the other end within a clock cycle; this invalidates the so-called synchrony assumption, where the timing of computation and communication are assumed to be negligible, and happen within a clock cycle. Missing the timing deadline causes this violation, and may have ramifications on the overall system reliability. Although latency insensitive protocols (LIPs) have been proposed as a solution to the problem of signal propagation over long interconnects, they have their own limitations. A more generic solution comes in the form of globally asynchronous locally synchronous (GALS) designs. However, composing synchronous IP blocks either over long multicycle delay interconnects or over asynchronous communication links for a GALS design is a challenging task, especially for ensuring the functional correctness of the overall design. In this thesis, we analyze various solutions for solving the synchronization problems related with IP composition. We present alternative LIPs, and provide a validation framework for ensuring their correctness. Our notion of correctness is that of latency equivalence between a latency insensitive design and its synchronous counterpart. We propose a trace-based framework for analyzing synchronous behaviors of different IPs, and provide a correct-by-construction protocol for their transformation to a GALS design. We also present a design framework for facilitating GALS designs. In the framework, Kahn process network specifications are refined into correct-by-construction GALS designs. We present formal definitions for the refinements towards different GALS architectures. For facilitating GALS in distributed embedded software, we analyze certain subclasses of synchronous designs using a Pomset-based semantic model that allows for desynchronization toward GALS.",
+  "description_provenance": [
+    "Author Email: ssuhaib@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: shockley@calvin.math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:10Z (GMT). No. of bitstreams: 1 ssuhaib_etd.pdf: 1689475 bytes, checksum: 6123b9950161794aac786b82dcdd81e8 (MD5)   Previous issue date: 2007-08-29"
+  ],
+  "handle": "28952",
+  "identifier_other": "etd-09122007-153123",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09122007-153123/",
+  "identifier_uri": "http://hdl.handle.net/10919/28952",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ssuhaib_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Globally Asynchronous Locally Synchronous Designs",
+    "Intellectual Property Composition",
+    "Latency Insensitive Designs",
+    "Correct-by-Construction Protocols"
+  ],
+  "title": "Formal Methods for Intellectual Property Composition Across Synchronization Domains.",
+  "type": "Dissertation"
+}

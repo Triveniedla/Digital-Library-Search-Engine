@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Park, Jahng Sun",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Gray, Festus Gail",
+    "Nance, Richard E.",
+    "Woerner, Brian D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:00Z",
+  "date_adate": "2001-10-03",
+  "date_available": "2014-03-14T20:17:00Z",
+  "date_issued": "2001-09-18",
+  "date_rdate": "2002-10-03",
+  "date_sdate": "2001-10-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Over the past few years, many high performance asynchronous transfer mode (ATM) switches have been proposed.  The majority of these switches have high performance but also high hardware complexity.  Therefore, there is a need for switch designs with low complexity and high performance.  This research proposes three new ATM switches based on the folded hypercube network (FHC).  The performance of the three architectures are studied using a network model and simulation.  The major performance parameters measured are the cell loss rate and cell delay time through the switch under uniform, normal, and bursty traffic patterns.  To guarantee faster switching of time-sensitive cells, the routing algorithm of the three switches uses a priority scheme that gives higher precedence to the time-sensitive cells.  Also, an output buffer controller is designed to manage the buffers in a fair manner.  The three proposed switch architectures have lower complexity while providing equivalent or better switching performance compared to other more complex ATM switches described in the literature.  This research shows a new approach to designing ATM switches by using the FHC as the switching fabric for the first time instead of using the crossbar, multi-path, or Banyan-based switching fabrics.",
+  "description_provenance": [
+    "Author Email: jspark@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: fggray@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: nance@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:00Z (GMT). No. of bitstreams: 1 JahngPark_ETD.pdf: 1222278 bytes, checksum: 7de09bf3ebd537fe267144c07c80d538 (MD5)   Previous issue date: 2001-09-18"
+  ],
+  "handle": "29167",
+  "identifier_other": "etd-10022001-161107",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10022001-161107/",
+  "identifier_uri": "http://hdl.handle.net/10919/29167",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JahngPark_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Folded Hypercube",
+    "ATM Network",
+    "Switching Fabric"
+  ],
+  "title": "The Folded Hypercube ATM Switches",
+  "type": "Dissertation"
+}

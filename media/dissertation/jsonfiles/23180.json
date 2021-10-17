@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Fayez, Almohanad Samir",
+  "contributor_committeechair": "Bostian, Charles W",
+  "contributor_committeemember": [
+    "Taaffe, Michael R",
+    "Baumann, William T",
+    "Midkiff, Scott F",
+    "Patterson, Cameron D"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-06-08T08:00:31Z",
+  "date_available": "2013-06-08T08:00:31Z",
+  "date_issued": "2013-06-07",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Software Defined Radios (SDRs) lend themselves to flexibility and extensibility because they<br />depend on software to implement radio functionality. Cognitive Engines (CEs) introduce<br />intelligence to radio by monitoring radio performance through a set of meters and configuring<br />the underlying radio design by modifying its knobs. In Cognitive Radio (CR) applications,<br />CEs intelligently monitor radio performance and reconfigure them to meet it application<br />and RF channel needs. While the issue of introducing computational knobs and meters<br />is mentioned in literature, there has been little work on the practical issues involved in<br />introducing such computational radio controls.<br /><br />This dissertation decomposes the radio definition to reactive models for the CE domain<br />and real-time, or dataflow models, for the SDR domain. By allowing such design space<br />decomposition, CEs are able to define implementation independent radio graphs and rely on<br />a model transformation layer to transform reactive radio models to real-time radio models<br />for implementation. The definition of knobs and meters in the CE domain is based on<br />properties of the dataflow models used in implementing SDRs. A framework for developing<br />this work is presented, and proof of concept radio applications are discussed to demonstrate<br />how CEs can gain insight into computational aspects of their radio implementation during<br />their reconfiguration decision process.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-08T08:00:31Z (GMT). No. of bitstreams: 1 Fayez_AS_D_2013.pdf: 5108480 bytes, checksum: 48408ca4244047cbd0a67acecc84b3d0 (MD5)   Previous issue date: 2013-06-07",
+  "format_medium": "ETD",
+  "handle": "23180",
+  "identifier_other": "vt_gsexam:819",
+  "identifier_uri": "http://hdl.handle.net/10919/23180",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Software Defined Radio",
+    "Cognitive Radio",
+    "Models of Computation",
+    "CSP",
+    "SDF",
+    "GNU Radio",
+    "OCCAM"
+  ],
+  "title": "Design Space Decomposition for Cognitive and Software Defined Radios",
+  "type": "Dissertation"
+}

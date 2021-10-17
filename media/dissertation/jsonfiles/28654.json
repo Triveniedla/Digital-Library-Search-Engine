@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Navin, Michael Patrick",
+  "contributor_committeechair": "Filz, George M.",
+  "contributor_committeemember": [
+    "Duncan, James Michael",
+    "Singh, Mahendra P.",
+    "Gutierrez, Marte S.",
+    "Kriz, Ronald D."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:12Z",
+  "date_adate": "2005-08-25",
+  "date_available": "2014-03-14T20:15:12Z",
+  "date_issued": "2005-08-01",
+  "date_rdate": "2007-08-25",
+  "date_sdate": "2005-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Foundations constructed by the deep mixing method have been used to successfully support embankments, structures, and excavations in Japan, Scandinavia, the U.S., and other countries.  The current state of practice is that design is based on deterministic analyses of settlement and stability, even though deep mixed materials are highly variable.  Conservative deterministic design procedures have evolved to limit failures.  Disadvantages of this approach include (1) designs with an unknown degree of conservatism and (2) contract administration problems resulting from unrealistic specifications for deep mixed materials.</p><p>  This dissertation describes research conducted to develop reliability-based design procedures for foundations constructed using the deep mixing method.  The emphasis of the research and the included examples are for embankment support applications, but the principles are applicable to foundations constructed for other purposes. </p><p> Reliability analyses for foundations created by the deep mixing method are described and illustrated using an example embankment.  The deterministic stability analyses for the example embankment were performed using two methods: limit equilibrium analyses and numerical stress-strain analyses.  An important finding from the research is that both numerical analyses and reliability analyses are needed to properly design embankments supported on deep mixed columns.  Numerical analyses are necessary to address failure modes, such as column bending and tilting, that are not addressed by limit equilibrium analyses, which only cover composite shearing.  Reliability analyses are necessary to address the impacts of variability of the deep mixed materials and other system components.  </p><p> Reliability analyses also provide a rational basis for establishing statistical specifications for deep mixed materials.  Such specifications will simplify administration of construction contracts and reduce claims while still providing assurance that the design intent is satisfied. </p><p> It is recommended that reliability-based design and statistically-based specifications be implemented in practice now.",
+  "description_provenance": [
+    "Author Email: mnavin@vt.edu",
+    "Advisor Email: jmd@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: magutier@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:12Z (GMT). No. of bitstreams: 2 Navin_CV.pdf: 83338 bytes, checksum: 94524bf465ee49f8cd935e0711ef6b65 (MD5) dissertation_revised.pdf: 3140597 bytes, checksum: abb69790533dfc6f37149231a21ed7e0 (MD5)   Previous issue date: 2005-08-01"
+  ],
+  "handle": "28654",
+  "identifier_other": "etd-08142005-183657",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142005-183657/",
+  "identifier_uri": "http://hdl.handle.net/10919/28654",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Navin_CV.pdf",
+    "dissertation_revised.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ground improvement",
+    "slope stability",
+    "deep mixing",
+    "numerical analysis"
+  ],
+  "title": "Stability of Embankments Founded on Soft Soil  Improved with Deep-Mixing-Method Columns",
+  "type": "Dissertation"
+}

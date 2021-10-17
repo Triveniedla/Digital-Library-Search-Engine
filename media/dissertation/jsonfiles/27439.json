@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Wadoo, Sabiha Amin",
+  "contributor_committeechair": "Kachroo, Pushkin",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Safaai-Jazi, Ahmad",
+    "Baumann, William T.",
+    "Stilwell, Daniel J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:15Z",
+  "date_adate": "2007-05-01",
+  "date_available": "2014-03-14T20:11:15Z",
+  "date_issued": "2007-04-23",
+  "date_rdate": "2007-05-01",
+  "date_sdate": "2007-04-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we develop feedback control strategies that can be used for evacuating people. Pedestrian models are based on macroscopic or microscopic behavior. We use the macroscopic modeling approach, where pedestrians are treated in an aggregate way and detailed interactions are overlooked. The models representing evacuation dynamics are based on the laws of conservation of mass and momentum and are described by nonlinear hyperbolic partial differential equations. As such the system is distributed in nature.  We address the design of feedback control for these models in a distributed setting where the problem of control and stability is formulated directly in the framework of partial differential equations. The control goal is to design feedback controllers to control the movement of people during evacuation and avoid jams and shocks. We design the feedback controllers for both diffusion and advection where the density of people diffuses as well as moves in a specified direction with time. In order to achieve this goal we are assuming that the control variables have no bounds. However, it is practically impossible to have unbounded controls so we modify the controllers in order to take the effect of control saturation into account. We also discuss the feedback control for these models in presence of uncertainties where the goal is to design controllers to minimize the effect of uncertainties on the movement of people during evacuation. The control design technique adopted in all these cases is feedback linearization which includes backstepping for higher order two-equation models, Lyapunov redesign for uncertain models and robust backstepping for two-equation uncertain models. The work also focuses on abstraction of evacuation system which focuses on obtaining models with lesser number of partial differential equations than the original one.  The feedback control design of a higher level two-equation model is more difficult than the lower order one-equation model. Therefore, it is desirable to perform control design for a simpler abstracted model and then transform control design back to the original model.",
+  "description_provenance": [
+    "Author Email: sawadoo@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:15Z (GMT). No. of bitstreams: 1 SWDissertation.pdf: 1911699 bytes, checksum: 5a14444e6bc1d8c0cf7add93cd350360 (MD5)   Previous issue date: 2007-04-23"
+  ],
+  "handle": "27439",
+  "identifier_other": "etd-04292007-112747",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04292007-112747/",
+  "identifier_uri": "http://hdl.handle.net/10919/27439",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SWDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "distributed robust backstepping.",
+    "robust feedback",
+    "distributed feedback",
+    "pde backstepping",
+    "abstraction",
+    "distributed feedback linearization",
+    "evacuation control"
+  ],
+  "title": "Evacuation Distributed Feedback Control and Abstraction",
+  "type": "Dissertation"
+}

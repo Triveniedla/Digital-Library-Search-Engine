@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Bazaz, Anil",
+  "contributor_committeechair": "Arthur, James D.",
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:10:05Z",
+  "date_adate": "2006-04-26",
+  "date_available": "2014-03-14T20:10:05Z",
+  "date_issued": "2006-04-14",
+  "date_rdate": "2006-04-26",
+  "date_sdate": "2006-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In recent years, the number of exploits targeting software applications has increased dramatically. These exploits have caused substantial economic damages. Ensuring that software applications are not vulnerable to the exploits has, therefore, become a critical requirement. The last line of defense is to test before hand if a software application is vulnerable to exploits. One can accomplish this by testing for the presence of vulnerabilities.  <p>    This dissertation presents a framework for deriving verification and validation (V&V) strategies to assess the security of a software application by testing it for the presence of vulnerabilities. This framework can be used to assess the security of any software application that executes above the level of the operating system. It affords a novel approach, which consists of testing if the software application permits violation of constraints imposed by computer system resources or assumptions made about the usage of these resources. A vulnerability exists if a constraint or an assumption can be violated. Distinctively different from other approaches found in the literature, this approach simplifies the process of assessing the security of a software application.  <p>    The framework is composed of three components: (1) a taxonomy of vulnerabilities, which is an informative classification of vulnerabilities, where vulnerabilities are expressed in the form of violable constraints and assumptions; (2) an object model, which is a collection of potentially vulnerable process objects that can be present in a software application; and (3) a V&V strategies component, which combines information from the taxonomy and the object model; and provides approaches for testing software applications for the presence of vulnerabilities. This dissertation also presents a step-by-step process for using the framework to assess software security.",
+  "description_provenance": [
+    "Author Email: abazaz@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:05Z (GMT). No. of bitstreams: 1 dissertation-abazaz.pdf: 374737 bytes, checksum: f79afb9071b0da23aaa9826f37d5c955 (MD5)   Previous issue date: 2006-04-14"
+  ],
+  "handle": "27006",
+  "identifier_other": "etd-04192006-150313",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192006-150313/",
+  "identifier_uri": "http://hdl.handle.net/10919/27006",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-abazaz.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Vulnerabilities",
+    "Verification",
+    "Validation",
+    "Software Security",
+    "Constraints",
+    "Assumptions"
+  ],
+  "title": "A Framework for Deriving Verification and Validation Strategies to Assess Software Security",
+  "type": "Dissertation"
+}

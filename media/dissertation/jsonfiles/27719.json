@@ -1,0 +1,61 @@
+{
+  "contributor_author": "Park, Gyuhae",
+  "contributor_committeecochair": [
+    "Inman, Daniel J.",
+    "Cudney, Harley H."
+  ],
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Ahmadian, Mehdi",
+    "Claus, Richard O."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:04Z",
+  "date_adate": "2000-05-17",
+  "date_available": "2014-03-14T20:12:04Z",
+  "date_issued": "2000-04-28",
+  "date_rdate": "2001-05-17",
+  "date_sdate": "2000-05-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research reviews and extends the impedance-based structural health monitoring technique in order to detect and identify structural damage on various complex structures.  The basic principle behind this technique is to apply high frequency structural excitations (typically higher than 30 kHz) through the surface-bonded piezoelectric transducers, and measure the impedance of structures by monitoring the current and voltage applied to the transducers.  Changes in impedance indicate changes in the structure, which in turn can indicate that damage has occurred.    Several case studies, including a pipeline structure, a composite reinforced aluminum plate, a precision part (gear), a quarter-scale bridge section, and a steel pipe header, demonstrate how this technique can be used to detect damage in real-time.  A method to process impedance measurements to prevent significant temperature and boundary condition changes registering as damage has been developed and implemented.  Furthermore, the feasibility of using the technique for high temperature structures and for condition monitoring of critical facilities subjected to a severe natural disaster has been investigated.      While the impedance-based structural health monitoring technique indicates qualitatively that damage has occurred, more information on the nature of damage is necessary for remote structures.  In this research, two different damage identification schemes have been combined with the impedance method in order to quantitatively assess the state of structures.  One is based on a wave propagation modeling, and the other is the use of artificial neural networks.  A newly developed wave propagation model has been developed and combined with the impedance method in order to estimate the severity of damage.  Numerical and experimental investigations on 1-dimensional structures were presented to illustrate the effectiveness of the combined approach.  Furthermore, to avoid the complexity introduced by conventional computational methods in high frequency ranges, multiple sets of artificial neural networks were integrated with the impedance-based health monitoring technique.  By incorporating neural network features, the technique is able to detect damage in its early stage and to determine the severity of damage without prior knowledge of the model of structures.  The dissertation concludes with experimental examples, investigations on a quarter-scale steel bridge section and a space truss structure, in order to verify the performance of the proposed methodology.",
+  "description_provenance": [
+    "Author Email: gpark@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: cudney@vt.edu",
+    "Advisor Email: roclaus@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:04Z (GMT). No. of bitstreams: 11 chapter3.pdf: 842988 bytes, checksum: a85bec8b3f7efcdb2cb40cce7d6a8c82 (MD5) chapter4.pdf: 755199 bytes, checksum: 6340152496e5e0e288fb09a775657566 (MD5) vita.pdf: 40530 bytes, checksum: 31217fc84f126196c079d1624d57a3fa (MD5) reference.pdf: 97454 bytes, checksum: cb0905e6cd1597bc14d6d2512375ca35 (MD5) chapter7.pdf: 72435 bytes, checksum: a971e865d67f115a430d7ba81e443d4c (MD5) chapter2.pdf: 670188 bytes, checksum: f3d9f924d23b3fb269b7f39c0fa7d5c5 (MD5) chapter6.pdf: 378913 bytes, checksum: 02cb081bb2f4f4893f65868910b3c252 (MD5) chapter5.pdf: 318344 bytes, checksum: b3729b6d05cbdcc947330dc957d5dcdc (MD5) 02tableofcontents.pdf: 103525 bytes, checksum: 4ea393b4d2fde0a2423728ae6bcc1355 (MD5) chapter1.pdf: 144866 bytes, checksum: 44695bda2852daa7feda8e7f6741c090 (MD5) 01cover_abstract.pdf: 62252 bytes, checksum: 1db8ed8e086b2286240ea18eef7209ee (MD5)   Previous issue date: 2000-04-28"
+  ],
+  "handle": "27719",
+  "identifier_other": "etd-05152000-11490052",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05152000-11490052/",
+  "identifier_uri": "http://hdl.handle.net/10919/27719",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chapter3.pdf",
+    "chapter4.pdf",
+    "vita.pdf",
+    "reference.pdf",
+    "chapter7.pdf",
+    "chapter2.pdf",
+    "chapter6.pdf",
+    "chapter5.pdf",
+    "02tableofcontents.pdf",
+    "chapter1.pdf",
+    "01cover_abstract.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "piezoelectric sensors and actuators",
+    "damage assessment",
+    "structural health monitoring",
+    "smart structures",
+    "neural network",
+    "wave propagation"
+  ],
+  "title": "Assessing Structural Integrity using Mechatronic Impedance Transducers with Applications in Extreme Environments",
+  "type": "Dissertation"
+}

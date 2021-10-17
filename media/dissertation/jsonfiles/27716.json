@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Rice, Matthew  Jason",
+  "contributor_committeechair": "Dancey, Clinton L.",
+  "contributor_committeemember": [
+    "Tafti, Danesh K.",
+    "Ragab, Saad A.",
+    "Vick, Brian L.",
+    "Vlachos, Pavlos P.",
+    "Stremler, Mark A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:03Z",
+  "date_adate": "2011-07-01",
+  "date_available": "2014-03-14T20:12:03Z",
+  "date_issued": "2011-04-05",
+  "date_rdate": "2011-07-01",
+  "date_sdate": "2011-05-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The present work seeks to fully investigate, describe and characterize the distinct flow regimes existing within a mixing vessel at various rotational speeds. This investigation is computational in nature and simulates the flow within a baffled tank containing a Rushton turbine of the standard configuration. For a Re based on impeller diameter and blade rotational speed (Re â ¡ Ï ND2/Î¼) the following flow regimes were identified and investigated in detail: Reverse/reciprocating flows at very low Re (<10); stalled flows at low Re (â  10); laminar pumping flow for higher Re and transitional pumping flow (10 squared < Re <10 to the 4th).  For the three Re numbers 1, 10 and 28, it was found that for the higher Re number (28), the flow exhibited the familiar outward pumping action associated with radial impellers under turbulent flow conditions. However, as the Re number decreases, the net radial flow during one impeller revolution was reduced and for the lowest Re number a reciprocating motion with negligible net pumping was observed. In order to elucidate the physical mechanism responsible for the observed flow pattern at low Re, the forces acting on a fluid element in the radial direction were analyzed. Based on this analysis, a simplified quasi-analytic model of the flow was developed that gives a satisfactory qualitative, as well as quantitative representation of the flow at very low Re.  Investigation of the transitional flow regime (Re â   3000) includes a compilation and characterization of ensemble and turbulent quantities such as the Reynolds stress components, dissipation length Î· and time scales Ï  , as well a detailed investigation of the near-impeller flow and trailing vortex. Calculation and compilation of all terms in the turbulent kinetic energy transport equation was performed (including generation and the illusive turbulent pressure work). Specifically, the most important transport mechanism was turbulent convection/diffusion from the impeller disk-plane/trailing vortex region. Mean flow transport of turbulent kinetic energy was primarily towards the impeller disk-plane and radially outward from the trailing vortex region. The turbulent pressure work was found to partially counteract turbulent convection. Turbulent dissipation followed by turbulent viscous work were found to be the least important mechanism responsible for turbulent transport with both terms being maximized within the vortex region and at the disk-plane down-stream from the vortices.",
+  "description_provenance": [
+    "Author Email: matthew.rice@hotmail.co.uk",
+    "Advisor Email: cld@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:03Z (GMT). No. of bitstreams: 1 Rice_MJ_D_2011.pdf: 9824463 bytes, checksum: 571e4c1d5980b38883b41a063245c3ae (MD5)   Previous issue date: 2011-04-05"
+  ],
+  "handle": "27716",
+  "identifier_other": "etd-05142011-114915",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05142011-114915/",
+  "identifier_uri": "http://hdl.handle.net/10919/27716",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Rice_MJ_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Direct Numerical Simulation (DNS)",
+    "Force Interaction",
+    "Rushton Turbine",
+    "Analytical Solution",
+    "Turbulence Transport Equation",
+    "Laminar Flow",
+    "Mixing Vessel",
+    "Transitional Flow"
+  ],
+  "title": "High Resolution Simulation of Laminar and Transitional Flows in a Mixing Vessel",
+  "type": "Dissertation"
+}

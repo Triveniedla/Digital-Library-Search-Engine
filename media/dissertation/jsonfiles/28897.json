@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Marcotte, Pierre",
+  "contributor_committeechair": "Fuller, Christopher R.",
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Burns, John A.",
+    "Burdisso, Ricardo A.",
+    "Johnson, Martin E."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:00Z",
+  "date_adate": "2004-09-16",
+  "date_available": "2014-03-14T20:16:00Z",
+  "date_issued": "2004-09-02",
+  "date_rdate": "2004-09-16",
+  "date_sdate": "2004-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "DAVAs are distributed active and passive devices that can be numerically modelled to provide optimum control of low frequency (< 1000 Hz) mean square velocity and sound power radiation. A numerical model of a multi-DAVA system was developed using the Rayleigh-Ritz method coupled to a hierarchical finite element set (p-method).  The numerical model was validated and used to optimize DAVA configurations using lightweight treatments (< 10 % the weight of the base plate weight). The optimizations were performed using genetic algorithms implemented in parallel. They were used to minimize, either passively or actively, the mean square velocity and sound power radiation of different plates having arbitrary boundary conditions (free, simply supported or clamped). Some optimization were also used to determine the optimum number of DAVAs needed, as well as to compare DAVA attenuations with attenuations obtained from optimum Active Constraining Layer Damping (ACLD) treatments. Preliminary results on the passive minimization of the mean square velocity of a simply supported plate with three devices showed that DAVA treatments produce better attenuations than ACLD treatments in the frequency range of interest [2-1000 Hz], and these increased attenuations were due in part to the better capabilities of DAVA treatments to tackle the plate first bending modes. Apart from the free plate, which showed anyway a very low baseline sound transmission, excellent attenuations were obtained both passively and actively for minimizing the mean square velocity and sound power radiation of the simply supported and clamped plates.  Following, numerical studies of a DAVA treatment around the optimum solution showed that changing the DAVA top plate stiffness resulted in decreased attenuation, while increasing the DAVA foam layer loss factor increased the attenuation, and decreasing the foam loss factor resulted in decreased attenuation. Finally, by varying the area of the single optimum DAVA that passively minimizes the sound power of the plate, it has been shown that both smaller/lighter and larger/heavier DAVA treatments lead to decreased passive attenuation upon the optimum single DAVA passive solution.  Finally, experimental results have further validated the DAVA numerical model, and DAVA treatments have shown excellent passive and active experimental attenuations over various flexible plate structures.",
+  "description_provenance": [
+    "Author Email: pmarcott@vt.edu",
+    "Advisor Email: c.r.fuller@larc.nasa.gov",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: jaburns@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:00Z (GMT). No. of bitstreams: 1 thesisPMarcotte.pdf: 7650133 bytes, checksum: 81cc4aae508352bf6de47837e0c9d429 (MD5)   Previous issue date: 2004-09-02"
+  ],
+  "handle": "28897",
+  "identifier_other": "etd-09082004-091921",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082004-091921/",
+  "identifier_uri": "http://hdl.handle.net/10919/28897",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesisPMarcotte.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Distributed absorber",
+    "active",
+    "reactive",
+    "passive",
+    "plate"
+  ],
+  "title": "A Study of Distributed Active Vibration Absorbers (DAVA)",
+  "type": "Dissertation"
+}

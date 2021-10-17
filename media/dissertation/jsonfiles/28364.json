@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Srikanteswara, Srikathyayani",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Woerner, Brian D.",
+    "Nance, Richard E.",
+    "Tranter, William H."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:12Z",
+  "date_adate": "2001-07-31",
+  "date_available": "2014-03-14T20:14:12Z",
+  "date_issued": "2001-07-06",
+  "date_rdate": "2002-07-31",
+  "date_sdate": "2001-07-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Software radios have evolved as multimode, programmable digital radios that perform radio functions using digital signal processing algorithms.  They have been designed as software programmable radios using a combination of various hardware elements and structures.  In this dissertation a {em{soft radio}} refers to a completely configurable radio that can be programmed through software, to change the radio behavior including the hardware functionality.  Conventional software radios achieve flexibility through software with the use of static hardware.  While these radios have the flexibility to operate in multiple modes, the hardware is not used efficiently.  This inefficient utilization of hardware frequently limits the flexibility of software radios and the number of modes the radio can support.  Soft radios however, attempt to gain flexibility through the use of reconfigurable hardware.  The same piece of hardware can be configured to perform different functions based on the mode the radio is operating in.  While many soft/software radio architectures have been suggested and implemented, there remains a lack of a formal design methodology that can be used to design and implement reconfigurable soft radios.  Most designs are based on ad hoc approaches which are appropriate only for the problem at hand.    After examining the design issues of a soft radio an architecture, called the {em{Layered Radio Architecture}}, is developed with the use of stream based processing and run-time reconfigurable hardware.  These choices aid in maximizing performance with minimum hardware while keeping the architecture robust, simple, and scalable.  The reconfigurable platform enables {em hardware paging} through reusability hardware.  The stream-based approach gives a uniform modular structure to the processing modules and defines the protocol for interaction between various modules.  The architecture describes a formal yet open design methodology and makes it possible to incorporate all of the features of a software radio while minimizing complexity issues.  The layered architecture also defines the methodology for incorporating changes and updates into the system.    The layered radio architecture assumes run-time reconfigurability of the hardware.  This feature is not supported by existing commercial reconfigurable hardware, like FPGAs.  An Custom Computing Machine (CCM), called Stallion that supports fast run time reconfiguration, has been developed at Virginia Tech.  This dissertation describes the deficiencies of existing commercial reconfigurable hardware and shows how the Stallion is capable of supporting the layered radio architecture.    The dissertation presents algorithms and procedures that can be used to implement the layered radio architecture using existing hardware.  The architecture is validated with the implementation of two receivers: A single user CDMA receiver based on complex adaptive filtering and a W-CDMA downlink rake receiver with channel estimation.  Performance analysis of these receivers show that it is important to keep the paging ratio high while maximizing utilization of the processing elements.  The layered radio architecture with the use of Stallion can support existing high data rate systems.",
+  "description_provenance": [
+    "Author Email: swradio@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: nance@vt.edu",
+    "Advisor Email: tranter@mprg.ee.vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:12Z (GMT). No. of bitstreams: 1 Srikanteswara_etd.pdf: 1827475 bytes, checksum: 2c9767f6ad39d9df4bd5d216a5faaa0c (MD5)   Previous issue date: 2001-07-06"
+  ],
+  "handle": "28364",
+  "identifier_other": "etd-07232001-201851",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07232001-201851/",
+  "identifier_uri": "http://hdl.handle.net/10919/28364",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Srikanteswara_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Software Radio",
+    "SDR",
+    "Reconfigurable Computing",
+    "3G Systems",
+    "Software Radio Architecture",
+    "Soft Radio"
+  ],
+  "title": "Design and Implementation of a Soft Radio Architecture for Reconfigurable Platforms",
+  "type": "Dissertation"
+}

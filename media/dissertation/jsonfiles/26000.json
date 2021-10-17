@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Chen, Yong",
+  "contributor_committeechair": "Hughes, Owen F.",
+  "contributor_committeemember": [
+    "Johnson, Eric R.",
+    "Kapania, Rakesh K.",
+    "Allen, Michael J.",
+    "Brown, Alan J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:06:45Z",
+  "date_adate": "2003-01-16",
+  "date_available": "2014-03-14T20:06:45Z",
+  "date_issued": "2003-01-15",
+  "date_rdate": "2004-01-16",
+  "date_sdate": "2003-01-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An efficient beam-column approach, using an improved step-by-step numerical method, is developed in the current research for studying the ultimate strength problems of stiffened panels with two load cases: 1) under longitudinal compression, and 2) under transverse compression.    Chapter 2 presents an improved step-by-step numerical integration procedure based on (Chen and Liu, 1987) to calculate the ultimate strength of a beam-column under axial compression, end moments, lateral loads, and combined loads.  A special procedure for three-span beam-columns is also developed with a special attention to usability for stiffened panels.  A software package, ULTBEAM, is developed as an implementation of this method.  The comparison of ULTBEAM with the commercial finite element package ABAQUS shows very good agreement.  The improved beam-column method is first applied for the ultimate strength analysis of stiffened panel under longitudinal compression.  The fine mesh elasto-plastic finite element ultimate strength analyses are carried out with 107 three-bay stiffened panels, covering a wide range of panel length, plate thickness, and stiffener sizes and proportions.  The FE results show that the three-bay simply supported model is sufficiently general to apply to any panel with three or more bays.  The FE results are then used to obtain a simple formula that corrects the beam-column result and gives good agreement for panel ultimate strength for all of the 107 panels.  The formula is extremely simple, involving only one parameter: the product Î»Î orth2.  Chapter 4 compares the predictions of the new beam-column formula and the orthotropic-based methods with the FE solutions for all 107 panels.  It shows that the orthotropic plate theory cannot model the \"crossover\" panels adequately, whereas the beam-column method can predict the ultimate strength well for all of the 107 panels, including the \"crossover\" panels.   The beam-column method is then applied for the ultimate strength analysis of stiffened panel under transverse compression, with or without pressure.  The method is based on a further extension of the nonlinear beam-column theory presented in Chapter 2, and application of it to a continuous plate strip model to calculate the ultimate strength of subpanels.  This method is evaluated by comparing the results with those obtained using ABAQUS, for several typical ship panels under various pressures.",
+  "description_provenance": [
+    "Author Email: yochen2@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:45Z (GMT). No. of bitstreams: 1 Dissertation_YC_16Jan2003.pdf: 3686699 bytes, checksum: a482e25b531071055a91e89c672a91f1 (MD5)   Previous issue date: 2003-01-15"
+  ],
+  "handle": "26000",
+  "identifier_other": "etd-01152003-150650",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01152003-150650/",
+  "identifier_uri": "http://hdl.handle.net/10919/26000",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_YC_16Jan2003.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ultimate strength",
+    "orthotropic plate method",
+    "beam-column method",
+    "stiffened panels"
+  ],
+  "title": "Ultimate Strength Analysis of Stiffened Panels Using a Beam-Column Method",
+  "type": "Dissertation"
+}

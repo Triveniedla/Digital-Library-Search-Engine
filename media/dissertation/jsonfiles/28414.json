@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Fu, Yan",
+  "contributor_committeechair": "Xing, Jianhua",
+  "contributor_committeecochair": "Tyson, John J.",
+  "contributor_committeemember": [
+    "Li, Liwu",
+    "Lu, Chang-Tien"
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:14:21Z",
+  "date_adate": "2012-09-05",
+  "date_available": "2014-03-14T20:14:21Z",
+  "date_issued": "2012-07-17",
+  "date_rdate": "2012-09-05",
+  "date_sdate": "2012-07-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the past two decades, molecular cell biology has transitioned from a traditional descriptive science into a quantitative science that systematically measures cellular dynamics on different levels of genome, transcriptome and proteome.  Along with this transition emerges the interdisciplinary field of systems biology, which aims to unravel complex interactions in biological systems through integrating experimental data into qualitative or quantitative models and computer simulations.  In this dissertation, we applied various systems biology tools to investigate two important problems with respect to cellular activation dynamics and reprograming.   Specifically, in the first section of the dissertation, we focused on lipopolysaccharide (LPS)-mediated priming and tolerance: a reprogramming in cytokine production in macrophages pretreated with specific doses of LPS. Though both priming and tolerance are important in the immune systemâ  s response to pathogens, the molecular mechanisms still remain unclear. We computationally investigated all network topologies and dynamics that are able to generate priming or tolerance in a generic three-node model. Accordingly, we found three basic priming mechanisms and one tolerance mechanism. Existing experimental evidence support these in silico found mechanisms.   In the second part of the dissertation, we applied stochastic modeling and simulations to investigate the phenotypic transition of bacteria E.coli between normally-growing cells and persister cells (growth-arrested phenotype), and how this process can contribute to drug resistance. We built up a complex computational model capturing the molecular mechanism on both single cell level and population level.  The paper also proposed a novel way to accelerate the phenotypic transition from persister cells to normally growing cell under resonance activation. The general picture of phenotypic transitions should be applicable to a broader context of biological systems, such as T cell differentiation and stem cell reprogramming.",
+  "description_provenance": [
+    "Author Email: fuyan@vt.edu",
+    "Advisor Email: jxing@vt.edu",
+    "Advisor Email: tyson@vt.edu",
+    "Advisor Email: lwli@vt.edu",
+    "Advisor Email: changlu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:21Z (GMT). No. of bitstreams: 1 Fu_Y_D_2012.pdf: 3418929 bytes, checksum: acb1d47b9e0eb7db9cce04f759bafd69 (MD5)   Previous issue date: 2012-07-17"
+  ],
+  "handle": "28414",
+  "identifier_other": "etd-07262012-102649",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07262012-102649/",
+  "identifier_uri": "http://hdl.handle.net/10919/28414",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Fu_Y_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "computational modeling",
+    "network motifs",
+    "LPS priming and tolerance",
+    "bacterial phenotypic transition"
+  ],
+  "title": "Computational Systems Biology Analysis of Cell Reprogramming and Activation Dynamics",
+  "type": "Dissertation"
+}

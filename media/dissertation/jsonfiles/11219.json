@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Aimmanee, Sontipee",
+  "contributor_committeechair": "Hyer, Michael W.",
+  "contributor_committeemember": [
+    "Thangjitham, Surot",
+    "Johnson, Eric R.",
+    "Hajj, Muhammad R.",
+    "Bates, Robert C."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T19:02:56Z",
+  "date_adate": "2004-10-05",
+  "date_available": "2011-08-22T19:02:56Z",
+  "date_issued": "2003-04-16",
+  "date_rdate": "2005-10-05",
+  "date_sdate": "2004-09-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research discusses the mechanical characteristics of laminated piezoelectric actuators that are manufactured at an elevated temperature, to cure the adhesive bonding the layers together, or to cure the layers made of polymeric composite material, and then cooled to a service temperature. Mainly discussed are actuators that are composed of layers of passive materials and a layer of piezoelectric material. THUNDER (THin layer UNimorph ferroelectric DrivER and sensor) and LIPCA (LIghtweight Piezo-composite Curved Actuator) actuators, which consist of layers of metal, adhesive and piezoelectric material, and carbon-epoxy, glass-epoxy and piezoelectric material, respectively, are studied and investigated in detail to understand the thermal effects due to the elevated manufacturing temperature. Owing to the large out-of-plane deformations of the THUNDER actuators as a result of cooling to the service temperature, inclusion of geometric nonlinearities in the kinematic relations is taken into consideration for prediction of the thermally-induced deformations and residual stresses. The deformations and residual stresses are predicted by using a 23-term Rayleigh-Ritz approach and more rigorous, time-consuming, finite-element analyses performed with ABAQUS. The thermally-induced deformations of THUNDER actuators can result in multiple room-temperature manufactured shapes, whereas those of LIPCA actuators (LIPCA-C1 and LIPCA-C2) exhibit single room-temperature manufactured shape. Actuation responses of these actuators caused by a quasi-static electric field applied to the piezoelectric layer are also studied with the Rayleigh-Ritz approach. It is shown that geometrical nonlinearities play an important role in the actuation responses, and these nonlinearities can be controlled by the choice of actuator geometry and the materials in the passive layers. In addition, blocking forces representing load-carrying capability of THUNDER and LIPCA actuators are determined. Support conditions and again geometrical nonlinearities are vital factor in load-resisting performances. Amongst the actuators considered, the actuated deflection and blocking forces are compared. Finally, based on the outcome of this study, new criteria for designing a new type of laminated piezoelectric actuators with improvement of performance characteristics are proposed.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:56Z (GMT). No. of bitstreams: 1  sontipee_dissertation.pdf: 4424908 bytes, checksum: 75809c36e1836d537fae1f3b769d091a (MD5)    Previous issue date: 2003-04-16",
+    "Author Email: saimmane@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: rbatra@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11219",
+  "identifier_other": "etd-09162004-211939",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09162004-211939",
+  "identifier_uri": "http://hdl.handle.net/10919/11219",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "sontipee_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Laminated Actuators",
+    "Rayleigh-Ritz Method",
+    "Stability",
+    "Finite Element Method",
+    "THUNDER",
+    "LIPCA",
+    "Geometric Nonlinearities"
+  ],
+  "title": "Deformation and Force Characteristics of Laminated Piezoelectric Actuators",
+  "type": "Dissertation"
+}

@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Kim, Suk Won",
+  "contributor_committeechair": "Ha, Dong Sam",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Gray, Festus Gail",
+    "Armstrong, James R.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:12Z",
+  "date_adate": "2002-08-06",
+  "date_available": "2014-03-14T20:14:12Z",
+  "date_issued": "2002-07-02",
+  "date_rdate": "2003-08-06",
+  "date_sdate": "2002-07-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Smart antenna technology is a promising means to overcome signal impairments in wireless personal communications. When spatial signal processing achieved through smart antennas is combined with temporal signal processing, the space-time processing can mitigate interference and multipath to yield higher network capacity, coverage, and quality.    In this dissertation, we propose a dual smart antenna system incorporated into handsets for the third generation wireless personal communication systems in which the two antennas are separated by a quarter wavelength (3.5 cm). We examine the effectiveness of a dual smart antenna system with diversity and adaptive combining schemes and propose a new combining scheme called hybrid combining. The proposed hybrid combiner combines diversity combiner and adaptive combiner outputs using maximal ratio combining (MRC). Since these diversity combining and adaptive combining schemes exhibit somewhat opposite and complementary characteristics, the proposed hybrid combining scheme aims to exploit the advantages of the two schemes.    To model dual antenna signals, we consider three channel models: loosely correlated fading channel model (LCFCM), spatially correlated fading channel model (SCFCM), and envelope correlated fading channel model (ECFCM). Each antenna signal is assumed to have independent Rayleigh fading in the LCFCM. In the SCFCM, each antenna signal is subject to the same Rayleigh fading, but is different in the phase due to a non-zero angle of arrival (AOA). The LCFCM and the SCFCM are useful to evaluate the upper and the lower bounds of the system performance. To model the actual channel of dual antenna signals lying in between these two channel models, the ECFCM is considered. In this model, two Rayleigh fading antenna signals for each multipath are assumed to have an envelope correlation and a phase difference due to a non-zero AOA. To obtain the channel profile, we adopted not only the geometrically based single bounce (GBSB) circular and elliptical models, but also the International Telecommunication Union (ITU) channel model.    In this dissertation, we also propose a new generalized selection combining (GSC) method called minimum selection GSC (MS-GSC) and an adaptive rake combining scheme to reduce the power consumption of mobile rake receivers. The proposed MS-GSC selects a minimum number of branches as long as the combined SNR is maintained larger than a given threshold. The proposed adaptive rake combining scheme which dynamically determines the threshold values is applicable to the three GSC methods: the absolute threshold GSC, the normalized threshold GSC, and the proposed MS-GSC. Through simulation, we estimated the effectiveness of the proposed scheme for a mobile rake receiver for a wideband CDMA system. We also suggest a new power control strategy to maximize the benefit of the proposed adaptive scheme.",
+  "description_provenance": [
+    "Author Email: swkim@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:12Z (GMT). No. of bitstreams: 1 swkim_dissertation_final.pdf: 1425471 bytes, checksum: 635213d446999c4b132ee1e99fa91f8e (MD5)   Previous issue date: 2002-07-02"
+  ],
+  "handle": "28365",
+  "identifier_other": "etd-07232002-172540",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07232002-172540/",
+  "identifier_uri": "http://hdl.handle.net/10919/28365",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "swkim_dissertation_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Hybrid Combining",
+    "Adaptive Rake Combiner",
+    "Low-Power Design",
+    "Smart Antennas"
+  ],
+  "title": "Smart Antennas at Handsets for the 3G Wideband CDMA Systems and Adaptive Low-Power Rake Combining Schemes",
+  "type": "Dissertation"
+}

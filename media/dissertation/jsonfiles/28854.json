@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Fraga Muller, Jocelyn Lisa",
+  "contributor_committeechair": "Love, Nancy G.",
+  "contributor_committeecochair": "Stevens, Ann M.",
+  "contributor_committeemember": [
+    "Vikesland, Peter J.",
+    "Dean, Dennis R.",
+    "Widdowson, Mark A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:52Z",
+  "date_adate": "2006-09-13",
+  "date_available": "2014-03-14T20:15:52Z",
+  "date_issued": "2006-08-21",
+  "date_rdate": "2008-09-13",
+  "date_sdate": "2006-09-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Natural microbial communities are the ultimate drivers of change in any ecosystem.  Through chemical contamination of natural environments, these communities are exposed to many different types of chemical stressors; however, research on whole genome responses to this contaminant stress is limited.  This research examined the stress response of a common soil bacterium, Pseudomonas aeruginosa, to a common environmental pollutant, pentachlorophenol (PCP).  In the first part of the research, it was revealed that nutrient-limited P. aeruginosa is able to respond to PCP with minimal physiological damage due to the upregulation of multidrug efflux pumps.  Further study of this PCP-mediated induction of efflux pumps revealed a simultaneous increase in antibiotic resistance.  It was discovered that the resistance nodulation-cell division (RND) efflux pump, MexAB-OprM, in particular is responsible for the PCP-induced increase in antibiotic resistance.   </p> <p>  Both whole cell physiological indicators and whole genome analysis were used to examine the stress response of P. aeruginosa to PCP.  Cells were grown in a chemostat at a low growth rate to simulate nutrient-limiting growth in the natural environment.  Whole cell acetate uptake rates (WAUR) and viable cell counts as colony forming units (CFU) were determined as cells were exposed to increasing concentration of PCP.  At the same time, changes in gene expression were examined by Affymetrix microarray technology.  Results showed little change in whole-cell physiology, with no difference in WAUR and only a slight reduction in CFU.  However, the microarrays revealed that over 100 genes either increased or decreased expression greater than two-fold due to the PCP exposure.  In particular, multiple multidrug efflux genes were upregulated in response to the PCP.  The results were validated by real time reverse transcription polymerase chain reaction (RT-PCR) for one of these genes.  Further analysis of the effects of MexAB-OprM showed that this particular efflux pump is essential for the response of P. aeruginosa to the toxin PCP. </p> <p>  Induction of multidrug efflux pumps is responsible for the development of antibiotic resistance in strains of P. aeruginosa.  Therefore, it was investigated whether PCP might induce resistance to a variety of antibiotics.  The research was further extended to examine the effect of a variety of organic contaminants on MexAB-OprM efflux and antibiotic resistance development.  PCP, 2,4-dinitrophenol, benzoate and Roundup&#174; all induced antibiotic resistance.  However, although MexAB-OprM is required for optimal growth in the presence of all chemicals, this particular efflux pump is only involved in increased resistance with PCP.  This was confirmed using RT-PCR as mexB expression was induced by PCP, but not by the other three chemicals.  A long term generational study on the effects of PCP did not result in a stable antibiotic-resistant phenotype; however, RT-PCR showed that mexB induction is a direct result of PCP exposure and can be reversed by removal of PCP.     </p> <p>   Together, these results demonstrate the necessity to understand functional responses to contaminant stress. Discovery of direct induction of multidrug efflux pumps and the resulting increase in antibiotic resistance has significant implications for environmental microbiology and public health.  This research suggests that organic contamination may result in antibiotic resistance and that antibiotic resistant strains may have a survival advantage in contaminated environments. </p>",
+  "description_provenance": [
+    "Author Email: jfraga@vt.edu",
+    "Advisor Email: pvikes@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: deandr@vt.edu",
+    "Advisor Email: mwiddows@vt.edu",
+    "Advisor Email: nlove@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:52Z (GMT). No. of bitstreams: 1 JFM_thesis_ETDfinal3.PDF: 626251 bytes, checksum: 399b95e64412b97e40912ebcddf73235 (MD5)   Previous issue date: 2006-08-21"
+  ],
+  "handle": "28854",
+  "identifier_other": "etd-09022006-115208",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09022006-115208/",
+  "identifier_uri": "http://hdl.handle.net/10919/28854",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JFM_thesis_ETDfinal3.PDF",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "chemical contamination",
+    "Pseudomonas aeruginosa",
+    "antibiotic resistance",
+    "pentachlorophenol",
+    "microarray analysis",
+    "multidrug efflux",
+    "nutrient-limitation",
+    "chemostat"
+  ],
+  "title": "The Role of Multidrug Efflux Pumps in the Stress Response of Pseudomonas aeruginosa to Organic Contamination",
+  "type": "Dissertation"
+}

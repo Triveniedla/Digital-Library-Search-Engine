@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Kohn, Harold D.",
+  "contributor_committeechair": "Wolf, James F.",
+  "contributor_committeemember": [
+    "Carlson, Kevin D.",
+    "Khademian, Anne Meredith",
+    "Woodard, Colleen"
+  ],
+  "contributor_department": "Public Administration and Public Affairs",
+  "date_accessioned": "2014-03-14T20:09:00Z",
+  "date_adate": "2008-05-02",
+  "date_available": "2014-03-14T20:09:00Z",
+  "date_issued": "2008-03-25",
+  "date_rdate": "2008-05-02",
+  "date_sdate": "2008-04-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Both practitioners and researchers have long noted that employee turnover creates both positive and negative consequences for an organization.  From a management perspective, the question is how much turnover is the right amount.  Abelson and Baysinger (1984) first proposed that an optimal level of turnover could be found based on individual, organizational, and environmental factors.  However, as Glebbeek and Bax (2004) noted, their approach was overly complex to empirically verify, let alone utilize at the practitioner level. <p>   This study is an attempt to demonstrate whether a logic- and theory-based model and computational simulation of the employee turnover-organizational performance relationship can actually produce Abelson and Baysingerâ  s optimal turnover curve (the inverted U-shape) when studied in the context of a public organization.  The modeling approach is based on developing and integrating causal relationships derived from logic and the theory found in the literature.  The computational approach used parallels that of Scullen, Bergey, and Aiman-Smith (2005).    <p>   The level of analysis of this study is the functional department level of large public organizations placing it below the macro level of entire agencies as studied in public administration, but above the level of small group research.  The focus is on agencies that employ thousands of employees in specific professional occupations such as engineers, attorneys, and contract specialists.   <p>   Employee attrition (equivalent to turnover as this model has been structured) is the independent variable.  Workforce performance capacity and staffing costs are the dependent variables.  Work organization and organizational â  characterâ   (i.e., culture, HRM policies, and environment) are moderating elements that are held constant.  Organizational parameters and initial conditions are varied to explore the problem space through the use of a number of case scenarios of interest.  The model examines the effects on the dependent variables of annual turnover rates ranging from 0% to 100% over a 10-year period.  Organizational size is held constant over this period. <p>   The simulation model introduces several innovative concepts in order to adapt verbal theory to mathematical expression.  These are an organizational stagnation factor, a turbulence factor due to turnover, and workforce performance capacity.  Its value to research comes from providing a framework of concepts, relationships, and parametric values that can be empirically tested such as through comparative analyses of similar workgroups in an organization.  Its value for management lies in the conceptual framework it provides for logical actions that can be taken to control turnover and/or mitigate turnoverâ  s impact on the organization. <p>   The simulation model used a 100-employee construct as per Scullen, Bergey, and Aiman-Smith (2005), but was also tested with 1000 employees as well and no significant differences in outcome were found.  Test cases were run over a 10-year period.  The model was also run out to 30 years to test model stability and no instability was found. <p>   Key findings and conclusions of the analysis are as follows: 1. Results demonstrate that Abelson and Baysingerâ  s (1984) inverted-U curve can occur, but only under certain conditions such as bringing in higher-skilled employees or alleviating stagnation. 2. Results support Scullen, Bergey, and Aiman-Smithâ  s (2005) findings that workforce performance potential increases under the condition of increasing the quality of replacement employees.  3. Organizational type, as defined in the public administration literature, does not affect the results. <p>   In addition, an analysis of recent empirical work by Meier and Hicklin (2007) who examine the relationship between employee turnover and student test performance using data from Texas school districts is provided as an Addendum.  This analysis demonstrates how the modeling and simulation methodology can be used to analyze and contribute to theory development based in empirical research.",
+  "description_provenance": [
+    "Author Email: hkohn@vt.edu",
+    "Advisor Email: jfwolf@vt.edu",
+    "Advisor Email: kevinc@vt.edu",
+    "Advisor Email: akhademi@vt.edu",
+    "Advisor Email: cwoodard@fed-tech.com",
+    "Made available in DSpace on 2014-03-14T20:09:00Z (GMT). No. of bitstreams: 1 Kohn-Dissertation-5-2-08.pdf: 1102163 bytes, checksum: 81657c783cb836e83c7c2db5bcb086ad (MD5)   Previous issue date: 2008-03-25"
+  ],
+  "handle": "26658",
+  "identifier_other": "etd-04062008-114838",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04062008-114838/",
+  "identifier_uri": "http://hdl.handle.net/10919/26658",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kohn-Dissertation-5-2-08.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "simulation",
+    "Employee turnover",
+    "organizational modeling"
+  ],
+  "title": "A Test of Abelson and Baysinger's (1984) Optimal Turnover Hypothesis in the Context of Public Organizations using Computational Simulation",
+  "type": "Dissertation"
+}

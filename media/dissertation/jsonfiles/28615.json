@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Nam, Jong-Hoon",
+  "contributor_committeechair": "Cotton, John R.",
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:03Z",
+  "date_adate": "2005-08-18",
+  "date_available": "2014-03-14T20:15:03Z",
+  "date_issued": "2005-07-29",
+  "date_rdate": "2007-08-18",
+  "date_sdate": "2005-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>The hair cell, a specialized cell in the inner ear, is responsible for hearing and balance.  The hair cell is an exquisite sensor that captures mechanical stimuli and generates neurosensory signals.  A theory called gating theory has been developed and widely used to analyze the experimental data of hair cell transduction.  Despite increasing knowledge about molecular structures of hair cells, the mechanical model in the gating theory remained simple.  Efforts to make the most of the recent findings regarding the hair cell structures led to the development of hair cell finite element (FE) model (Cotton & Grant, 2000, 2004a, b).  I have extended this approach by adding channel kinetics and structural dynamics to the FE structural model of the hair cell.</p><p> I have expanded the previous static and passive model to a dynamic and active model.  It is the most detailed hair cell structural model and includes up-to-date knowledge of the hair cell structure such as the stereocilia and various extracellular links.  In order to observe the dynamic response of hair bundles in the endolymph fluid, I have included fluid drag in the model.  Link nonlinearity has been added to reflect recent observations (Tsuprun 2003).  The lateral links stiffen as they stretch and prevent contact between stereocilia when they compress.  In addition to these structural features, I added channel kinetics such as the fast adaptation.  In my study, the Ca<sup>2+</sup> diffusion kinetics plays a key role in the hair cell adaptations.  The Ca<sup>2+</sup> association rate to the fast adaptation modulator is postulated to govern the fast adaptation.  I assumed that two factors--the tip link tension and the Ca<sup>2+</sup> concentration at the tip of stereocilia govern the hair cell mechanoelectric transduction.</p><p> My dissertation comprises three parts--structure, dynamics and mechanotransduction of hair cells.  First, the mechanical properties of hair bundle were sought by comparing my FE model with other experiments.  The quantified Young's modulus of stereocilia and the stiffness of tip link agree well with other recent estimates.  The stiffness of other structural elements (upper lateral and shaft links) was newly estimated through this effort.  Second, I established equations of motion for the hair bundle in the fluid.  Two possible loading conditions to the hair bundle were simulated.  Two different hair bundles were subjected to a point load and a load induced by fluid flow.  The results showed that some vestibular hair cells' transduction might be dominated by the fluid-induced force.  Finally, I observed the hair cell transduction in various stimulus conditions.  The results showed that the hair cell's sensitivity highly depends on the stimulus method.  The fluid-jet stimulus activated fewer channels than the glass fiber and made the hair cell less sensitive.  A faster stimulus opened more channels and made the hair cell more sensitive.  The resting tension in the tip link, which is believed to be controlled by the Ca<sup>2+</sup> concentration, also affected the hair cell sensitivity.  A higher resting tension, equivalent to a lower Ca<sup>2+</sup> concentration, tended to make the hair cell more sensitive.</p><p> In conclusion, I developed a new tool to study the hair cell mechanoelectric transduction.  My hair cell computational model enables us (1) to study how the hair cells' morphological variations are related to their function; (2) to investigate the hair cell mechanoelectric transduction at the single channel level, in silico, as opposed to the statistical approach; (3) to test the response of hair cells under in situ force boundary conditions.</p>",
+  "description_provenance": [
+    "Author Email: jnam@vt.edu",
+    "Advisor Email: jcotton@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:03Z (GMT). No. of bitstreams: 1 Nam2005_PhD_Dissertation.pdf: 3163041 bytes, checksum: 440eca3176f617cc7bcc220f262ee0ff (MD5)   Previous issue date: 2005-07-29"
+  ],
+  "handle": "28615",
+  "identifier_other": "etd-08112005-144849",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112005-144849/",
+  "identifier_uri": "http://hdl.handle.net/10919/28615",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Nam2005_PhD_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mechanoelectric transduction",
+    "Finite element",
+    "Hair cell"
+  ],
+  "title": "A Computational Study on the Structure, Dynamics and  Mechanoelectric Transduction of Vestibular Hair cell",
+  "type": "Dissertation"
+}

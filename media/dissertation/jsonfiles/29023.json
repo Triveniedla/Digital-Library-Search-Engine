@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Koo, Jeong-Hoi",
+  "contributor_committeecochair": [
+    "Ahmadian, Mehdi",
+    "Setareh, Mehdi"
+  ],
+  "contributor_committeemember": [
+    "Kasarda, Mary E. F.",
+    "Murray, Thomas M.",
+    "Leo, Donald"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:25Z",
+  "date_adate": "2003-10-03",
+  "date_available": "2014-03-14T20:16:25Z",
+  "date_issued": "2003-07-23",
+  "date_rdate": "2004-10-03",
+  "date_sdate": "2003-09-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Since their invention in the early 1900s, Tuned Vibration Absorbers (TVAs) have shown to be effective in suppressing vibrations of machines and structures.  A vibration absorber is a vibratory subsystem attached to a primary system.  It normally consists of a mass, a spring, and a damper.  Mounted to the primary system, a TVA counteracts the motions of the primary system, \"absorbing\" the primary structure's vibrations.  A conventional passive TVA, however, is only effective when it is tuned properly, hence, the name \"tuned\" vibration absorber.  In many practical applications, inevitable off-tuning (or mistuning) of a TVA occurs because of the system's operating conditions or parameter changes over time.  For example, the mass in a building floor could change by moving furnishings, people gathering, etc., which can \"off-tune\" TVAs.  When TVAs are off-tuned, their effectiveness is sharply reduced.  Moreover, the off-tuned TVAs can excessively amplify the vibration levels of the primary structures; therefore, not only rendering the TVA useless but also possibly causing damage to the structures.  Off-tuning is one of the major problems of conventional passive TVAs. This study proposes a novel semiactive TVA, which strives to combine the best features of passive and active TVA systems.  The semiactive TVA in this study includes a Magneto-Rheological (MR) damper that is used as a controllable damping element, for providing the real-time adjustability that is needed for improving the TVA performance.   This study is conducted in two phases.  The first phase provides a numerical investigation on a two-degree-of-freedom (2-DOF) numerical model in which the primary structure is coupled with a TVA.  The numerical investigation considers four semiactive control methods for the MR TVAs, in addition to an equivalent passive TVA. These numerical models are optimally tuned using numerical optimization techniques to compare each TVA system.  These tuned systems then serve as the basis for numerical parametric studies for further evaluation of their dynamic performance.  The parametric study covers the effects of damping, as well as system parameter variations (off-tuning).  The results indicates that semiactive TVAs are more effective in reducing the maximum vibrations of the primary structure and are more robust when subjected to off-tuning.  Additionally, the numerical study identifies the \"On-off Displacement-Based Groundhook control (on-off DBG)\" as the most suitable control method for the semiactive TVA among control methods considered in this study.      For the second phase of this study, an experimental study is performed on a test setup, which represents a 2-DOF structure model coupled with an MR TVA.  Using this setup, a series of tests are conducted in the same manner as the numerical study to evaluate the performance of the semiactive TVA.  The primary purposes of the experiment are to further evaluate the most promising semiactive control methods and to serve as a \"proof-of-concept\" of the effectiveness of this MR TVA for floor vibration applications.  The results indicate that the semiactive TVA with displacement-based groundhook control outperforms the equivalent passive TVA in reducing the maximum vibrations of the primary structure.  This confirms the numerical result that identifies on-off DBG control method as the \"best\" control method for the MR TVA among four semiactive control schemes considered. The experimental robustness study is also conducted, focusing on the dynamic performance of both the passive and the semiactive TVAs when the mass of the primary system changes (mass off-tuning).  The mass of the primary system varied from -23 % to +23 % of its nominal value by adding and removing external masses.  The experimental results show that the semiactive TVA is more robust to changes in the primary mass than the passive TVA.   These results justify the benefits of the use of semiactive MR TVAs in structures, such as building floor systems.  The off-tuning analysis further suggests that, in practice, semiactive TVAs should be tuned slightly less than their optimum in order to compensate for any added masses to the structure.  Additionally, the lessons learned from the experimental study have paved the way for implementing the semiactive MR TVA on a test floor, which is currently in progress under a separate study.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "Author Email: jekoo@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: thmurray@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: setareh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:25Z (GMT). No. of bitstreams: 1 ETD_KOO.pdf: 3358147 bytes, checksum: 2a4df90508c54281e56ffde2d2106686 (MD5)   Previous issue date: 2003-07-23"
+  ],
+  "handle": "29023",
+  "identifier_other": "etd-09192003-103018",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09192003-103018/",
+  "identifier_uri": "http://hdl.handle.net/10919/29023",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_KOO.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Magnetorheological",
+    "Magneto-Rheological",
+    "Semiactive",
+    "TVA",
+    "Floor Vibrations",
+    "Jeong-Hoi Koo",
+    "Human Vibrations",
+    "Groundhook",
+    "Vibrations",
+    "Semiactive Control",
+    "Tuned Vibration Absorber",
+    "TMD",
+    "Tuned Mass Damper",
+    "MR Damper"
+  ],
+  "title": "Using Magneto-Rheological Dampers in Semiactive Tuned Vibration Absorbers to Control Structural Vibrations",
+  "type": "Dissertation"
+}

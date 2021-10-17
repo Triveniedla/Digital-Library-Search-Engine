@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Williams, Robert Brett",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Librescu, Liviu",
+    "Hyer, Michael W.",
+    "Leo, Donald J.",
+    "Park, Gyuhae",
+    "Wilkie, W. Keats"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:00:19Z",
+  "date_adate": "2004-04-23",
+  "date_available": "2011-08-22T19:00:19Z",
+  "date_issued": "1999-06-17",
+  "date_rdate": "2004-04-23",
+  "date_sdate": "2004-04-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The use of piezoelectric ceramic materials for structural actuation is a fairly well developed practice that has found use in a wide variety of applications.  However, actuators with piezoceramic fibers and interdigitated electrodes have risen to the forefront of the intelligent structures community due to their increased actuation capability.  However, their fiber-reinforced construction causes them to exhibit anisotropic piezomechanical properties, and the required larger driving voltages make the inherent piezoelectric nonlinearities more prevalent.  In order to effectively utilize their increased performance, the more complicated behavior of these actuators must be sufficiently characterized.   The current work is intended to provide a detailed nonlinear characterization of the mechanical and piezoelectric behavior of the Macro Fiber Composite actuator, which was developed at the NASA Langley Research Center.  The mechanical behavior of this planar actuation device, which is both flexible and robust, is investigated by first developing a classical lamination model to predict its short-circuit linear-elastic properties, which are then verified experimentally.  The sensitivity of this model to variations in constituent material properties is also studied.  Phenomenological models are then used to represent the measured nonlinear short-circuit stress-strain response to various in-plane mechanical loads.  Piezoelectric characterization begins with a nonlinear actuation model whose material parameters are determined experimentally for monotonically increasing electric fields.  Next, the response of the actuator to a sinusoidal electric field input is measured under various constant mechanical loads and field amplitudes.  From this procedure, the common linear piezoelectric strain coefficients are presented as a function of electric field amplitude and applied stress.  In addition, a Preisach model is developed that uses the collected data sets to predict the hysteretic piezoelectric behavior of the MFC.  Lastly, other related topics, such as manufacturing, cure kinetics modeling and linear thermoelasticity of the Macro Fiber Composite, are covered in the appendices.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:19Z (GMT). No. of bitstreams: 1  williams_dissertation.pdf: 4204983 bytes, checksum: 7802e3677385964dbe12214e45c974f0 (MD5)    Previous issue date: 1999-06-17",
+    "Author Email: rowilli6@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: gpark@lanl.gov",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: william.k.wilkie@nasa.gov"
+  ],
+  "format_medium": "ETD",
+  "handle": "11141",
+  "identifier_other": "etd-04052004-095526",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04052004-095526",
+  "identifier_uri": "http://hdl.handle.net/10919/11141",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "williams_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "nonlinear constitutive behavior",
+    "Macro Fiber Composite",
+    "manufacturing"
+  ],
+  "title": "Nonlinear Mechanical and Actuation Characterization of Piezoceramic Fiber Composites",
+  "type": "Dissertation"
+}

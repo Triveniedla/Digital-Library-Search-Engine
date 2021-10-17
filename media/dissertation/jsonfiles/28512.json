@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Luo, JunLu",
+  "contributor_committeechair": "Haycocks, Christopher",
+  "contributor_committeemember": [
+    "Karmis, Michael E.",
+    "Luttrell, Gerald H.",
+    "Adel, Gregory T.",
+    "Faulkner, Gavin"
+  ],
+  "contributor_department": "Mining and Minerals Engineering",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "1999-08-05",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "1999-07-01",
+  "date_rdate": "2000-08-05",
+  "date_sdate": "1999-08-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<CENTER>A NEW ROCK BOLT DESIGN CRITERION AND  KNOWLEDGE-BASED EXPERT SYSTEM FOR STRATIFIED ROOF <P> JunLu Luo  </P> <P> ABSTRACT </P> </CENTER>  <p>Since its development in the 1920s, bolting has become the most dominant support method in underground construction. However, because of the geological environment, the design process for roof bolt systems is an art rather than a science. To quantify the selection of bolting systems a MSBT (minimum solid beam thickness) approach was developed. The ultimate goal of this bolt design paradigm was achieved by optimizing bolt length, bolt density, and bolt pretension during installation. The impact of the number of strata layers within bolting range and pretension applied to bolts upon the stability of an opening was investigated using FLAC model. Four statistical models for predicting optimum bolt supports using a minimum solid beam thickness were established, and based on these results, a design criterion was proposed. </P> <P> To meet support needs in various geological and geotechnical settings, a variety of bolt types have been developed. The installation of such bolt-based support systems is often complex and specialized, and thus imposes a challenge for engineers to identify the specific cause and to take appropriate remedial measures once problems arise. To solve these problems, a knowledge-based expert system (KBES) has been developed. The knowledge base includes the data accumulated from years of laboratory and field investigations conducted by the Mine Safety and Health Administration of the US Department of Labor. A user-friendly Windows-based program was implemented using KAPPA environment. After identifying the problem, the KBES searches its knowledge base and reasons out the most likely, secondary, and other potential causes, then provides solutions according to users' input. </P> <P> The results of this research are validated and demonstrated using case studies. </P>",
+  "description_provenance": [
+    "Author Email: juluo@hotmail.edu",
+    "Advisor Email: algy@vt.edu",
+    "Advisor Email: mkarmis@vt.edu",
+    "Advisor Email: luttrell@vt.edu",
+    "Advisor Email: adel@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 1 WholeVersion.pdf: 1416989 bytes, checksum: 4952615cfeea190b6964f6e0b603f33a (MD5)   Previous issue date: 1999-07-01"
+  ],
+  "handle": "28512",
+  "identifier_other": "etd-080399-152659",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080399-152659/",
+  "identifier_uri": "http://hdl.handle.net/10919/28512",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WholeVersion.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "expert system",
+    "FLAC model",
+    "ground control",
+    "roof support",
+    "bolt",
+    "knowledge"
+  ],
+  "title": "A New Rock Bolt Design Criterion and Knowlwdge-based Expert System for Stratified Roof",
+  "type": "Dissertation"
+}

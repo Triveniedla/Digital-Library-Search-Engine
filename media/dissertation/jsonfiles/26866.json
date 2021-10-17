@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Murthy, Uma",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Delcambre, Lois M.",
+    "Pérez-Quiñones, Manuel A.",
+    "Ramakrishnan, Naren",
+    "Torres, Ricardo da Silva"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:09:40Z",
+  "date_adate": "2011-05-02",
+  "date_available": "2014-03-14T20:09:40Z",
+  "date_issued": "2011-01-28",
+  "date_rdate": "2011-05-02",
+  "date_sdate": "2011-04-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Many scholarly tasks involve working with contextualized fine-grain information, such as a music professor creating a multimedia lecture on a musical style, while bringing together several snippets of compositions of that style. We refer to such contextualized parts of a larger unit of information (or whole documents), as subdocuments. Current approaches to work with subdocuments involve a mix of paper-based and digital techniques. With the increase in the volume and in the heterogeneity of information sources, the management, organization, access, retrieval, as well as reuse of subdocuments becomes challenging, leading to inefficient and ineffective task execution. A digital library (DL) facilitates management, access, retrieval, and use of collections of data and metadata through services. However, most DLs do not provide infrastructure or services to support working with subdocuments. Superimposed information (SI) refers to new information that is created to reference subdocuments in existing information resources. We combine this idea of SI with traditional DL services, to define and develop a DL with SI (an SI-DL). Our research questions are centered around one main question: how can we extend the notion of a DL to include SI, in order to support scholarly tasks that involve working with subdocuments? We pursued this question from a theoretical as well as a practical/user perspective. From a theoretical perspective, we developed a formal metamodel that precisely defines the components of an SI-DL, building upon related work in DLs, SI, annotations, and hypertext. From the practical/user perspective, we developed prototype superimposed applications and conducted user studies to explore the use of SI in scholarly tasks. We developed SuperIDR, a prototype SI-DL, which enables users to mark up subimages, annotate them, and retrieve information in multiple ways, including browsing, and text- and content-based image retrieval. We explored the use of subimages and evaluated the use of SuperIDR in fish species identification, a scholarly task that involves working with subimages. Findings from the user studies and other work in our research lead to theory- and experiment-based enhancements that can guide design of digital libraries with superimposed information.",
+  "description_provenance": [
+    "Author Email: umurthy@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: lmd@cs.pdx.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: rtorres@ic.unicamp.br",
+    "Made available in DSpace on 2014-03-14T20:09:40Z (GMT). No. of bitstreams: 4 murthy-u-d-2011-dissertation.pdf: 26217301 bytes, checksum: d1c92df812feaa22606dbf4ebe20047a (MD5) murthy-u-d-2011-superidr-readme.pdf: 147591 bytes, checksum: 963235620f2bc2d7972cd7846ed2cd3c (MD5) murthy-u-d-2011-superidr-source-images.zip: 77909665 bytes, checksum: 9c5cdd440e3f5d0ccbd16fcdba06bca4 (MD5) murthy-u-d-2011-superidr-source-main.zip: 7309392 bytes, checksum: a1017b14f9f6a1c53129847e0ce4d42f (MD5)   Previous issue date: 2011-01-28"
+  ],
+  "handle": "26866",
+  "identifier_other": "etd-04142011-175752",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04142011-175752/",
+  "identifier_uri": "http://hdl.handle.net/10919/26866",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "murthy-u-d-2011-dissertation.pdf",
+    "murthy-u-d-2011-superidr-readme.pdf",
+    "murthy-u-d-2011-superidr-source-images.zip",
+    "murthy-u-d-2011-superidr-source-main.zip"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Annotation",
+    "Digital libraries",
+    "Fish species identification",
+    "Image retrieval",
+    "Metamodel",
+    "Subdocument",
+    "Superimposed information",
+    "User study"
+  ],
+  "title": "Digital Libraries with Superimposed Information: Supporting Scholarly Tasks that Involve Fine Grain Information",
+  "type": "Dissertation"
+}

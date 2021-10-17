@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Austin, Eric Michael",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Saunders, William R.",
+    "Batra, Romesh C.",
+    "Dillard, David A."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:17:28Z",
+  "date_adate": "1998-11-24",
+  "date_available": "2014-03-14T20:17:28Z",
+  "date_issued": "1998-11-13",
+  "date_rdate": "1998-11-24",
+  "date_sdate": "1998-10-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Much of the work done on active and passive constrained layer beams is done with mathematical models proposed by Kerwin and extended by DiTaranto,  Mead and Markus, and others. The mathematics proposed by these early researchers was tailored to fit the damping treatments in use at that time: thin foil damping tapes applied to panels for noise reduction. A key assumption was that all layers had identical transverse displacements. While these assumptions are reasonable when the core layer, normally a soft viscoelastic material(VEM), is thin and the constraining layer is weak in bending, there are many situations in industry and in the literature where the ``Mead and Markus'' (MM) assumptions should be questioned. An important consequence of the MM modeling assumptions is that the strain energy in the VEM core is dominated by shear strain, and this in turn means that only the shear modulus is of primary importance.  This is fortunate since only the shear modulus is available to engineers for viscoelastic materials used for layered damping treatments.  It is a common practice in industry and academia to simply make an educated guess of the value of Poisson's ratio.  It is shown in the dissertation that this can result in erroneous predictions of damping, particularly in partial-coverage configurations. Finite element analysis is used to model both the MM assumptions and a less-restrictive approach commonly used in industry.  Predictions of damping from these models are compared against models with elements from C0 elements and a C1-capable element that matches tractions at material interfaces.  It is shown that the time-honored modal strain energy method is a good indicator of modeling accuracy.  To assess the effects of the MM assumptions on an active PZT used as a constraining layer, closed-loop damping versus gain is determined using both the MM and higher order elements.  For these analyses, the time-dependent properties of the viscoelastic material are represented by a Maxwell model using internal variables. Finally, the basic MM premise that all layers share the same transverse displacement  is disproved by experiment.",
+  "description_provenance": [
+    "Author Email: ema@clemson.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: saunders@stnick.me.vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: dillard@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:28Z (GMT). No. of bitstreams: 1 ETD2.PDF: 1017950 bytes, checksum: bd481d9b936ed3bb0cd857793d93a2d5 (MD5)   Previous issue date: 1998-11-13"
+  ],
+  "handle": "29307",
+  "identifier_other": "etd-101898-162311",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-101898-162311/",
+  "identifier_uri": "http://hdl.handle.net/10919/29307",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD2.PDF",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Damping",
+    "Viscoelasticity",
+    "Sandwich Beams"
+  ],
+  "title": "Influences of Higher Order Modeling Techniques  on the Analysis of Layered Viscoelastic Damping Treatments",
+  "type": "Dissertation"
+}

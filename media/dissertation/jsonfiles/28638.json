@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Nelson, Keith Phillip",
+  "contributor_committeechair": "Simonetti, John H.",
+  "contributor_committeemember": [
+    "Dennison, Brian K.",
+    "Arav, Nahum",
+    "Mizutani, Tetsuro"
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:15:08Z",
+  "date_adate": "2011-09-09",
+  "date_available": "2014-03-14T20:15:08Z",
+  "date_issued": "2011-08-08",
+  "date_rdate": "2011-09-09",
+  "date_sdate": "2011-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Virginia Tech Spectral-Line Survey (VTSS) is a series of 10-degree wide, arcminute-resolution images of the warm ionized interstellar medium (WIM) within the Milky Way for declinations greater than -15 degrees. The Wisconsin Hydrogen-Alpha Mapper (WHAM) studies the kinematics and distribution of this same material on an angular scale of one degree. Comparing the spatially-resolved images of the VTSS with WHAM's high spectral resolution images shows that the ISM's characteristics appear to be very similar at both degree and arcminute scales --- we see similar structures, and notice the same [S II]/H-alpha trend between those structures at both degree and arcminute scales. VTSS fields show three basic types of structures --- compact clouds with diameters greater than several degrees, those that are 1-degree or less in diameter, and extended filaments that differ from the clouds by spanning several degrees in length but having thicknesses of only a few tens of arcminutes. The latter two morphological types cannot be observed by WHAM. Additionally, VTSS data confirms that the [S II] intensity values are directly proportional to H-alpha intensities, a result that is also observed at degree resolutions. Finally, VTSS data show that [S II]/H-alpha ratios are, on average, nearly six times higher in the filaments. This would indicate that collisional excitation of singly-ionized sulfur ions is the dominant emission source within filaments. In clouds, the lower [S II]/H-alpha values observed are evidence that the H-alpha recombination line of photo-excited neutral hydrogen dominates. Because automating the VTSS was a key part of obtaining many of the images used in this project, I begin with a discussion of general observatory automation. I then address the specific processes and techniques used in automating the VTSS before discussing data collection and reduction techniques.",
+  "description_provenance": [
+    "Author Email: kenelso2@vt.edu",
+    "Advisor Email: jhs@vt.edu",
+    "Advisor Email: dennison@unca.edu",
+    "Advisor Email: arav@vt.edu",
+    "Advisor Email: mizutani@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:08Z (GMT). No. of bitstreams: 1 Nelson_KP_D_2011.pdf: 32736312 bytes, checksum: d6a73fee7a37fc23c5927f11b8faff1e (MD5)   Previous issue date: 2011-08-08"
+  ],
+  "handle": "28638",
+  "identifier_other": "etd-08122011-114753",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122011-114753/",
+  "identifier_uri": "http://hdl.handle.net/10919/28638",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Nelson_KP_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ISM",
+    "H-alpha",
+    "[S II]",
+    "WIM",
+    "WHAM",
+    "Automated Telescopes"
+  ],
+  "title": "An Arcminute-Resolution Imaging Study of the H-alpha & [S II] Emission of the ISM from the Local Perseus Arm Using the Virginia Tech Spectral-Line Survey",
+  "type": "Dissertation"
+}

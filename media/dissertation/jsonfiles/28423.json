@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Yue, Xiaohui",
+  "contributor_committeecochair": [
+    "Wolfe, Edward W.",
+    "Skaggs, Gary E."
+  ],
+  "contributor_committeemember": [
+    "Creamer, Elizabeth G.",
+    "Miyazaki, Yasuo"
+  ],
+  "contributor_department": "Educational Leadership and Policy Studies",
+  "date_accessioned": "2014-03-14T20:14:23Z",
+  "date_adate": "2011-09-01",
+  "date_available": "2014-03-14T20:14:23Z",
+  "date_issued": "2011-07-14",
+  "date_rdate": "2011-09-01",
+  "date_sdate": "2011-07-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation illustrates how to detect the rater centrality effect in a simulation study that approximates data collected in large scale performance assessment settings. It addresses three research questions that: (1) which of several centrality-detection indices are most sensitive to the difference between effect raters and non-effect raters;  (2) how accurate (and inaccurate), in terms of Type I error rate and statistical power, each centrality-detection index is in flagging effect raters; and (3) how the features of the data collection design (i.e., the independent variables including the level of centrality strength, the double-scoring rate, and the number of raters and ratees) influence the accuracy of rater classifications by these centrality-detection indices. The results reveal that the measure-residual correlation, the expected-residual correlation, and the standardized deviation of assigned scores perform better than the point-measure correlation. The mean-square fit statistics, traditionally viewed as potential indicators of rater centrality, perform poorly in terms of differentiating central raters from normal raters. Along with the rater slope index, the mean-square fit statistics did not appear to be sensitive to the rater centrality effect. All of these indices provided reasonable protection against Type I errors when all responses were double scored, and that higher statistical power was achieved when responses were 100% double scored in comparison to only 10% being double scored. With a consideration on balancing both Type I error and statistical power, I recommend the measure-residual correlation and the expected-residual correlation for detecting the centrality effect. I suggest using the point-measure correlation only when responses are 100% double scored. The four parameters evaluated in the experimental simulations had different impact on the accuracy of rater classification. The results show that improving the classification accuracy for non-effect raters may come at a cost of reducing the classification accuracy for effect raters. Some simple guidelines for the expected impact of classification accuracy when a higher-order interaction exists summarized from the analyses offer a glimpse of the â  prosâ   and â  consâ   in adjusting the magnitude of the parameters when we evaluate the impact of the four experimental parameters on the outcomes of rater classification.",
+  "description_provenance": [
+    "Author Email: yuexi@vt.edu",
+    "Advisor Email: creamere@vt.edu",
+    "Advisor Email: yasuom@vt.edu",
+    "Advisor Email: Ed.Wolfe@Pearson.com",
+    "Advisor Email: gskaggs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:23Z (GMT). No. of bitstreams: 1 Yue_X_D_2011.pdf: 1051685 bytes, checksum: 4165c8e33925fe9137e57a73ab1f3344 (MD5)   Previous issue date: 2011-07-14"
+  ],
+  "handle": "28423",
+  "identifier_other": "etd-07272011-104720",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07272011-104720/",
+  "identifier_uri": "http://hdl.handle.net/10919/28423",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yue_X_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ANOVA",
+    "Rasch measurement",
+    "centrality",
+    "rater effects",
+    "Type I and Type II errors",
+    "performance assessment",
+    "statistical power",
+    "logistic regression"
+  ],
+  "title": "Detecting Rater Centrality Effect Using Simulation Methods and Rasch Measurement Analysis",
+  "type": "Dissertation"
+}

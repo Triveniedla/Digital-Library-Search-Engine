@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Brownfield, Michael I.",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeecochair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Pratt, Timothy J.",
+    "Koelling, Charles Patrick",
+    "Hou, Yiwei Thomas"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:17Z",
+  "date_adate": "2006-04-17",
+  "date_available": "2014-03-14T20:09:17Z",
+  "date_issued": "2006-03-31",
+  "date_rdate": "2006-04-17",
+  "date_sdate": "2006-04-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the progression of computer networks extending boundaries and joining distant locations, wireless sensor networks (WSNs) emerge as the new frontier in developing opportunities to collect and process data from remote locations.  WSNs rely on hardware simplicity to make sensor field deployments both affordable and long-lasting without maintenance support.  WSN designers strive to extend network lifetimes while meeting application-specific throughput and latency requirements.  Effective power management places sensor nodes into one of the available energy-saving modes based upon the sleep period duration and the current state of the radio.   This research investigates energy-efficient medium access control (MAC) protocols designed to extend both the lifetime and range of wireless sensor networks.  These networks are deployed in remote locations with limited processor capabilities, memory capacities, and battery supplies.  The purpose of this research is to develop a new medium access control protocol which performs both cluster management and inter-network gateway functions in an energy-efficient manner.  This new protocol, Gateway MAC (GMAC), improves on existing sensor MAC protocols by not only creating additional opportunities to place the sensor platforms into lower power-saving modes, but also by establishing a traffic rhythm which extends the sleep duration to minimize power mode transition costs.  Additionally, this research develops a radio power management (RPM) algorithm to provide a new mechanism for all WSN MAC protocols to optimize sleep transition decisions based upon the power and response characteristics of the sensor platformâ  s transceiver.  Finally, to extend access to sensor data in remote locations, this research also validates an innovative wireless distribution system which integrates wireless sensor networks, mobile ad hoc networks (MANET), and the Internet.    This research makes two significant contributions to the state-of-the-art wireless sensor networks.  First, GMACâ  s centralized network management function offers significant energy savings and network lifetime extensions over existing wireless sensor network protocols.  The second contribution is the introduction of a wireless sensor radio power management algorithm designed to exploit additional power-saving opportunities introduced with the newest generation of faster sensor platform transceivers.",
+  "description_provenance": [
+    "Author Email: brownfld@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: Nathaniel.Davis@afit.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:17Z (GMT). No. of bitstreams: 1 Brownfield_Energy_Efficient_Wireless_Sensor_Network_MAC_Protocols.pdf: 2821297 bytes, checksum: 24d43ebbf5c402e5c8b722ff85280f35 (MD5)   Previous issue date: 2006-03-31"
+  ],
+  "handle": "26749",
+  "identifier_other": "etd-04102006-170423",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04102006-170423/",
+  "identifier_uri": "http://hdl.handle.net/10919/26749",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Brownfield_Energy_Efficient_Wireless_Sensor_Network_MAC_Protocols.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Wireless Sensor Network",
+    "Medium Access Control (MAC)",
+    "Energy Efficiency"
+  ],
+  "title": "Energy-efficient Wireless Sensor Network MAC Protocol",
+  "type": "Dissertation"
+}

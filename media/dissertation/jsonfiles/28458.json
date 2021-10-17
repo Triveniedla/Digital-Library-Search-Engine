@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Joseph, Jr., Joshua Allen",
+  "contributor_committeechair": "Widdowson, Mark A.",
+  "contributor_committeemember": [
+    "Loganathan, G. V.",
+    "Gallagher, Daniel L.",
+    "Stephenson, Stephen Kurt",
+    "Cox, William E."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:14:33Z",
+  "date_adate": "2008-08-06",
+  "date_available": "2014-03-14T20:14:33Z",
+  "date_issued": "2008-04-24",
+  "date_rdate": "2008-08-06",
+  "date_sdate": "2008-07-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Remediation of contaminated groundwater remains a high-priority national goal in the United States.  Water is essential to life, and new sources of water are needed for an expanding population.  Groundwater remediation remains a significant technical challenge despite decades of research into this field.  New approaches are needed to address the most severely-polluted aquifers, and cost-effective solutions are required to meet remediation objectives that protect human health and the environment.   Source reduction combined with Monitored Natural Attenuation (MNA) is a remediation strategy whereby the source of contamination is aggressively treated or removed and the residual groundwater plume depletes due to natural processes in the subsurface.  The USEPA requires long-term performance monitoring of groundwater at MNA sites over the remediation timeframe, which often takes decades to complete.  Presently, computational tools are lacking to adequately integrate source remediation with economic models.  Furthermore, no framework has been developed to highlight the tradeoff between the degree of remediation versus the level of benefit within a cost structure.    Using the Natural Attenuation Software (NAS) package developed at Virginia Tech, a set of formulae have been developed for calculating the TOR for petroleum-contaminated aquifers (specifically tracking benzene and MTBE) through statistical techniques.  With the knowledge of source area residual saturation, groundwater velocity, and contaminant plume source length, the time to remediate a site contaminated with either benzene or MTBE can be determined across a range of regulatory maximum contaminant levels.   After developing formulae for TOR, an integrated and interactive decision tool for framing the decision analysis component of the remediation problem was developed.  While MNA can be a stand-alone groundwater remediation technology, significant benefits may be realized by layering a more traditional source zone remedial technique with MNA.  Excavation and soil vapor extraction when applied to the front end of a remedial action plan can decrease the amount of time to remediation and while generally more expensive than an MNA-only approach, may accrue long-term economic advantages that would otherwise be foregone.   The value of these research components can be realized within the engineering and science communities, as well as through government, business and industry, and communities where groundwater contamination and remediation are of issue.  Together, these tools constitute the Sâ ªEâ ªEâ ªPâ ªAGE paradigm, founded upon the concept of sound science for an environmental engineering, effectual economics, and public policy agenda.  The TOR formulation simplifies the inputs necessary to determine the number of years that an MNA strategy will require before project closure and thus reduces the specialized skills and training required to perform a numerical analysis that for one set of conditions could require many hours of simulation time.  The economic decision tool, that utilizes a life cycle model to evaluate a set of feasible alternatives, highlights the tradeoffs between time and economics can be realized over the lifetime of the remedial project.",
+  "description_provenance": [
+    "Author Email: jjoseph@vt.edu",
+    "Advisor Email: dang@vt.edu",
+    "Advisor Email: kurts@vt.edu",
+    "Advisor Email: cox@vt.edu",
+    "Advisor Email: mwiddows@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:33Z (GMT). No. of bitstreams: 1 Joshua_Joseph_Dissertation_2008.pdf: 1135344 bytes, checksum: c40e88626a050cbfcab4d192276619c6 (MD5)   Previous issue date: 2008-04-24"
+  ],
+  "handle": "28458",
+  "identifier_other": "etd-07302008-235858",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07302008-235858/",
+  "identifier_uri": "http://hdl.handle.net/10919/28458",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Joshua_Joseph_Dissertation_2008.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "soil vapor extraction (SVE)",
+    "groundwater",
+    "light non aqueous phase liquid (LNAPL)",
+    "economics",
+    "time of remediation (TOR)",
+    "excavation",
+    "monitored natural attenuation (MNA)",
+    "policy",
+    "remediation"
+  ],
+  "title": "Computational Tools for Improved Analysis and Assessment of Groundwater Remediation Sites",
+  "type": "Dissertation"
+}

@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Hajjiah, Ali  T.",
+  "contributor_committeechair": "Guido, Louis J.",
+  "contributor_committeemember": [
+    "Hendricks, Robert W.",
+    "Lu, Guo-Quan",
+    "Safaai-Jazi, Ahmad",
+    "Asryan, Levon V."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:12Z",
+  "date_adate": "2009-02-27",
+  "date_available": "2014-03-14T20:07:12Z",
+  "date_issued": "2009-01-19",
+  "date_rdate": "2009-02-27",
+  "date_sdate": "2009-02-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Significant technical barriers currently prevent the wide spread adoption of WGM lasers as building blocks in large-scale photonic integrated circuits.  The first challenge is to reduce the electrical power consumption at desirable levels of light output power.  The second target is to obtain directional light emission without sacrificing other laser performance metrics.  The best opportunity for success lies in the pursuit of small micro-Pillar lasers with spiral-geometry cavities.  Process technology has been demonstrated for making high-performance WGM lasers including a refined ICP etching process for fabricating micro-Pillar cavities with sidewall roughness less than 10 nm and a new hydrogenation based approach to achieving current blocking that is compatible with all other processing steps and robust in comparison with earlier reports.  A comprehensive photo-mask has been designed that enables investigation of the interplay between device geometry and WGM laser performance.  Emphasis has been placed on enabling experiments to determining the impact of diffraction and scattering losses, current and carrier confinement, and surface recombination on electrical/optical device characteristics.  In addition, a methodology has been developed for separating out process optimization work from the task of identifying the best means for directional light out-coupling.  Our device fabrication methods can be proven on WGM lasers with pure cylindrical symmetry, hence results from these experiments should be independent of any specific light output coupling scheme.  Particular attention has been paid to the fact that device geometries that give the best performance for purely symmetrical cavities may not yield the highest level of light emission from the spiral output notch.  Such considerations seem to be missing from much of the earlier work reported in the literature.  Finally, our processing techniques and device designs have resulted in individual WGM lasers that outperform those made by competitors.  These devices have been incorporated into multi-element, coupled-cavity optical circuits thereby laying the groundwork for construction of digital photonic gates that execute AND, OR, and NOT logic functions.",
+  "description_provenance": [
+    "Author Email: ahajjiah@vt.edu",
+    "Advisor Email: guido@mse.vt.edu",
+    "Advisor Email: hendrxrw@mse.vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: asryan@mse.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:12Z (GMT). No. of bitstreams: 1 Ali_Hajjiah_Dissertation.pdf: 4588992 bytes, checksum: 5ac728eb0c16bf8cad5636995c2f1537 (MD5)   Previous issue date: 2009-01-19"
+  ],
+  "handle": "26136",
+  "identifier_other": "etd-02062009-050703",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02062009-050703/",
+  "identifier_uri": "http://hdl.handle.net/10919/26136",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ali_Hajjiah_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Semiconductor laser",
+    "Whispering Gallery-Mode"
+  ],
+  "title": "Design and Analysis of Whispering Gallery Mode Semiconductor Lasers",
+  "type": "Dissertation"
+}

@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Bennett, Matthew Damon",
+  "contributor_committeechair": "Leo, Donald",
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Robertshaw, Harry H.",
+    "Spinks, Geoffrey",
+    "Long, Timothy E.",
+    "Wilkes, Garth L.",
+    "Claus, Richard O."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:50Z",
+  "date_adate": "2005-11-11",
+  "date_available": "2014-03-14T20:17:50Z",
+  "date_issued": "2005-10-19",
+  "date_rdate": "2005-11-11",
+  "date_sdate": "2005-11-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Traditionally, water has been used as the diluent for ionomeric polymer transducers.  The water mobilizes the counterions within the polymer and allows electromechanical transduction to occur.  However, these water-swollen devices have limited stability when operated in a non-aqueous environment.  In this work, ionic liquids are demonstrated as viable diluents for ionomeric polymer transducers based on Nafion membranes.  Ionic liquids are molten salts that are highly thermally stable and have an immeasureably low vapor pressure.  Therefore, the ionic liquid-swollen transducers exhibit enhanced stability in their performance when operated for long periods of time in air.  Methods for swelling Nafion membranes with ionic liquids are presented.  Also, techniques for plating the ionic liquid-swollen transducers with metal electrodes are discussed.  The performance of the ionic liquid-swollen transducers is compared to that of water-swollen transducers and differences are observed.  Apart from the superior stability of the ionic liquid-swollen devices, they are observed to not exhibit the characteristic back-relaxation that is often associated with water-swollen transducers and limits their low frequency response.  In order to investigate the physics of transduction in the ionic liquid-swollen membranes, structured experiments are performed using two different ionic liquids: 1-ethyl-3-methylimidazolium trofluoromethanesulfonate (EMI-Tf), which is water miscible, and 1-ethyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide (EMI-Im), which is hydrophobic.  The other experimental parameters are the counterion of the Nafion membrane and the swelling level of ionic liquid.  Small-angle X-ray scattering (SAXS) is used to characterize the morphology of the ionic liquid-swollen Nafion membranes.  The SAXS testing reveals that the clustered morphology of the Nafion membrane is preserved by the EMI-Tf ionic liquid, which is compatible with the hydrophilic cluster phase.  By contrast, the hydrophobic EMI-Im ionic liquid is found to disrupt the clustered morphology and lead to partial homogenization of the polymer.  This has the effect of inhibiting the ionic conductivity.  The SAXS testing also reveals that the mean intercluster spacing increases as the content of ionic liquid and size of the counterions increases.  Based on assumptions regarding the swelling mechanism, this is thought to arise from an increase in the mean size of the clusters.  Spectroscopic investigations were also performed using Fourier transform infrared spectroscopy (FTIR) and nuclear magnetic resonance spectroscopy (NMR).  These studies show that the ionic liquid interacts with the Nafion polymer by displacing the counterions away from the sulfonate exchange sites.  The cations of the ionic liquid then associate with the sulfonate sites and the counterions associate with the anions of the ionic liquid.  Above a certain critical uptake of ionic liquid, this displacement is complete and additional ionic liquid does not associate with the ions of the polymer.  The critical uptake is found to decrease with increasing size of the counterions.",
+  "description_provenance": [
+    "Author Email: mabenne2@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: gspinks@uow.edu.au",
+    "Advisor Email: telong@vt.edu",
+    "Advisor Email: gwilkes@vt.edu",
+    "Advisor Email: roclaus@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:50Z (GMT). No. of bitstreams: 2 ACS_approval.pdf: 26339 bytes, checksum: f1376b22bc50b2f83792b6079299dcf8 (MD5) matt_bennett_phd_dissertation.pdf: 11372309 bytes, checksum: 83c3f505c3322542b6233d0f5c3f453e (MD5)   Previous issue date: 2005-10-19"
+  ],
+  "handle": "29421",
+  "identifier_other": "etd-11012005-105538",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11012005-105538/",
+  "identifier_uri": "http://hdl.handle.net/10919/29421",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ACS_approval.pdf",
+    "matt_bennett_phd_dissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "artificial muscle",
+    "Nafion",
+    "ionic liquid",
+    "electroactive polymer"
+  ],
+  "title": "Electromechanical Transduction in Ionic Liquid-Swollen Nafion Membranes",
+  "type": "Dissertation"
+}

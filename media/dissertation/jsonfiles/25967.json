@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Adams, Robert John",
+  "contributor_committeechair": "Brown, Gary S.",
+  "contributor_committeemember": [
+    "Kohler, Werner E.",
+    "Besieris, Ioannis M.",
+    "Stutzman, Warren L.",
+    "Davis, Willam A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:38Z",
+  "date_adate": "1999-01-08",
+  "date_available": "2014-03-14T20:06:38Z",
+  "date_issued": "1998-12-17",
+  "date_rdate": "2000-01-08",
+  "date_sdate": "1999-01-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Significant effort has recently been directed towards the development of numerically efficient iterative techniques for the solution of boundary integral equation formulations of time harmonic scattering problems. The primary result of this effort has been the development of several advanced numerical techniques which enable the dense matrix-vector products associated with the iterative solution of boundary integral equations to be rapidly computed. However, an important aspect of  this problem which has yet to be adequately addressed is the development of rapidly convergent iterative techniques to complement the relatively more mature numerical algorithms which expedite the matrix-vector product operation.  <p>  To this end, a class of efficient iterative methods for boundary integral equation formulations of two-dimensional scattering problems is presented.  This development is based on an attempt to approximately factor (i.e., renormalize) the boundary integral formulation of an arbitrary scattering problem into a product of one-way wave operators and a corresponding coupling operator which accounts for the interactions between oppositely propagating waves on the surface of the scatterer. The original boundary integral formulation of the scattering problem defines the coupling between individual equivalent sources on the surface of the scatterer. The renormalized version of this equation defines the coupling between the forward and backward propagating fields obtained by re-summing the individual equivalent sources present in the original boundary integral formulation of the scattering problem.  <p>  An important feature of this class of rapidly convergent iterative techniques  is that they are based on an attempt to incorporate the important physical aspects of the scattering problem into the iterative procedure. This leads to rapidly convergent iterative series for a number of two-dimensional scattering problems. The iterative series obtained using this renormalization procedure are much more rapidly convergent than the series obtained using Krylov subspace techniques.  In fact, for several of the geometries considered the number of iterations required to achieve a specified residual error is independent of the size of the scatterer.  This desirable property of the iterative methods presented here is not shared by other iterative schemes for wave scattering problems. Moreover, because the approach used to develop these iterative series depends only on the assumption that the total field can be approximately represented by a summation of independent and oppositely directed waves (and not on the presence of special geometries, etc.),  the proposed iterative methods are very general and are thus applicable to a large number of complex scattering problems.",
+  "description_provenance": [
+    "Author Email: rjadams@uky.edu",
+    "Advisor Email: randem@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:38Z (GMT). No. of bitstreams: 1 diss.pdf: 2633341 bytes, checksum: 3fbd1e4e80a62866120dc7cdb1427cd8 (MD5)   Previous issue date: 1998-12-17"
+  ],
+  "handle": "25967",
+  "identifier_other": "etd-010899-095027",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-010899-095027/",
+  "identifier_uri": "http://hdl.handle.net/10919/25967",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "iterative methods",
+    "wave scattering"
+  ],
+  "title": "A Class of Robust and Efficient Iterative Methods for Wave Scattering Problems",
+  "type": "Dissertation"
+}

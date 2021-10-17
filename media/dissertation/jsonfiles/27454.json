@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Bortolot, Zachary Jared",
+  "contributor_committeechair": "Wynne, Randolph H.",
+  "contributor_committeemember": [
+    "Campbell, James B. Jr.",
+    "Abbott, A. Lynn",
+    "Seiler, John R.",
+    "Prisley, Stephen P."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:11:18Z",
+  "date_adate": "2004-05-06",
+  "date_available": "2014-03-14T20:11:18Z",
+  "date_issued": "2004-04-23",
+  "date_rdate": "2005-05-06",
+  "date_sdate": "2004-04-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Forests have been proposed as a means of reducing atmospheric carbon dioxide levels due to their ability to store carbon as biomass.  To quantify the amount of atmospheric carbon sequestered by forests, biomass and density estimates are often needed.  This study develops, implements, and tests an individual tree-based algorithm for obtaining forest density and biomass using orthophotographs and small footprint LiDAR imagery.  It was designed to work with a range of forests and image types without modification, which is accomplished by using generic properties of trees found in many types of images.  Multiple parameters are employed to determine how these generic properties are used.  To set these parameters, training data is used in conjunction with an optimization algorithm (a modified Nelder-Mead simplex algorithm or a genetic algorithm).  The training data consist of small images in which density and biomass are known.  A first test of this technique was performed using 25 circular plots (radius = 15 m) placed in young pine plantations in central Virginia, together with false color othophotograph (spatial resolution = 0.5 m) or small footprint LiDAR (interpolated to 0.5 m) imagery.  The highest density prediction accuracies (r2 up to 0.88, RMSE as low as 83 trees / ha) were found for runs where photointerpreted densities were used for training and testing.  For tests run using density measurements made on the ground, accuracies were consistency higher for orthophotograph-based results than for LiDAR-based results, and were higher for trees with DBH  &#8805;10cm than for trees with DBH  &#8805;7 cm.  Biomass estimates obtained by the algorithm using LiDAR imagery had a lower RMSE (as low as 15.6 t / ha) than most comparable studies.  The correlations between the actual and predicted values (r2 up to 0.64)  were lower than comparable studies, but were generally highly significant (p &#8804; 0.05 or 0.01).  In all runs there was no obvious relationship between accuracy and the amount of training data used, but the algorithm was sensitive to which training and testing data were selected.  Methods were evaluated for combining predictions made using different parameter sets obtained after training using identical data.  It was found that averaging the predictions produced improved results.  After training using density estimates from the human photointerpreter, 89% of the trees located by the algorithm corresponded to trees found by the human photointerpreter.  A comparison of the two optimization techniques found them to be comparable in speed and effectiveness.",
+  "description_provenance": [
+    "Author Email: z.bortolot@moreheadstate.edu",
+    "Advisor Email: jayhawk@vt.edu",
+    "Advisor Email: wynne@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: jseiler@vt.edu",
+    "Advisor Email: prisley@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:18Z (GMT). No. of bitstreams: 1 bortolot_dissertation.pdf: 6080059 bytes, checksum: b4b7783c98aac8cadcff02ed3b990901 (MD5)   Previous issue date: 2004-04-23"
+  ],
+  "handle": "27454",
+  "identifier_other": "etd-04302004-144137",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04302004-144137/",
+  "identifier_uri": "http://hdl.handle.net/10919/27454",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "bortolot_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "stand density",
+    "LiDAR",
+    "loblolly pine plantations",
+    "biomass",
+    "aerial photograph",
+    "optimization",
+    "genetic algorithm",
+    "computer vision",
+    "Nelder-Mead simplex"
+  ],
+  "title": "An Adaptive Computer Vision Technique for Estimating the Biomass and Density of Loblolly Pine Plantations using Digital Orthophotography and LiDAR Imagery",
+  "type": "Dissertation"
+}

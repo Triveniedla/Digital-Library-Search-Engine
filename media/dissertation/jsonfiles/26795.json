@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Sego, Landon Hugh",
+  "contributor_committeecochair": [
+    "Woodall, William H.",
+    "Reynolds, Marion R. Jr."
+  ],
+  "contributor_committeemember": [
+    "Spitzner, Dan J.",
+    "Vining, G. Geoffrey",
+    "Birch, Jeffrey B."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:09:27Z",
+  "date_adate": "2006-04-18",
+  "date_available": "2014-03-14T20:09:27Z",
+  "date_issued": "2006-04-05",
+  "date_rdate": "2006-04-18",
+  "date_sdate": "2006-04-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We consider two applications of control charts in health care.  The first involves the comparison of four methods designed to detect an increase in the incidence rate of a rare health event, such as a congenital malformation. A number of methods have been proposed:  among these are the Sets method, two modifications of the Sets method, and the CUSUM method based on the Poisson distribution. Many of the previously published comparisons of these methods used unrealistic assumptions or ignored implicit assumptions which led to misleading conclusions.  We consider the situation where data are observed as a sequence of Bernoulli trials and propose the Bernoulli CUSUM chart as a desirable method for the surveillance of rare health events. We compare the steady-state average run length performance of the Sets methods and its modifications to the  Bernoulli CUSUM chart under a wide variety of circumstances. Except in a very few instances we find that the Bernoulli CUSUM chart performs better than the Sets method and its modifications for the extensive number of cases considered. The second application area involves monitoring clinical outcomes, which requires accounting for the fact that each patient has a different risk of death prior to undergoing a health care procedure.  We propose a risk-adjusted survival time CUSUM chart (RAST CUSUM) for monitoring clinical outcomes where the primary endpoint is a continuous, time-to-event variable that is right censored.  Risk adjustment is accomplished using accelerated failure time regression models.  We compare the average run length performance of the RAST CUSUM chart to the risk-adjusted Bernoulli CUSUM chart, using data from cardiac surgeries to motivate the details of the comparison. The comparisons show that the RAST CUSUM chart is more efficient at detecting deterioration in the quality of a clinical procedure than the risk-adjusted Bernoulli CUSUM chart, especially when the fraction of censored observations is not too high.  We address details regarding the implementation of a prospective monitoring scheme using the RAST CUSUM chart.",
+  "description_provenance": [
+    "Author Email: sego@vt.edu",
+    "Advisor Email: dan.spitzner@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:27Z (GMT). No. of bitstreams: 1 Landon_Sego_dissertation.pdf: 1285228 bytes, checksum: 8726832aa9d6f0c1c74571bad91aaaa7 (MD5)   Previous issue date: 2006-04-05"
+  ],
+  "handle": "26795",
+  "identifier_other": "etd-04122006-182352",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04122006-182352/",
+  "identifier_uri": "http://hdl.handle.net/10919/26795",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Landon_Sego_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Sets",
+    "monitoring",
+    "CUSCORE",
+    "steady-state",
+    "control chart",
+    "risk-adjusted",
+    "survival time",
+    "CUSUM"
+  ],
+  "title": "Applications of Control Charts in Medicine and Epidemiology",
+  "type": "Dissertation"
+}

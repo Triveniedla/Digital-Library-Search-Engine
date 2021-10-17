@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Cho, Hyeonjoong",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Athanas, Peter M.",
+    "Shukla, Sandeep K.",
+    "Hou, Yiwei Thomas",
+    "Jensen, E. Douglas",
+    "Arthur, James D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:52Z",
+  "date_adate": "2006-09-26",
+  "date_available": "2014-03-14T20:15:52Z",
+  "date_issued": "2006-08-24",
+  "date_rdate": "2006-09-26",
+  "date_sdate": "2006-09-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents a class of utility accrual scheduling and synchronization algorithms for dynamic, single and multiprocessor real-time systems. Dynamic real-time systems operate in environments with run-time uncertainties including those on activity execution times and arrival behaviors. We consider the time/utility function (or TUF) timing model for specifying application time constraints, and the utility accrual (or UA) timeliness optimality criteria of satisfying lower bounds on accrued activity utility, and maximizing the total accrued utility.  Efficient TUF/UA scheduling algorithms exist for single processors---e.g., the Resource-constrained Utility Accrual scheduling algorithm (RUA), and the Dependent Activity Scheduling Algorithm (DASA). However, they all use lock-based synchronization. To overcome shortcomings of lock-based (e.g., serialized object access, increased run-time overhead, deadlocks), we consider non-blocking synchronization including wait-free and lock-free synchronization. We present a buffer-optimal, scheduler-independent wait-free synchronization protocol (the first such), and develop wait-free versions of RUA and DASA. We also develop their lock-free versions, and upper bound their retries under the unimodal arbitrary arrival model.  The tradeoff between wait-free, lock-free, and lock-based is fundamentally about their space and time costs. Wait-free sacrifices space efficiency in return for no additional time cost, as opposed to the blocking time of lock-based and the retry time of lock-free. We show that wait-free RUA/DASA outperform lock-based RUA/DASA when the object access times of both approaches are the same, e.g., when the shared data size is so large that the data copying process dominates the object access time of two approaches. We derive lower bounds on the maximum accrued utility that is possible with wait-free over lock-based. Further, we show that when maximum sojourn times under lock-free RUA/DASA is shorter than under lock-based, it is a necessary condition that the object access time of lock-free is shorter than that of lock-based. We also establish the maximum increase in activity utility that is possible under lock-free and lock-based. Multiprocessor TUF/UA scheduling has not been studied in the past. For step TUFs, periodic arrivals, and under-loads, we first present a non-quantum-based, optimal scheduling algorithm called Largest Local Remaining Execution time-tasks First (or LLREF) that yields the optimum total utility. We then develop another algorithm for non-step TUFs, arbitrary arrivals, and overloads, called the global Multiprocessor Utility Accrual scheduling algorithm (or gMUA). We show that gMUA lower bounds each activity's accrued utility, as well as the system-wide, total accrued utility. We consider lock-based, lock-free, and wait-free synchronization under LLREF and gMUA. We derive LLREF's and gMUA's minimum-required space cost for wait-free synchronization using our space-optimal wait-free algorithm, which also applies for multiprocessors. We also develop lock-free versions of LLREF and gMUA with bounded retries. While the tradeoff between wait-free LLREF/gMUA versus lock-based LLREF/gMUA is similar to that for the single processor case, that between lock-free LLREF/gMUA and lock-based LLREF/gMUA hinges on the cost of the lock-free retry, blocking time under lock-based, and the operating system overhead.",
+  "description_provenance": [
+    "Author Email: hjcho@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: jensen@real-time.org",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:52Z (GMT). No. of bitstreams: 1 Dissertation_Cho.pdf: 603127 bytes, checksum: b70b26b60bfd2d35074372b7f1d21683 (MD5)   Previous issue date: 2006-08-24"
+  ],
+  "handle": "28855",
+  "identifier_other": "etd-09022006-160653",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09022006-160653/",
+  "identifier_uri": "http://hdl.handle.net/10919/28855",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Cho.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Real-Time Scheduling",
+    "Time-Utility Functions",
+    "Optimality",
+    "Multiprocessors",
+    "Utility Accrual Real-Time Scheduling",
+    "Non-Blocking Synchronization"
+  ],
+  "title": "Utility Accrual Real-Time Scheduling and Synchronization on Single and Multiprocessors: Models, Algorithms, and Tradeoffs",
+  "type": "Dissertation"
+}

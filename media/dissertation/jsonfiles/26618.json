@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Shatila, Hazem Sarwat",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeecochair": "Khedr, Mohamed E.",
+  "contributor_committeemember": [
+    "Shukla, Sandeep K.",
+    "Beex, A. A. Louis",
+    "Vullikanti, Anil Kumar S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:50Z",
+  "date_adate": "2012-04-23",
+  "date_available": "2014-03-14T20:08:50Z",
+  "date_issued": "2012-03-20",
+  "date_rdate": "2012-04-23",
+  "date_sdate": "2012-04-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As wireless technologies evolve, novel innovations and concepts are required to dynamically and automatically alter various radio parameters in accordance with the radio environment. These innovations open the door for cognitive radio (CR), a new concept in telecommunications. CR makes its decisions using an inference engine, which can learn and adapt to changes in radio conditions.     Fuzzy logic (FL) is the proposed decision-making algorithm for controlling the CRâ  s inference engine. Fuzzy logic is well-suited for vague environments in which incomplete and heterogeneous information is present. In our proposed approach, FL is used to alter various radio parameters according to experience gained from different environmental conditions. FL requires a set of decision-making rules, which can vary according to radio conditions, but anomalies rise among these rules, causing degradation in the CRâ  s performance. In such cases, the CR requires a method for eliminating such anomalies. In our model, we used a method based on the Dempster-Shafer (DS) theory of belief to accomplish this task. Through extensive simulation results and vast case studies, the use of the DS theory indeed improved the CRâ  s decision-making capability. Using FL and the DS theory of belief is considered a vital module in the automation of various radio parameters for coping with the dynamic wireless environment.     To demonstrate the FL inference engine, we propose a CR version of WiMAX, which we call CogMAX, to control different radio resources. Some of the physical parameters that can be altered for better results and performance are the physical layer parameters such as channel estimation technique, the number of subcarriers used for channel estimation, the modulation technique, and the code rate.",
+  "description_provenance": [
+    "Author Email: hshatila@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: vskumar@vt.edu",
+    "Advisor Email: khedr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:50Z (GMT). No. of bitstreams: 2 Dissertation_Hazem_Final_ETD.pdf: 5038588 bytes, checksum: 9b1403023bca43517de2a427d897709a (MD5) Dissertation_Hazem_Final_ETD_2.pdf: 4991753 bytes, checksum: 3698166eacbc329b79228d26216651ac (MD5)   Previous issue date: 2012-03-20"
+  ],
+  "handle": "26618",
+  "identifier_other": "etd-04032012-045130",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04032012-045130/",
+  "identifier_uri": "http://hdl.handle.net/10919/26618",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Dissertation_Hazem_Final_ETD.pdf",
+    "Dissertation_Hazem_Final_ETD_2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "WiMAX",
+    "cognitive engine",
+    "Wireless broadband",
+    "cognitive radio",
+    "opportunistic decision making.",
+    "dynamic spectrum allocation",
+    "fuzzy C-mean clustering (FCM)",
+    "fuzzy logic"
+  ],
+  "title": "Adaptive Radio Resource Management in Cognitive Radio Communications using Fuzzy Reasoning",
+  "type": "Dissertation"
+}

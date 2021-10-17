@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Li, Jian",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Xu, Ming",
+    "Lindner, Douglas K.",
+    "Suchicital, Carlos T. A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:07Z",
+  "date_adate": "2009-06-05",
+  "date_available": "2014-03-14T20:10:07Z",
+  "date_issued": "2009-04-14",
+  "date_rdate": "2009-06-05",
+  "date_sdate": "2009-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Due to unique characteristics, current-mode control architectures with different implementation approaches have been widely used in power converter design to achieve current sharing, AVP control, and light-load efficiency improvement.  Therefore, an accurate model for current-mode control is indispensable to system design due to the existence of subharmonic oscillations.   The fundamental difference between current-mode control and voltage-mode control is the PWM modulation.  The inductor current, one of state variables, is used in the modulator in current-mode control while an external ramp is used in voltage-mode control.  The dynamic nonlinearity of current-mode control results in the difficulty of obtaining the small-signal model for current-mode control in the frequency domain.  There has been a long history of the current-mode control modeling.  Many previous attempts have been made especially for constant-frequency peak current-mode control.   However, few models are available for variable-frequency constant on-time control and V2 current-mode control.  Itâ  s hard to directly extend the model of peak current-mode control to those controls.  Furthermore, there is no simple way of modeling the effects of the capacitor ripple which may result in subharmonic oscillations in V2 current-mode control.  In this dissertation, the primary objective to investigate a new and general modeling approach for current-mode control with different implementation methods.  First, the fundamental limitation of average models for current-mode control is identified.  The sideband components are generated and coupled with the fundamental component through the PWM modulator in the current loop.  Moreover, the switching frequency harmonics cannot be ignored in the current loop since the current ripple is used for the PWM modulation.  Available average models failed to consider the sideband effects and high frequency harmonics.  Due to the complexity of the current loop, it is difficult to analyze current loop in the frequency domain.  A new modeling approach for current-mode control is proposed based on the time-domain analysis.  The inductor, the switches and the PWM modulator are treated as a single entity to model instead of breaking them into parts to do it.  Describing function  method is used.  Proposed approach can be applied not only to constant-frequency modulation but also to variable-frequency modulation.  The fundamental difference between different current-mode controls is elaborated based on the models obtained from the new modeling approach.   Then, an equivalent circuit representation of current-mode control is presented for the sake of easy understanding.  The effect of the current loop is equivalent to controlling the inductor current as a current source with certain impedance.  The circuit representation provides both the simplicity of the circuit model and the accuracy of the proposed model.  Next, the new modeling approach is extended to V2 current-mode control based on similar concept.  The model for V2 current-mode control can accurately predict subharmonic oscillations due to the influence of the capacitor ripple.  Two solutions are discussed to solve the instability issue.  After that, a digital application of current-mode control is introduced.  High-resolution digital pulse-width modulator (DPWM) is considered to be indispensable for minimizing the possibility of unpredicted limit-cycle oscillations, but results in high cost, especially in the application of voltage regulators for microprocessors.  In order to solve this issue, a fully digital current-mode control architecture which can effectively limit the oscillation amplitude is presented, thereby greatly reducing the design challenge for digital controllers by eliminating the need for the high-resolution DPWM.  The new modeling strategy is also used to model the proposed digital current-mode control to help system design.  As a conclusion, a new modeling approach for current-mode control is fully investigated.  Describing function method is utilized as a tool in this dissertation.  Proposed approach is quite general and not limit by implementation methods.  All the modeling results are verified through simulation and experiments.",
+  "description_provenance": [
+    "Author Email: jianli04@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: mixu3@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: ctas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:07Z (GMT). No. of bitstreams: 1 Disseration_JianLi_revision_new.pdf: 7560655 bytes, checksum: 6fed508625a097b0ba0139630f5746b5 (MD5)   Previous issue date: 2009-04-14"
+  ],
+  "handle": "27019",
+  "identifier_other": "etd-04192009-152740",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192009-152740/",
+  "identifier_uri": "http://hdl.handle.net/10919/27019",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Disseration_JianLi_revision_new.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "current-mode control",
+    "modeling",
+    "describing function",
+    "equivalent circuit",
+    "digital control",
+    "DPWM"
+  ],
+  "title": "Current-Mode Control: Modeling and its Digital Application",
+  "type": "Dissertation"
+}

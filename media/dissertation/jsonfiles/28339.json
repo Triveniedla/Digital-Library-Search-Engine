@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Sandfry, Ralph Anthony",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Kraige, Luther Glenn",
+    "Hendricks, Scott L.",
+    "Cliff, Eugene M.",
+    "Lutze, Frederick H. Jr."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:14:09Z",
+  "date_adate": "2001-07-23",
+  "date_available": "2014-03-14T20:14:09Z",
+  "date_issued": "2001-07-09",
+  "date_rdate": "2002-07-23",
+  "date_sdate": "2001-07-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We investigate the relative equilibria of a gyrostat with a spring-mass-dashpot damper to gain new insights into the dynamics of spin-stabilized satellites. The equations of motion are developed using a Newton-Euler approach, resulting in equations in terms of system momenta and damper variables. Linear and nonlinear stability methods produce stability conditions for simple spins about the nominal principal axes. We use analytical and numerical methods to explore system equilibria, including the bifurcations that occur for varying system parameters for varying rotor momentum and damper parameters.  The equations and bifurcations for zero rotor absolute angular momentum are identical to those for a rigid body with an identical damper. For the more general case of non-zero rotor momentum, the bifurcations are complex structures that are perturbations of the zero rotor momentum case. We examine the effects of spring stiffness, damper position, and inertia properties on the global equilibria.  Stable equilibria exist for many different spin axes, including some that do not lie in the nominally principal planes.  Some bifurcations identify regions where a jump phenomenon is possible.  We use Liapunov-Schmidt reduction to determine an analytic relationship between parameters to determine if the jump phenomenon occurs. Bifurcations of the nominal gyrostat spin are characterized in parameter space using two-parameter continuation and the Liapunov-Schmidt reduction technique.   We quantify the effects of rotor or damper alignment errors by adding small displacements to the alignment vectors, resulting in perturbations of the bifurcations for the standard model.  We apply the global bifurcation results to several practical applications.  We relate the general set of all possible equilibria to specific equilibria for dual-spin satellites with typical parameters.  For systems with tuned dampers, where the natural frequency of the spring-mass-damper matches the gyrostat precession frequency, we show numerically and analytically that the existence of certain equilibria are related to the damper tuning condition. Finally, the global equilibria and bifurcations for varying rotor momentum provide a unique perspective on the dynamics of simple rotor spin-up maneuvers.",
+  "description_provenance": [
+    "Author Email: rsandfry@vt.edu",
+    "Advisor Email: kraige@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: cliff@origin2.icam.vt.edu",
+    "Advisor Email: chall@vt.edu",
+    "Advisor Email: lutze@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:09Z (GMT). No. of bitstreams: 1 dissert.pdf: 3720239 bytes, checksum: f01f43faedda9b610b3fbb7abc538003 (MD5)   Previous issue date: 2001-07-09"
+  ],
+  "handle": "28339",
+  "identifier_other": "etd-07202001-122347",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07202001-122347/",
+  "identifier_uri": "http://hdl.handle.net/10919/28339",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissert.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "gyrostat",
+    "satellite",
+    "dual-spin",
+    "bifurcation",
+    "damping"
+  ],
+  "title": "Equilibria of a Gyrostat with a Discrete Damper",
+  "type": "Dissertation"
+}

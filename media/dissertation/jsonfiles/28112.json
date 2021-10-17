@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hashemi, Nastaran",
+  "contributor_committeechair": "Paul, Mark R.",
+  "contributor_committeemember": [
+    "Ball, Kenneth S.",
+    "Hajj, Muhammad R.",
+    "Huxtable, Scott T.",
+    "Tafti, Danesh K.",
+    "Dankowicz, Harry J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:28Z",
+  "date_adate": "2008-07-22",
+  "date_available": "2014-03-14T20:13:28Z",
+  "date_issued": "2008-06-18",
+  "date_rdate": "2008-07-22",
+  "date_sdate": "2008-06-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Central to tapping mode atomic force microscopy is an oscillating cantilever whose tip interacts with a sample surface. The tip-surface interactions are strongly nonlinear, rapidly changing, and hysteretic. We explore numerically a lumped-mass model that includes attractive, adhesive, and repulsive contributions as well as the interaction of the capillary fluid layers that cover both tip and sample in the ambient conditions common in experiment. To accomplish this, we have developed and used numerical techniques specifically tailored for discontinuous, nonlinear, and hysteretic dynamical systems. In particular, we use forward-time simulation with event handling and the numerical pseudo-arclength continuation of periodic solutions. We first use these numerical approaches to explore the nonlinear dynamics of the cantilever. We find the coexistence of three steady state oscillating solutions: (i) periodic with low-amplitude, (ii) periodic with high-amplitude, and (iii) high-periodic or irregular behavior. Furthermore, the branches of periodic solutions are found to end precisely where the cantilever comes into grazing contact with event surfaces in state space corresponding to the onset of capillary interactions and the onset of repulsive forces associated with surface contact. Also, the branches of periodic solutions are found to be separated by windows of irregular dynamics. These windows coexist with the periodic branches of solutions and exist beyond the termination of the periodic solution. We also explore the power dissipated through the interaction of the capillary fluid layers. The source of this dissipation is the hysteresis in the conservative capillary force interaction. We relate the power dissipation with the fraction of oscillations that break the fluid meniscus. Using forward-time simulation with event handling, this is done exactly and we explore the dissipated power over a range of experimentally relevant conditions. It is found that the dissipated power as a function of the equilibrium cantilever-surface separation has a characteristic shape that we directly relate to the cantilever dynamics. We also find that despite the highly irregular cantilever dynamics, the fraction of oscillations breaking the meniscus behaves in a fairly simple manner. We have also performed a large number of forward-time simulations over a wide range of initial conditions to approximate the basins of attraction of steady oscillating solutions. Overall, the simulations show a complex pattern of high and low amplitude periodic solutions over the range of initial conditions explored. We find that for large equilibrium separations, the basin of attraction is dominated by the low-amplitude periodic solution and for the small equilibrium separations by the high-amplitude periodic solution.",
+  "description_provenance": [
+    "Author Email: nastaran@vt.edu",
+    "Advisor Email: ball@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: danko@illinois.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:28Z (GMT). No. of bitstreams: 1 Dissertation_NastaranHashemi_Jul17.pdf: 3146878 bytes, checksum: f047812cf461ce02cc45bed0b99b259a (MD5)   Previous issue date: 2008-06-18"
+  ],
+  "handle": "28112",
+  "identifier_other": "etd-06242008-100349",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06242008-100349/",
+  "identifier_uri": "http://hdl.handle.net/10919/28112",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_NastaranHashemi_Jul17.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Basins of Attraction",
+    "Power Dissipation",
+    "Hybrid Dynamical System",
+    "Nonlinear Dynamics",
+    "Atomic Force Microscopy"
+  ],
+  "title": "Exploring the Nonlinear Dynamics of Tapping Mode Atomic Force Microscopy with Capillary Layer Interactions",
+  "type": "Dissertation"
+}

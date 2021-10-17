@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Pathange, Lakshmi Prasad",
+  "contributor_committeechair": "Zhang, Chenming Mike",
+  "contributor_committeemember": [
+    "Vaughan, David H.",
+    "Larson, Timothy J.",
+    "Bevan, David R.",
+    "Cundiff, John S."
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:09:36Z",
+  "date_adate": "2007-05-05",
+  "date_available": "2014-03-14T20:09:36Z",
+  "date_issued": "2007-02-28",
+  "date_rdate": "2008-05-05",
+  "date_sdate": "2007-04-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Due to the rising health care costs and with the advent of biogenerics, there is a growing demand to develop new and reliable techniques to characterize proteins and biopharmaceuticals. In addition, characterization aids in understanding the intricate relationship between a protein's structure and its function. To address this challenge, two protein structural parameters, 1) amino acid surface area and 2) amino acid microstructure, were chosen to be investigated. Two chromatographic techniques, 1) ion exchange chromatography (IEC) and 2) immobilized metal affinity chromatography (IMAC), were used to characterize the above-mentioned protein structure parameters.  <p> The model protein chosen for our work is T4 lysozyme. The protein consists of 164 amino acids with molecular weight ~ 18 kD. SYBYL 7.1 software was used to generate in silico point mutants. Two categories of protein variants (point mutants) were generated using site-directed protein mutagenesis. The goal for generating point mutants was to obtain mutants that vary in the two structural parameters. The first category point mutants vary in the surface accessibility of a surface accessible histidine residue. The second category point mutants predominantly vary in protein net charge and the amino acid microstructure. In total, seventeen point mutants were generated: 1) category I consists of seven variants that vary predominantly in their histidine surface accessibility, and were obtained by replacing a charged amino acid residue at different locations on the surface of the protein molecule, and 2) category II consists of ten variants that vary in both net charge and charge distribution were obtained by replacing charged and neutral amino acid residues at different locations (different microenvironments) on the protein surface. </p><p>  PCR technique was used to generate the point mutants. Gene and protein sequencing were employed to confirm the veracity of point mutation. CD and Lysozyme activity assays were performed to determine whether or not the 3D structure of all the protein variants was intact. Zonal analysis was used to obtain the binding strength values of all seventeen variants in IMAC with copper as the immobilized metal ions, and gradient elution method was used to obtain the relative retention times (rRT) values of all the variants in IEC. </p><p>   The seven lysozyme variants generated in category I each contains one surface histidine residue. In IMAC, there is a correlation between the surface accessibility of the lone surface histidine and the protein's binding strength with R<sup>2</sup>= 0.76. In IEC, the correlation between the protein's microstructure, which predominantly consists the surface accessibility of the histidine residue, and the protein's retention times was R<sup>2</sup>= 0.95. However, there were few outlier variants (e.g. variant K83H) which did not follow the correlations. The variations presented by few outlier variants can be attributed to the presence of intramolecular bonds, which restrict the mobility of the amino acid side chains and subsequently hinder the specific interaction between the amino acid residue and chromatographic media. </p><p>  For category II variants, short and medium range charge perturbations around the sole histidine residue in T4 lysozyme were engineered within 15 Ã  distance of histidine. There was a strong correlation (R<sup>2</sup> = 0.96) between the theoretical  (DeltaDeltaGElec) values, calculated using simple Coulomb's law, and the experimental  (DeltaDeltaGB) values, which were obtained by measuring the protein binding strength values using IMAC. Similar correlation (R<sup>2</sup>= 0.93) was obtained between the change in net charge (-2 to +2 units) and the relative retention times in IEC. Similarly, there were few variants (e.g. S136K, R76D) that did not follow the trends. The deviations of the few outlier variants can be attributed to the presence of unique microstructure effects around the histidine residue. These microstructure effects were quantified in IMAC as (DeltaDeltaGMicro), and in IEC they were quantified by the change in rRT values. </p><p>  In summary, all seventeen variants had different binding strengths and rRT values indicating the variation in the protein structure around the histidine residue. Our work reveals that it is possible to capture the microstructural effects of a protein through the combination of protein molecular modeling and simple chromatographic experiments. </p>",
+  "description_provenance": [
+    "Author Email: prasad.pathange@gmail.com",
+    "Advisor Email: davaugha@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Advisor Email: chzhang2@vt.edu",
+    "Advisor Email: jcundiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:36Z (GMT). No. of bitstreams: 1 PathangePhD50407.pdf.pdf: 5933844 bytes, checksum: e48d42d6e239839a81f22730567c143f (MD5)   Previous issue date: 2007-02-28"
+  ],
+  "handle": "26851",
+  "identifier_other": "etd-04142007-213958",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04142007-213958/",
+  "identifier_uri": "http://hdl.handle.net/10919/26851",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PathangePhD50407.pdf.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "metal affinity",
+    "protein microstructure",
+    "chromatography",
+    "ion exchange"
+  ],
+  "title": "Characterization of protein microstructure by various chromatographic techniques",
+  "type": "Dissertation"
+}

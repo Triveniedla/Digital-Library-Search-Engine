@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Gu, Bin",
+  "contributor_committeechair": "Lai, Jih S",
+  "contributor_committeemember": [
+    "Meehan, Kathleen",
+    "Nelson, Douglas J",
+    "Centeno, Virgilio A",
+    "Baumann, William T"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-01-31T09:00:13Z",
+  "date_available": "2014-01-31T09:00:13Z",
+  "date_issued": "2014-01-30",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Microinverter has become a new trend for photovoltaic (PV) grid-tie systems due to its advantages which include greater energy harvest, simplified system installation, enhanced safety, and flexible expansion. Since an individual microinverter system is typically attached to the back of a PV module, it is desirable that it has a long lifespan that can match PV modules, which routinely warrant 25 years of operation. In order to increase the life expectancy and improve the long-term reliability, electrolytic capacitors must be avoided in microinverters because they have been identified as an unreliable component. One solution to avoid electrolytic capacitors in microinverters is using a two-stage architecture, where the high voltage direct current (DC) bus can work as a double line ripple buffer.   For two-stage electrolyte-free microinverters, a high boost ratio dc-dc converter is required to increase the low PV module voltage to a high DC bus voltage required to run the inverter at the second stage. New high boost ratio dc-dc converter topologies using the hybrid transformer concept are presented in this dissertation. The proposed converters have improved magnetic and device utilization. Combine these features with the converter's reduced switching losses which results in a low cost, simple structure system with high efficiency. Using the California Energy Commission (CEC) efficiency standards a 250 W prototype was tested achieving an overall system efficiency of 97.3%.  The power inversion stage of electrolyte-free microinverters requires a high efficiency grid-tie inverter. A transformerless inverter topology with low electro-magnetic interference (EMI) and leakage current is presented. It has the ability to use modern superjunction MOSFETs in conjunction with zero-reverse-recovery silicon carbide (SiC) diodes to achieve ultrahigh efficiency. The performance of the topology was experimentally verified with a tested CEC efficiency of 98.6%.   Due to the relatively low energy density of film capacitors compared to electrolytic counterparts, less capacitance is used on the DC bus in order to lower the cost and reduce the volume of electrolyte-free microinverters. The reduced capacitance leads to high double line ripple voltage oscillation on DC bus. If the double line oscillation propagates back into the PV module, the maximum power point tracking (MPPT) performance would be compromised. A control method which prevents the double line oscillation from going to the PV modules, thus improving the MPPT performance was proposed.   Finally, a control technique using a single microcontroller with low sampling frequency was presented to effectively eliminate electrolyte capacitors in two-stage microinverters without any added penalties. The effectiveness of this control technique was validated both by simulation and experimental results.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-31T09:00:13Z (GMT). No. of bitstreams: 1  Gu_B_D_2014.pdf: 7399897 bytes, checksum: d4f7a4dbde4d92d190c2a75fe16eadee (MD5)    Previous issue date: 2014-01-30",
+  "format_medium": "ETD",
+  "handle": "25236",
+  "identifier_other": "vt_gsexam:1859",
+  "identifier_uri": "http://hdl.handle.net/10919/25236",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Microinverters",
+    "High-Efficiency",
+    "Electrolyte-Free",
+    "Power Converter",
+    "Double line ripple",
+    "MPPT",
+    "Hybrid Transformer",
+    "MOSFET inverters"
+  ],
+  "title": "Power Converter and Control Design for High-Efficiency Electrolyte-Free Microinverters",
+  "type": "Dissertation"
+}

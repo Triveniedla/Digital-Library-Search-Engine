@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Constantinescu, Emil Mihai",
+  "contributor_committeechair": "Sandu, Adrian",
+  "contributor_committeemember": [
+    "Iliescu, Traian",
+    "Ryan, Jennifer K.",
+    "Santos, Eunice E.",
+    "Ribbens, Calvin J.",
+    "Watson, Layne T."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:12:42Z",
+  "date_adate": "2008-07-07",
+  "date_available": "2014-03-14T20:12:42Z",
+  "date_issued": "2008-05-26",
+  "date_rdate": "2008-07-07",
+  "date_sdate": "2008-06-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Numerical simulation is necessary to understand natural phenomena, make assessments and predictions in various research and engineering fields, develop new technologies, etc. New algorithms are needed to take advantage of the increasing computational resources and utilize the emerging hardware and software infrastructure with maximum efficiency. <p> Adaptive numerical discretization methods can accommodate problems with various physical, scale, and dynamic features by adjusting the resolution, order, and the type of method used to solve them. In applications that simulate real systems, the numerical accuracy of the solution is typically just one of the challenges. Measurements can be included in the simulation to constrain the numerical solution through a process called data assimilation in order to anchor the simulation in reality. <p> In this thesis we investigate adaptive discretization methods and data assimilation approaches for large-scale numerical simulations. We develop and investigate novel multirate and implicit-explicit methods that are appropriate for multiscale and multiphysics numerical discretizations. We construct and explore data assimilation approaches for, but not restricted to, atmospheric chemistry applications. A generic approach for describing the structure of the uncertainty in initial conditions that can be applied to the most popular data assimilation approaches is also presented. <p> We show that adaptive numerical methods can effectively address the discretization of large-scale problems. Data assimilation complements the adaptive numerical methods by correcting the numerical solution with real measurements. Test problems and large-scale numerical experiments validate the theoretical findings. Synergistic approaches that use adaptive numerical methods within a data assimilation framework need to be investigated in the future.",
+  "description_provenance": [
+    "Author Email: emconsta@vt.edu",
+    "Advisor Email: iliescu@calvin.math.vt.edu",
+    "Advisor Email: sandu@cs.vt.edu",
+    "Advisor Email: J.K.Ryan@tudelft.nl",
+    "Advisor Email: santos@cs.vt.edu",
+    "Advisor Email: ribbens@cs.vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:42Z (GMT). No. of bitstreams: 1 etd.pdf: 11540480 bytes, checksum: cdd97f25502b2f725054c69efc5226ae (MD5)   Previous issue date: 2008-05-26"
+  ],
+  "handle": "27938",
+  "identifier_other": "etd-06032008-095855",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06032008-095855/",
+  "identifier_uri": "http://hdl.handle.net/10919/27938",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "data assimilation",
+    "IMEX",
+    "multirate",
+    "ODE and PDE time integration"
+  ],
+  "title": "Adaptive Numerical Methods for Large Scale Simulations and Data Assimilation",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Chudoung, Jerawan",
+  "contributor_committeechair": "Ball, Joseph A.",
+  "contributor_committeemember": [
+    "King, Belinda B.",
+    "Rogers, Robert C.",
+    "Kachroo, Pushkin",
+    "Day, Martin V."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:09:59Z",
+  "date_adate": "2000-04-20",
+  "date_available": "2014-03-14T20:09:59Z",
+  "date_issued": "2000-04-06",
+  "date_rdate": "2001-04-20",
+  "date_sdate": "2000-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We develop the robust control theories of stopping-time nonlinear systems and switching-control nonlinear systems. We formulate a robust optimal stopping-time control problem  for a state-space nonlinear system and give the connection between various notions of lower value function for the associated game (and storage function for the associated dissipative system) with solutions of the appropriate variational inequality (VI).  We show that the stopping-time rule can be obtained by solving the VI in the viscosity sense. It also happens that a positive definite supersolution of the VI can be used for stability analysis. We also show how to solve the VI for some prototype examples with one-dimensional state space. For the robust optimal switching-control problem, we establish the Dynamic Programming Principle (DPP) for the lower value function of the associated game and employ it to derive the appropriate system of quasivariational inequalities (SQVI) for the lower value vector function. Moreover we formulate the problem in the <I>L</I><sub>2</sub>-gain/dissipative system framework. We show that, under appropriate assumptions, continuous switching-storage (vector) functions are characterized as viscosity supersolutions of the SQVI, and that the minimal such storage function is equal to the lower value function for the game. We show that the control strategy achieving the dissipative inequality is obtained by solving the SQVI in the viscosity sense; in fact this solution is also used to address stability analysis of the switching system. In addition we prove the comparison principle between a viscosity subsolution and a viscosity supersolution of the SQVI satisfying a boundary condition and use it to give an alternative derivation of the characterization of the lower value function. Finally we solve the SQVI for a simple one-dimensional example by a direct geometric construction.",
+  "description_provenance": [
+    "Author Email: jerawan@math.vt.edu",
+    "Advisor Email: bbking@math.vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: day@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:59Z (GMT). No. of bitstreams: 1 robusthybrid.pdf: 913907 bytes, checksum: 95283385a3b95582c53762e7bdd76725 (MD5)   Previous issue date: 2000-04-06"
+  ],
+  "handle": "26983",
+  "identifier_other": "etd-04192000-14240007",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192000-14240007/",
+  "identifier_uri": "http://hdl.handle.net/10919/26983",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "robusthybrid.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "optimal stopping",
+    "dissipative systems",
+    "viscosity solutions",
+    "H_infty-control",
+    "hybrid systems",
+    "storage functions",
+    "differential games",
+    "optimal switching"
+  ],
+  "title": "Robust Control for Hybrid, Nonlinear Systems",
+  "type": "Dissertation"
+}

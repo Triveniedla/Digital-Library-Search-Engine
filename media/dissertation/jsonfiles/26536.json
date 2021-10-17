@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Henderson, Jeffrey Michael",
+  "contributor_committeechair": "Trani, Antoino A.",
+  "contributor_committeemember": [
+    "Rakha, Hesham Ahmed",
+    "Baik, Hojong",
+    "Flintsch, Gerardo W.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:08:35Z",
+  "date_adate": "2008-04-08",
+  "date_available": "2014-03-14T20:08:35Z",
+  "date_issued": "2008-03-26",
+  "date_rdate": "2009-04-08",
+  "date_sdate": "2008-03-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The busiest regions of airspace in the U.S. are congested during much of the day from traffic volume, weather, and other airspace restrictions. The projected growth in demand for airspace is expected to worsen this congestion while reducing system efficiency and safety. This dissertation focuses on providing methods to analyze en route airspace congestion during severe convective weather (i.e. thunderstorms) in an effort to provide more efficient aircraft routes in terms of: en route travel time, air traffic controller workload, aircraft collision potential, and equity between airlines and other airspace users. The en route airspace is generally that airspace that aircraft use between the top of climb and top of descent.   Existing en route airspace flight planning models have several important limitations. These models do not appropriately consider the uncertainty in airspace demand associated with departure time prediction and en route travel time. Also, airspace capacity is typically assumed to be a static value with no adjustments for weather or other dynamic conditions that impact the air traffic controller. To overcome these limitations a stochastic demand, stochastic capacity, and an incremental assignment method are developed. The stochastic demand model combines the flight departure uncertainty and the en route travel time uncertainty to achieve better estimates for sector demand. This model is shown to reduce the predictive error for en route sector demand by 20\\% at a 30 minute look-ahead time period.   The stochastic capacity model analyzes airspace congestion at a more macroscopic level than available in existing models. This higher level of analysis has the potential to reduce computational time and increase the number of alternative routing schemes considered. The capacity model uses stochastic geometry techniques to develop predictions of the distribution of flight separation and conflict potential. A prediction of dynamic airspace capacity is calculated based on separation and conflict potential.  The stochastic demand and capacity models are integrated into a graph theoretic framework to generate alternative routing schemes. Validation of the overall integrated model is performed using the fast time airspace simulator RAMS. The original flight plans, the routing obtained from an integer programming method, and the routing obtained from the incremental method developed in this dissertation are compared. Results of this validation simulation indicate that integer programming and incremental routing methods are both able to reduce the average en route travel time per flight by 6 minutes. Other benefits include a reduction in the number of conflict resolutions and weather avoidance maneuvers issued by en route air traffic controllers. The simulation results do not indicate a significant difference in quality between the incremental and integer programming methods of routing flights around severe weather.",
+  "description_provenance": [
+    "Author Email: jmhender@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: hbaik@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:35Z (GMT). No. of bitstreams: 1 Henderson_Dissertation_CEE_2008.pdf: 4402613 bytes, checksum: 0dc513f5c630f7e0c4c5f25eb44e717a (MD5)   Previous issue date: 2008-03-26"
+  ],
+  "handle": "26536",
+  "identifier_other": "etd-03282008-123153",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03282008-123153/",
+  "identifier_uri": "http://hdl.handle.net/10919/26536",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Henderson_Dissertation_CEE_2008.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Thunderstorms",
+    "Airspace",
+    "Equity",
+    "Air Traffic Control",
+    "Simulation"
+  ],
+  "title": "Collaborative En Route Airspace Management Considering Stochastic Demand, Capacity, and Weather Conditions",
+  "type": "Dissertation"
+}

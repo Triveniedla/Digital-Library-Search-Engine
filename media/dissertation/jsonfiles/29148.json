@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Volos, Haris I",
+  "contributor_committeechair": "Buehrer, Richard Michael",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Ramakrishnan, Naren",
+    "Reed, Jeffrey Hugh",
+    "da Silva, Claudio R. C. M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:56Z",
+  "date_adate": "2010-10-18",
+  "date_available": "2014-03-14T20:16:56Z",
+  "date_issued": "2010-09-07",
+  "date_rdate": "2010-10-18",
+  "date_sdate": "2010-09-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this work, we make contributions in three main areas of Cognitive Engine (CE) design for link adaptation. The three areas are CE design, CE training, and the impact of imperfect observations in the operation of the CE.  First, we present a CE design for link adaptation and apply it to a system which can adapt its use of multiple antennas in addition to modulation and coding. Our design moves forward the state of the art in several ways while having a simple structure. Specifically, the CE only needs to observe the number of successes and failures associated with each set of channel conditions and communication method. From these two numbers, the CE can derive all of its functionality: estimate confidence intervals,  balance exploration vs. exploitation,  and utilize prior knowledge such as communication fundamentals. Finally, the CE learns the radio abilities independently of the operation objectives. Thus, if an objective changes,  information regarding the radio's abilities is not lost.  Second, we provide an overview of CE training, and we analytically estimate the number of trials needed to conclusively find the best performing method in a list of methods sorted by their potential performance. Furthermore, we propose the Robust Training Algorithm (RoTA) for applications where stable performance is of topmost importance. Finally, we test four key training techniques and identify and explain the three main factors that affect performance during training.   Third, we assess the impact of the estimation noise on the performance of a CE. Furthermore, we derive the effect of estimation delay, in terms of the correlation between the observed SNR and the true SNR. We evaluate the effect of estimation noise and delay to the operation of the CE individually and jointly. It is found that impairments on learning make the CE more conservative in its choices leading to submaximal performance.  It is found that the CE should learn using the impaired observations, if the observations are highly correlated with the actual conditions. Otherwise, it is better for the CE to learn with knowledge of the ideal conditions, if that knowledge is available.",
+  "description_provenance": [
+    "Author Email: hvolos@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:56Z (GMT). No. of bitstreams: 1 Volos_Haris_I_D_2010.pdf: 2715380 bytes, checksum: 0ea56cbed9811ef2a944190428fcb9c2 (MD5)   Previous issue date: 2010-09-07"
+  ],
+  "handle": "29148",
+  "identifier_other": "etd-09302010-231432",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09302010-231432/",
+  "identifier_uri": "http://hdl.handle.net/10919/29148",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Volos_Haris_I_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cognitive Radio",
+    "Cognitive Engine",
+    "Multi-antenna",
+    "Learning",
+    "Training"
+  ],
+  "title": "Cognitive Radio Engine Design for Link Adaptation",
+  "type": "Dissertation"
+}

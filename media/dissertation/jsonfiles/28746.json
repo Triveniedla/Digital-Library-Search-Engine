@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ryu, Young  Sam",
+  "contributor_committeechair": "Smith-Jackson, Tonya L.",
+  "contributor_committeemember": [
+    "Nussbaum, Maury A.",
+    "Williges, Robert C.",
+    "Babski-Reeves, Kari L."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:30Z",
+  "date_adate": "2005-08-29",
+  "date_available": "2014-03-14T20:15:30Z",
+  "date_issued": "2005-07-19",
+  "date_rdate": "2005-08-29",
+  "date_sdate": "2005-08-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As the growth of rapid prototyping techniques shortens the development life cycle of software and electronic products, usability inquiry methods can play a more significant role during the development life cycle, diagnosing usability problems and providing metrics for making comparative decisions. A need has been realized for questionnaires tailored to the evaluation of electronic mobile products, wherein usability is dependent on both hardware and software as well as the emotional appeal and aesthetic integrity of the design.  This research followed a systematic approach to develop a new questionnaire tailored to measure the usability of electronic mobile products. The Mobile Phone Usability Questionnaire (MPUQ) developed throughout this series of studies evaluates the usability of mobile phones for the purpose of making decisions among competing variations in the end-user market, alternatives of prototypes during the development process, and evolving versions during an iterative design process. In addition, the questionnaire can serve as a tool for identifying diagnostic information to improve specific usability dimensions and related interface elements. Employing the refined MPUQ, decision making models were developed using Analytic Hierarchy Process (AHP) and linear regression analysis. Next, a new group of representative mobile users was employed to develop a hierarchical model representing the usability dimensions incorporated in the questionnaire and to assign priorities to each node in the hierarchy. Employing the AHP and regression models, important usability dimensions and questionnaire items for mobile products were identified. Finally, a case study of comparative usability evaluations was performed to validate the MPUQ and models.  A computerized support tool was developed to perform redundancy and relevancy analyses for the selection of appropriate questionnaire items. The weighted geometric mean was used to combine multiple numbers of matrices from pairwise comparison based on decision makers' consistency ratio values for AHP. The AHP and regression models provided important usability dimensions so that mobile device usability practitioners can simply focus on the interface elements related to the decisive usability dimensions in order to improve the usability of mobile products. The AHP model could predict the users' decision based on a descriptive model of purchasing the best product slightly but not significantly better than other evaluation methods. Except for memorability, the MPUQ embraced the dimensions included in the other well-known usability definitions and almost all criteria covered by the existing usability questionnaires. In addition, MPUQ incorporated new criteria, such as pleasurability and specific tasks performance.",
+  "description_provenance": [
+    "Author Email: yryu@vt.edu",
+    "Advisor Email: nussbaum@vt.edu",
+    "Advisor Email: williges@vt.edu",
+    "Advisor Email: kbabski@vt.edu",
+    "Advisor Email: smithjac@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:30Z (GMT). No. of bitstreams: 1 ETD_Ryu_Final.pdf: 2382069 bytes, checksum: 55bbbdcc0c03a1112962b186d812d0cf (MD5)   Previous issue date: 2005-07-19"
+  ],
+  "handle": "28746",
+  "identifier_other": "etd-08212005-234205",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08212005-234205/",
+  "identifier_uri": "http://hdl.handle.net/10919/28746",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_Ryu_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hci",
+    "AHP",
+    "Questionnaire",
+    "mobile interface",
+    "usability",
+    "decision making",
+    "MCDM"
+  ],
+  "title": "Development of Usability Questionnaires for Electronic Mobile Products and Decision Making Methods",
+  "type": "Dissertation"
+}

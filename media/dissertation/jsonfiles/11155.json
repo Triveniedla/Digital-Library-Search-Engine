@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Berry, Matthew M.",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Healy, Liam",
+    "Johnson, Lee W.",
+    "Schaub, Hanspeter",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2011-08-22T19:00:57Z",
+  "date_adate": "2004-04-30",
+  "date_available": "2011-08-22T19:00:57Z",
+  "date_issued": "2004-04-26",
+  "date_rdate": "2004-04-30",
+  "date_sdate": "2004-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new method of numerical integration is presented here, the variable-step Stormer-Cowell method. The method uses error control to regulate the step size, so larger step sizes can be taken when possible, and is double-integration, so only one evaluation per step is necessary when integrating second-order differential equations. The method is not variable-order, because variable-order algorithms require a second evaluation. The variable-step Stormer-Cowell method is designed for space surveillance applications,which require numerical integration methods to track orbiting objects accurately. Because of the large number of objects being processed, methods that can integrate the equations of motion as fast as possible while maintaining accuracy requirements are desired. The force model used for earth-orbiting objects is quite complex and computationally expensive, so methods that minimize the force model evaluations are needed. The new method is compared to the fixed-step Gauss-Jackson method, as well as a method of analytic step regulation (s-integration), and the variable-step variable-order Shampine-Gordon integrator. Speed and accuracy tests of these methods indicate that the new method is comparable in speed and accuracy to s-integration in most cases, though the variable-step Stormer-Cowell method has an advantage over s-integration when drag is a significant factor. The new method is faster than the Shampine-Gordon integrator, because the Shampine-Gordon integrator uses two evaluations per step, and is biased toward keeping the step size constant. Tests indicate that both the new variable-step Stormer-Cowell method and s-integration have an advantage over the fixed-step Gauss-Jackson method for orbits with eccentricities greater than 0.15.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:57Z (GMT). No. of bitstreams: 1  dissertation.pdf: 1338726 bytes, checksum: 16d06faf7b713fd236d2ab150e0a62d4 (MD5)    Previous issue date: 2004-04-26",
+    "Author Email: maberry2@vt.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Advisor Email: liam.healy@nrl.navy.mil",
+    "Advisor Email: johnsonl@calvin.math.vt.edu",
+    "Advisor Email: schaub@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11155",
+  "identifier_other": "etd-04282004-071227",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282004-071227",
+  "identifier_uri": "http://hdl.handle.net/10919/11155",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Variable-Step Integration",
+    "Orbit Propagation",
+    "Orbit Determination",
+    "Numerical Integration"
+  ],
+  "title": "A Variable-Step Double-Integration Multi-Step Integrator",
+  "type": "Dissertation"
+}

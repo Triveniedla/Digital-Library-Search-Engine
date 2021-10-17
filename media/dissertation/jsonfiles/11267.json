@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Viti, Valerio",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Neel, Reece E.",
+    "Devenport, William J.",
+    "McGrory, W."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2011-08-22T19:08:29Z",
+  "date_adate": "2003-01-10",
+  "date_available": "2011-08-22T19:08:29Z",
+  "date_issued": "2003-04-09",
+  "date_rdate": "2004-01-10",
+  "date_sdate": "2002-09-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A numerical study of a proposed innovative jet interaction configuration is presented. This work aimed at improving present-day jet interaction configurations in their applications as control thrusters on hypersonic vehicles. Jet thrusters are a useful control system for fast-moving vehicles flying in the upper layers of the atmosphere because of their effectiveness and responsiveness. They produce a strong and responsive lateral force on the vehicle through the interaction of two main mechanisms. The first mechanism comes from the momentum of the injectant itself, basically the thrust of the jet. The second and subtler contribution comes from the jet interaction flowfield, the interaction of the expanding injectant with the crossflow. This interaction produces areas of high pressure ahead of the injector and areas of low pressure in the region aft of the jet. The combination of the high-pressure regions in front of and low-pressure regions aft of the injector produces an undesirable nose-down pitching moment on the vehicle. In order to counterbalance the nose-down attitude, modern-day thruster designs include a large secondary injector far aft of the center of gravity of the vehicle. The thrust of this second injector acting far aft of the primary injector neutralizes the nose-down pitching moment. This is not an efficient method to obviate the problem since it requires the vehicle to be designed to carry two large thrusters and double the quantity of fuel necessary for one thruster. In light of these considerations, this study aimed at developing a jet interaction configuration that can dispense from the need of a large secondary injector to compensate for the nose-down pitching moment. The cases studied here were first a primary jet alone and then a primary jet with pairs of smaller jets. This configuration was based on the notion that the interaction of the secondary jets, conveniently located immediately aft of the thruster, with the barrel shock and the wake of the primary jet can drastically reduce the nose-down pitching moment. Because of the complexity of the jet interaction flowfield the investigation of the feasibility and the assessment of the efficiency of the new jet interaction configurations combined the present numerical effort with experimental studies of jet interaction flowfields performed in the supersonic wind tunnel at Virginia Tech. During the present numerical study the jet interaction flowfield associated with the sonic injection of a gas into a high-speed crossflow was simulated by numerically solving the Reynolds Averaged Navier Stokes (RANS) equations. Turbulence was modeled through a first-order model, the Wilcox's 1988 k-w turbulence model. The computations made use of the finite volume code General Aerodynamic Simulation Program (GASP) Version 4. For simplicity and to keep the study general, the jet interaction flowfield was studied on a flat plate instead of a body of revolution as on a vehicle. Calculations were run for a number of jet interaction configurations consisting of a primary jet alone, a primary jet and one pair of secondary jets, and a primary jet and two pairs of secondary jets. The flow conditions of the simulations ranged from a Mach number of 2.1 up to a Mach number of 4.5 and jet total pressure to freestream static pressure ratios of 14 to 680. A large effort was dedicated to the development of an efficient computational grid that could capture most of the flow-physics with a minimum number of cells. To this end , Chimera or overset grids were employed in the simulation of the secondary injectors. Grid convergence was shown to be achieved for the case of single injection by conducting a thorough convergence study. The discretization error was calculated through a modified Richardson extrapolation to be low. The numerical solutions were compared to the experimental results in order to assess the capability of RANS equations and of first-order turbulence models to properly simulate the complex flowfield. The k-w turbulence model proved to be reliable and robust and the results it provided for this type of flowfield were accurate enough from an engineering standpoint to make informed decisions about the configuration layout. In spite of the overall good performance, the k-w turbulence model failed to correctly predict the flow in the regions of strong adverse pressure gradients. Comparisons with experimental results showed that the separation region was often under-predicted thus highlighting the need to employ better turbulence models for more accurate results. The RANS equations were found accurate enough to provide physical mean-flow solutions. Further, the numerical simulations provided information about the detailed physics of the flowfield that is impossible to obtain through experimental work. The analysis of the numerical solutions highlighted the existence of a complex system of counter-rotating trailing vortices that are responsible for the mixing of the injectant with the freestream. The typical features of the flowfield created by an under-expanded jet exhausting in a quiescent medium were visible in the jet interaction flowfield with the difference of the existence of a crossflow and a non-uniform back-pressure. The region of low pressure aft of the injector was shown to be generated by the detachment of the barrel shock from the surface of the flat plate that leaves a large volume to be filled by the surrounding fluid. The simulations showed that the innovative configuration with one primary jet and an array of smaller secondary jets can effectively decrease the nose-down pitching moment by as much as 160%. In some cases, it also increased the total normal force acting on the flat plate (namely the thrust) by as much as 3%. This effect was found to be caused by the reduction in size and intensity of the low-pressure region aft of the primary injector.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:08:29Z (GMT). No. of bitstreams: 2  Vita.pdf: 44529 bytes, checksum: b36bd43da8bf42042ef1e6f41035e747 (MD5)  Dissertation.pdf: 20220154 bytes, checksum: 3e2fdfa0378254559ce2f85a416ce1ba (MD5)    Previous issue date: 2003-04-09",
+    "Author Email: vviti@vt.edu",
+    "Advisor Email: bernard.grossman@vt.edu",
+    "Advisor Email: neel@aerosft.com",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: mcgrory@aerosft.com"
+  ],
+  "format_medium": "ETD",
+  "handle": "11267",
+  "identifier_other": "etd-09252002-122227",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09252002-122227",
+  "identifier_uri": "http://hdl.handle.net/10919/11267",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Dissertation.pdf",
+    "Vita.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Numerical Study",
+    "CFD",
+    "Jet Interaction",
+    "Normal Injection"
+  ],
+  "title": "Numerical Studies of the Jet Interaction Flowfield with a Main Jet and an Array of Smaller Jets",
+  "type": "Dissertation"
+}

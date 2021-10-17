@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Savel'ev, Evgeny",
+  "contributor_committeechair": "Renardy, Michael J.",
+  "contributor_committeemember": [
+    "Sun, Shu-Ming",
+    "Russell, David L.",
+    "Rogers, Robert C."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:40Z",
+  "date_adate": "2009-07-14",
+  "date_available": "2014-03-14T20:13:40Z",
+  "date_issued": "2009-06-19",
+  "date_rdate": "2009-07-14",
+  "date_sdate": "2009-07-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Viscoelastic fluids, or Non-Newtonian fluids, are those that do not have a linear algebraic relation between the velocity field and the stresses arising in the media. Such fluids exhibit properties of both solids and liquids, and therefore cannot be modeled with methods of elasticity or Newtonian fluid mechanics. The popular models of viscoelasticity differ from each other only by the differential equation that describes the constitutive law for the fluid. Also, the media can have several relaxation modes, such as fluid mixes. This means that the stresses are determined as the sum of the stresses for each individual relaxation mode, which are described by corresponding differential equations evolving independently.   The question of controllability of the equations that describe the evolution of viscoelastic fluids is largely open. The presence of the non-algebraic constitutive relation makes the analysis unfeasible in general setup. The presence of several relaxation modes makes the problem even more complicated. Another issue is the necessity of controlling the stresses, since they are not determined by the momentary velocity field, thus they need to be included as the controlled states. In this work we are concentrating on the controllability of the stresses arising in the viscoelastic fluid that has its motion constrained to be of the shearing type. This restriction allows us to concentrate on the stresses only and assign the shearing rate to be the control. We consider only the Upper Convected Maxwell fluid which has several relaxation modes present. The results demonstrate that contrary to the one relaxation mode case the normal stresses cannot be driven arbitrary close to the exponentially decaying regime, unless the shearing stresses satisfy certain requirements, while the shear stresses remain exactly controllable.",
+  "description_provenance": [
+    "Author Email: esaflop@vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: dlr@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: renardym@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:40Z (GMT). No. of bitstreams: 1 Savelevetd.pdf: 3574388 bytes, checksum: e78e7090d1a1efdc3444d4ba229558a6 (MD5)   Previous issue date: 2009-06-19"
+  ],
+  "handle": "28181",
+  "identifier_other": "etd-07012009-114855",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07012009-114855/",
+  "identifier_uri": "http://hdl.handle.net/10919/28181",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Savelevetd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "upper convected Maxwell fluid",
+    "viscoelastic flow",
+    "controllability",
+    "control of stresses"
+  ],
+  "title": "Controllability of the Stresses in Multimode Viscoelastic Fluid of Upper Convected Maxwell Type",
+  "type": "Dissertation"
+}

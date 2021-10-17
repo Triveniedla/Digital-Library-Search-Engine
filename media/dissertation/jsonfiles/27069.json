@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Cai, Yizhi",
+  "contributor_committeechair": "Peccoud, Jean",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Marathe, Madhav V.",
+    "Bevan, David R."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:10:14Z",
+  "date_adate": "2010-05-07",
+  "date_available": "2014-03-14T20:10:14Z",
+  "date_issued": "2010-04-20",
+  "date_rdate": "2012-06-08",
+  "date_sdate": "2010-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Synthetic biology is an emerging interdisciplinary research field, which leverages the maturation of DNA synthesis technologies. By introducing engineering principles to synthetic biological systems design, synthetic biology shows great potential to shed new lights on biology and benefit human beings. Computer assisted design (CAD) tools will play an important role in the rational design of synthetic genetic systems. This dissertation presents the first CAD tool for synthetic biology â   GenoCAD, a linguistic-based web application. By viewing DNA sequences as a language, we developed the first syntactic model to design and verify synthetic genetic constructs. Then we conducted a careful curation of the terminal set in the grammar - the first comprehensive analysis of the Registry of standard biological parts. The implementation and major features of GenoCAD are discussed, and in particular we showed how to develop a domain-specific grammar for BioBrick-based construct design and make GenoCAD a useful tool for the iGEM students. Finally, we went beyond the syntactic level to explore the semantics of synthetic DNA sequences: by associating attributes with biological parts and coupling semantic actions with grammar rules, we developed the first semantic models to relate the genotype to the phenotype of synthetic genetic constructs. The theories and techniques presented in this dissertation, along with the informative results presented, will serve as a foundation for the future developments of GenoCAD.",
+  "description_provenance": [
+    "Author Email: cai@vt.edu",
+    "Advisor Email: jpeccoud@vbi.vt.edu",
+    "Advisor Email: baumann10@vt.edu",
+    "Advisor Email: mmarathe@vbi.vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:14Z (GMT). No. of bitstreams: 1 Cai_Y_D_2010.pdf: 9680497 bytes, checksum: d9b4f1521ef3b605495f3f3f077ea60a (MD5)   Previous issue date: 2010-04-20"
+  ],
+  "handle": "27069",
+  "identifier_other": "etd-04202010-172602",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202010-172602/",
+  "identifier_uri": "http://hdl.handle.net/10919/27069",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Cai_Y_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Linguistics",
+    "Computer Assisted Design",
+    "Bioinformatics",
+    "Synthetic Biology"
+  ],
+  "title": "GenoCAD: linguistic approaches to synthetic biology",
+  "type": "Dissertation"
+}

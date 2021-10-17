@@ -37,8 +37,10 @@ class HomeForm(forms.ModelForm):
     description_degree=forms.CharField(max_length=150,required=False,
     widget=forms.TextInput( attrs={'class':'form-control',
                                    'placeholder':'PhD,...'}))
+    
+    currentYear = datetime.datetime.now().year+1
 
-    YEARS= [x for x in range(1940,2021)]
+    YEARS= [x for x in range(1940,currentYear)]
     date1= forms.DateField(label='', widget=forms.SelectDateWidget(years=YEARS))
     date2= forms.DateField(label='', widget=forms.SelectDateWidget(years=YEARS),initial=datetime.date.today)
 

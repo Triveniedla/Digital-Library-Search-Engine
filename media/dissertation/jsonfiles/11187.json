@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Molisani, Leonardo Rafael",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Klaus, Martin",
+    "Johnson, Martin E.",
+    "Hendricks, Scott L.",
+    "Preidikman, Sergio"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:02:12Z",
+  "date_adate": "2004-06-01",
+  "date_available": "2011-08-22T19:02:12Z",
+  "date_issued": "2004-05-20",
+  "date_rdate": "2004-06-01",
+  "date_sdate": "2004-05-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recent experimental results have shown that the vibration induced by the tire air cavity resonance is transmitted into the vehicle cabin and may be responsible for significant interior noise. The tire acoustic cavity is excited by the road surface through the contact patch on the rotating tire. The effect of the cavity resonance is that results in significant forces developed at the vehicle's spindle, which in turn drives the vehicle's interior acoustic field. This tire-cavity interaction phenomenon is analytically investigated by modeling the fully coupled tire-cavity systems. The tire is modeled as an annular shell structure in contact with the road surface. The rotating contact patch is used as a forcing function in the coupled tire-cavity governing equation of motion. The contact patch is defined as a prescribed deformation that in turn is expanded in its Fourier components. The response of the tire is then separated into static (i.e. static deformation induced by the contact patch) and dynamic components due to inertial effects. The coupled system of equations is solved analytically in order to obtain the tire acoustic and structural responses. The model provides valuable physical insight into the patch-tire-acoustic interaction phenomenon. The influence of the acoustic cavity resonance on the spindles forces is shown to be very important. Therefore, the tire cavity resonance effect must be reduced in order to control the tire contribution to the vehicle interior.  The analysis and modeling of two feasible approaches to control the tire acoustic cavity resonances are proposed and investigated. The first approach is the incorporation of secondary acoustic cavities to detune and damp out the main tire cavity resonance.  The second approach is the addition of damping directly into the tire cavity. The techniques presented in this dissertation to suppress the adverse effects of the acoustic cavity in the tire response, i.e. forces at the spindle, show to be very effective and can be easily applied in practice.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:12Z (GMT). No. of bitstreams: 1  Dissertation.pdf: 3431328 bytes, checksum: f3bf4d2bb3fb5b090418c46e86836aac (MD5)    Previous issue date: 2004-05-20",
+    "Author Email: lmolisan@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: klaus@calvin.math.vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: spreidik@wam.umd.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11187",
+  "identifier_other": "etd-05252004-140431",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05252004-140431",
+  "identifier_uri": "http://hdl.handle.net/10919/11187",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "resonance control techniques",
+    "acoustic cavity-tire structure interaction",
+    "acoustic cavity resonances"
+  ],
+  "title": "A Coupled Tire Structure-Acoustic Cavity Model",
+  "type": "Dissertation"
+}

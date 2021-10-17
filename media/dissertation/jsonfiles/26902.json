@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Elizondo, David C.",
+  "contributor_committeechair": "De La Ree Lopez, Jaime",
+  "contributor_committeemember": [
+    "Nuqui, Reynaldo",
+    "Baumann, William T.",
+    "Liu, Yilu",
+    "Phadke, Arun G.",
+    "Trani, Antoino A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:46Z",
+  "date_adate": "2003-04-21",
+  "date_available": "2014-03-14T20:09:46Z",
+  "date_issued": "2003-04-15",
+  "date_rdate": "2004-04-21",
+  "date_sdate": "2003-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Wide-area disturbances are power outages occurring over large geographical regions that dramatically affect the power system reliability, causing interruptions of the electric supply to residential, commercial, and industrial users. Historically, wide-area disturbances have greatly affected societies.   Virginia Tech directed a research project related to the causes of the major disturbances in electric power systems.  Research results showed that the role of the power systemâ  s protection schemes in the wide-area disturbances is critical. Incorrect operations of power systemâ  s protection schemes have contributed to a spread of the disturbances. This research defined hidden failures of protection schemes and showed that these kinds of failures have contributed in the degradation of 70-80 percent of the wide-area disturbances. During a wide-area disturbance analysis, it was found that hidden failures in protection schemes caused the disconnection of power system elements in an incorrect and undesirable manner contributing to the disturbance degradation.  This dissertation presents a methodology to assess and rank the effects of unwanted disconnections caused by hidden failures based on Regions of Vulnerability and index of severity in the protection schemes.  The developed methodology for the evaluation of the Region of Vulnerability found that the indicator that most accurately reflects the relationship of the Region of Vulnerability with the single line diagram is kilometers. For the representation of the Region of Vulnerability in the power system, we found segments in the transmission line in which the occurrence of faults do make the relay to operate,  producing the unwanted disconnection caused by  hidden failure. The results in the test system show that the infeed currents restrain the Region of Vulnerability from spreading along power system elements.  Finally the methodology to compute the index of severity is developed. The index of severity has the objective of ranking the protection schemes, considers the dynamics of the protection schemes, and evaluates the overall disturbance consequence under the static and dynamic perspectives.",
+  "description_provenance": [
+    "Author Email: delizond@vt.edu",
+    "Advisor Email: reynaldo.nuqui@us.abb.com",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:46Z (GMT). No. of bitstreams: 1 etd.pdf: 1953162 bytes, checksum: 711af9e40c946cf7f3af3b84410af9d6 (MD5)   Previous issue date: 2003-04-15"
+  ],
+  "handle": "26902",
+  "identifier_other": "etd-04162003-202144",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162003-202144/",
+  "identifier_uri": "http://hdl.handle.net/10919/26902",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Wide-Area Disturbances",
+    "Regions of Vulnerability",
+    "Power System Protection",
+    "Hidden Failures",
+    "Index of Severity"
+  ],
+  "title": "A Methodology to Assess and Rank the Effects of Hidden Failures in Protection Schemes based on Regions of Vulnerability and Index of Severity",
+  "type": "Dissertation"
+}

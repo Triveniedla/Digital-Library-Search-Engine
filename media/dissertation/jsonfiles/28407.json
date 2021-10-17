@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Jack, Graham Dillon",
+  "contributor_committeechair": "Helm, Richard Frederick",
+  "contributor_committeemember": [
+    "Potts, Malcolm",
+    "Hess, John L.",
+    "Bevan, David R.",
+    "McDowell, John M."
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2014-03-14T20:14:20Z",
+  "date_adate": "2006-08-03",
+  "date_available": "2014-03-14T20:14:20Z",
+  "date_issued": "2006-07-10",
+  "date_rdate": "2007-08-03",
+  "date_sdate": "2006-07-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>A wide variety of adherent mammalian cells can be induced into a reversible state of metabolic arrest (quiescence) by conversion to non-adherent multicellular aggregates.  These \"spheroids\" can be maintained at room temperature under oxygen- and nutrient-deprived conditions for extended periods of time (weeks) as well as converted back to viable proliferating monolayers. Herein it is shown that HEK293 spheroid arrest and recovery requires the co-activation of both NF-kB and JNK, and chemical inhibition of either NF-kB nuclear translocation or JNK phosphorylation leads to cell death. Cytokine profiling within the aggregates during the arrest and recovery process is suggestive that a cyclical cascade was in operation, leading to endogenous cytokine production of TNF-Alpha, IL-1Beta, and IL-8, thereby propagating the cellular stress signal within cells as well as throughout the aggregate.  </p><p> Cytokines exist in vivo as mixtures, yet tissue culture studies delineating how cells respond to these molecules are often performed using individual effectors added exogenously.  Are the results obtained in these studies true representations of physiological responses?  As HEK293 multicellular aggregates (spheroids) survive long term arrest by endogenous cytokine (TNF-Alpha and IL-1Beta) and chemokine (IL-8) signaling, adherent monolayer cells were evaluated for their ability to provide a \"spheroid signal response\" when exposed to TNF-alpha, IL-1Beta and IL-8 individually, and in combination, at concentrations observed in the aggregates.  The spheroid signal transduction response was only observed when all three cytokines were present, demonstrating that signal transduction cascade mechanisms are cytokine-profile dependent.</p><p> To determine if similar processes were involved in the arrest and recovery of multicellular aggregates derived from other cell types, the responses of primary human foreskin fibroblasts (HFF-2) and a glioblastoma cell line (T98G) were characterized, utilizing the procedures developed in the HEK293 study.  Both the T98G and HFF-2 cell lines entered and exited from the long term arrest utilizing an autocrine response. However, while the carcinoma cell line was dependent upon NF-ÎºB for survival, its signaling partner was Gadd45Î± and signaling occurred through the p38 pathway.  Primary fibroblast arrest and recovery proceeded through the p38 pathway as well, but was independent of NF-ÎºB.  Thus, three different cell types and transformation states (HEK293, HFF-2, and T98G) provided three different routes to survival, all with cyclical cytokine production and signaling.  These routes cannot be measured or modulated effectively in adherent monolayers.  Multicellular aggregates provide higher ordered systems that can be used to describe signaling pathways within a cell, highlighting the role of autocrine responses and the synergistic relationships between cytokines and neighboring cells.</p><p>",
+  "description_provenance": [
+    "Author Email: grjack@vt.edu",
+    "Advisor Email: helmrf@vt.edu",
+    "Advisor Email: geordie@vt.edu",
+    "Advisor Email: jlhess@vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Advisor Email: johnmcd@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:20Z (GMT). No. of bitstreams: 1 grjack-thesis.pdf: 1739232 bytes, checksum: 004eb99a656923098b1b15a1dbaff381 (MD5)   Previous issue date: 2006-07-10"
+  ],
+  "handle": "28407",
+  "identifier_other": "etd-07262006-153655",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07262006-153655/",
+  "identifier_uri": "http://hdl.handle.net/10919/28407",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "grjack-thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Human Cells",
+    "NF-kB",
+    "survival",
+    "cytokines",
+    "Multicellular aggregates",
+    "JNK"
+  ],
+  "title": "Endogenous Stress Signaling within Human Multicellular Aggregates (Spheroids)",
+  "type": "Dissertation"
+}

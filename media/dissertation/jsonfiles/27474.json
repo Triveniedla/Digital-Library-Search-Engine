@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Albandakji, Mhd. Rachad",
+  "contributor_committeechair": "Safaai-Jazi, Ahmad",
+  "contributor_committeemember": [
+    "Stolen, Roger Hall",
+    "Besieris, Ioannis M.",
+    "Heflin, James R.",
+    "Riad, Sedki Mohamed",
+    "Jacobs, Ira"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:22Z",
+  "date_adate": "2006-05-10",
+  "date_available": "2014-03-14T20:11:22Z",
+  "date_issued": "2006-04-27",
+  "date_rdate": "2013-10-04",
+  "date_sdate": "2006-05-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this work, we investigate several aspects of photonic crystal waveguides through modeling and simulation. We introduce a one-dimensional model for two-dimensional photonic crystal fibers (PCFs), analyze tapered PCFs, analyze planar photonic crystal waveguides and one-dimensional PCFs with infinite periodic cladding, and investigate transmission properties of a novel type of fiber, referred to as Fresnel fiber.  <p> A simple, fast, and efficient one-dimensional model is proposed. It is shown that the model is capable of predicting the normalized propagation constant, group-velocity dispersion, effective area, and leakage loss for PCFs of hexagonal lattice structure with a reasonable degree of accuracy when compared to published results that are based on numerical techniques. <p> Using the proposed model, we investigate tapered PCFs by approximating the tapered section as a series of uniform sections along the axial direction. We show that the total field inside the tapered section of the PCF can be evaluated as a superposition of local normal modes that are coupled among each other. Several factors affecting the adiabaticity of tapered PCFs, such as taper length, taper shape, and number of air hole rings are investigated. Adiabaticity of tapered PCFs is also examined.  <p> A new type of fiber structure, referred to as Fresnel fiber, is introduced. This fiber can be designed to have attractive transmission properties. We present carefully designed Fresnel fiber structures that provide shifted or flattened dispersion characteristics, large negative dispersion, or large or small effective area, making them very attractive for applications in fiber-optic communication systems. <p> To examine the true photonic crystal modes, for which the guidance mechanism is not based on total internal reflection, photonic crystal planar waveguides with infinite periodic cladding are studied. Attention will be focused on analytical solutions to the ideal one-dimensional planar photonic crystal waveguides that consist of infinite number of cladding layers based on an impedance approach. We show that these solutions allow one to distinguish clearly between light guidance due to total internal reflection and light guidance due to the photonic crystal effect. <p> The analysis of one-dimensional PCFs with infinite periodic cladding is carried out in conjunction with an equivalent T-circuits method to model the rings that are close to the core of the fiber. Then, at sufficiently large distance from the core, the rest of the cladding rings are approximated by planar layers. This approach can successfully estimate the propagation constants and fields for true photonic crystal modes in both solid-core and hollow-core PCFs with a high accuracy. <p> <i>Original file (released May 10, 2007) replaced Oct. 3, 2012 GMc per DePauw]</i>",
+  "description_provenance": [
+    "Author Email: malbanda@vt.edu",
+    "Advisor Email: stolen@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:22Z (GMT). No. of bitstreams: 1 Albandakji_Dissertation_Finalized.pdf: 1546962 bytes, checksum: 64c0fbf58b22f7b5f19f357bdf8fee64 (MD5)   Previous issue date: 2006-04-27"
+  ],
+  "handle": "27474",
+  "identifier_other": "etd-05012006-123649",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05012006-123649/",
+  "identifier_uri": "http://hdl.handle.net/10919/27474",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Albandakji_Dissertation_Finalized.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fresnel fibers",
+    "Photonic crystal waveguides"
+  ],
+  "title": "Modeling and Analysis of Photonic Crystal Waveguides",
+  "type": "Dissertation"
+}

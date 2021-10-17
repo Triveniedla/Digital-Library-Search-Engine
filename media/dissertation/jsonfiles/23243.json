@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Wang, Ting",
+  "contributor_committeechair": "Yang, Yaling",
+  "contributor_committeemember": [
+    "Yao, Danfeng",
+    "Shukla, Sandeep K",
+    "Hou, Yiwei Thomas",
+    "Park, Jung-Min"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-06-18T08:00:38Z",
+  "date_available": "2013-06-18T08:00:38Z",
+  "date_issued": "2013-06-17",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Smart antenna technique has emerged as one of the leading technologies for enhancing the quality of service in wireless networks. Because of its ability to concentrate transmit power in desired directions, it has been widely adopted by academia and industry to achieve better coverage, improved capacity and spectrum efficiency of wireless communication systems. In spite of its popularity in applications of performance enhancement, the smart antenna\\'s capability of improving wireless network security is relatively less explored. This dissertation focuses on exploiting the smart antenna technology to develop physical layer solutions to anti-eavesdropping and location security problems.<br /><br />We first investigate the problem of enhancing wireless communication privacy. A novel scheme named \"artificial fading\" is proposed, which leverages the beam switching capability of smart antennas to prevent eavesdropping attacks. We introduce the optimization strategy to design a pair of switched beam patterns that both have high directional gain to the intended receiver. Meanwhile, in all the other directions, the overlap between these two patterns is minimized. The transmitter switches between the two patterns at a high frequency. In this way, the signal to unintended directions experiences severe fading and the eavesdropper cannot decode it. We use simulation experiments to show that the artificial fading outperforms single pattern beamforming in reducing the unnecessary coverage area of the wireless transmitter. <br /><br />We then study the impact of beamforming technique on wireless localization systems from the perspectives of both location privacy protection and location spoofing attack. <br /><br />For the location privacy preservation scheme, we assume that the adversary uses received signal strength (RSS) based localization systems to localize network users in Wireless LAN (WLAN). The purpose of the scheme is to make the adversary unable to uniquely localize the user when possible, and otherwise, maximize error of the adversary\\'s localization results. To this end, we design a two-step scheme to optimize the beamforming pattern of the wireless user\\'s smart antenna. First, the user moves around to estimate the locations of surrounding access points (APs). Then based on the locations of the APs, pattern synthesis is optimized to minimize the number of APs in the coverage area and degenerate the localization precision. Simulation results show that our scheme can significantly lower the chance of being localized by adversaries and also degrade the location estimation precision to as low as the coverage range of the AP that the wireless user is connected to. <br /><br />As personal privacy preservation and security assurance at the system level are always conflictive to some extent, the capability of smart antenna to intentionally bias the RSS measurements of the localization system also potentially enables location spoofing attacks. From this aspect, we present theoretical analysis on the feasibility of beamforming-based perfect location spoofing (PLS) attacks, where the attacker spoofs to a target fake location by carefully choosing the beamforming pattern to fool the location system. The PLS problem is formulated as a nonlinear feasibility problem, and due to its intractable nature, we solve it using semidefinite relaxation (SDR) in conjunction with a heuristic local search algorithm. Simulation results show the effectiveness of our analytical approach and indicate the correlation between the geometry of anchor deployment and the feasibility of PLS attacks. Based on the simulation results, guidelines for guard against PLS attacks are provided.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-18T08:00:38Z (GMT). No. of bitstreams: 1 Wang_T_D_2013.pdf: 4733459 bytes, checksum: fdb401737f924c63e12ff7d31634fc8d (MD5)   Previous issue date: 2013-06-17",
+  "format_medium": "ETD",
+  "handle": "23243",
+  "identifier_other": "vt_gsexam:995",
+  "identifier_uri": "http://hdl.handle.net/10919/23243",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Wireless Network Security",
+    "Localization",
+    "Location privacy",
+    "Anti-eavesdropping",
+    "Smart Antenna",
+    "Beamforming",
+    "Location Spoofing"
+  ],
+  "title": "Wireless Network Physical Layer Security with Smart Antenna",
+  "type": "Dissertation"
+}

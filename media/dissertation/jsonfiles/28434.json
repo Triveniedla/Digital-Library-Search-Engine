@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Kassegne, Samuel  Kinde",
+  "contributor_committeechair": "Reddy, Junuthula N.",
+  "contributor_committeemember": [
+    "Plaut, Raymond H.",
+    "Librescu, Liviu",
+    "Hendricks, Scott L.",
+    "Telionis, Demetri P."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:14:27Z",
+  "date_adate": "2008-07-28",
+  "date_available": "2014-03-14T20:14:27Z",
+  "date_issued": "1992-12-15",
+  "date_rdate": "2008-07-28",
+  "date_sdate": "2008-07-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Layerwise Shell Theory is used to model discretely stiffened laminated composite cylindrical shells for stress, vibration, pre-buckling and post-buckling analysis. The layerwise theory reduces a three-dimensional problem to a two-dimensional problem by expanding the three-dimensional displacement field as a function of a surface-wise two-dimensional displacement field and a one-dimensional interpolation through the shell thickness. Any required degree of accuracy can be obtained by an appropriate, independent selection of the one-dimensional interpolation functions through the thickness and the two-dimensional interpolation of the variables on the surface. Using a layerwise format, discrete axial and circumferential stiffeners are modeled as two-dimensional beam elements. Similar displacement fields are prescribed for both the stiffener and shell elements. The contribution of the stiffeners to the membrane stretching, bending and twisting stiffnesses of the laminated shell is accounted for by forcing compatibility of strains and equilibrium of forces between the stiffeners and the shell skin. The layerwise theory is also used to model initial imperfections of the unstressed configuration. A finite element scheme of the layerwise model is developed and applied here to investigate the effect of imperfections on the response of laminated cylindrical shells. <p> Using a finite element model of the layerwise theory for shells and shell stiffener elements, the accuracy and reliability of the elements is investigated through a wide variety of examples. The examples include laminated stiffened and unstiffened plates and shells and stand-alone beams under different types of external destabilizing loads. Finally, the study identifies the particular types of problems where the layerwise elements possess a clear advantage and superiority over the conventional equivalent single-layer models.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:14:27Z (GMT). No. of bitstreams: 1 LD5655.V856_1992.K377.pdf: 4016792 bytes, checksum: e6808cd0d665b06c180aa29ab1237f15 (MD5)   Previous issue date: 1992-12-15",
+  "format_medium": "BTD",
+  "handle": "28434",
+  "identifier_other": "etd-07282008-134249",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07282008-134249/",
+  "identifier_uri": "http://hdl.handle.net/10919/28434",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1992.K377.pdf",
+  "subject": "Plates (Engineering)",
+  "subject_lcc": "LD5655.V856 1992.K377",
+  "title": "Layerwise theory for discretely stiffened laminated cylindrical shells",
+  "type": "Dissertation"
+}

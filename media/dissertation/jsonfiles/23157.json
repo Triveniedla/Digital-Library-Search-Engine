@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Bao, Fenye",
+  "contributor_committeechair": "Chen, Ing Ray",
+  "contributor_committeemember": [
+    "Lou, Wenjing",
+    "Triantis, Konstantinos P",
+    "Swami, Ananthram",
+    "Lu, Chang Tien"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-06-06T08:00:53Z",
+  "date_available": "2013-06-06T08:00:53Z",
+  "date_issued": "2013-06-05",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Trust management in mobile networks is challenging due to dynamically changing network environments and the lack of a centralized trusted authority. In this dissertation research, we design and validate a class of dynamic trust management protocols for mobile networks, and demonstrate the utility of dynamic trust management with trust-based applications. Unlike existing work, we consider social trust derived from social networks in addition to traditional quality-of-service (QoS) trust derived from communication networks to obtain a composite trust metric as a basis for evaluating trust of nodes in mobile network applications. Untreated in the literature, we design and validate trust composition, aggregation, propagation, and formation protocols for dynamic trust management that can learn from past experiences and adapt to changing environment conditions to maximize application performance and enhance operation agility. Furthermore, we propose, explore and validate the design concept of application-level trust optimization in response to changing conditions to maximize application performance or best satisfy application requirements. We provide formal proof for the convergence, accuracy, and resiliency properties of our trust management protocols. To achieve the goals of identifying the best trust protocol setting and optimizing the use of trust for trust-based applications, we develop a novel model-based analysis methodology with simulation validation for analyzing and validating our dynamic trust management protocol design.<br />The dissertation research provides new understanding of dynamic trust management for mobile wireless networks. We gain insight on the best trust composition and trust formation out of social and QoS trust components, as well as the best trust aggregation and propagation protocols for optimizing application performance. We gain insight on how a modeling and analysis tool can be built, allowing trust composition, aggregation, propagation, and formation designs to be incorporated, tested and validated. We demonstrate the utility of dynamic trust management protocol for mobile networks including mobile ad-hoc networks, delay tolerant networks, wireless sensor networks, and Internet of things systems with practical applications including misbehaving node detection, trust-based survivability management, trust-based secure routing, and trust-based service composition. Through model-based analysis with simulation validation, we show that our dynamic trust management based protocols outperform non-trust-based and Bayesian trust-based protocols in the presence of malicious, erroneous, partly trusted, uncertain and incomplete information, and are resilient to trust related attacks.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-06T08:00:53Z (GMT). No. of bitstreams: 1 Bao_F_D_2013.pdf: 3298337 bytes, checksum: 6a03a957aa1c6c66280e9a89cbd24f76 (MD5)   Previous issue date: 2013-06-05",
+  "format_medium": "ETD",
+  "handle": "23157",
+  "identifier_other": "vt_gsexam:936",
+  "identifier_uri": "http://hdl.handle.net/10919/23157",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "mobile networks",
+    "trust management",
+    "adaptive control",
+    "optimization",
+    "secure routing",
+    "intrusion detection",
+    "performance analysis"
+  ],
+  "title": "Dynamic Trust Management for Mobile Networks and Its Applications",
+  "type": "Dissertation"
+}

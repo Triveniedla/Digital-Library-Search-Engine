@@ -1,0 +1,56 @@
+{
+  "contributor_author": "van Aardt, Jan Andreas Nicholaas",
+  "contributor_committeechair": "Wynne, Randolph H.",
+  "contributor_committeemember": [
+    "Oderwald, Richard G.",
+    "Campbell, James B. Jr.",
+    "Nelson, Ross F.",
+    "Prisley, Stephen P.",
+    "Seiler, John R."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2011-08-22T19:04:14Z",
+  "date_adate": "2004-08-26",
+  "date_available": "2011-08-22T19:04:14Z",
+  "date_issued": "2004-08-18",
+  "date_rdate": "2004-08-26",
+  "date_sdate": "2004-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This study assessed the utility of an object-oriented approach to deciduous and coniferous forest volume and above ground biomass estimation, based solely on small-footprint, multiple return lidar data.  The study area is located in Appomattox Buckingham State Forest in the Piedmont physiographic province of Virginia, U.S.A, at 78°41’ W, 37°25’ N.  Vegetation is composed of various coniferous, deciduous, and mixed forest stands.  The eCognition segmentation algorithm was used to derive objects from a lidar-based canopy height model (CHM).  New segment selection criteria, based on between- and within-segment CHM variance, and average field plot size, were developed.  Horizontal point samples were used to measure in-field volume and biomass, for 2-class (deciduous-coniferous) and 3-class (deciduous-coniferous-mixed) forest schemes.  Per-segment lidar distributional parameters, e.g., mean, range, and percentiles, were extracted from the lidar data and used as input to volume and biomass regression analysis.  Discriminant classification was performed using lidar point height and CHM distributions.  There was no evident difference between the two-class and three-class approaches, based on similar adjusted R2 values.  Two-class forest definition was preferred due to its simplicity.  Two-class adjusted R2 and root mean square error (RMSE) values for deciduous volume (0.59; 51.15 m3/ha) and biomass (0.58; 37.41 Mg/ha) were improvements over those found in another plot-based study for the same study area.  Although coniferous RMSE values for volume (38.03 m3/ha) and biomass (17.15 Mg/ha) were comparable to published results, adjusted R2 values (0.66 and 0.59) were lower.  This was attributed to more variability and a narrower range (6.94 - 350.93 m3/ha) in measured values.  Classification accuracy for discriminant classification based on lidar point height distributions (89.2%) was a significant improvement over CHM-based classification (79%).   A lack of modeling and classification differences between average segment sizes was attributed to the hierarchical nature of the segmentation algorithm. However, segment-based modeling was distinctly better than modeling based on existing forest stands, with values of 0.42 and 62.36 m3/ha (volume) and 0.46 and 41.18 Mg/ha (biomass) for adjusted R2 and RMSE, respectively.  Modeling results and classification accuracies indicated that an object-oriented approach, based solely on lidar data, has potential for full-scale forest inventory applications.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:04:14Z (GMT). No. of bitstreams: 2  vanAardt_Dissertation.pdf: 10367630 bytes, checksum: 2acd46fb1a05c72bd2e98543a04ad0ce (MD5)  Van_Aardt_Curriculum_Vitae.pdf: 131193 bytes, checksum: 1819d297698e83f9b8217732819d7e41 (MD5)    Previous issue date: 2004-08-18",
+    "Author Email: jaardt@vt.edu",
+    "Advisor Email: wynne@vt.edu",
+    "Advisor Email: oderwald@vt.edu",
+    "Advisor Email: jayhawk@vt.edu",
+    "Advisor Email: Ross.F.Nelson@nasa.gov",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: jseiler@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11238",
+  "identifier_other": "etd-08252004-090044",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252004-090044",
+  "identifier_uri": "http://hdl.handle.net/10919/11238",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "vanAardt_Dissertation.pdf",
+    "Van_Aardt_Curriculum_Vitae.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "forest volume and above-ground biomass",
+    "lidar distributions",
+    "Object-oriented",
+    "hierarchical segmentation",
+    "multiresolution",
+    "classification"
+  ],
+  "title": "An Object-Oriented Approach to Forest Volume and Aboveground Biomass Modeling using Small-Footprint Lidar Data for Segmentation, Estimation, and Classification",
+  "type": "Dissertation"
+}

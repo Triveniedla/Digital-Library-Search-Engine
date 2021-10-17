@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Shu, Jiang",
+  "contributor_committeechair": "Watson, Layne T.",
+  "contributor_committeemember": [
+    "Kamke, Frederick A.",
+    "Ramakrishnan, Naren",
+    "Shaffer, Clifford A.",
+    "North, Christopher L."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:23Z",
+  "date_adate": "2009-08-31",
+  "date_available": "2014-03-14T20:15:23Z",
+  "date_issued": "2009-08-10",
+  "date_rdate": "2009-08-31",
+  "date_sdate": "2009-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A problem solving environment (PSE) is a computational system that provides a complete and convenient set of high level tools for solving problems from a specific domain.  This thesis takes an in-depth look at the experiment management aspect of PSEs, which can be divided into three levels: 1) data management, 2) change management, and 3) execution management. At the data management level, anything related to an experiment (computer simulation) should be stored and documented. A database management system can be used to store the simulation runs for a PSE. Then various high level interfaces can be provided to allow users to save, retrieve, search, and compare these simulation runs. At the change management level, a scientist should only focus on how to solve a problem in the experiment domain.  Aside from running experiments, a scientist may only consider how to define a new model, how to modify an existing model, and how to interpret an experiment result. By using XML to describe a simulation model and unify various implementation layers, changing an existing model in a PSE can be intuitive and fast. At the execution management level, how an experiment is executed is the main concern.  By providing a computational steering capability, a scientist can pause, examine, and compare the intermediate results from a simulation.  Contrasted with the traditional way of running a lengthy simulation to see the result at the end, computational steering can leverage the user's expert knowledge on the fly (during the simulation run) and provide new insights and new product design opportunities. This thesis illustrates these concepts and implementation by using WBCSim as an example. WBCSim is a PSE that increases the productivity of wood scientists conducting research on wood-based composite materials and manufacturing processes. It integrates Fortran 90 simulation codes with a Web based graphical front end, an optimization tool, and various visualization tools. The WBCSim project was begun in 1997 with support from United States Department of Agriculture, Department of Energy, and Virginia Tech. It has since been used by students in several wood science classes, by graduate students and faculty, and by researchers at several forest products companies.  WBCSim also serves as a test bed for the design, construction, and evaluation of useful, production quality PSEs.",
+  "description_provenance": [
+    "Author Email: jiang.shu@bankofamerica.com",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: Fred.Kamke@oregonstate.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: shaffer@vt.edu",
+    "Advisor Email: north@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:23Z (GMT). No. of bitstreams: 1 SHU_J_D_2009.pdf: 2781197 bytes, checksum: dd49de7653475e50efd4f6dc2ab59da7 (MD5)   Previous issue date: 2009-08-10"
+  ],
+  "handle": "28713",
+  "identifier_other": "etd-08182009-221711",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182009-221711/",
+  "identifier_uri": "http://hdl.handle.net/10919/28713",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SHU_J_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "problem solving environment",
+    "XML",
+    "computational steering",
+    "computing environment",
+    "wood-based composite materials",
+    "database management",
+    "visualization",
+    "optimization",
+    "experiment management"
+  ],
+  "title": "Experiment Management for the Problem Solving Environment WBCSim",
+  "type": "Dissertation"
+}

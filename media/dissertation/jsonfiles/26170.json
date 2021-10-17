@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Tetrault, Philippe-Andre",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Mason, William H.",
+    "Raj, Pradeep",
+    "Kapania, Rakesh K.",
+    "Grossman, Bernard M."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:07:18Z",
+  "date_adate": "2000-02-15",
+  "date_available": "2014-03-14T20:07:18Z",
+  "date_issued": "2000-01-31",
+  "date_rdate": "2001-02-15",
+  "date_sdate": "2000-02-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In transonic flow, the aerodynamic interference that occurs on a strut-braced wing airplane, pylons, and other  applications is significant. The purpose of this work is to provide relationships to estimate the  interference drag of wing-strut, wing-pylon, and wing-body arrangements. Those equations are  obtained by fitting a curve to the results obtained from numerous Computational Fluid  Dynamics (CFD) calculations using state-of-the-art codes that employ the Spalart-Allmaras turbulence model.  <p> In order to estimate the effect of the strut thickness, the Reynolds number of the flow, and the  angle made by the strut with an adjacent surface, inviscid and viscous calculations are performed  on a symmetrical strut at an angle between parallel walls. The computations are conducted at  a Mach number of 0.85 and Reynolds numbers of 5.3 and 10.6 million based on the strut chord.  The interference drag is calculated as the drag  increment of the arrangement compared to an equivalent two-dimensional strut of the same  cross-section.  The results show a rapid increase of the interference drag as the angle of the strut deviates from a position perpendicular to the wall. Separation regions appear for low intersection angles, but the viscosity generally provides a positive effect in alleviating the  strength of the shock near the junction and thus the drag penalty. When the thickness-to-chord ratio of the strut  is reduced, the flowfield is disturbed only locally at the intersection of the strut with the wall.  This study provides an equation to estimate the interference drag of simple intersections in transonic flow. <p> In the course of performing the calculations associated with this work, an unstructured flow solver was utilized. Accurate drag prediction requires a very fine grid and this leads to problems associated  with the grid generator. Several challenges facing the unstructured grid methodology are discussed: slivers, grid refinement near the leading edge and at the trailing edge, grid convergence studies, volume grid generation, and other  practical matters concerning such calculations.",
+  "description_provenance": [
+    "Author Email: philippe-andre.tetrault@pwc.ca",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: pradeep.raj@lmco.com",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:18Z (GMT). No. of bitstreams: 1 etd.pdf: 23523783 bytes, checksum: f4c72aa6d6a432ad0254a109d7361bc1 (MD5)   Previous issue date: 2000-01-31"
+  ],
+  "handle": "26170",
+  "identifier_other": "etd-02112000-09420011",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02112000-09420011/",
+  "identifier_uri": "http://hdl.handle.net/10919/26170",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "interference drag",
+    "transonic flow",
+    "strut-braced wing",
+    "junction flow"
+  ],
+  "title": "Numerical Prediction of the Interference Drag of a Streamlined Strut Intersecting a Surface in Transonic Flow",
+  "type": "Dissertation"
+}

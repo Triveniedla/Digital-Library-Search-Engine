@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Jaber, Naim A",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Nayfeh, Ali H.",
+    "Klaus, Martin",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:10:52Z",
+  "date_adate": "2001-04-26",
+  "date_available": "2014-03-14T20:10:52Z",
+  "date_issued": "2000-12-13",
+  "date_rdate": "2002-04-26",
+  "date_sdate": "2001-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Four different thermoviscoplastic relations, namely, the Litonski-Batra, the Johnson-Cook, the Bodner-Partom and the power law are used to model the thermoviscoplastic response of a material. Each one of these relations accounts for strain hardening, strain-rate hardening and thermal softening of the material. The material parameters in these relations are found by solving an initial-boundary-value problem corresponding to simple shearing deformations so that the computed effective stress vs. the effective plastic strain curves match closely with the experimental data of Marchand and Duffy who tested thin-walled HY-100 steel tubes in torsion.  These four viscoplastic relations are used to analyze dynamic thermomechanical deformations of a prenotched plate impacted on the notched side by a cylindrical projectile made of the same material as the plate. The impact loading on the contact surface is simulated by prescribing the time history of the normal component of velocity and null tangential tractions. A plane strain state of deformation is assumed to prevail in the plate and its deformations are studied for different values of the impact speed. The in-house developed finite element code employs constant strain triangular elements, one point integration rule, and a lumped mass matrix. The Lagrangian description of motion is used to describe deformations of the plate. The coupled nonlinear partial differential equations are first reduced to coupled nonlinear ordinary differential equations (ODEs) by using the Galerkin approximation. The ODEs are integrated by using the stiff solver, LSODE, which adaptively adjusts the time step size and computes the solution within the prescribed accuracy.  Results computed with the four constitutive relations are found to be qualitatively similar to each other and the general trends agree with the experimental observations in the sense that at low speed of impact, a brittle failure ensues at a point on the upper surface of the notch tip. However, at high impact speeds, a ductile failure in the form of a shear band initiates first from a point on the lower surface of the notch tip. The predicted speed at which the failure mode transitions from brittle to ductile is different for the four viscoplastic relations.  Results have been computed using the Bodner-Partom law to study the effects of the notch tip radius and the presence of a circular hole ahead of the notch-tip. For sharp elliptic notch tips, it is found that there is no failure transition speed and the ductile failure always preceeded the brittle failure for the range of the impact speeds studied. For the hole located on the axis of the circular notch tip, the brittle failure always preceeded the ductile failure and it initiated at a point on the lower surface of the circular hole.",
+  "description_provenance": [
+    "Author Email: njaber@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: klaus@math.vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:52Z (GMT). No. of bitstreams: 1 naim_jaber.pdf: 4912016 bytes, checksum: b61801039ba985e30a692f7363fd8f5b (MD5)   Previous issue date: 2000-12-13"
+  ],
+  "handle": "27298",
+  "identifier_other": "etd-04262001-170912",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262001-170912/",
+  "identifier_uri": "http://hdl.handle.net/10919/27298",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "naim_jaber.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Impact Loading",
+    "Failure Mode Transition",
+    "Finite Element Analysis",
+    "Thermoviscoplastic Deformations"
+  ],
+  "title": "Finite Element Analysis of Thermoviscoplastic Deformations of an Impact-Loaded Prenotched Plate",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Skaradzinski, Debra Ann",
+  "contributor_committeechair": "Patterson, Douglas M.",
+  "contributor_committeemember": [
+    "Billingsley, Randall S.",
+    "Morgan, George E.",
+    "Chance, Donald M.",
+    "Ashley, Richard A."
+  ],
+  "contributor_department": "Finance, Insurance, and Business Law",
+  "date_accessioned": "2011-08-22T18:52:42Z",
+  "date_adate": "2003-12-15",
+  "date_available": "2011-08-22T18:52:42Z",
+  "date_issued": "2003-07-23",
+  "date_rdate": "2003-12-15",
+  "date_sdate": "2003-11-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Statistically significant prediction of stock price changes requires security returns' correlation with, or dependence upon, some variable(s) across time.  Since a security's past return is commonly employed in forecasting, and because the lack of lower-order correlation does not guarantee higher-order independence, nonlinear testing that focuses on higher-order moments of stock return distributions may reveal exploitable stock return dependencies. This dissertation fits AR models to TAQ data sampled at ten-minute intervals for 20 small-capitalization, 20 mid-capitalization, and 20 large-capitalization NYSE securities, for the years 1993, 1995, 1997, 1999 and 2001.  The Hinich Patterson Bicovariance statistic (to reveal nonlinear and linear autocorrelation) is computed for each of the 1243 trading days for each of the 60 securities.  This statistic is examined to see if it is more or less likely to occur in securities with differing market capitalization, at various calendar periods, in conjunction with trading volume, or instances of changing investor sentiment, as evidenced by the put-call ratio.   There is a statistically significant difference in the level and incidence of nonlinear behavior for the different-sized portfolios.  Large-cap stocks exhibit the highest level and greatest incidence of nonlinear behavior, followed by mid-cap stocks, and then small-cap stocks.  These differences are most pronounced at the beginning of decade and remain significant throughout the decade.  For all size portfolios, nonlinear correlation increases throughout the decade, while linear correlation decreases.   Statistical significance between the nonlinear or the linear test statistics and trading volume occur on a year-by-year basis only for small-cap stocks.  There is sporadic seasonality significance for all portfolios over the decade, but only the small-cap portfolio consistently exhibits a notable \"December effect\".  The average nonlinear statistic for small-cap stocks is larger in December than for other months of the year.  The fourth quarter of the year for small-cap stocks also exhibits significantly higher levels of nonlinearity. An OLS regression of the put/call ratio to proxy for investor sentiment against the H and C statistic was run from October 1995 through December 2001.  There are instances of sporadic correlations among the different portfolios, indicating this relationship is more dynamic than previously imagined.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:52:42Z (GMT). No. of bitstreams: 1  SkaradzinskiNonlinearBehaviorofStockPrices.pdf: 367232 bytes, checksum: 01d4862c527072cf7087b8e299ffa4e5 (MD5)    Previous issue date: 2003-07-23",
+    "Author Email: Debra.Skaradzinski@umb.edu",
+    "Advisor Email: randall@vt.edu",
+    "Advisor Email: gmorgan@vt.edu",
+    "Advisor Email: amex@vt.edu",
+    "Advisor Email: dchance@lsu.edu",
+    "Advisor Email: ashleyr@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11079",
+  "identifier_other": "etd-11242003-223654",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11242003-223654",
+  "identifier_uri": "http://hdl.handle.net/10919/11079",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SkaradzinskiNonlinearBehaviorofStockPrices.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "intra-day serial correlation",
+    "bicovariance statistic",
+    "nonlinearity"
+  ],
+  "title": "The Nonlinear Behavior of Stock Prices: The Impact of Firm Size, Seasonality, and Trading Frequency",
+  "type": "Dissertation"
+}

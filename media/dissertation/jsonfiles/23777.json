@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Coe, Ryan Geoffrey",
+  "contributor_committeechair": "Neu, Wayne L",
+  "contributor_committeemember": [
+    "Tafti, Danesh K",
+    "Stilwell, Daniel J",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-09-13T08:00:12Z",
+  "date_available": "2013-09-13T08:00:12Z",
+  "date_issued": "2013-09-12",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The quasi-steady state-space models generally used to simulate the dynamics of underwater vehicles perform well in most steady flow scenarios, and are therefore acceptable for modeling today\\'s fleet of endurance-focused autonomous underwater vehicles (AUVs). However, with their usage of numerous assumptions and simplifications, these models are not well suited to certain unsteady flow situations and for use in the development of AUVs capable of performing more extreme maneuvers. In the interest of better serving efforts to design a new generation of more maneuverable AUVs, a tool for simulating vehicle maneuvering within computational fluid dynamics (CFD) based environments has been developed. Unsteady Reynolds-averaged Navier-Stokes (URANS) simulations are used in conjunction with a 6-degree-of-freedom (6-DoF) rigid-body kinematic model to provide a numerical test basin for vehicle maneuvering simulations. The accuracy of this approach is characterized through comparison with experimental measurements and quasi-steady state-space models. Three state-space models are considered: one model obtained from semi-empirical database regression (this is the method most commonly used in application) and two models populated with coefficients determined from the results of prescribed motion CFD simulations. CFD analyses focused on supporting the design of a general purpose AUV are also presented.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-09-13T08:00:12Z (GMT). No. of bitstreams: 1 Coe_RG_D_2013.pdf: 25983778 bytes, checksum: 55a11d025ecf909133f426eb508ab9c4 (MD5)   Previous issue date: 2013-09-12",
+  "format_medium": "ETD",
+  "handle": "23777",
+  "identifier_other": "vt_gsexam:1556",
+  "identifier_uri": "http://hdl.handle.net/10919/23777",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "CFD",
+    "AUV",
+    "Maneuvering"
+  ],
+  "title": "Improved Underwater Vehicle Control and Maneuvering Analysis with Computational Fluid Dynamics Simulations",
+  "type": "Dissertation"
+}

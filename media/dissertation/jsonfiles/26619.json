@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Oktay, Tugrul",
+  "contributor_committeechair": "Sultan, Cornel",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Farhood, Mazen",
+    "Philen, Michael K."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:50Z",
+  "date_adate": "2012-05-01",
+  "date_available": "2014-03-14T20:08:50Z",
+  "date_issued": "2012-03-19",
+  "date_rdate": "2012-05-01",
+  "date_sdate": "2012-04-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Complex helicopter models that include effects typically ignored in control models, such as an analytical formulation for fuselage aerodynamics, blade lead-lagging and flexibility, and tail rotor aerodynamics, are derived. The landing gear, horizontal tailplane, a fully articulated main rotor, main rotor downwash, and blade flapping are also modeled. The modeling process is motivated by the desire to build control oriented, physics based models that directly result in ordinary differential equations (ODE) models which are sufficiently rich in dynamics information.      A physics based model simplification procedure, which is called new ordering scheme, is developed to reduce the number of terms in these large nonlinear ODE models, while retaining the same number of governing equations of motion. The resulting equations are trimmed and linearized around several flight conditions (i.e. straight level flight, level banked turn, and helical turn) using Maple and Matlab. The resulting trims and model modes are validated against available literature data.       The linearized models are first used for the design of variance constrained controllers with inequality constraints on outputs or inputs, output variance constrained controllers (OVC) and input variance constrained controllers (IVC), respectively. The linearized helicopter models are also used for the design of online controllers which exploit the constrained model predictive control (MPC) theory. The ability of MPC to track highly constrained, heterogeneous discontinuous trajectories is examined. The performance and robustness of all these controllers (e.g. OVC, IVC, MPC) are thoroughly investigated with respect to several modeling uncertainties. Specifically, for robustness studies, variations in the flight conditions and helicopter inertial properties, as well as blade flexibility effects, are considered.       Furthermore, the effectiveness of adaptive switching between controllers for the management of sensor failure during helicopter operations is studied using variance constrained controllers. Finally, the simultaneous design of the helicopter and control system is examined using simultaneous perturbation stochastic approximation in order to save active control energy.",
+  "description_provenance": [
+    "Author Email: tugrul84@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: csultan@vt.edu",
+    "Advisor Email: farhood@vt.edu",
+    "Advisor Email: mphilen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:50Z (GMT). No. of bitstreams: 1 OKTAY_T_D_2012.pdf: 2143919 bytes, checksum: 6d3d70d85e139dfc119ff2b0e0a8f148 (MD5)   Previous issue date: 2012-03-19"
+  ],
+  "handle": "26619",
+  "identifier_other": "etd-04032012-150310",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04032012-150310/",
+  "identifier_uri": "http://hdl.handle.net/10919/26619",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "OKTAY_T_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "simultaneous design",
+    "constrained control",
+    "control oriented helicopter modeling",
+    "physics-based control"
+  ],
+  "title": "Constrained Control of Complex Helicopter Models",
+  "type": "Dissertation"
+}

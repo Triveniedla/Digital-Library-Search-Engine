@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Ravi, R.",
+  "contributor_committeechair": "Mason, William H.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Simpson, Roger L.",
+    "Walters, Robert W.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:06:55Z",
+  "date_adate": "2008-01-25",
+  "date_available": "2014-03-14T20:06:55Z",
+  "date_issued": "1997-12-01",
+  "date_rdate": "2008-01-25",
+  "date_sdate": "2008-01-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A framework for understanding the fundamental physics of flowfields over forebody type shapes at low speed, high angle of attack conditions with special emphasis on sideslip has been established. Computational Fluid Dynamics (CFD) has been used to study flowfields over experimentally investigated forebodies: the Lament tangent-ogive forebody, the F-5A forebody and the Erickson chine forebody. A modified version of a current advanced code, CFL3D, was used to solve the Euler and thin-layer Navier-Stokes equations. The Navier-Stokes equations used a form of the Baldwin-Lomax turbulence model modified to account for massive crossflow separation. Using the insight provided by the solutions obtained using CFD, together with comparison with limited available data, the aerodynamics of forebodies with positive directional stability has been revealed. An unconventional way of presenting the results is used to illustrate how a positive contribution to directional stability arises. Based on this new understanding, a parametric study was then conducted to determine which shapes promote a positive contribution to directional stability.",
+  "description_provenance": [
+    "Author Email: none@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:55Z (GMT). No. of bitstreams: 1 LD5655.V856_1997.R385.pdf: 137109265 bytes, checksum: d5d15f03f103b0f50fa8003b6defa96f (MD5)   Previous issue date: 1997-12-01"
+  ],
+  "handle": "26041",
+  "identifier_other": "etd-01252008-163458",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01252008-163458/",
+  "identifier_uri": "http://hdl.handle.net/10919/26041",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1997.R385.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Computational Fluid Dynamics (CFD)",
+    "aerodynamics"
+  ],
+  "subject_lcc": "LD5655.V856 1997.R385",
+  "title": "High angle of Attack Forebody Flow Physics and Design Emphasizing Directional Stability",
+  "type": "Dissertation"
+}

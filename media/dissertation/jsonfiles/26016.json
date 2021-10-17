@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Ma, Jing",
+  "contributor_committeecochair": [
+    "Jones, Mark T.",
+    "Athanas, Peter M."
+  ],
+  "contributor_committeemember": [
+    "Varadarajan, Srinidhi",
+    "Woerner, Brain D.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:48Z",
+  "date_adate": "2003-01-22",
+  "date_available": "2014-03-14T20:06:48Z",
+  "date_issued": "2003-01-13",
+  "date_rdate": "2004-01-22",
+  "date_sdate": "2003-01-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents a Field Programmable Gate Array (FPGA) design methodology that can be used to shorten the FPGA design-and-debug cycle, especially as gate counts increase to many millions. Core-based incremental placement algorithms, in conjunction with fast interactive routing, are investigated to reduce the design processing time by distinguishing the changes between design iterations and reprocessing only the changed blocks without affecting the remaining part of the design. Different from other incremental placement algorithms, this tool provides the function not only to handle small modifications; it can also incrementally place a large design from scratch at a rapid rate. Incremental approaches are inherently greedy techniques, but when combined with a background refinement thread, the incremental approach offers the instant gratification that designers expect, while preserving the fidelity attained through batch-oriented programs. An incremental FPGA design tool has been developed, based on the incremental placement algorithm and its background refiner.   Design applications with logical gate sizes varying from tens of thousands to approximately one million are built to evaluate the execution of the algorithms and the design tool. The results show that this incremental design tool is two orders of magnitude faster than the competing approaches such as the Xilinx M3 tools without sacrificing much quality. The tool presented places designs at the speed of 700,000 system gates per second.  The fast processing speed and user-interactive property make the incremental design tool potentially useful for prototype developing, system debugging and modular testing in million-gate FPGA designs.",
+  "description_provenance": [
+    "Author Email: jingma@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: srinidhi@cs.vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:48Z (GMT). No. of bitstreams: 9 Chapter6.pdf: 451647 bytes, checksum: bc55432324429254515fbdb6021a7655 (MD5) Tableofcontents.pdf: 154695 bytes, checksum: 24d720b54f996f72c982ccb3427be9dc (MD5) Chapter7.pdf: 2222182 bytes, checksum: c2dd893c8a1113df23f5edc6a55347cb (MD5) Chapte1&2.pdf: 218745 bytes, checksum: 838a29fdc535e21fb74b0dfacde74825 (MD5) Chapter5.pdf: 220903 bytes, checksum: 0be3e14dd453d727043b7aac4f927b16 (MD5) Chapter4.pdf: 215649 bytes, checksum: 45894c2b00e96019e989324b68730fd2 (MD5) Bibliography.pdf: 127816 bytes, checksum: 5d99ceeb08853254984a02e0d654756d (MD5) Chapter8.pdf: 87767 bytes, checksum: a3cf7aa008fd36d669b52928af411b1f (MD5) Chapter3.pdf: 432792 bytes, checksum: 3bb92fffd262f33cfe47cc692704c523 (MD5)   Previous issue date: 2003-01-13"
+  ],
+  "handle": "26016",
+  "identifier_other": "etd-01202003-151943",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01202003-151943/",
+  "identifier_uri": "http://hdl.handle.net/10919/26016",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter6.pdf",
+    "Tableofcontents.pdf",
+    "Chapter7.pdf",
+    "Chapte1&2.pdf",
+    "Chapter5.pdf",
+    "Chapter4.pdf",
+    "Bibliography.pdf",
+    "Chapter8.pdf",
+    "Chapter3.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Incremental Design",
+    "Design Tool",
+    "FPGA",
+    "Placement"
+  ],
+  "title": "Incremental Design Techniques with Non-Preemptive Refinement for Million-Gate FPGAs",
+  "type": "Dissertation"
+}

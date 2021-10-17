@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Ashiabor, Senanu Y.",
+  "contributor_committeecochair": [
+    "Baik, Hojong",
+    "Trani, Antoino A."
+  ],
+  "contributor_committeemember": [
+    "Rakha, Hesham Ahmed",
+    "Teodorovic, Dusan",
+    "McGuirk, Anya M."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:33Z",
+  "date_adate": "2007-04-30",
+  "date_available": "2014-03-14T20:07:33Z",
+  "date_issued": "2007-02-02",
+  "date_rdate": "2007-04-30",
+  "date_sdate": "2007-02-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The aim of this study was to develop a framework to model travel choice behavior in order to estimate intercity travel demand at nation-level in the United States.  Nested and mixed logit models were developed to study national-level intercity transportation in the United States.  A separate General Aviation airport choice model to estimates General Aviation person-trips and number of aircraft operations though more than 3000 airports was also developed.  The combination of the General Aviation model and the logit models gives the capability to estimate a full spectrum of intercity travel demand in the United States. The logit models were calibrated using a nationwide revealed preference survey (1995 American Travel Survey).  Separate models were developed for business and non-business trip purposes.  An airport choice model is integrated into the mode choice model to estimate both the market share between any origin-destination pair and other modes of transportation, and the market share split between airports associated with the origin-destination pairs.  The explanatory variables used in the utility functions of the models are travel time, travel cost, and travelerâ  s household income.  The logit models are used to estimate the market share of automobile and commercial air transportation between 3091 counties and 443 commercial service airports in the United States.  The model was also used to estimate market share for on-demand air taxi services.  Given an input county-to-county trip demand table, the models were used to estimate county-to-county travel demand by automobile and commercial airline between all counties and commercial service airports in the United States.  The model has been integrated into a computer software framework called the Transportation Systems Analysis Model (TSAM) that estimates nationwide intercity travel demand in the United States.",
+  "description_provenance": [
+    "Author Email: senanu@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: dusan.teodorovic@vt.edu",
+    "Advisor Email: hbaik@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: Anya.Mcguirk@sas.com",
+    "Made available in DSpace on 2014-03-14T20:07:33Z (GMT). No. of bitstreams: 1 Dissertation_Senanu_May_2007.pdf: 1153714 bytes, checksum: 47a99243e794737a5a47a788f1ba1f70 (MD5)   Previous issue date: 2007-02-02"
+  ],
+  "handle": "26221",
+  "identifier_other": "etd-02162007-161815",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02162007-161815/",
+  "identifier_uri": "http://hdl.handle.net/10919/26221",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Senanu_May_2007.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Nested Logit",
+    "Intercity",
+    "Travel Demand",
+    "Mode Choice",
+    "Airport Choice",
+    "Mixed Logit"
+  ],
+  "title": "Modeling Intercity Mode Choice and Airport Choice in the United States",
+  "type": "Dissertation"
+}

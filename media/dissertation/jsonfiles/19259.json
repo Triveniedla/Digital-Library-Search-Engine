@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Monti, Henry Matthew",
+  "contributor_committeechair": "Butt, Ali Raza Ashraf",
+  "contributor_committeemember": [
+    "Ribbens, Calvin J",
+    "Vazhkudai, Sudharshan Sankaran",
+    "Feng, Wu-Chun",
+    "Lin, Heshan"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-02-19T22:41:16Z",
+  "date_available": "2013-02-19T22:41:16Z",
+  "date_issued": "2013-01-16",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The advent of extreme-scale computing systems, e.g., Petaflop supercomputers, High Performance Computing (HPC) cyber-infrastructure, Enterprise databases, and experimental facilities such as large-scale particle colliders, are pushing the envelope on dataset sizes.  Supercomputing centers routinely generate and consume ever increasing amounts of data while executing high-throughput computing jobs. These are often result-datasets or checkpoint snapshots from long-running simulations, but can also be input data from experimental facilities such as the Large Hadron Collider (LHC) or the Spallation Neutron Source (SNS). These growing datasets are often processed by a geographically dispersed user base across multiple different HPC installations.  Moreover, end-user workflows are also increasingly distributed in nature with massive input, output, and even intermediate data often being transported to and from several HPC resources or end-users for further processing or visualization.<br /><br />The growing data demands of applications coupled with the distributed nature of HPC workflows, have the potential to place significant strain on both the storage and network resources at HPC centers. Despite this potential impact, rather than stringently managing HPC center resources, a common practice is to leave application-associated data management to the end-user, as the user is intimately aware of the application\\'s workflow and data needs. This means end-users must frequently interact with the local storage in HPC centers, the scratch space, which is used for job input, output, and intermediate data. Scratch is built using a parallel file system that supports very high aggregate I/O throughput, e.g., Lustre, PVFS, and GPFS. To ensure efficient I/O and faster job turnaround, use of scratch by applications is encouraged.  Consequently, job input and output data are required to be moved in and out of the scratch space by end-users before and after the job runs, respectively. In practice, end-users arbitrarily stage and offload data as and when they deem fit, without any consideration to the center\\'s performance, often leaving data on the scratch long after it is needed. HPC centers resort to \"purge\" mechanisms that sweep the scratch space to remove files found to be no longer in use, based on not having been accessed in a preselected time threshold called the purge window that commonly ranges from a few days to a week. This ad-hoc data management ignores the interactions between different users\\' data storage and transmission demands, and their impact on center serviceability leading to suboptimal use of precious center resources.<br /><br /><br />To address the issues of exponentially increasing data sizes and ad-hoc data management, we present a fresh perspective to scratch storage management by fundamentally rethinking the manner in which scratch space is employed. Our approach is twofold. First, we re-design the scratch system as a \"cache\" and build \"retention\", \"population\", and \"eviction\"  policies that are tightly integrated from the start, rather than being add-on tools. Second, we aim to provide and integrate the necessary end-user data delivery services, i.e. timely offloading (eviction) and just-in-time staging (population), so that the center\\'s scratch space usage can be optimized through coordinated data movement. Together, these two combined approaches create our Integrated End-User Data Service, wherein data transfer and placement on the scratch space are scheduled with job execution. This strategy allows us to couple job scheduling with cache management, thereby bridging the gap between system software tools and scratch storage management. It enables the retention of only the relevant data for the duration it is needed. Redesigning the scratch as a cache captures the current HPC usage pattern more accurately, and better equips the scratch storage system to serve the growing datasets of workloads. This is a fundamental paradigm shift in the way scratch space has been managed in HPC centers, and outweighs providing simple purge tools to serve a caching workload.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:41:16Z (GMT). No. of bitstreams: 1 Monti_HM_D_2013.pdf: 1630010 bytes, checksum: 11f57f8fca8f1e3e0c43f01f7712288b (MD5)   Previous issue date: 2013-01-16",
+  "format_medium": "ETD",
+  "handle": "19259",
+  "identifier_other": "vt_gsexam:121",
+  "identifier_uri": "http://hdl.handle.net/10919/19259",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "End-User Data Services",
+    "Scratch as a Cache",
+    "Data Offloading",
+    "Data Staging"
+  ],
+  "title": "An Integrated End-User Data Service for HPC Centers",
+  "type": "Dissertation"
+}

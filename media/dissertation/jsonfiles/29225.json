@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Frangieh, Tannous",
+  "contributor_committeechair": "Athanas, Peter M.",
+  "contributor_committeemember": [
+    "Schaumont, Patrick Robert",
+    "Nelson, Brent E.",
+    "Dietrich, Carl B.",
+    "Feng, Wu-Chun"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:11Z",
+  "date_adate": "2012-10-19",
+  "date_available": "2014-03-14T20:17:11Z",
+  "date_issued": "2012-09-28",
+  "date_rdate": "2012-10-19",
+  "date_sdate": "2012-10-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Long wait times constitute a bottleneck limiting the number of compilation runs performed in a day, thus risking to restrict Field-Programmable Gate Array (FPGA) adaptation in modern computing platforms. This work presents an FPGA development paradigm that exploits logic variance and hierarchy as a means to increase FPGA productivity. The practical tasks of logic partitioning, placement and routing are examined and a resulting assembly framework, Quick Flow (qFlow), is implemented. Experiments show up to 10x speed-ups using the proposed paradigm compared to vendor tool flows.",
+  "description_provenance": [
+    "Author Email: tannous@vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Advisor Email: brent_nelson@byu.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: cdietric@vt.edu",
+    "Advisor Email: feng@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:11Z (GMT). No. of bitstreams: 1 Frangieh_T_D_2012.pdf: 2388343 bytes, checksum: 3d24370d917f6445422afcfa0cde93a2 (MD5)   Previous issue date: 2012-09-28"
+  ],
+  "handle": "29225",
+  "identifier_other": "etd-10082012-021855",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10082012-021855/",
+  "identifier_uri": "http://hdl.handle.net/10919/29225",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Frangieh_T_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Configurable Computing",
+    "FPGA Productivity",
+    "Design Assembly Flow",
+    "Electronic Design Automation",
+    "Design Reuse"
+  ],
+  "title": "A Design Assembly Technique for FPGA Back-End Acceleration",
+  "type": "Dissertation"
+}

@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Kanarat, Amnart",
+  "contributor_committeechair": "Sturges, Robert H.",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Reinholtz, Charles F.",
+    "Woolsey, Craig A.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:05Z",
+  "date_adate": "2004-07-26",
+  "date_available": "2014-03-14T20:14:05Z",
+  "date_issued": "2004-05-10",
+  "date_rdate": "2005-07-26",
+  "date_sdate": "2004-07-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation addresses the problem of motion planning and control for nonholonomic mobile robots, particularly wheeled and tracked mobile robots, working in extreme environments, for example, desert, forest, and mine.  In such environments, the mobile robots are highly subject to external disturbances (e.g., slippery terrain, dusty air, etc.), which essentially introduce uncertainties to the robot systems.  The complexity of the motion planning problem is due to taking both nonholonomic and uncertainty constraints into account simultaneously.  As a result, none of the conventional nonholonomic motion planning can be directly applied.  The control problem is even more challenging since state constraints posed by obstacles in the environments must also be considered along with the nonholonomic and uncertainty constraints.     \tIn this research, we systematically develop a new type of motion planning technique that determines an optimal path for a mobile robot in a given environment.  This motion planning technique is based on the idea of a maximum allowable uncertainty, which is a number assigned to each free configuration in the environment.  The optimal path is a path connecting given initial and goal configurations through a series of configurations respecting the nonholonomic constraint and possessing the highest maximum allowable uncertainty.  Both linear and quadratic approximations of the maximum allowable uncertainty, including their corresponding motion planners, have been studied.  Additionally, we develop the first real-time robust control algorithm for the mobile robot under uncertainty to follow given paths safely and accurately in cluttered environments.  The control algorithm also utilizes the concept of the maximum allowable uncertainty as well as the robust control theory.  The simulation results have shown the effectiveness and robustness of the control algorithm in steering the mobile robot along a given path amidst obstacles without collisions even when the level of robot uncertainty is high.",
+  "description_provenance": [
+    "Author Email: akanarat@vt.edu, akanarat@hotmail.com",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: creinhol@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:05Z (GMT). No. of bitstreams: 2 SourceCodes.pdf: 48558 bytes, checksum: 6045a157855edb35ab1aaced782f2d38 (MD5) KanaratETD.pdf: 1931112 bytes, checksum: f5744ab59b581697dbd4b8ac18dfa07a (MD5)   Previous issue date: 2004-05-10"
+  ],
+  "handle": "28316",
+  "identifier_other": "etd-07172004-194611",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07172004-194611/",
+  "identifier_uri": "http://hdl.handle.net/10919/28316",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "SourceCodes.pdf",
+    "KanaratETD.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "uncertainty",
+    "CUF",
+    "optimization",
+    "mobile robot",
+    "robust control",
+    "motion planning"
+  ],
+  "title": "Motion Planning and Robust Control for Nonholonomic Mobile Robots under Uncertainties",
+  "type": "Dissertation"
+}

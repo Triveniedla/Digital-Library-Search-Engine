@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Schoenig, Gregory Neumann",
+  "contributor_committeechair": "Mili, Lamine M.",
+  "contributor_committeemember": [
+    "Picciolo, Michael L.",
+    "Spitzner, Dan J.",
+    "Zaghloul, Amir I.",
+    "Beex, A. A. Louis",
+    "Goldstein, J. Scott"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:58Z",
+  "date_adate": "2007-05-04",
+  "date_available": "2014-03-14T20:09:58Z",
+  "date_issued": "2007-04-12",
+  "date_rdate": "2007-05-04",
+  "date_sdate": "2007-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Classical adaptive signal processors typically utilize assumptions in their derivation. The  presence of adequate Gaussian and independent and identically distributed (i.i.d.) input  data are central among such assumptions. However, classical processors have a tendency  to suffer a degradation in performance when assumptions like these are violated. Worse  yet, such degradation is not guaranteed to be proportional to the level of deviation from  the assumptions. This dissertation proposes new signal processing algorithms based on  aspects of modern robustness theory, including methods to enable adaptivity of presently  non-adaptive robust approaches. The contributions presented are the result of research  performed jointly in two disciplines, namely robustness theory and adaptive signal process-  ing. This joint consideration of robustness and adaptivity enables improved performance in  assumption-violating scenarios â   scenarios in which classical adaptive signal processors fail.  Three contributions are central to this dissertation. First, a new adaptive diagnostic tool for  high-dimension data is developed and shown robust in problematic contamination. Second,  a robust data-pre-whitening method is presented based on the new diagnostic tool. Finally,  a new suppression-based robust estimator is developed for use with complex-valued adaptive  signal processing data. To exercise the proposals and compare their performance to state-  of-the art methods, data sets commonly used in statistics as well as Space-Time Adaptive  Processing (STAP) radar data, both real and simulated, are processed, and performance is  subsequently computed and displayed. The new algorithms are shown to outperform their  state-of-the-art counterparts from both a signal-to-interference plus noise ratio (SINR) conver-  gence rate and target detection perspective.",
+  "description_provenance": [
+    "Author Email: gschoenig@ieee.org",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: mpicciol@vt.edu",
+    "Advisor Email: dspitzne@vt.edu",
+    "Advisor Email: amirz@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: jagolds2@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:58Z (GMT). No. of bitstreams: 1 Dissertation_Schoenig.pdf: 3390873 bytes, checksum: 9051f62fda9ec57b45e04b938e946cdb (MD5)   Previous issue date: 2007-04-12"
+  ],
+  "handle": "26972",
+  "identifier_other": "etd-04182007-170510",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182007-170510/",
+  "identifier_uri": "http://hdl.handle.net/10919/26972",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Schoenig.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "GM-estimator",
+    "SINR Convergence",
+    "Adaptive Signal Processing",
+    "Robust"
+  ],
+  "title": "Contributions to Robust Adaptive Signal Processing with Application to Space-Time Adaptive Radar",
+  "type": "Dissertation"
+}

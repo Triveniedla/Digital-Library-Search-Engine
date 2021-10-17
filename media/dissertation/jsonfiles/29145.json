@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Knost, Daniel G",
+  "contributor_committeechair": "Thole, Karen A.",
+  "contributor_committeecochair": "Ball, Kenneth S.",
+  "contributor_committeemember": [
+    "Ng, Fai",
+    "Duggleby, Andrew T.",
+    "Stremler, Mark A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:56Z",
+  "date_adate": "2008-10-21",
+  "date_available": "2014-03-14T20:16:56Z",
+  "date_issued": "2008-09-19",
+  "date_rdate": "2008-10-21",
+  "date_sdate": "2008-09-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Engine development has been in the direction of increased turbine inlet temperatures to improve efficiency and power output. Secondary flows develop as a result of a near-wall pressure gradient in the stagnating flow approaching the inlet nozzle guide vane as well as a strong cross-passage gradient within the passage. These flow structures enhance heat transfer and convect hot core flow gases onto component surfaces. In modern engines it has become critical to cool component surfaces to extend part life.  Bypass leakage flow emerging from the slot between the combustor and turbine endwalls can be utilized for cooling purposes if properly designed. This study examines a three-dimensional slot geometry, scalloped to manipulated leakage flow distribution. Statistical techniques are used to decouple the effects of four geometric parameters and quantify the relative influence of each on endwall cooling levels and near-wall total pressure losses. The slot geometry is also optimized for robustness across a range of inlet conditions.  Average upstream distance to the slot is shown to dominate overall cooling levels with nominal slot width gaining influence at higher leakage flow rates. Scalloping amplitude is most influential to near-wall total pressure loss as formation of the horseshoe vortex and cross flow within the passage are affected. Scalloping phase alters local cooling levels as leakage injection is shifted laterally across the endwall.",
+  "description_provenance": [
+    "Author Email: dknost@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:56Z (GMT). No. of bitstreams: 1 dknost_dissertation_compiled.pdf: 7132913 bytes, checksum: 08abfbbe8f47e89758b0dc6ffe41c3bd (MD5)   Previous issue date: 2008-09-19"
+  ],
+  "handle": "29145",
+  "identifier_other": "etd-09302008-202855",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09302008-202855/",
+  "identifier_uri": "http://hdl.handle.net/10919/29145",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dknost_dissertation_compiled.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "secondary flows",
+    "endwall cooling",
+    "gas turbine",
+    "optimization"
+  ],
+  "title": "Parametric Investigation of the Combustor-Turbine Interface Leakage Geometry",
+  "type": "Dissertation"
+}

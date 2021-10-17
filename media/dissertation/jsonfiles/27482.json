@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Akhtar, Imran",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Ribbens, Calvin J.",
+    "Hajj, Muhammad R.",
+    "Singh, Mahendra P.",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:11:23Z",
+  "date_adate": "2008-05-02",
+  "date_available": "2014-03-14T20:11:23Z",
+  "date_issued": "2008-04-28",
+  "date_rdate": "2008-05-02",
+  "date_sdate": "2008-05-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In most of the engineering and industrial flow applications, one encounters fluid-structure interaction. This interaction can lead to some undesirable forces acting on the structure, causing its damage or fatigue. The phenomenon, being complex in nature, requires thorough understanding of the flow physics. Analyzing canonical flows, such as the flow past a cylinder, provides fundamental concepts governing the fluid behavior. Despite a simpler geometry, studying such flows are a building block in an effort to comprehend, model, and control complicated flows. For the flow past a circular cylinder, we examine the phenomenon of vortex shedding observed in many bluff body wakes. We develop a parallel computational fluid dynamics (CFD) code to solve the incompressible Navier-Stokes equations on curvilinear coordinates to analyze vortex shedding. The algorithm is implemented on a distributed-memory, message-passing parallel computer, and a domain decomposition technique is employed to partition the grid into various processors. We validate and verify the numerical results with existing experimental and numerical studies. We analyse the performance of the parallel CFD solver by computing the speed-up and efficiency of the solver. We also show that the algorithm is scalable and can be efficiently employed to study other engineering problems requiring larger grid sizes and computational domains. Various other features of the solver, such as the turbulence model, moving boundary techniques, shear, and other canonical flows are also presented.  Direct numerical simulations (DNS) are performed to simulate the flow past a circular cylinder to compute the velocity and pressure fields. Based on the flow realizations of the DNS data, we use the proper orthogonal decomposition (POD) tool to determine the minimum degrees of freedom (or modes) required to represent the flow field. For the current nonlinear problem, the dominant POD modes are used in a Galerkin procedure to project the Navier-Stokes equations onto a low-dimensional space, thereby reducing the distributed-parameter problem into a finite-dimensional nonlinear dynamical system in time. We use long-time integration of the reduced-order model to calculate periodic solutions and alternatively use a shooting technique to home on the system limit cycles. We obtain the pressure-Poisson equation by taking the divergence of the Navier-Stokes equation and then project it onto the pressure POD modes. Then, we decompose the pressure into lift and drag components and compare the results with the CFD results. To reduce the fluctuating forces on the structure, we implement full-state feedback control on the low-dimensional model with suction applied aft of the separation point. The control algorithm is successfully simulated using the CFD code and suppression of vortex-shedding is achieved.",
+  "description_provenance": [
+    "Author Email: akhtar@vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:23Z (GMT). No. of bitstreams: 1 Dissertation-Imran.pdf: 10991971 bytes, checksum: 08936c59fd495509c79db5e88df72d19 (MD5)   Previous issue date: 2008-04-28"
+  ],
+  "handle": "27482",
+  "identifier_other": "etd-05012008-235500",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05012008-235500/",
+  "identifier_uri": "http://hdl.handle.net/10919/27482",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-Imran.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Reduced-Order Modeling",
+    "Feedback Control",
+    "Fluidic Actuation",
+    "Parallel Simulations",
+    "Vortex Shedding"
+  ],
+  "title": "Parallel Simulations, Reduced-Order Modeling, and Feedback Control of Vortex Shedding using Fluidic Actuators",
+  "type": "Dissertation"
+}

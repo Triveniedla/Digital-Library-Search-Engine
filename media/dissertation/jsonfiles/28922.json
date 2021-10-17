@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Abatan, Ayodele  Olushola",
+  "contributor_committeechair": "Holzer, Siegfried M.",
+  "contributor_committeecochair": "Plaut, Raymond H.",
+  "contributor_committeemember": [
+    "Ghare, Prabhakar M.",
+    "Somers, Arnold E. Jr.",
+    "Walker, Richard D."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:16:05Z",
+  "date_adate": "2009-09-09",
+  "date_available": "2014-03-14T20:16:05Z",
+  "date_issued": "1976-08-02",
+  "date_rdate": "2009-09-09",
+  "date_sdate": "2009-09-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>The primary purpose of this dissertation is to investigate the stability of reticulated domes under multiple static and dynamic loads. Two elastic geometrically nonlinear structural models of a reticulated dome with 21 and 39 degrees of freedom are considered.</p> <p> The nonlinear response of the system to static loads is obtained using nonlinear programming and discrete perturbation techniques. The nonlinear programming technique is used to obtain a starting solution for the discrete perturbation technique and to optimize the choice of the perturbation parameter. Convergence criteria and error estimates to limit errors in a perturbation scheme are developed. A method for selecting a \"suitable\" perturbation parameter for imperfection sensitive systems is proposed.</p> <p> The investigation of stability of equilibrium of the system subjected to finite disturbances is based on the concept of \"degree of stability\" and the associated sufficient stability condition. The stability condition is derived from a theorem on extent of asymptotic stability of Liapunov's direct method of the theory of stability of motion. Its application requires the determination of the nonlinear fundamental path and the \"nearest\" unstable post-buckling path. This is obtained via static analysis.</p> <p> The perturbed motion of the system under a given set of perturbations is obtained by numerically integrating the nonlinear equations of motion. The dynamic stability tests confirm the sufficiency of the dynamic stability condition. However, they also indicate that there is a dynamic disturbance with a specific spatial distribution for which the sufficient condition of stability is also a necessary condition for each equilibrium state tested. Since in practice, the spatial distribution of the disturbances cannot be controlled, the sufficient dynamic stability condition employed is practical for the design of reticulated domes.</p> <p> The stability boundaries corresponding to two independent loads on the models are presented. Limit points lie on a boundary which is convex towards the region of stability. Bifurcation points lie on a continuous but piecewise differentiable boundary. Each piece of the boundary containing bifurcation points appears to be convex towards the region of stability.</p>",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:16:05Z (GMT). No. of bitstreams: 1 LD5655.V856_1976.A24.pdf: 7403454 bytes, checksum: 6079b1babb05d239f8fb366d70ddaf19 (MD5)   Previous issue date: 1976-08-02",
+  "format_medium": "BTD",
+  "handle": "28922",
+  "identifier_other": "etd-09092009-040237",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09092009-040237/",
+  "identifier_uri": "http://hdl.handle.net/10919/28922",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1976.A24.pdf",
+  "subject": [
+    "reticulated domes",
+    "static loads"
+  ],
+  "subject_lcc": "LD5655.V856 1976.A24",
+  "title": "Stability of reticulated domes under multiple static and dynamic loads.",
+  "type": "Dissertation"
+}

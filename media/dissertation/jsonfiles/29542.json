@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Qin, Lihai",
+  "contributor_committeechair": "Hajj, Muhammad R.",
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Ragab, Saad A.",
+    "Mook, Dean T.",
+    "Kriz, Ronald D."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:18:26Z",
+  "date_adate": "2004-11-23",
+  "date_available": "2014-03-14T20:18:26Z",
+  "date_issued": "2004-11-09",
+  "date_rdate": "2007-11-23",
+  "date_sdate": "2004-11-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An optimal solution of vortex-induced vibrations of structures would be a time-domain numerical simulation that simultaneously solves the fluid flow and structural response. Yet, the requirements in terms of computing power remains a major obstacle for implementing such a simulation. On the other hand, lower- or reduced-order models provide an alternative for determining structural response to forcing by fluid flow. The objective of this thesis is to provide a consistent approach for the development of reduced-order models for the lift and drag on oscillating cylinders and the identification of their parameters. Amplitudes and phases of higher-order spectral moments of the lift and drag coefficients data are combined with approximate solutions of the representative models to determine their parameters. The results show that the amplitude and phase of the trispectrum could be used to model the lift on the oscillating cylinder under different excitation conditions. Moreover, the amplitude and phase of the cross-bispectrum could be used to establish the lift-drag relation for oscillating cylinders. A forced van der Pol equation is used to represent the lift on a transversely oscillating cylinder, and a parametrically excited van der Pol equation is used to model the lift coefficient on an inline oscillating cylinder. All cases of excitations lead to close values for the damping and nonlinear parameters in the van der Pol equation. Consequently, and as shown in this thesis, different excitation cases could be used to identify the parameters in the governing equations. Moreover, the results show that the drag coefficient could be derived from the lift coefficient through a square relation that takes into account the effects of the forced motions.",
+  "description_provenance": [
+    "Author Email: liqin@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: dtmook@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:26Z (GMT). No. of bitstreams: 1 dissertation.pdf: 922566 bytes, checksum: b5fb0f98cbb37911fedfd2d83a84043b (MD5)   Previous issue date: 2004-11-09"
+  ],
+  "handle": "29542",
+  "identifier_other": "etd-11122004-152430",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11122004-152430/",
+  "identifier_uri": "http://hdl.handle.net/10919/29542",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Higher-Order Spectral Moments",
+    "Cylinder",
+    "Drag",
+    "Lift",
+    "Reduced-Order Model",
+    "Nonlinear Identification"
+  ],
+  "title": "Development of Reduced-Order Models for Lift and Drag on Oscillating Cylinders with Higher-Order Spectral Moments",
+  "type": "Dissertation"
+}

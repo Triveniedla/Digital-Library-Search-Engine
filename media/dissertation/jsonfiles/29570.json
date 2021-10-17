@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Utley, Barbra Crompton",
+  "contributor_committeechair": "Theresa Wynn",
+  "contributor_committeemember": [
+    "Zipper, Carl E.",
+    "Panos Diplas",
+    "W. Cully Hession",
+    "Naiqian Zhang",
+    "Naraine Persaud"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:18:30Z",
+  "date_adate": "2009-12-08",
+  "date_available": "2014-03-14T20:18:30Z",
+  "date_issued": "2009-10-30",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-11-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "According to the US Environmental Protection Agency (USEPA) sediment is a leading cause of water quality impairment (US EPA, 2002).  The annual costs of sediment pollution in North America alone are estimated to range between $20 and $50 billion (Pimentel et al., 1995; Osterkamp et al, 1998, 2004).  Due to the large spatial and temporal variations inherent in sediment transport, suspended sediment measurement is challenging.  <p> The overall goal of this research was to develop and test an inexpensive sensor for continuous suspended sediment monitoring in streams.  This study was designed to determine if the gain and phase components of permittivity could be used to predict suspended sediment concentrations (SSC).  A bench-scale suspension system was designed and tested to guarantee that there were no significant differences in the sediment suspension vertically or horizontally within the system.  This study developed prediction models for SSC with input variables of temperature, specific conductivity, and gain and/or phase at multiple frequencies.  The permittivity sensor is comprised of an electrode, power source, and a control box or frequency generator.   <p> Fixed and mixed effect, multiple, linear regression models were created and compared for target frequencies.  However, it was not possible to meet the normality requirements for prediction accuracy.  Partial Least Squares (PLS) regression techniques were also applied to gain and phase data for 127 of the 635 frequencies.  The three models with the lowest error between predicted and actual values of SSC for validation were further tested with nine levels of independent validation data.  The largest model error (error>50%) occurred for the top three models at 0 and 500 mg/L.  At the higher concentrations error varied from 1-40%.   <p> Once the treatment levels, of the independent validation data set, were near 1000 mg/L the prediction accuracy increased for the top three models.  Model 3A, a phase based model, preformed the best.  Model 3A was able to predict six of the nine independent validation treatment levels within 300 mg/L.  Future research will provide additional laboratory and field testing of the prototype sensor.",
+  "description_provenance": [
+    "Author Email: barb@vt.edu",
+    "Advisor Email: czip@vt.edu",
+    "Advisor Email: pdiplas@vt.edu",
+    "Advisor Email: chession@vt.edu",
+    "Advisor Email: tesswynn@vt.edu",
+    "Advisor Email: zhangn@ksu.edu",
+    "Advisor Email: npers@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:30Z (GMT). No. of bitstreams: 1 Utley_BC_D_2009.pdf: 6517515 bytes, checksum: 6c4b6bf6167f3357750b68176829c1a3 (MD5)   Previous issue date: 2009-10-30"
+  ],
+  "handle": "29570",
+  "identifier_other": "etd-11132009-165802",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11132009-165802/",
+  "identifier_uri": "http://hdl.handle.net/10919/29570",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Utley_BC_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "streams",
+    "sediment transport",
+    "permittivity",
+    "suspended sediment concentration",
+    "sediment"
+  ],
+  "title": "Evaluation of a Permittivity Sensor for Continuous Monitoring of Suspended Sediment Concentration",
+  "type": "Dissertation"
+}

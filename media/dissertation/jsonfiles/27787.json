@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ahmed, Sara Mohamed",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Mattavelli, Paolo",
+    "Ragab, Saad A.",
+    "Wang, Fei Fred"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:15Z",
+  "date_adate": "2011-06-16",
+  "date_available": "2014-03-14T20:12:15Z",
+  "date_issued": "2011-04-29",
+  "date_rdate": "2012-11-19",
+  "date_sdate": "2011-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work presents a modeling methodology that uses new types of models called low-frequency, large-signal models in a circuit simulator (Saber) to model a complex hybrid ac/dc power electronics system. The new achievement in this work is being able to model the different components as circuit-based models and to capture some of the large-signal phenomena, for example, real transient behavior of the system such as startup, inrush current and power flow directionality. In addition, models are capable of predicting most low frequency harmonics only seen in real switching detailed models. Therefore the new models system can be used to predict steady state performance, harmonics, stability and transients. This work discusses the modeling issues faced based on the author recent experiences both on component level and system level. In addition, it recommends proper solutions to these issues verified with simulations.  <p> This work also presents one of the new models in detail, a voltage source inverter (VSI), and explains how the model can be modified to capture low frequency harmonics that are usually phenomena modeled only with switching models. The process of implementing these different phenomena is discussed and the model is then validated by comparing the results of the proposed low frequency large signal (LFLS) model to a complete detailed switching model. In addition, experimental results are also obtained with a 2 kW voltage source inverter prototype to validate the proposed improved average model (LFLS model).  In addition, a complete Verification, Validation, and Uncertainty Quantification (VV&UQ) procedures is applied to a two-level boost rectifier. The goal of this validation process is the improvement of the modeling procedure for power electronics systems, and the full assessment of the boost rectifier model predictive capabilities. Finally, the performance of the new models system is compared with the detailed switching models system. The LFLS models result in huge cut in simulation time (about 10 times difference) and also the ability to use large time step with the LFLS system and still capture all the information needed. Even though this low frequency large signal (LFLS) models system has wider capabilities than ideal average models system, it still canâ  t predict all switching phenomena. Therefore, another benefit of this modeling approach is the ability to mix different types of models (low frequency large signal (LFLS) and detailed switching) based on the application study they are used for.",
+  "description_provenance": [
+    "Author Email: sahassan@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: pmatta@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: fred.wang@utk.edu",
+    "Made available in DSpace on 2014-03-14T20:12:15Z (GMT). No. of bitstreams: 1 Ahmed_SM_D_2011v4.pdf: 5011768 bytes, checksum: 95ef34d5d1c172df1ec1f23acf3a714b (MD5)   Previous issue date: 2011-04-29"
+  ],
+  "handle": "27787",
+  "identifier_other": "etd-05182011-093430",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182011-093430/",
+  "identifier_uri": "http://hdl.handle.net/10919/27787",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ahmed_SM_D_2011v4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Low frequency large signal models",
+    "impedance",
+    "small-signal model",
+    "Modeling",
+    "average models"
+  ],
+  "title": "Modeling of Power Electronics Distribution Systems with Low-frequency, Large-signal (LFLS) Models",
+  "type": "Dissertation"
+}

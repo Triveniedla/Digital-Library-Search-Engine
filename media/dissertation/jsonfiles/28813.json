@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Turner, Scott Alexander",
+  "contributor_committeechair": "Pérez-Quiñones, Manuel A.",
+  "contributor_committeemember": [
+    "Edwards, Stephen H.",
+    "Chase, Joseph Dwight",
+    "Evans, Michael A.",
+    "Tatar, Deborah Gail"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:45Z",
+  "date_adate": "2009-09-02",
+  "date_available": "2014-03-14T20:15:45Z",
+  "date_issued": "2009-08-13",
+  "date_rdate": "2009-09-02",
+  "date_sdate": "2009-08-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In computer science, students could benefit from exposure to critical programming concepts from multiple perspectives.  Peer review is one method to allow students to experience authentic uses of the concepts in a non-programming manner.  Peer review provides students with the opportunity to evaluate other peopleâ  s work and, in doing so, allows for a rich learning experience.  While much is known about peer review and it has many uses in other disciplines, the literature, especially in computer science, does not spend much time on the perspective of and benefits to the reviewer.   \tIn this work, we examine how to implement the peer review process in early, object-oriented, computer science courses as a way to develop the reviewersâ   higher-level thinking skills, increase their knowledge of specific programming concepts, and to improve attitudes to help engage them in the activity.  Specifically, we explore peer review and its effects on Abstraction, Decomposition, and Encapsulation and how the type of review (students reviewing their peers or reviewing materials from their instructor), influences these effects.  We also look at how the studentsâ   attitudes relate to their engagement in and the benefits from the reviews. \tTo study these ideas, we used peer review exercises in two CS2 classes at local universities over the course of a semester.  We divided the students into three groups where one group reviewed their peers, one group reviewed their instructor, and one group completed small design or coding exercises.  We measured the studentsâ   attitudes and their conceptual understanding during the semester with surveys, tests, and concept maps. We collected the completed reviews as well. \tWe found that reviewing helped students learn Decomposition, especially those reviewing the instructorâ  s programs.   We did not find evidence of improvements to the studentsâ   level of thinking over the semester nor were there significant changes in their attitudes.  However, the data showed that students assigned to review their peers were less likely to complete the assignments than the other students were.  Overall, peer reviews are a valuable method for teaching Decomposition to CS2 students and can be used as an alternative way to learn object-oriented programming concepts.",
+  "description_provenance": [
+    "Author Email: scturner@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: mperezqu@vt.edu",
+    "Advisor Email: jchase@RADFORD.EDU",
+    "Advisor Email: mae@vt.edu",
+    "Advisor Email: tatar@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:45Z (GMT). No. of bitstreams: 1 Turner_SA_D_2009.pdf: 20081222 bytes, checksum: 9d984402ed32642d5b439cff52ad3468 (MD5)   Previous issue date: 2009-08-13"
+  ],
+  "handle": "28813",
+  "identifier_other": "etd-08272009-003738",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08272009-003738/",
+  "identifier_uri": "http://hdl.handle.net/10919/28813",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Turner_SA_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Computer Science Education",
+    "Peer Review",
+    "Peer Assessment",
+    "Learning",
+    "Engagement",
+    "Object-oriented Concept"
+  ],
+  "title": "Peer Review in CS2: the Effects on Attitudes, Engagement, and Conceptual Learning",
+  "type": "Dissertation"
+}

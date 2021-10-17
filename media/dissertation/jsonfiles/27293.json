@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Fraticelli, Barbara M. P.",
+  "contributor_committeechair": "Sherali, Hanif D.",
+  "contributor_committeemember": [
+    "Sarin, Subhash C.",
+    "Bish, Ebru K.",
+    "Herdman, Terry L.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:51Z",
+  "date_adate": "2001-04-26",
+  "date_available": "2014-03-14T20:10:51Z",
+  "date_issued": "2001-04-06",
+  "date_rdate": "2002-04-26",
+  "date_sdate": "2001-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation develops efficient solution techniques for general and problem-specific applications within nonconvex optimization, exploiting the constructs of the Reformulation-Linearization Technique (RLT).  We begin by developing a technique to enhance general problems in nonconvex optimization through the use of a new class of RLT cuts, called semidefinite cuts.  While these cuts are valid for any general problem for which RLT is applicable, we demonstrate their effectiveness in optimizing a nonconvex quadratic objective function over a simplex.  Computational results indicate that on average, the semidefinite cuts have reduced the number of nodes in the branch-and-bound tree by a factor of 37.6, while decreasing solution time by a factor of 3.4.  The semidefinite cuts have also led to a significant reduction in the optimality gap at termination, in some cases producing optimal solutions for problems that could not be solved using RLT alone.     We then narrow our focus to the class of mixed-integer programming (MIP) problems, and develop a modification of Bendersâ   decomposition method using concepts from RLT and lift-and-project cuts.  This method is particularly motivated by the class of two-stage stochastic programs with integer recourse.  The key idea is to design an RLT or lift-and-project cutting plane scheme for solving the subproblems where the cuts generated have right-hand sides that are functions of the first-stage variables.  An illustrative example is provided to elucidate the proposed approach.  The focus is on developing a first comprehensive finitely convergent extension of Bendersâ   methodology for problems having 0-1 mixed-integer subproblems.     We next address a specific challenging MIP application known as the facility layout problem, and we significantly improve its formulation through outer-linearization techniques and concepts from disjunctive programming.  The enhancements produce a substantial increase in the accuracy of the layout produced, while at the same time, providing a dramatic reduction in computational effort.  Overall, the maximum error in department size was reduced from about 6% to nearly zero, while solution time decreased by a factor of 110.  Previously unsolved test problems from the literature that had defied even approximate solution methods have been solved to exact optimality using our proposed approach.",
+  "description_provenance": [
+    "Author Email: barbf@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: herdman@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:51Z (GMT). No. of bitstreams: 1 fraticelli_dissertation.pdf: 773244 bytes, checksum: ce19f15f5bcaa061f4d33a9a95f95dfa (MD5)   Previous issue date: 2001-04-06"
+  ],
+  "handle": "27293",
+  "identifier_other": "etd-04262001-094818",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262001-094818/",
+  "identifier_uri": "http://hdl.handle.net/10919/27293",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "fraticelli_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "semidefinite programming (SDP)",
+    "facility layout problem (FLP)",
+    "mixed-integer programming",
+    "disjunctive models.",
+    "Reformulation-Linearization Technique (RLT)",
+    "stochastic programming"
+  ],
+  "title": "Semidefinite Cuts and Partial Convexification Techniques with Applications to Continuous Nonconvex Optimization, Stochastic Integer Programming, and Facility Layout Problems",
+  "type": "Dissertation"
+}

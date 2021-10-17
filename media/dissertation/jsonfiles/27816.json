@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Saether, Erik",
+  "contributor_committeechair": "Thangjitham, Surot",
+  "contributor_committeemember": [
+    "Duke, John C. Jr.",
+    "Gao, David Y.",
+    "Dowling, Norman E.",
+    "Barnwell, Richard W.",
+    "Glaessgen, Edward H."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:20Z",
+  "date_adate": "2008-06-25",
+  "date_available": "2014-03-14T20:12:20Z",
+  "date_issued": "2008-04-18",
+  "date_rdate": "2009-06-25",
+  "date_sdate": "2008-05-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The emerging field of nanomechanics is providing a new focus in the study of the mechanics of materials, particularly in simulating fundamental atomic mechanisms involved in the initiation and evolution of damage. Simulating fundamental material processes using first principles in physics strongly motivates the formulation of computational multiscale methods to link macroscopic failure to the underlying atomic processes from which all material behavior originates.  A combined concurrent and sequential multiscale methodology is developed to analyze fracture mechanisms across length scales. Unique characterizations of grain boundary fracture mechanisms in an aluminum material system are performed at the atomic level using molecular dynamics simulation and are mapped into cohesive zone models for continuum modeling within a finite element framework. Fracture along grain boundaries typically exhibit a dependence of crack tip processes (i.e. void nucleation in brittle cleavage or dislocation emission in ductile blunting) on the direction of propagation due to slip plane orientation in adjacent grains. A new method of concurrently coupling molecular dynamics and finite element analysis frameworks is formulated to minimize the overall computational requirements in simulating atomistically large material regions. A sequential multiscale approach is advanced to model microscale polycrystal domains in which atomistically-based cohesive zone parameters are incorporated into special directional decohesion finite elements that automatically apply appropriate ductile or brittle cohesive properties depending on the direction of crack propagation. The developed multiscale analysis methodology is illustrated through a parametric study of grain boundary fracture in three-dimensional aluminum microstructures.",
+  "description_provenance": [
+    "Author Email: erik.saether-1@nasa.gov",
+    "Advisor Email: jcduke@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Advisor Email: ndowling@vt.edu",
+    "Advisor Email: edward.h.glaessgen@nasa.gov",
+    "Advisor Email: thangjitham@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:20Z (GMT). No. of bitstreams: 1 dissertation-vt-saether.pdf: 7993810 bytes, checksum: b940eb4de1d57c0bcc7bf50e69fa678e (MD5)   Previous issue date: 2008-04-18"
+  ],
+  "handle": "27816",
+  "identifier_other": "etd-05202008-221010",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05202008-221010/",
+  "identifier_uri": "http://hdl.handle.net/10919/27816",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-vt-saether.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Polycrystalline Metals",
+    "Decohesion Finite Elements",
+    "Cohesive Zone Models",
+    "Molecular Dynamics",
+    "Finite Element Method",
+    "Multiscale Analysis"
+  ],
+  "title": "A Multiscale Method for Simulating Fracture in Polycrystalline Metals",
+  "type": "Dissertation"
+}

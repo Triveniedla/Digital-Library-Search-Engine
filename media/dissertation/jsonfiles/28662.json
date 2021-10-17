@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Wang, Xingwei",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Jacobs, Ira",
+    "Pickrell, Gary R.",
+    "Cooper, Kristie L.",
+    "Poon, Ting-Chung"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:13Z",
+  "date_adate": "2006-09-13",
+  "date_available": "2014-03-14T20:15:13Z",
+  "date_issued": "2006-08-08",
+  "date_rdate": "2006-09-13",
+  "date_sdate": "2006-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>DNA is the substance that encodes the genetic information that cells need to replicate and to produce proteins. The detection of DNA sequences is of great importance in a broad range of areas including genetics, pathology, criminology, pharmacogenetics, public health, food safety, civil defense, and environmental monitoring. However, the established techniques suffer from a number of problems such as the bulky size, high equipment costs, and time-consuming algorithms so that they are limited to research laboratories and cannot be applied for in-vivo situations. In our research, we developed a novel sensing scheme for DNA sequence detection, featuring sequence specificity, cost efficiency, speed, and ease of use. Without the need for labels or indicators, it may be ideal for direct in-cell application.</p><p> The principle is simple. With capture DNA immobilized onto the probe by layer-by-layer selfassembly, the hybridization of a complementary strand of target DNA increases the optical thickness of the probe. Three kinds of sensors were developed. The optical fiber tip sensor has been demonstrated with good specificity and high sensitivity for target DNA quantities as small as 1.7 ng. To demonstrate the potential of this structure for practical applications, tularemia bacteria were tested.</p><p> Two other micrometric structures were designed with specific advantages for different applications. The micro-fiber Bragg grating interferometer (Micro-FBGI) has the intrinsic temperature compensation capability. The micro-intrinsic Fabry-Perot interferometer (Micro-IFPI)features simple signal processing due to its simple configuration. Successful DNA immobilization and hybridization have been demonstrated onto the  25Î¼m Micro-IFPI. Both structures have great potential for nanometric protrusion, allowing future in-cell DNA direct detection. In addition, its quick response time leads to the potential for express diagnosis. What's more, the idea of nanoscale probe has a broad impact in scanning near-field optical microscopy (SNOM), intracellular surgery in cell sensing, manipulation, and injection.</p>",
+  "description_provenance": [
+    "Author Email: xiwang@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: pickrell@vt.edu",
+    "Advisor Email: klcooper@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:13Z (GMT). No. of bitstreams: 1 final.pdf: 2672868 bytes, checksum: a277048db60e7fed86e2c86e549d1bd3 (MD5)   Previous issue date: 2006-08-08"
+  ],
+  "handle": "28662",
+  "identifier_other": "etd-08142006-211154",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142006-211154/",
+  "identifier_uri": "http://hdl.handle.net/10919/28662",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "DNA Sequence Detection",
+    "Fiber Optic Biosensor",
+    "Etching",
+    "Layer-by-layer Electrostatic Self-assembly",
+    "Nano probe",
+    "Hybridization",
+    "Immobilization"
+  ],
+  "title": "Label-free DNA Sequence Detection Using Oligonucleotide Functionalized Fiber Probe with a Miniature Protrusion",
+  "type": "Dissertation"
+}

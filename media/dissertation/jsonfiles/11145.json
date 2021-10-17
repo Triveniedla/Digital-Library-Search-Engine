@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Xiao, Xiangyu",
+  "contributor_committeechair": "Conners, Richard W.",
+  "contributor_committeecochair": "Kline, D. Earl",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Liu, Yilu",
+    "Wang, Anbo"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:00:21Z",
+  "date_adate": "2004-04-26",
+  "date_available": "2011-08-22T19:00:21Z",
+  "date_issued": "1998-12-17",
+  "date_rdate": "2004-04-26",
+  "date_sdate": "2004-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the forest products manufacturing industry, recent price increases in the cost of high-quality lumber together with the reduced availability of this resource have forced manufacturers to utilize lower grade hardwood lumber in their manufacturing operations.  This use of low quality lumber means that the labor involved in converting this lumber to usable parts is also increased because it takes more time to remove the additional defects that occur in the lower grade material.  Simultaneously, labor costs have gone up and availability of skilled workers capable of getting a high yield of usable parts has markedly decreased.  To face this increasingly complex and competitive environment, the industry has a critical need for efficient and cost-effective new processing equipment that can replace human operators who locate and identify defects that need to be removed in lumber and then remove these defects when cutting the lumber into rough parts.  This human inspection process is laborious, inconsistent and subjective in nature due to the demands of making decisions very rapidly in a noisy and tiring environment.  Hence, an automatic sawing system that could remove defects in lumber while creating maximum yield, offers significant opportunities for increasing profits of this industry.  The difficult part in designing an automatic sawing system is creating an automatic inspection system that can detect critical features in wood that affect the quality of the rough parts.  Many automatic inspection systems have been proposed and studied for the inspection of wood or wood products.  But, most of these systems utilize a single sensing modality, e.g., a single optical sensor or an X-ray imaging system.  These systems cannot detect all critical defects in wood. This research work reported in this dissertation is the first aimed at creating a vision system utilizes three imaging modalities: a color imaging system, a laser range profiling system and an X-ray imaging system.  The objective of in designing this vision system is to detect and identify: 1) surface features such as knots, splits, stains; 2) geometry features such as wane, thin board; and 3) internal features such as voids, knots.  The laser range profiling system is used to locate and identify geometry features.  The X-ray imaging system is primarily used to detect features such as knots, splits and interior voids.  The color imaging system is mainly employed to identify surface features. In this vision system a number of methodologies are used to improve processing speed and identification accuracy.  The images from different sensing modalities are analyzed in a special order to offset the larger amount of image data that comes from the multiple sensors and that must be analyzed.  The analysis of laser image is performed first.  It is used to find defects that have insufficient thickness.  These defects are then removed from consideration in the subsequent analysis of the X-ray image.  Removing these defects from consideration in the analysis of the X-ray image not only improves the accuracy of detecting and identifying defects but also reduces the amount of time needed to analyze the X-ray image.  Similarly, defect areas such as knot and mineral streak that are found in the analysis of the X-ray image are removed from consideration in the analysis of the color image. A fuzzy logic algorithm -- the approaching degree method-- is used to assign defect labels.  The fuzzy logic approach is used to mimic human behavior in identifying defects in hardwood lumber.  The initial results obtained from this vision system demonstrate the feasibility of locating and identifying all the major defects that occur in hardwood lumber.  This was even true during the initial hardware development phase when only images of unsatisfactory quality from a limited lumber of samples were available.  The vision system is capable of locating and identifying defects at the production speed of two linear feet per second that is typical in most hardwood secondary manufacturing plants.  This vision system software was designed to run on a relative slow computer (200 MHz Pentium processor) with aid of special image processing hardware, i.e., the MORRPH board that was also designed at Virginia Tech.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:21Z (GMT). No. of bitstreams: 2 Dissertation_part2.pdf: 2875299 bytes, checksum: 5ba58fdd6278c6dae056f4ae099cdcfc (MD5) Dissertation_part1.pdf: 2246991 bytes, checksum: b2d845efc20e9eec003f62edf1f1ec6c (MD5)   Previous issue date: 1998-12-17",
+    "Author Email: gxxiao@yahoo.com",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: kline@vt.edu",
+    "Advisor Email: awang@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11145",
+  "identifier_other": "etd-04162004-111006",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162004-111006",
+  "identifier_uri": "http://hdl.handle.net/10919/11145",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Dissertation_part2.pdf",
+    "Dissertation_part1.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "data fusion",
+    "Machine vision system",
+    "multi-sensor",
+    "computer vision",
+    "fuzzy logic"
+  ],
+  "title": "A Multiple Sensors Approach to Wood Defect Detection",
+  "type": "Dissertation"
+}

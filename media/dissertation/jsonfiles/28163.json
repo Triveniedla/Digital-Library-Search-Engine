@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Hyon, Tae-In",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Midkiff, Scott F.",
+    "Sweeney, Dennis G.",
+    "Jones, Mark T."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:37Z",
+  "date_adate": "2001-07-02",
+  "date_available": "2014-03-14T20:13:37Z",
+  "date_issued": "2001-06-19",
+  "date_rdate": "2002-07-02",
+  "date_sdate": "2001-06-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One of the most important components of any wireless network is the medium access control protocol.  This research deals with wireless ATM (WATM) medium access control (MAC) protocol.  Conventional studies concerning WATM have focused mainly on variations of the time-division-multiple-access (TDMA) method for the wireless aspect of WATM networks.  However, there are many advantages that the direct-sequence code-division-multiple-access (DS-CDMA) air-interface method has, such as inherent robustness against multipath fading, better resilience against security infringement attempts, and greater overall capacity compared to the TDMA method as proven in the cellular telephone industry.  The main reason behind the relatively broader support for the TDMA method is that the source bit rate is generally higher compared to the DS-CDMA method since the maximum data rate per mobile unit is limited by the processing gain of a traditional DS-CDMA method. In this research, the problem of limited data rate often associated with a DS-CDMA air-interface is alleviated by employing the recently conceived multi-coded DS-CDMA as the primary air-interface, which is known to achieve maximum data rate per mobile unit comparable to applications employing TDMA.  The focus of this research is on overcoming periods of significant deterioration of the wireless channel by adaptively employing bit combining.  A MAC protocol called Adaptive Parallel Multiple Sub-stream CDMA (APMS-CDMA) is proposed to alternate between normal and Â¡Â°rake-inÂ¡Â± mode to deal with the often hostile environment of a WATM network. Although the context in which this research effort was conducted was a wireless ATM network environment, the protocol and techniques developed here can be applied to other infrastructure wireless systems using multi-code CDMA as their air-interface.  Further, independent of the air-interface technique employed, other wireless systems can benefit from the channel estimation and the traffic management techniques used in this research effort.",
+  "description_provenance": [
+    "Author Email: thyon@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:37Z (GMT). No. of bitstreams: 1 final_dissertation.pdf: 1280203 bytes, checksum: 34c826a5a1e696b4edc17e23b5625483 (MD5)   Previous issue date: 2001-06-19"
+  ],
+  "handle": "28163",
+  "identifier_other": "etd-06302001-225755",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06302001-225755/",
+  "identifier_uri": "http://hdl.handle.net/10919/28163",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "final_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "DS-CDMA",
+    "Wireless ATM",
+    "Adaptive MAC Protocol",
+    "Multi-Code CDMA"
+  ],
+  "title": "Wireless ATM Networks Medium Access Control with Adaptive Parallel Multiple Substream CDMA Air-inteface",
+  "type": "Dissertation"
+}

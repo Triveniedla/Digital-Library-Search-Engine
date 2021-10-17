@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Yue, Huanyu",
+  "contributor_committeechair": "Rakha, Hesham Ahmed",
+  "contributor_committeemember": [
+    "Abbas, Montasir M.",
+    "Ahn, Kyoungho",
+    "Baik, Hojong",
+    "Trani, Antoino A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:09:06Z",
+  "date_adate": "2008-04-24",
+  "date_available": "2014-03-14T20:09:06Z",
+  "date_issued": "2008-03-25",
+  "date_rdate": "2008-04-24",
+  "date_sdate": "2008-04-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The transportation sector is a major contributor to U.S. fuel consumption and emissions. Consequently, assessing the environmental impacts of transportation activities is essential for air-quality improvement programs.  Current state-of-the-art models estimate vehicle emissions based on typical urban driving cycles. Most of these models offer simplified mathematical expressions to compute fuel consumption and emission rates based on average link speeds while ignoring transient changes in a vehicleâ  s speed and acceleration level as it travels on a highway network.  Alternatively, microscopic models capture these transient effects; however, the application of microscopic models may be costly and time consuming. Also, these tools may require a level of input data resolution that is not available. Consequently, this dissertation attempts to fill the void in energy and emission modeling by a framework for modeling vehicle fuel consumption and emissions mesoscopically. This framework is utilized to develop the VT-Meso model using a number of data sources. The model estimates average light-duty vehicle fuel consumption and emission rates on a link-by-link basis using up to three independent variables, namely: average travel speed, average number of stops per unit distance, and average stop duration.   The mesoscopic model utilizes a microscopic vehicle fuel consumption and emission model that was developed at Virginia Tech to compute mode-specific fuel consumption and emission rates. This model, known as VT-Micro, predicts the instantaneous fuel consumption and emission rates of HC, CO and NOx of individual vehicles based on their instantaneous speed and acceleration levels. The mesoscopic model utilizes these link-by-link input parameters to construct a synthetic drive cycle and compute average link fuel consumption and emission rates.  After constructing the drive cycle, the model estimates the proportion of time that a vehicle typically spends cruising, decelerating, idling and accelerating while traveling on a link. A series of fuel consumption and emission models are then used to estimate the amount of fuel consumed and emissions of HC, CO, CO2, and NOX emissions for each mode of operation. Subsequently, the total fuel consumed and pollutants emitted by a vehicle while traveling along a segment are estimated by summing across the different modes of operation and dividing by the distance traveled to obtain distance-based average vehicle fuel consumption and emission rates. The models are developed for normal and high emitting vehicles. The study quantifies the typical driver deceleration behavior for incorporation within the model.  Since this model constructs a drive cycle which includes a deceleration mode, an accurate characterization of typical vehicle deceleration behavior is critical to the accurate modeling of vehicle emissions. The study demonstrates that while the deceleration rate typically increases as the vehicle approaches its desired final speed, the use of a constant deceleration rate over the entire deceleration maneuver is adequate for environmental modeling purposes. Finally, the study validates the model on a freeway and urban arterial network. The results demonstrate that the model provides accurate estimates of vehicle fuel consumption and emission rates and is adequate for the evaluation of transportation operational projects.",
+  "description_provenance": [
+    "Author Email: yue@vt.edu",
+    "Advisor Email: abbas@vt.edu",
+    "Advisor Email: kahn@vt.edu",
+    "Advisor Email: hbaik@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:06Z (GMT). No. of bitstreams: 1 Huanyu_Yue_Dissertation.pdf: 1801841 bytes, checksum: 6f992bb17fe729cd3b598a39e55f8112 (MD5)   Previous issue date: 2008-03-25"
+  ],
+  "handle": "26695",
+  "identifier_other": "etd-04082008-101942",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04082008-101942/",
+  "identifier_uri": "http://hdl.handle.net/10919/26695",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Huanyu_Yue_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High Emitter",
+    "INTEGRATION",
+    "Mesoscopic modeling",
+    "ITS evaluation",
+    "Fuel consumption and emission modeling"
+  ],
+  "title": "Mesoscopic Fuel Consumption and Emission Modeling",
+  "type": "Dissertation"
+}

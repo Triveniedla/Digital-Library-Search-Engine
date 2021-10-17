@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Garcia, Sandrine",
+  "contributor_committeecochair": [
+    "Jarny, Yvon",
+    "Scott, Elaine P."
+  ],
+  "contributor_committeemember": [
+    "Delaunay, Didier",
+    "Raynaud, Martin",
+    "Mahan, James Robert",
+    "Garnier, Bertrand",
+    "Gürdal, Zafer"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:23Z",
+  "date_adate": "1999-06-30",
+  "date_available": "2014-03-14T20:13:23Z",
+  "date_issued": "1999-06-04",
+  "date_rdate": "2000-06-30",
+  "date_sdate": "1999-06-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Thermophysical characterization of anisotropic composite materials is extremely important in the control of today fabrication processes and in the prediction of structure failure due to thermal stresses. Accuracy in the estimation of the thermal properties can be improved if the experiments are designed carefully. However, on one hand, the typically used parametric study for the design optimization is tedious and time intensive. On the other hand, commonly used gradient-based estimation methods show instabilities resulting in nonconvergence when used with models that contain correlated or nearly correlated parameters.  The objectives of this research were to develop systematic and reliable methodologies for both Experimental Design Optimization (EDO) used for the determination of thermal properties, and Simultaneous Parameter Estimation (SPE). Because of their advantageous features, Genetic Algorithms (GAs) were investigated for use as a strategy for both EDO and SPE. The EDO and SPE approaches used involved the maximization of an optimality criterion associated with the sensitivity matrix of the unknown parameters, and the minimization of the ordinary least squares error, respectively. Two versions of a general-purpose genetic-based program were developed: one is designed for the analysis of any EDO / SPE problems for which a mathematical model can be provided, while the other incorporates a control-volume finite difference scheme allowing for the practical analysis of complex problems. The former version was used to illustrate the genetic performance on the optimization of a difficult mathematical test function.  Two test cases previously solved in the literature were first analyzed to demonstrate and assess the GA-based {EDO/SPE} methodology. These problems included the optimization of one and two dimensional designs for the estimation at ambient temperature of two and three thermal properties, respectively (effective thermal conductivity parallel and perpendicular to the fibers plane and effective volumetric heat capacity), of anisotropic carbon/epoxy composite materials. The two dimensional case was further investigated to evaluate the effects of the optimality criterion used for the experimental design on the accuracy of the estimated properties.  The general-purpose GA-based program was then successively applied to three advanced studies involving the thermal characterization of carbon/epoxy anisotropic composites. These studies included the SPE of successively three, seven and nine thermophysical parameters, with for the latter case, a two dimensional EDO with seven experimental key parameters. In two of the three studies, the parameters were defined to represent the dependence of the thermal properties with temperature. Finally, the kinetic characterization of the curing of three thermosetting materials (an epoxy, a polyester and a rubber compound) was accomplished resulting in the SPE of six kinetic parameters.  Overall, the GA method was found to perform extremely well despite the high degree of correlation and low sensitivity of many parameters in all cases studied. This work therefore validates the use of GAs for the thermophysical characterization of anisotropic composite materials. The significance in using such algorithms is not only the solution to ill-conditioned problems but also, a drastically cost savings in both experimental and time expenses as they allow for the EDO and SPE of several parameters at once.",
+  "description_provenance": [
+    "Author Email: sandrine.garcia@isitem.univ-nantes.fr",
+    "Advisor Email: jrmahan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:23Z (GMT). No. of bitstreams: 1 etd.pdf: 2791366 bytes, checksum: 98ff100f9aee5db6ad28ddb93b2a631a (MD5)   Previous issue date: 1999-06-04"
+  ],
+  "handle": "28076",
+  "identifier_other": "etd-061899-095435",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-061899-095435/",
+  "identifier_uri": "http://hdl.handle.net/10919/28076",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Thermal Properties",
+    "Thermosetting Materials",
+    "Genetic Algorithms",
+    "Anisotropic Composite Materials",
+    "Kinetic Parameters",
+    "Experimental Design Optimization",
+    "Parameter Estimation"
+  ],
+  "title": "Experimental Design Optimization and Thermophysical Parameter Estimation of Composite Materials Using Genetic Algorithms",
+  "type": "Dissertation"
+}

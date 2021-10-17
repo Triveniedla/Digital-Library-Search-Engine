@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Maricar, Noor M",
+  "contributor_committeechair": "Rahman, Saifur",
+  "contributor_committeemember": [
+    "Godrej, Adil N.",
+    "Krimgold, Frederick",
+    "Midkiff, Scott F.",
+    "Liu, Yilu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:08:27Z",
+  "date_adate": "2004-10-05",
+  "date_available": "2011-08-22T19:08:27Z",
+  "date_issued": "2004-09-07",
+  "date_rdate": "2004-10-05",
+  "date_sdate": "2004-09-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The thesis aims to introduce an efficient resource development strategy in electric utility long term planning under uncertainty considerations. In recent years, electric utilities have recognized the concepts of robustness, flexibility, and risk exposure, to be considered in their resource development strategy. The concept of robustness means to develop resource plans that can perform well for most, if not all futures, while flexibility is to allow inexpensive changes to be made if the future conditions deviate from the base assumptions. A risk exposure concept is used to quantify the risk hazards in planning alternatives for different kinds of future conditions. This study focuses on two technical issues identified to be important to the process of efficient resource development: decision-making analysis considering robustness and flexibility, and decision-making analysis considering risk exposure. The technique combines probabilistic methods and tradeoff analysis, thereby producing a decision set analysis concept to determine robustness that includes flexibility measures. In addition, risk impact analysis is incorporated to identify the risk exposure in planning alternatives. Contributions of the work are summarized as follows. First, an efficient resource development framework for planning under uncertainty is developed that combines features of utility function, tradeoff analysis, and the analytical hierarchy process, incorporating a performance evaluation approach. Second, the multi-attribute risk-impact analysis method is investigated to handle the risk hazards exposed in power system resource planning. Third, the penetration levels of wind and photovoltaic generation technologies into the total generation system mix, with their constraints, are determined using the decision-making model. The results from two case studies show the benefits of the proposed framework by offering the decision makers various options for lower cost, lower emission, better reliability, and higher efficiency plans.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:08:27Z (GMT). No. of bitstreams: 1  NM_Thesis_Final.pdf: 422212 bytes, checksum: 7a2b280c38574d230fecb80685aff962 (MD5)    Previous issue date: 2004-09-07",
+    "Author Email: nmaricar@vt.edu",
+    "Advisor Email: agodrej@vt.edu",
+    "Advisor Email: krimgold@vt.edu",
+    "Advisor Email: srahman@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: yilu@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11258",
+  "identifier_other": "etd-09142004-235255",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09142004-235255",
+  "identifier_uri": "http://hdl.handle.net/10919/11258",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "NM_Thesis_Final.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Decision Making",
+    "Flexibility",
+    "Decision Support System",
+    "Electric Utilities Power Generation",
+    "Power System Planning",
+    "Strategic Planning",
+    "Risk Exposure",
+    "Robustness"
+  ],
+  "title": "Efficient Resource Development in Electric Utilities Planning Under Uncertainty",
+  "type": "Dissertation"
+}

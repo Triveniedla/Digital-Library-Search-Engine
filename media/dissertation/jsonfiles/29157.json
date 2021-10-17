@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Huang, Xudong",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Lu, Guo-Quan",
+    "Liu, Yilu",
+    "van Wyk, Jacobus Daniel"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:58Z",
+  "date_adate": "2004-10-06",
+  "date_available": "2014-03-14T20:16:58Z",
+  "date_issued": "2004-09-10",
+  "date_rdate": "2005-10-06",
+  "date_sdate": "2004-10-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is to focus on the development of modeling and simulation methodology to predict conductive electromagnetic interference (EMI) for high power converters.  Conventionally, the EMI prediction relies on the Fast Fourier Transformation (FFT) method with the time-domain simulation result that requires long hours of simulation and a large amount of data.  The proposed approach is to use the frequency-domain analysis technique that computes the EMI spectrum directly by decomposing noise sources and their propagation paths.  This method not only largely reduces the computational effort, but also provides the insightful information about the critical components of the EMI generation and distribution. The study was first applied to a dc/dc chopper circuit by deriving the high frequency equivalent circuit model for differential mode (DM) and common mode (CM) EMIs. The noise source was modeled as the trapezoidal current and voltage pulses.  The noise cut-off frequency was identified as a function of the rise time and fall time of the trapezoidal waves.  The noise propagation path was modeled as lumped parasitic inductors and capacitors, and additional noise cut-off frequency was identified as the function of parasitic components. . Using the noise source and path models, the proposed method effectively predicts the EMI performance, and the results were verified with the hardware experiments. With the well-proven EMI prediction methodology with a dc/dc chopper, the method was then extended to the prediction of DM and CM EMIs of three-phase inverters under complex pulse width modulation (PWM) patterns. The inverter noise source requires the double Fourier integral technique because its switching cycle and the fundamental cycle are in two different time scales. The noise path requires parasitic parameter extraction through finite element analysis for complex-structured power bus bar and printed circuit layout.  After inverter noise source and path are identified, the effects of different modulation schemes on EMI spectrum are evaluated through the proposed frequency-domain analysis technique and verified by hardware experiment. The results, again, demonstrate that the proposed frequency-domain analysis technique is valid and is considered a promising approach to effectively predicting the EMI spectrum up to tens of MHz range.",
+  "description_provenance": [
+    "Author Email: xhuang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:58Z (GMT). No. of bitstreams: 1 ETD.pdf: 2099353 bytes, checksum: 5e9d1e0cd44ac56fe8dc23fe92f86418 (MD5)   Previous issue date: 2004-09-10"
+  ],
+  "handle": "29157",
+  "identifier_other": "etd-10012004-145511",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10012004-145511/",
+  "identifier_uri": "http://hdl.handle.net/10919/29157",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "frequency domain",
+    "electromagnetic interference (EMI)",
+    "differential mode (DM)",
+    "common mode (CM)"
+  ],
+  "title": "Frequency Domain Conductive Electromagnetic Interference Modeling and Prediction with Parasitics Extraction for Inverters",
+  "type": "Dissertation"
+}

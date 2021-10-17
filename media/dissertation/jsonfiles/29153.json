@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Rusovici, Razvan",
+  "contributor_committeecochair": [
+    "Inman, Daniel J.",
+    "Lesieutre, George A."
+  ],
+  "contributor_committeemember": [
+    "Ahmadian, Mehdi",
+    "Cudney, Harley H.",
+    "Saunders, William R.",
+    "Robertshaw, Harry H."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:57Z",
+  "date_adate": "1999-10-05",
+  "date_available": "2014-03-14T20:16:57Z",
+  "date_issued": "1999-09-03",
+  "date_rdate": "2000-10-05",
+  "date_sdate": "1999-09-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Protection from the potentially damaging effects of shock loading is a common design requirement for diverse mechanical structures ranging from shock accelerometers to spacecraft. High-damping viscoelastic materials are employed in the design of geometrically complex impact absorbent components. Since shock transients have a broadband frequency spectrum, it is imperative to properly model frequency dependence of material parameters. The Anelastic Displacement Fields (ADF) method is employed to develop new axisymmetric and plane stress finite elements that are capable of modeling frequency dependent material behavior of linear viscoelastic materials. The new finite elements are used to model and analyze behavior of viscoelastic structures subjected to shock loads. The development of such ADF-based finite element models offers an attractive analytical tool to aid in the design of shock absorbent mechanical filters. This work will also show that it is possible to determine material properties’ frequency dependence by iteratively fitting ADF model predictions to experimental results.   A series of experiments designed to validate the axisymmetric and plane stress finite element models are performed. These experiments involve the propagation of longitudinal waves through elastic and viscoelastic rods, and behavior of elastomeric mechanical filters subjected to shock. Comparison of model predictions to theory and experiments confirm that ADF-based finite element models are capable of capturing phenomena such as geometric dispersion and viscoelastic attenuation of longitudinal waves in rods as well as modeling the behavior of mechanical filters subjected to shock.",
+  "description_provenance": [
+    "Author Email: rrusovici@sti-tech.com",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: cudney@vt.edu",
+    "Advisor Email: g-lesieutre@psu.edu",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: model@vtvm1.cc.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:57Z (GMT). No. of bitstreams: 1  thesis.pdf: 1569376 bytes, checksum: 1b3a504923aab7ad8d4a0d6f4b18a93c (MD5)    Previous issue date: 1999-09-03"
+  ],
+  "handle": "29153",
+  "identifier_other": "etd-093099-204411",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-093099-204411/",
+  "identifier_uri": "http://hdl.handle.net/10919/29153",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Viscoelastic",
+    "Wave Propagation",
+    "Anelastic Displacement Fields",
+    "Mechanical Filters",
+    "Damping",
+    "Finite Elements"
+  ],
+  "title": "Modeling of Shock Wave Propagation and Attenuation in Viscoelastic Structures",
+  "type": "Dissertation"
+}

@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Hofmann, John",
+  "contributor_committeechair": "Baird, Donald G",
+  "contributor_committeemember": [
+    "Case, Scott W",
+    "Davis, Richey M",
+    "Martin, Stephen Michael",
+    "Whittington, Abby Rebecca"
+  ],
+  "contributor_department": "Learning Sciences and Technologies",
+  "date_accessioned": "2013-10-24T08:00:06Z",
+  "date_available": "2013-10-24T08:00:06Z",
+  "date_issued": "2013-10-23",
+  "degree_discipline": "Macromolecular Science and Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The use of fiber-reinforced polymer composites formed via injection molding is of increasing interest due to their superior mechanical properties as compared to those of the polymer matrix alone. These mechanical properties, however, are strongly dependent on the fiber length and orientation distributions within a molded part. As such, there is a need to understand and model the orientation evolution of chopped fibers in flow in order to accurately simulate the final fiber orientation distribution within injection molded parts. As a result of this, accurate and reliable experimental measurement of fiber orientation is needed. Within this research, the application and validity of the Method of Ellipses for determining the orientation of long, semi-flexible glass fibers within injection molded composites has been investigated. A fiber suspension with an average length of approximately 3.9 mm was the focus of this study and assumed to be representative of commercial distributions. A novel method to quantify fiber curvature was developed and utilized to show that flexibility in center-gated disc and the end-gated plaque samples was minimal on average for the selected fiber length distribution. Thus, it was determined that the Method of Ellipses was applicable when utilized to obtain reliable orientation data for the selected long glass fiber suspension and within the chosen geometries that exhibit 1-, 2-, and 3-dimensional velocity fields. However, a modified image analysis width was found to be necessary in regions of highly aligned fibers, due to the increase in ellipse size and the need to reduce the number of partial objects and thus minimize error. This allowed for a direct comparison of the experimental orientation behavior of short and long glass fibers within the center-gated disc and the end-gated plaque, as well as the effect of the orientation distributions on the global modulus of the part.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-24T08:00:06Z (GMT). No. of bitstreams: 1 Hofmann_J_D_2013.pdf: 3318123 bytes, checksum: 623c19c2e63f3d85cf2437c0d9c24e87 (MD5)   Previous issue date: 2013-10-23",
+  "format_medium": "ETD",
+  "handle": "23921",
+  "identifier_other": "vt_gsexam:1637",
+  "identifier_uri": "http://hdl.handle.net/10919/23921",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Fiber Reinforced Polymer Composites",
+    "Short Glass Fibers",
+    "Long Glass Fibers",
+    "Fiber Orientation Distribution",
+    "Injection Molding",
+    "Method of Ellipses",
+    "Fiber Flexibility"
+  ],
+  "title": "Extension of the Method of Ellipses to Determining the Orientation of Long, Semi-flexible Fibers in Model 2- and 3-dimensional Geometries",
+  "type": "Dissertation"
+}

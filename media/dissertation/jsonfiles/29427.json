@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kosoglu, Mehmet Alpaslan",
+  "contributor_committeechair": "Rylander, Christopher G.",
+  "contributor_committeemember": [
+    "Rylander, Marissa Nicole",
+    "Paul, Mark R.",
+    "Robertson, John L.",
+    "Xu, Yong"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:51Z",
+  "date_adate": "2011-11-11",
+  "date_available": "2014-03-14T20:17:51Z",
+  "date_issued": "2011-10-19",
+  "date_rdate": "2011-11-11",
+  "date_sdate": "2011-11-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Shallow light penetration in tissue has been a technical barrier to the development of photothermal therapies for cancers in the epithelial tissues and skin. This problem can potentially be solved by utilizing minimally invasive probes to deliver light directly to target areas potentially >2 mm deep within tissue. To develop this solution, fiber optic microneedles capable of delivering light for therapy were manufactured. We have manufactured fiberoptic microneedles by tapering silica-based optical fibers employing a melt-drawing process. These fiberoptic microneedles were 35 to 139 microns in diameter and 3 mm long. Some of the microneedles were manufactured to have sharper tips (tip diameter < 8 microns) by changing the heat source during the melt-drawing process. All of the microneedles were individually inserted into ex vivo porcine skin samples to demonstrate the feasibility of their application in human tissues. Skin penetration experiments showed that sharp fiber optic microneedles with a minimum average diameter of 73 microns and a maximum tip diameter of 8 microns were able to penetrate skin without buckling. Flat microneedles, which had larger tip diameters, required a minimum average diameter of 125 microns in order to penetrate through porcine skin samples. Force versus displacement plots showed that a sharp tip on a fiber optic microneedle decreased the skinâ  s resistance during insertion. Also, the force acting on a sharp microneedle increased more steadily compared with a microneedle with a flat tip. Melt-drawn fiberoptic microneedles provided a means to mechanically penetrate dermal tissue and deliver light directly into a localized target area. We also described an alternate fiberoptic microneedle design with the capability of delivering more diffuse, but therapeutically useful photothermal energy using hydrofluoric acid etching of optical fibers. Microneedles etched for 10, 30, and 50 minutes, and an optical fiber control was compared for their ability to deliver diffuse light using three techniques. First, red light delivery from the microneedles was evaluated by imaging the reflectance of the light from a white paper. Second, spatial temperature distribution of the paper in response to near-IR light (1,064 nm, 1 W, CW) was recorded using infrared thermography. Third, ex vivo adipose tissue response during 1,064 nm, (5 W, CW) irradiation was recorded with bright field microscopy. Increasing etching time decreased microneedle diameter (from 125 to 33 microns), resulting in increased uniformity of red and 1,064 nm light delivery along the microneedle axis. For equivalent total energy delivery, microneedles with smaller diameters reduced carbonization in the adipose tissue experiments. However, thin fiberoptic microneedles designed to minimize tissue disruption and deliver diffuse therapeutic light are limited in their possible clinical application due to a lack of mechanical strength. Fiberoptic microneedles have been embedded in an elastomeric support medium (polydimethylsiloxane, PDMS) to mitigate this issue. The critical buckling force of silica microneedles with 55, 70, and 110 microns diameters and 3 mm length were measured with and without the elastomeric support in place (N = 5). Average increases in the mechanical strength for microneedles of 55, 70, and 110 microns diameters were measured to be 610%, 290%, and 33%, respectively. Aided by mechanical strengthening through an elastomeric support, microneedles with 55 microns diameter were able to repeatedly penetrate ex vivo porcine skin.",
+  "description_provenance": [
+    "Author Email: kosoglu@vt.edu",
+    "Advisor Email: mnr@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: drbob@vt.edu",
+    "Advisor Email: yong@vt.edu",
+    "Advisor Email: cgr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:51Z (GMT). No. of bitstreams: 1 Kosoglu_MA_D_2011.pdf: 28946730 bytes, checksum: 2c38fd88a26e9f996f003cb5fc744dca (MD5)   Previous issue date: 2011-10-19"
+  ],
+  "handle": "29427",
+  "identifier_other": "etd-11012011-054509",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11012011-054509/",
+  "identifier_uri": "http://hdl.handle.net/10919/29427",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kosoglu_MA_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "buckling",
+    "subdermal",
+    "MEMS",
+    "optical",
+    "hyperthermia",
+    "laser"
+  ],
+  "title": "Fiberoptic Microneedles for Transdermal Light Delivery",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Phillips, Rhonda D.",
+  "contributor_committeechair": "Watson, Layne T.",
+  "contributor_committeemember": [
+    "Wynne, Randolph H.",
+    "Sotelino, Elisa D.",
+    "Sandu, Adrian",
+    "Ribbens, Calvin J.",
+    "Cao, Yang"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:09:07Z",
+  "date_adate": "2009-04-23",
+  "date_available": "2014-03-14T20:09:07Z",
+  "date_issued": "2009-03-30",
+  "date_rdate": "2009-04-23",
+  "date_sdate": "2009-04-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This thesis presents a shared memory parallel version of the hybrid classification algorithm IGSCR (iterative guided spectral class rejection), a novel data reduction technique that can be used in conjunction with PIGSCR (parallel IGSCR), a noise removal method based on the maximum noise fraction (MNF), and a continuous version of IGSCR (CIGSCR) that outputs soft classifications.  All of the above are either classification algorithms or preprocessing algorithms necessary prior to the classification of high dimensional, noisy images. PIGSCR was developed to produce fast and portable code using Fortran 95, OpenMP, and the Hierarchical Data Format version 5 (HDF5) and accompanying data access library. The feature reduction method introduced in this thesis is based on the singular value decomposition (SVD). This feature reduction technique demonstrated that SVD-based feature reduction can lead to more accurate IGSCR classifications than PCA-based feature reduction. This thesis describes a new algorithm used to adaptively filter a remote sensing dataset based on signal-to-noise ratios (SNRs) once the maximum noise fraction (MNF) has been applied. The adaptive filtering scheme improves image quality as shown by estimated SNRs and classification accuracy improvements greater than 10%. The continuous iterative guided spectral class rejection (CIGSCR) classification method is based on the iterative guided spectral class rejection (IGSCR) classification method for remotely sensed data.  Both CIGSCR and IGSCR use semisupervised clustering to locate clusters that are associated with classes in a classification scheme.  This type of semisupervised classification method is particularly useful in remote sensing where datasets are large, training data are difficult to acquire, and clustering makes the identification of subclasses adequate for training purposes less difficult. Experimental results indicate that the soft classification output by CIGSCR is reasonably accurate (when compared to IGSCR), and the fundamental algorithmic changes in CIGSCR (from IGSCR) result in CIGSCR being less sensitive to input parameters that influence iterations.",
+  "description_provenance": [
+    "Author Email: rdphllps@vt.edu",
+    "Advisor Email: wynne@vt.edu",
+    "Advisor Email: sotelino@vt.edu",
+    "Advisor Email: sandu@cs.vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Advisor Email: ycao@cs.vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:07Z (GMT). No. of bitstreams: 1 RPthesis.pdf: 15660855 bytes, checksum: e8d810e0f04bed10919a8048589c6274 (MD5)   Previous issue date: 2009-03-30"
+  ],
+  "handle": "26701",
+  "identifier_other": "etd-04082009-164339",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04082009-164339/",
+  "identifier_uri": "http://hdl.handle.net/10919/26701",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RPthesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "classification",
+    "data reduction",
+    "parallel processing",
+    "remote sensing",
+    "high performance computing",
+    "cluster evaluation"
+  ],
+  "title": "A Probabilistic Classification Algorithm With Soft Classification Output",
+  "type": "Dissertation"
+}

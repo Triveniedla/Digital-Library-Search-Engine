@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Yu, Tungsheng",
+  "contributor_committeechair": "Ball, Joseph A.",
+  "contributor_committeemember": [
+    "Wheeler, Robert L.",
+    "Thomson, James E.",
+    "Russell, David L.",
+    "Kachroo, Pushkin"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:07:53Z",
+  "date_adate": "1998-01-23",
+  "date_available": "2014-03-14T20:07:53Z",
+  "date_issued": "1997-12-18",
+  "date_rdate": "1998-01-23",
+  "date_sdate": "1997-12-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The traffic signal affects the life of virtually everyone every day. The effectiveness of signal systems can reduce the incidence <BR>of delays, stops, fuel consumption, emission of pollutants, and accidents. The problems related to rapid growth in traffic <BR>congestion call for more effective traffic signalization using robust feedback control methodology. <P>Online traffic-responsive signalization is based on real-time traffic conditions and selects cycle, split, phase, and offset for the intersection according to detector data. A robust traffic feedback control begins with assembling traffic demands, traffic facility supply, and feedback <BR>control law for the existing traffic operating environment. This information serves the input to the traffic control process <BR>which in turn provides an output in terms of the desired performance under varying conditions. <P>Traffic signalization belongs to a class of hybrid systems since the differential equations model the continuous behavior of the traffic flow dynamics and finite-state machines model the discrete state changes of the controller. A complicating aspect, due to the state-space <BR>constraint that queue lengths are necessarily nonnegative, is that the continuous-time system dynamics is actually the <BR>projection of a smooth system of ordinary differential equations. This also leads to discontinuities in the boundary dynamics <BR>of a sort common in queueing problems. <BR>The project is concerned with the design of a feedback controller to minimize accumulated queue lengths in the presence of unknown inflow disturbances at an isolated intersection and a traffic network with some signalized intersections. A dynamical system has finite L<SUB>2</SUB>-gain if it is dissipative in some sense. Therefore, the H<SUB>infinity</SUB>-control problem turns to designing a controller such that the resulting closed loop system is dissipative, and correspondingly there exists a storage function. <P>The major contributions of this thesis include 1) to propose state space models for both isolated multi-phase intersections and a class of queueing networks; 2) to formulate H<SUB>infinity</SUB> problems for the control systems with persistent disturbances; 3) to present the projection dynamics aspects of the problem to account for the constraints on the state variables; 4) formally to study this problem as a hybrid system; 5) to derive traffic-actuated feedback control laws for the multi-phase intersections. Though we have mathematically presented a robust feedback solution for the traffic signalization, there still remains some distance before the physical implementation. A robust adaptive control is an interesting research area for the future traffic signalization.",
+  "description_provenance": [
+    "Author Email: tyu@dcn.att.com",
+    "Advisor Email: ball@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:53Z (GMT). No. of bitstreams: 6  etd.pdf: 728732 bytes, checksum: e4530ae92ce580c7c4af824207c60bc5 (MD5)  hardw.pdf: 50939 bytes, checksum: 19527510705e9c4b24e1f98fa112a956 (MD5)  y1.pdf: 5613 bytes, checksum: 32718bf15d8864ce564c13016443095c (MD5)  y2.pdf: 5176 bytes, checksum: 1ac6de5c6abb577b58bbb644e5f575e9 (MD5)  y3.pdf: 11300 bytes, checksum: 3172659c7c22a70db5db2e7ce8be3918 (MD5)  y4.pdf: 10675 bytes, checksum: 2e1a822b0d076c60f85afa6805a38f20 (MD5)    Previous issue date: 1997-12-18"
+  ],
+  "handle": "26334",
+  "identifier_other": "etd-02298-16746",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02298-16746/",
+  "identifier_uri": "http://hdl.handle.net/10919/26334",
+  "language_iso": "en_US",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "etd.pdf",
+    "hardw.pdf",
+    "y1.pdf",
+    "y2.pdf",
+    "y3.pdf",
+    "y4.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Robust control",
+    "Dissipative system",
+    "Traffic signalization",
+    "Intersection",
+    "Hybrid system",
+    "Hamilton-Jacobi inequality",
+    "Finite state machines",
+    "Queueing network"
+  ],
+  "title": "On-line Traffic Signalization using Robust Feedback Control",
+  "type": "Dissertation"
+}

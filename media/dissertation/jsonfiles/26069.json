@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Castles, Ricky Thomas",
+  "contributor_committeecochair": [
+    "Kachroo, Pushkin",
+    "Lohani, Vinod K."
+  ],
+  "contributor_committeemember": [
+    "Martin, Thomas L.",
+    "Abbott, A. Lynn",
+    "Griffin, Odis Hayden Jr."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:00Z",
+  "date_adate": "2010-02-24",
+  "date_available": "2014-03-14T20:07:00Z",
+  "date_issued": "2010-01-28",
+  "date_rdate": "2010-02-24",
+  "date_sdate": "2010-01-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The structure of education has changed dramatically in the last few decades. Despite major changes in how students are learning, there has not been as dramatic of a shift in how student learning is assessed.  Standard letter grades are still the paradigm for evaluating a studentâ  s mastery of course content and the grade point average is still one of the largest determining factors in judging a graduateâ  s academic aptitude.     This research presents a modern approach to modeling knowledge and evaluating students.  Based upon the model of a closed-loop feedback controller it considers education as a system with an instructor determining the set of knowledge he or she wishes to impart to students, the instruction method as a transfer function, and evaluation methods serving as sensors to provide feedback determining the subset of the information students have learned.  This method uses comprehensive concept maps to depict all of the concepts and relationships an educator intends to cover and student maps to depict the subset of knowledge that students have mastered.  Concept inventories are used as an assessment tool to determine, at the conceptual level, what students have learned.  Each question in the concept inventory is coupled with one or more components of a comprehensive concept map and based upon the answers students give to concept inventory questions those components may or may not appear in a studentâ  s knowledge  map.  The level of knowledge a student demonstrates of each concept and relationship is presented in his or her student map using a color scheme tied to the levels of learning in Bloomâ  s taxonomy.   Topological principles are used to establish metrics to quantify the distance between two studentsâ   knowledge maps and the distance between a studentâ  s knowledge map and the corresponding comprehensive concept map.  A method is also developed for forming aggregate maps representative of the knowledge of a group of students.  Aggregate maps can be formed for entire classes of students or based upon various demographics including race and gender.     XML schemas have been used throughout this research to encapsulate the information in both comprehensive maps and student maps and to store correlations between concept inventory questions and corresponding comprehensive map components.  Three software packages have been developed to store concept inventories into an XML Schema, to process student responses to concept inventory questions and generate student maps as a result, and to generate aggregate maps.  The methods presented herein have been applied to two learning units that are part of two freshman engineering courses at Virginia Tech.  Example student maps and aggregate maps are included for these course units.",
+  "description_provenance": [
+    "Author Email: rcastles@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: vlohani@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: griffin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:00Z (GMT). No. of bitstreams: 1 Castles_RT_D_2010.pdf: 45655506 bytes, checksum: 014aaa310c394bd88227cd3f9e9c3b1b (MD5)   Previous issue date: 2010-01-28"
+  ],
+  "handle": "26069",
+  "identifier_other": "etd-01292010-172432",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01292010-172432/",
+  "identifier_uri": "http://hdl.handle.net/10919/26069",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Castles_RT_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "academic evaluation",
+    "physiological  monitoring",
+    "concept inventory",
+    "semantic web",
+    "knowledge maps",
+    "Knowledge representation"
+  ],
+  "title": "A Knowledge Map-Centric Feedback-Based Approach to Information Modeling and Academic  Assessment",
+  "type": "Dissertation"
+}

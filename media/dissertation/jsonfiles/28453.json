@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Carter, Robert Hansbrough",
+  "contributor_committeechair": "Reifsnider, Kenneth L.",
+  "contributor_committeemember": [
+    "Curtin, Willliam A. Jr.",
+    "Case, Scott W.",
+    "Lesko, John J.",
+    "Hyer, Michael W.",
+    "Kampe, Stephen L."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:14:32Z",
+  "date_adate": "2001-08-01",
+  "date_available": "2014-03-14T20:14:32Z",
+  "date_issued": "2001-07-16",
+  "date_rdate": "2002-08-01",
+  "date_sdate": "2001-07-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Application of composite materials to structures has presented the need for engineering analysis and modeling to understand the failure mechanisms.  Unfortunately, composite materials, especially in a tubular geometry, present a situation where it is difficult to generate simple stress states that allow for the characterization of the ply-level properties.  The present work focuses on calculating the mechanical characteristics, both on a global and local level, for composite laminate tubes.  Global responses to axisymmetric test conditions (axial tension, torsion, and internal pressure) are measured on sections of the material.  New analysis techniques are developed to use the global responses to calculate the ply level properties for tubular composite structures.  Error analyses are performed to illustrate the sensitivity of the nonlinear regression methods to error in the experimental data.  Ideal test matrices are proposed to provide the best data sets for improved accuracy of the property estimates. With these values, the stress and strain states can be calculated through the thickness of the material, enabling the application of failure criteria, and the calculation of failure envelopes.",
+  "description_provenance": [
+    "Author Email: rhcarter@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: kampe@vt.edu",
+    "Advisor Email: mrl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:32Z (GMT). No. of bitstreams: 1 RobertCarterDissertation.PDF: 1591575 bytes, checksum: c0dc66c2bcbaf01096c6c84333452d76 (MD5)   Previous issue date: 2001-07-16"
+  ],
+  "handle": "28453",
+  "identifier_other": "etd-07302001-152405",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07302001-152405/",
+  "identifier_uri": "http://hdl.handle.net/10919/28453",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "RobertCarterDissertation.PDF",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mechanical properties",
+    "tubes",
+    "nonlinear regression",
+    "internal pressure",
+    "inversion"
+  ],
+  "title": "Characterizing the Mechanical Properties of Composite Materials Using Tubular Samples",
+  "type": "Dissertation"
+}

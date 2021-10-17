@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Liang, Li",
+  "contributor_committeechair": "Anderson-Cook, Christine M.",
+  "contributor_committeecochair": "Robinson, Timothy J.",
+  "contributor_committeemember": [
+    "Smith, Eric P.",
+    "Vining, G. Geoffrey",
+    "Ye, Keying"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:09:20Z",
+  "date_adate": "2005-04-14",
+  "date_available": "2014-03-14T20:09:20Z",
+  "date_issued": "2005-03-28",
+  "date_rdate": "2010-10-13",
+  "date_sdate": "2005-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In many industrial experiments, completely randomized designs (CRDs) are impractical due to restrictions on randomization, or the existence of one or more hard-to-change factors. Under these situations, split-plot experiments are more realistic. The two separate randomizations in split-plot experiments lead to different error structure from in CRDs, and hence this affects not only response modeling but also the choice of design. In this dissertation, two graphical tools, three-dimensional variance dispersion graphs (3-D VDGs) and fractions of design space (FDS) plots are adapted for split-plot designs (SPDs). They are used for examining and comparing different variations of central composite designs (CCDs) with standard, V- and G-optimal factorial levels. The graphical tools are shown to be informative for evaluating and developing strategies for improving the prediction performance of SPDs. The overall cost of a SPD involves two types of experiment units, and often each individual whole plot is more expensive than individual subplot and measurement. Therefore, considering only the total number of observations is likely not the best way to reflect the cost of split-plot experiments. In this dissertation, cost formulation involving the weighted sum of the number of whole plots and the total number of observations is discussed and the three cost adjusted optimality criteria are proposed. The effects of considering different cost scenarios on the choice of design are shown in two examples. Often in practice it is difficult for the experimenter to select only one aspect to find the optimal design. A realistic strategy is to select a design with good balance for multiple estimation and prediction criteria. Variations of the CCDs with the best cost-adjusted performance for estimation and prediction are studied for the combination of D-, G- and V-optimality criteria and each individual criterion.",
+  "description_provenance": [
+    "Author Email: lliang@vt.edu",
+    "Advisor Email: TJRobin@uwyo.edu",
+    "Advisor Email: c-and-cook@lanl.gov",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:20Z (GMT). No. of bitstreams: 1 dissertation.pdf: 2615933 bytes, checksum: 1c8d6228eb40d8fbfb4ed67cb1e1eb22 (MD5)   Previous issue date: 2005-03-28"
+  ],
+  "handle": "26768",
+  "identifier_other": "etd-04112005-165835",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112005-165835/",
+  "identifier_uri": "http://hdl.handle.net/10919/26768",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "central composite structure",
+    "optimal factorial levels",
+    "multiple criteria",
+    "cost penalized evaluation",
+    "fraction of design space",
+    "3-dimensional variance dispersion graph"
+  ],
+  "title": "Graphical Tools, Incorporating Cost and Optimizing Central Composite Designs for Split-Plot Response Surface Methodology Experiments",
+  "type": "Dissertation"
+}

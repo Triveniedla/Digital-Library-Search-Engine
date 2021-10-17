@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Siehler, Jacob A.",
+  "contributor_committeechair": "Quinn, Frank S.",
+  "contributor_committeemember": [
+    "Linnell, Peter A.",
+    "Shimozono, Mark M.",
+    "Green, Edward L.",
+    "Haskell, Peter E."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:09:56Z",
+  "date_adate": "2003-04-23",
+  "date_available": "2014-03-14T20:09:56Z",
+  "date_issued": "2003-04-18",
+  "date_rdate": "2004-04-23",
+  "date_sdate": "2003-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We consider the possibility of semisimple tensor categories whose fusion rule includes exactly one noninvertible simple object, so-called near-group categories. Data describing the fusion rule is reduced to an abelian group G and a nonnegative integer k.  Conditions are given, in terms of G and k, for the existence or nonexistence of coherent associative structures for such fusion rules (ie, solutions to MacLane's pentagon equation).  An explicit construction of matrix solutions to the pentagon equations is given for the cases where we establish existence, and classification of the distinct solutions is carried out partially.  Many of these associative structures also support (braided) commutative and tortile structures and we indicate when the additional structures are possible. Small examples are presented in detail suitable for use in computational applications.",
+  "description_provenance": [
+    "Author Email: jsiehler@math.vt.edu",
+    "Advisor Email: linnell@math.vt.edu",
+    "Advisor Email: mshimo@math.vt.edu",
+    "Advisor Email: quinn@math.vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Advisor Email: haskell@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:56Z (GMT). No. of bitstreams: 1 dissert.pdf: 1276950 bytes, checksum: e43501e62d648acb4f2a52e47c8750cc (MD5)   Previous issue date: 2003-04-18"
+  ],
+  "handle": "26962",
+  "identifier_other": "etd-04182003-143702",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182003-143702/",
+  "identifier_uri": "http://hdl.handle.net/10919/26962",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissert.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "monoidal categories",
+    "braided categories",
+    "quantum field theory"
+  ],
+  "title": "Near-Group Categories",
+  "type": "Dissertation"
+}

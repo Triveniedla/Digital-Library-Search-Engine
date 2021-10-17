@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Saraiya, Purviben Bharatkumar",
+  "contributor_committeechair": "North, Christopher L.",
+  "contributor_committeemember": [
+    "Shaffer, Clifford A.",
+    "Murali, T. M.",
+    "Duca, Karen",
+    "Tatar, Deborah Gail"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:48Z",
+  "date_adate": "2006-12-11",
+  "date_available": "2014-03-14T20:13:48Z",
+  "date_issued": "2006-07-06",
+  "date_rdate": "2006-12-11",
+  "date_sdate": "2006-07-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Pathway diagrams, similar to the graph diagrams using a node-link representation, are used by biologists to represent complex interactions at the molecular level in living cells. The recent shift towards data-intensive bioinformatics and systems-level science has created a strong need for advanced pathway visualization tools that support exploratory data analysis. User studies suggest that an important requirement for biologists is the need to associate microarray data to pathway diagrams.  </p><p>\tA design space for visualization tools that allow analysis of microarray data in pathway context was identified for a systematic evaluation of the visualization alternatives. The design space is divided into two dimensions. Dimension 1 is based on the method used to overlay data attributes onto pathway nodes. The three possible approaches are: overlay of data on pathway nodes one data attribute at a time by manipulating a visual property (e.g. color) of the node, along with sliders or some such mechanism to animate the pathway for other timepoints. In another approach data from all the attributes in data can be overlaid simultaneously by embedding small charts (e.g., line charts or heatmap) into pathway nodes. The third approach uses miniature version of the pathways-as-glyph view for each attribute in the data. Dimension 2 decides if additional view besides pathway diagrams were used. These pathway visualizations are often linked to other type of visualization methods (e.g., parallel co-ordinates) using the concept of brushing and linking.  </p><p>\tThe visualization alternatives from pathway + microarray data design space were evaluated by conducting two independent user studies. Both the studies used timeseries datasets. The first study used visualization alternatives from both dimension 1 and dimension 2. The results suggest that the method to overlay multidimensional data on pathway nodes has a non trivial influence on accuracy of participants' responses, whereas the number of visualizations affect participants' performance time for pre-selected tasks. The second study used visualization alternatives from dimension 1 that focuses on method used to overlay data attributes on pathway nodes. The study suggests that participants using pathway visualization that display data one attribute at a time on nodes have more controlled performance for all type of tasks as compared to the participants using other alternatives. Participants using pathway visualization that display data in node-as-glyphs view have better performance for tasks that require analysis for a single node, and identifying outlier nodes. Whereas, pathway visualizations with pathways-as-glyph view provide better performance on tasks that require analysis of overall changes in the pathway, and identifying interesting timepoints in the data. </p><p>\tAn insight-based method was designed to evaluate visualization tools for real world biologists' data analysis scenarios. The insight-based method uses different quantifiable characteristics of an \"insight\" that can be measured uniformly across participants. These characteristics were identified based on observations of the participants analyzing microarray data in a pilot study. The insight-based method provides an alternative to traditional task-based methods. This is especially helpful for evaluating visualization tools on large and complicated datasets where designing tasks can be difficult. Though, the insight-based method was developed to empirically evaluate visualization tools for short term studies, the method can also be used in real world longitudinal studies that analyzes the usage of visualization tools by the intended end-users.</p>",
+  "description_provenance": [
+    "Author Email: pbsaraiya@yahoo.com",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: shaffer@shaffer.cs.vt.edu",
+    "Advisor Email: murali@cs.vt.edu",
+    "Advisor Email: karen.duca@gmail.com",
+    "Advisor Email: tatar@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:48Z (GMT). No. of bitstreams: 1 dissertation.pdf: 3381083 bytes, checksum: cfd9063e53fed4c5578a3e1943dea973 (MD5)   Previous issue date: 2006-07-06"
+  ],
+  "handle": "28232",
+  "identifier_other": "etd-07092006-170904",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07092006-170904/",
+  "identifier_uri": "http://hdl.handle.net/10919/28232",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Pathways + Microarray Visualization",
+    "Empirical Studies",
+    "Insight-Based method"
+  ],
+  "title": "Insight-Based Studies for Pathway and Microarray Visualization Tools",
+  "type": "Dissertation"
+}

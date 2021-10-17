@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Mitchell III, Robert Raymond",
+  "contributor_committeechair": "Chen, Ing Ray",
+  "contributor_committeemember": [
+    "Eltoweissy, Mohamed Youssef",
+    "Lu, Chang Tien",
+    "Lou, Wenjing",
+    "Midkiff, Scott F"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-04-24T08:00:20Z",
+  "date_available": "2013-04-24T08:00:20Z",
+  "date_issued": "2013-04-23",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In this dissertation research we aim to design and validate intrusion detection system (IDS) protocols for a cyber physical system (CPS) comprising sensors, actuators, control units, and physical objects for controlling and protecting physical infrastructures.<br />The design part includes host IDS, system IDS and IDS response designs. The validation part includes a novel model-based analysis methodology with simulation validation. Our objective is to maximize the CPS reliability or lifetime in the presence of malicious nodes performing attacks which can cause security failures. Our host IDS design results in a lightweight, accurate, autonomous and adaptive protocol that runs on every node in the CPS to detect misbehavior of neighbor nodes based on state-based behavior specifications. Our system IDS design results in a robust and resilient protocol that can cope with malicious, erroneous, partly trusted, uncertain and incomplete information in a CPS. Our IDS response design results in a highly adaptive and dynamic control protocol that can adjust detection strength in response to environment changes in attacker strength and behavior. The end result is an energy-aware and adaptive IDS that can maximize the CPS lifetime in the presence of malicious attacks, as well as malicious, erroneous, partly trusted, uncertain and incomplete information.<br />We develop a probability model based on stochastic Petri nets to describe the behavior of a CPS incorporating our proposed intrusion detection and response designs, subject to attacks by malicious nodes exhibiting a range of attacker behaviors, including reckless, random, insidious and opportunistic attacker models. We identify optimal intrusion detection settings under which the CPS reliability or lifetime is maximized for each attacker model. Adaptive control for maximizing IDS performance is achieved by dynamically adjusting detection and response strength in response to attacker strength and behavior detected at runtime. We conduct extensive analysis of our designs with four case studies, namely, a mobile group CPS, a medical CPS, a smart grid CPS and an unmanned aircraft CPS. The results show that our adaptive intrusion and response designs operating at optimizing conditions significantly outperform existing anomaly-based IDS techniques for CPSs.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-24T08:00:20Z (GMT). No. of bitstreams: 2 Mitchell_RR_D_2013.pdf: 2909934 bytes, checksum: d6bfb55e700fdec05fe5aae7e026efca (MD5) Mitchell_RR_D_2013_support_1.pdf: 1067922 bytes, checksum: be2dd0150ad18e97639a7f004721eb1e (MD5)   Previous issue date: 2013-04-23",
+  "format_medium": "ETD",
+  "handle": "19338",
+  "identifier_other": "vt_gsexam:726",
+  "identifier_uri": "http://hdl.handle.net/10919/19338",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Intrusion Detection Systems",
+    "Cyber Physical Systems"
+  ],
+  "title": "Design and Analysis of Intrusion Detection Protocols in Cyber Physical Systems",
+  "type": "Dissertation"
+}

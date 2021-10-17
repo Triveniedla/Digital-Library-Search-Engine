@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Bahrak, Behnam",
+  "contributor_committeechair": "Park, Jung-Min",
+  "contributor_committeemember": [
+    "Vullikanti, Anil Kumar S",
+    "Patterson, Cameron D",
+    "Dietrich, Carl B",
+    "Shukla, Sandeep K"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-12-18T09:00:11Z",
+  "date_available": "2013-12-18T09:00:11Z",
+  "date_issued": "2013-12-17",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Cognitive radios (CRs) are devices that are capable of sensing the spectrum and using its free portions in an opportunistic manner. The free spectrum portions are referred to as white spaces or spectrum holes. It is widely believed that CRs are one of the key enabling technologies for realizing a new regulatory spectrum management paradigm, viz. dynamic spectrum access (DSA). CRs often employ software-defined radio (SDR) platforms that are capable of executing artificial intelligence (AI) algorithms to reconfigure their transmission/reception (TX/RX) parameters to communicate efficiently while avoiding interference with licensed (a.k.a. primary or incumbent) users and unlicensed (a.k.a. secondary or cognitive) users.  When different stakeholders share a common resource, such as the case in spectrum sharing, security, privacy, and enforcement become critical considerations that affect the welfare of all stakeholders. Recent advances in radio spectrum access technologies, such as CRs, have made spectrum sharing a viable option for significantly improving spectrum utilization efficiency. However, those technologies have also contributed to exacerbating the difficult problems of security, privacy and enforcement. In this dissertation, we review some of the critical security and privacy threats that impact spectrum sharing. We also discuss ex ante (preventive) approaches which mitigate the security and privacy threats and help spectrum enforcement.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-18T09:00:11Z (GMT). No. of bitstreams: 1 Bahrak_B_D_2013.pdf: 1837895 bytes, checksum: b3900c56299d5563ffb3ea936d615f0f (MD5)   Previous issue date: 2013-12-17",
+  "format_medium": "ETD",
+  "handle": "24720",
+  "identifier_other": "vt_gsexam:1868",
+  "identifier_uri": "http://hdl.handle.net/10919/24720",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Cognitive Radio",
+    "Dynamic Spectrum Access",
+    "Spectrum Enforcement",
+    "Policy Reasoning",
+    "Spectrum Learning",
+    "Geolocation Databases",
+    "Privacy-preserving Techniques"
+  ],
+  "title": "Ex Ante Approaches for Security, Privacy, and Enforcement in Spectrum Sharing",
+  "type": "Dissertation"
+}

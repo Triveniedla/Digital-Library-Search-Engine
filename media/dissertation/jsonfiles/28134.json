@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Gao, Rui",
+  "contributor_committeechair": "Kirk, R. Gordon",
+  "contributor_committeemember": [
+    "Vick, Brian L.",
+    "West, Robert L. Jr.",
+    "Kraige, Luther Glenn",
+    "Kasarda, Mary E. F."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:32Z",
+  "date_adate": "2012-08-02",
+  "date_available": "2014-03-14T20:13:32Z",
+  "date_issued": "2012-06-14",
+  "date_rdate": "2012-08-02",
+  "date_sdate": "2012-06-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The labyrinth seal is widely used in turbo machines to reduce leakage flow. The stability of the rotor is influenced by the labyrinth seal because of the driving forces generated in the seal. The working fluid usually has a circumferential velocity component before entering the seal; the ratio of circumferential velocity and shaft synchronous surface velocity is defined as pre-swirl rate. It has been observed that pre-swirl rate is an important factor affecting driving forces in the labyrinth seal thus affecting the stability of the rotor. Besides the pre-swirl, the eccentricity, the clearance, and the configuration of tooth locations are all factors affecting the rotordynamic properties of the labyrinth seal. So it is of interest to investigate the exact relationships between those factors and the sealâ  s rotordynamic properties.  In this research, three types of labyrinth seals have been modeled: the straight eye seal, the stepped eye seal, and the balance drum seal. For the straight eye seal, a series of models were built to study the influence of eccentricity and clearance. The other two seals each have only one model. All models were built with Solid Works and meshed with ANSYS-ICEM. Flows in those models were simulated by numerically solving the Reynolds-Averaged Navier-Stokes (RANS) equations in the ANSYS-CFX and then rotordynamic coefficients for each seal were calculated based on the numerical results.  It had previously been very difficult to generate a pre-swirl rate higher than 60% in a numerical simulation. So three ways to create pre-swirl in ANSYS-CFX were studied and finally the method by specifying the inlet velocity ratio was employed. Numerical methods used in this research were introduced including the frame transfer, the k-Îµ turbulence model with curvature correction, and the scalable wall function. To obtain the optimal mesh and minimize the discretization error, a systematical grid study was conducted including grid independence studies and discretization error estimations. Some of the results were compared with previous bulk-flow or experimental results to validate the numerical model and method.  The fluid field in the labyrinth seal must be analyzed before conducting rotordynamic analysis. The predicted pressure distributions and leakages were compared with bulk-flow results. A second small vortex at the downstream edge of each tooth was found in the straight eye seal. This has never been reported before and the discovery of this small vortex will help to improve seal designs in the future. The detailed flows in discharged region and in chambers were also discussed. Radial and tangential forces on the rotor were solved based on the fluid field results. It is shown that the traditional first-order rotordynamic model works well for low pre-swirl cases but does not accurately reflect the characteristics for high pre-swirl cases. For example compressor eye seals usually have pre-swirl rates bigger than 70% and the second order model is required. Thus a second-order model including inertia terms was built and applied to the rotordynamic analysis in this research. The influence of pre-swirl, eccentricity and clearance were studied using the straight eye seal model. The rotordynamic characteristics of the stepped eye seal and the balance drum seal were studied considering high pre-swirl rates. Some relationships between influencing factors and the four rotordynamic coefficients were concluded. The results also showed that for all the three seals higher pre-swirl leads to higher cross-coupled stiffness which is one of the main factors causing rotor instability.  The rotor stability analysis was conducted to study the influence of drum balance seal on the stability. The rotor was designed with typical dimensions and natural frequencies for a centrifugal compressor rotor. The parameters for bearing and aerodynamic force were also set according to general case in compressors to minimize the effects from them. The result shows that the high pre-swirl rate in balance drum seal leads to rotor instability, which confirmed the significant effect of pre-swirl on the seal and the rotor system.",
+  "description_provenance": [
+    "Author Email: ruigao08@gmail.com",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: westrl@vt.edu",
+    "Advisor Email: kraige@vt.edu",
+    "Advisor Email: gokirk@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:32Z (GMT). No. of bitstreams: 1 Gao_R_D_2012.pdf: 4114069 bytes, checksum: 691874a586c181dccce17363c8509892 (MD5)   Previous issue date: 2012-06-14"
+  ],
+  "handle": "28134",
+  "identifier_other": "etd-06262012-095146",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06262012-095146/",
+  "identifier_uri": "http://hdl.handle.net/10919/28134",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Gao_R_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CFD",
+    "rotordynamics",
+    "pre-swirl",
+    "labyrinth seal"
+  ],
+  "title": "Computational Fluid Dynamic and Rotordynamic Study on the Labyrinth Seal",
+  "type": "Dissertation"
+}

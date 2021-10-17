@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Ammermann, Peter A.",
+  "contributor_committeechair": "Patterson, Douglas M.",
+  "contributor_committeemember": [
+    "Ye, Keying",
+    "McGuirk, Anya M.",
+    "Billingsley, Randall S.",
+    "Chance, Donald M."
+  ],
+  "contributor_department": "Finance",
+  "date_accessioned": "2014-03-14T20:15:45Z",
+  "date_adate": "1999-09-02",
+  "date_available": "2014-03-14T20:15:45Z",
+  "date_issued": "1999-07-16",
+  "date_rdate": "2000-09-02",
+  "date_sdate": "1999-08-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Numerous studies have documented the existence of nonlinearity within various financial time series.  But how important of a finding is this?  This dissertation examines this issue from a number of perspectives.  First, is the nonlinearity that has been found a statistical anomaly that is isolated to a few of the more widely known financial time series or is nonlinearity a statistical regularity inherent in such series?  Second, even if nonlinearity is pervasive, does this finding have any practical relevance for finance practitioners or academics?  Using the relatively financially isolated but nonetheless well-traded Taiwan Stock Exchange as a case study, it is found that virtually all of the stocks trading on this exchange exhibit nonlinearity.  The pervasiveness of nonlinearity within this market, combined with earlier results from other markets, suggests that nonlinearity is an inherent aspect of financial time series.  Furthermore, closer examination of the time-paths of various measures of this nonlinearity via both windowed testing and recursive testing and parameter estimation reveals an additional complication, the possibility of nonstationarity.  The serial dependency structures, especially for the nonlinear dependencies, do not appear to be constant, but instead appear to exhibit a number of brief episodes of extremely strong dependencies, followed by longer stretches of relatively quiet behavior.  On average, though, these nonlinearities appear with sufficient strength to be significant for the full sample.   Continuing on to examine the relevance of such nonlinearities for empirical work in finance, a variety of conditionally heteroskedastic models were fit to the returns for a subsample Taiwanese stocks, the Taiwanese stock index, and stock indices for other stock markets, including New York, London, Tokyo, Hong Kong, and Singapore.  In a majority of cases, such models appear to be successful at filtering out the extant nonlinearity from these series of returns; however, a variety of indicators suggest that these models are not statistically well-specified for these returns, calling into question the inferences obtained from these models.  Furthermore, a comparison of the various conditionally heteroskedastic models with each other and with a dynamic linear regression model reveals that, for many of the data series, the inferences obtained from these models regarding the day-of-the-week effect and the extant autocorrelation within the data varied from model to model.  This finding suggests the importance of adequately accounting for nonlinear serial dependencies (and of ensuring data stationarity) when studying financial time series, even when other empirical aspects of the data are the focus of attention.",
+  "description_provenance": [
+    "Author Email: pammermann@yahoo.com",
+    "Advisor Email: mcguirk@vt.edu",
+    "Advisor Email: randall@vt.edu",
+    "Advisor Email: dmc@vt.edu",
+    "Advisor Email: amex@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:45Z (GMT). No. of bitstreams: 8 Chap8.pdf: 80278 bytes, checksum: bf5a037eea3ef84a7fc0f58a3480ee21 (MD5) Chap7.pdf: 269908 bytes, checksum: a1cef8d939a4c8ae0ff5164314ca9c4b (MD5) Chap6.pdf: 418025 bytes, checksum: 962d978a2fa85bb2e9ca64eaa1b0d880 (MD5) chap5.pdf: 1144089 bytes, checksum: 1ce1f87db360154a773673eb7df5b037 (MD5) Chap4.pdf: 519164 bytes, checksum: 0234bd416e0e36df0b91475f0cc45943 (MD5) Chap2.pdf: 153839 bytes, checksum: 24769a9a7c6ba841a6870c2c5a5f6b58 (MD5) Chap3.pdf: 148512 bytes, checksum: 1670ba1372ac633c68a7007b4121249f (MD5) Chap1.pdf: 120921 bytes, checksum: 5670b23f130f37b71e4cc5c609f53abf (MD5)   Previous issue date: 1999-07-16"
+  ],
+  "handle": "28816",
+  "identifier_other": "etd-082799-103026",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-082799-103026/",
+  "identifier_uri": "http://hdl.handle.net/10919/28816",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chap8.pdf",
+    "Chap7.pdf",
+    "Chap6.pdf",
+    "chap5.pdf",
+    "Chap4.pdf",
+    "Chap2.pdf",
+    "Chap3.pdf",
+    "Chap1.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Nonlinearity",
+    "Taiwan Stock Exchange",
+    "STAR",
+    "GARCH",
+    "Bispectrum"
+  ],
+  "title": "Nonlinearity and Overseas Capital Markets:  Evidence from the Taiwan Stock Exchange",
+  "type": "Dissertation"
+}

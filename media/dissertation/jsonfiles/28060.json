@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Ma, Ruolong",
+  "contributor_committeechair": "Devenport, William J.",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Thole, Karen A.",
+    "Burdisso, Ricardo A.",
+    "Schetz, Joseph A.",
+    "Simpson, Roger L."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:20Z",
+  "date_adate": "2003-07-22",
+  "date_available": "2014-03-14T20:13:20Z",
+  "date_issued": "2003-04-07",
+  "date_rdate": "2003-07-22",
+  "date_sdate": "2003-06-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The unsteady behavior of a tip leakage flow downstream of a simulated axial compressor rotor has been studied. The Virginia Tech low speed linear cascade wind tunnel was adapted to model the unsteady tip leakage flow produced by a rotor operating in the vortical wakes of a set of stator vanes. The cascade, consisting of 8 GE rotor B blades, has adjustable tip gap, inlet angle of 65.1 degrees, turning angle of 11.8 degrees and solidity of 1.076. The cascade Reynolds number, based on blade chord, was 393,000. A moving end wall was used to simulate the relative motion between rotor and casing, and vortex generators attached to the moving end wall were used to produce an idealized periodic unsteady vortical inflow similar to that shed by the junction of a row of inlet guide vanes.   Measurements of the vortical inflow to the cascade produced by the generators and of the mean blade loading at the mid span are presented. The periodic and aperiodic behavior of the tip leakage flow downstream of the cascade, produced by this vortical disturbance, is also presented using phase and time averaged 3-component turbulence and pressure fluctuation measurements. These measurements are made for tip gap from 0.83% to 3.3% chord and streamwise locations from 0.772% to 1.117% blade spacing axially downstream of the cascade.   The phase averaged inflow measurements reveal that the inflow produced by the vortex generators consists of a pair asymmetric counter-rotating vortices embedded in a thin (4.6% chord) endwall boundary layer. The vortices extend some 7.4% chord from the end wall. Their strength is about two orders smaller than the typical circulation of the tip leakage vortices produced by the cascade.   Phase averaged single point three component hot-wire measurements downstream of the cascade reveal that the vortical inflow is, however, capable of producing significant large scale fluctuations in the size, strength, structure and position of the tip leakage vortex. These effects increase in magnitude with increase of tip gap. For small tip gaps these effects appear to be due to simple superposition between the inflow vortices and the tip leakage vortex. However for larger tip gaps these effects appear primarily a consequence of the inflow vortices interfering with the shedding of circulation from the blade tip. The fact that the circulation fluctuation is consistent with the inviscid unsteady loading prediction suggests that the inviscid response may be a major mechanism for generating the tip leakage unsteadiness.  Although there is large periodic fluctuation in the tip leakage flow disturbed by the inflow, there is a larger aperiodic component. Two point correlation measurements and linear stochastic estimation are used to reveal the structure of this aperiodic part for a tip gap of 3.3% chord. The aperiodic fluctuation, containing most of the turbulence energy, is found appearing to be organized structures in large scale, and making the estimated instantaneous velocity field significantly different from the phase averaged periodic velocity field.   Phase averaged pressure fluctuation measurements made using a microphone in the tip leakage vortex downstream of the cascade reveal that there are significant periodic fluctuating pressure waves and intense mean square fluctuation of the aperiodic fluctuating pressure. They are consistent with the measured periodic flow and aperiodic flow field respectively. These microphone measurements are validated using fluctuating pressure gradient estimates determined from the hot-wire measurements.",
+  "description_provenance": [
+    "Author Email: ruma@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: thole@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: simpson@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:20Z (GMT). No. of bitstreams: 5 chapt4mov.tar: 211947520 bytes, checksum: 69086d45467ad110de1c30bb2696034e (MD5) readme.txt: 880 bytes, checksum: 00bb5350dcf470e5145e2af95ceb440b (MD5) RM_Dissertation.pdf: 19677446 bytes, checksum: c526a116b933c860589752604f28df47 (MD5) chapt6mov.tar: 35921920 bytes, checksum: 5ddc7cb815c2bd9108bf4ee0fff18f9e (MD5) chapt5mov.tar: 184924160 bytes, checksum: 93588151c3d0b9235e62ce35dcd8f0fc (MD5)   Previous issue date: 2003-04-07"
+  ],
+  "handle": "28060",
+  "identifier_other": "etd-06172003-122153",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06172003-122153/",
+  "identifier_uri": "http://hdl.handle.net/10919/28060",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chapt4mov.tar",
+    "readme.txt",
+    "RM_Dissertation.pdf",
+    "chapt6mov.tar",
+    "chapt5mov.tar"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cascade",
+    "Unsteady Vortical Flow",
+    "Turbulence Interaction",
+    "Compressor",
+    "Tip Leakage Vortex",
+    "Hot-Wire",
+    "Blade-Wake Interaction"
+  ],
+  "title": "Unsteady Turbulence Interaction in a Tip Leakage Flow Downstream of a Simulated Axial Compressor Rotor",
+  "type": "Dissertation"
+}

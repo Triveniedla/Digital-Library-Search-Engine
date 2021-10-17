@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Short, Nathaniel Jackson",
+  "contributor_committeechair": "Abbott, A. Lynn",
+  "contributor_committeemember": [
+    "Xuan, Jianhua Jason",
+    "Shukla, Sandeep K.",
+    "Hsiao, Michael S.",
+    "Fox, Edward Alan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:28Z",
+  "date_adate": "2012-10-24",
+  "date_available": "2014-03-14T20:16:28Z",
+  "date_issued": "2012-09-05",
+  "date_rdate": "2012-10-24",
+  "date_sdate": "2012-09-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Identification of an individual from discriminating features of the friction ridge surface is one of the oldest and most commonly used biometric techniques.  Methods for identification span from tedious, although highly accurate, manual examination to much faster Automated Fingerprint Identification Systems (AFIS).  While automatic fingerprint recognition has grown in popularity due to the speed and accuracy of matching minutia features of good quality plain-to-rolled prints, the performance is less than impressive when matching partial fingerprints.  For some applications, including forensic analysis where partial prints come in the form of latent prints, it is not always possible to obtain high-quality image samples.  Latent prints, which are lifted from a surface, are typically of low quality and low fingerprint surface area.  As a result, the overlapping region in which to find corresponding features in the genuine matching ten-print is reduced; this in turn reduces the identification performance.  Image quality also can vary substantially during image capture in applications with a high throughput of subjects having limited training, such as in border control.  The rushed image capture leads to an overall acceptable sample being obtained where local image region quality may be low. We propose an improvement to the reliability of features detected in exemplar prints in order to reduce the likelihood of an unreliable overlapping region corresponding with a genuine partial print.  A novel approach is proposed for detecting minutiae in low quality image regions.  The approach has demonstrated an increase in match performance for a set of fingerprints from a well-known database.  While the method is effective at improving match performance for all of the fingerprint images in the database, a more significant improvement is observed for a subset of low quality images.   In addition, a novel method for fingerprint analysis using a sequence of fingerprint images is proposed.  The approach uses the sequence of images to extract and track minutiae for temporal analysis during a single impression, reducing the variation in image quality during image capture.  Instead of choosing a single acceptable image from the sequence based on a global measure, we examine the change in quality on a local level and stitch blocks from multiple images based on the optimal local quality measures.",
+  "description_provenance": [
+    "Author Email: nshort21@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: xuan@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:28Z (GMT). No. of bitstreams: 9 Short_NJ_D_2012.pdf: 6783745 bytes, checksum: b5bd456d49ce9ace4c193f640776bd26 (MD5) Short_NJ_D_2012_F1.mp4: 1493393 bytes, checksum: 47798605cd1718d4dc32c705e450bf28 (MD5) Short_NJ_D_2012_F2.mp4: 1082816 bytes, checksum: ca55fe86de418e0630baf897b34e7892 (MD5) Short_NJ_D_2012_F3.mp4: 3194539 bytes, checksum: 3863d297c06e319e89b5614c0f90997a (MD5) Short_NJ_D_2012_F4.mp4: 1011113 bytes, checksum: bdaaf924afe14097f456a65eb0db72c6 (MD5) Short_NJ_D_2012_F5.mp4: 1003866 bytes, checksum: 51c89deead74aec1c3e3c6a395e30a58 (MD5) Short_NJ_D_2012_F6.mp4: 1681092 bytes, checksum: 41396729c4d4396a350ccaed077a28ad (MD5) Short_NJ_D_2012_F7.mp4: 408819 bytes, checksum: 62db81fd14f88d2f9b4e689921cba637 (MD5) Short_NJ_D_2012_Copyright.pdf: 985500 bytes, checksum: ed5583f695e0391b33bdd0c09173e49d (MD5)   Previous issue date: 2012-09-05"
+  ],
+  "handle": "29033",
+  "identifier_other": "etd-09192012-221225",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09192012-221225/",
+  "identifier_uri": "http://hdl.handle.net/10919/29033",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Short_NJ_D_2012.pdf",
+    "Short_NJ_D_2012_F1.mp4",
+    "Short_NJ_D_2012_F2.mp4",
+    "Short_NJ_D_2012_F3.mp4",
+    "Short_NJ_D_2012_F4.mp4",
+    "Short_NJ_D_2012_F5.mp4",
+    "Short_NJ_D_2012_F6.mp4",
+    "Short_NJ_D_2012_F7.mp4",
+    "Short_NJ_D_2012_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bayesian Estimation",
+    "Fingerprint",
+    "Biometrics",
+    "Extended Features",
+    "Temporal Analysis"
+  ],
+  "title": "Robust Feature Extraction and Temporal Analysis for Partial Fingerprint Identification",
+  "type": "Dissertation"
+}

@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Leslie, Brian Robert",
+  "contributor_committeechair": "Schetz, Joseph A",
+  "contributor_committeemember": [
+    "Philen, Michael Keith",
+    "Seidel, Gary D",
+    "Claus, Richard O"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-02-19T22:35:24Z",
+  "date_available": "2013-02-19T22:35:24Z",
+  "date_issued": "2012-12-07",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Accurate measurement of skin friction in complex flows is important for: documentation and monitoring of fluid system performance, input information for flow control, development of turbulence models and CFD validation. The goal of this study was to explore using new materials to directly measure skin friction in a more convenient way than available devices. Conventional direct measurement skin friction sensors currently in use are intrusive, requiring movable surface elements with gaps surrounding that surface, or require optical access for measurements. Conventional direct measurement sensors are also difficult to apply in low shear environments, in the 1-10 Pa range. A new thin, flexible, nanoparticle infused, piezoresistive material called Metal Rubber\" was used to create sensors that can be applied to any surface. This was accomplished by using modern computerized finite element model multiphysics simulations of the material response to surface shear loads, in order to design a sensor configuration with a reduced footprint, minimal cross influence and increased sensitivity. These sensors were then built, calibrated in a fully-developed water channel flow and tested in both the NASA 20x28 inch Shear Flow Control Tunnel and a backwards facing step water flow. The results from these tests showed accurate responses, with no amplification to the sensor output, to shear levels in the range of 1-15 Pa. In addition, the computer model of these sensors was found to be useful for studying and developing refined sensor designs and for documenting sources of measurement uncertainty. These encouraging results demonstrate the potential of this material for skin friction sensor applications.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:35:24Z (GMT). No. of bitstreams: 1 Leslie_BR_D_2012.pdf: 18349210 bytes, checksum: c5679cde86654b68ea7fdccdd97bdc78 (MD5)   Previous issue date: 2012-12-07",
+  "format_medium": "ETD",
+  "handle": "19199",
+  "identifier_other": "vt_gsexam:26",
+  "identifier_uri": "http://hdl.handle.net/10919/19199",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Aerospace",
+    "Fluid Dynamics",
+    "Skin Friction",
+    "Sensor",
+    "Instrumentation",
+    "CFD",
+    "FEM",
+    "Turbulent",
+    "Design"
+  ],
+  "title": "Design, Analysis, and Testing of Nanoparticle-Infused Thin Film Sensors for Low Skin Friction Applications",
+  "type": "Dissertation"
+}

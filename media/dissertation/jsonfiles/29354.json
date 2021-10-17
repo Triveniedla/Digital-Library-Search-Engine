@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Hua, Guichao",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Jovanovic, Milan M.",
+    "Chen, Dan Y.",
+    "Cho, Bo H.",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:17:36Z",
+  "date_adate": "2005-10-24",
+  "date_available": "2014-03-14T20:17:36Z",
+  "date_issued": "1994-04-22",
+  "date_rdate": "2005-10-24",
+  "date_sdate": "2005-10-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The concept of soft-switching pulse-width-modulated (PWM) technique was proposed aimed at combining the advantages of both the conventional PWM technique and the resonant technique. This work presents four new families of soft-switching PWM converters: the zero-voltage-switched (ZVS) PWM converters, the zero-current-switched (ZCS) PWM converters, the zerovoltage- transition (ZVT) PWM converters, and the zero-current-transition (ZCT) PWM converters. <p>The family of ZVS- and ZCS-PWM converters are developed to improve the performance of the ZVS and ZCS quasi-resonant converters, respectively. The principles of operations of these two families of converters are presented, and the merits and limitations are assessed. A number of experimental converters are breadboarded to verify the theoretical analysis. <p>Both the ZVT-PWM and ZCT-PWM techniques use the concept of shunt resonant network to achieve soft-switching. In this way, the new converters achieve soft-switching without increasing the voltage and current stresses of the power switches and diodes. By using the boost topology as an example, a complete dc analysis of the ZVT-PWM and ZCT-PWM converters is presented, and the dc VOltage-conversion ratio characteristics are derived. Design trade-ofts are examined, and design procedures are established. The theoretical analysis and novel features of the proposed converters are verified on a number of breadboarded converters. Finally, the typical small-signal characteristics of the ZVT -PWM converters are analyzed and verified experimentally by using the boost converter as an example.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:17:36Z (GMT). No. of bitstreams: 1 LD5655.V856_1994.H83.pdf: 10624871 bytes, checksum: baa3b33a9245aba3b9e9a3048eac14b7 (MD5)   Previous issue date: 1994-04-22",
+  "format_medium": "BTD",
+  "handle": "29354",
+  "identifier_other": "etd-10242005-124114",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10242005-124114/",
+  "identifier_uri": "http://hdl.handle.net/10919/29354",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1994.H83.pdf",
+  "subject": "Electric current converters",
+  "subject_lcc": "LD5655.V856 1994.H83",
+  "title": "Soft-switching techniques for pulse-width-modulated converters",
+  "type": "Dissertation"
+}

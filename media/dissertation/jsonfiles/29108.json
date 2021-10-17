@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Li, Zhengrong",
+  "contributor_committeechair": "Smith, Eric P.",
+  "contributor_committeemember": [
+    "Yagow, Gene",
+    "Ye, Keying",
+    "Prins, Samantha C. Bates",
+    "Morgan, John P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:16:49Z",
+  "date_adate": "2007-09-27",
+  "date_available": "2014-03-14T20:16:49Z",
+  "date_issued": "2006-08-15",
+  "date_rdate": "2007-09-27",
+  "date_sdate": "2007-09-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Implementation of the Clean Water Act requires agencies to monitor aquatic sites on a regular basis and evaluate the quality of these sites. Sites are evaluated individually even though there may be numerous sites within a watershed. In some cases, sampling frequency is inadequate and the evaluation of site quality may have low reliability. This dissertation evaluates testing procedures for determination of site quality based on modelbased procedures that allow for other sites to contribute information to the data from the test site. Test procedures are described for situations that involve multiple measurements from sites within a region and single measurements when stressor information is available or when covariates are used to account for individual site differences. Tests based on analysis of variance methods are described for fixed effects and random effects models. The proposed model-based tests compare limits (tolerance limits or prediction limits) for the data with the known standard. When the sample size for the test site is small, using model-based tests improves the detection of impaired sites. The effects of sample size, heterogeneity of variance, and similarity between sites are discussed. Reference-based standards and corresponding evaluation of site quality are also considered. Regression-based tests provide methods for incorporating information from other sites when there is information on stressors or covariates. Extension of some of the methods to multivariate biological observations and stressors is also discussed. Redundancy analysis is used as a graphical method for describing the relationship between biological metrics and stressors. A clustering method for finding stressor-response relationships is presented and illustrated using data from the Mid-Atlantic Highlands. Multivariate elliptical and univariate regions for assessment of site quality are discussed.",
+  "description_provenance": [
+    "Author Email: zhli5@vt.edu",
+    "Advisor Email: gyagow@vt.edu",
+    "Advisor Email: keying.ye@utsa.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: prinssc@jmu.edu",
+    "Advisor Email: jpmorgan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:49Z (GMT). No. of bitstreams: 1 ZR-complete.pdf: 680819 bytes, checksum: acd5a156aaa6ccb844fa5af462a5dd75 (MD5)   Previous issue date: 2006-08-15"
+  ],
+  "handle": "29108",
+  "identifier_other": "etd-09262007-153618",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09262007-153618/",
+  "identifier_uri": "http://hdl.handle.net/10919/29108",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ZR-complete.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "model-based tests",
+    "water quality assessment",
+    "random effects models",
+    "regression-based test",
+    "redunancy analysis",
+    "reduced-rank analysis",
+    "fixed effects models"
+  ],
+  "title": "Model-based Tests for Standards Evaluation and Biological Assessments",
+  "type": "Dissertation"
+}

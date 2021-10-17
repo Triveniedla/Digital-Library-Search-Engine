@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Li, Pengfei",
+  "contributor_committeechair": "Abbas, Montasir M.",
+  "contributor_committeemember": [
+    "Wang, Linbing",
+    "Rakha, Hesham Ahmed",
+    "Pasupathy, Raghu",
+    "Trani, Antonio A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:44Z",
+  "date_adate": "2009-09-15",
+  "date_available": "2014-03-14T20:15:44Z",
+  "date_issued": "2009-08-12",
+  "date_rdate": "2009-09-15",
+  "date_sdate": "2009-08-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Dilemma zone (DZ), also called decision zone in other literature, is an area where drivers face an indecisiveness of stopping or crossing at the yellow onset. The DZ issue is a major reason for the crashes at high-speed signalized intersections. As a result, how to prevent approaching vehicles from being caught in the DZ is a widely concerning issue. In this dissertation, the author addressed several DZ-associated issues, including the new stochastic safety measure, namely dilemma hazard, that indicates the vehiclesâ   changing unsafe levels when they are approaching intersections, the optimal advance detector configurations for the multi-detector green extension systems, the new dilemma zone protection algorithm based on the Markov process, and the simulation-based optimization of traffic signal systems with the retrospective approximation concept. The findings include: the dilemma hazard reaches the maximum when a vehicle moves in the dilemma zone and it can be calculated according the caught vehiclesâ   time to  the intersection; the new (optimized) GES design can significantly improve the safety, but slightly improve the efficiency; the Markov process can be used in the dilemma zone protection, and the Markov-process-based dilemma zone protection system can outperform the prevailing dilemma zone protection system, the detection-control system (D-CS). When the data collection has higher fidelity, the new system will have an even better performance.  The retrospective approximation technique can identify the sufficient, but not excessive, simulation efforts to model the true system and the new optimization algorithm can converge fast, as well as accommodate the requirements by the RA technique.",
+  "description_provenance": [
+    "Author Email: pli@vt.edu",
+    "Advisor Email: lbwang@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: pasupath@vt.edu",
+    "Advisor Email: abbas@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:44Z (GMT). No. of bitstreams: 2 Li_Pengfei_D_2009.pdf: 1817161 bytes, checksum: 0799c2d51e4293babccf0ac06cda9b42 (MD5) Li_Pengfei_D_2009_Copyright.pdf: 49823 bytes, checksum: 69fb7da1b889bdd13e7637488c8e2985 (MD5)   Previous issue date: 2009-08-12"
+  ],
+  "handle": "28805",
+  "identifier_other": "etd-08262009-125215",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08262009-125215/",
+  "identifier_uri": "http://hdl.handle.net/10919/28805",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Li_Pengfei_D_2009.pdf",
+    "Li_Pengfei_D_2009_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Simulation.",
+    "Optimization",
+    "traffic safety",
+    "dilemma hazard",
+    "Dilemma zone",
+    "Traffic Signal Control",
+    "Traffic Engineering"
+  ],
+  "title": "Stochastic Methods for Dilemma Zone Protection at Signalized Intersections",
+  "type": "Dissertation"
+}

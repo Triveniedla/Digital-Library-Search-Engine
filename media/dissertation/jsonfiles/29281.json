@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Thacker, Timothy Neil",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeecochair": "Wang, Fei Fred",
+  "contributor_committeemember": [
+    "Hirsh, Richard F.",
+    "De La Ree Lopez, Jaime",
+    "Burgos, Rolando"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:23Z",
+  "date_adate": "2009-11-02",
+  "date_available": "2014-03-14T20:17:23Z",
+  "date_issued": "2009-09-16",
+  "date_rdate": "2013-01-10",
+  "date_sdate": "2009-10-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Within recent years, interest in the installation of solar-based, wind-based, and various other renewable Distributed Energy Resources (DERs) and Energy Storage (ES) systems has risen; in part due to rising energy costs, demand for cleaner power generation, increased power quality demands, and the need for additional protection against brownouts and blackouts.  A viable solution for these requirements consists of installation of small-scale DER and ES systems at the single-phase (1Î¦) distribution level to provide ancillary services such as peak load shaving, Static-VAr Compensation (STATCOM), ES, and Uninterruptable Power Supply (UPS) capabilities through the creation of microgrid systems.  To interconnect DER and ES systems, power electronic converters are needed with not only control systems that operate in multiple modes of operation, but with islanding detection and resynchronization capabilities for isolation from and reclosure to the grid.<p> The proposed system includes control architecture capable of operating in multiple modes, and with the ability to smoothly transfer between modes.  Phase-Locked Loops (PLLs), islanding detection schemes, and resynchronization protocols are developed to support the control functionality proposed.<p> Stationary frame PLL developments proposed in this work improve upon existing methods by eliminating steady-state noise/ripple without using Low-Pass Filters (LPFs), increasing frequency/phase tracking speeds for a wide range of disturbances, and retaining robustness for weakly interconnected systems.<p> An islanding detection scheme for the stationary frame control is achieved through the stability of the PLL system interaction with the converter control.  The proposed detection method relies upon the conditional stability of the PLL controller which is sensitive to grid-disconnections.  This method is advantageous over other methods of active islanding detection mainly due to the need for those methods to perturb the output to test for islanding conditions.  The PLL stability method does not inject signal perturbations into the output of the converter, but instead is designed to be stable while grid-connected, but inherently unstable for grid-disconnections.<p> Resynchronization and reclosure to the grid is an important control aspect for microgrid systems that have the ability to operate in stand-alone, backup modes while disconnected from the grid.  The resynchronization method proposed utilizes a dual PLL tracking system which minimizes voltage transients during the resynchronization process; while a logic-based reclosure algorithm ensures minimal magnitude, frequency, and phase mismatches between the grid and an isolated microgrid system to prevent inrush currents between the grid and stand-alone microgrid system.",
+  "description_provenance": [
+    "Author Email: tthacker@ieee.org",
+    "Advisor Email: f.wang@ieee.org",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: richards@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: rburgos@ieee.org",
+    "Made available in DSpace on 2014-03-14T20:17:23Z (GMT). No. of bitstreams: 1 TNT_ETDrev2.pdf: 8269144 bytes, checksum: eeb5d76eefe19f213e7d0fd500cf392c (MD5)   Previous issue date: 2009-09-16"
+  ],
+  "handle": "29281",
+  "identifier_other": "etd-10152009-171951",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10152009-171951/",
+  "identifier_uri": "http://hdl.handle.net/10919/29281",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "TNT_ETDrev2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Resynchronization",
+    "Distributed Generation",
+    "Islanding Detection",
+    "Grid-interactive Converter",
+    "Phase-locked Loops"
+  ],
+  "title": "Phase-Locked Loops, Islanding Detection and Microgrid Operation of Single-Phase Converter Systems",
+  "type": "Dissertation"
+}

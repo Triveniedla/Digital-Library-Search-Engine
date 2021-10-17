@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Vavricka, Christopher John",
+  "contributor_committeechair": "Jianyong Li",
+  "contributor_committeemember": [
+    "Timothy Larson",
+    "Richard Helm",
+    "Glenda Gillaspy"
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2014-03-14T20:14:58Z",
+  "date_adate": "2009-08-25",
+  "date_available": "2014-03-14T20:14:58Z",
+  "date_issued": "2009-07-28",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The metabolism of tyrosine is essential for many critical biochemical events including catecholamine synthesis, melanogenesis and insect cuticle sclerotization. These pathways are highly regulated in both insects and mammals by many well-characterized enzymes including dopa decarboxylase and tyrosine hydroxylase. On the other hand, there are still many enzymes involved in these processes that we know very little about. Dopachrome tautomerase (DCT), dopachrome conversion enzyme (DCE) and Î±-methyldopa resistant protein (AMD) fall into the category of the less characterized enzymes.  <p> Dopachrome is a pivotal intermediate in melanogenesis. Mammalian DCT and insect DCE both use dopachrome as a substrate. DCE catalyzes a decarboxylative structural rearrangement of dopachrome to 5,6-dihydroxyindole (DHI), whereas DCT mediates the isomerization/tautomerization of dopachrome to 5,6-dihydroxyindole-2-carboxylic acid (DHICA).  DHI is oxidized easily, leading to the production of melanin, as well as reactive oxygen species (ROS). DHICA is less reactive, relative to DHI, and consequently produces less toxic byproducts during melanogenesis; therefore DCT plays an important role in detoxification of DHI and ROS.       <p> Purification and MS analysis of DCE and DCT determined that N-glycosylation is a primary post-translational modification. Q-TOF mass spectrometry was used to determine N-glycosylation patterns from Aedes aegypti DCE and MALDI-TOF/TOF was used to determine multiple glycosylation sites in DCT. N-glycosylation is critical for the folding and trafficking of secreted proteins in the endomembrane system. The analysis of glycosylation sites in DCE and DCT therefore is essential toward achieving a comprehensive understanding of their structure and function. <p> Like DCT, AMD also plays a protective role. The AMD protein was originally identified in Drosophila mutants hypersensitive to Î±-methyldopa, an inhibitor of dopa decarboxylase (DDC). Production of dopamine by DDC is critical for developing insects because dopamine conjugates are used as crosslinking agents for cuticle sclerotization. Although there has been much discussion into the function of AMD, what exactly this protein does has been unknown. AMD shares 48% sequence identity with DDC, however we have found that AMD is an enzyme, which possesses a different catalytic activity. GC-MS analysis of AMD enzymatic reaction components revealed that AMD catalyzes the oxidative decarboxylation of L-DOPA to DOPAL, and also the oxidative decarboxlation of Î±-methyldopa to 3,4-dihydroxyphenylacetone. <p> In summary, multiple N-glycosylation sites were characterized in DCT and DCE, furthermore a new protein function has been demonstrated for AMD. These experiments were performed using classical biochemistry techniques in combination with mass spectrometry.",
+  "description_provenance": [
+    "Author Email: cvavrick@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Advisor Email: helmrf@vt.edu",
+    "Advisor Email: gillaspy@vt.edu",
+    "Advisor Email: lij@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:58Z (GMT). No. of bitstreams: 1 CJV_DISSERTATION_FINAL.pdf: 4738807 bytes, checksum: 85d71da6bac6d7ff8185d95d1466f3c5 (MD5)   Previous issue date: 2009-07-28"
+  ],
+  "handle": "28585",
+  "identifier_other": "etd-08092009-012700",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08092009-012700/",
+  "identifier_uri": "http://hdl.handle.net/10919/28585",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CJV_DISSERTATION_FINAL.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "tyrosine metabolism",
+    "mass spectrometry",
+    "proteomics",
+    "dopamine",
+    "alpha-methyldopa",
+    "melanogenesis",
+    "dopachrome",
+    "glycosylation",
+    "post-translational modification"
+  ],
+  "title": "Mass Spectrometric Analysis of Tyrosine Metabolic Enzymes",
+  "type": "Dissertation"
+}

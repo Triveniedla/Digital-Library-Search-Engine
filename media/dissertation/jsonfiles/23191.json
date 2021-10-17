@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Xiong, Huijun",
+  "contributor_committeechair": "Yao, Danfeng",
+  "contributor_committeemember": [
+    "North, Christopher L",
+    "Lou, Wenjing",
+    "Kafura, Dennis G",
+    "Zhang, Xinwen"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-06-11T08:00:21Z",
+  "date_available": "2013-06-11T08:00:21Z",
+  "date_issued": "2013-06-10",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Outsourcing data services to the cloud is a nature fit for cloud usage. However, increasing security and privacy concerns from both enterprises and individuals on their outsourced data inhibit this trend. In this dissertation, we introduce service-centric solutions to address two types of security threats existing in the current cloud environments: semi-honest cloud providers and malicious cloud customers. Our solution aims not only to provide confidentiality and access controllability of outsourced data with strong cryptographic guarantee, but, more importantly, to fulfill specific security requirements from different cloud services with effective systematic ways.<br /><br />To provide strong cryptographic guarantee to outsourced data, we study the generic security<br />problem caused by semi-honest cloud providers and introduce a novel proxy-based secure data outsourcing scheme. Specifically, our scheme improves the efficiency of traditional proxy re-encryption algorithm by integrating symmetric encryption and proxy re-encryption algorithms. With less computation cost on applying re-encryption operation directly on the encrypted data, our scheme allows flexible and efficient user revocation without revealing underlying data and heavy computation in the untrusted cloud.<br /><br />To address specific requirement from different cloud services, we investigate two specific cloud services: cloud-based content delivery service and cloud-based data processing service. For the former one, we focus on preserving cache property in the content delivery network and propose CloudSeal, a scheme for securely and flexibly sharing and distributing content via the public cloud. With the ability of caching the major part of a stored cipher content object in the delivery network for content distribution and keeping the minor part with the data owner for content authorization, CloudSeal achieves security and efficiency both theoretically and experimentally. For the later service, we design and realize CloudSafe, a framework that supports secure and efficient data processing with minimum key leakage in the vulnerable cloud virtualization environment. Through the adoption of one-time cryptographic key strategy and a centralized key management framework, CloudSafe efficiently avoids cross-VM side channel attack from malicious cloud customers in the cloud. Our experimental results confirm the practicality and scalability of CloudSafe.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-11T08:00:21Z (GMT). No. of bitstreams: 1 Xiong_H_D_2013.pdf: 470624 bytes, checksum: 99c3e85cd91e7617f80cacd8d22b9d1b (MD5)   Previous issue date: 2013-06-10",
+  "format_medium": "ETD",
+  "handle": "23191",
+  "identifier_other": "vt_gsexam:889",
+  "identifier_uri": "http://hdl.handle.net/10919/23191",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Cloud Computing",
+    "Outsource Data Security",
+    "Proxy Re-encryption",
+    "Content Delivery Network",
+    "Key Management"
+  ],
+  "title": "Secure Data Service Outsourcing with Untrusted Cloud",
+  "type": "Dissertation"
+}

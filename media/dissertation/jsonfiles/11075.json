@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Qiu, Qun",
+  "contributor_committeechair": "Mili, Lamine M.",
+  "contributor_committeemember": [
+    "Tranter, William H.",
+    "Phadke, Arun G.",
+    "Nachlas, Joel A.",
+    "De La Ree Lopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:52:41Z",
+  "date_adate": "2003-12-11",
+  "date_available": "2011-08-22T18:52:41Z",
+  "date_issued": "2003-12-09",
+  "date_rdate": "2004-12-11",
+  "date_sdate": "2003-12-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One of the objectives of this study is to develop a methodology, together with a set of software programs that evaluate, in a power system, the risks of catastrophic failures caused by hidden failures in the hardware or software components of the protection system. The disturbance propagation mechanism is revealed by the analysis of the 1977 New York Blackout. The step-by-step process of estimating the relay hidden failure probability is presented. A Dynamic Event Tree for the risk-based analysis of system catastrophic failures is proposed. A reduced 179-bus WSCC sample system is studied and the simulation results obtained from California sub-system are analyzed. System weak links are identified in the case study. The issues relating to the load and generation uncertainties for the risk assessment of system vulnerabilities are addressed. A prototype system - the Hidden Failure Monitoring and Control System (HFMCS) - is proposed to mitigate the risk of power system catastrophic failures. Three main functional modules - Hidden Failure Monitoring, Hidden Failure Control and Misoperation Tracking Database - and their designs are presented. Hidden Failure Monitoring provides the basis that allows further control actions to be initiated. Hidden Failure Control is realized by using Adaptive Dependability/Security Protection, which can effectively stop possible relay involvement from triggering or propagating disturbance under stressed system conditions. As an integrated part of the HFMCS, a Misoperation Tracking Database is proposed to track the performance of automatic station equipment, hence providing automatic management of misoperation records for hidden failure analysis.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:52:41Z (GMT). No. of bitstreams: 1  Dissertation-Qiu.pdf: 1887164 bytes, checksum: 1c50ce475af0bb036d226f93ac314243 (MD5)    Previous issue date: 2003-12-09",
+    "Author Email: qqiu@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11075",
+  "identifier_other": "etd-12112003-002453",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12112003-002453",
+  "identifier_uri": "http://hdl.handle.net/10919/11075",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-Qiu.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Power System Protection",
+    "Catastrophic Failures",
+    "Dynamic Event Tree",
+    "Adaptive Dependability/Security Protection",
+    "Risk Assessment",
+    "Hidden Failures",
+    "Hidden Failure Control",
+    "Hidden Failure Monitoring",
+    "Production Simulation",
+    "Misoperation Tracking Database",
+    "Power System"
+  ],
+  "title": "Risk Assessment of Power System Catastrophic Failures and  Hidden Failure Monitoring & Control System",
+  "type": "Dissertation"
+}

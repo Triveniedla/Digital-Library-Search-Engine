@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Jiao, Jian",
+  "contributor_committeechair": "Fan, Weiguo",
+  "contributor_committeemember": [
+    "Abrahams, Alan Samuel",
+    "Zhang, Liqing",
+    "Ramakrishnan, Narendran",
+    "Wang, Gang",
+    "Fox, Edward A."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-06-06T08:01:00Z",
+  "date_available": "2013-06-06T08:01:00Z",
+  "date_issued": "2013-06-05",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The Internet has revolutionized the way users share and acquire knowledge. As important and popular Web-based applications, online discussion forums provide interactive platforms for users to exchange information and report problems. With the rapid growth of social networks and an ever increasing number of Internet users, online forums have accumulated a huge amount of valuable user-generated data and have accordingly become a major information source for business intelligence. This study focuses specifically on product defects, which are one of the central concerns of manufacturing companies and service providers, and proposes a machine learning method to automatically detect product defects in the context of online forums. To complement the detection of product defects , we also present a product feature extraction method to summarize defect threads and a thread ranking method to search for troubleshooting solutions. To this end, we collected different data sets to test these methods experimentally and the results of the tests show that our methods are very promising: in fact, in most cases, they outperformed the current state-of-the-art methods.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-06T08:01:00Z (GMT). No. of bitstreams: 1  Jiao_J_D_2013.pdf: 1094136 bytes, checksum: 03597452c0ad2cf9d330e7f7ce1dd39a (MD5)    Previous issue date: 2013-06-05",
+  "format_medium": "ETD",
+  "handle": "23159",
+  "identifier_other": "vt_gsexam:732",
+  "identifier_uri": "http://hdl.handle.net/10919/23159",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "product defect detection",
+    "product feature extraction",
+    "summarization",
+    "clustering",
+    "learning to rank",
+    "thread ranking"
+  ],
+  "title": "A framework for finding and summarizing product defects, and ranking helpful threads from online customer forums through machine learning",
+  "type": "Dissertation"
+}

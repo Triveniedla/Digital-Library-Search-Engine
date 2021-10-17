@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Bordignon, Kenneth A",
+  "contributor_committeechair": "Durham, Wayne C.",
+  "contributor_committeemember": [
+    "Anderson, Mark R.",
+    "Cliff, Eugene M.",
+    "Cudney, Harley H.",
+    "Lutze, Frederick H. Jr."
+  ],
+  "contributor_department": "Aerospace Engineering",
+  "date_accessioned": "2014-03-14T20:14:54Z",
+  "date_adate": "2007-08-08",
+  "date_available": "2014-03-14T20:14:54Z",
+  "date_issued": "1996-12-19",
+  "date_rdate": "2007-08-08",
+  "date_sdate": "2007-08-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Control allocation is examined for linear time-invariant problems that have more controls than degrees of freedom. The controls are part of a physical system and are subject to limits on their maximum positions. A control allocation scheme commands control deflections in response to some desired output. The ability of a control allocation  scheme to produce the desired output without violating the physical position constraints  is used to compare allocation schemes.  Methods are developed for computing the range of output for which a given scheme  will allocate admissible controls. This range of output is expressed as a volume in the n-dimensional output space. The allocation schemes which are detailed include traditional  allocation methods such as Generalized Inverse solutions as well as more recently  developed methods such as Daisy Chaining, Cascading Generalized Inverses, Null-Space  Intersection methods, and Direct Allocation.  Non-linear time-varying problems are analyzed and a method of control allocation is  developed that uses Direct Allocation applied to locally linear problems to allocate the  controls. This method allocates controls that do not violate the position limits or the rate  limits for all the desired outputs that the controls are capable of producing. The errors  produced by the non-linearities are examined and compared with the errors produced by  globally linear methods.  The ability to use the redundancy of the controls to optimize some function of the controls is explored and detailed. Additionally, a method to reconfigure the controls in the event of a control failure is described and examined. Detailed examples are included throughout, primarily applying the control allocation methods to an F-18 fighter with seven independent moment generators controlling three independent moments and the F-18 High Angle of Attack Research Vehicle (HARV) with ten independent moment generators.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:14:54Z (GMT). No. of bitstreams: 1  LD5655.V856_1996.B673.pdf: 19934140 bytes, checksum: 4db3ae247e69d266066c68256e73a8fc (MD5)    Previous issue date: 1996-12-19",
+  "format_medium": "BTD",
+  "handle": "28570",
+  "identifier_other": "etd-08082007-161936",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08082007-161936/",
+  "identifier_uri": "http://hdl.handle.net/10919/28570",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1996.B673.pdf",
+  "subject": [
+    "rate",
+    "controls",
+    "redundant",
+    "allocation"
+  ],
+  "subject_lcc": "LD5655.V856 1996.B673",
+  "title": "Constrained control allocation for systems with redundant control effectors",
+  "type": "Dissertation"
+}

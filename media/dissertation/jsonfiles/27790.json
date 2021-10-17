@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Hassan Eltarras, Rami M",
+  "contributor_committeechair": "Eltoweissy, Mohamed Y.",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Chen, Ing-Ray",
+    "Riad, Sedki Mohamed",
+    "DaSilva, Luiz A.",
+    "Youssef, Moustafa"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:15Z",
+  "date_adate": "2011-09-22",
+  "date_available": "2014-03-14T20:12:15Z",
+  "date_issued": "2011-01-25",
+  "date_rdate": "2011-09-22",
+  "date_sdate": "2011-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The essence of smart pervasive Cyber-Physical Environments (CPEs) is to enhance the dependability, security and efficiency of their encompassing systems and infrastructures and their services. In CPEs, interactive information resources are integrated and coordinated with physical resources to better serve human users. To bridge the interaction gap between users and the physical environment, a CPE is instrumented with a large number of small devices, called sensors, that are capable of sensing, computing and communicating. Sensors with heterogeneous capabilities should autonomously organize on-demand and interact to furnish real-time, high fidelity information serving a wide variety of user applications with dynamic and evolving requirements. CPEs with their associated networked sensors promise aware services for smart systems and infrastructures with the potential to improve the quality of numerous application domains, in particular mission-critical infrastructure domains. Examples include healthcare, environment protection, transportation, energy, homeland security, and national defense.  To build smart CPEs, Networked Sensor Environments (NSEs) are needed to manage demand-driven sharing of large-scale federated heterogeneous resources among multiple applications and users. We informally define NSE as a  tailorable, application agnostic, distributed platform with the purpose of managing a massive number of federated resources with heterogeneous computing, communication, and monitoring capabilities. We perceive the need to develop scalable, trustworthy, cost-effective NSEs. A NSE should be endowed with dynamic and adaptable computing and communication services capable of efficiently running diverse applications with evolving QoS requirements on top of federated distributed resources. NSEs should also enable the development of applications independent of the underlying system and device concerns. To our knowledge, a NSE with the aforementioned capabilities does not currently exist.  The large scale of NSEs, the heterogeneous node capabilities, the highly dynamic topology, and the likelihood of being deployed in inhospitable environments pose formidable challenges for the construction of resilient shared NSE platforms. Additionally, nodes in NSE are often resource challenged and therefore trustworthy node cooperation is required to provide useful services. Furthermore, the failure of NSE nodes due to malicious or non-malicious conditions represents a major threat to the trustworthiness of NSEs. Applications should be able to survive failure of nodes and change their runtime structure while preserving their operational integrity. It is also worth noting that the decoupling of application programming concerns from system and device concerns has not received the appropriate attention in most existing wireless sensor network platforms.  In this dissertation, we present a Biologically-inspired Secure Elastic Networked Sensor Environment (BioSENSE) that synergistically integrates: (1) a novel bio-inspired construction of adaptable system building components, (2) associative routing framework with extensible adaptable criteria-based addressing of resources, and (3) management of multi-dimensional software diversity and trust-based variant hot shuffling. The outcome is that an application using BioSENSE is able to allocate, at runtime, a dynamic taskforce, running over a federated resource pool that would satisfy its evolving mission requirements. BioSENSE perceives both applications and the NSE itself to be elastic, and allows them to grow or shrink based upon needs and conditions.  BioSENSE adopts Cell-Oriented-Architecture (COA), a novel architecture that supports the development, deployment, execution, maintenance, and evolution of NSE software. COA employs mission-oriented application design and inline code distribution to enable adaptability, dynamic re-tasking, and re-programmability. The cell, the basic building block in COA, is the abstraction of a mission-oriented autonomously active resource. Generic cells are spontaneously created by the middleware, then participate in emerging tasks through a process called specialization. Once specialized, cells exhibit application specific behavior. Specialized cells have mission objectives that are being continuously sought, and sensors that are used to monitor performance parameters, mission objectives, and other phenomena of interest.  Due to the inherent anonymous nature of sensor nodes, associative routing enables dynamic semantically-rich descriptive identification of NSE resources. As such, associative routing presents a clear departure from most current network addressing schemes. Associative routing combines resource discovery and path discovery into a single coherent role, leading to significant reduction in traffic load and communication latency without any loss of generality. We also propose Adaptive Multi-Criteria Routing (AMCR) protocol as a realization of associative routing for NSEs. AMCR exploits application-specific message semantics, represented as generic criteria, and adapts its operation according to observed traffic patterns.  BioSENSE intrinsically exploits software diversity, runtime implementation shuffling, and fault recovery to achieve security and resilience required for mission-critical NSEs.  BioSENSE makes NSE software a resilient moving target that : 1) confuses the attacker by non-determinism through shuffling of software component implementations; 2) improves the availability of NSE by providing means to gracefully recover from implementation flaws at runtime; and 3) enhances the software system by survival of the fittest through trust-based component selection in an online software component marketplace.  In summary, BioSENSE touts the following advantages: (1) on-demand, online distribution and adaptive allocation of services and physical resources shared among multiple long-lived applications with dynamic missions and quality of service requirements, (2) structural, functional, and performance adaptation to dynamic network scales, contexts and topologies, (3) moving target defense of system software, and (4) autonomic failure recovery.",
+  "description_provenance": [
+    "Author Email: eltarras@gmail.com",
+    "Advisor Email: eltoweissy@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: irchen@cs.vt.edu",
+    "Advisor Email: sedki@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: moustafa.youssef@gmail.com",
+    "Made available in DSpace on 2014-03-14T20:12:15Z (GMT). No. of bitstreams: 1 HassanEltarras_RM_D_2011.pdf: 8532350 bytes, checksum: 3615816e6c0484d2f10d5136ac416d19 (MD5)   Previous issue date: 2011-01-25"
+  ],
+  "handle": "27790",
+  "identifier_other": "etd-05182011-130808",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182011-130808/",
+  "identifier_uri": "http://hdl.handle.net/10919/27790",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HassanEltarras_RM_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Resilient Architecture",
+    "Adaptability",
+    "Software Diversity",
+    "Middleware",
+    "Routing",
+    "Biologically-Inspired Design",
+    "Sensor Networks"
+  ],
+  "title": "BioSENSE: Biologically-inspired Secure Elastic Networked Sensor Environment",
+  "type": "Dissertation"
+}

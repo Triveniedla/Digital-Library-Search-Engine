@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Chen, Qinghong",
+  "contributor_committeechair": "Nikolaidis, Efstratios",
+  "contributor_committeecochair": "Cudney, Harley H.",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Haftka, Raphael T.",
+    "VanLandingham, Hugh F."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:09Z",
+  "date_adate": "2000-09-18",
+  "date_available": "2014-03-14T20:16:09Z",
+  "date_issued": "2000-08-08",
+  "date_rdate": "2001-09-18",
+  "date_sdate": "2000-09-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Probabilistic models and fuzzy set models describe different aspects of uncertainty.  Probabilistic models primarily describe random variability in parameters.  In engineering system safety, examples are variability in material properties, geometrical dimensions, or wind loads.  In contrast, fuzzy set models of uncertainty primarily describe vagueness, such as vagueness in the definition of safety.     When there is only limited information about variability, it is possible to use probabilistic models by making suitable assumptions on the statistics of the variability.  However, it has been repeatedly shown that this can entail serious errors.  Fuzzy set models, which require little data, appear to be well suited to use with designing for uncertainty, when little is known about the uncertainty.  Several studies have compared fuzzy set and probabilistic methods in analysis of safety of systems under uncertainty.  However, no study has compared the two approaches systematically as a function of the amount of available information.  Such a comparison, in the context of design against failure, is the objective of this dissertation.      First, the theoretical foundations of probability and possibility theories are compared.  We show that a major difference between probability and possibility is in the axioms about the union of events.  Because of this difference, probability and possibility calculi are fundamentally different and one cannot simulate possibility calculus using probabilistic models.  We also show that possibility-based methods tend to be more conservative than probability-based methods in systems that fail only if many unfavorable events occur simultaneously.      Based on these theoretical observations, two design problems are formulated to demonstrate the strength and weakness of probabilistic and fuzzy set methods.  We consider the design of tuned damper system and the design and construction of domino stacks.  These problems contain narrow failure zones in their uncertain variables and are tailored to demonstrate the pitfalls of probabilistic methods when little information is available for uncertain variables.      Using these design problems we demonstrate that probabilistic methods are better than possibility-based methods if sufficient information is available.  Just as importantly, we show possibility-based methods can be better if little information is available.  Our conclusion is that when there is little information available about uncertainties, a hybrid method should be used to ensure a safe design.",
+  "description_provenance": [
+    "Author Email: qichen3@vt.edu",
+    "Advisor Email: cudney@vt.edu",
+    "Advisor Email: nikolai@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:09Z (GMT). No. of bitstreams: 1 Sophie.pdf: 691216 bytes, checksum: 7be5e2491f1ecbaf9505ac5cc6aa9b39 (MD5)   Previous issue date: 2000-08-08"
+  ],
+  "handle": "28946",
+  "identifier_other": "etd-09122000-00170009",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09122000-00170009/",
+  "identifier_uri": "http://hdl.handle.net/10919/28946",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Sophie.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "fuzzy set method",
+    "design under uncertainty",
+    "Probabilistic method"
+  ],
+  "title": "Comparing Probabilistic and Fuzzy Set Approaches for Designing in the Presence of Uncertainty",
+  "type": "Dissertation"
+}

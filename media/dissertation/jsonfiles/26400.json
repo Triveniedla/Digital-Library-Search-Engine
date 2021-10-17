@@ -1,0 +1,48 @@
+{
+  "contributor_author": "El-Okda, Yasser Mohamed",
+  "contributor_committeecochair": [
+    "Ragab, Saad A.",
+    "Hajj, Muhammad R."
+  ],
+  "contributor_committeemember": [
+    "Morris, Don H.",
+    "Masoud, Ziyad N.",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:08:06Z",
+  "date_adate": "2005-03-21",
+  "date_available": "2014-03-14T20:08:06Z",
+  "date_issued": "2005-02-11",
+  "date_rdate": "2005-03-21",
+  "date_sdate": "2005-03-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The issue of the effects of free stream turbulence on the flow field over a surface-mounted prism is examined through experimental and numerical investigations. In the experimental studies, particle image velocimetry measurements are conducted in the ESM water tunnel at Reynolds number of $9,600$ and under two cases of turbulent inflow conditions. The results show that the mean flow separation, reattachment and parameters such as mean velocity, root mean square, Reynolds stresses and turbulent kinetic energy are affected by the turbulence characteristics of the incident flow. The instantaneous dynamics of the interactions between the separating shear layer and the solid wall and between the shear layer and the turbulence in the incident flow are detailed. <p> In the numerical studies, large eddy simulations of the flow over a surface-mounted prism under two inflow conditions, namely, smooth inflow and isotropic homogeneous turbulence inflow, are performed. The use of a fifth-order scheme (CUD-II-5), which is a member of a family of Compact Upwind Difference schemes, in large eddy simulations of this flow is assessed. The performance of this scheme is validated by comparing the rate of temporal decay of isotropic turbulence with available experimental measurements for grid-generated turbulence. The results show that the spectra are sensitive to the method of flux vector splitting needed for the implementation of the upwind scheme. With van Leer splitting, the CUD-II-5 scheme is found to be too dissipative. On the other hand, using the Lax-Friedrichs vector splitting yields good agreement with experiments by controlling the level of artificial dissipation. This led us to recommend a new procedure, we denote by C6CUD5 scheme, that combines a compact sixth-order scheme with the CUD-II-5 scheme for large eddy simulation of complex flows. The simulation results, including flow patterns, pressure fields and turbulence statistics show that the CUD-II-5 scheme, with Lax-Friedricks flux vector splitting, provides high resolution of local flow structures. The results present new physical aspects of the flow topology over surface-mounted prisms. The effects of the incident homogeneous turbulence on the size of the separation region and suction pressures are determined by pointing out differences in the flow topologies between the two incident flow cases.",
+  "description_provenance": [
+    "Author Email: yelokda@vt.edu",
+    "Advisor Email: dhmorris@vt.edu",
+    "Advisor Email: zmasoud@vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:06Z (GMT). No. of bitstreams: 1 Yasser_El-Okda.pdf: 20368866 bytes, checksum: fe40728f461e03de54e95ee2a4416dba (MD5)   Previous issue date: 2005-02-11"
+  ],
+  "handle": "26400",
+  "identifier_other": "etd-03092005-094123",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03092005-094123/",
+  "identifier_uri": "http://hdl.handle.net/10919/26400",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yasser_El-Okda.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Low-Rise Structures",
+    "Surface-Mounted Prism",
+    "Compact Upwind Schemes",
+    "Large Eddy Simulation",
+    "Particle Image Velocimetry"
+  ],
+  "title": "Experimental and Numerical Investigations of the Effects of Incident Turbulence on the Flow Over a Surface-Mounted Prism",
+  "type": "Dissertation"
+}

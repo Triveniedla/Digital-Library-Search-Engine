@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Vimjam, Vishnu Chaithanya",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "Shukla, Sandeep K.",
+    "Brown, Ezra A.",
+    "Buehrer, Richard Michael"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:02Z",
+  "date_adate": "2007-02-13",
+  "date_available": "2014-03-14T20:07:02Z",
+  "date_issued": "2007-01-29",
+  "date_rdate": "2007-02-13",
+  "date_sdate": "2007-01-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Verification of digital hardware designs is becoming an increasingly complex task as the designs are incorporating more functionality, becoming complex and growing larger in size. Today, verification remains a bottleneck in meeting time-to-market requirements and consumes more than 70% of the overall design-costs. Traditionally, verification has been done using simulation-based approaches, where a set of appropriate test-stimuli is used by the designer. As the designs become more complex, however, simulation-based techniques often fail to capture corner-case errors. Furthermore, unless exhaustively tested, these approaches do not guarantee the correctness of a system with respect to its specifications. As a consequence, formal methods for design verification have been sought after. In formal verification, the conformance of a design to a given set of specifications is proven mathematically, thereby leaving no room for unexplored search spaces. Despite the exponential time/memory complexities often involved within the formal approaches, they have shown promise in capturing subtle bugs, which were missed otherwise.                                                                                                                                                               In this dissertation, we focus on Boolean Satisfiability (SAT) based formal verification, which has gained tremendous importance in the recent past. Importantly, SAT-based approaches often alleviate the memory explosion problem, which had been a bottleneck of the traditional symbolic (Binary Decision Diagram based) approaches. In SAT-based techniques, the set of verification tasks are converted into a set of Boolean formulae, which are checked for satisfiability using a SAT solver. These problems are often NP-complete and are prone to an explosion in the required run-time. To overcome this, we propose novel strategies which utilize both structural and logical information of a sequential circuit. In particular, we devise techniques to extract non-trivial invariants of a design, strengthen properties such that they can be proven faster and interleave bounded reachability analysis with bounded model checking. We provide the necessary algorithms and implementation details in order to automate the proposed techniques. Experiments conducted on a variety of benchmark circuits show that orders of magnitude improvement in overall run-times can be achieved via our techniques compared to the existing state-of-the-art SAT-based approaches.",
+  "description_provenance": [
+    "Author Email: vvimjam@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: ezbrown@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:02Z (GMT). No. of bitstreams: 1 vimjam_phd_dissertation.pdf: 1027109 bytes, checksum: 64264b23ad1fa2d13f627b1149087b6e (MD5)   Previous issue date: 2007-01-29"
+  ],
+  "handle": "26078",
+  "identifier_other": "etd-01312007-121134",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01312007-121134/",
+  "identifier_uri": "http://hdl.handle.net/10919/26078",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "vimjam_phd_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ATPG",
+    "Equivalence Checking",
+    "SAT",
+    "Model Checking",
+    "BDD",
+    "Learning"
+  ],
+  "title": "Strategies for SAT-Based Formal Verification",
+  "type": "Dissertation"
+}

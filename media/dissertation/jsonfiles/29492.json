@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Laomettachit, Teeraphan",
+  "contributor_committeechair": "Tyson, John J.",
+  "contributor_committeemember": [
+    "Banerjee, Diya",
+    "Finkielstein, Carla V.",
+    "Laubenbacher, Reinhard C.",
+    "Xing, Jianhua"
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:18:13Z",
+  "date_adate": "2011-11-11",
+  "date_available": "2014-03-14T20:18:13Z",
+  "date_issued": "2011-10-24",
+  "date_rdate": "2012-11-11",
+  "date_sdate": "2011-11-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mathematical modeling has become increasingly popular as a tool to study regulatory interactions within gene-protein networks. From the modelerâ  s perspective, two challenges arise in the process of building a mathematical model. First, the same regulatory network can be translated into different types of models at different levels of detail, and the modeler must choose an appropriate level to describe the network. Second, realistic regulatory networks are complicated due to the large number of biochemical species and interactions that govern any physiological process. Constructing and validating a realistic mathematical model of such a network can be a difficult and lengthy task. To confront the first challenge, we develop a new modeling approach that classifies components in the networks into three classes of variables, which are described by different rate laws. These three classes serve as â  building blocksâ   that can be connected to build a complex regulatory network. We show that our approach combines the best features of different types of models, and we demonstrate its utility by applying it to the budding yeast cell cycle. To confront the second challenge, modelers have developed rule-based modeling as a framework to build complex mathematical models. In this approach, the modeler describes a set of rules that instructs the computer to automatically generate all possible chemical reactions in the network. Building a mathematical model using rule-based modeling is not only less time-consuming and error-prone, but also allows modelers to account comprehensively for many different mechanistic details of a molecular regulatory system. We demonstrate the potential of rule-based modeling by applying it to the generation of circadian rhythms in cyanobacteria.",
+  "description_provenance": [
+    "Author Email: laomett@vt.edu",
+    "Advisor Email: tyson@vt.edu",
+    "Advisor Email: dbanerjee@vt.edu",
+    "Advisor Email: finkielc@vt.edu",
+    "Advisor Email: rlaubenb@vt.edu",
+    "Advisor Email: jxing@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:13Z (GMT). No. of bitstreams: 1 Laomettachit_T_D_2011.pdf: 7086001 bytes, checksum: 79aecbe572c8102276a959f9b4f5654a (MD5)   Previous issue date: 2011-10-24"
+  ],
+  "handle": "29492",
+  "identifier_other": "etd-11072011-021528",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11072011-021528/",
+  "identifier_uri": "http://hdl.handle.net/10919/29492",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Laomettachit_T_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cyanobacteria",
+    "Mathematical Modeling",
+    "Protein Regulatory Networks",
+    "Budding Yeast Cell Cycle",
+    "Circadian Rhythm"
+  ],
+  "title": "Mathematical modeling approaches for dynamical analysis of protein regulatory networks with applications to the budding yeast cell cycle and the circadian rhythm in cyanobacteria",
+  "type": "Dissertation"
+}

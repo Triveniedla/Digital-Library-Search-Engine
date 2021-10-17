@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Zhang, Tongli",
+  "contributor_committeechair": "Tyson, John J.",
+  "contributor_committeecochair": "Brazhnik, Paul",
+  "contributor_committeemember": [
+    "Li, Liwu",
+    "Mendes, Pedro J. P.",
+    "Finkielstein, Carla V.",
+    "Burns, John A."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:17:54Z",
+  "date_adate": "2008-11-25",
+  "date_available": "2014-03-14T20:17:54Z",
+  "date_issued": "2008-10-23",
+  "date_rdate": "2008-11-25",
+  "date_sdate": "2008-11-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In a multi-cellular organism, cells constantly receive signals on their internal condition and surrounding environment. In response to various signals, cells proliferate, move around or even undergo suicide. The signal-response is controlled by complex molecular machinery, understanding of which is an important goal of basic molecular biological research. Such understanding is also valuable for clinical application, since lethal diseases like cancer show maladaptive responses to growth-regulating signals. Because the multiple feedbacks in the molecular regulatory machinery obscure cause-effect relations, it is hard to understand these control systems by intuition alone. Here we translate the molecular interactions into differential equations and recapture the cellular physiological properties with the help of numerical simulations and non-linear dynamical tools. The models address the physiological features of programmed cell death, the cell fate decision by p53 and the dynamics of the NF-?B control system. These models identify key molecular interactions responsible for the observed physiological properties, and they generate experimentally testable predictions to validate the assumptions made in the models.",
+  "description_provenance": [
+    "Author Email: tongli@vt.edu",
+    "Advisor Email: tyson@vt.edu",
+    "Advisor Email: brazhnik@vt.edu",
+    "Advisor Email: lwli@vt.edu",
+    "Advisor Email: pedro.mendes@manchester.ac.uk",
+    "Advisor Email: finkielc@vt.edu",
+    "Advisor Email: jaburns@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:54Z (GMT). No. of bitstreams: 1 tonglidisnov19.pdf: 3909164 bytes, checksum: 8770e8538e57a82252946a61953ef6e0 (MD5)   Previous issue date: 2008-10-23"
+  ],
+  "handle": "29443",
+  "identifier_other": "etd-11032008-114621",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11032008-114621/",
+  "identifier_uri": "http://hdl.handle.net/10919/29443",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "tonglidisnov19.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mathematical modeling",
+    "systems biology",
+    "apoptosis",
+    "p53",
+    "NFkB"
+  ],
+  "title": "Mathematical Models of Some Signaling Pathways Regulating Cell Survival and Death",
+  "type": "Dissertation"
+}

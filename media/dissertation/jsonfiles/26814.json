@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Jilcott, Jr., Steven Wayne",
+  "contributor_committeechair": "Hagedorn, George A.",
+  "contributor_committeemember": [
+    "Chang, Lay Nam",
+    "Kohler, Werner E.",
+    "Klaus, Martin",
+    "Beattie, Christopher A."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:09:30Z",
+  "date_adate": "2000-04-13",
+  "date_available": "2014-03-14T20:09:30Z",
+  "date_issued": "2000-03-09",
+  "date_rdate": "2001-04-13",
+  "date_sdate": "2000-04-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We discuss the physical problem of a molecule  interacting with an electromagnetic field pulse  and model the problem using a time-dependent perturbation of the Born-Oppenheimer approximation to the Schrodinger equation.  Using previous  results that develop asymptotic series solutions  in the Born-Oppenheimer parameter Îµ, we  derive a formal Dyson series expansion in the  perturbation parameter Î¼, which is  proportional to the electromagnetic field strength. We then prove that this series is asymptotically  accurate in both parameters, provided that the Hamiltonian for the electrons has purely discrete spectrum.  Under more general hypotheses, we show that the series is accurate to first order in  Î¼, and that it is accurate to one higher order if we place conditions on the abruptness of the  EM pulse.  We also show how this series  development provides a justification for the  Franck-Condon factors in the case of a diatomic  molecule.",
+  "description_provenance": [
+    "Author Email: sjilcott@math.vt.edu",
+    "Advisor Email: laynam@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Advisor Email: klaus@math.vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:30Z (GMT). No. of bitstreams: 1 etd.pdf: 369919 bytes, checksum: 525f4a30d74d947a197c3dbba31a8c93 (MD5)   Previous issue date: 2000-03-09"
+  ],
+  "handle": "26814",
+  "identifier_other": "etd-04132000-13040037",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04132000-13040037/",
+  "identifier_uri": "http://hdl.handle.net/10919/26814",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "molecules",
+    "Franck-Condon factors",
+    "electromagnetic field",
+    "perturbation theory",
+    "laser",
+    "Born-Oppenheimer approximation"
+  ],
+  "title": "Time-Dependent Perturbation and the Born-Oppenheimer Approximation",
+  "type": "Dissertation"
+}

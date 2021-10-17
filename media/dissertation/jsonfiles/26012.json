@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Begole, James Michael Allen",
+  "contributor_committeechair": "Shaffer, Clifford A.",
+  "contributor_committeemember": [
+    "Abrams, Marc",
+    "Kriz, Ronald D.",
+    "Rosson, Mary Beth",
+    "Kafura, Dennis G."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:06:47Z",
+  "date_adate": "1999-01-19",
+  "date_available": "2014-03-14T20:06:47Z",
+  "date_issued": "1998-12-15",
+  "date_rdate": "1999-01-19",
+  "date_sdate": "1999-01-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>This dissertation analyzes the usefulness of existing \"conventional\" <b>collaboration-transparency</b> systems, which permit the shared use of legacy, single-user applications. I find that conventional collaboration-transparency systems do not use network resources efficiently, and they impose an inflexible, tightly coupled style of collaboration because they do not adequately support important groupware principles: concurrent work, relaxed WYSIWIS, group awareness, and inherently collaborative tasks. This dissertation proposes and explores solutions to those deficiencies. </p><p> The primary goal of this work is to maintain the benefits of collaboration transparency while relieving some of its disadvantages. To that end, I present an alternate implementation approach that provides many features previously seen only in applications specifically designed to support cooperative work, called <b>collaboration-aware</b> applications. The new approach uses a replicated architecture, in which a copy of the application resides on each user's machine, and the users' input events are broadcast to each copy. I discuss solutions to certain key problems in replicated architectures, such as maintaining consistency, unanticipated sharing, supporting late-joiners, and replicating system resources (e.g., files, sockets, and random number generators). To enhance the collaborative usability of a legacy application, the new approach <i> transparently</i> replaces selected single-user interface objects with multi-user versions at runtime. There are four requirements of an application platform needed to implement this approach: process migration, run-time object replacement, dynamic binding, and the ability to intercept and introduce low-level user input events. As an instance of this approach, I describe its incorporation into a new Java-based collaboration-transparency system, called Flexible JAMM (Java Applets Made Multi-user). </p><p> This dissertation reports the results of a controlled empirical study that evaluated the usefulness of Flexible JAMM versus a representative conventional collaboration-transparency system, Microsoft NetMeeting. The results validate that Flexible JAMM meets its goals, and uncover usability problems in both systems, particularly with respect to using floor control. Additionally, the dissertation reports the results of an informal study that evaluated using Flexible JAMM as a groupware toolkit. </p><p> This dissertation demonstrates that it is possible to bring collaboration transparency closer to the advantages afforded by collaboration awareness. Furthermore, the prototype system demonstrates that collaboration-aware toolkits can include multi-user versions of some standard single-user components that require no collaboration-specific programming by the toolkit user. Thus, the results of this research advance the state of the art in both collaboration-transparency systems and collaboration-aware toolkits. </p>",
+  "description_provenance": [
+    "Author Email: begolej@vt.edu",
+    "Advisor Email: abrams@cs.vt.edu",
+    "Advisor Email: shaffer@cs.vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: rosson@cs.vt.edu",
+    "Advisor Email: kafura@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:47Z (GMT). No. of bitstreams: 1 BEGOLEDISSERTATION1998.PDF: 1451421 bytes, checksum: e220cf631f77cd6339a6c884bee2c2b1 (MD5)   Previous issue date: 1998-12-15"
+  ],
+  "handle": "26012",
+  "identifier_other": "etd-011999-152714",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-011999-152714/",
+  "identifier_uri": "http://hdl.handle.net/10919/26012",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BEGOLEDISSERTATION1998.PDF",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "usability",
+    "application sharing",
+    "groupware",
+    "collaboration transparency",
+    "Java",
+    "computer-supported cooperative work"
+  ],
+  "title": "Flexible Collaboration Transparency: Supporting Worker Independence in Replicated Application-Sharing Systems",
+  "type": "Dissertation"
+}

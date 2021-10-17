@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Gundlach, John Frederick",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Cliff, Eugene M.",
+    "Kapania, Rabesh K.",
+    "Foch, Richard"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:22Z",
+  "date_adate": "2004-04-30",
+  "date_available": "2014-03-14T20:08:22Z",
+  "date_issued": "2004-02-09",
+  "date_rdate": "2005-04-30",
+  "date_sdate": "2004-03-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Through this research, a robust aircraft design methodology is developed for analysis and optimization of the Air Vehicle (AV) segment of Unmanned Aerial Vehicle (UAV) systems.  The analysis functionality of the AV design is integrated with a Genetic Algorithm (GA) to form an integrated Multi-disciplinary Design Optimization (MDO) methodology for optimal AV design synthesis.   This research fills the gap in integrated subsonic fixed-wing UAV AV MDO methods.  No known single methodology captures all of the phenomena of interest over the wide range of UAV families considered here.  Key advancements include: 1) parametric Low Reynolds Number (LRN) airfoil aerodynamics formulation, 2) UAV systems mass properties definition, 3) wing structural weight methods, 4) self-optimizing flight performance model, 5) automated geometry algorithms, and 6) optimizer integration.  Multiple methods are provided for many disciplines to enable flexibility in functionality, level of detail, computational expediency, and accuracy.    The AV design methods are calibrated against the High-Altitude Long-Endurance (HALE) Global Hawk, Medium-Altitude Endurance (MAE) Predator, and Tactical Shadow 200 classes, which exhibit significant variations in mission performance requirements and scale from one another.  Technology impacts on the design of the three UAV classes are evaluated from a representative system technology year through 2025.  Avionics, subsystems, aerodynamics, design, payloads, propulsion, and structures technology trends are assembled or derived from a variety of sources.  The technology investigation serves the purposes of validating the effectiveness of the integrated AV design methods and to highlight design implications of technology insertion through future years.  Flight performance, payload performance, and other attributes within a vehicle family are fixed such that the changes in the AV designs represent technology differences alone, and not requirements evolution.  The optimizer seeks to minimize AV design gross weight for a given mission requirement and technology set.    All three UAV families show significant design gross weight reductions as technology improves.  The predicted design gross weight in 2025 for each class is: 1) 12.9% relative to the 1994 Global Hawk, 2) 6.26% relative to the 1994 Predator, and 3) 26.3% relative to the 2000 Shadow 200.  The degree of technology improvement and ranking of contributing technologies differs among the vehicle families.  The design gross weight is sensitive to technologies that directly affect the non-varying weights for all cases, especially payload and avionics/subsystems technologies.  Additionally, the propulsion technology strongly affects the high performance Global Hawk and Predator families, which have high fuel mass fractions relative to the Tactical Shadow 200 family.  The overall technology synergy experienced 10-11 years after the initial technology year is 6.68% for Global Hawk, 7.09% for Predator, and 4.22% for the Shadow 200, which means that the technology trends interact favorably in all cases.  The Global Hawk and Shadow 200 families exhibited niche behavior, where some vehicles attained higher aerodynamic performance while others attained lower structural mass fractions.  The high aerodynamic performance Global Hawk vehicles had high aspect ratio wings with sweep, while the low structural mass fraction vehicles had straight, relatively low aspect ratios and smaller wing spans.  The high aerodynamic performance Shadow 200 vehicles had relatively low wing loadings and large wing spans, while the lower structural mass fraction counterparts sought to minimize physical size.",
+  "description_provenance": [
+    "Author Email: zzzzjay@aol.com",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: cliff@origin2.icam.vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: foch@ccs.nrl.navy.mil",
+    "Made available in DSpace on 2014-03-14T20:08:22Z (GMT). No. of bitstreams: 1 Dissertation3a.pdf: 2508093 bytes, checksum: 787ae8f101403aec06f053bc157c1ce2 (MD5)   Previous issue date: 2004-02-09"
+  ],
+  "handle": "26482",
+  "identifier_other": "etd-03232004-185609",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03232004-185609/",
+  "identifier_uri": "http://hdl.handle.net/10919/26482",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation3a.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Unmanned Aerial Vehicle (UAV)",
+    "Technology Predictions",
+    "Multidisciplinary Design Optimization",
+    "Aircraft Design"
+  ],
+  "title": "Multidisciplinary Design Optimization of Subsonic Fixed-Wing Unmanned Aerial Vehicles Projected Through 2025",
+  "type": "Dissertation"
+}

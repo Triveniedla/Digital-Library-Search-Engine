@@ -4,7 +4,7 @@ import pprint
 
 if __name__ == '__main__':
 
-    directory='E:/courses/Fall2020/cs518-WebProgramming/gitrepos/webprogramming-Triveniedla/milestone3/media/dissertation/'
+    directory='../media/dissertation/'
     res = requests.get('http://localhost:9200')
     pprint.pprint(res.content)
     es = Elasticsearch([{'host': 'localhost', 'port': '9200'}])

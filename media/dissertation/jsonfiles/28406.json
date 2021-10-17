@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Fulton, Brian I.",
+  "contributor_committeecochair": [
+    "Cliff, Eugene M.",
+    "Herdman, Terry L."
+  ],
+  "contributor_committeemember": [
+    "Burns, John A.",
+    "Iliescu, Traian",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:14:20Z",
+  "date_adate": "2006-08-14",
+  "date_available": "2014-03-14T20:14:20Z",
+  "date_issued": "2006-07-21",
+  "date_rdate": "2006-08-14",
+  "date_sdate": "2006-07-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Rigidizable/Inflatable space structures have been the focus of renewed interest in recent years due to efficient packaging for transport.  In this work, we examine new mathematical systems used to model small-scale joint dynamics for inflatable space truss structures.  We investigate the regularity and asymptotic behavior of systems resulting from various damping models, including Kelvin-Voigt, Boltzmann, and thermoelastic damping.  Approximation schemes will also be introduced.  Finally, we look at optimal control for the Kelvin-Voigt model using a linear feedback regulator.",
+  "description_provenance": [
+    "Author Email: bfulton@highpoint.edu",
+    "Made available in DSpace on 2014-03-14T20:14:20Z (GMT). No. of bitstreams: 1 BIF_thesis.pdf: 9506710 bytes, checksum: 85aefd4f7f9280308640210cf262cd95 (MD5)   Previous issue date: 2006-07-21"
+  ],
+  "handle": "28406",
+  "identifier_other": "etd-07262006-110955",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07262006-110955/",
+  "identifier_uri": "http://hdl.handle.net/10919/28406",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BIF_thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Thermoelastic",
+    "Boltzmann Damping",
+    "Beam Networks",
+    "Semigroup Theory",
+    "Viscoelastic"
+  ],
+  "title": "Analysis and Approximation of Viscoelastic and Thermoelastic Joint-Beam Systems",
+  "type": "Dissertation"
+}

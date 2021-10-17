@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Zhou, Jinghai",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "van Wyk, Daan",
+    "Lu, Guo-Quan",
+    "Lindner, Douglas K."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:47Z",
+  "date_adate": "2005-04-27",
+  "date_available": "2014-03-14T20:10:47Z",
+  "date_issued": "2005-04-22",
+  "date_rdate": "2005-04-27",
+  "date_sdate": "2005-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As a very special DC-DC converter, VRM (Voltage Regulator Module) design must follow the fast-developing trend of microprocessors. The design challenges are the high current, high di/dt, and stringent load-line requirement. When the energy is transferred from the input of a VRM, through the VRM, then through the power delivery path to the processor, it needs sufficient capacitors to relay this energy. The capacitorsâ   number appears to be unrealistically large if we follow todayâ  s approach for the future processors. High frequency VRM with high control bandwidth can solve this problem, however, the degradation of efficiency makes the conventional buck converter and the hard-switching isolated topologies incapable of operating at higher frequency. The research goal is to develop novel means that can help a high-output- current VRM run efficiently at high frequency. A novel Complementary Controlled Bridge (CCB) self-driven concept is proposed. With the proposed self-driven scheme, the combination of the ZVS technique and the self-driven technique recycles the gate driving energy by making use of the input capacitor of the secondary- side synchronous rectifier (SR) as the snubber capacitor of the primary-side switches.  Compared to the external driver, the proposed converter can save driving loss and synchronous rectifier body diode conduction loss. Additionally, compared to the existing level-shifted self-driven scheme for bridge-type symmetrical topologies, its gate signal ringing is small and suitable for high-frequency applications. Although the CCB self-driven VRM reduces the switching frequency-related losses significantly, the conduction loss is still high. Inspired by the current-doubler concept, a novel ZVS current-tripler DC-DC converter is proposed in this work. By utilizing more SR devices to share the current during the freewheeling period, the SR conduction loss is reduced. The current-tripler DC-DC converter has a delta/delta connected transformer that can be implemented with integrated magnetics. The transformer then becomes an integrated magnetic with distributed windings, which is preferred in high current applications. The current-tripler DC-DC converter in fact meets the requirements for the CCB self-driven scheme. The two concepts are then combined with an integrated gate drive transformer.   The proposed CCB self-driven concept and current-tripler concept can both be applied to the 12V non-isolated VRMs. The proposed topology is basically a buck-derived soft-switching topology with duty cycle extension and SR device self-driven capabilities. Because there is no isolation requirement, the SR gate driving becomes so simple that the voltage at the complementary controlled bridge can be used to directly drive the SR gate. Both the gate driving loss and the SR body diode conduction loss are reduced. The proposed circuit achieves similar overall efficiency to a conventional 300kHz buck converter running at 1MHz. All the circuits proposed in this dissertation can use coupling inductors to improve both the steady-state efficiency and dynamic performances. The essence of the coupling inductors concept is to provide different equivalent inductances for the steady state and the transient. Moreover, when a current loop becomes necessary to achieve proper current sharing among phases, the current loop sample hold effect will make it difficult to push the bandwidth. The sample hold effect is alleviated by the coupling inductors concept. A small-signal model is proposed to study the system dynamic performance difference with different coupling inductor designs. As the verification, the coupling concept is applied to the 12V non-isolated CCB self-driven VRM and the bandwidth as high as one third of the switching frequency is achieved, which means a significant output capacitor reduction.",
+  "description_provenance": [
+    "Author Email: jhzhou@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:47Z (GMT). No. of bitstreams: 1 ETD_final_submit.pdf: 4186599 bytes, checksum: ad24e1ca14d621b3762da42289a6fe2c (MD5)   Previous issue date: 2005-04-22"
+  ],
+  "handle": "27268",
+  "identifier_other": "etd-04252005-095515",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252005-095515/",
+  "identifier_uri": "http://hdl.handle.net/10919/27268",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_final_submit.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "voltage regulator module",
+    "current-tripler",
+    "coupling inductors",
+    "self-driven"
+  ],
+  "title": "High Frequency, High Current Density Voltage Regulators",
+  "type": "Dissertation"
+}

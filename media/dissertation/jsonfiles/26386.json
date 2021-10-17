@@ -1,0 +1,51 @@
+{
+  "contributor_author": "McDonald, Thomas N",
+  "contributor_committeecochair": [
+    "Ellis, Kimberly P.",
+    "Van Aken, Eileen M."
+  ],
+  "contributor_committeemember": [
+    "Boyland, John",
+    "Koelling, Charles Patrick",
+    "Sullivan, William",
+    "Rentes, Antonio F."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:08:04Z",
+  "date_adate": "2004-03-18",
+  "date_available": "2014-03-14T20:08:04Z",
+  "date_issued": "2004-02-27",
+  "date_rdate": "2005-03-18",
+  "date_sdate": "2004-03-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Lean production prescribes training workers on all tasks within the cell to adapt to changes in customer demand.  Multi-skilling of workers can be achieved by cross-training.  Cross-training can be improved and reinforced by implementing job rotation.  Lean production also prescribes using job rotation to improve worker flexibility, worker satisfaction, and to increase worker knowledge in how their work affects the rest of the cell.  Currently, there is minimal research on how to assign multi-skilled workers to tasks within a lean production cell while considering multi-skilling and job rotation.   In this research, a new mathematical model was developed that assigns workers to tasks, while ensuring job rotation, and determines the levels of skill, and thus training, necessary to meet customer demand, quality requirements, and training objectives.  The model is solved using sequential goal programming to incorporate three objectives:  overproduction, cost of poor quality, and cost of training.  The results of the model include an assignment of workers to tasks, a determination of the training necessary for the workers, and a job rotation schedule.  To evaluate the results on a cost basis, the costs associated with overproduction, defects, and training were used to calculate the net present cost for one year.  The solutions from the model were further analyzed using a simulation model of the cell to determine the impact of job rotation and multi-skilling levels on production line performance.  The measures of performance include average flowtime, work-in-process (WIP) level, and monthly shipments (number produced). Using the model, the impact of alternative levels of multi-skilling and job rotation on the performance of cellular manufacturing systems is investigated. Understanding the effect of multi-skilling and job rotation can aid both production managers and human resources managers in determining which workers need training and how often workers should be rotated to improve the performance of the cell.  The lean production literature prescribes training workers on all tasks within a cell and developing a rotation schedule to reinforce the cross-training.  Four levels of multi-skilling and three levels of job rotation frequency are evaluated for both a hypothetical cell and a case application in a relatively mature actual production cell.  The results of this investigation provide insight on how multi-skilling and job rotation frequency influence production line performance and provide guidance on training policies. The results show that there is an interaction effect between multi-skilling and job rotation for flowtime, work-in-process, in both the hypothetical cell and the case application and monthly shipments in the case application.  Therefore, the effect of job rotation on performance measures is not the same at all levels of multi-skilling thus indicating that inferences about the effect of changing multi-skilling, for example, should not be made without considering the job rotation level.  The results also indicate that the net present cost is heavily influenced by the cost of poor quality.  The results for the case application indicated that the maturity level of the cell influences the benefits derived from increased multi-skilling and affects several key characteristics of the cell.  As a cell becomes more mature, it is expected that the quality levels increase and that the skill levels on tasks normally performed increase.  Because workers in the case application already have a high skill level on some tasks, the return on training is not as significant.  Additionally, the mature cell has relatively high quality levels from the beginning and any improvements in quality would be in small increments rather than in large breakthroughs. The primary contribution of this research is the development of a sequential goal programming worker assignment model that addresses overproduction, poor quality, cross-training, and job rotation in order to meet the prescription in the lean production literature of only producing to customer demand while utilizing multi-skilled workers.  Further contributions are analysis of how multi-skilling level and job rotation frequency impact the performance of the cell.  Lastly, a contribution is the application of optimization and simulation methods for comprehensively analyzing the impact of worker assignment on performance measures.",
+  "description_provenance": [
+    "Author Email: thmcdona@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: evanaken@vt.edu",
+    "Advisor Email: sullivan@esper.com",
+    "Made available in DSpace on 2014-03-14T20:08:04Z (GMT). No. of bitstreams: 2 McDonald_Dissertation.pdf: 2013304 bytes, checksum: f420d3585321ef59bdd7866e3169d80f (MD5) McDonald_Appendices.pdf: 1070092 bytes, checksum: 652889d8fd24379e2d9ef57252dbc557 (MD5)   Previous issue date: 2004-02-27"
+  ],
+  "handle": "26386",
+  "identifier_other": "etd-03082004-120627",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03082004-120627/",
+  "identifier_uri": "http://hdl.handle.net/10919/26386",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "McDonald_Dissertation.pdf",
+    "McDonald_Appendices.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Lean Production",
+    "Worker Assignment",
+    "Cross training",
+    "Simulation",
+    "Job Rotation"
+  ],
+  "title": "Analysis of Worker Assignment Policies on Production Line Performance Utilizing a Multi-skilled Workforce",
+  "type": "Dissertation"
+}

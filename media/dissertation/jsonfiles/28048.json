@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Hassan, Marwa M.",
+  "contributor_committeechair": "Beliveau, Yvan J.",
+  "contributor_committeemember": [
+    "Thomas, James R. Jr.",
+    "Jones, James R.",
+    "Al-Qadi, Imadeddin L.",
+    "Wakefield, Ronald R."
+  ],
+  "contributor_department": "Building Construction",
+  "date_accessioned": "2014-03-14T20:13:10Z",
+  "date_adate": "2003-07-01",
+  "date_available": "2014-03-14T20:13:10Z",
+  "date_issued": "2003-05-29",
+  "date_rdate": "2004-07-01",
+  "date_sdate": "2003-06-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A framework that presents a new methodology for design-evaluation of active solar collection systems was developed.  Although this methodology emphasizes the importance of detailed modeling for accurate prediction of building performance, it also presents a process through which the detailed modeling results can be reused in a simplified iterative procedure allowing the designer the flexibility of revising and improving the preliminary design.  For demonstration purposes, the framework was used to design and evaluate two case studies located in Blacksburg (VA) and Minneapolis (MN).  These locations were selected because they both represent a cold weather region; presenting a need for using solar energy for heating and hot water requirements.  Moreover, the cold weather in Blacksburg is not as severe as in Minneapolis.  Therefore, the two cases will result in different thermal loading structures enabling the framework validation process.  The solar collection system supplying both case studies consisted of a low temperature flat plate solar collector and storage system.  Thermal performance of the case study located in Blacksburg was conducted using detailed modeling evaluation techniques; while thermal performance of the case study located in Minneapolis was conducted using a simplified modeling evaluation technique.  In the first case study, hourly evaluation of the thermal performance of the solar collection system was accomplished using finite element (FE) analysis, while hourly evaluation of the building thermal performance was made using Energy Plus software.  The results of the finite element analysis were used to develop a statistical predictive design equation.  The energy consumption for the second case study was calculated using the heating design day method and the energy collection for that case study was calculated using the predictive design equation developed from the first case study results.  Results showed that, in the case of the building located in Blacksburg, the solar collection system can supply an average of 85% of the buildingâ  s heating and hot water requirements through out the year.  In the case of the building located in Minneapolis, the solar collection system can supply an average of 56% of the buildingâ  s heating and hot water requirements through out the year given no night time window insulation and using similar insulation thicknesses for both cases.",
+  "description_provenance": [
+    "Author Email: mahassan@vt.edu",
+    "Advisor Email: jthomas@vt.edu",
+    "Advisor Email: jajone10@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Advisor Email: yvan@vt.edu",
+    "Advisor Email: ronwak@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:10Z (GMT). No. of bitstreams: 4 Vitae.pdf: 61838 bytes, checksum: 3f1ab291cd8293fa6a0baaf040b4723b (MD5) dissertation.pdf: 2613180 bytes, checksum: 1bf6cf4602b13434f4614a678e03a745 (MD5) cover-page.pdf: 56159 bytes, checksum: 4b10a0123529d348a95c9191b07429d9 (MD5) Appendix.pdf: 339183 bytes, checksum: 1138ccad999d542d7d43dae614b6e580 (MD5)   Previous issue date: 2003-05-29"
+  ],
+  "handle": "28048",
+  "identifier_other": "etd-06162003-132939",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06162003-132939/",
+  "identifier_uri": "http://hdl.handle.net/10919/28048",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Vitae.pdf",
+    "dissertation.pdf",
+    "cover-page.pdf",
+    "Appendix.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "building simulation",
+    "phase change material",
+    "finite element",
+    "active solar collection systems",
+    "solar energy"
+  ],
+  "title": "Framework for active solar collection systems",
+  "type": "Dissertation"
+}

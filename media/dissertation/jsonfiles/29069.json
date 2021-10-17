@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Nguyen, Anh-Minh Ngoc",
+  "contributor_committeechair": "Zaghloul, Amir I.",
+  "contributor_committeemember": [
+    "Monticone, Leone",
+    "Pratt, Timothy J.",
+    "Renardy, Yuriko Y.",
+    "Tranter, William H.",
+    "Mili, Lamine M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:35Z",
+  "date_adate": "2005-10-21",
+  "date_available": "2014-03-14T20:16:35Z",
+  "date_issued": "2005-09-14",
+  "date_rdate": "2006-10-21",
+  "date_sdate": "2005-09-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation focuses on quantifying the effects of multi-user co-channel interference for an avionic communication system operating in a heavy-traffic aeronautical mobile environment and proposes advanced interference cancellation techniques to mitigate the interference.  The dissertation consists of two parts.  The first part of the work investigates the use of a visualization method to quantify and characterize the multi-user co-channel interference (multiple access interference) effects impinging on an avionic communication system.  The interference is caused by complex interactions of thousands of RF signals transmitted from thousands of aircraft; each attempts to access a common communication channel, which is governed by a specific channel contention access protocol. The visualization method transforms the co-channel interference, which is specified in terms of signal-overlaps (signal collisions), from a visual representation to a matrix representation for further statistical analysis.  It is found that the statistical Poisson and its cumulative distribution provide the best estimates of multi-user co-channel interference.  It is shown, using Monte Carlo simulation, that the co-channel interference of a victim aircraft operating in the heavy-traffic environment could result in as high as eight signal-overlaps.  This constitutes to approximately 83.4% of success rate in signal detection for the entire three thousand aircraft environment using conventional FSK receiver.  One key finding shows that high-quality communications, up to 98.5% success rate, is achievable if only three overlapping signals can be decoded successfully. The interference results found in the first part set the stage for interference cancellation research in the second part.  The second part of the work proposes the use of advanced interference cancellation techniques, namely sequential interference cancellation (SIC) and parallel interference cancellation (PIC), as potential solutions to mitigating the interference effects. These techniques can be implemented in radio receivers to perform multi-signal decoding functionality to remove the required interferers (three overlapping signals) so that high-quality communication, as described in the first part, can be achieved.  Various performance graphs are shown for B-FSK and B-PSK for both SIC and PIC techniques. One key finding is that the system performance can be improved substantially to an additional 15% in signal reception success rate by using SIC or PIC.  This means that critical information transmitted from 450 aircraft (out of approximately three thousand aircraft in the environment) is preserved and successfully decoded.  Multi-signal decoding using these interference cancellation receivers comes at a small penalty of 2 - 4.5 dBs in Eb/No when sufficient signal-to-interference (SIR) ratio (7-12 dB) is provided.",
+  "description_provenance": [
+    "Author Email: minguyen@vt.edu",
+    "Advisor Email: lmontico@mitre.org",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: renardy@vt.edu",
+    "Advisor Email: amirz@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:35Z (GMT). No. of bitstreams: 1 Minh_Nguyen_Dissertation_revised_Oct-11.pdf: 3599175 bytes, checksum: 0227b6a38885fec6cf08d94758181fd2 (MD5)   Previous issue date: 2005-09-14"
+  ],
+  "handle": "29069",
+  "identifier_other": "etd-09232005-120506",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09232005-120506/",
+  "identifier_uri": "http://hdl.handle.net/10919/29069",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Minh_Nguyen_Dissertation_revised_Oct-11.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PIC",
+    "multi-user detection",
+    "co-channel interference",
+    "Aeronautical mobile communication",
+    "SIC",
+    "Parallel Interference Cancellation",
+    "heavy-traffic environment",
+    "avionic communication",
+    "Sequential (Successive) Interference Cancellation"
+  ],
+  "title": "High-Quality Detection in Heavy-Traffic Avionic Communication System Using Interference Cancellation Techniques",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Anton, Steven Robert",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "Leo, Donald J.",
+    "Priya, Shashank",
+    "Sodano, Henry A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:07Z",
+  "date_adate": "2011-05-02",
+  "date_available": "2014-03-14T20:11:07Z",
+  "date_issued": "2011-04-25",
+  "date_rdate": "2011-05-02",
+  "date_sdate": "2011-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Energy harvesting technology has the ability to create autonomous, self-powered electronic systems that do not rely on battery power for their operation.  The term energy harvesting describes the process of converting ambient energy surrounding a system into useful electrical energy through the use of a specific material or transducer.  A widely studied form of energy harvesting involves the conversion of mechanical vibration energy into electrical energy using piezoelectric materials, which exhibit electromechanical coupling between the electrical and mechanical domains.  Typical piezoelectric energy harvesting systems are designed as add-on systems to a host structure located in a vibration rich environment.  The added mass and volume of conventional vibration energy harvesting designs can hinder to the operation of the host system.  The work presented in this dissertation focuses on advancing piezoelectric energy harvesting concepts through the introduction of multifunctionality in order to alleviate some of the challenges associated with conventional piezoelectric harvesting designs. <br/> <br/> The concept of multifunctional piezoelectric self-charging structures is explored throughout this work.  The operational principle behind the concept is first described in which piezoelectric layers are directly bonded to thin-film battery layers resulting in a single device capable of simultaneously harvesting and storing electrical energy when excited mechanically.  Additionally, it is proposed that self-charging structures be embedded into host structures such that they support structural load during operation.  An electromechanical assumed modes model used to predict the coupled electrical and mechanical response of a cantilever self-charging structure subjected to harmonic base excitation is described.  Experimental evaluation of a prototype self-charging structure is then performed in order to validate the electromechanical model and to confirm the ability of the device to operate in a self-charging manner.  Detailed strength testing is also performed on the prototype device in order to assess its strength properties.  Static three-point bend testing as well as dynamic harmonic base excitation testing is performed such that the static bending strength and dynamic strength under vibration excitation is assessed.  Three-point bend testing is also performed on a variety of common piezoelectric materials and results of the testing provide a basis for the design of self-charging structures for various applications. <br/> <br/> Multifunctional vibration energy harvesting in unmanned aerial vehicles (UAVs) is also investigated as a case study in this dissertation.  A flight endurance model recently developed in the literature is applied to model the effects of adding piezoelectric energy harvesting to an electric UAV.  A remote control foam glider aircraft is chosen as the test platform for this work and the formulation is used to predict the effects of integrating self-charging structures into the wing spar of the aircraft.  An electromechanical model based on the assumed modes method is then developed to predict the electrical and mechanical behavior of a UAV wing spar with embedded piezoelectric and thin-film battery layers.  Experimental testing is performed on a representative aluminum wing spar with embedded self-charging structures in order to validate the electromechanical model.  Finally, fabrication of a realistic fiberglass wing spar with integrated piezoelectric and thin-film battery layers is described.  Experimental testing is performed in the laboratory to evaluate the energy harvesting ability of the spar and to confirm its self-charging operation.  Flight testing is also performed where the fiberglass spar is used in the remote control aircraft test platform and the energy harvesting performance of the device is measured during flight.",
+  "description_provenance": [
+    "Author Email: sranton@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: spriya@vt.edu",
+    "Advisor Email: hsodano@ufl.edu",
+    "Made available in DSpace on 2014-03-14T20:11:07Z (GMT). No. of bitstreams: 1 Anton_SR_D_2011.pdf: 12501853 bytes, checksum: 42fc0693049e1d83fea1f576f99e55a7 (MD5)   Previous issue date: 2011-04-25"
+  ],
+  "handle": "27388",
+  "identifier_other": "etd-04272011-202842",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272011-202842/",
+  "identifier_uri": "http://hdl.handle.net/10919/27388",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Anton_SR_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "piezoelectric",
+    "unmanned aerial vehicle",
+    "multifunctional",
+    "energy harvesting"
+  ],
+  "title": "Multifunctional Piezoelectric Energy Harvesting Concepts",
+  "type": "Dissertation"
+}

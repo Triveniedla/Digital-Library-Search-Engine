@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Henderson, Darrall",
+  "contributor_committeecochair": [
+    "Jacobson, Sheldon H.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_committeemember": [
+    "Wakefield, Ronald R.",
+    "Bish, Ebru K.",
+    "Sherali, Hanif D."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:09:49Z",
+  "date_adate": "2001-04-18",
+  "date_available": "2014-03-14T20:09:49Z",
+  "date_issued": "2001-05-13",
+  "date_rdate": "2002-04-18",
+  "date_sdate": "2001-04-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Identifying a globally optimal solution for an intractable discrete optimization problem is often cost prohibitive. Therefore, solutions that are within a predetermined threshold are often acceptable in practice.  This dissertation introduces the concept of B-acceptable solutions where B is a predetermined threshold for the objective function value.    It is difficult to assess a priori the effectiveness of local search algorithms, which makes the process of choosing parameters to improve their performance difficult.  This dissertation introduces the B-acceptable solution probability in terms of B-acceptable solutions as a finite-time performance measure for local search algorithms.  The B-acceptable solution probability reflects how effectively an algorithm has performed to date and how effectively an algorithm can be expected to perform in the future.  The B-acceptable solution probability is also used to obtain necessary asymptotic convergence (with probability one) conditions.  Upper and lower bounds for the B-acceptable solution probability are presented.  These expressions assume particularly simple forms when applied to specific local search strategies such as Monte Carlo search and threshold accepting.  Moreover, these expressions provide guidelines on how to manage the execution of local search algorithm runs.  Computational experiments are reported to estimate the probability of reaching a B-acceptable solution for a fixed number of iterations.  Logistic regression is applied as a tool to estimate the probability of reaching a B-acceptable solution for values of B close to the objective function value of a globally optimal solution as well as to estimate this objective function value.   Computational experiments are reported with logistic regression for pure local search, simulated annealing and threshold accepting applied to instances of the TSP with known optimal solutions.",
+  "description_provenance": [
+    "Author Email: darrall@stanfordalumni.org",
+    "Advisor Email: shj@uiuc.edu",
+    "Advisor Email: ronwak@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:49Z (GMT). No. of bitstreams: 1 Henderson_D_Dissertation.pdf: 664534 bytes, checksum: a5c4094c7e001cde5d9c5e3e18f65115 (MD5)   Previous issue date: 2001-05-13"
+  ],
+  "handle": "26926",
+  "identifier_other": "etd-04172001-135808",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04172001-135808/",
+  "identifier_uri": "http://hdl.handle.net/10919/26926",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Henderson_D_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hill climbing algorithms",
+    "heuristics",
+    "finite-time performance",
+    "discrete optimization",
+    "combinatorial optimization",
+    "simulated annealing",
+    "convergence",
+    "local search"
+  ],
+  "title": "Assessing the Finite-Time Performance of Local Search Algorithms",
+  "type": "Dissertation"
+}

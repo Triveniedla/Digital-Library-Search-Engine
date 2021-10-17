@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Valenti, Matthew C",
+  "contributor_committeechair": "Woerner, Brian D.",
+  "contributor_committeemember": [
+    "Gray, Festus Gail",
+    "Shaw, John Kenneth",
+    "Rappaport, Theodore S.",
+    "Jacobs, Ira"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:59Z",
+  "date_adate": "1999-07-14",
+  "date_available": "2014-03-14T20:13:59Z",
+  "date_issued": "1999-07-08",
+  "date_rdate": "2000-07-14",
+  "date_sdate": "1999-07-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Turbo codes are a class of forward error correction (FEC) codes that offer energy efficiencies close to the limits predicted by information theory.  The features of turbo codes include parallel code concatenation, recursive convolutional encoding, nonuniform interleaving, and an associated iterative decoding algorithm.  Although the iterative decoding algorithm has been primarily used  for the decoding of turbo codes, it represents a solution to a more general class of estimation problems that can be described as follows: a data set directly or indirectly drives the state transitions of two or more Markov processes; the output of one or more of the Markov processes is observed through noise; based on the observations, the original data set is estimated.  This dissertation specifically describes the process of encoding and decoding turbo codes.  In addition, a more general discussion of iterative decoding is presented.  Then, several new applications of iterative decoding are proposed and investigated through computer simulation.  The new applications solve two categories of problems: the detection of turbo codes over time-varying channels, and the distributed detection of coded multiple-access signals.  Because turbo codes operate at low signal-to-noise ratios, the process of phase estimation and tracking becomes difficult to perform.  Additionally, the turbo decoding algorithm requires precise estimates of the channel gain and noise variance.  The first significant contribution of this dissertation is a study of several methods of channel estimation suitable specifically for turbo coded systems.   The second significant contribution of this dissertation is a proposed method for jointly detecting coded multiple-access signals using observations from several locations, such as spatially separated base stations.  The proposed system architecture draws from the concepts of macrodiversity combining, multiuser detection, and iterative decoding.  Simulation results show that when the system is applied to the time division multiple-access cellular uplink, a significant improvement in system capacity results.",
+  "description_provenance": [
+    "Author Email: valenti@ieee.org",
+    "Advisor Email: fggray@vt.edu",
+    "Advisor Email: shaw@calvin.math.vt.edu",
+    "Advisor Email: wireless@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:59Z (GMT). No. of bitstreams: 1 dissertation-valenti.pdf: 1297915 bytes, checksum: 94e99ba88d687cb7dc6c134b97715d3f (MD5)   Previous issue date: 1999-07-08"
+  ],
+  "handle": "28290",
+  "identifier_other": "etd-071399-133447",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-071399-133447/",
+  "identifier_uri": "http://hdl.handle.net/10919/28290",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-valenti.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "wireless communications",
+    "channel coding",
+    "turbo codes",
+    "multiuser detection"
+  ],
+  "title": "Iterative Detection and Decoding for Wireless Communications",
+  "type": "Dissertation"
+}

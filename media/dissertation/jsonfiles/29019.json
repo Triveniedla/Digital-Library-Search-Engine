@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Harmon, Henry Jason",
+  "contributor_committeechair": "Carlier, Paul R.",
+  "contributor_committeemember": [
+    "Troya, Diego",
+    "Esker, Alan R.",
+    "Tanko, James M.",
+    "Gandour, Richard D."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:16:25Z",
+  "date_adate": "2008-10-16",
+  "date_available": "2014-03-14T20:16:25Z",
+  "date_issued": "2008-09-10",
+  "date_rdate": "2008-10-16",
+  "date_sdate": "2008-09-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The synthetic utility of nitrile-stabilized carbanions as reactive intermediates for selective carbon-carbon bond formation has prompted numerous studies toward characterization of the solution structure of these nucleophiles.  In hopes of eventually gaining a better understanding of the structural properties which may mediate reactivity and selectivity, researchers have designed elegant structure elucidation strategies.  These studies have offered key advancements toward the characterization of these intermediates; however, contradictory evidence has hindered unambiguous structural determinationâ  particularly for lithiated benzylic nitriles in low dielectric, ethereal media.  Chapter 1 of this dissertation presents a review of the synthetic utility of metalated nitriles and the spectroscopic and computational techniques employed to characterize their solution structure.  Also reviewed herein are the controversial determinations drawn from these efforts.  The research and data which follow in Chapters 2 and 3 focus on resolution of the conflicting structural determinations drawn from multinuclear magnetic resonance (NMR) and vibrational (IR and Raman) spectroscopy.  Employing a strategy to slow the lithium-nitrogen exchange rate in low dielectric media, new 7Li, 31P, and 15N NMR spectroscopic evidence (with support from computational modeling) lead us to amend our previous assessments and propose that lithiated arylacetonitriles adopt an aggregated triple-ion structure in THF/hexane with sub-stoichiometric HMPA.   \t Due to the limitations of computer resources and the effect of non-linear scaling, theoretical modeling of aggregated and solvated lithiated benzylic nitriles became impractical at the 6-31+G(d) basis set.  These limitations led to the use and comparative analysis of two alternative basis sets for the DFT analysis of lithiated benzylic nitrile derivativesâ  6-31(+LiX)G(d) and 6-31â  +â  G(d).  Defined upon the principal of resonance stabilization, these basis sets were constructed by application of varying levels of computational theory on a per-atom basis.  By applying higher levels of theory only to the atoms most intimately involved in the electronic distribution, â  accurateâ   replacement models for 6-31+G(d) structures were obtained with considerable savings in computational resources. This study in basis set economy is detailed fully within Chapters 4 and 5.",
+  "description_provenance": [
+    "Author Email: heharmon@vt.edu",
+    "Advisor Email: pcarlier@vt.edu",
+    "Advisor Email: troya@vt.edu",
+    "Advisor Email: aesker@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Advisor Email: gandour@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:25Z (GMT). No. of bitstreams: 1 etd2.pdf: 3476128 bytes, checksum: 73f8e23150dbb0e9e4d10c64d763692a (MD5)   Previous issue date: 2008-09-10"
+  ],
+  "handle": "29019",
+  "identifier_other": "etd-09182008-214959",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09182008-214959/",
+  "identifier_uri": "http://hdl.handle.net/10919/29019",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Density Functional Theory",
+    "Basis Set Economy",
+    "Multinuclear NMR"
+  ],
+  "title": "Computational and Spectroscopic Determination of Lithiated Benzylic Nitriles in THF/HMPA Solution",
+  "type": "Dissertation"
+}

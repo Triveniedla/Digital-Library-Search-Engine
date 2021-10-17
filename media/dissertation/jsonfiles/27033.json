@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Limache, Alejandro Cesar",
+  "contributor_committeechair": "Cliff, Eugene M.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Anderson, Mark R.",
+    "Lutze, Frederick H. Jr.",
+    "Rogers, Robert C."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:10:09Z",
+  "date_adate": "2000-04-25",
+  "date_available": "2014-03-14T20:10:09Z",
+  "date_issued": "2000-04-10",
+  "date_rdate": "2001-04-25",
+  "date_sdate": "2000-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A mathematical model for the determination of the aerodynamic forces acting on an aircraft is presented. The mathematical model is based on the generalization of the idea of aerodynamically steady motions. One important use of these results is the determination of steady (time-invariant) aerodynamic forces and moments. Such aerodynamic forces can be determined using computer simulation by determining numerically the associated steady flows around the aircraft when it is moving along such generalized steady trajectories. The method required the extension of standard (inertial) CFD formulations to general non-inertial reference frames. Generalized Navier-Stokes and Euler equations have been derived. The formulation is valid for all ranges of Mach numbers including transonic flow. The method was implemented numerically for the planar case using the generalized Euler equations. The developed computer codes can be used to obtain numerical flow solutions for airfoils moving in general steady motions (i.e. circular motions). From these numerical solutions it is possible to determine the variation of the lift, drag and pitching moment with respect to the pitch rate at different Mach numbers and angles of attack. One of the advantages of the mathematical model developed here is that the aerodynamic forces become well-defined functions of the motion variables (including angular rates). In particular, the stability derivatives are associated with partial derivatives of these functions. These stability derivatives can be computed using finite differences or the sensitivity equation method.",
+  "description_provenance": [
+    "Author Email: alimache@vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: anderson@aoe.vt.edu",
+    "Advisor Email: lutze@aoe.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:09Z (GMT). No. of bitstreams: 1 limache.pdf: 9358726 bytes, checksum: e57eae37d04a5aecd32d474aed462282 (MD5)   Previous issue date: 2000-04-10"
+  ],
+  "handle": "27033",
+  "identifier_other": "etd-04202000-14540007",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202000-14540007/",
+  "identifier_uri": "http://hdl.handle.net/10919/27033",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "limache.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "stability derivatives",
+    "aerodynamic forces",
+    "sensitivity equation method",
+    "CFD"
+  ],
+  "title": "Aerodynamic Modeling Using Computational Fluid Dynamics and Sensitivity Equations",
+  "type": "Dissertation"
+}

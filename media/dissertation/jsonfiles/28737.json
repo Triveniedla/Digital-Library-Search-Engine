@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kwon, Gyu  Hyun",
+  "contributor_committeechair": "Smith-Jackson, Tonya L.",
+  "contributor_committeemember": [
+    "Bostian, Charles W.",
+    "Kleiner, Brian M.",
+    "Winchester, Woodrow W. III"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:28Z",
+  "date_adate": "2010-08-25",
+  "date_available": "2014-03-14T20:15:28Z",
+  "date_issued": "2010-08-12",
+  "date_rdate": "2010-08-25",
+  "date_sdate": "2010-08-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The need for interoperability in emergency communication systems has hastened the development of cognitive radio technology.  However, even though a cognitive radio system technically interconnects participating agencies, interoperability depends not only on technical matters but also organizational issues related to the different individuals, working contexts and types of cooperative work involved.  In order to support public safety workers such as police, firefighters, and Emergency Medical Service (EMS) providers appropriately, it is vital to consider the dynamics of the way they interact in any collaborative situation.   \tThe purpose of this study is to develop an in-depth understanding of interoperability and construct a new model based on this understanding, along with a working model of an interoperable communication system to serve as a design framework that (1) supports effective public safety communication and (2) incorporates cognitive radio capabilities to ensure optimal semantic interoperability.  An adequate model for interoperability must include multiple dimensions to explain both the concept of interoperability in the public safety domain and its relationships with task characteristics and information needs.  This model focuses primarily on the requirements for communication systems.  The value perspective reflects the evaluation criteria for effective team communication such as semantic interoperability, task routineness, and information processing aspects.  The design framework incorporates the proposed model into Work Domain Analysis (WDA).  To achieve these research objectives, a series of studies was conducted.  The first was a qualitative exploratory study that identified how the concept of interoperability is manifested in the public safety work domain.  Through the use of semi-structured interviews, communication patterns in terms of interoperability were placed in a real world context.  The responses from the participants were categorized in terms of the dimensions of interoperability and reinterpreted using sensemaking as a theoretical framework.  The dimensions of interoperability identified consisted of information sharedness, communication readiness, operational awareness, adaptiveness, and coupledness.  Based on these findings, a new instrument was proposed to measure interoperability for communication systems.  This instrument was then statistically validated.  The second study identified the effects of different types of operation and types of organization on interoperability, as well as investigating the relationships among interoperability, task routineness and information processing using Structural Equation Modeling (SEM). Based on this understanding and theoretical perspective, a new interoperable communication structure was delineated in the model.  A prototype of a public safety cognitive radio communication system was then developed based on the proposed framework and examined using a focus group in order to validate the proposed model and design framework and highlight any usability issues that may affect the prototype's operational effectiveness.",
+  "description_provenance": [
+    "Author Email: ghkwon@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: wwwinche@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:28Z (GMT). No. of bitstreams: 1 GKwon_Dissertation.pdf: 3221635 bytes, checksum: 5be6f2d58184e5d1faf195c0e3f7f535 (MD5)   Previous issue date: 2010-08-12"
+  ],
+  "handle": "28737",
+  "identifier_other": "etd-08202010-160951",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08202010-160951/",
+  "identifier_uri": "http://hdl.handle.net/10919/28737",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "GKwon_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Organizational Structures",
+    "Interoperability",
+    "Public Safety Communication",
+    "Sensemaking",
+    "Work Domain Analysis",
+    "Cognitive Radio",
+    "Task Routineness",
+    "Information Processing"
+  ],
+  "title": "A Model based Design Framework for Interoperable Communication Systems",
+  "type": "Dissertation"
+}

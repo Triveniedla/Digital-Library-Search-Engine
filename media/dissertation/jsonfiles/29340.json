@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Newman, Christopher K.",
+  "contributor_committeechair": "Beattie, Christopher A.",
+  "contributor_committeemember": [
+    "Adjerid, Slimane",
+    "Borggaard, Jeffrey T.",
+    "Lin, Tao",
+    "Lehoucq, Richard B."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:17:33Z",
+  "date_adate": "2003-11-05",
+  "date_available": "2014-03-14T20:17:33Z",
+  "date_issued": "2003-09-17",
+  "date_rdate": "2003-11-05",
+  "date_sdate": "2003-10-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We provide  an algorithm and analysis of a high order projection scheme for time integration of the incompressible Navier-Stokes equations (NSE). The method is based on a projection onto the  subspace of divergence-free (incompressible) functions interleaved with a Krylov-based exponential time integration (KBEI). These time integration methods provide a high order accurate, stable  approach with many of the advantages of explicit methods, and can reduce the computational resources over conventional methods. The method is scalable in the sense that  the computational costs grow linearly with problem size.<p> Exponential integrators, used typically to solve systems of  ODEs, utilize matrix vector products of the exponential of the Jacobian on a vector. For large systems, this product can be approximated efficiently by Krylov subspace methods.   However, in contrast to explicit methods, KBEIs are not restricted by the time step. While implicit methods require a solution of a linear system with the Jacobian, KBEIs only require matrix vector products of the Jacobian. Furthermore, these methods are based on linearization, so there is no non-linear system solve at each time step.<p> Differential-algebraic equations (DAEs) are ordinary differential equations (ODEs) subject to algebraic constraints. The discretized NSE constitute a system of DAEs, where the incompressibility condition is the algebraic constraint. Exponential integrators can be extended to DAEs  with linear constraints imposed via a projection onto the constraint manifold. This results in a projected ODE that is integrated by a KBEI.   In this approach, the Krylov subspace satisfies the constraint, hence the solution at the advanced time step  automatically satisfies the constraint as well. For the NSE, the projection onto the constraint is typically achieved by a projection induced by the L2 inner product. We examine this L2 projection and  an H1 projection induced by the H1 semi-inner product.  The H1 projection has an advantage over the L2  projection in that it retains tangential Dirichlet boundary conditions for the flow. Both the H1 and L2 projections are solutions to saddle point problems that are efficiently solved by a preconditioned Uzawa algorithm.",
+  "description_provenance": [
+    "Author Email: chnewma3@vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: rblehou@sandia.gov",
+    "Made available in DSpace on 2014-03-14T20:17:33Z (GMT). No. of bitstreams: 1 thesis.pdf: 1099708 bytes, checksum: 13a31860c375eb294eed8dfb3ad8969f (MD5)   Previous issue date: 2003-09-17"
+  ],
+  "handle": "29340",
+  "identifier_other": "etd-10222003-142240",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10222003-142240/",
+  "identifier_uri": "http://hdl.handle.net/10919/29340",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "incompressible Navier-Stokes",
+    "finite elements",
+    "projection method",
+    "matrix exponential",
+    "Krylov subspace"
+  ],
+  "title": "Exponential Integrators for the Incompressible Navier-Stokes Equations",
+  "type": "Dissertation"
+}

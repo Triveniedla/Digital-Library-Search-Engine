@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Lahouar, Samer",
+  "contributor_committeecochair": [
+    "Al-Qadi, Imadeddin L.",
+    "Brown, Gary S."
+  ],
+  "contributor_committeemember": [
+    "de Wolf, David A.",
+    "Conners, Richard W.",
+    "Davis, William A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:46:40Z",
+  "date_adate": "2003-10-27",
+  "date_available": "2011-08-22T18:46:40Z",
+  "date_issued": "2003-10-03",
+  "date_rdate": "2005-10-27",
+  "date_sdate": "2003-10-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "According to a 1999 Federal Highway Administration statistic, the U.S. has around 8.2 million lane-miles of roadways that need to be maintained and rehabilitated periodically.  Therefore, in order to reduce rehabilitation costs, pavement engineers need to optimize the rehabilitation procedure, which is achieved by accurately knowing the existing pavement layer thicknesses and localization of subsurface defects.  Currently, the majority of departments of transportation (DOTs) rely on coring as a means to estimate pavement thicknesses, instead of using other nondestructive techniques, such as Ground Penetrating Radar (GPR).  The use of GPR as a nondestructive pavement assessment tool is limited mainly due to the difficulty of GPR data interpretation, which requires experienced operators.  Therefore, GPR results are usually subjective and inaccurate.  Moreover, GPR data interpretation is very time-consuming because of the huge amount of data collected during a survey and the lack of reliable GPR data-interpretation software.  This research effort attempts to overcome these problems by developing new GPR data analysis techniques that allow thickness estimation and subsurface defect detection from GPR data without operator intervention.  The data analysis techniques are based on an accurate modeling of the propagation of the GPR electromagnetic waves through the pavement dielectric materials while traveling from the GPR transmitter to the receiver.  Image-processing techniques are also applied to detect layer boundaries and subsurface defects.  The developed data analysis techniques were validated utilizing data collected from an experimental pavement system: the Virginia Smart Road.  The layer thickness error achieved by the developed system was around 3%.  The conditions needed to achieve reliable and accurate results from GPR testing were also established.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:46:40Z (GMT). No. of bitstreams: 1  Dissertation.pdf: 3045249 bytes, checksum: 7a453b296d7dd1fe3ec70a9da0af1077 (MD5)    Previous issue date: 2003-10-03",
+    "Author Email: slahouar@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Advisor Email: dadewolf@VT.EDU",
+    "Advisor Email: RCONNERS@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: randem@VT.EDU"
+  ],
+  "format_medium": "ETD",
+  "handle": "11051",
+  "identifier_other": "etd-10242003-162114",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10242003-162114",
+  "identifier_uri": "http://hdl.handle.net/10919/11051",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Dielectric Constant",
+    "Nondestructive Testing",
+    "Ground Penetrating Radar",
+    "Layer Thickness",
+    "GPR",
+    "Layer Detection",
+    "Pavements",
+    "NDT"
+  ],
+  "title": "Development of Data Analysis Algorithms for Interpretation of Ground Penetrating Radar Data",
+  "type": "Dissertation"
+}

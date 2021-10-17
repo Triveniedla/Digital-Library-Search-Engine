@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Bilgen, Onur",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeecochair": "Kochersberger, Kevin Bruce",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Hyer, Michael W.",
+    "Goulbourne, Nakhiah C."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:14Z",
+  "date_adate": "2010-09-02",
+  "date_available": "2014-03-14T20:15:14Z",
+  "date_issued": "2010-08-02",
+  "date_rdate": "2010-09-02",
+  "date_sdate": "2010-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Piezoelectrics offer high actuation authority and sensing over a wide range of frequencies. A Macro-Fiber Composite is a type of piezoelectric device that offers structural flexibility and high actuation authority. A challenge with piezoelectric actuators is that they require high voltage input; however the low power consumption allows for relatively lightweight electronic components. Another challenge, for piezoelectric actuated aerodynamic surfaces, is found in operating a relatively compliant, thin structure (desirable for piezoceramic actuators) in situations where there are relatively high external (aerodynamic) forces. Establishing an aeroelastic configuration that is stiff enough to prevent flutter and divergence, but compliant enough to allow the range of available motion is the central challenge in developing a piezocomposite airfoil. The research proposed here is to analyze and implement novel electronic circuits and structural concepts that address these two challenges. <p> Here, a detailed theoretical and experimental analysis of the aerodynamic and electromechanical systems that are necessary for a practical implementation of a piezocomposite airfoil is presented. First, the electromechanical response of Macro-Fiber Composite based unimorph and bimorph structures is analyzed. A distributed parameter electromechanical model is presented for interdigitated piezocomposite unimorph actuators. Necessary structural features that result in large electrically induced deformations are identified theoretically and verified experimentally. A novel, lightweight electrical circuitry is proposed and implemented to enable the peak-to-peak actuation of Macro-Fiber Composite bimorph devices with asymmetric voltage range. <p> Next, two novel concepts of supporting the piezoelectric material are proposed to form two types of variable-camber aerodynamic surfaces. The first concept, a simply-supported thin bimorph airfoil, can take advantage of aerodynamic loads to reduce control input moments and increase control effectiveness. The structural boundary conditions of the design are optimized by solving a coupled fluid-structure interaction problem by using a structural finite element method and a panel method based on the potential flow theory for fluids. The second concept is a variable-camber thick airfoil with two cascading bimorphs and a compliant box mechanism. Using the structural and aerodynamic theoretical analysis, both variable-camber airfoil concepts are fabricated and successfully implemented on an experimental ducted-fan vehicle. A custom, fully automated low-speed wind tunnel and a load balance is designed and fabricated for experimental validation. The airfoils are evaluated in the wind tunnel for their two-dimensional lift and drag coefficients at low Reynolds number flow. The effects of piezoelectric hysteresis are identified. <p> In addition to the shape control application, low Reynolds number flow control is examined using the cascading bimorph variable-camber airfoil. Unimorph type actuators are proposed for flow control in two unique concepts. Several electromechanical excitation modes are identified that result in the delay of laminar separation bubble and improvement of lift. Periodic excitation to the flow near the leading edge of the airfoil is used as the flow control method. The effects of amplitude, frequency and spanwise distribution of excitation are determined experimentally using the wind tunnel setup.<p> Finally, the effects of piezoelectric hysteresis nonlinearity are identified for Macro-Fiber Composite bimorphs. The hysteresis is modeled for open-loop response using a phenomenological classical Preisach model. The classical Preisach model is capable of predicting the hysteresis observed in 1) two cantilevered bimorph beams, 2) the simply-supported thin airfoil, and 3) the cascading bimorph thick airfoil.",
+  "description_provenance": [
+    "Author Email: onurb@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: nakg@vt.edu",
+    "Advisor Email: kbk@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:14Z (GMT). No. of bitstreams: 1 Bilgen_O_D_2010.pdf: 12293104 bytes, checksum: 67d1aee56ef21571cf41fa8464709f63 (MD5)   Previous issue date: 2010-08-02"
+  ],
+  "handle": "28665",
+  "identifier_other": "etd-08142010-142319",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142010-142319/",
+  "identifier_uri": "http://hdl.handle.net/10919/28665",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Bilgen_O_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bimorph",
+    "Unimorph",
+    "Macro-Fiber Composite",
+    "Variable-Camber Airfoil",
+    "Piezoceramic"
+  ],
+  "title": "Aerodynamic and Electromechanical Design, Modeling and Implementation Of Piezocomposite Airfoils",
+  "type": "Dissertation"
+}

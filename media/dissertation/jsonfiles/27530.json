@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Zhu, Ning",
+  "contributor_committeechair": "van Wyk, Jacobus Daniel",
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:32Z",
+  "date_adate": "2006-05-10",
+  "date_available": "2014-03-14T20:11:32Z",
+  "date_issued": "2006-04-14",
+  "date_rdate": "2006-05-10",
+  "date_sdate": "2006-05-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Miniaturizing circuit size and increasing power density are the latest trends in modern power electronics development. In order to meet the requirements of higher frequency and higher power density in power electronics applications, planar interconnections are utilized to achieve a higher integration level. Power switching devices, passive power components, and EMI (Electromagnetic Interference) filters can all be integrated into planar power modules by using planar metallization, which is a technology involving electrical, mechanical, material, and thermal issues. By processing high dielectric materials, magnetic materials, or silicon chips using compatible manufacturing procedures, and by carefully designing structures and interconnections, we can realize the conventional discrete inductors, capacitors, and switch circuits with planar modules. Compared with conventional discrete components, the integrated planar modules have several advantages including lower profiles, better form factors, and less labor-intensive processing steps. In addition, planar interconnections reduce the wire bond inductive and resistive parasitic parameters, especially for high frequency applications.      However, planar integration technology is a packaging approach with a large contact area between different materials. This may result in unknown failure mechanisms in power applications. Extensive research has already been done to study the performance, processing, and reliability of the planar interconnects in thin film structures. The thickness of the thin films used in integrated circuits (IC) or microelectronics applications ranges from the magnitude of nanometers to that of micrometers. In this work, we are interested in adopting planar interconnections to Integrated Power Electronics Modules (IPEM).  In Integrated Power Electronics Modules (IPEMs), copper traces, especially bus traces, need to conduct current ranging from a few amps to tens of amps. One of the major differences between IC and IPEM is that the metal layer in IPEMs (normally >75Âµm) is much thicker than that of the thin films in IC (normally <1Âµm).  The other major difference, which is also a feature of IPEM, is that the planar metallization is deposited on different brittle substrates. In active IPEM, switching devices are in a bare die form with no encapsulation. The copper deposition is on top of the silicon chips and the insulation polyimide layer. One of the key elements for passive IPEM and the EMI IPEM is the integrated inductor-capacitor (LC) module, which realizes equivalent inductors and capacitors in one single module. The deposition processes for silicon substrates and ceramic substrates are compatible and both the silicon and ceramic materials are brittle. Under high current and high temperature conditions, these copper depositions on brittle materials will cause detrimental failure spots.           Over the last few years, the design, manufacture, optimization, and testing of the IPEMs has been developed and well documented. Up to this time , the research on failure mechanisms of conventional integrated power modules has led to the understanding of failures centered on wire bond or solder layer. However, investigation on the reliability and failure modes of IPEM is lacking, particularly that which uses metallization on brittle substrates for high current operations. In this study, we conduct experiments to measure and calculate the residual stresses induced during the process. We also, theoretically model and simulate the thermo-mechanical stresses caused by the mismatch of thermal expansion coefficients between different materials in the integrated power modules.  In order to verify the simulation results, the integrated power modules are manufactured and subjected to the lifetime tests, in which both power cycling and temperature cycling tests are carried out. The failure mode analysis indicates that there are different failure modes for copper films under tensile or compressive stresses. The failure detection process verifies that delamination and silicon cracks happen to copper films due to compressive and tensile stresses respectively.       This study confirms that the high stresses between the metallization and the silicon are the failure drivers in integrated power electronics modules.. We also discuss the driving forces behind several different failure modes. Further understanding of thesefailure mechanisms enables the failure modes to be engineered for safer electrical operation of IPEM modules and helps to enhance the reliability of system-level operation.  It is also the basis to improve the design and to optimize the process parameters so that IPEM modules can have a high resistance to recognized failures.",
+  "description_provenance": [
+    "Author Email: nzhu@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:32Z (GMT). No. of bitstreams: 1 NingZhuETDMay10.pdf: 3596275 bytes, checksum: 9f7a7d314b1ee7b353e16cfe5426cba0 (MD5)   Previous issue date: 2006-04-14"
+  ],
+  "handle": "27530",
+  "identifier_other": "etd-05042006-123001",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05042006-123001/",
+  "identifier_uri": "http://hdl.handle.net/10919/27530",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "NingZhuETDMay10.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Failure mode",
+    "Integrated power electronics modules",
+    "intrinsic residual stress",
+    "peel stress",
+    "Planar metallization",
+    "in-plane stress",
+    "thermo-mechanical stress",
+    "power cycling test",
+    "temperature cycling test"
+  ],
+  "title": "Planar metallization failure modes in integrated power electtonics modules",
+  "type": "Dissertation"
+}

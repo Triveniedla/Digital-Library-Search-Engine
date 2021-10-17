@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Lloyd, John William",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeemember": [
+    "Taheri, Saied",
+    "Southward, Steve C.",
+    "Sandu, Adrian",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:27Z",
+  "date_adate": "2011-11-09",
+  "date_available": "2014-03-14T20:17:27Z",
+  "date_issued": "2011-10-07",
+  "date_rdate": "2011-11-09",
+  "date_sdate": "2011-10-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A method to adapt the Generalized Predictive Control parameters to improve broadband disturbance rejection was developed and tested. The effect of the parameters on disturbance rejection has previously been poorly understood and a trial and error method was used to achieve adequate results. This dissertation provides insight on the effect of the parameters, as well as an adaptive tuning method to adjust them.   The study begins by showing the effect of the four GPC parameters, the control and prediction horizons, control weighting  &lambda , and order, on the disturbance rejection and control effort of a vibrating plate. It is shown that the effect of increases in the control and prediction horizon becomes negligible after a certain point. This occurs at nearly the same point for a variety of  &lambda 's and orders, and hence they can be eliminated from the tuning space.   The control effort and closed-loop disturbance rejection are shown to be highly dependant on  &lambda  and order, thereby becoming the parameters that need to be tuned. The behavior is categorized into various groups and further investigated. The pole and zero locations of the closed-loop system are examined to reveal how GPC gains control and how it can fail for non-minimum phase plants.   A set of fuzzy logic modules is developed to adapt  &lambda  with order fixed, and conversely to adapt order with  &lambda  fixed. The effectiveness of the method is demonstrated in both numerical simulations and laboratory experiments.",
+  "description_provenance": [
+    "Author Email: johnlloyd.bus@gmail.com",
+    "Advisor Email: staheri@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Advisor Email: asandu7@cs.vt.edu",
+    "Advisor Email: daninman@umich.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:27Z (GMT). No. of bitstreams: 1 Lloyd_JW_D_2011.pdf: 5235839 bytes, checksum: 57d5c26eabb7ebdc9684c31637f477ea (MD5)   Previous issue date: 2011-10-07"
+  ],
+  "handle": "29306",
+  "identifier_other": "etd-10182011-214341",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10182011-214341/",
+  "identifier_uri": "http://hdl.handle.net/10919/29306",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lloyd_JW_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "GPC",
+    "generalized predictive control",
+    "active control",
+    "adaptive control",
+    "fuzzy logic",
+    "fuzzy logic adaptation",
+    "vibration control",
+    "disturbance rejection"
+  ],
+  "title": "Generalized Predictive Control Parameter Adaptation Using a Fuzzy Logic Approach",
+  "type": "Dissertation"
+}

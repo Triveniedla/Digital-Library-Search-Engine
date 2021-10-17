@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Krueger, Kirk L.",
+  "contributor_committeechair": "Angermeier, Paul L.",
+  "contributor_committeemember": [
+    "Smith, Eric P.",
+    "Orth, Donald J.",
+    "Dolloff, C. Andrew",
+    "Flebbe, Patricia A."
+  ],
+  "contributor_department": "Fisheries and Wildlife Sciences",
+  "date_accessioned": "2014-03-14T20:07:32Z",
+  "date_adate": "2009-02-17",
+  "date_available": "2014-03-14T20:07:32Z",
+  "date_issued": "2009-01-23",
+  "date_rdate": "2012-06-22",
+  "date_sdate": "2009-02-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Knowledge of species occurrence is a prerequisite for efficient and effective conservation and management.  Unfortunately, knowledge of species occurrence is usually insufficient, so models that use environmental predictors and species occurrence records are used to predict species occurrence.  Predicting the occurrence of stream fishes is often difficult because sampling data insufficiently describe species occurrence and important environmental conditions and predictive models insufficiently describe relations between species and environmental conditions.  This dissertation 1) examines the sufficiency of fish species occurrence records at four spatial extents in Virginia, 2) compares modeling methods for predicting stream fish occurrence, and 3) assesses relations between species traits and model prediction characteristics.  <p>  \tThe sufficiency of sampling is infrequently addressed at the large spatial extents at which many management and conservation actions take place.  In the first chapter of this dissertation I examine factors that determine the sufficiency of sampling to describe stream fish species richness at four spatial extents across Virginia using sampling simulations.  Few regions of Virginia are sufficiently sampled, portending difficulty in accurately predicting fish species occurrence in most regions.  The sufficient number of samples is often large and varies among regions and spatial scales, but it can be substantially reduced by reducing errors of sampling omission and increasing the spatial coverage of samples.  <p>  \tMany methods are used to predict species occurrence.  In the second chapter of this dissertation I compare the accuracy of the predictions of occurrence of seven species in each of three regions using linear discriminant function, generalized linear, classification tree, and artificial neural network statistical models.  I also assess the efficacy of stream classification methods for predicting species occurrence.  No modeling method proved distinctly superior.  Species occurrence data and predictor data quality and quantity limited the success of predictions of stream fish occurrence for all methods.  How predictive models are built and applied may be more important than the statistical method used.  <p>   \tThe accuracy, generality (transferability), and resolution of predictions of species occurrence vary among species.  The ability to anticipate and understand variation in prediction characteristics among species can facilitate the proper application of predictions of species occurrence.  In the third chapter of this dissertation I describe some conservation implications of relations between predicted occurrence characteristics and species traits for fishes in the upper Tennessee River drainage.  Usually weak relations and variation in the strength and direction of relations among families precludes the accurate prediction of predicted occurrence characteristics.  Most predictions of species occurrence have insufficient accuracy and resolution to guide conservation decisions at fine spatial grains.  Comparison of my results with alternative model predictions and the results of many models described in peer-reviewed journals suggests that this is a common problem.  Predictions of species occurrence should be rigorously assessed and cautiously applied to conservation problems.  Collectively, the three chapters of this dissertation demonstrate some important limitations of models that are used to predict species occurrence.  Model predictions of species occurrence are often used in lieu of sufficient species occurrence data.  However, regardless of the method used to predict species occurrence most predictions have relatively low accuracy, generality and resolution.  Model predictions of species occurrence can facilitate management and conservation, but they should be rigorously assessed and applied cautiously.",
+  "description_provenance": [
+    "Author Email: kkrueger@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: dorth@vt.edu",
+    "Advisor Email: adoll@vt.edu",
+    "Advisor Email: paflebbe@gmail.com",
+    "Advisor Email: biota@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:32Z (GMT). No. of bitstreams: 1  Krueger_Dissertation_3.pdf: 4233584 bytes, checksum: 8b9fbdebb73da25c3779dffba59b7635 (MD5)    Previous issue date: 2009-01-23"
+  ],
+  "handle": "26214",
+  "identifier_other": "etd-02152009-053554",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02152009-053554/",
+  "identifier_uri": "http://hdl.handle.net/10919/26214",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Krueger_Dissertation_3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "spatial extent",
+    "classification tree",
+    "artificial neural network",
+    "predicting occurrence",
+    "multiple logistic regression",
+    "stream fish",
+    "resolution",
+    "sampling sufficiency"
+  ],
+  "title": "Effects of Sampling Sufficiency and Model Selection on Predicting the Occurrence of Stream Fish Species at Large Spatial Extents",
+  "type": "Dissertation"
+}

@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Fearer, Todd Matthew",
+  "contributor_committeecochair": [
+    "Prisley, Stephen P.",
+    "Stauffer, Dean F."
+  ],
+  "contributor_committeemember": [
+    "Oderwald, Richard G.",
+    "Haas, Carola A.",
+    "Keyser, Patrick D."
+  ],
+  "contributor_department": "Fisheries and Wildlife Sciences",
+  "date_accessioned": "2014-03-14T20:17:17Z",
+  "date_adate": "2006-10-26",
+  "date_available": "2014-03-14T20:17:17Z",
+  "date_issued": "2006-10-06",
+  "date_rdate": "2006-10-26",
+  "date_sdate": "2006-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Multiple studies have documented declines of forest breeding birds in the eastern United States, but the temporal and spatial scales of most studies limit inference regarding large scale bird-habitat trends.  A potential solution to this challenge is integrating existing long-term datasets such as the U.S. Forest Service Forest Inventory and Analysis (FIA) program and U.S. Geological Survey Breeding Bird Survey (BBS) that span large geographic regions.  The purposes of this study were to determine if FIA metrics can be related to BBS population indices at multiple spatial and temporal scales and to develop predictive models from these relationships that identify forest conditions favorable to forest songbirds.  I accumulated annual route-level BBS data for 4 species guilds (canopy nesting, ground and shrub nesting, cavity nesting, early successional), each containing a minimum of five bird species, from 1966-2004.  I developed 41 forest variables describing forest structure at the county level using FIA data from for the 2000 inventory cycle within 5 physiographic regions in 14 states (AL, GA, IL, IN, KY, MD, NC, NY, OH, PA, SC, TN, VA, and WV).  I examine spatial relationships between the BBS and FIA data at 3 hierarchical scales:  1) individual BBS routes, 2) FIA units, and 3) and physiographic sections.  At the BBS route scale, I buffered each BBS route with a 100m, 1km, and 10km buffer, intersected these buffers with the county boundaries, and developed a weighted average for each forest variable within each buffer, with the weight being a function of the percent of area each county had within a given buffer.  I calculated 28 variables describing landscape structure from 1992 NLCD imagery using Fragstats within each buffer size.  I developed predictive models relating spatial variations in bird occupancy and abundance to changes in   forest and landscape structure using logistic regression and classification and regression trees (CART).  Models were developed for each of the 3 buffer sizes, and I pooled the variables selected for the individual models and used them to develop multiscale models with the BBS route still serving as the sample unit.  At the FIA unit and physiographic section scales I calculated average abundance/route for each bird species within each FIA unit and physiographic section and extrapolated the plot-level FIA variables to the FIA unit and physiographic section levels.  Landscape variables were recalculated within each unit and section using NCLD imagery resampled to a 400 m pixel size. I used regression trees (FIA unit scale) and general linear models (GLM, physiographic section scale) to relate spatial variations in bird abundance to the forest and landscape variables.  I examined temporal relationships between the BBS and FIA data between 1966 and 2000.  I developed 13 forest variables from statistical summary reports for 4 FIA inventory cycles (1965, 1975, 1989, and 2000) within NY, PA, MD, and WV.  I used linear interpolation to estimate annual values of each FIA variable between successive inventory cycles and GLMs to relate annual variations in bird abundance to the forest variables.  <p> At the BBS route scale, the CART models accounted for > 50% of the variation in bird presence-absence and abundance.  The logistic regression models had sensitivity and specificity rates > 0.50.  By incorporating the variables selected for the models developed within each buffer (100m, 1km, and 10km) around the BBS routes into a multiscale model, I was able to further improve the performance of many of the models and gain additional insight regarding the contribution of multiscale influences on bird-habitat relationships.  The majority of the best CART models tended to be the multiscale models, and many of the multiscale logistic models had greater sensitivity and specificity than their single-scale counter parts.  The relatively fine resolution and extensive coverage of the BBS, FIA, and NLCD datasets coupled with the overlapping multiscale approach of these analyses allowed me to incorporate levels of variation in both habitat and bird occurrence and abundance into my models that likely represented a more comprehensive range of ecological variability in the bird-habitat relationships relative to studies conducted at smaller scales and/or using data at coarser resolutions.  <p> At the FIA unit and physiographic section scales, the regression trees accounted for an average of 54.1% of the variability in bird abundance among FIA units, and the GLMs accounted for an average of 66.3% of the variability among physiographic sections.  However, increasing the observational and analytical scale to the FIA unit and physiographic section decreased the measurement resolution of the bird abundance and landscape variables.  This limits the applicability and interpretive strength of the models developed at these scales, but they may serve as indices to those habitat components exerting the greatest influences on bird abundance at these broader scales.  <p> The GLMs relating average annual bird abundance to annual estimates of forest variables developed using statistical report data from the 1965, 1975, 1989, and 2000 FIA inventories explained an average of 62.0% of the variability in annual bird abundance estimates.  However, these relationships were a function of both the general habitat characteristics and the trends in bird abundance specific to the 4-state region (MD, NY, PA, and WV) used for these analyses and may not be applicable to other states or regions.  The small suite of variables available from the FIA statistical reports and multicollinearity among all forest variables further limited the applicability of these models.  As with those developed at the FIA unit and physiographic sections scales, these models may serve as general indices to the habitat components exerting the greatest influences on bird abundance trends through time at regional scales. <p>  These results demonstrate that forest variables developed from the FIA, in conjunction with landscape variables, can explain variations in occupancy and abundance estimated from BBS data for forest bird species with a variety of habitat requirements across spatial and temporal scales.",
+  "description_provenance": [
+    "Author Email: tfearer@vt.edu",
+    "Advisor Email: oderwald@vt.edu",
+    "Advisor Email: cahaas@vt.edu",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: pkeyser@utk.edu",
+    "Advisor Email: dstauffe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:17Z (GMT). No. of bitstreams: 3 TFearerETD_Ch3-5.pdf: 380441 bytes, checksum: c0ee595e90d1f9c7ad678be0fcc9eb12 (MD5) TFearerETD_Ch1-2.pdf: 7342442 bytes, checksum: 8078d18e108f016dfd91981234cc3d68 (MD5) TFearerETD_APPENDICES.pdf: 1130374 bytes, checksum: 6298b84c1ffa22076aa7aa4a71d00cf8 (MD5)   Previous issue date: 2006-10-06"
+  ],
+  "handle": "29243",
+  "identifier_other": "etd-10112006-113652",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112006-113652/",
+  "identifier_uri": "http://hdl.handle.net/10919/29243",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "TFearerETD_Ch3-5.pdf",
+    "TFearerETD_Ch1-2.pdf",
+    "TFearerETD_APPENDICES.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "forest breeding birds",
+    "classification and regression trees",
+    "generalized linear model",
+    "wildlife habitat modeling",
+    "Forest Inventory and Analysis",
+    "landscape",
+    "multiscale",
+    "Breeding Bird Survey",
+    "logistic regression",
+    "Akaike's Information Criterion"
+  ],
+  "title": "Evaluating Population-Habitat Relationships of Forest Breeding Birds at Multiple Spatial and Temporal Scales Using Forest Inventory and Analysis Data",
+  "type": "Dissertation"
+}

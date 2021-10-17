@@ -1,0 +1,47 @@
+{
+  "contributor_author": "He, Xiaoming",
+  "contributor_committeechair": "Lin, Tao",
+  "contributor_committeecochair": "Wang, Joseph J.",
+  "contributor_committeemember": [
+    "Adjerid, Slimane",
+    "Beattie, Christopher A.",
+    "Sun, Shu-Ming"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:12:20Z",
+  "date_adate": "2009-06-02",
+  "date_available": "2014-03-14T20:12:20Z",
+  "date_issued": "2009-04-20",
+  "date_rdate": "2010-06-02",
+  "date_sdate": "2009-05-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation we discuss bilinear immersed finite elements (IFE) for solving interface problems. The related research works can be categorized into three aspects: (1) the construction of the bilinear immersed finite element spaces; (2) numerical methods based on these IFE spaces for solving interface problems; and (3) the corresponding error analysis. All of these together form a solid foundation for the bilinear IFEs.  <p>The research on immersed finite elements is motivated by many real world applications, in which a simulation domain is often formed by several materials separated from each other by curves or surfaces while a mesh independent of interface instead of a body-fitting mesh is preferred. The bilinear IFE spaces are nonconforming finite element spaces and the mesh can be independent of interface. The error estimates for the interpolation of a Sobolev function in a bilinear IFE space indicate that this space has the usual approximation capability expected from bilinear polynomials, which is O(h^2) in L2 norm and O(h) in H1 norm. Then the immersed spaces are applied in Galerkin, finite volume element (FVE) and discontinuous Galerkin (DG) methods for solving interface problems. Numerical examples show that these methods based on the bilinear IFE spaces have the same optimal convergence rates as those based on the standard bilinear finite element for solutions with certain smoothness. For the symmetric selective immersed discontinuous Galerkin method based on bilinear IFE, we have established its optimal convergence rate. For the Galerkin method based on bilinear IFE, we have also established its convergence.  <p>One of the important advantages of the discontinuous Galerkin method is its flexibility for both p and h mesh refinement. Because IFEs can use a mesh independent of interface, such as a structured mesh, the combination of a DG method and IFEs allows a flexible adaptive mesh independent of interface to be used for solving interface problems. That is, a mesh independent of interface can be refined wherever needed, such as around the interface and the singular source. We also develop an efficient selective immersed discontinuous Galerkin method. It uses the sophisticated discontinuous Galerkin formulation only around the locations needed, but uses the simpler Galerkin formulation everywhere else. This selective formulation leads to an algebraic system with far less unknowns than the immersed DG method without scarifying the accuracy; hence it is far more efficient than the conventional discontinuous Galerkin formulations.",
+  "description_provenance": [
+    "Author Email: xiaoming@vt.edu",
+    "Advisor Email: adjerids@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Advisor Email: sun@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: jowang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:20Z (GMT). No. of bitstreams: 1 He_X_D_2009.pdf: 2618926 bytes, checksum: d20b15d7a846beaceac257ff297ecb87 (MD5)   Previous issue date: 2009-04-20"
+  ],
+  "handle": "27819",
+  "identifier_other": "etd-05202009-113649",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05202009-113649/",
+  "identifier_uri": "http://hdl.handle.net/10919/27819",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "He_X_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "convergence analysis",
+    "discontinuous Galerkin method",
+    "finite volume element method",
+    "Galerkin method",
+    "immersed finite elements",
+    "interface problems"
+  ],
+  "title": "Bilinear Immersed Finite Elements For Interface Problems",
+  "type": "Dissertation"
+}

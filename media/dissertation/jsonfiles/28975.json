@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Berry, Vikas",
+  "contributor_committeechair": "Cox, David F.",
+  "contributor_committeemember": [
+    "Davis, Richey M.",
+    "Saraf, Ravi F.",
+    "Baird, Donald G."
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:16:15Z",
+  "date_adate": "2006-10-10",
+  "date_available": "2014-03-14T20:16:15Z",
+  "date_issued": "2006-09-05",
+  "date_rdate": "2006-10-10",
+  "date_sdate": "2006-09-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Nanoparticle based devices are becoming of great interest because of their single-electron transport behavior, and high surface charge density. Nanoparticle based devices operate at low power, and are potentially highly stable and extremely robust. Making interconnections to nanoparticle devices, however, has been an impending issue. Also percolating/conductive array of nanoparticles is not easy to build since repulsion between the charged nanoparticles causes them to deposit at distance significantly larger for electron tunneling. In this study, we resolve these challenges to make nanoparticle based electronic devices. Using biological (bacteria) or physical (polyelectrolyte fiber) scaffolds, we selectively deposited percolating array of 30 nm Au nanoparticles, to produce a highly versatile nanoparticle-organic hybrid device. The device is based on electron tunneling phenomena, which is highly sensitive to change in inter-particle distance and dielectric constant between nanoparticles. The key to building this structure is the molecular brushes on the surface of the scaffold, which shield the charge on nanoparticle to allow for percolating deposition. The electrostatic attraction for such a deposition on bacteria was measured to be so strong (0.038 N/m) that it could bend a 400 nm long and 25 nm wide gold nanorod. Once the device is built, the hygroscopic scaffolds were actuated by humidity, to modulate the electron tunneling barrier width (or height) between the metallic nanoparticles. A decrease in inter-particle separation by < 0.2 nm or a change in the dielectric constant from ~ 40 to 3 (for humidity excursion from 20% to ~0%), causes a 40-150 fold increase in electron tunneling current. The coupling between the underlying scaffold and the Au particle structure is essential to achieving such a high and robust change in current. In contrast to most humidity sensors, the sensitivity is extremely high at low humidity. This device is >10-fold better than standard microelectronic and MEMS technology based humidity sensors. After the deposition, the \"live\" bacterial scaffold retains its biological construct, providing an avenue for active integration of biological functions with electronic transport in nanoparticle device. Such hybrids will be the key to conceptually new electronic devices that can be integrated with power and function of microorganisms, on flexible plastic-like substrates using simple beaker chemistry. The technology has broad potential based on variety of nanoparticles (for example, magnetic, metallic and semi-conducting) to make electro-optical and inorganic devices, bringing a prominent advancement in the present technology. Our work is published in, Angewandte Chemie, JACS and Nano Letters, and featured in places such as, Discover Magazine, Science News and Nature.",
+  "description_provenance": [
+    "Author Email: vikasberry@gmail.com",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: dfcox@vt.edu",
+    "Advisor Email: rsaraf@unlnotes.unl.edu",
+    "Advisor Email: dbaird@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:15Z (GMT). No. of bitstreams: 1 VB-THESIS.pdf: 3999341 bytes, checksum: 79164f715419dce3c28439850159323d (MD5)   Previous issue date: 2006-09-05"
+  ],
+  "handle": "28975",
+  "identifier_other": "etd-09142006-213411",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09142006-213411/",
+  "identifier_uri": "http://hdl.handle.net/10919/28975",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "VB-THESIS.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bio-MEMS",
+    "Electron Tunneling",
+    "Bacteria",
+    "Nanotechnology"
+  ],
+  "title": "Metal Nanoparticles Deposition On Biological And Physical Scaffolds To Develop A New Class Of Electronic Devices",
+  "type": "Dissertation"
+}

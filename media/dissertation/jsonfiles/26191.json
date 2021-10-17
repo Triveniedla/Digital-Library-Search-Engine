@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Wang, Ya",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Priya, Shashank",
+    "Leonessa, Alexander",
+    "Kasarda, Mary E. F.",
+    "Viehland, Dwight D."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:21Z",
+  "date_adate": "2012-03-20",
+  "date_available": "2014-03-14T20:07:21Z",
+  "date_issued": "2012-01-27",
+  "date_rdate": "2012-03-20",
+  "date_sdate": "2012-02-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work examines a novel concept and design of simultaneous energy harvesting and vibration control on the same host structure. The motivating application is a multifunctional composite sandwich wing spar for a small Unmanned Aerial Vehicle (UAV) with the goal of providing self-contained gust alleviation. The basic idea is that the wing itself is able to harvest energy from the ambient vibrations along with available sunlight during normal flight. If the wing experiences any strong wind gust, it will sense the increased vibration levels and provide vibration control to maintain its stability. This work holds promise for improving performance of small UAVs in wind gusts.   The proposed multifunctional wing spar integrates a flexible solar cell array, flexible piezoelectric wafers, a thin film battery and an electronic module into a composite sandwich structure. The basic design factors are discussed for a beam-like multifunctional wing spar with load-bearing energy harvesting, strain sensing and self-controlling functions. Three-point bending tests are performed on the composite sandwich structure for bending strength analysis and bending stiffness prediction under a given safety factor. Additional design factors such as the configuration, location and actuation type of each piezoelectric transducer are investigated for optimal power generation. The equivalent electromechanical representations of a multifunctional wing spar is derived theoretically, simulated numerically and validated experimentally.   Special attention is given to the development of a reduced energy control (REC) law, aiming to minimize the actuation energy and the dissipated heat. The REC law integrates a nonlinear switching algorithm with a positive strain feedback controller, and is represented by a positive feedback operation amplifier (op-amp) and a voltage buffer op-amp for each mode. Experimental results exhibit that the use of nonlinear REC law requires 67.3 % less power than a conventional nonlinear controller to have the same settling time under free vibrations.  Nonlinearity in the electromechanical coupling coefficient of the piezoelectric transducer is also observed, arising from the piezoelectric hysteresis in the constitutive equations coupling the strain field and the electric field. If a constant and voltage-independent electromechanical coupling coefficient is assumed, this nonlinearity results in considerable discrepancies between experimental measurements and simulation results. The voltage-dependent coupling coefficient function is identified experimentally, and a real time adaptive control algorithm is developed to account for the nonlinear coupling behavior, allowing for more accurate numerical simulations.  Experimental validations build upon recent advances in harvester, sensor and actuator technology that have resulted in thin, light-weight multilayered composite sandwich wing spars. These multifunctional wing spars are designed and validated to able to alleviate wind gust of small UAVs using the harvested energy. Experimental results are presented for cantilever wing spars with micro-fiber composite transducers controlled by reduced energy controllers with a focus on two vibration modes. A reduction of 11dB and 7dB is obtained for the first and the second mode using the harvested ambient energy. This work demonstrates the use of reduced energy control laws for solving gust alleviation problems in small UAVs, provides the experimental verification details, and focuses on applications to autonomous light-weight aerospace systems.",
+  "description_provenance": [
+    "Author Email: ywang07@vt.edu",
+    "Advisor Email: spriya@vt.edu",
+    "Advisor Email: leonessa@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: viehland@mse.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:21Z (GMT). No. of bitstreams: 1 Wang_Y_2012_03_09.pdf: 2743905 bytes, checksum: 915d0f4b5059c662f1e3050077e53adc (MD5)   Previous issue date: 2012-01-27"
+  ],
+  "handle": "26191",
+  "identifier_other": "etd-02132012-111628",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02132012-111628/",
+  "identifier_uri": "http://hdl.handle.net/10919/26191",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wang_Y_2012_03_09.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Energy Harvesting",
+    "Vibration Control",
+    "Multi-functionalities",
+    "Composite Structure",
+    "Piezoelectric Materials",
+    "Gust Alleviation"
+  ],
+  "title": "Simultaneous Energy Harvesting and Vibration Control via Piezoelectric Materials",
+  "type": "Dissertation"
+}

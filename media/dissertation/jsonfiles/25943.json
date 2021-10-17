@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Adams, Kevin Page",
+  "contributor_committeechair": "Gracanin, Denis",
+  "contributor_committeemember": [
+    "Bohner, Shawn A.",
+    "Bouguettaya, Athman",
+    "Triantis, Konstantinos P.",
+    "Arthur, James D."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:06:30Z",
+  "date_adate": "2006-01-20",
+  "date_available": "2014-03-14T20:06:30Z",
+  "date_issued": "2005-12-12",
+  "date_rdate": "2006-01-20",
+  "date_sdate": "2006-01-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Efficient operation of a dynamic system requires (near) optimal real-time control decisions. Those decisions depend on a set of control parameters that change over time. Very often, the optimal decision can be made only with the knowledge of future values of control parameters. As a consequence, the decision process is heuristic in nature. The optimal decision can be determined only after the fact, once the uncertainty is removed. For some types of dynamic systems, the heuristic approach can be very effective. The basic premise is that the future values of control parameters can be predicted with sufficient accuracy. We can either predict those value based on a good model of the system or based on historical data. In many cases, the good model is not available. In that case, prediction using historical data is the only option. It is necessary to detect similarities with the current situation and extrapolate future values. In other words, we need to (quickly) identify patterns in historical data that match the current data pattern. The low sensitivity of the optimal solution is critical. Small variations in data patterns should affect minimally the optimal solution. Resource allocation problems and other â  discrete decision systemsâ   are good examples of such systems. The main contribution of this work is a novel heuristic methodology that uses neural networks for classifying, learning and detecting changing patterns, as well as making (near) real-time decisions. We improve on existing approaches by providing a real-time adaptive approach that takes into account changes in system behavior with minimal operational delay without the need for an accurate model. The methodology is validated by extensive simulation and practical measurements. Two metrics are proposed to quantify the quality of control decisions as well as a comparison to the optimal solution.",
+  "description_provenance": [
+    "Author Email: keadams2@vt.edu",
+    "Advisor Email: sbohner@vt.edu",
+    "Advisor Email: athman@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:30Z (GMT). No. of bitstreams: 1 AdamsDissertationETDUpdate.pdf: 1096632 bytes, checksum: 98592e90f9f62d292244b950aa79f519 (MD5)   Previous issue date: 2005-12-12"
+  ],
+  "handle": "25943",
+  "identifier_other": "etd-01042006-134224",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01042006-134224/",
+  "identifier_uri": "http://hdl.handle.net/10919/25943",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "AdamsDissertationETDUpdate.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Resiliency",
+    "Policy-based Backup",
+    "Neural Networks",
+    "Dynamic Optimization",
+    "Control Theory",
+    "Prediction"
+  ],
+  "title": "An Approach to Real Time Adaptive Decision Making in Dynamic Distributed Systems",
+  "type": "Dissertation"
+}

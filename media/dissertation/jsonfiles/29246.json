@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Alexander, William Nathan",
+  "contributor_committeechair": "Devenport, William J.",
+  "contributor_committeemember": [
+    "Glegg, Stewart A. L.",
+    "Simpson, Roger L.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:17:17Z",
+  "date_adate": "2011-10-25",
+  "date_available": "2014-03-14T20:17:17Z",
+  "date_issued": "2011-09-29",
+  "date_rdate": "2011-10-25",
+  "date_sdate": "2011-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Turbulent flow over a rough surface produces sound that radiates outside the near wall region. This noise source is often at a lower level than the noise created by edges and bluff body flows, but for applications with large surface area to perimeter ratios at low Mach number, this noise source can have considerable levels. In the first part of this dissertation, a detailed study is made of the ability of the Glegg & Devenport (2009) scattering theory to predict roughness noise. To this end, comparisons are made with measurements from cuboidal and hemispherical roughness with roughness Reynolds numbers, hu_Ï /Î½, ranging from 24 to 197 and roughness height to boundary layer thickness ratios of 5 to 18. Their theory is shown to work very accurately to predict the noise from surfaces with large roughness Reynolds numbers, but for cases with highly inhomogeneous wall pressure fields, differences grow between estimation and measurement. For these surfaces, the absolute levels were underpredicted but the spectral shape of the measurement was correctly determined indicating that the relationship of the radiated noise with the wavenumber wall pressure spectrum and roughness geometry appears to remain relatively unchanged. In the second part of this dissertation, delay and sum beamforming and least-squares analyses were used to examine roughness noise recorded by a 36-sensor linear microphone array. These methods were employed to estimate the variation of source strengths through short fetches of large hemispherical and cuboidal element roughness. The analyses show that the lead rows of the fetches produced the greatest streamwise and spanwise noise radiation. The least-squares analysis confirmed the presence of streamwise and spanwise aligned dipoles emanating from each roughness element as suggested by the LES of Yang & Wang (2011). The least-squares calculated source strengths show that the streamwise aligned dipole is always stronger than that of the spanwise dipole, but the relative magnitude of the difference varies with frequency.",
+  "description_provenance": [
+    "Author Email: alexande@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: sglegg@fau.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:17Z (GMT). No. of bitstreams: 1 Alexander_WN_D_2011.pdf: 11912285 bytes, checksum: 6151ad4b3e19b86d513788bab2ae7120 (MD5)   Previous issue date: 2011-09-29"
+  ],
+  "handle": "29246",
+  "identifier_other": "etd-10112011-085924",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112011-085924/",
+  "identifier_uri": "http://hdl.handle.net/10919/29246",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Alexander_WN_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "roughness noise",
+    "wall-jet",
+    "microphone array"
+  ],
+  "title": "Sound from Rough Wall Boundary Layers",
+  "type": "Dissertation"
+}

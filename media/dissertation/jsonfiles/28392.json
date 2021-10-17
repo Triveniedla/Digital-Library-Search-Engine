@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Zhang, Yibing",
+  "contributor_committeecochair": [
+    "Safaai-Jazi, Ahmad",
+    "Wang, Anbo"
+  ],
+  "contributor_committeemember": [
+    "Pickrell, Gary R.",
+    "Jacobs, Ira",
+    "Stolen, Roger Hall"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:17Z",
+  "date_adate": "2003-07-29",
+  "date_available": "2014-03-14T20:14:17Z",
+  "date_issued": "2003-07-24",
+  "date_rdate": "2003-07-29",
+  "date_sdate": "2003-07-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Abstract  Accurate measurement of temperature is essential for the safe and efficient operation and control of a vast range of industrial processes. Many of these processes involve harsh environments, such as high temperature, high pressure, chemical corrosion, toxicity, strong electromagnetic interference, and high-energy radiation exposure. These extreme physical conditions often prevent conventional temperature sensors from being used or make them difficult to use. Novel sensor systems should not only provide accurate and reliable temperature measurements, but also survive the harsh environments through proper fabrication material selections and mechanical structure designs.  This dissertation presents detailed research work on the design, modeling, implementation, analysis, and performance evaluation of novel optical high temperature sensors suitable for harsh environment applications. For the first time to our knowledge, an optical temperature sensor based on the broadband polarimetric differential interferometric (BPDI) technology is proposed and tested using single crystal sapphire material. With a simple mechanically structured sensing probe, in conjunction with an optical spectrum-coded interferometric signal processing technique, the proposed single crystal sapphire optical sensor can measure high temperature up to 1600 oC in the harsh environments with high accuracy, corrosion resistance, and long-term measurement stability. Based on the successfully demonstrated sensor prototype in the laboratory, we are confident of the next research step on sensor optimization and scale-up for full field implementations. The goal for this research has been to bring this temperature sensor to a level where it will become commercially viable for harsh environment applications associated with industries.",
+  "description_provenance": [
+    "Author Email: zyibing@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: pickrell@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: stolen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:17Z (GMT). No. of bitstreams: 1 Disert_YZhang_2003.pdf: 1512370 bytes, checksum: 0a409367c17c0a3e19ba26bbd3ccf867 (MD5)   Previous issue date: 2003-07-24"
+  ],
+  "handle": "28392",
+  "identifier_other": "etd-07252003-134507",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07252003-134507/",
+  "identifier_uri": "http://hdl.handle.net/10919/28392",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Disert_YZhang_2003.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fiber optic sensors",
+    "Temperature",
+    "Polarimetry",
+    "Birefringence",
+    "Low-coherence interferometry"
+  ],
+  "title": "Novel Optical Sensors for High Temperature Measurement  in Harsh Environments",
+  "type": "Dissertation"
+}

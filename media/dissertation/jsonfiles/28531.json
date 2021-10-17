@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Lee, Minhyung",
+  "contributor_committeechair": "Roan, Michael J.",
+  "contributor_committeemember": [
+    "Lockhart, Thurmon E.",
+    "Hong, Dennis W.",
+    "Carneal, James P.",
+    "Johnson, Martin E."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:46Z",
+  "date_adate": "2008-08-27",
+  "date_available": "2014-03-14T20:14:46Z",
+  "date_issued": "2008-08-01",
+  "date_rdate": "2008-08-27",
+  "date_sdate": "2008-08-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Gait is the method of human locomotion using limbs. Recently, the analysis of human motion, specifically human gait, has received a large amount of research attention.   Human gait can contain a wide variety of information that can be used in biometrics, disease diagnosis, injury rehabilitation, and load determination.  In this dissertation, the development of a model-based gait analysis technique to classify external loads is presented. Specifically, the effects of external loads on gait are quantified and these effects are then used to classify whether an individual gait pattern is the result of carrying an external load or not. First of all, the reliability of using continuous relative phase as a metric to determine loading condition is quantified by intra-class correlation coefficients (ICC) and the number of required trials is computed. The ICC(2, 1) values showed moderate reliability and 3 trials are sufficient to determine lower body kinematics under two external load conditions. Then, the work was conducted to provide the baseline separability of load carriage conditions into loaded and unloaded categories using several lower body kinematic parameters. Satisfactory classification of subjects into the correct loading condition was achieved by resorting to linear discriminant analysis (LDA). The baseline performance from 4 subjects who were not included in training data sets shows that the use of LDA provides an 88.9% correct classification over two loaded and unloaded walking conditions. Extra weights, however, can be in the form of an   external load carried by an individual or excessive body weight carried by an overweight individual. The study now attempts to define the differences in lower body gait patterns caused by either external load carriage, excessive body weight, or a combination of both. It was found significant gait differences due to external load carriage and excessive body weight. Principal Component Analysis (PCA) was also used to analyze the lower body gait patterns for four loading conditions: normal weight unloaded, normal weight loaded, overweight unloaded and overweight loaded. PCA has been shown to be a powerful tool for analyzing complex gait data. In this analysis, it is shown that in order to quantify the effects of external loads for both normal weight and overweight subjects, only two principal components (PCs) are needed.  The results in this dissertation suggest that there are gait pattern changes due to external loads, and LDA could be applied successfully to classify the gait patterns with an unknown load condition. Both load carriage and excessive body weight affect lower body kinematics, but it is proved that they are not the same loading conditions. Methods in the current work also give a potential for new medical and clinical ways of investigating gait effects in osteoarthritis patients and/or obese people.",
+  "description_provenance": [
+    "Author Email: minlee@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Advisor Email: mroan@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: james.carneal@ge.com",
+    "Advisor Email: martyj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:46Z (GMT). No. of bitstreams: 1 Dissertation_Lee.pdf: 4023724 bytes, checksum: 17139c600cacd8cee847ce494efa3bb8 (MD5)   Previous issue date: 2008-08-01"
+  ],
+  "handle": "28531",
+  "identifier_other": "etd-08052008-150018",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08052008-150018/",
+  "identifier_uri": "http://hdl.handle.net/10919/28531",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Lee.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Classification",
+    "Adaptation",
+    "Gait analysis",
+    "External loads"
+  ],
+  "title": "Biomechanical adaptations of human gait due to external loads",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Xi, Wensi",
+  "contributor_committeechair": "Fan, Weiguo Patrick",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Ponte, Jay M.",
+    "Lu, Chang-Tien",
+    "Sandu, Adrian"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:36Z",
+  "date_adate": "2006-09-06",
+  "date_available": "2014-03-14T20:13:36Z",
+  "date_issued": "2006-06-20",
+  "date_rdate": "2009-09-06",
+  "date_sdate": "2006-06-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> In this dissertation I use a Unified Relationship Matrix (URM) to represent a set of heterogeneous data objects and their inter-relationships. I argue that integrated and iterative computations over the Unified Relationship Matrix can help overcome the data sparseness problem (a common situation in various information application scenarios), and detect latent relationships (such as latent term associations discovered by LSI) among heterogeneous data objects. Thus, this kind of computation can be used to improve the quality of various information applications that require combining information from heterogeneous data sources.</p><p> To support the argument, I further develop a unified link analysis algorithm, the Link Fusion algorithm, and a unified similarity-calculating algorithm, the SimFusion algorithm. Both algorithms attempt to better integrate information from heterogeneous sources by iteratively computing over the Unified Relationship Matrix in order to calculate some specific property of data object(s); such as the importance of a data object (as in the Link Fusion algorithm) and the similarity between a pair of data objects (as in the SimFusion algorithm).</p><p> Then, I develop two set of experiments on real-world datasets to investigate whether the algorithms proposed in this dissertation can better integrate information from multiple sources. The performance of the algorithms is compared to that of traditional link analysis and similarity-calculating algorithms. Experimental results show that the algorithms developed can significantly outperform the traditional link analysis and similarity-calculating algorithms.</p><p> I further investigate various pruning technologies aiming at improving efficiency and investigating the scalability of the algorithms designed. Experimental results showed that pruning technology can effectively be used to improve the efficiency of the algorithms.</p>",
+  "description_provenance": [
+    "Author Email: xwensi@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: ponte@google.com",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Advisor Email: sandu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:36Z (GMT). No. of bitstreams: 1 DissertationWensiXi.pdf: 1108371 bytes, checksum: 6852745580be286387fc79a63c4e66e3 (MD5)   Previous issue date: 2006-06-20"
+  ],
+  "handle": "28158",
+  "identifier_other": "etd-06292006-202356",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06292006-202356/",
+  "identifier_uri": "http://hdl.handle.net/10919/28158",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationWensiXi.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Unified Relationship Matrix",
+    "Information Retrieval",
+    "Information Integration",
+    "SimFusion",
+    "Search",
+    "Link Fusion"
+  ],
+  "title": "Iterative Computing over a Unified Relationship Matrix for Information Integration",
+  "type": "Dissertation"
+}

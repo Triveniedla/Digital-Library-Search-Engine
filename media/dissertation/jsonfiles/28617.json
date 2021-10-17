@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Mulani, Sameer B.",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeecochair": "Walters, Robert W.",
+  "contributor_committeemember": [
+    "Singh, Mahendra P.",
+    "Patil, Mayuresh J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:04Z",
+  "date_adate": "2006-09-13",
+  "date_available": "2014-03-14T20:15:04Z",
+  "date_issued": "2006-07-17",
+  "date_rdate": "2008-09-13",
+  "date_sdate": "2006-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation investigates uncertainty quantification in dynamic problems. The Advanced Mean Value (AMV) method is used to calculate probabilistic sound power and the sensitivity of elastically supported panels with small uncertainty (coefficient of variation). Sound power calculations are done using Finite Element Method (FEM) and Boundary Element Method (BEM). The sensitivities of the sound power are calculated through direct differentiation of the FEM/BEM/AMV equations. The results are compared with Monte Carlo simulation (MCS). An improved method is developed using AMV, metamodel, and MCS. This new technique is applied to calculate sound power of a composite panel using FEM and Rayleigh Integral. The proposed methodology shows considerable improvement both in terms of accuracy and computational efficiency.<p>   In systems with large uncertainties, the above approach does not work. Two Spectral Stochastic Finite Element Method (SSFEM) algorithms are developed to solve stochastic eigenvalue problems using Polynomial chaos. Presently, the approaches are restricted to problems with real and distinct eigenvalues. In both the approaches, the system uncertainties are modeled by Wiener-Askey orthogonal polynomial functions. Galerkin projection is applied in the probability space to minimize the weighted residual of the error of the governing equation. First algorithm is based on inverse iteration method. A modification is suggested to calculate higher eigenvalues and eigenvectors. The above algorithm is applied to both discrete and continuous systems. In continuous systems, the uncertainties are modeled as Gaussian processes using Karhunen-Loeve (KL) expansion. Second algorithm is based on implicit polynomial iteration method. This algorithm is found to be more efficient when applied to discrete systems. However, the application of the algorithm to continuous systems results in ill-conditioned system matrices, which seriously limit its application. <p>   Lastly, an algorithm to find the basis random variables of KL expansion for non-Gaussian processes, is developed. The basis random variables are obtained via nonlinear transformation of marginal cumulative distribution function using standard deviation. Results are obtained for three known skewed distributions, Log-Normal, Beta, and Exponential. In all the cases, it is found that the proposed algorithm matches very well with the known solutions and can be applied to solve non-Gaussian process using SSFEM.",
+  "description_provenance": [
+    "Author Email: smulani@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: rwalters@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:04Z (GMT). No. of bitstreams: 1 Sameer_thesis.pdf: 4170146 bytes, checksum: 8fbffb0990387c56e51b1f2d0defddce (MD5)   Previous issue date: 2006-07-17"
+  ],
+  "handle": "28617",
+  "identifier_other": "etd-08112006-125239",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112006-125239/",
+  "identifier_uri": "http://hdl.handle.net/10919/28617",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Sameer_thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "metamodeling",
+    "Monte-Carlo simulation",
+    "random variable",
+    "uncertainty quantification",
+    "polynomial chaos",
+    "random process",
+    "probabilistic sound power sensitivity",
+    "stochastic eigenvalue problem",
+    "Karhunen-Loeve expansion"
+  ],
+  "title": "Uncertainty Quantification in Dynamic Problems With Large Uncertainties",
+  "type": "Dissertation"
+}

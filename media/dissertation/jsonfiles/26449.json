@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Friend, Daniel",
+  "contributor_committeechair": "MacKenzie, Allen B.",
+  "contributor_committeemember": [
+    "Marathe, Madhav V.",
+    "DaSilva, Luiz A.",
+    "Buehrer, Richard Michael",
+    "Bostian, Charles W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:17Z",
+  "date_adate": "2009-04-21",
+  "date_available": "2014-03-14T20:08:17Z",
+  "date_issued": "2009-03-06",
+  "date_rdate": "2009-04-21",
+  "date_sdate": "2009-03-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Fueled by the rapid advancement in digital and wireless technologies, the ever-increasing capabilities of wireless devices have placed upon us a tremendous challenge - how to put all of this capability to effective use. Individually, wireless devices have outpaced the ability of users to optimally configure them. Collectively, the complexity is far more daunting. Research in cognitive networks seeks to provide a solution to the diffculty of effectively using the expanding capabilities of wireless networks by embedding greater degrees of intelligence within the network itself. In this dissertation, we address some fundamental questions related to cognitive networks, such as \"What is a cognitive network?\" and \"What methods may be used to design a cognitive network?\" We relate cognitive networks to a common artificial intelligence (AI) framework, the multi-agent system (MAS). We also discuss the key elements of learning and reasoning, with the ability to learn being the primary differentiator for a cognitive network.  Having discussed some of the fundamentals, we proceed to further illustrate the cognitive networking principle by applying it to two problems: multichannel topology control for dynamic spectrum access (DSA) and routing in a mobile ad hoc network (MANET). The multichannel topology control problem involves confguring secondary network parameters to minimize the probability that the secondary network will cause an outage to a primary user in the future. This requires the secondary network to estimate an outage potential map, essentially a spatial map of predicted primary user density, which must be learned using prior observations of spectral occupancy made by secondary nodes. Due to the complexity of the objective function, we provide a suboptimal heuristic and compare its performance against heuristics targeting power-based and interference-based topology control objectives. We also develop a genetic algorithm to provide reference solutions since obtaining optimal solutions is impractical. We show how our approach to this problem qualifies as a cognitive network.  In presenting our second application, we address the role of network state observations in cognitive networking. Essentially, we need a way to quantify how much information is needed regarding the state of the network to achieve a desired level of performance. This question is applicable to networking in general, but becomes increasingly important in the cognitive network context because of the potential volume of information that may be desired for decision-making. In this case, the application is routing in MANETs. Current MANET routing protocols are largely adapted from routing algorithms developed for wired networks.   Although optimal routing in wired networks is grounded in dynamic programming, the critical assumption, static link costs and states, that enables the use of dynamic programming for wired networks need not apply to MANETs. We present a link-level model of a MANET, which models the network as a stochastically varying graph that possesses the Markov property. We present the Markov decision process as the appropriate framework for computing optimal routing policies for such networks. We then proceed to analyze the relationship between optimal policy and link state information as a function of minimum distance from the forwarding node.  The applications that we focus on are quite different, both in their models as well as their objectives. This difference is intentional and signficant because it disassociates the technology, i.e. cognitive networks, from the application of the technology. As a consequence, the versatility of the cognitive networks concept is demonstrated. Simultaneously, we are able to address two open problems and provide useful results, as well as new perspective, on both multichannel topology control and MANET routing.  This material is posted here with permission from the IEEE.  Such permission of the IEEE does not in any way imply IEEE endorsement of any of Virginia Tech library's products or services.  Internal or personal use of this material is permitted.  However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution must be obtained from the IEEE by writing to pubs-permissions@ieee.org.  By choosing to view this material, you agree to all provisions of the copyright laws protecting it.",
+  "description_provenance": [
+    "Author Email: dhfriend@vt.edu",
+    "Advisor Email: mmarathe@vbi.vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:17Z (GMT). No. of bitstreams: 1 Friend_diss_for_ETD.pdf: 739587 bytes, checksum: 5028877a02cb613aca5a5d2c45096f76 (MD5)   Previous issue date: 2009-03-06"
+  ],
+  "handle": "26449",
+  "identifier_other": "etd-03172009-221704",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03172009-221704/",
+  "identifier_uri": "http://hdl.handle.net/10919/26449",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Friend_diss_for_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "genetic algorithm",
+    "Markov decision process",
+    "routing",
+    "dynamic spectrum access",
+    "mobile ad hoc network",
+    "channel allocation",
+    "distributed optimization",
+    "reasoning and learning",
+    "multichannel topology control",
+    "cognitive networks"
+  ],
+  "title": "Cognitive Networks: Foundations to Applications",
+  "type": "Dissertation"
+}

@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Cattarius, Jens",
+  "contributor_committeecochair": [
+    "Inman, Daniel J.",
+    "Mook, Dean T."
+  ],
+  "contributor_committeemember": [
+    "Meirovitch, Leonard",
+    "Hendricks, Scott L.",
+    "Lindner, Douglas K."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:16:52Z",
+  "date_adate": "1999-09-29",
+  "date_available": "2014-03-14T20:16:52Z",
+  "date_issued": "1999-09-24",
+  "date_rdate": "2000-09-29",
+  "date_sdate": "1999-09-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new numerical methodology to examine fluid-structure interaction of a wing/pylon/store system has been developed.  The aeroelastic equation of motion of the complete system is solved iteratively in the time domain using a two-entity numerical code comprised of ABAQUS/Standard and the Unsteady-Vortex-Lattice Method. Both codes communicate through an iterative handshake procedure during which displacements and air loads are updated. For each increment in time the force/displacement equilibrium is found in this manner.  The wing, pylon, and store data considered in this analysis are based on an F16 configuration that was identified to induce flutter in flight at subsonic speeds. The wing structure is modeled as an elastic plate and pylon and store are rigid bodies. The store body is connected to the pylon through an elastic joint exercising pitch and yaw degrees of freedom. Vortex-Lattice theory featuring closed ring-vortices and continuous vortex shedding to form the wakes is employed to model the aerodynamics of wing, store, and pylon.    The methodology was validated against published data demonstrating excellent agreement with documented key phenomena of fluid-structure iteration.  The model correctly predicts the effects of the pylon induced lateral flow disruption as well as wing-tip-vortex effects. It can identify the presence of aerodynamic interference between the store, pylon, and wing wakes and examine its significance with respect to the pressure and lift forces on the participating bodies. An elementary flutter study was undertaken to examine the dynamic characteristics of a stiff production pylon at near-critical airspeeds versus those of a soft-in-pitch pylon.  The simulation reproduced the stabilizing effect of the stiffness reduction in the pitch motion. This idea is based on the concept of the decoupler pylon, introduced by Reed and Foughner in 1978 and flight tested in the early 1980's. <br> NOTE:  (3/07) An updated copy of this ETD was added after there were patron reports of problems with the file.",
+  "description_provenance": [
+    "Author Email: jcattari@vt.edu",
+    "Advisor Email: lmeirovi@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: dtmook@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:52Z (GMT). No. of bitstreams: 2 WingStoreInteraction.pdf: 1527732 bytes, checksum: c70d902ab044cd153f4dddfbdf65edfe (MD5) WingStoreInteraction_updated.pdf: 1736317 bytes, checksum: 6df3e0b8e83fa5aa4240e7b1bcb76d40 (MD5)   Previous issue date: 1999-09-24"
+  ],
+  "handle": "29122",
+  "identifier_other": "etd-092799-223838",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-092799-223838/",
+  "identifier_uri": "http://hdl.handle.net/10919/29122",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "WingStoreInteraction.pdf",
+    "WingStoreInteraction_updated.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "wing/store flutter",
+    "aeroelasticity",
+    "decoupler pylon",
+    "aerodynamics",
+    "vortex-lattice method"
+  ],
+  "title": "Numerical Wing/Store Interaction Analysis of a Parametric F16 Wing",
+  "type": "Dissertation"
+}

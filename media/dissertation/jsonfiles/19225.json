@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Qin, Tong",
+  "contributor_committeechair": "Ragab, Saad A",
+  "contributor_committeemember": [
+    "Yue, Pengtao",
+    "Hajj, Muhammad R",
+    "De Vita, Raffaella",
+    "Stremler, Mark A"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-02-19T22:38:55Z",
+  "date_available": "2013-02-19T22:38:55Z",
+  "date_issued": "2013-01-11",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Studying the interactions of solid particles and deformable gas<br />bubbles in viscous liquids is very important in many applications,<br />especially in mining and chemical industries. These interactions<br />involve liquid-solid-air multiphase flows and an<br />arbitrary-Lagrangian-Eulerican (ALE) approach is used for the direct<br />numerical simulations. In the system of rigid particles and<br />deformable gas bubbles suspended in viscous liquids, the<br />Navier-Stokes equations coupled with the equations of motion of the<br />particles and deformable bubbles are solved in a finite-element<br />framework. A moving, unstructured, triangular mesh tracks the<br />deformation of the bubble and free surface with adaptive refinement.<br />In this dissertation, we study four problems. In the first three<br />problems the flow is assumed to be axisymmetric and two dimensional<br />(2D) in the fourth problem.<br /><br />Firstly, we study the interaction between a rising deformable bubble<br />and a solid wall in highly viscous liquids. The mechanism of the<br />bubble deformation as it interacts with the wall is described in<br />terms of two nondimensional groups, namely the Morton number (Mo)<br />and Bond number (Bo). The film drainage process is also<br />considered. It is found that three modes of bubble-rigid wall<br />interaction exist as Bo changes at a moderate Mo.<br />The first mode prevails at small Bo where the bubble deformation<br />is small. For this mode, the bubble is<br /> hard to break up and will bounce back and eventually attach<br />to the rigid wall. In the second mode, the bubble may break up after<br />it collides with the rigid wall, which is determined by the film<br />drainage. In the third mode, which prevails at high Bo, the bubble<br />breaks up due to the bottom surface catches up the top surface<br />during the interaction.<br /><br />Secondly, we simulate the interaction between a rigid particle and a<br />free surface. In order to isolate the effects of viscous drag and<br />particle inertia, the gravitational force is neglected and the<br />particle gains its impact velocity by an external accelerating<br />force. The process of a rigid particle impacting a free surface and<br />then rebounding is simulated. Simplified theoretical models are<br />provided to illustrate the relationship between the particle<br />velocity and the time variation of film thickness between the<br />particle and free surface. Two film thicknesses are defined. The<br />first is the thickness achieved when the particle reaches its<br />highest position. The second is the thickness when the particle<br />falls to its lowest position. The smaller of these two thicknesses<br />is termed the minimum film thickness and its variation with the<br />impact velocity has been determined. We find that the interactions<br />between the free surface and rigid particle can be divided into<br />three regimes according to the trend of the first film thickness.<br />The three regimes are viscous regime, inertial regime and jetting<br />regime. In viscous regime, the first film thickness decreases as the<br />impact velocity increases. Then it rises slightly in the inertial<br />regime because the effect of liquid inertia becomes larger as the<br />impact velocity increases. Finally, the film thickness decreases<br />again due to Plateau-Rayleigh instability in the jetting regime.<br />We also find that the minimum film thickness corresponds to an<br />impact velocity on the demarcation point between the viscous and<br />inertial regimes. This fact is caused by the balance of viscous<br />drag, surface deformation and liquid inertia.<br /><br />Thirdly, we consider the interaction between a rigid particle and a<br />deformable bubble. Two typical cases are simulated: (1) Collision of<br />a rigid particle with a gas bubble in water in the absence of<br />gravity, and (2) Collision of a buoyancy-driven rising bubble with a<br />falling particle in highly viscous liquids. We also compare our<br />simulation results with available experimental data. Good agreement<br />is obtained for the force on the particle and the shape of the<br />bubble.<br /><br />Finally, we investigated the collisions of groups of bubbles and<br />particles in two dimensions. A preliminary example of the oblique<br />collision between a single particle and a single bubble is conducted<br />by giving the particle a constant acceleration. Then, to investigate<br />the possibility of particles attaching to bubbles, the interactions<br />between a group of 22 particles and rising bubbles are studied. Due<br />to the fluid motion, the particles involved in central collisions<br />with bubbles have higher possibilities to attach to the bubble.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:38:55Z (GMT). No. of bitstreams: 1 Qin_T_D_2013.pdf: 15664134 bytes, checksum: 783291edd4bf5be7a5e4a7e8eab28581 (MD5)   Previous issue date: 2013-01-11",
+  "format_medium": "ETD",
+  "handle": "19225",
+  "identifier_other": "vt_gsexam:161",
+  "identifier_uri": "http://hdl.handle.net/10919/19225",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Multiphase flow",
+    "Bubble-wall interaction",
+    "Particle- free surface interaction",
+    "Particle-bubble interaction",
+    "Film drainage",
+    "Bubble"
+  ],
+  "title": "Numerical Simulations of Interactions of Solid Particles and Deformable Gas Bubbles in Viscous Liquids",
+  "type": "Dissertation"
+}

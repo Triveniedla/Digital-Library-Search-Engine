@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Zimmerman, Kurt Lee",
+  "contributor_committeechair": "Wilcke, Jeffrey R.",
+  "contributor_committeemember": [
+    "Robertson, John L.",
+    "Feldman, Bernard F.",
+    "Rees, Loren Paul",
+    "Kaur, Taranjit"
+  ],
+  "contributor_department": "Veterinary Medical Sciences",
+  "date_accessioned": "2011-08-22T18:52:41Z",
+  "date_adate": "2003-12-11",
+  "date_available": "2011-08-22T18:52:41Z",
+  "date_issued": "2003-12-01",
+  "date_rdate": "2004-12-11",
+  "date_sdate": "2003-12-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The field of medical informatics comprises many subdisciplines, united by a common interest in the establishment of standards to facilitate the sharing, reuse, and understanding of information.  This work depends in large part on the ability of controlled medical terminologies to represent relevant concepts.  This work augments a controlled terminology to provide not only standardized content, but also standardized explanatory knowledge for use in expert systems.  This experiment consisted of four phases centered on the use of the controlled terminology-- Systemized Nomenclature of Medicine (SNOMED). The first phase evaluated SNOMED's ability to express explanatory knowledge for clinical pathology.  The second developed the Normalized Medical Explanation (NORMEX) syntax for expressing and storing pathways of causal reasoning in the domain of clinical pathology. The third segment examined SNOMED's capacity to represent concepts used in the NORMEX model of clinical pathology.  The final phase incorporated NORMEX-based pathways of influence in a Bayesian network to assess ability to predict causal mechanisms as implied by serum analyte results.   Findings from this work suggest that SNOMED's capacity to represent explanatory information parallels its coverage of clinical pathology findings. However, SNOMED currently lacks much of the content necessary for both of these purposes. Additional explanatory content was created with an ontology-modeling tool.  The NORMEX syntax was defined by SNOMED hierarchy names.  Complex sequences of explanations were created using the NORMEX syntax.  In addition, medical explanatory knowledge represented in the NORMEX format could be stored in an architectural framework consistent with that used by a controlled terminology such as SNOMED.  Once stored, such knowledge could be retrieved from storage without loss of meaning or introduction of errors.  Lastly, a Bayesian network constructed from the retrieved NORMEX knowledge produced a network whose prediction performance equaled or exceeded that of a network produced by more traditional means.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:52:41Z (GMT). No. of bitstreams: 1  20031209_dissertation.pdf: 1109800 bytes, checksum: ffc9b2b9c425f1211d6f1726cb78d8de (MD5)    Previous issue date: 2003-12-01",
+    "Author Email: kzimmerm@vt.edu",
+    "Advisor Email: drbob@vt.edu",
+    "Advisor Email: bfeldman@vt.edu",
+    "Advisor Email: jwilcke@vt.edu",
+    "Advisor Email: lrees@vt.edu",
+    "Advisor Email: taranjit@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11073",
+  "identifier_other": "etd-12052003-164457",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12052003-164457",
+  "identifier_uri": "http://hdl.handle.net/10919/11073",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "20031209_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Clinical Pathology",
+    "NORMEX",
+    "Expert Systems",
+    "Bayesian Network",
+    "SNOMED"
+  ],
+  "title": "Extending Snomed to Include Explanatory Reasoning",
+  "type": "Dissertation"
+}

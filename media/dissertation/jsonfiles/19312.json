@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Xu, Guang",
+  "contributor_committeechair": "Luxbacher, Kramer Davis",
+  "contributor_committeemember": [
+    "Ragab, Saad A",
+    "Karmis, Michael E",
+    "Goodman, Gerrit Van Ryper",
+    "Adel, Gregory T"
+  ],
+  "contributor_department": "Mining and Minerals Engineering",
+  "date_accessioned": "2013-04-05T08:00:05Z",
+  "date_available": "2013-04-05T08:00:05Z",
+  "date_issued": "2013-04-04",
+  "degree_discipline": "Mining Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Following an unexpected event in an underground mine, it is important to know the state of the mine immediately to manage the situation effectively. Particularly when part or the whole mine is inaccessible, remotely and quickly ascertaining the ventilation status is one of the pieces of essential information that can help mine personnel and rescue teams make decisions. This study developed a methodology that uses tracer gas techniques and CFD modeling to analyze underground mine ventilation system status remotely. After an unanticipated event that has damaged ventilation controls, the first step of the methodology is to assess and estimate the level of the damage and the possible ventilation changes based on the available information. Then CFD models will be built to model the normal ventilation status before the event, as well as possible ventilation damage scenarios. At the same time, tracer gas tests will be designed and performed on-site. Tracer gas will be released at a designated location with constant or transient release techniques. Gas samples will be collected at other locations and analyzed using Gas Chromatography (GC). Finally, through comparing the CFD simulated results and the tracer on-site test results, the general characterization of the ventilation system can be determined.<br />A review of CFD applications in mining engineering is provided in the beginning of this dissertation. The basic principles of CFD are reviewed and six turbulence models commonly used are discussed with some examples of their application and guidelines on choosing an appropriate turbulence model. General modeling procedures are also provided with particular emphasis on conducting a mesh independence study and different validation methods, further improving the accuracy of a model. CFD applications in mining engineering research and design areas are reviewed, which illustrate the success of CFD and highlight challenging issues.<br />Experiments were conducted both in the laboratory and on-site. These experiments showed that the developed methodology is feasible for characterizing underground ventilation systems remotely. Limitations of the study are also addressed. For example, the CFD model requires detailed ventilation survey data for an accurate CFD modeling and takes much longer time compared to network modeling.<br />Some common problems encountered when using tracer gases in underground mines are discussed based on previously completed laboratory and field experiments, which include tracer release methods, sampling and analysis techniques. Additionally, the use of CFD to optimize the design of tracer gas experiments is also presented. Finally, guidelines and recommendations are provided on the use of tracer gases in the characterization of underground mine ventilation networks.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-05T08:00:05Z (GMT). No. of bitstreams: 1 Xu_G_D_2013.pdf: 4257847 bytes, checksum: 40b042f12bb333da9c5ed773ea8404e1 (MD5)   Previous issue date: 2013-04-04",
+  "format_medium": "ETD",
+  "handle": "19312",
+  "identifier_other": "vt_gsexam:365",
+  "identifier_uri": "http://hdl.handle.net/10919/19312",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "underground mine ventilation",
+    "mine incident",
+    "CFD modeling",
+    "tracer gas",
+    "gas chromatography"
+  ],
+  "title": "Development of a remote analysis method for underground ventilation systems using tracer gas and CFD",
+  "type": "Dissertation"
+}

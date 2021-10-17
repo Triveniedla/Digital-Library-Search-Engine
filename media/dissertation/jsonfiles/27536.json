@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Menon, Rekha",
+  "contributor_committeecochair": [
+    "Buehrer, Richard Michael",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_committeemember": [
+    "Fraticelli, Barbara M. P.",
+    "MacKenzie, Allen B.",
+    "Kachroo, Pushkin"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:33Z",
+  "date_adate": "2007-05-09",
+  "date_available": "2014-03-14T20:11:33Z",
+  "date_issued": "2007-04-30",
+  "date_rdate": "2010-10-07",
+  "date_sdate": "2007-05-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Dynamic spectrum sharing (DSS) is a new paradigm for spectrum allocation that is expected to lead to more efficient spectrum usage and alleviate the spectrum-scarcity that has been perceived in recent years. DSS refers to the opportunistic, dynamic, and uncoordinated use of the spectrum by multiple, possibly non-cooperating, systems. It allows bands which may be underutilized by incumbent or legacy systems to be shared by agile or cognitive radios on a ``do no harm\" basis.  </p><p> An ideal DSS technique is one which efficiently uses the allocated spectrum and maximizes the performance of the DSS network while causing no interference to the legacy radio system with which it coexists. We address this issue in our work by investigating desirable features for DSS with respect to the impact on a legacy radio system as well as the performance of a DSS network. It is found that ``ideal\" DSS techniques with respect to both objectives are characterized by the removal of the strongest interferers in the system and averaging of the remaining interference. This motivates the use of an interference avoidance (IA) based underlay technique for DSS. The performance benefit provided by this technique, over an IA-based overlay technique, is shown to increase with the transmission bandwidth available to the DSS system. It is also shown that this technique is more robust to inaccuracies in the system knowledge required for implementing IA. </p><p> An example of an IA-based underlay technique is a spreading-sequence-based transmission scheme that employs sequence adaptation to avoid interference. We use game-theoretic tools to design such schemes for distributed or ad hoc networks. The designed schemes can also be used to avoid interfering with other agile or static radios. We then extend this work to Ultra Wideband systems which can maximally exploit the gains from the proposed scheme due to the large transmission bandwidths.</p>",
+  "description_provenance": [
+    "Author Email: rmenon@vt.edu",
+    "Advisor Email: bfratice@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:33Z (GMT). No. of bitstreams: 1 Thesis_RM.pdf: 1338464 bytes, checksum: f79f1a7227d23504eef9a4ef4d3cef05 (MD5)   Previous issue date: 2007-04-30"
+  ],
+  "handle": "27536",
+  "identifier_other": "etd-05042007-145544",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05042007-145544/",
+  "identifier_uri": "http://hdl.handle.net/10919/27536",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis_RM.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Interference Avoidance",
+    "Spectrum Sharing",
+    "Game Theory",
+    "Ultra Wideband"
+  ],
+  "title": "Interference Avoidance based Underlay Techniques for Dynamic Spectrum Sharing",
+  "type": "Dissertation"
+}

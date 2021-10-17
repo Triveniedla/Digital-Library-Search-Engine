@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Mayhew, David Evan",
+  "contributor_committeechair": "Tront, Joseph G.",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Brown, Ezra A.",
+    "Kafura, Dennis G.",
+    "Nunnally, Charles E."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:17:36Z",
+  "date_adate": "2005-10-24",
+  "date_available": "2014-03-14T20:17:36Z",
+  "date_issued": "1993-08-01",
+  "date_rdate": "2012-03-26",
+  "date_sdate": "2005-10-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Register allocation is critical to processor performance. Registers are the fastest storage system available to a processor. The more capable a register set's organization is at maintaining process context, the fewer the number of memory accesses the processor will need to make. Overlapping register windows have better context maintenance capabilities than single register set organizations, but overlapping register windows also show significant performance degradation if program behavior causes the register window store to overflow. Program behavior makes window overflow of simple overlapping register window organizations unavoidable. Attempts to minimize the impact of overflow by increasing the size of the register store negatively impact register access time, increases device count, and increases context switch latency. The combination of a transparent spill and refill mechanism and a small register store, allows the store to perform like a much larger store, but does not negatively impact register cycle time, and it decreases context switch latency. Transparent register spilling and refilling can be accomplished by the inclusion of a set of simple state machines, and dedicated register and memory ports. The transparent spill/refill mechanism's external port interfaces very well with established peripheral processing capabilities on many multi-processor architectures. The inclusion of an instruction repetition capability can facilitate global register storage and retrieval, and can decrease context switch latency. Register performance can be further enhanced by partitioning the register set into data typed. register groups. Register partitioning allows a high degree of parallelism, without necessitating the inclusion of register set with high port counts and register access conflicts. Partitioned register sets can the spatially proximate to processing units whose functionality is optimized for operations on specific data types. A remote instruction pointer with a partitioned code address register set and processing capability can decrease branch latency, improve call/return performance, and simplify general case return address maintenance. A partitioned, transparently spilled/refilled register organization minimizes explicit register storing and retrieving, supports the creation of large register-based working sets, and facilitates a simple parallel processing paradigm that allows a high degree sub processing unit independence.",
+  "description_provenance": [
+    "Author Email: David.Mayhew@amd.com",
+    "Advisor Email: jgtront@vt.edu",
+    "Advisor Email: kafura@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:36Z (GMT). No. of bitstreams: 1 LD5655.V856_1993.M394.pdf: 12480942 bytes, checksum: 059d057cebb2733226243157d79dcee3 (MD5)   Previous issue date: 1993-08-01"
+  ],
+  "format_medium": "BTD",
+  "handle": "29353",
+  "identifier_other": "etd-10242005-124111",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10242005-124111/",
+  "identifier_uri": "http://hdl.handle.net/10919/29353",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1993.M394.pdf",
+  "subject": "Registers (Computers)",
+  "subject_lcc": "LD5655.V856 1993.M394",
+  "title": "Transparent spilling and refilling of partitioned overlapping register window register organizations with a remote instruction pointer",
+  "type": "Dissertation"
+}

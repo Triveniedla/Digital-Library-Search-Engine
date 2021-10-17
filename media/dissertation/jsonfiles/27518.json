@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Kumar, Deept",
+  "contributor_committeechair": "Ramakrishnan, Naren",
+  "contributor_committeemember": [
+    "North, Christopher L.",
+    "Murali, T. M.",
+    "Potts, Malcolm",
+    "Helm, Richard Frederick"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:11:29Z",
+  "date_adate": "2007-05-10",
+  "date_available": "2014-03-14T20:11:29Z",
+  "date_issued": "2007-04-19",
+  "date_rdate": "2007-05-10",
+  "date_sdate": "2007-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Scientific data mining purports to extract useful knowledge from massive datasets curated through computational science efforts, e.g., in bioinformatics, cosmology, geographic sciences, and computational chemistry. In the recent past, we have witnessed major transformations of these applied sciences into data-driven endeavors. In particular, scientists are now faced with an overload of vocabularies for describing domain entities. All of these vocabularies offer alternative and mostly complementary (sometimes, even contradictory) ways to organize information and each vocabulary provides a different perspective into the problem being studied. To further knowledge discovery, computational scientists need tools to help uniformly reason across vocabularies, integrate multiple forms of characterizing datasets, and situate knowledge gained from one study in terms of others. This dissertation defines a new pattern class called redescriptions that provides high level capabilities for reasoning across domain vocabularies. A redescription is a shift of vocabulary, or a different way of communicating the same information; redescription mining finds concerted sets of objects that can be defined in (at least) two ways using given descriptors. We present the CARTwheels algorithm for mining redescriptions by exploiting equivalences of partitions induced by distinct descriptor classes as well as applications of CARTwheels to several bioinformatics datasets. We then outline how we can build more complex data mining operations by cascading redescriptions to realize a story, leading to a new data mining capability called storytelling. Besides applications to characterizing gene sets, we showcase its uses in other datasets as well. Finally, we extend the core CARTwheels algorithm by introducing a theoretical framework, based on partitions, to systematically explore redescription space; generalizing from mining redescriptions (and stories) within a single domain to relating descriptors across different domains, to support complex relational data mining scenarios; and exploiting structure of the underlying descriptor space to yield more effective algorithms for specific classes of datasets.",
+  "description_provenance": [
+    "Author Email: dkumar@vt.edu",
+    "Advisor Email: north@vt.edu",
+    "Advisor Email: murali@cs.vt.edu",
+    "Advisor Email: geordie@vt.edu",
+    "Advisor Email: helmrf@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:29Z (GMT). No. of bitstreams: 1 deept_redescs.pdf: 2868067 bytes, checksum: a041ab0333f25fcaca43c3cf868a0cfb (MD5)   Previous issue date: 2007-04-19"
+  ],
+  "handle": "27518",
+  "identifier_other": "etd-05032007-223232",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032007-223232/",
+  "identifier_uri": "http://hdl.handle.net/10919/27518",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "deept_redescs.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bioinformatics",
+    "storytelling",
+    "redescription mining",
+    "redescriptions"
+  ],
+  "title": "Redescription Mining: Algorithms and Applications in Bioinformatics",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Chou, Yen-Liang",
+  "contributor_committeechair": "Pleimling, Michel J. F.",
+  "contributor_committeemember": [
+    "Heremans, Jean J.",
+    "Kulkarni, Rahul V.",
+    "Tauber, Uwe C."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:14:54Z",
+  "date_adate": "2011-08-31",
+  "date_available": "2014-03-14T20:14:54Z",
+  "date_issued": "2011-08-01",
+  "date_rdate": "2011-08-31",
+  "date_sdate": "2011-08-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The surface width, a global quantity that depends on time, is used to characterize the temporal evolution of growing surfaces. One of the most successful concepts for describing the property of the surface width is the famous Family-Vicsek scaling relation. We discuss an extended scaling relation that yields a complete description for various growth models. For two linear Langevin equations, namely the Edwards-Wilkinson equation and the Mullins-Herring equation, we furthermore study analytically the behavior of global quantities related to the surface width or to a quantity which is conjugated to the diffusion constant. The global quantities depend in a non-trivial way on two different times. We discuss the dynamical scaling forms of global correlation and response functions. For global functions related to the surface width, we show that the scaling behavior of the response can depend on how the system is perturbed. Different dynamic regimes, characterized by a power-law or by an exponential relaxation, are identified, and a dynamic phase diagram is constructed. We discuss global fluctuation-dissipation ratios and how to use them for the characterization of non-equilibrium growth processes. We also numerically study the same two-time quantities for the non-linear Kardar-Parisi-Zhang equation. For global functions related to the quantity which is conjugated to the diffusion constant of the linear Langevin equations, we show that the integrated response is proportional to the correlation in the linear response regime. In the aging regime, the autocorrelation and autoresponse exponents are identical and the aging exponent for the response is equal to the aging exponent for the correlation. We investigate the non-equilibrium fluctuation-dissipation theorem for non-equilibrium states based on this quantity. In the non-linear response regime a certain dissipation-fluctuation ratio approximates unity for small waiting times but approaches the ratio of perturbed and unperturbed diffusion constants for larger waiting times.",
+  "description_provenance": [
+    "Author Email: ylchou@vt.edu",
+    "Advisor Email: Michel.Pleimling@vt.edu",
+    "Advisor Email: heremans@vt.edu",
+    "Advisor Email: kulkarni@vt.edu",
+    "Advisor Email: tauber@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:54Z (GMT). No. of bitstreams: 2 Chou_YL_D_2011_1.pdf: 2801008 bytes, checksum: 022782599f84d0148c7f4e62fca85034 (MD5) Chou_YL_D_2011_Copyright.pdf: 411164 bytes, checksum: 6c6b64a1adbc991aa107f48a27b02846 (MD5)   Previous issue date: 2011-08-01"
+  ],
+  "handle": "28574",
+  "identifier_other": "etd-08082011-154126",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08082011-154126/",
+  "identifier_uri": "http://hdl.handle.net/10919/28574",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chou_YL_D_2011_1.pdf",
+    "Chou_YL_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "response function",
+    "correlation function",
+    "surface growth processes",
+    "dynamic scaling",
+    "kinetic roughening"
+  ],
+  "title": "Relaxation phenomena during non-equilibrium growth",
+  "type": "Dissertation"
+}

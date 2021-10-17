@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Chung, Kyung Ho",
+  "contributor_committeechair": "Williges, Robert C.",
+  "contributor_committeemember": [
+    "Shewchuk, John P.",
+    "Pesante-Santana, Jose A.",
+    "Kleiner, Brian M.",
+    "Hix, Deborah S."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:51Z",
+  "date_adate": "2002-04-03",
+  "date_available": "2014-03-14T20:07:51Z",
+  "date_issued": "2002-02-11",
+  "date_rdate": "2003-04-03",
+  "date_sdate": "2002-02-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ensuring inspection performance is not a trivial design problem, because inspection is a complex and difficult task that tends to be error-prone, whether performed by human or by automated machines.  Due to economical or technological reasons, human inspectors are responsible for inspection functions in many cases.  Humans, however, are rarely perfect. A system of manual inspection was found to be approximately 80-90% effective, thus allowing non-confirming parts to be processed (Harris & Chaney, 1969; Drury, 1975).  As the attributes of interest or the variety of products increases, the complexity of an inspection task increases.  The inspection system becomes less effective because of the sensory and cognitive limitations of human inspectors.  Any means that can support or aid the human inspectors is necessary to compensate for inspection difficulty.    <P> Augmented reality offers a new approach in designing an inspection system as a means to augment the cognitive capability of inspectors.  To realize the potential benefits of AR, however the design of AR-aided inspection requires a through understanding of the inspection process as well as AR technology.  The cognitive demands of inspection and the capabilities of AR to aid inspectors need to be evaluated to decide when and how to use AR for a dimensional inspection.   <P>The objectives of this study are to improve the performance of a dimensional inspection task by using AR and to develop guidelines in designing an AR-aided inspection system.  The performance of four inspection methods (i.e., manual, 2D-aided, 3D-aided, and AR-aided inspections) was compared in terms of inspection time and measurement accuracy.  The results suggest that AR might be an effective tool that reduces inspection time.  However, the measuring accuracy was basically the same across all inspection methods.  The questionnaire results showed that the AR and 3D-aided inspection conditions are preferred over the manual and 2D-aided inspection.  Based on the results, four design guidelines were formed in using AR technology for a dimensional inspection.",
+  "description_provenance": [
+    "Author Email: kychung@vt.edu",
+    "Advisor Email: shewchuk@vt.edu",
+    "Advisor Email: tony_pesante@hp.com",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: hix@vt.edu",
+    "Advisor Email: williges@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:51Z (GMT). No. of bitstreams: 1 AR.pdf: 5016465 bytes, checksum: f7a50f30cd56edcf8ac183c501da4f2f (MD5)   Previous issue date: 2002-02-11"
+  ],
+  "handle": "26326",
+  "identifier_other": "etd-02282002-114829",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02282002-114829/",
+  "identifier_uri": "http://hdl.handle.net/10919/26326",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "AR.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Augmented Reality",
+    "Dimensional and Geometric Inspection",
+    "Variable Inspection"
+  ],
+  "title": "Application of Augmented Reality to Dimensional and Geometric Inspection",
+  "type": "Dissertation"
+}

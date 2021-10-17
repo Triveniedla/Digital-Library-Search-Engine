@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Ren, Ping",
+  "contributor_committeechair": "Hong, Dennis W.",
+  "contributor_committeemember": [
+    "Ahmadian, Mehdi",
+    "Sandu, Corina",
+    "Sturges, Robert H.",
+    "West, Robert L. Jr."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:03Z",
+  "date_adate": "2010-10-04",
+  "date_available": "2014-03-14T20:16:03Z",
+  "date_issued": "2010-08-27",
+  "date_rdate": "2010-10-04",
+  "date_sdate": "2010-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents the kinematics study on two cases of parallel locomotion mechanisms. A parallel locomotion mechanism can be defined as â  a mechanism with parallel configuration and discrete contact with respect to the ground which renders a platform the ability to moveâ  . The first case is a tripedal robot and the second case is an actuated spoke wheel robot. The kinematics study on these two mobile robots mainly includes mobility, inverse and forward kinematics, instantaneous kinematics, singularity and so on.  The tripedal robot STriDER (Self-excited Tripedal Dynamic Experimental Robot) is expected to walk utilizing its built-in passive dynamics, but in its triple stance phase, the kinematic configuration of the robot behaves like an in-parallel manipulator. The locomotion of this novel walking robot and its unique tripedal gait are discussed, followed by the definitions of its coordinate frames. Geometric methods are adopted for the forward and inverse displacement analysis in its triple stance phase. Simulations are presented to validate both the inverse and the forward displacement solutions. The instantaneous kinematics and singularity analysis are developed respectively. Based on the screw theory, the Jacobian matrices are assembled. Using Grassmann Line Geometry, each row of the Jacobian matrices is interpreted as a line in 3D space and the analytical conditions of the linear dependency cases are identified, which corresponds to the forward singular configurations of the robot.  The actuated spoke wheel robot IMPASS (Intelligent Mobility Platform with Active Spoke System) is investigated as the second case. It is revealed that this robot has multiple modes of locomotion on the ground and it is able to change its topology by changing the contact scheme of its spokes with the ground. This robot is treated as a mechanism with variable topologies and Modified GrÃ¼bler-Kutzbach criterion and Grassmann Line Geometry are adopted to identify the degrees of freedom (DOF) for each case of its topological structures. The characteristic DOF are then verified through the testing on the robot prototype. The forward and inverse kinematics is investigated for two cases of its topologies. In order to improve the computation efficiency of the inverse kinematics formulation, virtual serial manipulator models are constructed. The effectiveness of the virtual serial manipulator models has been validated with numerical simulations.  In conclusion, kinematics analyses have been successfully performed on the two parallel locomotion mechanisms. The results are utilized to control the robotsâ   motions in specific configurations. The foundation has been laid for the future development of the robot prototypes and the future research on dynamics, control, intelligence and so on.",
+  "description_provenance": [
+    "Author Email: renping@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: westrl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:03Z (GMT). No. of bitstreams: 2 Ren_P_D_2010_2.pdf: 12886792 bytes, checksum: 5dad1d3d37a51685216a5f03ccc859da (MD5) Ren_P_D_2010.pdf: 12849108 bytes, checksum: 21cd775f736bf7d2b97a2f46c5fbc285 (MD5)   Previous issue date: 2010-08-27"
+  ],
+  "handle": "28909",
+  "identifier_other": "etd-09082010-153139",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082010-153139/",
+  "identifier_uri": "http://hdl.handle.net/10919/28909",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Ren_P_D_2010_2.pdf",
+    "Ren_P_D_2010.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Screw Theory",
+    "Mechanisms with Variable Topologies",
+    "Parallel Mechanisms",
+    "Mobile Robotics",
+    "Kinematics"
+  ],
+  "title": "Kinematics Analysis of Two Parallel Locomotion Mechanisms",
+  "type": "Dissertation"
+}

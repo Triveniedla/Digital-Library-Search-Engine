@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Granlund, Kenneth Ove",
+  "contributor_committeechair": "Simpson, Roger L.",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "McCue-Weil, Leigh S.",
+    "Mason, William H.",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:47Z",
+  "date_adate": "2009-05-04",
+  "date_available": "2014-03-14T20:09:47Z",
+  "date_issued": "2009-02-06",
+  "date_rdate": "2009-05-04",
+  "date_sdate": "2009-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Forces and moments have been measured on slender bodies in both static angle conditions as well as rapid time-dependent large amplitude maneuvers with the Dynamic Pitch Plunge Roll (DyPPiR) apparatus. <br /> <br /> Lateral and transversal forces as well as all three moments have been measured at static angles of attack and sideslip and unsteady pitch ramp maneuvers at a fixed point of rotation at the quarter length of the body. The two bodies are the DARPA Suboff generic submarine shape and a non-Body-of-Revolution scalene ellipsoid with a constant cross-section midbody.  An analytical two-mode equation has been shown to accurately describe the normal force and pitch moment as well as side force and yaw moment for the ellipsoid body. It is based on the observation that the center of pressure for the cross-flow contribution is at a fixed location. For the Suboff body, this assumption is invalid. Unsteady forces and moments can be measured to a very small magnitude of uncertainty and were found to differ from steady forces and moments at the time-instantaneous flow angle during the motion.",
+  "description_provenance": [
+    "Author Email: granlund@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:47Z (GMT). No. of bitstreams: 1 granlund2009.pdf: 3330003 bytes, checksum: 43fc9ba6752b2e8d4c96ed7e9df579fc (MD5)   Previous issue date: 2009-02-06"
+  ],
+  "handle": "26912",
+  "identifier_other": "etd-04162009-161320",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162009-161320/",
+  "identifier_uri": "http://hdl.handle.net/10919/26912",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "granlund2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "unsteady",
+    "ellipsoid",
+    "separation",
+    "signal processing",
+    "vortical",
+    "experiment",
+    "slender"
+  ],
+  "title": "Steady and Unsteady Maneuvering Forces and Moments on Slender Bodies",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Balasubramanian, Ganesh",
+  "contributor_committeechair": "Puri, Ishwar K.",
+  "contributor_committeemember": [
+    "Batra, Romesh C.",
+    "Huxtable, Scott T.",
+    "Mahajan, Roop L.",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:10:50Z",
+  "date_adate": "2011-04-29",
+  "date_available": "2014-03-14T20:10:50Z",
+  "date_issued": "2011-04-20",
+  "date_rdate": "2011-04-29",
+  "date_sdate": "2011-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Transport phenomena at the nanoscale can differ from that at the continuum because the large surface area to volume ratio significantly influences material properties. While the modeling of many such transport processes have been reported in the literature, a few examples exist that integrate molecular approaches into the more typical macroscale perspective. This thesis extends the understanding of nanoscale transport governed by charge, mass and energy transfer, comparing these phenomena with the corresponding continuum behavior where applicable. For instance, molecular simulations enable us to predict the solvation structure around ions and describe the diffusion of water in salt solutions. In another case, we find that in the absence of interfacial effects, the stagnation flow produced by two opposing nanojets can be suitably described using continuum relations. We also examine heat conduction within solids of nanometer dimensions due to both the ballistic propagation of lattice vibrations in small confined dimensions and a diffusive behavior that is observed at larger length scales. Our simulations determine the length dependence of thermal conductivity for these cases as well as effects of isotope substitution in a material. We find that a temperature discontinuity at interfaces between dissimilar materials arises due to interfacial thermal resistance. We successfully incorporate these interfacial nanoscale effects into a continuum model through a modified heat conduction approach and also by a multiscale computational scheme. Finally, our efforts at integrating research with education are described through our initiative for developing and implementing a nanotechnology module for freshmen, which forms the first step of a spiral curriculum.",
+  "description_provenance": [
+    "Author Email: bganesh@vt.edu",
+    "Advisor Email: ikpuri@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Advisor Email: mahajanr@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:50Z (GMT). No. of bitstreams: 2 Balasubramanian_G_D_2011.pdf: 7599655 bytes, checksum: f14be3d3e043e89e121e94b8a42f0b3d (MD5) Balasubramanian_G_D_2011_Copyright.pdf: 225466 bytes, checksum: 1aab7a954a2a94c6b9a633296f9c6951 (MD5)   Previous issue date: 2011-04-20"
+  ],
+  "handle": "27288",
+  "identifier_other": "etd-04252011-123452",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252011-123452/",
+  "identifier_uri": "http://hdl.handle.net/10919/27288",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Balasubramanian_G_D_2011.pdf",
+    "Balasubramanian_G_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "molecular dynamics",
+    "Nanoscale transport",
+    "multiscale simulation"
+  ],
+  "title": "Modeling nanoscale transport phenomena: Implications for the continuum",
+  "type": "Dissertation"
+}

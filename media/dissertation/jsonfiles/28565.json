@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Lu, Qiang",
+  "contributor_committeechair": "Conners, Richard W.",
+  "contributor_committeemember": [
+    "Armstrong, James R.",
+    "Midkiff, Scott F.",
+    "Reed, Jeffrey Hugh",
+    "Kline, D. Earl",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:53Z",
+  "date_adate": "1999-08-13",
+  "date_available": "2014-03-14T20:14:53Z",
+  "date_issued": "1999-04-19",
+  "date_rdate": "2000-08-13",
+  "date_sdate": "1999-08-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "X-ray devices have demonstrated the ability to characterize a material at the molecular and atomic levels. This ability is particularly important for detecting plastic explosives, where object shape information cannot be used. X-ray devices are relatively inexpensive compared to many other detection technologies. X-ray technology is considered as the technology for detecting illicit materials. Using x-ray technology, a material's <i>density-</i> and <i>effective atomic number</i> or <i>Z<sub>eff</sub></i>-related information can be determined. In theory, an illicit material can be identified using those two pieces of information. <br><br> This dissertation discusses explosives detection in passenger luggage bags. The x-ray technology used is called <i>R-L</i> multi-sensing technology. The <i>R-L</i> technology was developed by researchers at Virginia Tech. It is the first true multisensing technology used for explosive detection. It uses dual-energy transmission and scatter technologies to obtain characteristic values of an object, i.e., <i>R</i> and <i>L</i>. The material type of this object can then be determined using <i>R-L</i> plane. The characteristic value <i>R</i> is computed using signals from dual-energy transmission modality. <i>R</i> is related to <i>Z<sub>eff</sub></i>. The characteristic value L is computed using signals from low-energy transmission and scatter modalities. <i>L</i> is related to density. Compared to single-sensing technologies and pseudo multi-sensing technologies, the detection accuracy of <i>R-L</i> technology should be much higher. <br><br> The <i>R</i> and <i>L</i> values of an object can only be computed from an object's <i><b>true</b></i> gray levels. <i><b>True</b></i> gray level refers to the measured gray level of an object when it is not overlapped with any other objects. The problem is objects in a bag almost always overlap with other objects. Being able to identify the object of interest and remove the overlap effects becomes the key issue that needs to be solved. <br><br> The discussion in this dissertation focuses on the development of the image-processing system used on this multiple sensor system. This image-processing system is comprised of four steps. The first step is to spatially register images from all the sensing modalities. The second step is to remove noise using the edge-preserving smoothing algorithm. The third step is to segment image into regions with relatively uniform gray levels. The fourth step is to compute the true gray levels for objects of interest using the mathematical models for removing overlapping effects. Most of the research focuses on developing a robust segmentation algorithm for segmenting x-ray bag images and developing mathematical models for removing object overlapping effects. The unique contribution of this dissertation includes the development of those mathematical models used for removing object-overlapping effects, and the development of the algorithm for determining an object's true gray levels. <br><br> The experimental verification shows that the algorithms for registration, smoothing, and segmentation work well. The algorithm that computes the true gray levels of an object can perform the computation quite precisely in transmission modality. However, the methods that were developed for computing an object's true gray levels in scatter images are much less accurate.",
+  "description_provenance": [
+    "Author Email: qianglu@vt.edu",
+    "Advisor Email: jra@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: kline@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:53Z (GMT). No. of bitstreams: 11 cover.pdf: 2454 bytes, checksum: 1eea5e6a4f761849d5894eb0b2058ff8 (MD5) toc.pdf: 14981 bytes, checksum: 64fe1dbdbf7d5afe91ab511039b06246 (MD5) abstract.pdf: 7831 bytes, checksum: 3986551ec1da7f8009e48f39ec37b002 (MD5) chap1.pdf: 35951 bytes, checksum: ffb59c72bbaf16f6ad8409d43d492b78 (MD5) chap2.pdf: 1322742 bytes, checksum: 13c7fd1743bfae7f86a568ca23b2e5bf (MD5) chap3.pdf: 90434 bytes, checksum: ec10ef6192764d7d4000986816f2f40e (MD5) chap4.pdf: 450791 bytes, checksum: 6b5db5a765727bdae92ab789acea56ec (MD5) chap5.pdf: 153980 bytes, checksum: a17b65a708940cb2bec66cbd565171fc (MD5) chap6.pdf: 2293534 bytes, checksum: d743d00fef5b64dae070af395821647e (MD5) chap7.pdf: 12755 bytes, checksum: 5f96872835cdeca00037738633f96b16 (MD5) references.pdf: 26748 bytes, checksum: 8910a934a238fec2e983b1c6b26f7221 (MD5)   Previous issue date: 1999-04-19"
+  ],
+  "handle": "28565",
+  "identifier_other": "etd-080799-132525",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080799-132525/",
+  "identifier_uri": "http://hdl.handle.net/10919/28565",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "cover.pdf",
+    "toc.pdf",
+    "abstract.pdf",
+    "chap1.pdf",
+    "chap2.pdf",
+    "chap3.pdf",
+    "chap4.pdf",
+    "chap5.pdf",
+    "chap6.pdf",
+    "chap7.pdf",
+    "references.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "illicit material detection",
+    "image processing",
+    "x-ray"
+  ],
+  "title": "The Utility of X-Ray Dual-Energy Transmission and Scatter Technologies for Illicit Material Detection",
+  "type": "Dissertation"
+}

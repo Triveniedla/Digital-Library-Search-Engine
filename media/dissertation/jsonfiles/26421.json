@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Sulaeman, Erwin",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Librescu, Liviu",
+    "Johnson, Eric R.",
+    "Schetz, Joseph A.",
+    "Mason, William H."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:11Z",
+  "date_adate": "2002-04-09",
+  "date_available": "2014-03-14T20:08:11Z",
+  "date_issued": "2001-12-26",
+  "date_rdate": "2003-04-09",
+  "date_sdate": "2002-03-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recent investigations of a strut-braced wing (SBW) aircraft show that, at high positive load factors, a large tensile force in the strut leads to a considerable compressive axial force in the inner wing, resulting in a reduced bending stiffness and even buckling of the wing.  Studying the influence of this compressive force on the structural response of SBW is thus of paramount importance in the early stage of SBW design.  The purpose of the this research is to investigate the effect of compressive force on aeroelastic stability of the SBW using efficient structural finite element and aerodynamic lifting surface methods.  A procedure is developed to generate wing stiffness distribution for detailed and simplified wing models and to include the compressive force effect in the SBW aeroelastic analysis.  A sensitivity study is performed to generate response surface equations for the wing flutter speed as functions of several design variables.  These aeroelastic procedures and response surface equations provide a valuable tool and trend data to study the unconventional nature of SBW.   In order to estimate the effect of the compressive force, the inner part of the wing structure is modeled as a beam-column.  A structural finite element method is developed based on an analytical stiffness matrix formulation of a non-uniform beam element with arbitrary polynomial variations in the cross section.  By using this formulation, the number of elements to model the wing structure can be reduced without degrading the accuracy.   The unsteady aerodynamic prediction is based on a discrete element lifting surface method.  The present formulation improves the accuracy of existing lifting surface methods by implementing a more rigorous treatment on the aerodynamic kernel integration.  The singularity of the kernel function is isolated by implementing an exact expansion series to solve an incomplete cylindrical function problem. A hybrid doublet lattice/doublet point scheme is devised to reduce the computational time.   SBW aircraft selected for the present study is the fuselage-mounted engine configuration.  The results indicate that the detrimental effect of the compressive force to the wing buckling and flutter speed is significant if the wing-strut junction is placed near the wing tip.",
+  "description_provenance": [
+    "Author Email: esulaema@vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:11Z (GMT). No. of bitstreams: 1 erwin.pdf: 2800666 bytes, checksum: 0b7dd3930ab279451fe3e453b50a8a8c (MD5)   Previous issue date: 2001-12-26"
+  ],
+  "handle": "26421",
+  "identifier_other": "etd-03132002-150048",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03132002-150048/",
+  "identifier_uri": "http://hdl.handle.net/10919/26421",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "erwin.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Buckling",
+    "Non-uniform Beam Finite Element",
+    "Unsteady Aerodynamics",
+    "Aeroelasticity",
+    "Strut-Braced Wing"
+  ],
+  "title": "Effect of Compressive Force on Aeroelastic Stability of a Strut-Braced Wing",
+  "type": "Dissertation"
+}

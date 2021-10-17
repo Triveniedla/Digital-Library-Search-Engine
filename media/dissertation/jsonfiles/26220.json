@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Chen, Yuxin",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Lu, Chang-Tien",
+    "Fan, Weiguo Patrick",
+    "Ramakrishnan, Naren",
+    "Torres, Ricardo da Silva"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:33Z",
+  "date_adate": "2007-03-28",
+  "date_available": "2014-03-14T20:07:33Z",
+  "date_issued": "2007-02-05",
+  "date_rdate": "2007-03-28",
+  "date_sdate": "2007-02-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Web, containing a large amount of useful information and resources, is expanding rapidly. Collecting domain-specific documents/information from the Web is one of the most important methods to build digital libraries for the scientific community. Focused Crawlers can selectively retrieve Web documents relevant to a specific domain to build collections for domain-specific search engines or digital libraries. Traditional focused crawlers normally adopting the simple Vector Space Model and local Web search algorithms typically only find relevant Web pages with low precision. Recall also often is low, since they explore a limited sub-graph of the Web that surrounds the starting URL set, and will ignore relevant pages outside this sub-graph. In this work, we investigated how to apply an inductive machine learning algorithm and meta-search technique, to the traditional focused crawling process, to overcome the above mentioned problems and to improve performance. We proposed a novel hybrid focused crawling framework based on Genetic Programming (GP) and meta-search. We showed that our novel hybrid framework can be applied to traditional focused crawlers to accurately find more relevant Web documents for the use of digital libraries and domain-specific search engines. The framework is validated through experiments performed on test documents from the Open Directory Project. Our studies have shown that improvement can be achieved relative to the traditional focused crawler if genetic programming and meta-search methods are introduced into the focused crawling process.",
+  "description_provenance": [
+    "Author Email: yuchen@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: rtorres@ic.unicamp.br",
+    "Made available in DSpace on 2014-03-14T20:07:33Z (GMT). No. of bitstreams: 1 YuxinDissertation_etd_final1.pdf: 820230 bytes, checksum: 72379ba65ff5b3be25bae0f165d1b4b2 (MD5)   Previous issue date: 2007-02-05"
+  ],
+  "handle": "26220",
+  "identifier_other": "etd-02162007-005107",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02162007-005107/",
+  "identifier_uri": "http://hdl.handle.net/10919/26220",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "YuxinDissertation_etd_final1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "meta-search",
+    "digital libraries",
+    "focused crawler",
+    "classification"
+  ],
+  "title": "A Novel Hybrid Focused Crawling Algorithm to Build Domain-Specific Collections",
+  "type": "Dissertation"
+}

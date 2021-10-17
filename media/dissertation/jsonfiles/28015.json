@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Breivik, Nicole L",
+  "contributor_committeechair": "Hyer, Michael W.",
+  "contributor_committeemember": [
+    "Gürdal, Zafer",
+    "Griffin, Odis Hayden Jr.",
+    "Scott, Elaine P.",
+    "Cramer, Mark S."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:56Z",
+  "date_adate": "2003-06-12",
+  "date_available": "2014-03-14T20:12:56Z",
+  "date_issued": "1998-06-04",
+  "date_rdate": "2004-06-12",
+  "date_sdate": "2003-06-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Curved panels constructed of laminated graphite-epoxy composite material are of potential interest in airframe fuselage applications. An understanding of structural response at elevated temperatures is required for anticipated future high speed aircraft applications. This study concentrates on the response of unstiffened, curved composite panels subjected to combinations of thermal and mechanical loading conditions. Mechanical loading is due to compressive end-shortening and thermal loading is due to a uniform temperature increase. Thermal stresses, which are induced by mechanical restraints against thermal expansions or contractions, cause buckling and postbuckling panel responses. Panels with three different lamination sequences are considered, including a quasi-isotropic laminate, an axially soft laminate, and an axially stiff laminate. These panels were chosen because they exhibit a range of stiffnesses and a wide variation in laminate coefficients of thermal expansion. The panels have dimensions of 10 in. by 10 in. with a base radius of 60 in. The base boundary conditions are clamped along the curved ends, and simply supported along the straight edges. Three methods are employed to study the panel response, including a geometrically nonlinear Rayleigh-Ritz solution, a finite element solution using the commercially available code STAGS, and an experimental program. The effects of inplane boundary conditions and radius of curvature are studied analytically, along with consideration of order of application in combined loading. A substantial difference is noted in the nonlinear load vs. axial strain responses of panels loaded in end-shortening and panels loaded with uniform temperature change, depending on the specific lamination sequence, boundary conditions, and radius of curvature. Experiments are conducted and results are presented for both room temperature end-shortening tests and elevated temperature tests with accompanying end-shortening. The base finite element model is modified to include measured panel thicknesses, boundary conditions representative of the experimental apparatus, measured initial geometric imperfections, and measured temperature gradients. With these modifications, and including an inherent end displacement of the panel present during thermal loading, good correlation is obtained between the experimental and numerically predicted load vs. axial strain responses from initial loading through postbuckling.",
+  "description_provenance": [
+    "Author Email: n.l.breivik@larc.nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:12:56Z (GMT). No. of bitstreams: 1 etd.pdf: 15168392 bytes, checksum: 21d0936e582bd55238eef822fb21c4f3 (MD5)   Previous issue date: 1998-06-04"
+  ],
+  "handle": "28015",
+  "identifier_other": "etd-06112003-202738",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06112003-202738/",
+  "identifier_uri": "http://hdl.handle.net/10919/28015",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "thermal structures",
+    "postbuckling",
+    "imperfections",
+    "nonlinear response",
+    "buckling"
+  ],
+  "title": "Thermal and Mechanical Response of Curved Composite Panels",
+  "type": "Dissertation"
+}

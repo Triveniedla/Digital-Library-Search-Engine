@@ -1,0 +1,44 @@
+{
+  "contributor_author": "VanderSchaaf, Curtis Lee",
+  "contributor_committeechair": "Burkhart, Harold E.",
+  "contributor_committeemember": [
+    "Zedaker, Shepard M.",
+    "Reynolds, Marion R. Jr.",
+    "Oderwald, Richard G."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:18:03Z",
+  "date_adate": "2006-11-30",
+  "date_available": "2014-03-14T20:18:03Z",
+  "date_issued": "2006-10-30",
+  "date_rdate": "2007-11-30",
+  "date_sdate": "2006-11-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Self-thinning quantifies the reduction in tree numbers due to density-dependent mortality.  Maximum size-density relationships (MSDRs) are a component of self-thinning that describe the maximum tree density per unit area obtainable for a given average tree size, often quadratic mean diameter (D).  An MSDR species boundary line has been defined as a static upper limit of maximum tree density -- D relationships that applies to all stands of a certain species within a particular geographical area.  MSDR dynamic thinning lines have been defined as the maximum tree density obtainable within an individual stand for a particular D which have been shown to vary relative to planting density.  Results from this study show that differences in boundary levels of individual stands cause the MSDR species boundary line slope estimate to be sensitive to the range of planting densities within the model fitting dataset.  Thus, a second MSDR species boundary line was defined whose slope is the average slope of all MSDR dynamic thinning lines.  Mixed-models are presented as a statistical method to obtain an estimate of the population average MSDR dynamic thinning line slope.        </p><p>    A common problem when modeling self-thinning is to determine what observations are within generally accepted stages of stand development.  Segmented regression is presented as a statistical and less subjective method to determine what observations are within various stages of stand development.  Estimates of D and trees per acre (N) where MSDR dynamic thinning lines begin and end on the logarithmic scale were used as response variables and predicted as a function of planting density.  Predictions of MSDR dynamic thinning line beginning and ending D and N are used in an alternative MSDR dynamic thinning line slope estimation method.  These models show that the maximum value of Reineke's Stand Density Index (SDI) varies relative to planting density. </p> <p>  By relating planting density specific Zone of Imminent Competition Mortality boundaries to a MSDR species boundary line, self-thinning was found not to begin at a constant relative SDI.  Thus, planting density specific Density Management Diagrams (DMD) showed that self-thinning began at 40 to 72% for planting densities of 605 and 2722 seedlings per acre, respectively. </p>",
+  "description_provenance": [
+    "Author Email: cvanders@vt.edu",
+    "Advisor Email: burkhart@vt.edu",
+    "Advisor Email: zedaker@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: oderwald@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:03Z (GMT). No. of bitstreams: 1 vanderschaaf_revised_ETD.pdf: 785882 bytes, checksum: 7fc22e04745d34f9241ae67942f58259 (MD5)   Previous issue date: 2006-10-30"
+  ],
+  "handle": "29489",
+  "identifier_other": "etd-11072006-154916",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11072006-154916/",
+  "identifier_uri": "http://hdl.handle.net/10919/29489",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "vanderschaaf_revised_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "size-density trajectories",
+    "stand density index",
+    "density management diagrams",
+    "self-thinning",
+    "mixed models"
+  ],
+  "title": "Modeling maximum size-density relationships of loblolly pine (Pinus taeda L.) plantations",
+  "type": "Dissertation"
+}

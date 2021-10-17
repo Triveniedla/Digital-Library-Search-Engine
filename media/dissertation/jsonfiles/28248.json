@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Koujah, Fahad",
+  "contributor_committeechair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Martin, Thomas L.",
+    "Mishra, Amitabh",
+    "Koelling, Charles Patrick",
+    "DaSilva, Luiz A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:50Z",
+  "date_adate": "2006-07-11",
+  "date_available": "2014-03-14T20:13:50Z",
+  "date_issued": "2006-05-24",
+  "date_rdate": "2007-07-11",
+  "date_sdate": "2006-07-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Wireless network devices, especially in ad hoc networks, are typically battery-powered. The growing need for energy efficiency in wireless networks, in general, and in mobile ad hoc networks (MANETs), in particular, calls for power enhancement features. The goal of this dissertation is to extend network lifetime by improving energy utilization in MANET routing. We utilize the ability of wireless network interface cards to dynamically change their transmission power, as well as the ability of wireless devices to read the remaining battery energy of the device to create a table of what we term \"reluctance values,\" which the device uses to determine how to route packets. Choosing routes with lower reluctance values, on average and with time, leads to better utilization of the energy resources of the devices in the network. Our power-aware scheme can be applied to both reactive and proactive MANET routing protocols. As examples and to evaluate performance, the technique has been applied to the Dynamic Source Routing (DSR) protocol, a reactive routing protocol, and the Optimized Link State Routing (OLSR) protocol, a proactive routing protocol. Simulations have been carried out on large static and mobile networks. Results show improvements in network lifetime in static and certain mobile scenarios. Results also show better distribution of residual node energies at the end of simulations, which means that the scheme is balancing energy load more evenly across network nodes than the unmodified versions of DSR and OLSR. Average change in energy over time in the unmodified protocols show a steady increase with time, while the power-aware protocols show an increase in the beginning, then it levels for sometime before it starts to decrease. The power-aware scheme shows improvements in static and in coordinated mobility scenarios. In random mobility the power-aware protocols show no advantage over the unmodified protocols.",
+  "description_provenance": [
+    "Author Email: fkoujah@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: mishra@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:50Z (GMT). No. of bitstreams: 1 thesis.pdf: 1590303 bytes, checksum: 5ac7c086ec7a22b3219dbc54ad0210ca (MD5)   Previous issue date: 2006-05-24"
+  ],
+  "handle": "28248",
+  "identifier_other": "etd-07102006-131930",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07102006-131930/",
+  "identifier_uri": "http://hdl.handle.net/10919/28248",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "IEEE802.11b",
+    "power-aware",
+    "MANET",
+    "energy-efficient",
+    "WLAN",
+    "routing"
+  ],
+  "title": "A Power-Aware Routing Scheme for Ad Hoc Networks",
+  "type": "Dissertation"
+}

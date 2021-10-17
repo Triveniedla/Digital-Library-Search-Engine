@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Hess, Traci J.",
+  "contributor_committeechair": "Rees, Loren Paul",
+  "contributor_committeemember": [
+    "Sumichrast, Robert T.",
+    "Rakes, Terry R.",
+    "Matheson, Lance Arthur",
+    "Ragsdale, Cliff T."
+  ],
+  "contributor_department": "Management Science",
+  "date_accessioned": "2011-08-22T19:09:11Z",
+  "date_adate": "1999-05-12",
+  "date_available": "2011-08-22T19:09:11Z",
+  "date_issued": "1998-12-01",
+  "date_rdate": "2000-05-12",
+  "date_sdate": "1999-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Software agents have been heralded as the most important emerging technology of the decade.  As software development firms eagerly attempt to integrate these autonomous programs into their products, researchers attempt to define the concept of agency and to develop architectures that will improve agent capabilities.  Decision Support System (DSS) researchers have been eager to integrate agents into their applications, and exploratory works in which agents have been used within a DSS have been documented.  This dissertation attempts to further this exploration by studying the agent features and underlying architectures that can lead to the successful integration of agents in DSS.  This exploration is carried out in three parts.  In the first part, a review of the relevant research streams is provided.  The history and current status of software agents is first discussed.  Similarly, a historical and current view of DSS research is provided.  Lastly, a historical and tutorial-type of discussion is provided on the topic of Artificial Intelligence (AI) planning.  This review of the relevant literature provides a general background for the conceptual analyses and implementations that are carried out in the next two sections. In the second part, the literature on software agents is synthesized to develop a definition of agency applicable to DSS.  Using this definition, an agent-integrated DSS that supports variance-analysis is designed and developed.  Following this implementation, a general framework for agent-enabling DSS is suggested.  The use of this framework promises to raise some DSS to a new level of capability whereby \"what-if\" systems are transformed into real-time, proactive systems.    The third part utilizes this general framework to agent-enable a corporate-planning system DSS and extends the framework in the second section through the introduction of an automated-planning agent.  The agent uses AI planning to generate decision-making alternatives, providing a means to integrate and sequence the models in the DSS.  The architecture used to support this planning agent is described.  This new kind of DSS enables not only the monitoring of goals, but also the maintenance of these goals through agent-generated plans. The conclusion summarizes the contributions of this work and outlines in considerable detail potential research opportunities in the realm of software agents, DSS, and planning.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:09:11Z (GMT). No. of bitstreams: 1 THESS.PDF: 2521956 bytes, checksum: 2ba39d333feb2272858472b1c6c73d1a (MD5)   Previous issue date: 1998-12-01",
+    "Author Email: thess@vt.edu",
+    "Advisor Email: rsumichr@vt.edu",
+    "Advisor Email: trakes@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: crags@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11277",
+  "identifier_other": "etd-050799-165950",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-050799-165950",
+  "identifier_uri": "http://hdl.handle.net/10919/11277",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "THESS.PDF",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Planning",
+    "Decision Support Systems",
+    "Software Agents",
+    "Model Management"
+  ],
+  "title": "A Study of Autonomous Agents in Decision Support Systems",
+  "type": "Dissertation"
+}

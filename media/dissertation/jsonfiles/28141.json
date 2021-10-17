@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Dyer, Matthew David",
+  "contributor_committeecochair": [
+    "Murali, T. M.",
+    "Sobral, Bruno"
+  ],
+  "contributor_committeemember": [
+    "Tyler, Brett M.",
+    "Setubal, João C."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:13:33Z",
+  "date_adate": "2008-08-12",
+  "date_available": "2014-03-14T20:13:33Z",
+  "date_issued": "2008-06-26",
+  "date_rdate": "2008-08-12",
+  "date_sdate": "2008-06-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An important aspect of systems biology is the elucidation of the protein-protein interactions (PPIs) that control important biological processes within a cell and between organisms. In particular, at the cellular and molecular level, interactions between a pathogen and its host play a vital role in initiating infection and a successful pathogenesis. Despite recent successes in the advancement of the systems biology of model organisms to understand complex diseases, the analysis of infectious diseases at the systems-level has not received as much attention. Since pathogen related disease is responsible for millions of deaths and billions of dollars in damage to crops and livestock, understanding the mechanisms employed by pathogens to infect their hosts is critical in the development of new and effective therapeutic strategies. The research presented here is one of the first computational approaches to studying host-pathogen PPI networks. This dissertation has two main aims. First, we discuss analytical tools for studying host-pathogen networks to identify common pathways perturbed and manipulated by pathogens. We present the first global comparison of the host-pathogen PPI networks of 190 different pathogens and their interactions with human proteins. We also present the construction and analysis of three highly infectious human-bacterial PPI networks: <i>Bacillus anthracis</i>, <i>Francislla tularensis</i>, and <i>Yersinia pestis</i>. The second aim of the research presented here is the development of predictive models for identifying PPIs between host and pathogen proteins. We present two methods: (i) a domain-based approach that uses frequency of domain-pairs in intra-species PPIs, and (ii) a supervised machine learning method that is trained on known inter-species PPIs. The techniques developed in this dissertation, along with the informative datasets presented, will serve as a foundation for the field of computational pathosystems biology.",
+  "description_provenance": [
+    "Author Email: dyermd@vt.edu",
+    "Advisor Email: btyler@vbi.vt.edu",
+    "Advisor Email: setubal@vbi.vt.edu",
+    "Advisor Email: murali@cs.vt.edu",
+    "Advisor Email: sobral@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:33Z (GMT). No. of bitstreams: 1  Dyer_Dissertation.pdf: 3890127 bytes, checksum: 4138d18974e608c893906c98f6e7b89d (MD5)    Previous issue date: 2008-06-26"
+  ],
+  "handle": "28141",
+  "identifier_other": "etd-06272008-131204",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06272008-131204/",
+  "identifier_uri": "http://hdl.handle.net/10919/28141",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dyer_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Pathosystems Biology",
+    "Protein Interaction Networks",
+    "Host-Pathogen Interactions"
+  ],
+  "title": "Pathosystems Biology: Computational Prediction and Analysis of Host-Pathogen Protein Interaction Networks",
+  "type": "Dissertation"
+}

@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Foster, Erich Leigh",
+  "contributor_committeechair": "Iliescu, Traian",
+  "contributor_committeemember": [
+    "Adjerid, Slimane",
+    "Burns, John A",
+    "Staples, Anne E"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2013-04-26T08:00:14Z",
+  "date_available": "2013-04-26T08:00:14Z",
+  "date_issued": "2013-04-25",
+  "degree_discipline": "Mathematics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The quasi-geostrophic equations (QGE) are usually discretized in space by the finite difference method. The finite element (FE) method, however, offers several advantages over the finite difference method, such as the easy treatment of complex boundaries and a natural treatment of boundary conditions [Myers1995]. Despite these advantages, there are relatively few papers that consider the FE method applied to the QGE.<br /><br />Most FE discretizations of the QGE have been developed for the streamfunction-vorticity formulation. The reason is simple: The streamfunction-vorticity formulation yields a second order \\\\emph{partial differential equation (PDE)}, whereas the streamfunction formulation yields a fourth order PDE. Thus, although the streamfunction-vorticity formulation has two variables ($q$ and $\\\\psi$) and the streamfunction formulation has just one ($\\\\psi$), the former is the preferred formulation used in practical computations, since its conforming FE discretization requires low-order ($C^0$) elements, whereas the latter requires a high-order ($C^1$) FE discretization.<br /><br />We present a conforming FE discretization of the QGE based on the Argyris element and we present a two-level FE discretization of the Stationary QGE (SQGE) based on the same conforming FE discretization using the Argyris element. We also, for the first time, develop optimal error estimates for the FE discretization QGE. Numerical tests for the FE discretization and the two-level FE discretization of the QGE are presented and theoretical error estimates are verified. By benchmarking the numerical results against those in the published literature, we conclude that our FE discretization is accurate. ï¿½Furthermore, the numerical results have the same convergence rates as those predicted by the theoretical error estimates.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-26T08:00:14Z (GMT). No. of bitstreams: 2 Foster_EL_D_2013.pdf: 2860709 bytes, checksum: c8de70ca2ae955746ff6c7fc59fc669c (MD5) Foster_EL_D_2013_support_1.pdf: 79615 bytes, checksum: 9cda64305356d19a206dffcbd3530f3a (MD5)   Previous issue date: 2013-04-25",
+  "format_medium": "ETD",
+  "handle": "19362",
+  "identifier_other": "vt_gsexam:636",
+  "identifier_uri": "http://hdl.handle.net/10919/19362",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Quasi-geostrophic equations",
+    "finite element method",
+    "Argyris element",
+    "wind-driven ocean currents."
+  ],
+  "title": "Finite Elements for the Quasi-Geostrophic Equations of the Ocean",
+  "type": "Dissertation"
+}

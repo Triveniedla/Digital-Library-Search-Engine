@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Buterakos, Lewis Allen",
+  "contributor_committeechair": "Day, Martin V.",
+  "contributor_committeemember": [
+    "Boisen, Monte B. Jr.",
+    "Rossi, John F.",
+    "Ball, Joseph A.",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:22Z",
+  "date_adate": "2003-08-22",
+  "date_available": "2014-03-14T20:15:22Z",
+  "date_issued": "2003-08-04",
+  "date_rdate": "2003-08-22",
+  "date_sdate": "2003-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We consider a stochastic differential equation on a domain D in n-dimensional real space, where the associated dynamical system is linear, and D contains a repulsive type stationary point at the origin O.  We obtain an exit law for the first exit time of the solution process from a ball of arbitrary radius centered at the origin, which involves additive scaling as in Day (1995).  The form of the scaling constant is worked out and shown to depend on the structure of the Jordan form of the linear drift.  We then obtain an extension of this exit law to the first exit time of the solution process from the general domain D by considering the exit in two stages: first from the origin O to the boundary of the ball, for which the aforementioned exit law applies, and then from the boundary of the ball to the boundary of D.  In this way we are able to determine for which Jordan forms we can obtain a limiting distribution for the first exit time to the boundary of D as the noise approaches 0.  In particular, we observe there are cases for which the exit time distribution diverges as the noise approaches 0.",
+  "description_provenance": [
+    "Author Email: lbuterakos@mail.bluefield.edu",
+    "Advisor Email: boisen@uidaho.edu",
+    "Advisor Email: rossi@math.vt.edu",
+    "Advisor Email: day@math.vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:22Z (GMT). No. of bitstreams: 1 dissertation.pdf: 659187 bytes, checksum: 0892a533a6d2d8ae530bdfabde38f231 (MD5)   Previous issue date: 2003-08-04"
+  ],
+  "handle": "28703",
+  "identifier_other": "etd-08182003-173249",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182003-173249/",
+  "identifier_uri": "http://hdl.handle.net/10919/28703",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "repulsive stationary point",
+    "dynamical systems",
+    "asymptotics",
+    "random perturbations",
+    "stochastic differential equations"
+  ],
+  "title": "The Exit Time Distribution for Small Random Perturbations of Dynamical Systems with a Repulsive Type Stationary Point",
+  "type": "Dissertation"
+}

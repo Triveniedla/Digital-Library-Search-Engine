@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Liao, Hao-Hsiang",
+  "contributor_committeechair": "Huxtable, Scott T",
+  "contributor_committeemember": [
+    "Diller, Thomas E",
+    "Meehan, Kathleen",
+    "Khodaparast, Giti",
+    "Paul, Mark R"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-02-19T22:35:19Z",
+  "date_available": "2013-02-19T22:35:19Z",
+  "date_issued": "2012-12-19",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Many modern technologies are enabled by the use of thin films and/or nanostructured composite materials. For example, many thermoelectric devices, solar cells, power electronics, thermal barrier coatings, and hard disk drives contain nanostructured materials where the thermal conductivity of the material is a critical parameter for the device performance. At the nanoscale, the mean free path and wavelength of heat carriers may become comparable to or smaller than the size of a nanostructured material and/or device. For nanostructured materials made from semiconductors and insulators, the additional phonon scattering mechanisms associated with the high density of interfaces and boundaries introduces additional resistances that can significantly change the thermal conductivity of the material as compared to a macroscale counterpart. Thus, better understanding and control of nanoscale heat conduction in solids is important scientifically and for the engineering applications mentioned above.<br />     In this dissertation, I discuss my work in two areas dealing with nanoscale thermal transport: (1) I describe my development and advancement of important thermal characterization tools for measurements of thermal and thermoelectric properties of a variety of materials from thin films to nanostructured bulk systems, and (2) I discuss my measurements on several materials systems done with these characterization tools.<br />     First, I describe the development, assembly, and modification of a time-domain thermoreflectance (TDTR) system that we use to measure the thermal conductivity and<br />the interface thermal conductance of a variety of samples including nanocrystalline alloys of Ni-Fe and Co-P, bulk metallic glasses, and other thin films. Next, a unique thermoelectric measurement system was designed and assembled for measurements of electrical resistivity and thermopower of thermoelectric materials in the temperature range of 20 to 350 \"C. Finally, a commercial Anter Flashline 3000 thermal diffusivity measurement system is used to measure the thermal diffusivitiy and heat capacity of bulk materials at high temperatures.<br />     With regards to the specific experiments, I examine the thermal conductivity and interface thermal conductance of two different types of nanocrystalline metallic alloys of nickel-iron and cobalt-phosphorus. I find that the thermal conductivity of the nanocrystalline alloys is reduced by a factor of approximately two from the thermal conductivity measured on metallic alloys with larger grain sizes. With subsequent molecular dynamics simulations performed by a collaborator, and my own electrical conductivity measurements, we determine that this strong reduction in thermal conductivity is the result of increased electron scattering at the grain boundaries, and that the phonon component of the thermal conductivity is largely unchanged by the grain boundaries.<br />     We also examine four complex bulk metallic glass (BMG) materials with compositions of Zr50Cu40Al10, Cu46.25Zr44.25Al7.5Er2, Fe48Cr15Mo14C15B6Er2, and Ti41.5Zr2.5Hf5Cu42.5Ni7.5Si1. From these measurements, I find that the addition of even a small percentage of heavy atoms (i.e. Hf and Er) into complex disordered BMG structures can create a significant reduction in the phonon thermal conductivity of these materials. This work also indicates that the addition of these heavy atoms does not disrupt electron transport to the degree with which thermal transport is reduced.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:35:19Z (GMT). No. of bitstreams: 1 Liao_H_D_2012.pdf: 10635445 bytes, checksum: fdc730f681eef551f51cceabba99c595 (MD5)   Previous issue date: 2012-12-19",
+  "format_medium": "ETD",
+  "handle": "19198",
+  "identifier_other": "vt_gsexam:267",
+  "identifier_uri": "http://hdl.handle.net/10919/19198",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Nanoscale heat transport",
+    "time-domain thermoreflectance",
+    "thermoelectric",
+    "nanocrystalline alloys",
+    "bulk metallic glasses"
+  ],
+  "title": "Thermal and thermoelectric properties of nanostructured materials and interfaces",
+  "type": "Dissertation"
+}

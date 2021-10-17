@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Dadone, Paolo",
+  "contributor_committeechair": "VanLandingham, Hugh F.",
+  "contributor_committeemember": [
+    "Sarin, Subhash C.",
+    "Teodorovic, Dusan",
+    "Baumann, William T.",
+    "Sherali, Hanif D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:35Z",
+  "date_adate": "2001-05-29",
+  "date_available": "2014-03-14T20:12:35Z",
+  "date_issued": "2001-05-18",
+  "date_rdate": "2002-05-29",
+  "date_sdate": "2001-05-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Fuzzy logic systems are widely used for control, system identification, and pattern recognition problems. In order to maximize their performance, it is often necessary to undertake a design optimization process in which the adjustable parameters defining a particular fuzzy system are tuned to maximize a given performance criterion. Some data to approximate are commonly available and yield what is called the supervised learning problem. In this problem we typically wish to minimize the sum of the squares of errors in approximating the data.  We first introduce fuzzy logic systems and the supervised learning problem that, in effect, is a nonlinear optimization problem that at times can be non-differentiable. We review the existing approaches and discuss their weaknesses and the issues involved. We then focus on one of these problems, i.e., non-differentiability of the objective function, and show how current approaches that do not account for non-differentiability can diverge. Moreover, we also show that non-differentiability may also have an adverse practical impact on algorithmic performances.  We reformulate both the supervised learning problem and piecewise linear membership functions in order to obtain a polynomial or factorable optimization problem. We propose the application of a global nonconvex optimization approach, namely, a reformulation and linearization technique. The expanded problem dimensionality does not make this approach feasible at this time, even though this reformulation along with the proposed technique still bears a theoretical interest. Moreover, some future research directions are identified.  We propose a novel approach to step-size selection in batch training. This approach uses a limited memory quadratic fit on past convergence data. Thus, it is similar to response surface methodologies, but it differs from them in the type of data that are used to fit the model, that is, already available data from the history of the algorithm are used instead of data obtained according to an experimental design. The step-size along the update direction (e.g., negative gradient or deflected negative gradient) is chosen according to a criterion of minimum distance from the vertex of the quadratic model. This approach rescales the complexity in the step-size selection from the order of the (large) number of training data, as in the case of exact line searches, to the order of the number of parameters (generally lower than the number of training data). The quadratic fit approach and a reduced variant are tested on some function approximation examples yielding distributions of the final mean square errors that are improved (i.e., skewed toward lower errors) with respect to the ones in the commonly used pattern-by-pattern approach. Moreover, the quadratic fit is also competitive and sometimes better than the batch training with optimal step-sizes, thus showing an improved performance of this approach.  The quadratic fit approach is also tested in conjunction with gradient deflection strategies and memoryless variable metric methods, showing errors smaller by 1 to 7 orders of magnitude. Moreover, the convergence speed by using either the negative gradient direction or a deflected direction is higher than that of the pattern-by-pattern approach, although the computational cost of the algorithm per iteration is moderately higher than the one of the pattern-by-pattern method. Finally, some directions for future research are identified.",
+  "description_provenance": [
+    "Author Email: dadone@ieee.org",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:35Z (GMT). No. of bitstreams: 1 thesis.pdf: 1190269 bytes, checksum: 2efece0cc652baab9f46481a7501b82a (MD5)   Previous issue date: 2001-05-18"
+  ],
+  "handle": "27893",
+  "identifier_other": "etd-05262001-035320",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05262001-035320/",
+  "identifier_uri": "http://hdl.handle.net/10919/27893",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Non-differentiable optimization",
+    "Supervised learning",
+    "Optimization",
+    "Fuzzy logic systems"
+  ],
+  "title": "Design Optimization of Fuzzy Logic Systems",
+  "type": "Dissertation"
+}

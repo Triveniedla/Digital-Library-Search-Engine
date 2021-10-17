@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Gupta, Shakti Singh",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Hyer, Michael W.",
+    "Inman, Daniel J.",
+    "Stremler, Mark A.",
+    "Takeuchi, Tatsu"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:11:40Z",
+  "date_adate": "2009-05-29",
+  "date_available": "2014-03-14T20:11:40Z",
+  "date_issued": "2009-01-26",
+  "date_rdate": "2009-05-29",
+  "date_sdate": "2009-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Elastic constants of single-walled carbon nanotubes (SWCNTs) and single-layer graphene sheets (SLGSs) are determined by studying their free vibration characteristics using molecular mechanics (MM) simulations with the MM3 potential and finding their equivalent continuum structures (ECSs). The computational framework has been validated by comparing the presently computed basal plane stiffness and frequencies of radial breathing modes (RBMs) with those available in the literature.        We have considered armchair, zigzag and chiral SWCNTs of aspect ratios (length/ diameter in the unloaded relaxed configuration) ranging from 2 to 15. The wall thickness of ECSs of SWCNTs is determined by applying continuum theories, viz., beam, shell and 3D-linear elasticity to ECSs and equating their frequencies with those of SWCNTs obtained from the MM simulations. An expression for the wall thickness of an ECS of a SWCNT in terms of its chiral indices is deduced. The wall thickness of an ECS of a SWCNT is found to increase with an increase in its radius and to saturate at 1.37 Ã  for the radius exceeding 15 Ã . Poissonâ  s ratio for zigzag SWCNTs decreses with an increase in the tube radius, but that for armchair SWCNTs exhibits the opposite trend. For the same radius, Poissonâ  s ratio of a chiral SWCNT is slightly more than that for an armchair tube but a little less than that for a zigzag tube. For zigzag SWCNTs, frequencies of inextensional modes of vibration saturate with an increase in the circumferential wave number but those of their ECSs do not.          The MM simulations of uniaxial tensile deformations of SLGSs of aspect ratios (length/width) ~ 10 give the basal plane stiffness of ~ 340 N/m. The MM simulations of free vibrations of clamped SLGSs and the analysis of vibrations of their ECSs with a continuum theory gives a wall thickness of ~ 1 Ã  for a SLGS.",
+  "description_provenance": [
+    "Author Email: ssgupta@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: mark.stremler@vt.edu",
+    "Advisor Email: takeuchi@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:40Z (GMT). No. of bitstreams: 1 Dissertation_Shakti_Singh_Gupta_Revised.pdf: 3233386 bytes, checksum: f4874f122ad55abddc54293b555baaf6 (MD5)   Previous issue date: 2009-01-26"
+  ],
+  "handle": "27576",
+  "identifier_other": "etd-05072009-152602",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072009-152602/",
+  "identifier_uri": "http://hdl.handle.net/10919/27576",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Shakti_Singh_Gupta_Revised.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Free vibration",
+    "Elastic constants",
+    "Molecular mechanics",
+    "Graphene sheets",
+    "Carbon nanotubes"
+  ],
+  "title": "Elastic constants from molecular mechanics simulations of frequencies of free-free single-walled carbon nanotubes and clamped single-layer graphene sheets",
+  "type": "Dissertation"
+}

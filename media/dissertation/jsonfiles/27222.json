@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Petrich, Jan",
+  "contributor_committeechair": "Stilwell, Daniel J.",
+  "contributor_committeemember": [
+    "Neu, Wayne L.",
+    "Lindner, Douglas K.",
+    "Woolsey, Craig A.",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:41Z",
+  "date_adate": "2009-05-28",
+  "date_available": "2014-03-14T20:10:41Z",
+  "date_issued": "2009-04-17",
+  "date_rdate": "2009-05-28",
+  "date_sdate": "2009-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation addresses attitude control and inertial navigation of autonomous underwater vehicles (AUVs). We present theoretical justification for using simplified models, derive system identification algorithms, and verify our results through extensive field trials. Although this research focuses on small AUVs with limited instrumentation, the results are useful for underwater vehicles of any size.  For attitude control of aircraft systems, second-order equivalent pitch-axis models are common and extensively studied. However, similar analysis has not been performed for the pitch-axis motion of underwater vehicles. In this dissertation, we study the utility and the limitations of second-order approximate models for AUVs. We seek to improve the flight performance and shorten the time required to re-design a control algorithm when the shape, mass-distribution, and/or net buoyancy of an AUV/payload configuration changes.  In comparison to commonly implemented AUV attitude controllers, which neglect roll motion and address pitch and yaw dynamics separately, we derive a novel linear time-varying model that explicitly displays the coupling between pitch and yaw motion due to nonzero roll angle and/or roll rate. The model facilitates an Hâ   control design approach that explicitly addresses robustness against those coupling terms and significantly reduces the effect of pitch and yaw coupling.  To improve AUV navigation, we investigate algorithms for calibrating a triaxial gyroscope using angular orientation measurements and formally define AUV trajectories that are persistently exciting and for which the calibration coefficients are uniformly observable. To improve AUV guidance, we propose a near real-time ocean current identification method that estimates a non-uniform flow-field using only sparse flow measurements.",
+  "description_provenance": [
+    "Author Email: jpetrich@vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:41Z (GMT). No. of bitstreams: 1 PhD_Dissertation_JanPetrich.pdf: 2761982 bytes, checksum: 53f837a189e4ca24e6d34dbd88d07691 (MD5)   Previous issue date: 2009-04-17"
+  ],
+  "handle": "27222",
+  "identifier_other": "etd-04242009-143215",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242009-143215/",
+  "identifier_uri": "http://hdl.handle.net/10919/27222",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhD_Dissertation_JanPetrich.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Flow Field Identification",
+    "Equivalent Models",
+    "Autonomous Underwater Vehicles",
+    "System Identification",
+    "Uniform Observability",
+    "Gyroscope Calibration",
+    "Pitch and Yaw Coupling",
+    "Hâ   Control",
+    "Persistence of Excitation"
+  ],
+  "title": "Improved Guidance, Navigation, and Control for Autonomous Underwater Vehicles: Theory and Experiment",
+  "type": "Dissertation"
+}

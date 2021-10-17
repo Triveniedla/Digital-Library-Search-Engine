@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Ahmed, Farzana",
+  "contributor_committeechair": "Larson, Timothy J.",
+  "contributor_committeemember": [
+    "Popham, David L.",
+    "Bevan, David R.",
+    "Chen, Jiann-Shin",
+    "Dean, Dennis R."
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2011-08-22T19:04:13Z",
+  "date_adate": "2003-08-22",
+  "date_available": "2011-08-22T19:04:13Z",
+  "date_issued": "2003-07-07",
+  "date_rdate": "2005-08-22",
+  "date_sdate": "2003-08-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Rhodanese homology domains are ubiquitous structural modules found in eubacteria, eukaryotes and archaea.  The rhodanese homology domain may comprise the entire structure of a protein.  Alternatively it is found as tandemly repeated modules in which the C-terminal domain displays the properly structured active site.  Finally it is found as a member of many multidomain proteins.  Although some members of this family of proteins show sulfurtransferase activity in vitro, their specific physiological functions remain largely undefined.  Fusion of a rhodanese domain to different protein domains of known or unknown functions provides important clues to the diverse roles for these proteins. Nine proteins containing the rhodanese homology domain are predicted in Escherichia coli.  In this work, two of these proteins: YgaP and YbbB were characterized using bioinformatics, biochemical and genetic approaches.  YgaP is a single domain rhodanese that is predicted to contain an amino-terminal rhodanese domain (118 amino acids) and a hydrophobic carboxy-terminal domain (56 amino acids).  The ygaP gene was cloned into a vector that directed overexpression of a membrane-associated rhodanese activity.  The cellular location of YgaP was determined by using sucrose density layer ultracentrifugation.  YgaP and rhodanese activity co-sedimented with the cytoplasmic membrane marker D-lactate dehydrogenase, and was not present in the outer membrane fractions, indicating YgaP is a cytoplasmic membrane protein.  A polyhistidine-tagged variant of YgaP was subsequently solubilized from the membrane by detergent extraction and purified by metal chelate chromatography.  Similar to the other characterized rhodaneses, purified YgaP-His6 as well as the membrane-associated native form of the protein displayed a double displacement (ping-pong) mechanism.  YgaP is unique in that it is the first membrane-associated rhodanese to be described.  To understand the physiological role of YgaP, a strain with ygaP gene disruption was constructed.  No obvious phenotype resulted from deletion of ygaP.   The ybbB gene of E. coli has an interesting genome organization in several Gram-negative bacteria including Pseudomonas aeruginosa and Azotobacter vinelandii where it is predicted to be in the same operon with selD, encoding selenophosphate synthetase.  Thus the role of YbbB in selenium metabolism was investigated.  A strain with ybbB gene deletion was constructed and tested for its ability to incorporate 75Se into tRNA and protein.  It was shown that the disruption of ybbB prevented specific incorporation of selenium into tRNA but not into proteins in vivo.  The modified nucleoside missing in tRNAs of the DybbB strain was identified as 5-methylaminomethyl-2-selenouridine (mnm5se2U), which has previously been shown to be present in the wobble position of the anticodon of E. coli tRNAsLys, Glu and Gln.  Data from HPLC analysis showed that the deletion of ybbB did not affect the production of 5-methylaminomethyl-2-thiouridine (mnm5s2U), the precursor to mnm5se2U, suggesting that YbbB is not required for sulfur transfer but is rather involved in selenation of tRNAs.  YbbB was subsequently expressed with a C-terminal histidine tag and purified for initial characterization.  Purified YbbB-His6 migrated as a 43 kDa monomer under denaturing conditions and displayed spectral properties that suggested its interaction with tRNA.  Finally, it was shown that Cys97, which aligns with the active site cysteine of rhodanese and is conserved in all known YbbB homologs, is required for YbbB activity.  However, Cys96, which is not conserved, is not required for activity.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:04:13Z (GMT). No. of bitstreams: 1  Farzana_dissertation.pdf: 2252464 bytes, checksum: 980043a5a17cc9ebd4a004898693a1d2 (MD5)    Previous issue date: 2003-07-07",
+    "Author Email: fahmed@vt.edu",
+    "Advisor Email: dpopham@vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Advisor Email: chenjs@vt.edu",
+    "Advisor Email: deandr@vt.edu",
+    "Advisor Email: tilarson@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11233",
+  "identifier_other": "etd-08192003-130055",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08192003-130055",
+  "identifier_uri": "http://hdl.handle.net/10919/11233",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Farzana_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "seleno-tRNA",
+    "YgaP",
+    "YbbB",
+    "2-selenouridine",
+    "rhodanese"
+  ],
+  "title": "Characterization of two novel proteins containing the rhodanese homology domain: YgaP and YbbB of Escherichia coli",
+  "type": "Dissertation"
+}

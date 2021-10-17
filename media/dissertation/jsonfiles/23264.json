@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Ma, Yifei",
+  "contributor_committeechair": [
+    "Marathe, Madhav Vishnu",
+    "Chen, Jiangzhuo"
+  ],
+  "contributor_committeemember": [
+    "Fox, Edward A.",
+    "Bisset, Keith R.",
+    "Eubank, Stephen G.",
+    "Vullikanti, Anil Kumar S."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-06-25T08:00:10Z",
+  "date_available": "2013-06-25T08:00:10Z",
+  "date_issued": "2013-06-24",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Pandemics can significantly impact public health and society, for instance, the 2009 H1N1<br />and the 2003 SARS. In addition to analyzing the historic epidemic data, computational simulation of epidemic propagation processes and disease control strategies can help us understand the spatio-temporal dynamics of epidemics in the laboratory. Consequently, the public can be better prepared and the government can control future epidemic outbreaks more effectively. Recently, epidemic propagation simulation systems, which use high performance computing technology, have been proposed and developed to understand disease propagation processes. However, run-time infection situation assessment and intervention adjustment, two important steps in modeling disease propagation, are not well supported in these simulation systems. In addition, these simulation systems are computationally efficient in their simulations, but most of them have<br />limited capabilities in terms of modeling interventions in realistic scenarios.<br />In this dissertation, we focus on building a modeling and simulation environment for epidemic propagation and propagation control strategy. The objective of this work is to<br />design such a modeling environment that both supports the previously missing functions,<br />meanwhile, performs well in terms of the expected features such as modeling fidelity,<br />computational efficiency, modeling capability, etc. Our proposed methodologies to build<br />such a modeling environment are: 1) decoupled and co-evolving models for disease propagation, situation assessment, and propagation control strategy, and 2) assessing situations and simulating control strategies using relational databases. Our motivation for exploring these methodologies is as follows: 1) a decoupled and co-evolving model allows us to design modules for each function separately and makes this complex modeling system design simpler, and 2) simulating propagation control strategies using relational databases improves the modeling capability and human productivity of using this modeling environment. To evaluate our proposed methodologies, we have designed and built a loosely coupled and database supported epidemic modeling and simulation environment. With detailed experimental results and realistic case studies, we demonstrate that our modeling environment provides the missing functions and greatly enhances many expected features, such as modeling capability, without significantly sacrificing computational efficiency and scalability.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-25T08:00:10Z (GMT). No. of bitstreams: 1  Ma_Y_D_2013.pdf: 2442591 bytes, checksum: ad9591634db8313962a88d8a4e0d3680 (MD5)    Previous issue date: 2013-06-24",
+  "format_medium": "ETD",
+  "handle": "23264",
+  "identifier_other": "vt_gsexam:1227",
+  "identifier_uri": "http://hdl.handle.net/10919/23264",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Epidemic simulation",
+    "Database system",
+    "Distributed system"
+  ],
+  "title": "A Database Supported Modeling Environment for Pandemic Planning and Course of Action Analysis",
+  "type": "Dissertation"
+}

@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Miller, Chreston Allen",
+  "contributor_committeechair": "Quek, Francis",
+  "contributor_committeemember": [
+    "North, Christopher L",
+    "Gracanin, Denis",
+    "Ramakrishnan, Narendran",
+    "Morency, Louis-Philippe"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-04-24T08:00:32Z",
+  "date_available": "2013-04-24T08:00:32Z",
+  "date_issued": "2013-04-23",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation presents a unique approach to human behavior analysis based on expert guidance and intervention through interactive construction and modification of behavior models. Our focus is to introduce the research area of behavior analysis, the challenges faced by this field, current approaches available, and present a new analysis approach: Interactive Relevance Search and Modeling (IRSM).<br />More intelligent ways of conducting data analysis have been explored in recent years. Ma- chine learning and data mining systems that utilize pattern classification and discovery in non-textual data promise to bring new generations of powerful \"crawlers\" for knowledge discovery, e.g., face detection and crowd surveillance. Many aspects of data can be captured by such systems, e.g., temporal information, extractable visual information - color, contrast, shape, etc. However, these captured aspects may not uncover all salient information in the data or provide adequate models/patterns of phenomena of interest. This is a challenging problem for social scientists who are trying to identify high-level, conceptual patterns of human behavior from observational data (e.g., media streams).<br />The presented research addresses how social scientists may derive patterns of human behavior captured in media streams. Currently, media streams are being segmented into sequences of events describing the actions captured in the streams, such as the interactions among humans. This segmentation creates a challenging data space to search characterized by non- numerical, temporal, descriptive data, e.g., Person A walks up to Person B at time T. This dissertation will present an approach that allows one to interactively search, identify, and discover temporal behavior patterns within such a data space.<br />Therefore, this research addresses supporting exploration and discovery in behavior analysis through a formalized method of assisted exploration. The model evolution presented sup- ports the refining of the observer\\'s behavior models into representations of their understand- ing. The benefit of the new approach is shown through experimentation on its identification accuracy and working with fellow researchers to verify the approach\\'s legitimacy in analysis of their data.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-24T08:00:32Z (GMT). No. of bitstreams: 2 Miller_CA_D_2013.pdf: 8243294 bytes, checksum: b2d67f233cd75b1b02737655aae5fddd (MD5) Miller_CA_D_2013_support_1.pdf: 228580 bytes, checksum: b69bd92b47d53f0ec5f37af4f9692247 (MD5)   Previous issue date: 2013-04-23",
+  "format_medium": "ETD",
+  "handle": "19341",
+  "identifier_other": "vt_gsexam:588",
+  "identifier_uri": "http://hdl.handle.net/10919/19341",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Structural Model Learning",
+    "Temporal Behavior Models",
+    "Model Evolution",
+    "Human-Machine Cooperation",
+    "Temporal Event Data"
+  ],
+  "title": "Structural Model Discovery in Temporal Event Data Streams",
+  "type": "Dissertation"
+}

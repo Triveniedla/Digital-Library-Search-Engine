@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Neal III, John Allen",
+  "contributor_committeechair": "Sullivan, William G.",
+  "contributor_committeemember": [
+    "Chen, Fengshan Frank",
+    "Sweeney, Dennis G.",
+    "Ellis, Kimberly P.",
+    "Van Aken, Eileen M."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:06:41Z",
+  "date_adate": "2002-01-10",
+  "date_available": "2014-03-14T20:06:41Z",
+  "date_issued": "2001-12-10",
+  "date_rdate": "2003-01-10",
+  "date_sdate": "2002-01-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The development of a \"Next Generation Manufacturing System\" is currently an active area of research worldwide.  The research described in this dissertation addresses one sub-element within this research area; namely, the demonstration of a decentralized, automated production architecture.  The goal of the work is to increase the ability of a manufacturing enterprise to respond to rapid technological and market change in the post-2000 global economy.  The research is comprised of three objectives; definition of a decentralized organizational structure of autonomous production activities, implementation of the defined organization in a real world manufacturing environment, and a comparison of historical (centralized architecture) performance data and decentralized performance data.  To accomplish these objectives, the proposed production architecture is implemented at a real world manufacturing site and performance data are acquired and tested against a stated hypothesis.  \tThe research entails the modification of a selected electronics module assembly activity in the following ways:  1) comprehensive automation of assembly processes; 2) simplification of production practice through a minimization of operator interaction and a reduction of assembly transaction points requiring operator intervention; and 3) restructuring of organizational functions resulting in decentralization and operational autonomy.  The null hypothesis was successfully rejected and it was shown that the implementation of automation, simplification, and decentralization resulted in an enhancement of production performance (i.e., a reduction in throughput time, labor cost, overhead cost, and total product cost) without degrading production quality.  A test of the null hypothesis based on the data indicates a statistically significant (i.e., p less than or equal to 0.05) reduction in throughput time, labor cost, overhead cost, and total product cost while no statistically significant difference in the before and after production quality data was shown.  A possible interpretation of these results is that the implementation of automation, simplification, and decentralization did result in a reduction in the labor cost, overhead cost, and total product cost and did not result in a degradation in production quality.",
+  "description_provenance": [
+    "Author Email: johnneal@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:41Z (GMT). No. of bitstreams: 1 Neal_Dissertation.pdf: 1511880 bytes, checksum: e29589d3e2174ec290b5c935d0b3ef37 (MD5)   Previous issue date: 2001-12-10"
+  ],
+  "handle": "25979",
+  "identifier_other": "etd-01102002-025407",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01102002-025407/",
+  "identifier_uri": "http://hdl.handle.net/10919/25979",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Neal_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Decentralization",
+    "Automation",
+    "Production Organization",
+    "Electronics Manufacturing",
+    "Microfactory"
+  ],
+  "title": "Implementation of a Production Architecture For a Post-2000 Market:  Demonstration of a Microfactory Concept",
+  "type": "Dissertation"
+}

@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Rancruel, Diego Fernando",
+  "contributor_committeechair": "von Spakovsky, Michael R.",
+  "contributor_committeemember": [
+    "O'Brien, Walter F. Jr.",
+    "Leo, Donald",
+    "Mazumder, Zudip",
+    "Nelson, Douglas J.",
+    "Ellis, Michael W."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:41Z",
+  "date_adate": "2005-03-09",
+  "date_available": "2014-03-14T20:07:41Z",
+  "date_issued": "2005-02-11",
+  "date_rdate": "2007-03-09",
+  "date_sdate": "2005-02-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A typical approach to the synthesis/design optimization of energy systems is to only use steady state operation and high efficiency (or low total life cycle cost) at full load as the basis for the synthesis/design. Transient operation as reflected by changes in power demand, shut-down, and start-up are left as secondary tasks to be solved by system and control engineers once the synthesis/design is fixed. However, transient regimes may happen quite often and the system response to them is a critical factor in determining the systemâ  s feasibility. Therefore, it is important to consider the system dynamics in the creative process of developing the system.  A decomposition approach for dynamic optimization developed and applied to the synthesis/design and operation/control optimization of a solid oxide fuel cell (SOFC) based auxiliary power unit (APU) is the focus of this doctoral work. Called DILGO (Dynamic Iterative Local-Global Optimization), this approach allows for the decomposed optimization of the individual units (components, sub-systems or disciplines), while taking into account the intermediate products and feedbacks which couple all of the units which make up the overall system. The approach was developed to support and enhance current engineering synthesis/design practices by making possible dynamic modular concurrent system optimization. In addition, this approach produces improvements in the initial synthesis/design state at all stages of the process and allows any level of complexity in the unitâ  s modeling.  DILGO uses dynamic shadow price rates as a basis for measuring the interaction level between units. The dynamic shadow price rate is a representation of the unitâ  s cost rate variation with respect to variations in the unitâ  s coupling functions. The global convergence properties of DILGO are seen to be dependent on the mathematical behavior of the dynamic shadow price rate. The method converges to a â  globalâ   (system-level) optimum provided the dynamic shadow price rates are approximately constant or at least monotonic. This is likely to be the case in energy systems where the coupling functions, which represent intermediate products and feedbacks, tend to have a monotonic behavior with respect to the unitâ  s local contribution to the systemâ  s overall objective function.   Finally, DILGO is a physical decomposition used to solve system-level as well as unit-level optimization problems. The total system considered here is decomposed into three sub-systems as follows: stack sub-system (SS), fuel processing sub-system (FPS), and the work and air recovery sub-system (WRAS). Mixed discrete, continuous, and dynamic operational decision variables are considered. Detailed thermodynamic, kinetic, geometric, physical, and cost models for the dynamic system are formulated and implemented. All of the sub-systems are modeled using advanced state-of-the-art tools. DILGO is then applied to the dynamic synthesis/design and operation/control optimization of the SOFC based APU using the total life cycle cost as objective function. The entire problem has a total of 120 independent variables, some of which are integer valued and dynamic variables. The solution to the problem requires only 6 DILGO iterations.",
+  "description_provenance": [
+    "Author Email: drancrue@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: mazumder@ece.uic.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:41Z (GMT). No. of bitstreams: 1 Dissertation_Diego_F_Rancruel.pdf: 17400835 bytes, checksum: d94ce584c3960e20c29eb0798b4b6dcc (MD5)   Previous issue date: 2005-02-11"
+  ],
+  "handle": "26277",
+  "identifier_other": "etd-02222005-233510",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02222005-233510/",
+  "identifier_uri": "http://hdl.handle.net/10919/26277",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Diego_F_Rancruel.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "fuel cell",
+    "thermoeconomics",
+    "exergy",
+    "SOFC",
+    "control",
+    "decomposition",
+    "dynmamics",
+    "optimization"
+  ],
+  "title": "Dynamic Synthesis/Design and Operation/Control Optimization Approach applied to a Solid Oxide Fuel Cell based Auxiliary Power Unit under Transient Conditions",
+  "type": "Dissertation"
+}

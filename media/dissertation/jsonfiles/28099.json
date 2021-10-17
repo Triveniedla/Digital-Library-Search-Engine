@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Syal, Manan",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Murali, T. M.",
+    "Shukla, Sandeep K.",
+    "Buehrer, Richard Michael",
+    "Ha, Dong Sam"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:27Z",
+  "date_adate": "2005-07-01",
+  "date_available": "2014-03-14T20:13:27Z",
+  "date_issued": "2005-06-21",
+  "date_rdate": "2005-07-01",
+  "date_sdate": "2005-06-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Static learning in the form of logic implications captures Boolean relationships between various gates in a circuit. In the past, logic implications have been applied in several areas of electronic design automation (EDA) including: test-pattern-generation, logic and fault simulation, fault diagnosis, logic optimization, etc. While logic implications have assisted in solving several EDA problems, their usefulness has not been fully explored. We believe that logic implications have not been carefully analyzed in the past, and this lack of thorough investigation has limited their applicability in solving hard EDA problems. In this dissertation, we offer deeper insights into the Boolean relationships exhibited in a circuit, and present techniques to extract their full potential in solving two hard problems in test and verification: (1) Efficient identification of sequentially untestable stuck-at faults, and (2) Equivalence checking of sequential circuits. Additionally, for the dissertation, we define a new concept called multi-cycle path delay faults (M-pdf) for latch based designs with multiple clock domains, and propose an implications-based methodology for the identification of untestable M-pdfs for such designs.  One of the main bottlenecks in the efficiency of test-pattern-generation (TPG) is the presence of untestable faults in a design. State-of-the-art automatic test pattern generators (ATPG) spend a lot of effort (in both time and memory) targeting untestable faults before aborting on such faults, or, eventually identifying these faults as untestable (if given enough computational resources). In either case, TPG is considerably slowed down by the presence of untestable faults. Thus, efficient methods to identify untestable faults are desired. In this dissertation, we discuss a number of solutions that we have developed for the purpose of untestable fault identification. The techniques that we propose are fault-independent and explore properties associated with logic implications to derive conclusions about untestable faults. Experimental results for benchmark circuits show that our techniques achieve a significant increase in the number of untestable faults identified, at low memory and computational overhead.  The second related problem that we address in this proposal is that of determining the equivalence of sequential circuits. During the design phase, hardware goes through several stages of optimizations (for area, speed, power, etc). Determining the functional correctness of the design after each optimization step by means of exhaustive simulation can be prohibitively expensive. An alternative to prove functional correctness of the optimized design is to determine the designâ  s functional equivalence w.r.t. some golden model which is known to be functionally correct. Efficient techniques to perform this process, known as equivalence checking, have been investigated in the research community. However, equivalence checking of sequential circuits still remains a challenging problem. In an attempt to solve this problem, we propose a Boolean SAT (satisfiability) based framework that utilizes logic implications for the purpose of sequential equivalence checking.  Finally, we define a new concept called multi-cycle path-delay faults (M-pdfs). Traditionally, path delay faults have been analyzed for flip-flop based designs over the boundary of a single clock cycle. However, path delay faults may span multiple clock cycles, and a technique is desired to model and analyze such path delay faults. This is especially essential for latch based designs with multiple clock domains, because the problem of identifying untestable faults is more complex in such design environments. In this dissertation, we propose a three-step methodology to identify untestable M-pdfs in latch-based designs with multiple clocks using logic implications.",
+  "description_provenance": [
+    "Author Email: msyal@vt.edu",
+    "Advisor Email: tmurali@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:27Z (GMT). No. of bitstreams: 1 syal.pdf: 574149 bytes, checksum: 642a29d45cd3565904c210477259836a (MD5)   Previous issue date: 2005-06-21"
+  ],
+  "handle": "28099",
+  "identifier_other": "etd-06222005-151535",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06222005-151535/",
+  "identifier_uri": "http://hdl.handle.net/10919/28099",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "syal.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Untestable Faults",
+    "Logic Implications",
+    "Equivalence checking",
+    "ATPG"
+  ],
+  "title": "Static Learning for Problems in VLSI Test and Verification",
+  "type": "Dissertation"
+}

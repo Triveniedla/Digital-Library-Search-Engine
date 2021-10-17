@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Akle, Barbar Jawad",
+  "contributor_committeechair": "Leo, Donald J.",
+  "contributor_committeemember": [
+    "Long, Timothy E.",
+    "Vlachos, Pavlos P.",
+    "Ounaies, Zoubeida",
+    "McGrath, James E.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:18Z",
+  "date_adate": "2005-08-25",
+  "date_available": "2014-03-14T20:15:18Z",
+  "date_issued": "2005-07-29",
+  "date_rdate": "2005-08-25",
+  "date_sdate": "2005-08-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ionomeric polymer transducers consist of an ion-exchange membrane plated with conductive metal layers on its outer surfaces. Such materials are known to exhibit electromechanical coupling under the application of electric fields and imposed deformation (Oguro et al., 1992; Shahinpoor et al., 1998). Compared to other types of electromechanical transducers, such as piezoelectric materials, ionomeric transducers have the advantage of high-strain output (> 9% is possible), low-voltage operation (typically less than 5 V), and high sensitivity in the charge-sensing mode. A series of experiments on actuators with various ionic polymers such as Nafion and novel poly(Arylene ether disulphonate) systems (BPS and PATS) and electrode composition demonstrated the existence of a linear correlation between the strain response and the capacitance of the material. This correlation was shown to be independent of the polymer composition and the plating parameters. Due to the fact that the low-frequency capacitance of an ionomer is strongly related to charge accumulation at the electrodes, this correlation suggests a strong relationship between the surface charge accumulation and the mechanical deformation in ionomeric actuators. The strain response of water-hydrated transducers varies from 50 Î¼strain/V to 750 Î¼strain/V at 1Hz while the strain-to-charge response is between  9 Î¼strain and 15 Î¼strain.                         C              C                      m2             m2                          This contribution suggests a strong correlation between cationic motion and the strain in the polymer at the ionomer-conductor interface. A novel fabrication technique for ionic polymer transducers was developed for this dissertation for the purpose of quantifying the relationship between electrode composition and transducer performance. It consists of mixing an ionic polymer dispersion (or solution) with a fine conducting powder and attaching it to the membrane as an electrode. The Direct Assembly Process (DAP) allows the use of any type of ionomer, diluent, conducting powder, and counter ion in the transducer, and permits the exploration of any novel polymeric design. Several conducting powders have been incorporated in the electrode including single-walled carbon nanotubes (SWNT), polyaniline (PANI) powders, high surface area RuO2, and carbon black electrodes. The DAP provided the tool which enabled us to study the effect of electrode architecture on performance of ionic polymer transducers. The DAP allows the variation in the electrode architecture which enabled us to fabricate dry transducers with 50x better performance compared to transducers made using the state of the art impregnation-reduction technique. DAP fabricated transducers achieved a strain of 9.4% at a strain rate of 1%/s. Each electrode material had an optimal concentration in the electrode. For RuO2, the optimal loading was approximately 45% by volume. This study also demonstrated that carbon nanotubes electrodes have an optimal performance at loadings around 30 vol%, while PANI electrodes are optimized at 95 vol%. Extensional actuation in ionic polymer transducers was first reported and characterized in this dissertation. An electromechanical coupling model presented by Leo et al. (2005) defined the strain in the active areas as a function of the charge. This model assumed a linear and a quadratic term that produces a nonlinear response for a sine wave actuation input. The quadratic term in the strain generates a zero net bending moment for ionic polymer transducers with symmetric electrodes, while the linear term is canceled in extensional actuation for symmetric electrodes. Experimental results demonstrated strains on the order of 110 Î¼strain in the thickness direction compared to 1700 Î¼strain peak to peak on the external fibers for the same transducer, could be achieved when it is allowed to bend under +/-2V potential at 0.5 Hz. Extensional and bending actuation in ionic polymer transducers were explained using a bimorph active area model. Several experiments were performed to compare the bending actuation with the extensional actuation capability. The active area in the model was assumed to be the high surface area electrode. Electric double layer theory states that ions accumulate in a thin boundary layer close to the metal-polymer interface. Since the metal powders are evenly dispersed in the electrode area of the transducer, this area is expected to actuate evenly upon voltage application. This active area model emphasizes the importance the boundary layer on the conductor-ionomer interfacial area. Computing model parameters based on experimental results demonstrated that the active areas model collapses the bending data from a maximum variation of 200% for the strain per charge, to less than 68% for the model linear term. Furthermore, the model successfully predicted bending response from parameters computed using thickness experimental results. The prediction was particularly precise in estimating the trends of non-linearity as a function of the amount of asymmetry between the two electrodes.",
+  "description_provenance": [
+    "Author Email: bakle@vt.edu",
+    "Advisor Email: telong@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: zounaies@tamu.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: McGrathJim@aol.com",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:18Z (GMT). No. of bitstreams: 1 Barbar_Akle_Dissertation_2005.pdf: 3183993 bytes, checksum: fe23c4c88f221a94cddef7a89f7192e1 (MD5)   Previous issue date: 2005-07-29"
+  ],
+  "handle": "28682",
+  "identifier_other": "etd-08162005-140651",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08162005-140651/",
+  "identifier_uri": "http://hdl.handle.net/10919/28682",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Barbar_Akle_Dissertation_2005.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Capacitor",
+    "Transducer",
+    "Ionic Polymer",
+    "Actuator",
+    "Electric double layer",
+    "Sensor"
+  ],
+  "title": "Characterization and Modeling of the Ionomer-Conductor Interface in Ionic Polymer Transducers",
+  "type": "Dissertation"
+}

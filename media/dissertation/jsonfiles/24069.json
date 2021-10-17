@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Al-Abbasi, Omar Abdulaziz",
+  "contributor_committeechair": "von Spakovsky, Michael R",
+  "contributor_committeemember": [
+    "Paul, Mark R",
+    "Beretta, Gian Paolo",
+    "Nelson, Douglas J",
+    "Huxtable, Scott T",
+    "Crawford, Daniel"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-11-13T09:00:13Z",
+  "date_available": "2013-11-13T09:00:13Z",
+  "date_issued": "2013-11-12",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Predicting the kinetics of a chemical reaction is a challenging task, particularly for systems in states far from equilibrium. This work discusses the use of a relatively new theory known as intrinsic quantum thermodynamics (IQT) and its mathematical framework steepest-entropy-ascent quantum thermodynamics (SEA-QT) to predict the reaction kinetics at atomistic levels of chemically reactive systems in the non-equilibrium realm. IQT has emerged over the last three decades as the theory that not only unifies two of the three theories of physical reality, namely, quantum mechanics (QM), and thermodynamics but as well provides a physical basis for both the entropy and entropy production. The SEA-QT framework is able to describe the evolution in state of a system undergoing a dissipative process based on the principle of steepest-entropy ascent or locally-maximal-entropy generation. The work presented in this dissertation demonstrates for the first time the use of the SEA-QT framework to model the evolution in state of a chemically reactive system as its state relaxes to stable equilibrium. This framework brings a number of benefits to the field of reaction kinetics. Among these is the ability to predict the unique non-equilibrium (kinetic) thermodynamic path which the state of the system follows in relaxing to stable equilibrium. As a consequence, the reaction rate kinetics at every instant of time is known as are the chemical affinities, the reaction coordinates, the direction of reaction, the activation energies, the entropy, the entropy production, etc. All is accomplished without any limiting assumption of stable or pseudo-stable equilibrium. The objective of this work is to implement the SEA-QT framework to describe the chemical reaction process as a dissipative one governed by the laws of quantum mechanics and thermodynamics and to extract thermodynamic properties for states that are far from equilibrium. The F+H2-->HF+H and H+F2-->HF+F reaction mechanisms are used as model problems to implement this framework.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-11-13T09:00:13Z (GMT). No. of bitstreams: 1 Al-Abbasi_OA_D_2013.pdf: 3557420 bytes, checksum: 429b8a6458e0a8523e9e4b9635b696f9 (MD5)   Previous issue date: 2013-11-12",
+  "format_medium": "ETD",
+  "handle": "24069",
+  "identifier_other": "vt_gsexam:1809",
+  "identifier_uri": "http://hdl.handle.net/10919/24069",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Steepest entropy ascent",
+    "chemical reaction",
+    "quantum thermodynamics"
+  ],
+  "title": "Modeling the Non-Equilibrium Behavior of Chemically Reactive Atomistic Level Systems Using Steepest-Entropy-Ascent Quantum Thermodynamics",
+  "type": "Dissertation"
+}

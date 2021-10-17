@@ -1,0 +1,62 @@
+{
+  "contributor_author": "Wang, Zhenyuan",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Nussbaum, Maury A.",
+    "De La Ree Lopez, Jaime",
+    "Broadwater, Robert P.",
+    "VanLandingham, Hugh F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:59Z",
+  "date_adate": "2000-08-23",
+  "date_available": "2014-03-14T20:14:59Z",
+  "date_issued": "2000-08-08",
+  "date_rdate": "2001-08-23",
+  "date_sdate": "2000-08-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is a systematic study of artificial intelligence (AI) applications for the diagnosis of power transformer incipient fault.  The AI techniques include artificial neural networks (ANN, or briefly neural networks - NN), expert systems, fuzzy systems and multivariate regression. The fault diagnosis is based on dissolved gas-in-oil analysis (DGA). A literature review showed that the conventional fault diagnosis methods, i.e. the ratio methods (Rogers, Dornenburg and IEC) and the key gas method, have limitations such as the \"no decision\" problem. Various AI techniques may help solve the problems and present a better solution. Based on the IEC 599 standard and industrial experiences, a knowledge-based inference engine for fault detection was developed. Using historical transformer failure data from an industrial partner, a multi-layer perceptron (MLP) modular neural network was identified as the best choice among several neural network architectures. Subsequently, the concept of a hybrid diagnosis was proposed and implemented, resulting in a combined neural network and expert system tool (the ANNEPS system) for power transformer incipient diagnosis. The abnormal condition screening process, as well as the principle and algorithms of combining the outputs of knowledge based and neural network based diagnosis, were proposed and implemented in the ANNEPS. Methods of fuzzy logic based transformer oil/paper insulation condition assessment, and estimation of oil sampling interval and maintenance recommendations, were also proposed and implemented. Several methods of power transformer incipient fault location were investigated, and a 7Ã 21Ã 5 MLP network was identified as the best choice. Several methods for on-load tap changer (OLTC) coking diagnosis were also investigated, and a MLP based modular network was identified as the best choice. Logistic regression analysis was identified as a good auditor in neural network input pattern selection processes. The above results can help developing better power transformer maintenance strategies, and serve as the basis of on-line DGA transformer monitors.",
+  "description_provenance": [
+    "Author Email: zhwang8@vt.edu, zhenyuan.wang@us.abb.com",
+    "Advisor Email: nussbaum@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:59Z (GMT). No. of bitstreams: 13 Chapter8.pdf: 146530 bytes, checksum: 4f412e0da6bfb29e9ee114820dbac1ef (MD5) Chapter7.pdf: 103853 bytes, checksum: eb387b48fb549427140786848fbc8d9f (MD5) Chapter6.pdf: 238216 bytes, checksum: 280b61b0af3795673a7e86d6f8abb09e (MD5) Chapter5.pdf: 123911 bytes, checksum: 84d1d7c470eb368edb018674d714b9e0 (MD5) Chapter4.pdf: 174478 bytes, checksum: 88f2a8e753aac7a1b39be6a596608867 (MD5) Chapter3.pdf: 181634 bytes, checksum: f86ceadb0bfa8542fb6087e1043d4fe0 (MD5) Chapter2.pdf: 146372 bytes, checksum: a1b43e4748f7b8de5ff6e09a259a007e (MD5) Chapter1.pdf: 86247 bytes, checksum: 975269da7fea0c5d74c89a31170d8d87 (MD5) Chapter0.pdf: 102973 bytes, checksum: 0110a6a2622219ced8109431921502dc (MD5) Chapter9.pdf: 69323 bytes, checksum: f5731ee128bd91315be42dce71f06c19 (MD5) Reference.pdf: 106523 bytes, checksum: 6e067d5be44fc7e5d2c1e189e5a6e2bc (MD5) Appendix.pdf: 102297 bytes, checksum: 1e742df6f0168700820b5577b8ee3633 (MD5) Chapter04.pdf: 30750 bytes, checksum: d6cd973c197ef7b59ddbfcfe3af7fcaf (MD5)   Previous issue date: 2000-08-08"
+  ],
+  "handle": "28594",
+  "identifier_other": "etd-08102000-21510032",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08102000-21510032/",
+  "identifier_uri": "http://hdl.handle.net/10919/28594",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter8.pdf",
+    "Chapter7.pdf",
+    "Chapter6.pdf",
+    "Chapter5.pdf",
+    "Chapter4.pdf",
+    "Chapter3.pdf",
+    "Chapter2.pdf",
+    "Chapter1.pdf",
+    "Chapter0.pdf",
+    "Chapter9.pdf",
+    "Reference.pdf",
+    "Appendix.pdf",
+    "Chapter04.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Power Transformer",
+    "Fault Diagnosis",
+    "Artificial Intelligence",
+    "Dissolved Gas-in-oil Analysis (DGA)",
+    "Neural Network",
+    "Fuzzy System",
+    "Expert System"
+  ],
+  "title": "Artificial Intelligence Applications in the Diagnosis of Power Transformer Incipient Faults",
+  "type": "Dissertation"
+}

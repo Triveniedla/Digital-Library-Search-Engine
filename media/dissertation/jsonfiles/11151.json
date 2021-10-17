@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Yao, Kaiwei",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Huang, Alex Q.",
+    "Liu, Yilu",
+    "Lu, Guo-Quan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:00:46Z",
+  "date_adate": "2004-04-29",
+  "date_available": "2011-08-22T19:00:46Z",
+  "date_issued": "2004-04-22",
+  "date_rdate": "2004-04-29",
+  "date_sdate": "2004-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "It is perceived that Moore's Law will prevail at least for the next decade with the continuous advancement of processing technologies for integrated circuits. According to Intel's roadmap, over one billion transistors will be integrated in one processor by the year 2010; the processor's clock speed will approach 15 GHz; the core static currents will increase up to 200 A; the dynamic current slew rate will rise up to 250 A/ns; and the core voltage will decrease to 0.8 V. The rapid advancement of processor technology has posed stringent challenges to power management for both an efficient power delivery and an accurate voltage regulation.   The primary objectives of this dissertation are to understand the fundamental limitations of the state-of-the-art solution for the power management, and hence to support possible solutions for meeting the power requirement of the next generations of processors.    First, today's voltage-regulator module (VRM) design, which is based on the multiphase interleaving buck topology, is thoroughly analyzed. The analysis results of the control bandwidths versus the VRM transient voltage spikes highlight the trend of high-frequency VRM design for smaller size and faster transient response. Based on the concept of achieving constant VRM output impedance, design guidelines are proposed for different kinds of control methods. However, the high switching-related losses in the conventional multiphase buck converter limit its further applications. This dissertation proposes a series of new topologies in order to break through the barriers by applying an inductor-coupling or autotransformer structure to reduce the switching-related losses by extending the duty cycle. Then, this dissertation pushes the topology innovation further by introducing soft-switching quasi-resonant converters for the VRM design. The combination of the quasi-resonant and active-clamped concepts derives a family of new converters, which can eliminate all the switching and body-diode losses.  The experimental results at 1-2MHz switching frequencies prove that the proposed solutions for the VRM design can realize very high efficiency and high power density.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:46Z (GMT). No. of bitstreams: 1 kyao_dissertation.pdf: 3304513 bytes, checksum: 3e04c40edec7bc7368e4a347eaf7d3ae (MD5)   Previous issue date: 2004-04-22",
+    "Author Email: kyao@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: gqlu@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11151",
+  "identifier_other": "etd-04272004-215842",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272004-215842",
+  "identifier_uri": "http://hdl.handle.net/10919/11151",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "kyao_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "high frequency",
+    "power management",
+    "voltage regulator module"
+  ],
+  "title": "High-Frequency and High-Performance VRM Design for the Next Generations of Processors",
+  "type": "Dissertation"
+}

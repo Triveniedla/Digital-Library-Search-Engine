@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kohmuench, Jaisen Nathaniel",
+  "contributor_committeechair": "Luttrell, Gerald H.",
+  "contributor_committeemember": [
+    "Westman, Erik Christian",
+    "Adel, Gregory T.",
+    "Yoon, Roe-Hoan",
+    "Mankosa, M. J."
+  ],
+  "contributor_department": "Mining and Minerals Engineering",
+  "date_accessioned": "2014-03-14T20:17:07Z",
+  "date_adate": "2000-10-17",
+  "date_available": "2014-03-14T20:17:07Z",
+  "date_issued": "2000-09-15",
+  "date_rdate": "2001-10-17",
+  "date_sdate": "2000-10-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A better understanding of several mineral processing devices and applications was gained through studies conducted with mathematical analysis tools.  Linear circuit analysis and population balance modeling were utilized to remedy inefficiencies found in a number of popular mineral processing water-based unit operations.  Improvements were made in areas, including unit capacity and separation efficiency. <p> One process-engineering tool, known as linear circuit analysis, identified an alternative coal spiral circuit configuration that offered improved performance while maintaining a reasonable circulating load.  In light of this finding, a full-scale test circuit was installed and evaluated at an existing coal preparation facility.  Data obtained from the plant tests indicate that the new spiral circuit can simultaneously reduce cut-point and improve separation efficiency. <p> A mathematical population balance model has also been developed which accurately simulates a novel hindered-bed separator.  This device utilizes a tangential feed presentation system to improve the performance of conventional teeter-bed separators.  Investigations utilizing the mathematical model were carried out and have predicted solid feed rates of up to 71 tph/m2 (6 tph/ft2) can be achieved at acceptable efficiencies.  The model also predicts that the unfavorable impact of operating at low feed percent solids is severely reduced by the innovative feed presentation design.  Tracer studies have verified that this system allows excess feed water to cross over the top of the separator without entering the separation chamber, thereby reducing turbulence. <p> A hindered-bed separator population balance model was also developed whose results were utilized to improve the efficiencies encountered when using a teeter-bed separator as a mineral concentrator.  It was found that by altering the apparent density of one of the feed components, the efficiency of the gravity separation could be greatly improved.  These results led to the development of a new separator which segregates particles based on differences in mass after the selective attachment of air bubbles to the hydrophobic component of the feed stream.  Proof-of-concept and in-plant testing indicate that significant improvements in separation efficiency can be achieved using this air-assisted teeter-bed system.  The in-plant test data suggest that in some cases, recoveries of the plus 35 mesh plant feed material can be increased by more than 40% through the application of this new technology.",
+  "description_provenance": [
+    "Author Email: jkohmuench@eriez.com",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: adel@vt.edu",
+    "Advisor Email: ryoon@vt.edu",
+    "Advisor Email: luttrell@vt.edu",
+    "Advisor Email: mmankosa@eriez.com",
+    "Made available in DSpace on 2014-03-14T20:17:07Z (GMT). No. of bitstreams: 1 dissertation.pdf: 1144856 bytes, checksum: c59e8b5ee22d4dd560e27d48d57dcb20 (MD5)   Previous issue date: 2000-09-15"
+  ],
+  "handle": "29202",
+  "identifier_other": "etd-10062000-15430057",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10062000-15430057/",
+  "identifier_uri": "http://hdl.handle.net/10919/29202",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Coal Spirals",
+    "HydroFloat Separator",
+    "CrossFlow Separator",
+    "Circuit Analysis",
+    "Classification",
+    "Density Separation"
+  ],
+  "title": "Improving Efficiencies in Water-Based Separators Using Mathematical Analysis Tools",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wang, Joshua Kevin",
+  "contributor_committeecochair": [
+    "Thorp, James S.",
+    "Liu, Yilu"
+  ],
+  "contributor_committeemember": [
+    "Gugercin, Serkan",
+    "Conners, Richard W.",
+    "Baumann, William T."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:38Z",
+  "date_adate": "2009-03-05",
+  "date_available": "2014-03-14T20:07:38Z",
+  "date_issued": "2009-01-27",
+  "date_rdate": "2012-03-27",
+  "date_sdate": "2009-02-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The power system has long been operated in a shroud of introspection.  Only recently have dynamic, wide-area time synchronized grid measurements brought to light the complex relationships between large machines thousands of miles apart.  These measurements are invaluable to understanding the health of the system in real time, for disturbances to the balance between generation and load are manifest in the propagation of electromechanical waves throughout the grid.  The global perspective of wide-area measurements provides a platform from which the destructive effects of these disturbances can be avoided.  Virginia Tech's distributed network of low voltage frequency monitors, FNET, is able to track these waves as they travel throughout the North American interconnected grids.  In contrast to other wide-area measurement systems, the ability to easily measure frequency throughout the grid provides a way to identify, locate, and analyze disturbances with high dynamic accuracy.  The unique statistical properties of wide-area measurements require robust tools in order to accurately understand the nature of these events.  Expert systems and data conditioning can then be used to quantify the magnitude and location of these disturbances without requiring any knowledge of the system state or topology.  Adaptive application of these robust methods form the basis for real-time situational awareness and control.  While automated control of the power system rarely utilize wide-area measurements, global insight into grid behavior can only improve disturbance rejection.",
+  "description_provenance": [
+    "Author Email: jowang1@vt.edu",
+    "Advisor Email: jsthorp@vt.edu",
+    "Advisor Email: fdr@vt.edu",
+    "Advisor Email: gugercin@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: baumann10@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:38Z (GMT). No. of bitstreams: 1 MAIN.pdf: 58462681 bytes, checksum: 00d5743b683820c71ee3065fb6480842 (MD5)   Previous issue date: 2009-01-27"
+  ],
+  "handle": "26250",
+  "identifier_other": "etd-02192009-060559",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02192009-060559/",
+  "identifier_uri": "http://hdl.handle.net/10919/26250",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MAIN.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Power Systems",
+    "Pattern Recognition",
+    "Wide-Area Monitoring and Control"
+  ],
+  "title": "Identification, Analysis, and Control of Power System Events Using  Wide-Area Frequency Measurements",
+  "type": "Dissertation"
+}

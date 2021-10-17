@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Mishra, Anurag",
+  "contributor_committeechair": "Benham, Brian L.",
+  "contributor_committeemember": [
+    "Gallagher, Daniel L.",
+    "Reckhow, Kenneth H.",
+    "Smith, Eric P.",
+    "Wolfe, Mary Leigh"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:37Z",
+  "date_adate": "2011-09-15",
+  "date_available": "2014-03-14T20:15:37Z",
+  "date_issued": "2011-07-28",
+  "date_rdate": "2011-09-15",
+  "date_sdate": "2011-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "To propose a methodology for the uncertainty estimation in water quality modeling as related to TMDL development, four Monte Carlo (MC) based techniquesâ  single-phase MC, two-phase MC, Generalized Likelihood Uncertainty Estimation (GLUE), and Markov Chain Monte Carlo (MCMC) â  were applied to a Hydrological Simulation Programâ  FORTRAN (HSPF) model developed for the Mossy Creek bacterial TMDL in Virginia.  Predictive uncertainty in percent violations of instantaneous fecal coliform concentration criteria for the prediction period under two TMDL pollutant allocation scenarios was estimated.  The average percent violations of the applicable water quality criteria were less than 2% for all the evaluated techniques.  Single-phase MC reported greater uncertainty in percent violations than the two-phase MC for one of the allocation scenarios.  With the two-phase MC, it is computationally expensive to sample the complete parameter space, and with increased simulations, the estimates of single and two-phase MC may be similar.  Two-phase MC reported significantly greater effect of knowledge uncertainty than stochastic variability on uncertainty estimates.  Single and two-phase MC require manual model calibration as opposed to GLUE and MCMC that provide a framework to obtain posterior or calibrated parameter distributions based on a comparison between observed and simulated data and prior parameter distributions.  Uncertainty estimates using GLUE and MCMC were similar when GLUE was applied following the log-transformation of observed and simulated FC concentrations.  GLUE provides flexibility in selecting any model goodness of fit criteria for calculating the likelihood function and does not make any assumption about the distribution of residuals, but this flexibility is also a controversial aspect of GLUE.  MCMC has a robust formulation that utilizes a statistical likelihood function, and requires normal distribution of model errors.  However, MCMC is computationally expensive to apply in a watershed modeling application compared to GLUE.  Overall, GLUE is the preferred approach among all the evaluated uncertainty estimation techniques, for the application of watershed modeling as related to bacterial TMDL development.  However, the application of GLUE in watershed-scale water quality modeling requires further research to evaluate the effect of different likelihood functions, and different parameter set acceptance/rejection criteria.",
+  "description_provenance": [
+    "Author Email: mishranurag@gmail.com",
+    "Advisor Email: benham@vt.edu",
+    "Advisor Email: dang@vt.edu",
+    "Advisor Email: reckhow@rti.org",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: mlwolfe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:37Z (GMT). No. of bitstreams: 2 Mishra_A_D_2011.pdf: 2242565 bytes, checksum: 88df8490ad8eb77b488931106e93ae22 (MD5) Mishra_A_D_2011_Fairuse.pdf: 748532 bytes, checksum: 549e77d5332f7e81dc6b32fabf2a6e33 (MD5)   Previous issue date: 2011-07-28"
+  ],
+  "handle": "28777",
+  "identifier_other": "etd-08232011-172249",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232011-172249/",
+  "identifier_uri": "http://hdl.handle.net/10919/28777",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Mishra_A_D_2011.pdf",
+    "Mishra_A_D_2011_Fairuse.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "water quality modeling",
+    "TMDL",
+    "fecal coliform",
+    "HSPF",
+    "uncertainty analysis",
+    "Monte-Carlo",
+    "Bayesian techniques",
+    "GLUE",
+    "MCMC",
+    "two-phase Monte Carlo analysis"
+  ],
+  "title": "Estimating Uncertainty in HSPF based Water Quality Model: Application of Monte-Carlo Based Techniques",
+  "type": "Dissertation"
+}

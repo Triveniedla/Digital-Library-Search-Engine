@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Pulliam, Wade Joseph",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Marchman, James F. III",
+    "Murphy, Kent A.",
+    "Diller, Thomas E."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:07:51Z",
+  "date_adate": "0000-00-00",
+  "date_available": "2014-03-14T20:07:51Z",
+  "date_issued": "2000-02-02",
+  "date_rdate": "0000-00-00",
+  "date_sdate": "2000-02-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of the project was to examine fiber optic sensors for the measurement of pressure, skin friction, temperature, and heat flux in high Reynolds number, supersonic flow.  Using a standard fiber optic signal conditioning unit (specifically a broadband interferometric system using spectra), the work centered around determining under what conditions these sensors will work effectively and quantifying the total system limitations.<p> An interferometric-based, fiber optic skin friction sensor was developed for the measurement of wall shear stress in complex, supersonic flows.  This sensor type was tested successfully in laminar, incompressible flow, and supersonic flow up to Mach 1.92, Mach 2.4 and 3.0 flow, in which the sensor operated with varying success.  A micromachined, fiber optic pressure sensor was also tested in these supersonic conditions, also with varying success.  The accurate operation of these sensors was found to be tied to the flow conditions and the fiber optic, signal processing system.  <p> A correlation was found to exist between the energy of the flow, either through its dynamic pressure or through external disturbances such as shocks or separation, and the noise in the signals, expressed by the variance of the gap estimate, for the pressure and skin friction sensors in these flows.  The energy of the flow couples with the mechanical properties of the sensor reducing the fringe contrast of the signal used by the optical signal processing system to determine a gap estimate.  As the energy of the flow is increased and the sensor is excited, the fringe contrast is reduced.  A practical limit of a normalized fringe contrast of 0.10 was found for producing accurate gap estimates in real flows.  A consequence is that there is a limit to the dynamic pressure of the flow for the sensors to operate accurately, which is demonstrated by the varying success of the supersonic wind tunnel tests.  This correlation is sensor specific, meaning that sensors can be designed to operate successfully in any flow.  Also, the signal processing system, which forms the other end of the total system, could be improved to allow accurate measurements with the current sensors.",
+  "description_provenance": [
+    "Author Email: pulliamw@lunainnovations.com",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: marchman@vt.edu",
+    "Advisor Email: murphyk@lunainnovations.com",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: jschetz@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:51Z (GMT). No. of bitstreams: 1 All.pdf: 12614840 bytes, checksum: 0125a6362fad37f34fd659bddf2f1d82 (MD5)   Previous issue date: 2000-02-02"
+  ],
+  "handle": "26325",
+  "identifier_other": "etd-02282000-19000042",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02282000-19000042/",
+  "identifier_uri": "http://hdl.handle.net/10919/26325",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "All.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "heat flux",
+    "temperature",
+    "skin friction",
+    "fiber optics",
+    "pressure"
+  ],
+  "title": "Development of Fiber Optic Aerodynamic Sensors for High Reynolds Number Supersonic Flows",
+  "type": "Dissertation"
+}

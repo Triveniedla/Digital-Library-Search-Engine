@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Pakdel, Zahra",
+  "contributor_committeechair": "Centeno, Virgilio A.",
+  "contributor_committeemember": [
+    "Kohler, Werner E.",
+    "Phadke, Arun G.",
+    "De La Ree Lopez, Jaime",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:03Z",
+  "date_adate": "2011-05-25",
+  "date_available": "2014-03-14T20:12:03Z",
+  "date_issued": "2011-05-06",
+  "date_rdate": "2011-05-25",
+  "date_sdate": "2011-05-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The goal of the proposed procedure in this dissertation is the implementation of phasor measurement unit (PMU) based instability detection for islanding prediction procedures using decision tree and neural network modeling. The islanding in the power system define as a separation of the coherent group of generators from the rest of the system due to contingencies, in the case that all generators are coherent together after introducing a fault, it is called stable or non-islanding. The main philosophy of islanding detection in the proposed methodology is to use decision trees and neural network data mining algorithms, performed off-line, to determine the PMU locations, detection parameters, and their triggering values for islanding detection. With the information obtained from accurate system models PMUs can be used online to predict system islanding with high reliability.  The proposed approach is proved using a 4000 bus model of the California system. Before data mining was performed, a large number of islanding and non-islanding cases were created for the California model. PMUs data collection was simulated by collecting the voltage and current information in all 500 kV nodes in the system. More than 3000 cases were collected and classified by visual inspection as islanding and non-islanding cases. The proposed neural network and decision tree procedures captured the knowledge for the correct determination of system islanding with a small number of PMUs.",
+  "description_provenance": [
+    "Author Email: zpakdel@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:03Z (GMT). No. of bitstreams: 1 Pakdel_Zahra_D_2011.pdf: 796983 bytes, checksum: 0110f0ed014aa278415f90449259dd64 (MD5)   Previous issue date: 2011-05-06"
+  ],
+  "handle": "27715",
+  "identifier_other": "etd-05142011-085418",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05142011-085418/",
+  "identifier_uri": "http://hdl.handle.net/10919/27715",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Pakdel_Zahra_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "data mining",
+    "decision trees",
+    "neural network",
+    "wide area measurements"
+  ],
+  "title": "Intelligent Instability Detection for Islanding Prediction",
+  "type": "Dissertation"
+}

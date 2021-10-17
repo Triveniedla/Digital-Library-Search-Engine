@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Harper, Alice C",
+  "contributor_committeechair": "Anderson, Mark R.",
+  "contributor_committeemember": [
+    "Tissue, Brian M.",
+    "Tanko, James M.",
+    "Long, Gary L.",
+    "Carlier, Paul R."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:13:27Z",
+  "date_adate": "2005-07-07",
+  "date_available": "2014-03-14T20:13:27Z",
+  "date_issued": "2005-06-20",
+  "date_rdate": "2006-07-07",
+  "date_sdate": "2005-06-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The main goal of this research was to develop an easy to prepare and sensitive biosensor that would be able to detect glutamate in solution using ionic self-assembly methods.  This was accomplished by preparing an ionically-self-assembled monolayer that included an electron transport mediator and an enzyme that would generate a current proportional to the concentration of analytes in solution.  Biosensors were produced for the detection of glucose and glutamate.  Ferrocene poly(allylamine) (FePAA) was assembled on negatively charged self-assembled monolayer and shown to be electrostatically bound by cyclic voltammetry.  Model films were made of FePAA and poly(styrenesulfonate) to determine if multilayer films could be assembled using electrostatic assembly.  These experiments demonstrated that 7 bilayers is the maximum number of bilayers oxidizable by the heterogeneous reaction at the electrode surface.  ISAMs were then assembled on a 2 mm gold electrode and on a gold fiber microelectrode using FePAA and glucose oxidase.  Using cyclic voltammetry, these ISAMs were shown to be able to oxidize glucose in solution.  The LOD was determined to be lower for the microelectrode than for the 2 mm gold electrode, which was expected, while both compared well to the literature.  The Km? were found to be smaller than other glucose biosensors while the Icat increased with increasing number of bilayers.  This demonstrated that the GluOx is making good electrical contact with the layer below.  These glucose oxidase ISAMs, however, do not exhibit structural stability in flow-injection experiments.    As a solution to the ISAM modified electrodes degrading in the flowing system, a covalently modified surface was developed.  Using cyclic voltammetry, these covalently modified surfaces were shown to be able to oxidize glucose in solution.  The LOD of the covalently modified 2 mm gold electrode was calculated to be lower than the 2 mm ISAM modified gold electrode, due to the fast heterogeneous kinetics on the covalently modified electrode surface.  The Km? and Icat for the covalently modified 2 mm gold electrode were found to be the similar to the 2 mm ISAM modified gold electrode indicating that the covalently modified electrodes will be a suitable replacement.  The covalently modified surfaces exhibit excellent structural stability and detect much lower glucose amounts in flow-injection experiments.    ISAMs were subsequently assembled on gold fiber microelectrodes using FePAA and glutamate oxidase.  Glutamate was able to be detected in solution at biologically significantly quantities using cyclic voltammetry.  The Km? was shown to be comparable to literature values and Icat was shown to increase with increasing number of bilayers.  These results demonstrate that an ISAM constructed using FePAA/GlutOx is a feasible way to detect glutamate in a system.",
+  "description_provenance": [
+    "Author Email: harper@cord.edu",
+    "Advisor Email: tissue@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Advisor Email: glong@vt.edu",
+    "Advisor Email: maander6@vt.edu",
+    "Advisor Email: pcarlier@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:27Z (GMT). No. of bitstreams: 1 ACH_thesis_final.pdf: 1319315 bytes, checksum: b5ce0b385e295b837753f889ddc2735e (MD5)   Previous issue date: 2005-06-20"
+  ],
+  "handle": "28098",
+  "identifier_other": "etd-06222005-150344",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06222005-150344/",
+  "identifier_uri": "http://hdl.handle.net/10919/28098",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ACH_thesis_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Mediated Electron Transport",
+    "Modified Electrodes",
+    "Glucose Oxidase",
+    "Glutamate Oxidase",
+    "Glucose",
+    "Glutamate"
+  ],
+  "title": "Modified Electrodes for Amperometric Determination of Glucose and Glutamate Using Mediated Electron Transport",
+  "type": "Dissertation"
+}

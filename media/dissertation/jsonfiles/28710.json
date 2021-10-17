@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Smith, Gregory Edward",
+  "contributor_committeechair": "Ragsdale, Cliff T.",
+  "contributor_committeemember": [
+    "Zobel, Christopher W.",
+    "Rees, Loren Paul",
+    "Cook, Deborah F.",
+    "Brown, Evelyn C."
+  ],
+  "contributor_department": "Business (Management Science)",
+  "date_accessioned": "2014-03-14T20:15:23Z",
+  "date_adate": "2006-09-28",
+  "date_available": "2014-03-14T20:15:23Z",
+  "date_issued": "2006-08-07",
+  "date_rdate": "2006-09-28",
+  "date_sdate": "2006-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>The classification problem in discriminant analysis involves identifying a function that accurately classifies observations as originating from one of two or more mutually exclusive groups.  Because no single classification technique works best for all problems, many different techniques have been developed.  For business applications, neural networks have become the most commonly used classification technique and though they often outperform traditional statistical classification methods, their performance may be hindered because of failings in the use of training data.  This problem can be exacerbated because of small data set size.</p><p> In this dissertation, we identify and discuss a number of potential problems with typical random partitioning of neural network training data for the classification problem and introduce deterministic methods to partitioning that overcome these obstacles and improve classification accuracy on new validation data.  A traditional statistical distance measure enables this deterministic partitioning.  Heuristics for both the two-group classification problem and k-group classification problem are presented.  We show that these heuristics result in generalizable neural network models that produce more accurate classification results, on average, than several commonly used classification techniques.</p><p> In addition, we compare several two-group simulated and real-world data sets with respect to the interior and boundary positions of observations within their groups' convex polyhedrons.  We show by example that projecting the interior points of simulated data to the boundary of their group polyhedrons generates convex shapes similar to real-world data group convex polyhedrons.  Our two-group deterministic partitioning heuristic is then applied to the repositioned simulated data, producing results superior to several commonly used classification techniques.</p>",
+  "description_provenance": [
+    "Author Email: smitgre@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: dcook@vt.edu",
+    "Advisor Email: cliff.ragsdale@vt.edu",
+    "Advisor Email: evebrown@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:23Z (GMT). No. of bitstreams: 1 GregorySmithDissertation.pdf: 546306 bytes, checksum: 87eb2306a30ee383b0c394e65cbbe3c5 (MD5)   Previous issue date: 2006-08-07"
+  ],
+  "handle": "28710",
+  "identifier_other": "etd-08182006-164833",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182006-164833/",
+  "identifier_uri": "http://hdl.handle.net/10919/28710",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "GregorySmithDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "convex sets",
+    "discriminant analysis",
+    "Neural networks",
+    "data partitioning"
+  ],
+  "title": "A Deterministic Approach to Partitioning Neural Network Training Data for the Classification Problem",
+  "type": "Dissertation"
+}

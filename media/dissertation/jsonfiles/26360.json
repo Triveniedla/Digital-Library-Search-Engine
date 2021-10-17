@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Liang, Yan",
+  "contributor_committeecochair": [
+    "van Wyk, Jacobus Daniel",
+    "Ngo, Khai D. T."
+  ],
+  "contributor_committeemember": [
+    "Liu, Yilu",
+    "Suchicital, Carlos T. A.",
+    "Wang, Shuo",
+    "Lu, Guo-Quan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:58Z",
+  "date_adate": "2009-03-20",
+  "date_available": "2014-03-14T20:07:58Z",
+  "date_issued": "2008-12-08",
+  "date_rdate": "2009-03-20",
+  "date_sdate": "2009-03-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The multi-conductor lossy transmission-line model and finite element simulation tool are used to analyze the high-frequency attenuator and the DM transmission-line EMI filter. The insertion gain, transfer gain, current distribution, and input impedance of the filter under a nominal design are discussed. In order to apply the transmission-line EMI filter to power electronics systems, the performance of the filter under different dimensions, material properties, and source and load impedances must be known. The influences of twelve parameters of the DM transmission-line EMI filter on the cut-off frequency, the roll-off slope, and other characteristics of the insertion gain and transfer gain curves are investigated. The most influential parameters are identified. The current sharing between the copper and nickel conductors under different parameters are investigated. The performance of the transmission-line EMI filter under different source and load impedances is also explored.  The measurement setups of the DM transmission-line EMI filter using a network analyzer have been discussed. The network analyzer has a common-ground problem that influences the measured results of the high-frequency attenuator. However, the common-ground problem has a negligible influence on the measured results of the DM transmission-line EMI filter. The connectors and copper strips between the connectors and the filter introduce parasitic inductance to the measurement setup. Both simulated and measured results show that transfer gain curve is very sensitive to the parasitic inductance. However, the insertion gain curve is not sensitive to the parasitic inductance. There are two major methods to reduce the parasitic inductance of the measurement setup: using small connectors and applying a four-terminal measurement setup. The transfer gain curves of three measurement setups are compared: the two-terminal measurement setup with BNC connectors, the two-terminal measurement setup with Sub Miniature version B (SMB) connectors, and the four-terminal measurement setup with SMB connectors. The four-terminal measurement setup with SMB connectors is the most accurate one and is applied for all the transfer gain measurements in this dissertation. This dissertation also focuses on exploring ways to improve the performance of the DM transmission-line EMI filter. Several improved structures of the DM transmission-line EMI filter are investigated. The filter structure without insulation layer can greatly reduce the thickness of the filter without changing its performance. The meander structure can increase the total length of the filter without taking up too much space and results in the cut-off frequency being shifted lower and achieving more attenuation. A prototype of the two-dielectric-layer filter structure is built and measured. The measurement result confirms that a multi-dielectric-layer structure is an effective way to achieve a lower cut-off frequency and more attenuation.  This dissertation proposes a broadband DM EMI filter combining the advantages of the discrete reflective LC EMI filter and the transmission-line EMI filter. Two DM absorptive transmission-line EMI filters take the place of the two DM capacitors in the discrete reflective LC EMI filter. The measured insertion gain of the prototype has a large roll-off slope at low frequencies and large attenuation at high frequencies. The dependence of the broadband DM EMI filter on source and load impedances is also investigated. Larger load (source) impedance gives more attenuation no matter it is resistive, inductive or capacitive. The broadband DM EMI filter always has more high-frequency attenuation than the discrete reflective LC EMI filter under different load (source) impedances.",
+  "description_provenance": [
+    "Author Email: yliang6@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: ctas@vt.edu",
+    "Advisor Email: shuowang@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: kdtn@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:58Z (GMT). No. of bitstreams: 1 DissertationYanLiang.pdf: 5095938 bytes, checksum: b5cdbbf147a222e6ebc79e6f3313c3d6 (MD5)   Previous issue date: 2008-12-08"
+  ],
+  "handle": "26360",
+  "identifier_other": "etd-03042009-172233",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03042009-172233/",
+  "identifier_uri": "http://hdl.handle.net/10919/26360",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationYanLiang.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Broadband DM EMI Filter",
+    "Finite Element Analysis",
+    "Two-Conductor Lossy Transmission-Line Theory",
+    "Multi-Conductor Lossy Transmission-Line Theory",
+    "Transmission Line",
+    "Electromagnetic Compatibility",
+    "Integrated Passives",
+    "Absorptive Filter",
+    "Reflective Filter",
+    "Discrete LC EMI Filter",
+    "Integrated CM&DM  Transmission-Line EMI Filter",
+    "Integrated DM Transmission-Line EMI Filter"
+  ],
+  "title": "Integrated Frequency-Selective Conduction Transmission-Line EMI Filter",
+  "type": "Dissertation"
+}

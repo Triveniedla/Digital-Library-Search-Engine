@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Figura, Charles Chester",
+  "contributor_committeechair": "Heflin, James R.",
+  "contributor_committeemember": [
+    "Zallen, Richard H.",
+    "Davis, Richey M.",
+    "Indebetouw, Guy J.",
+    "Graupner, Wilhelm"
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:13:23Z",
+  "date_adate": "1999-08-24",
+  "date_available": "2014-03-14T20:13:23Z",
+  "date_issued": "2000-05-28",
+  "date_rdate": "2000-08-24",
+  "date_sdate": "1999-06-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Detailed studies are presented of thin films that self-assemble into the noncentrosymmetric structure required for second order nonlinear optical responses.  Second harmonic generation is used as a probe of the second-order nonlinear optical susceptibility (c(2)) of ionic self-assembled monolayer (ISAM) films.  Films produced from the ISAM technique are shown to possess significant c(2), with values presently comparable to quartz (c(2)=1.53*10-9 esu).  These films show exceptional stability over time, with negligible decrease in c(2) after 26 months.  ISAM films self-assemble from polyelectrolyte solutions due to coulombic interactions between a charged substrate and the charged polymer in solution.  This process is self-limiting since charge overcompensation at the surface restricts  further deposition as like charges accumulate at the surface.  We have found that this 'kinetically hindered equilibrium' occurs quickly for the samples studied, after approximately 45 seconds immersion.  Non-centrosymmetry is obtained during deposition as chromophores orient towards the substrate as a strong, localized collection of opposite charge.  This net orientation is partially diminished as some amount of chromophore extends in the opposite direction at the film/solution interface.  Second harmonic measurements suggest that chromophores at the outermost interface collapse against the film surface when dried, resulting in a larger c(2) than other 'capped' layers.  Any polymer which is not located at the interfaces is thought to possess random orientation, and therefore does not contribute to c(2).  We have investigated how ionic strength and solution pH affect the structure of ISAM films.  These parameters serve to control the electrostatic screening in solution.  Low salt concentrations result in low or no electrostatic screening.  As a result, charges on a polymer strongly feel one another's presence, and decrease the net electrostatic energy by maximizing their distance from each other.  This results in a rod-like conformation, which when adsorbed onto the film surface produces thin layers.  Large salt concentrations serve to screen the electrostatic interaction.  Because charges do not experience the strong repulsion from their neighbors, the polymer backbone is more likely to loop and coil.  If the polymer is weakly soluble (pH near the solubility edge), the polymer will loop about itself and other polymer chains in order to reduce the number of polymer/water contacts.  Increased screening results in adsorption of thicker films.  We show that this also results in a marginal increase in film density, likely due to an increase in polymer interpenetration of adjacent layers.  We can associate an increase in chromophore population at the interface with this increase in density.  The reduction in screening also is shown to decrease the chromophore orientation angle, presumably by decreasing the repulsion between charges located on the chromophore ends.  The improved orientation leads to an increased non-centrosymmetry in the layer.  c(2) is decreased, however, as film thickness (and therefore the population of randomly oriented chromophore between interfaces) increases faster than the improvements to non-centrosymmetry at the interface.  We have investigated the thermal stability of ISAM films at elevated temperatures, and have found that these films do not exhibit a permanent decay of c(2) with increased temperature as do poled guest-host polymers.  A temperature-dependent decrease is observed for temperatures up to 250Â°C.  This decrease is completely reversible (for films heated to 150C), with c(2) recovering its initial value upon cooling in spite of a glass transition temperature measured as Tg=140Â°C  The decrease in c(2) is thought to be due to a combination of effects.  Predominant decrease is thought to be due to disassociation of ionic bonds, which serve to provide noncentrosymmetry in films.  A slower, smaller decay due to decrease in moisture content of the films at high temperature is also thought to be present.",
+  "description_provenance": [
+    "Author Email: figura@wartburg.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: rzallen@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: graupner@theory.phys.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:23Z (GMT). No. of bitstreams: 6 VITAE.PDF: 89027 bytes, checksum: 17ff040a8ca2d8baae98ae3462d5b0bf (MD5) cain3.pdf: 285831 bytes, checksum: fc6c30fb3bb2d40044e47693f913a030 (MD5) cain0.pdf: 26820 bytes, checksum: 4db02486e1bd0c5b76b02623d4d0e1f3 (MD5) cain1.pdf: 119244 bytes, checksum: e2b7de9ce6e353e1c8b0004d39334eb5 (MD5) cain4.pdf: 83918 bytes, checksum: da47a24f4a5df7852cec5bab513cf837 (MD5) cain2.pdf: 171169 bytes, checksum: 24c28bc4ec1dd8a54b6ba778143a0e03 (MD5)   Previous issue date: 2000-05-28"
+  ],
+  "handle": "28077",
+  "identifier_other": "etd-061899-103951",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-061899-103951/",
+  "identifier_uri": "http://hdl.handle.net/10919/28077",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "VITAE.PDF",
+    "cain3.pdf",
+    "cain0.pdf",
+    "cain1.pdf",
+    "cain4.pdf",
+    "cain2.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Thin Films",
+    "Second Harmonic Generation",
+    "Nonlinear Optics",
+    "Polyelectrolye Adsorption"
+  ],
+  "title": "Second Order Nonlinear Optics in Ionically Self-Assembled Thin Films",
+  "type": "Dissertation"
+}

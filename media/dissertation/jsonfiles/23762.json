@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Raben, Jaime Melton Schmieg",
+  "contributor_committeechair": [
+    "Vlachos, Pavlos P.",
+    "Stremler, Mark A"
+  ],
+  "contributor_committeemember": [
+    "Davalos, Rafael V",
+    "Behkam, Bahareh",
+    "Rylander, M Nichole"
+  ],
+  "contributor_department": "Biomedical Engineering",
+  "date_accessioned": "2013-09-10T08:00:14Z",
+  "date_available": "2013-09-10T08:00:14Z",
+  "date_issued": "2013-09-09",
+  "degree_discipline": "Biomedical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This work investigates flow measurement capabilities within meso- and micro-scaled medically relevant devices using particle image velocimetry (PIV). Medical devices can be particularly challenging to validate due to small length scales and complex geometries, which can reduce measurement accuracy by introducing noise and reducing available signal. Although the sources of such problems are often device specific, the effective outcome is a reduction in the signal-to-noise ratios (SNRs) of PIV images and correlations. This effort utilizes advanced PIV processing and post-processing techniques to establish protocols for achieving high accuracy PIV measurements in challenging flow environments. This investigation takes place within three wide-ranging medically related devices. First, channel flow in a microfluidic device is investigated to evaluate improvements in measurement accuracy gained using phase correlations in comparison to confocal microscopy. This work found substantial improvements in error with respect to the ensemble field for phase correlations while only moderate improvements were observed for confocal imaging with standard processing techniques. Secondly, an evaluation of stenting procedures was executed resulting in the first published PIV and computational fluid dynamics (CFD) joint study on bifurcating stents. This work analyzes steady flow in three bifurcation angles and four different single- and double-stenting procedures, which are clinically used in coronary bifurcations. Finally, a medical device analog was evaluated to develop a comprehensive CFD validation dataset, including a full uncertainty analysis for velocity and wall shear stress as well as estimates for pressure fields and relevant flow statistics including Reynolds stresses and dissipation.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-09-10T08:00:14Z (GMT). No. of bitstreams: 2 Raben_JM_D_2013.pdf: 11586290 bytes, checksum: 4fa7c3738daacb55aecfd9470bb2885f (MD5) Raben_JM_D_2013_support_1.pdf: 287787 bytes, checksum: 842a0d1f10a0e05cb351c1afa6145ebc (MD5)   Previous issue date: 2013-09-09",
+  "format_medium": "ETD",
+  "handle": "23762",
+  "identifier_other": "vt_gsexam:1629",
+  "identifier_uri": "http://hdl.handle.net/10919/23762",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "particle image velocimetry",
+    "micro PIV",
+    "stent",
+    "medical device"
+  ],
+  "title": "Improvements in fluidic device evaluation using particle image velocimetry.",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Snook, Jason S",
+  "contributor_committeecochair": [
+    "Kavanaugh, Andrea L.",
+    "Ehrich, Roger W."
+  ],
+  "contributor_committeemember": [
+    "Dunlap, Daniel R.",
+    "Tatar, Deborah Gail",
+    "Scheckler, Rebecca K."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:10:56Z",
+  "date_adate": "2005-04-28",
+  "date_available": "2014-03-14T20:10:56Z",
+  "date_issued": "2005-04-22",
+  "date_rdate": "2005-04-28",
+  "date_sdate": "2005-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Each year, companies will spend millions of dollars developing or migrating to new software systems in their business processes.  Much of the focus of development and implementation has been based upon customer need (i.e., requirements), and rightly so.  Equally important to requirements, however, are the usersâ   perceptions of the software.  Does a user actually think a piece of software would help them meet the need identified?  Does the user think it would be easy for them to implement this software as a solution?  What do the people around the user think and how does that opinion affect theirs?  It is important to understand what factors determine whether a potential user will adopt a software application and how much they will use it?  A commonly used model for explaining this is the Technology Acceptance Model.  Davis (1989) found that subjective belief about a software system is most closely related to the actual intention to use it.  Specifically, Davis uses Perceived Usefulness and Perceived Ease of Use in the Technology Acceptance Model to model intention to use a software system statistically.    Neither of these subjective views are formed by a potential user in isolation.  The opinions and behavior of others can potentially exert a great deal of influence on an individualâ  s perception of these factors.  Davis himself points out the omission of social influence in the original Technology Acceptance Model was due to measurement difficulties rather than to its potential value in the model.  Difficulty in measuring social influence is evidenced by the lack of a definitive scale of social influence.  By its common use in many studies, Subjective Norm has become the â  defacto standardâ   for measuring social influence but this has not resulted in a consistently significant measure of social influence.  The goal of this current study is two-fold.  The primary goal is to incorporate a validated scale of social influence into the original Technology Acceptance Model which preserves the modelâ  s parsimony while significantly increasing its explained variance.  Secondarily, in doing so, a modified scale based upon Subjective Norms will be verified and tested.  In response to a recognized shortcoming of Subjective Norm, a cognitive element will be included into the modified scale.  In this current study the modification of Subjective Norm was developed based upon existing research on the topic.  The Technology Acceptance Model is augmented by the proposed scale and tested over four surveys.  Two systems are chosen for study because of the nature of their use; use of one (Filebox) is voluntary, and use of the other (Blackboard) is compulsory.  The results of the survey were consistent across all four surveys, with the model predicting over 40% of the variation in behavior every time.  Including the modified scale of Subjective Norm significantly increased the explained variance of the model (i.e., R2) in every survey.  The results verify the reliability and validity of the modified scale of Subjective Norm.  These four studies make a strong case for including this scale of social influence as a regular scale in the Technology Acceptance Model for future research.  Future directions for studying the scale and the resulting model are also discussed.  The resulting behavioral model is a valuable tool that will give software developers and managers more forethought and insight into the development of and migration to specific software systems.",
+  "description_provenance": [
+    "Author Email: jsnook@vt.edu",
+    "Advisor Email: dunlapd@vt.edu",
+    "Advisor Email: tatar@vt.edu",
+    "Advisor Email: kavan@vt.edu",
+    "Advisor Email: ehrich@vt.edu",
+    "Advisor Email: rebecca.scheckler@uc.edu",
+    "Made available in DSpace on 2014-03-14T20:10:56Z (GMT). No. of bitstreams: 1 SnookFinalDissertation.pdf: 435843 bytes, checksum: 0d3f9c0d519493d39af139deef487f90 (MD5)   Previous issue date: 2005-04-22"
+  ],
+  "handle": "27319",
+  "identifier_other": "etd-04262005-124148",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262005-124148/",
+  "identifier_uri": "http://hdl.handle.net/10919/27319",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SnookFinalDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Motivation",
+    "Social Influence",
+    "Technology Acceptance Model"
+  ],
+  "title": "Socionormative Influence in Software Adoption and Usage",
+  "type": "Dissertation"
+}

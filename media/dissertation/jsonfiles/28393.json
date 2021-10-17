@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Xiao, Chucheng",
+  "contributor_committeechair": "Odendaal, Willem Gerhardus",
+  "contributor_committeemember": [
+    "Safaai-Jazi, Ahmad",
+    "van Wyk, Jacobus Daniel",
+    "Scott, Elaine P.",
+    "Lu, Guo-Quan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:17Z",
+  "date_adate": "2006-10-13",
+  "date_available": "2014-03-14T20:14:17Z",
+  "date_issued": "2006-07-12",
+  "date_rdate": "2006-10-13",
+  "date_sdate": "2006-07-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The volume reduction in power converters over the past several decades can chiefly be attributed to increases in switching frequency. It is to be expected that the trends towards miniaturization will maintain steady pressure to keep this pace of increasing switching frequencies of power converters. However certain fundamental limits in high frequency power conversion are being reached as frequencies are being pushed deeper into the megahertz range, inhibiting substantial further increases.     The work reported in this dissertation is intended to systematically investigate the fundamental frequency limitations, identify some of the solutions for HF/VHF power conversion and to provide guidelines and tools to optimize the performance of power converters by maximizing frequency.     A number of multi-megahertz power converters are examined to evaluate the present status and future trend of HF/VHF power conversion. An interesting trend between power level and frequency is observed. A general limitation about the power level and frequency, independent of design details, is derived from the physics of the semiconductor devices, which determines the upper bound of the power levels as frequency increases.     A 250 MHz DC-DC power converter (derived from the Class E power amplifier) is analyzed and demonstrated with discrete components, which again verifies the trend between power level and frequency. The power losses in the semiconductor devices are discussed, and optimization criteria for minimizing the power losses of the devices, are discussed. By relating the power losses to the semiconductor materials' properties, a methodology for selecting proper materials is identified for high frequency and high efficiency power conversion.      The frequency scaling effects of passive components, still dominating the volume of the modern power converter, is analyzed. A generic multi-disciplinary methodology is developed to analyze and maximize frequency and performance of passive components in terms of power density and efficiency. It is demonstrated how the optimum frequency can be identified, and how power conversion efficiency deteriorates beyond this optimum under a fixed maximum temperature.      Power loss measurement is becoming more challenging as higher frequency and higher efficiency power conversion. To achieve an accurate power loss measurement in a high frequency, high efficiency power electronics system or component, limitations of electrical measurement are identified, and various calorimetric methods are surveyed. Calorimetric methods are more accurate due to the direct heat loss measurement. An advanced calorimetric system is proposed, analyzed, and tested, demonstrating about 5% error in total losses up to 25W.",
+  "description_provenance": [
+    "Author Email: cxiao@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: wgo@vt.edu",
+    "Advisor Email: scottep@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:17Z (GMT). No. of bitstreams: 1 Final.pdf: 3845088 bytes, checksum: 3439d823be372f9350b12f8316601b22 (MD5)   Previous issue date: 2006-07-12"
+  ],
+  "handle": "28393",
+  "identifier_other": "etd-07252006-222250",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07252006-222250/",
+  "identifier_uri": "http://hdl.handle.net/10919/28393",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "frequency limitations",
+    "very high frequency",
+    "power conversion",
+    "high frequency"
+  ],
+  "title": "An Investigation of Fundamental Frequency Limitations for HF/VHF Power Conversion",
+  "type": "Dissertation"
+}

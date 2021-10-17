@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Pullins, Clayton Anthony",
+  "contributor_committeechair": "Diller, Thomas E.",
+  "contributor_committeemember": [
+    "Simpson, Roger L.",
+    "Vick, Brian L.",
+    "Ekkad, Srinath V.",
+    "Huxtable, Scott T."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:15Z",
+  "date_adate": "2011-05-27",
+  "date_available": "2014-03-14T20:12:15Z",
+  "date_issued": "2011-05-03",
+  "date_rdate": "2011-05-27",
+  "date_sdate": "2011-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This effort is focused on the design, calibration, and implementation of a high temperature heat flux sensor for thermal systems research and testing. The High Temperature Heat Flux Sensor (HTHFS) was designed to survive in the harsh thermal environments typically encountered in hypersonic flight, combustion and propulsion research, and large-scale fire testing. The sensor is capable of continuous use at temperatures up to 1000 â ¦C. Two methods for steady-state calibration of the HTHFS at elevated temperatures have been developed as a result of this research. The first method employs a water-cooled heat flux sensor as a reference standard for the  calibration. The second method utilizes a blackbody radiant source and a NIST calibrated optical pyrometer as the calibration standard. The HTHFS calibration results obtained from both methods compare favorably with the theoretical sensitivity versus temperature model.  Implementation of the HTHFS in several types of transient thermal testing scenarios is also demonstrated herein. A new data processing technique is used to interpret the measurements made by the HTHFS. The Hybrid Heat Flux (HHF) method accounts for the heat flow through the sensor and the heat storage in the sensor, and thus renders the HTHFS virtually insensitive to the material on which it is mounted. The calibrated output of the HTHFS versus temperature ensures accuracy in the measurements made by the sensor at high operating temperatures.",
+  "description_provenance": [
+    "Author Email: cpullins@vt.edu",
+    "Advisor Email: rosimpso@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: sekkad@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:15Z (GMT). No. of bitstreams: 2 Pullins_CA_D_2011.pdf: 16305809 bytes, checksum: 50e1e2c74212923082227ee3bb639b53 (MD5) Pullins_CA_D_2011_Copyright.pdf: 537264 bytes, checksum: fa6fc420d5abed457701f36774fa5252 (MD5)   Previous issue date: 2011-05-03"
+  ],
+  "handle": "27789",
+  "identifier_other": "etd-05182011-124709",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182011-124709/",
+  "identifier_uri": "http://hdl.handle.net/10919/27789",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Pullins_CA_D_2011.pdf",
+    "Pullins_CA_D_2011_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "heat flux sensor",
+    "gage sensitivity",
+    "calibration",
+    "high temperature"
+  ],
+  "title": "High Temperature Heat Flux Measurement: Sensor Design, Calibration, and Applications",
+  "type": "Dissertation"
+}

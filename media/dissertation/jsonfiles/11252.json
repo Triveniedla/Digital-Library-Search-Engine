@@ -1,0 +1,51 @@
+{
+  "contributor_author": "D'Angelo, John Patrick",
+  "contributor_committeechair": "Fuller, Christopher R.",
+  "contributor_committeemember": [
+    "Carneal, James P.",
+    "Baumann, William T.",
+    "Johnson, Martin E.",
+    "Burdisso, Ricardo A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:06:45Z",
+  "date_adate": "2004-09-22",
+  "date_available": "2011-08-22T19:06:45Z",
+  "date_issued": "1999-04-19",
+  "date_rdate": "2005-09-22",
+  "date_sdate": "2004-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Research presented herein involved the use of a smart skin treatment used for the attenuation of turbulent boundary layer induced interior noise.  The treatment consisted of several Smart Foam actuators each having a reference and error sensor along with a feed forward, filtered-x controller. Studies were performed to determine if the use of multiple instances of single input, single output (SISO) control systems could be implemented with success given the difficulty of actively suppressing turbulent boundary layer induced interior noise. Further, this research will lead to the development of an integrated Smart Foam element consisting of a Smart Foam actuator, reference sensor, error sensor and SISO controller in one complete, stand--alone unit. Several topics were studied during this effort: reference sensing, error sensing, actuator design, controller causality, correlation of turbulent flow and resulting plate vibration, and coherence between plate vibration and the interior noise field. Each study was performed with the goal of improving the performance of active attenuation of turbulent boundary layer induced interior noise. Depending on the configuration of the control system, control was performed using either experiments or simulations based on experimental data.  Within the desired control band of 400--800~Hz, attenuation of up to -3.1~dB$_A$ was achieved at the error sensors and up to -1.4~dB$_A$ within the observer plane relative to the uncontrolled case. However, over a band of greater coherence from 480--750~Hz, attenuation of up to -4.8~dB$_A$ was achieved at the error sensors and up to -2.6~dB$_A$ within the observer plane. Further, peak attenuation of up to -12~dB$_A$ was achieved within the observer plane. Studies were also conducted to increase the low frequency performance of the Smart Foam treatment.  These experiments used tuning masses placed on the tops of the integrated Smart Foam elements to tune them to the fundamental mode of the vibrating plate.  This treatment was used to reactively attenuate plate vibration such that the radiated acoustic field would be minimized.  These experiments resulted in -6~dB$_A$ global attenuation at the plate fundamental resonance.  Further, it was shown that the reactive treatment did not inhibit active control.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:06:45Z (GMT). No. of bitstreams: 1  Dissertation_DAngelo.pdf: 15405474 bytes, checksum: 9317717bf129d3703ac2e5c6a75834d3 (MD5)    Previous issue date: 1999-04-19",
+    "Author Email: John@CoherenceOne.com",
+    "Advisor Email: jcarneal@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: c.r.fuller@larc.nasa.gov"
+  ],
+  "format_medium": "ETD",
+  "handle": "11252",
+  "identifier_other": "etd-09082004-222309",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082004-222309",
+  "identifier_uri": "http://hdl.handle.net/10919/11252",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_DAngelo.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Spatial Sensing",
+    "Near Field Sensing",
+    "Interior Noise",
+    "Active Noise Control",
+    "Aircraft",
+    "Turbulent Boundary Layer"
+  ],
+  "title": "Attenuation of Turbulent Boundary Layer Induced Interior Noise Using Integrated Smart Foam Elements",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Thomas, Liya",
+  "contributor_committeecochair": [
+    "Mili, Lamine M.",
+    "Shaffer, Clifford A."
+  ],
+  "contributor_committeemember": [
+    "Kafura, Dennis G.",
+    "Watson, Layne T.",
+    "Abbott, A. Lynn",
+    "Kline, D. Earl"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:29Z",
+  "date_adate": "2006-11-15",
+  "date_available": "2014-03-14T20:16:29Z",
+  "date_issued": "2006-09-08",
+  "date_rdate": "2006-11-15",
+  "date_sdate": "2006-09-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents an automated detection algorithm that identifies severe external defects on the surfaces of barked hardwood logs and stems.  The defects detected are at least 0.5 inch in height and at least 3 inches in diameter, which are severe, medium to large in size, and have external surface rises.  Hundreds of real log defect samples were measured, photographed, and categorized to summarize the main defect features and to build a defect knowledge base.  Three-dimensional laser-scanned range data capture the external log shapes and portray bark pattern, defective knobs, and depressions.   The log data are extremely noisy, have missing data, and include severe outliers induced by loose bark that dangles from the log trunk. Because the circle model is nonlinear and presents both additive and non-additive errors, a new robust generalized M-estimator has been developed that is different from the ones proposed in the statistical literature for linear regression.  Circle fitting is performed by standardizing the residuals via scale estimates calculated by means of projection statistics and incorporated in the Huber objective function to bound the influence of the outliers in the estimates.  The projection statistics are based on 2-D radial-vector coordinates instead of the row vectors of the Jacobian matrix as proposed in the statistical literature dealing with linear regression.   This approach proves effective in that it makes the GM-estimator to be influence bounded and thereby, robust against outliers.  Severe defects are identified through the analysis of 3-D log data using decision rules obtained from analyzing the knowledge base.  Contour curves are generated from radial distances, which are determined by robust 2-D circle fitting to the log-data cross sections.  The algorithm detected 63 from a total of 68 severe defects.  There were 10 non-defective regions falsely identified as defects.  When these were calculated as areas, the algorithm locates 97.6% of the defect area, and falsely identifies 1.5% of the total clear area as defective.",
+  "description_provenance": [
+    "Author Email: lithomas@vt.edu",
+    "Advisor Email: kafura@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: shaffer@vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: kline@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:29Z (GMT). No. of bitstreams: 1 dissertation-lithomas-06.pdf: 2573425 bytes, checksum: 53328722f1ffd3759ed94d879bdc8009 (MD5)   Previous issue date: 2006-09-08"
+  ],
+  "handle": "29038",
+  "identifier_other": "etd-09202006-145847",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09202006-145847/",
+  "identifier_uri": "http://hdl.handle.net/10919/29038",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-lithomas-06.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Robust Estimation",
+    "Machine Vision",
+    "Log Defect Detection",
+    "Range Image Processing"
+  ],
+  "title": "Automated Detection of Surface Defects on Barked Hardwood Logs and Stems Using 3-D Laser Scanned Data",
+  "type": "Dissertation"
+}

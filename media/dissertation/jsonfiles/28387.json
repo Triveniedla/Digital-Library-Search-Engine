@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Chavali, Venkata  Gautham",
+  "contributor_committeechair": "da Silva, Claudio R. C. M.",
+  "contributor_committeemember": [
+    "Ellingson, Steven W.",
+    "Buehrer, Richard Michael",
+    "Leman, Scotland C.",
+    "Schaumont, Patrick Robert"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:16Z",
+  "date_adate": "2012-08-24",
+  "date_available": "2014-03-14T20:14:16Z",
+  "date_issued": "2012-07-12",
+  "date_rdate": "2012-08-24",
+  "date_sdate": "2012-07-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Signal detection and modulation classification are becoming increasingly important in a variety of wireless communication systems such as those involving spectrum management and electronic warfare and surveillance, among others. The majority of the signal detection and modulation classification algorithms available in the literature assume that the additive noise has a Gaussian distribution. However, while this is a good model for thermal noise, various studies have shown that the noise experienced in most radio channels, due to a variety of man-made and natural electromagnetic sources, is non-Gaussian and exhibits impulsive characteristics. Unfortunately, conventional signal processing algorithms developed for Gaussian noise conditions are known to perform poorly in the presence of non-Gaussian noise. For this reason, the main goal of this dissertation is to develop statistical signal processing algorithms for the detection and modulation classification of signals in radio channels where the additive noise is non-Gaussian. One of the major challenges involved in the design of these algorithms is that they are expected to operate with limited or no prior knowledge of the signal of interest, the fading experienced by the signal, and the distribution of the noise added in the channel. Therefore, this dissertation develops new techniques for estimating the parameters that characterize the additive non-Gaussian noise process, as well as the fading process, in the presence of unknown signals. These novel estimators are an integral contribution of this dissertation. The signal detection and modulation classification problems considered here are treated as hypothesis testing problems. Using a composite hypothesis testing procedure, the unknown fading and noise process parameters are first estimated and then used in a likelihood ratio test to detect the presence or identify the modulation scheme of a signal of interest. The proposed algorithms, which are developed for different non-Gaussian noise models, are shown to outperform conventional algorithms which assume Gaussian noise conditions and also algorithms based on other impulsive noise mitigation techniques. This dissertation has three major contributions. First, in environments where the noise can be modeled using a Gaussian mixture distribution, a new expectation-maximization algorithm based technique is developed for estimating the unknown fading and noise distribution parameters. Using these estimates, a hybrid likelihood ratio test is used for modulation classification. Second, a five-stage scheme for signal detection in symmetric Î±  stable noise environments, based on a class of robust filters called the matched myriad filters, is presented. New algorithms for estimating the noise distribution parameters are also developed. Third, a modulation classifier is proposed for environments in which the noise can be modeled as a time-correlated non-Gaussian random process. The proposed classifier involves the use of a whitening filter followed by likelihood-based classification. A new H_â   filter-based technique for estimating the whitening filter coefficients is presented.",
+  "description_provenance": [
+    "Author Email: chavali@vt.edu",
+    "Advisor Email: ellingso@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Advisor Email: leman@vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:16Z (GMT). No. of bitstreams: 1 Chavali_VG_D_2012.pdf: 852252 bytes, checksum: f8ff4b20d1069c6b680310c487e054ff (MD5)   Previous issue date: 2012-07-12"
+  ],
+  "handle": "28387",
+  "identifier_other": "etd-07242012-110332",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07242012-110332/",
+  "identifier_uri": "http://hdl.handle.net/10919/28387",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Chavali_VG_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Modulation classification",
+    "Non-Gaussian noise",
+    "Signal detection"
+  ],
+  "title": "Signal Detection and Modulation Classification in Non-Gaussian Noise Environments",
+  "type": "Dissertation"
+}

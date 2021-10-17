@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Zheng, Baojuan",
+  "contributor_committeechair": "Campbell, James B",
+  "contributor_committeemember": [
+    "Wynne, Randolph H",
+    "Galbraith, John M",
+    "de Beurs, Kirsten"
+  ],
+  "contributor_department": "Geography",
+  "date_accessioned": "2013-02-19T22:35:35Z",
+  "date_available": "2013-02-19T22:35:35Z",
+  "date_issued": "2012-12-12",
+  "degree_discipline": "Geospatial and Environmental Analysis",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Tillage practices have changed dramatically during the past several decades as agricultural specialists have recognized the unfavorable environmental effects of mechanized tillage. Alternatively, conservation tillage management can mitigate adverse environmental impacts of tillage, such as soil and water degradation. Adoption of conservation tillage has continued to increase since its first introduction, which raises questions of when and where it is practiced. Spatial and temporal specifics of tillage practices form important dimensions for development of effective crop management practices and policies.  Because Landsat has been and will continue to image the Earth globally, it provides opportunities for systematic mapping of crop residue cover (CRC) /tillage practices. Thus, the overall objective of this study is to develop methodologies to improve our ability to monitor crop management across different landscapes in a time-efficient and cost-effective manner using Landsat TM and ETM+ imagery, which is addressed in three separate studies. The first study found that previous efforts to estimate CRC along a continuum using Landsat-based tillage indices were unsuccessful because they neglected the key temporal changes in agricultural surfaces caused by tilling, planting, and crop emergence at the start of the growing season. The first study addressed this difficulty by extracting minimum values of multi-temporal NDTI (Normalized Difference Tillage Index) spectral profiles, designated here as the minNDTI method. The minNDTI improves crop residue estimation along a continuum (R2 = 0.87) as well as tillage classification accuracy (overall accuracy > 90%).   A second study evaluated effectiveness of the minNDTI approach for assessing CRC at multiple locations over several years, and compared minNDTI to hyperspectral tillage index (CAI), and the ASTER tillage index (SINDRI). The minNDTI is effective across four different locations (R2 of 0.56 ~ 0.93). The third study, built upon the second study, addressed the Landsat ETM+ missing data issue, and devised methodologies for producing field-level tillage data at broad scales (multiple counties).  In summary, this research demonstrates that the minNDTI technique is currently the best alternative for monitoring CRC and tillage practices from space, and provides a foundation for monitoring crop residue cover at broad spatial and temporal scales.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:35:35Z (GMT). No. of bitstreams: 2 Zheng_B_D_2012.pdf: 6773891 bytes, checksum: 8453de1aa6e37c446a39340aa84e0ca2 (MD5) Zheng_B_D_2012_support_1.pdf: 6773891 bytes, checksum: 8453de1aa6e37c446a39340aa84e0ca2 (MD5)   Previous issue date: 2012-12-12",
+  "format_medium": "ETD",
+  "handle": "19201",
+  "identifier_other": "vt_gsexam:25",
+  "identifier_uri": "http://hdl.handle.net/10919/19201",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "conservation",
+    "agriculture",
+    "crop residue",
+    "tillage",
+    "remote sensing",
+    "multi-temporal",
+    "Landsat"
+  ],
+  "title": "Broad-scale Assessment of Crop Residue Management Using Multi-temporal Remote Sensing Imagery",
+  "type": "Dissertation"
+}

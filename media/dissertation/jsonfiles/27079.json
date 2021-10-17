@@ -1,0 +1,62 @@
+{
+  "contributor_author": "Baxter, Diane Yamane",
+  "contributor_committeechair": "Filz, George G.",
+  "contributor_committeemember": [
+    "Batra, Romesh C.",
+    "Duncan, James Michael",
+    "Kuppusamy, Thangavelu",
+    "Mitchell, James K."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:10:17Z",
+  "date_adate": "2000-04-25",
+  "date_available": "2014-03-14T20:10:17Z",
+  "date_issued": "2000-04-14",
+  "date_rdate": "2001-04-25",
+  "date_sdate": "2000-04-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A soil-bentonite cutoff wall is a type of subsurface vertical barrier constructed by back-filling a trench with a mixture of soil, bentonite, and water.  Although soil-bentonite cutoff walls are common, their mechanical behavior is not well understood.  Current design procedures do not consider the final stress state of the consolidated soil-bentonite backfill or deformations in adjacent ground.  The final stress state in the completed wall is important because it influences the hydraulic conductivity of the cutoff (Barrier 1995), the cutoff's susceptibility to hydraulic fracture, and the magnitude of deformations adjacent to the cutoff wall.  Deformations adjacent to the cutoff wall can be significant and can cause damage to adjacent structures.  The objectives of this research are to 1) add to the current body of knowledge of the properties of soil-bentonite mixtures, 2) evaluate constitutive models and select a model to represent soil-bentonite, 3) model a soil-bentonite cutoff wall using finite elements, and 4) investigate the influence of several factors on the deformations in adjacent ground.   <p> These objectives were met by first summarizing information from the literature on soil-bentonite properties and then performing a laboratory testing program on different soil-bentonite mixtures.  Five constitutive models were evaluated to determine how well they match the data from the laboratory testing program.  A model referred to as the RS model was chosen to best represent soil-bentonite, and provided a good match of the soil-bentonite behavior.  The RS model, which is a special case of a more complicated existing model, is a non-associative Modified Cam Clay type model that has parameters to change the yield surface and plastic potential surface into ellipses of varying shapes.  The RS model was implemented into the finite element program SAGE. <p> A finite element model was developed using SAGE to simulate all stages of construction of a soil-bentonite cutoff wall including excavation of a trench under bentonite-water slurry, replacement of the bentonite-water slurry with soil-bentonite backfill, and con-solidation of the soil-bentonite backfill.  The model was calibrated with a well-documented case history, and predicted deformations in adjacent ground were close to measured deformations.  Evaluation of the model indicates that there is good confidence in the prediction of deformations in adjacent ground, but there is lower confidence in the predicted stresses in the consolidated soil-bentonite and settlement of the backfill in the trench.  A parametric study was then performed using the finite element model assuming sand sites of varying density and OCR.  Deformations in adjacent ground were calculated for various soil conditions, soil-bentonite properties, and trench configurations.  A correlation was found between maximum calculated settlement in adjacent ground and factor of safety against trench",
+  "description_provenance": [
+    "Author Email: dyamane@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: jmd@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Advisor Email: kuppu@vt.edu",
+    "Advisor Email: jkm@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:17Z (GMT). No. of bitstreams: 15 appendix_b.PDF: 415821 bytes, checksum: 78cff9d2fb7760e180b89680e20638c9 (MD5) vita.pdf: 5216 bytes, checksum: 8ad80422f9feb9278fe896f21ba822c4 (MD5) Ch2.PDF: 356350 bytes, checksum: 1f68a1125388ded115e158853c9d6810 (MD5) Ch1.PDF: 16338 bytes, checksum: 5f85bf76ff319bd1c0e2f09dd44e877a (MD5) Ch8.PDF: 53623 bytes, checksum: 91982db47d1defba7f26776ce6f74015 (MD5) ch7.PDF: 513977 bytes, checksum: d3cc337ac9e4a492cdf2bc61a5710df6 (MD5) Ch5.PDF: 437059 bytes, checksum: f17ea3ce707db474b39a18a45f04eef6 (MD5) Ch3.PDF: 754909 bytes, checksum: 49edb605925710c5a11ae279f01f6133 (MD5) Ch4.PDF: 648165 bytes, checksum: 4df7e781973fd6602357281909f078b3 (MD5) references.pdf: 29843 bytes, checksum: 712bf2668ccf2456a6deb4dda667925d (MD5) appendix_c2.PDF: 2044152 bytes, checksum: 4fe5dcd09703df44a3aabb7288fe93db (MD5) etd.pdf: 68801 bytes, checksum: fb74592c8a399e2be267dbde54ad73f3 (MD5) Ch6.PDF: 732601 bytes, checksum: ba44c18e2085c0706b483a6f3293a89c (MD5) appendix_a.PDF: 92888 bytes, checksum: 86b470f207c94de4d35fd9dc788617ad (MD5) appendix_c1.PDF: 1090465 bytes, checksum: 2b2182ca91ad439f4bda130d6364e3b5 (MD5)   Previous issue date: 2000-04-14"
+  ],
+  "handle": "27079",
+  "identifier_other": "etd-04212000-15560035",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04212000-15560035/",
+  "identifier_uri": "http://hdl.handle.net/10919/27079",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "appendix_b.PDF",
+    "vita.pdf",
+    "Ch2.PDF",
+    "Ch1.PDF",
+    "Ch8.PDF",
+    "ch7.PDF",
+    "Ch5.PDF",
+    "Ch3.PDF",
+    "Ch4.PDF",
+    "references.pdf",
+    "appendix_c2.PDF",
+    "etd.pdf",
+    "Ch6.PDF",
+    "appendix_a.PDF",
+    "appendix_c1.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "soil-bentonite",
+    "constitutive modeling",
+    "vertical barrier",
+    "finite element",
+    "cutoff wall"
+  ],
+  "title": "Mechanical Behavior of Soil-Bentonite Cutoff Walls",
+  "type": "Dissertation"
+}

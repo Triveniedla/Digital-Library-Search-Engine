@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Azab, Mohamed Mahmoud Mahmoud",
+  "contributor_committeechair": "Hou, Yiwei Thomas",
+  "contributor_committeemember": [
+    "Riad, Sedki Mohamed",
+    "Yang, Yaling",
+    "Rizk, Mohamed Rizk Mohamed",
+    "Chen, Ing Ray",
+    "Eltoweissy, Mohamed Youssef"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-03-01T09:00:07Z",
+  "date_available": "2013-03-01T09:00:07Z",
+  "date_issued": "2013-02-28",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Cyber-Physical Systems (CPS) entail the tight integration of and coordination between computational and physical resources. These systems are increasingly becoming vital to modernizing the national critical infrastructure systems ranging from healthcare, to transportation and energy, to homeland security and national defense. Advances in CPS technology are needed to help improve their current capabilities as well as their adaptability, autonomicity, efficiency, reliability, safety and usability.  Due to the proliferation of increasingly sophisticated cyber threats with exponentially destructive effects, CPS defense systems must systematically evolve their detection, understanding, attribution, and mitigation capabilities. Unfortunately most of the current CPS defense systems fall short to adequately provision defense services while maintaining operational continuity and stability of the targeted CPS applications in presence of advanced persistent attacks. Most of these defense systems use un-coordinated combinations of disparate tools to provision defense services for the cyber and physical components. Such isolation and lack of awareness of and cooperation between defense tools may lead to massive resource waste due to unnecessary redundancy, and potential conflicts that can be utilized by a resourceful attacker to penetrate the system.   <br />Recent research argued against the suitability of the current security solutions to CPS environments.  We assert the need for new defense platforms that effectively and efficiently manage dynamic defense missions and toolsets in real-time with the following goals: <br />1) Achieve asymmetric advantage to CPS defenders, prohibitively increasing the cost for attackers; <br />2) Ensure resilient operations in presence of persistent and evolving attacks and failures; and  <br />3) Facilitate defense alliances, effectively and efficiently diffusing defense intelligence and operations transcending organizational boundaries. <br />Our proposed solution comprehensively addresses the aforementioned goals offering an evolutionary CPS defense system. The presented CPS defense platform, termed CyPhyCARD (Cooperative Autonomous Resilient Defenses for Cyber-Physical systems) presents a unified defense platform to monitor, manage, and control the heterogeneous composition of CPS components. CyPhyCARD relies on three interrelated pillars to construct its defense platform. CyPhyCARD comprehensively integrates these pillars, therefore building a large scale, intrinsically resilient, self- and situation- aware, cooperative, and autonomous defense cloud-like platform that provisions adequate, prompt, and pervasive defense services for large-scale, heterogeneously-composed CPS. The CyPhyCARD pillars are: <br />1) Autonomous management platform (CyberX) for CyPhyCARD\\'s foundation. CyberX enables application elasticity and autonomic adaptation to changes by runtime diversity employment, enhances the application resilience against attacks and failures by multimodal recovery mechanism, and enables unified application execution on heterogeneously composed platforms by a smart employment of a fine-grained environment-virtualization technology. <br />2) Diversity management system (ChameleonSoft) built on CyberX. ChameleonSoft encrypts software execution behavior by smart employment of runtime diversity across multiple dimensions to include time, space, and platform heterogeneity inducing a trace-resistant moving-target defense that works on securing CyPhyCARD platform against software attacks. <br />3) Evolutionary Sensory system (EvoSense) built on CyberX. EvoSense realizes pervasive, intrinsically-resilient, situation-aware sense and response system to seamlessly effect biological-immune-system like defense. EvoSense acts as a middle layer between the defense service provider(s) and the Target of Defense (ToD) creating a uniform defense interface that hides ToD\\'s scale and heterogeneity concerns from defense-provisioning management.<br />CyPhyCARD is evaluated both qualitatively and quantitatively. The efficacy of the presented approach is assessed qualitatively, through a complex synthetic CPS attack scenario. In addition to the presented scenario, we devised multiple prototype packages for the presented pillars to assess their applicability in real execution environment and applications. Further, the efficacy and the efficiency of the presented approach is comprehensively assessed quantitatively by a set of custom-made simulation packages simulating each CyPhyCARD pillar for performance and security evaluation.  The evaluation illustrated the success of CyPhyCARD and its constructing pillars to efficiently and effectively achieve its design objective with reasonable overhead.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-01T09:00:07Z (GMT). No. of bitstreams: 1 Azab_MM_D_2013.pdf: 7387019 bytes, checksum: 72f85bbe0fad9954a2d50bd56021160a (MD5)   Previous issue date: 2013-02-28",
+  "format_medium": "ETD",
+  "handle": "19273",
+  "identifier_other": "vt_gsexam:333",
+  "identifier_uri": "http://hdl.handle.net/10919/19273",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Cyber Physical Systems",
+    "Security",
+    "Resilience",
+    "Cloud Computing",
+    "Autonomic Management"
+  ],
+  "title": "Cooperative Autonomous Resilient Defense Platform for Cyber-Physical Systems",
+  "type": "Dissertation"
+}

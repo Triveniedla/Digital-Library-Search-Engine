@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Tallapragada, Phanindra",
+  "contributor_committeechair": "Ross, Shane D.",
+  "contributor_committeemember": [
+    "Schmale, David G. III",
+    "Paul, Mark R.",
+    "Stremler, Mark A.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:15:59Z",
+  "date_adate": "2010-09-22",
+  "date_available": "2014-03-14T20:15:59Z",
+  "date_issued": "2010-08-24",
+  "date_rdate": "2010-09-22",
+  "date_sdate": "2010-09-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In many problems in dynamical systems one is interested in the identification of sets which have qualitatively different fates. The finite-time Lyapunov exponent (FTLE) method is a general and equation-free method that identifies codimension-one sets which have a locally high rate of stretching around which maximal exponential expansion of line elements occurs. These codimension-one sets thus act as transport barriers. This geometric framework of transport barriers is used to study various problems in phase space transport, specifically problems of separation in flows that can vary in scale from the micro to the geophysical.  The first problem which we study is of the nontrivial motion of inertial particles in a two-dimensional fluid flow. We use the method of FTLE to identify transport barriers that produce segregation of inertial particles by size. The second problem we study is the long range advective transport of plant pathogen spores in the atmosphere. We compute the FTLE field for isobaric atmospheric flow and identify atmospheric transport barriers (ATBs). We find that rapid temporal changes in the spore concentrations at a sampling point occur due to the passage of these ATBs across the sampling point.  We also investigate the theory behind the computation of the FTLE and devise a new method to compute the FTLE which does not rely on the tangent linearization. We do this using the 925 matrix of a probability density function. This method of computing the geometric quantities of stretching and FTLE also heuristically bridge the gap between the geometric and probabilistic methods of studying phase space transport. We show this with two examples.",
+  "description_provenance": [
+    "Author Email: tssap@vt.edu",
+    "Advisor Email: sdross@vt.edu",
+    "Advisor Email: dschmale@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: mark.stremler@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:59Z (GMT). No. of bitstreams: 1 thesis4.pdf: 12408910 bytes, checksum: 26fd1ccdfda08b0d749c921f1a1d84a9 (MD5)   Previous issue date: 2010-08-24"
+  ],
+  "handle": "28891",
+  "identifier_other": "etd-09072010-235513",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09072010-235513/",
+  "identifier_uri": "http://hdl.handle.net/10919/28891",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "punctuated changes",
+    "Maxey Riley equation",
+    "inertial particles.",
+    "Lagrangian coherent structures",
+    "Lyapunov exponents",
+    "phase space transport",
+    "atmospheric transport barriers"
+  ],
+  "title": "Identifying dynamical boundaries and phase space transport using Lagrangian coherent structures.",
+  "type": "Dissertation"
+}

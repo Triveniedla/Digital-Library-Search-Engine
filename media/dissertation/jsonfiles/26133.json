@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Loulizi, Amara",
+  "contributor_committeechair": "Al-Qadi, Imadeddin L.",
+  "contributor_committeemember": [
+    "Barker, Richard M.",
+    "Brown, Gary S.",
+    "Riad, Sedki Mohamed",
+    "Flintsch, Gerardo W."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:11Z",
+  "date_adate": "2001-02-08",
+  "date_available": "2014-03-14T20:07:11Z",
+  "date_issued": "2001-02-02",
+  "date_rdate": "2002-02-08",
+  "date_sdate": "2001-02-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ground penetrating radar (GPR) technology has been used for the past 20 years for a variety of applications to assess transportation infrastructure.  However, the main issue after all these years remains: \"How well does GPR work and under what conditions?\"  Results show that GPR works well for some situations, but is not an appropriate tool for other situations.  It is not used currently on a routine basis by the US Departments of Transportation (DOTs) due mainly to difficulties encountered with data interpretation.    Data interpretation difficulties are mainly attributed to the fact that images obtained from the reflected signals are not photographs of the features that are beneath the surface being investigated.  The images show the amplitude of the radar-reflected signals from the interfaces with different dielectric properties.  Therefore, a considerable amount of experience and operator skill may be required to correctly interpret sub-surface radar results.  To better understand reflected GPR signals, this research was conducted with the following objectives: to determine the dielectric properties of concrete over the used GPR frequency range; to synthesize the reflected air-coupled radar signals and compare them with measured waveforms; to model and study the effects of simulated defects in concrete on the reflected air-coupled and ground-coupled radar signals; and to validate the research results in the field by predicting layer thicknesses of flexible pavements and detecting moisture in flexible pavement systems.  Several concrete slabs, 1.5x1.5 m, were constructed with known thicknesses, simulated defects, and different reinforcement configurations.  The concrete mixes included four different bridge deck mixes and one concrete pavement mix used in the State of Virginia.  Results have shown that the dielectric constant of concrete is frequency and mix dependent.  However, modeling the reflected signals using an average complex dielectric constant over the entire radar frequency range led to modeled waveforms comparable to the measured waveforms.  Although air- and water-filled voids did distort the reflected waveforms, a model was developed to predict the reflected waveforms from the simulated defects.  Reinforcement was found to affect the reflected waveforms only when it was oriented in a direction perpendicular to the GPR antennas.  A model was also developed to predict the GPR waveforms obtained from flexible pavements.  This model could be used in a procedure to measure layer thicknesses more accurately by including losses that occur inside the pavement materials.  Two different case studies, where a ground-coupled GPR system was used to locate moisture at different layers, have led to the conclusion that the ground-coupled GPR is a feasible tool to detect moisture inside pavements.",
+  "description_provenance": [
+    "Author Email: amlouliz@vt.edu",
+    "Advisor Email: barker@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:11Z (GMT). No. of bitstreams: 1 Amara_dissertation.pdf: 4801066 bytes, checksum: ebd7eeadcdda85711506d35464748807 (MD5)   Previous issue date: 2001-02-02"
+  ],
+  "handle": "26133",
+  "identifier_other": "etd-02062001-220414",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02062001-220414/",
+  "identifier_uri": "http://hdl.handle.net/10919/26133",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Amara_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dielectric constant",
+    "nondestructive evaluation",
+    "ground penetrating radar",
+    "bridge decks",
+    "pavements"
+  ],
+  "title": "Development of Ground Penetrating Radar Signal Modeling and Implementation for Transportation Infrastructure",
+  "type": "Dissertation"
+}

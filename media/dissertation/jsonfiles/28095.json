@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Mugtussids, Iossif B.",
+  "contributor_committeechair": "Anderson, Mark R.",
+  "contributor_committeemember": [
+    "Cliff, Eugene M.",
+    "Durham, Wayne C.",
+    "Hall, Christopher D.",
+    "Lutze, Frederick H. Jr."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:13:26Z",
+  "date_adate": "2000-06-26",
+  "date_available": "2014-03-14T20:13:26Z",
+  "date_issued": "2000-06-12",
+  "date_rdate": "2001-06-26",
+  "date_sdate": "2000-06-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Modern aircraft are capable of recording hundreds of parameters during flight. This fact  not only facilitates the investigation of an accident or a serious incident, but also provides the opportunity to use the recorded data to predict future aircraft behavior. It is believed that, by analyzing the recorded data, one can identify precursors to hazardous behavior and develop procedures to mitigate the problems before they actually occur. Because of the enormous amount of data collected during each flight, it becomes necessary to identify the segments of data that contain useful information. The objective is to distinguish  between typical data points, that are present in the majority of flights, and unusual data points that  can be only found in a few flights. The distinction between typical and unusual data points is achieved by using classification procedures.  In this dissertation, the application of classification procedures to flight data is investigated. It is proposed to use a Bayesian classifier that tries to identify the flight from which a particular data point came. If the flight from which the data point came  is identified with a high level of confidence, then the conclusion that the data point is unusual within the investigated flights can be made.  The Bayesian classifier uses the overall and conditional probability density functions  together with a priori probabilities to make a decision. Estimating probability density functions is a difficult task in multiple dimensions.  Because many of the recorded signals (features) are redundant or highly correlated or are very similar in every flight, feature selection techniques are applied to identify those signals that contain the most discriminatory power. In the limited amount of data available to this research, twenty five features were identified as the set exhibiting the best discriminatory power. Additionally, the number of signals is reduced by applying feature generation techniques to similar signals.  To make the approach applicable in practice, when many flights are considered, a very efficient and fast sequential data clustering algorithm is proposed. The order in which the samples are presented to the algorithm is fixed according to the probability density function value. Accuracy and reduction level are controlled using two scalar parameters: a distance threshold value and a maximum compactness factor.",
+  "description_provenance": [
+    "Author Email: imugtuss@vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: durham@aoe.vt.edu",
+    "Advisor Email: anderson@orion.aoe.vt.rdu",
+    "Advisor Email: chall@aoe.vt.edu",
+    "Advisor Email: lutze@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:26Z (GMT). No. of bitstreams: 1 phd.pdf: 6015565 bytes, checksum: 1c90e50c9a1ea7b8abe27e7c7a101961 (MD5)   Previous issue date: 2000-06-12"
+  ],
+  "handle": "28095",
+  "identifier_other": "etd-06222000-11480046",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06222000-11480046/",
+  "identifier_uri": "http://hdl.handle.net/10919/28095",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "phd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Pattern Recognition",
+    "Flight Data Recorders",
+    "Flight Data Analysis",
+    "Feature Generation",
+    "Clustering",
+    "Feature Selection",
+    "Classification",
+    "Bayes' Classifier"
+  ],
+  "title": "Flight Data Processing Techniques to Identify Unusual Events",
+  "type": "Dissertation"
+}

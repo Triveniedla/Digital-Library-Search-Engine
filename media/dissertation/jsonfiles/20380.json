@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Zhang, Xu",
+  "contributor_committeechair": "Lin, Tao",
+  "contributor_committeemember": [
+    "Renardy, Yuriko",
+    "Adjerid, Slimane",
+    "De Sturler, Eric"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2013-05-05T08:00:13Z",
+  "date_available": "2013-05-05T08:00:13Z",
+  "date_issued": "2013-05-04",
+  "degree_discipline": "Mathematics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In science and engineering, many simulations are carried out over domains consisting of<br />multiple materials separated by curves/surfaces. If partial differential equations (PDEs)<br />are used to model these simulations, it usually leads to the so-called interface problems of<br />PDEs whose coefficients are discontinuous. In this dissertation, we consider nonconforming<br />immersed \"nite element (IFE) methods and error analysis for interface problems.<br /><br />We \"first consider the second order elliptic interface problem with a discontinuous diffusion<br />coefficient. We propose new IFE spaces based on the nonconforming rotated Q1 \"finite elements on Cartesian meshes. The degrees of freedom of these IFE spaces are determined by midpoint values or average integral values on edges. We investigate fundamental properties of these IFE spaces, such as unisolvency and partition of unity, and extend well-known trace inequalities and inverse inequalities to these IFE functions. Through interpolation error analysis, we prove that these IFE spaces have optimal approximation capabilities.<br /><br />We use these IFE spaces to develop partially penalized Galerkin (PPG) IFE schemes whose<br />bilinear forms contain penalty terms over interface edges. Error estimation is carried out<br />for these IFE schemes. We prove that the PPG schemes with IFE spaces based on integral-value degrees of freedom have the optimal convergence in an energy norm. Following a similar approach, we prove that the interior penalty discontinuous Galerkin schemes based on these IFE functions also have the optimal convergence. However, for the PPG schemes based on midpoint-value degrees of freedom, we prove that they have at least a sub-optimal convergence. Numerical experiments are provided to demonstrate features of these IFE methods and compare them with other related numerical schemes.<br /><br />We extend nonconforming IFE schemes to the planar elasticity interface problem with discontinuous Lam\"e parameters. Vector-valued nonconforming rotated Q1 IFE functions with<br />integral-value degrees of freedom are unisolvent with appropriate interface jump conditions.<br />More importantly, the Galerkin IFE scheme using these vector-valued nonconforming rotated<br />Q1 IFE functions are \"locking-free\" for nearly incompressible elastic materials.<br /><br />In the last part of this dissertation, we consider potential applications of IFE methods to<br />time dependent PDEs with moving interfaces. Using IFE functions in the discretization in<br />space enables the applicability of the method of lines. Crank-Nicolson type fully discrete<br />schemes are also developed as alternative approaches for solving moving interface problems.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-05T08:00:13Z (GMT). No. of bitstreams: 1 Zhang_X_D_2013.pdf: 3883900 bytes, checksum: ff29bd1184b34eb5261040c9cea6cec1 (MD5)   Previous issue date: 2013-05-04",
+  "format_medium": "ETD",
+  "handle": "20380",
+  "identifier_other": "vt_gsexam:497",
+  "identifier_uri": "http://hdl.handle.net/10919/20380",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Immersed Finite Element",
+    "Elliptic Interface Problems",
+    "Cartesian Mesh",
+    "Nonconforming Rotated Q1 Finite Element",
+    "Error Analysis",
+    "E"
+  ],
+  "title": "Nonconforming Immersed Finite Element Methods for Interface Problems",
+  "type": "Dissertation"
+}

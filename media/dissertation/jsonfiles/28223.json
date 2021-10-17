@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Neyman, Patrick J",
+  "contributor_committeechair": "Heflin, James R.",
+  "contributor_committeemember": [
+    "Gibson, Harry W.",
+    "Indebetouw, Guy J.",
+    "Marand, Hervé L.",
+    "Davis, Richey M."
+  ],
+  "contributor_department": "Macromolecular Science and Engineering",
+  "date_accessioned": "2014-03-14T20:13:46Z",
+  "date_adate": "2004-07-16",
+  "date_available": "2014-03-14T20:13:46Z",
+  "date_issued": "2004-06-16",
+  "date_rdate": "2005-07-16",
+  "date_sdate": "2004-07-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ionically self-assembled monolayer (ISAM) films are typically an assemblage of oppositely charged polymers built layer by layer through Coulombic attraction utilizing an environmentally friendly process to form ordered structures that are uniform, molecularly smooth and physically robust.  ISAM films have been shown to be capable of the noncentrosymmetric order requisite for a second-order nonlinear optical response with excellent temporal and thermal stability.  However, such films fabricated with a nonlinear optical (NLO) polyanion result in significant cancellation of the chromophore orientations.  This cancellation occurs by two mechanisms: competitive orientation due to the ionic bonding of the polymer chromophore with the subsequent polycation layer, and random orientation of the chromophores within the bulk of each polyanion layer.  A reduction in film thickness accompanied by an increase in net polar ordering is one possible avenue to obtain the second-order susceptibility chi(2) necessary for practical application in electro-optic devices.  In this thesis, we discuss the structural characteristics of ISAM films and explore a novel approach to obtain the desired characteristics for nonlinear optical response.  This approach involves a hybrid covalent / ionic self-assembly technique which affords improved net dipole alignment and concentration of monomer chromophores in the film.  This technique yields a substantial increase in chi(2) due to the preferential chromophore orientation being locked in place by a covalent bond to the preceding polycation layer.  The films fabricated in this manner yield a chi(2) that substantially exceeds that of any known polymer-polymer ISAM film.  This covalent-hybrid ionically self-assembled multilayer (CHISAM) technique is demonstrated to result in films suitable for electro-optic devices, with measured electro-optic coefficient (14 pm/V) comparable to that of the inorganic crystal lithium niobate (30 pm/V).  Thermal and temporal stability are important properties of electro-optic device implementation, and are demonstrated for CHISAM films.  CHISAM films have remained stable at room temperature for more than 420 days, and suffered no loss of chi(2) when held at 80 C for 36 hours, followed by 150 C for 24 hours.  Studies are also presented that demonstrate the ability to produce ISAM chi(2) films that are nearly one micron thick, and exhibit no evidence of a thickness limitation to the polar order.  Analytical considerations for second-order NLO characterization of thick films are addressed in detail.  The effect of absorption of the second harmonic wavelength and resonant enhancement of chi(2) are investigated, and it is demonstrated that accurate determination of chi(2) may be made for thick films and for films that absorb the second harmonic.  The temporal and thermal stability of a variety of ISAM and CHISAM NLO films are examined in detail.  In some cases, a decrease in the NLO response is observed at elevated temperature that is completely restored upon cooling.  Studies are presented that suggest this effect is a result of thermally induced trans-to-cis isomerization of azo linkages in the NLO chromophores.",
+  "description_provenance": [
+    "Author Email: pneyman@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: hwgibson@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: hmarand@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:46Z (GMT). No. of bitstreams: 2 Patrick_Neyman_CV.pdf: 156781 bytes, checksum: c434de3c770b5ae7121f1f7f8cb339fa (MD5) Patrick_Neyman_PhD_Dissertation.pdf: 5380792 bytes, checksum: bd591f9c36b4ea66d98f677571f17891 (MD5)   Previous issue date: 2004-06-16"
+  ],
+  "handle": "28223",
+  "identifier_other": "etd-07072004-141443",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07072004-141443/",
+  "identifier_uri": "http://hdl.handle.net/10919/28223",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Patrick_Neyman_CV.pdf",
+    "Patrick_Neyman_PhD_Dissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "polymer",
+    "thin film",
+    "nonlinear optics",
+    "nanotechnology",
+    "chromophore",
+    "second harmonic generation",
+    "self assembly"
+  ],
+  "title": "Second-Order Nonlinear Optical Characteristics of Nanoscale Self-Assembled Multilayer Organic Films",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Peng, Senlin",
+  "contributor_committeechair": "Scales, Wayne A.",
+  "contributor_committeemember": [
+    "Farhood, Mazen",
+    "Bose, Tamal",
+    "Reed, Jeffrey Hugh",
+    "Morton, Jade Yu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:02Z",
+  "date_adate": "2012-08-31",
+  "date_available": "2014-03-14T20:15:02Z",
+  "date_issued": "2012-07-27",
+  "date_rdate": "2012-08-31",
+  "date_sdate": "2012-08-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ionospheric scintillations can cause significant amplitude and/or phase fluctuations of GNSS signals. This work presents analysis results of scintillation effects on the new GPS L5 signal based on data collected using a real-time scintillation monitoring and data collection system at HAARP, Alaska. The data collection setup includes a custom narrow band front end that collects GPS L1, L2 IF samples and two reconfigurable USRP2 based RF front ends to collect wideband GPS L5 and GLONASS L1 and L2 signals.  The results confirm that scintillation has a stronger impact on GPS L2 and L5 signals than on the L1 signal.  Our preliminary results also show that carrier phase and amplitude scintillations on each signal are highly correlated.  The amplitude and carrier phase scintillation are also correlated among the three signals.    In this study, a multi-constellation multi-band GNSS software receiver has been developed based on USRP2, a general purpose radio platform.  The C++ class-based software receiver were developed to process the IF data for GPS L1, L2C, and L5 and GLONASS L1 and L2 signals collected by the USRP2 front end.  The front end performance is evaluated against the outputs of a high end custom front end driven by the same local oscillator and two commercial receivers, all using the same real signal sources. These results demonstrate that the USRP2 is a suitable front end for applications, such as ionosphere scintillation studies.  Another major contribution of this work is the implementation of a Vector tracking loop (VTL) for robust carrier tracking. The VTL is developed based on the extended Kalman filter (EKF) with adaptive covariance matrices. Both scalar tracking loop (STL) and VTL are implemented. Once an error in the scalar loop is detected, the results from the VTL are used to assist the STL. The performance of the VTL is compared with the traditional STL with three different data sets: raw GPS RF data with short signal outages, RF data with strong scintillation impacts collected during the last solar maximum, and high dynamic data with long interval signal outages from a GPS simulator. The results confirm the performance improvement of the VTL over scintillation impacts and show that the VTL can maintain signal lock during long intervals of signal outage if the satellite ephemerides are available and the pseudorange estimation is within one code chip accuracy. The dynamic performance improvement of the VTL is verified as well. The results show the potential of robust tracking based on VTL during scintillation and interference.",
+  "description_provenance": [
+    "Author Email: slpeng@vt.edu",
+    "Advisor Email: farhood@vt.edu",
+    "Advisor Email: tbose@vt.edu",
+    "Advisor Email: reedjh@exchange.vt.edu",
+    "Advisor Email: mortonyt@muohio.edu",
+    "Advisor Email: wscales@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:02Z (GMT). No. of bitstreams: 1 Peng_S_D_2012.pdf: 4732445 bytes, checksum: b0cba09274fd44ca0f043efce46bc7ee (MD5)   Previous issue date: 2012-07-27"
+  ],
+  "handle": "28605",
+  "identifier_other": "etd-08102012-134341",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08102012-134341/",
+  "identifier_uri": "http://hdl.handle.net/10919/28605",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Peng_S_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "GNSS",
+    "Ionosphere scintillation",
+    "Software receiver",
+    "Vector tracking loop"
+  ],
+  "title": "A Multi-Constellation Multi-Frequency GNSS Software Receiver Design for Ionosphere Scintillation Studies",
+  "type": "Dissertation"
+}

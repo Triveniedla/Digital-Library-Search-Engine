@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Scheibe, Kevin Paul",
+  "contributor_committeechair": "Rees, Loren Paul",
+  "contributor_committeemember": [
+    "Rakes, Terry R.",
+    "Moore, Laurence J.",
+    "Zobel, Christopher W.",
+    "Ragsdale, Cliff T."
+  ],
+  "contributor_department": "Management Science and Information Technology",
+  "date_accessioned": "2011-08-22T19:04:30Z",
+  "date_adate": "2003-04-14",
+  "date_available": "2011-08-22T19:04:30Z",
+  "date_issued": "2004-08-05",
+  "date_rdate": "2004-04-14",
+  "date_sdate": "2003-04-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Over the last two decades, wireless technology has become ubiquitous in the United States and other developed countries.  Consumer devices such as AM/FM radios, cordless and cellular telephones, pagers, satellite televisions, garage door openers, and television channel changers are just some of the applications of wireless technology.  More recently, wireless computer networking has seen increasing employment.  A few reasons for this move toward wireless networking are improved electronics transmitters and receivers, reduced costs, simplified installation, and enhanced network expandability. The objective of the study is to generate understanding of the planning inherent in a broadband, fixed wireless telecommunication network and to implement that knowledge into an SDSS.  Intermediate steps toward this goal include solutions to both fixed wireless point-to-multipoint (PMP) and fixed wireless mesh networks, which are developed and incorporated into the SDSS. This study explores the use of a Spatial Decision Support System (SDSS) for broadband fixed wireless connectivity to solve the wireless network planning problem.  The spatial component of the DSS is a Geographic Information System (GIS), which displays visibility for specific tower locations.  The SDSS proposed here incorporates cost, revenue, and performance capabilities of a wireless technology applied to a given area.  It encompasses cost and range capabilities of wireless equipment, the customersâ   propensity to pay, the market penetration of a given service offering, the topology of the area in which the wireless service is proffered, and signal obstructions due to local geography. This research is both quantitative and qualitative in nature.  Quantitatively, the wireless network planning problem may be formulated as integer programming problems (IP).  The line-of-sight restriction imposed by several extant wireless technologies necessitates the incorporation of a GIS and the development of an SDSS to facilitate the symbiosis of the mathematics and geography. The qualitative aspect of this research involves the consideration of planning guidelines for the general wireless planning problem.  Methodologically, this requires a synthesis of the literature and insights gathered from using the SDSS above in a what-if mode.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:04:30Z (GMT). No. of bitstreams: 1  ScheibeDissertation.pdf: 2285659 bytes, checksum: da6a4b341c2616563fe36f3e5fb548ee (MD5)    Previous issue date: 2004-08-05",
+    "Author Email: kscheibe@vt.edu",
+    "Advisor Email: trakes@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: ljmoore@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: crags@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11242",
+  "identifier_other": "etd-04102003-105503",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04102003-105503",
+  "identifier_uri": "http://hdl.handle.net/10919/11242",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ScheibeDissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Broadband Wireless Network Planning",
+    "Spatial Decision Support Systems"
+  ],
+  "title": "A Spatial Decision Support System for Planning Broadband, Fixed Wireless Telecommunication Networks",
+  "type": "Dissertation"
+}

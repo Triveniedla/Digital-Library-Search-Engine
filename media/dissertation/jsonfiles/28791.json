@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Stigler, Brandilyn Suzanne",
+  "contributor_committeechair": "Laubenbacher, Reinhard C.",
+  "contributor_committeemember": [
+    "Jarrah, Abdul Salam",
+    "Beattie, Christopher A.",
+    "Mendes, Pedro J. P."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:41Z",
+  "date_adate": "2005-10-04",
+  "date_available": "2014-03-14T20:15:41Z",
+  "date_issued": "2005-08-04",
+  "date_rdate": "2005-10-04",
+  "date_sdate": "2005-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One goal of systems biology is to predict and modify the behavior of biological networks by accurately monitoring and modeling their responses to certain types of perturbations.  The construction of mathematical models based on observation of these responses, referred to as reverse engineering, is an important step in elucidating the structure and dynamics of such networks. Continuous models, described by systems of differential equations, have been used to reverse engineer biochemical networks.  Of increasing interest is the use of discrete models, which may provide a conceptual description of the network. <p> In this dissertation we introduce a discrete modeling approach, rooted in computational algebra, to reverse-engineer networks from experimental time series data.  The algebraic method uses algorithmic tools, including Groebner-basis techniques, to build the set of all discrete models that fit time series data and to select minimal models from this set.  The models used in this work are discrete-time finite dynamical systems, which, when defined over a finite field, are described by systems of polynomial functions.  We present novel reverse-engineering algorithms for discrete models, where each algorithm is suitable for different amounts and types of data. We demonstrate the effectiveness of the algorithms on simulated networks and conclude with a description of an ongoing project to reverse-engineer a real gene regulatory network in yeast.",
+  "description_provenance": [
+    "Author Email: bstigler@vbi.vt.edu",
+    "Advisor Email: ajarrah@vbi.vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: mendes@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:41Z (GMT). No. of bitstreams: 1 revised-thesis.pdf: 1345285 bytes, checksum: 84d27ec7f3a74bdcb55bf4c9e5b41476 (MD5)   Previous issue date: 2005-08-04"
+  ],
+  "handle": "28791",
+  "identifier_other": "etd-08252005-075644",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252005-075644/",
+  "identifier_uri": "http://hdl.handle.net/10919/28791",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "revised-thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "discrete modeling",
+    "polynomial dynamical systems",
+    "computational algebra",
+    "gene regulatory networks",
+    "Reverse engineering"
+  ],
+  "title": "An Algebraic Approach to Reverse Engineering with an Application to Biochemical Networks",
+  "type": "Dissertation"
+}

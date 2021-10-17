@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Szarka III, John Louis",
+  "contributor_committeechair": "Woodall, William H.",
+  "contributor_committeemember": [
+    "Leman, Scotland C.",
+    "Reynolds, Marion R. Jr.",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:08:50Z",
+  "date_adate": "2011-05-03",
+  "date_available": "2014-03-14T20:08:50Z",
+  "date_issued": "2011-03-25",
+  "date_rdate": "2011-05-03",
+  "date_sdate": "2011-04-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The evaluation of discrete processes are performed for industrial and healthcare processes.  Count data may be used to measure the number of defective items in industrial applications or the incidence of a certain disease at a health facility.  Another classification of a discrete random variable is for binary data, where information on an item can be classified as conforming or nonconforming in a manufacturing context, or a patient's status of having a disease in health-related applications.  The first phase of this research uses discrete count data modeled from the Poisson and negative binomial distributions in a healthcare setting.  Syndromic counts are currently monitored by the BioSense program within the Centers for Disease Control and Prevention (CDC) to provide real-time biosurveillance.  The Early Aberration Reporting System (EARS) uses recent baseline information comparatively with a current day's syndromic count to determine if outbreaks may be present.  An adaptive threshold method is proposed based on fitting baseline data to a parametric distribution, then calculating an upper-tailed p-value.  These statistics are then converted to an approximately standard normal random variable.  Monitoring is examined for independent and identically distributed data as well as data following several seasonal patterns.  An exponentially weighted moving average (EWMA) chart is also used for these methods.  The effectiveness of these methods in detecting simulated outbreaks in several sensitivity analyses is evaluated.  The second phase of research explored in this dissertation considers information that can be classified as a binary event.  In industry, it is desirable to have the probability of a nonconforming item, p, be extremely small.  Traditional Shewhart charts such as the p-chart, are not reliable for monitoring this type of process.  A comprehensive literature review of control chart procedures for this type of process is given.  The equivalence between two cumulative sum (CUSUM) charts, based on geometric and Bernoulli random variables is explored.  An evaluation of the unit and group--runs (UGR) chart is performed, where it is shown that the in--control behavior of this chart is quite misleading and should not be recommended for practitioners.",
+  "description_provenance": [
+    "Author Email: szarkajl@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Advisor Email: leman@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:50Z (GMT). No. of bitstreams: 7 Szarka_JL_D_2011_Copyright1.pdf: 307311 bytes, checksum: 3f7a33b04fef9e8f929d24dab05fa0ec (MD5) Szarka_JL_D_2011_Copyright2.pdf: 1284313 bytes, checksum: e758a979f92522588f701deaf54956e3 (MD5) Szarka_JL_D_2011_Copyright3.pdf: 373823 bytes, checksum: 167ca1769ec06c0cf603efeaef02df23 (MD5) Szarka_JL_D_2011_Copyright4.pdf: 1390834 bytes, checksum: 77acb95967ecd2c24bbbc442794ae4b0 (MD5) Szarka_JL_D_2011_Copyright5.pdf: 1026406 bytes, checksum: b69390f6ee523cbc2bfd78dc24ac9f31 (MD5) Szarka_JL_D_2011_Copyright6.pdf: 762445 bytes, checksum: c11aa686ccad8cf788322032caf48567 (MD5) Szarka_JL_D_2011.pdf: 1187851 bytes, checksum: d94b6b7f1dbd20b5fc0f662ecac21b52 (MD5)   Previous issue date: 2011-03-25"
+  ],
+  "handle": "26617",
+  "identifier_other": "etd-04032011-231554",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04032011-231554/",
+  "identifier_uri": "http://hdl.handle.net/10919/26617",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Szarka_JL_D_2011_Copyright1.pdf",
+    "Szarka_JL_D_2011_Copyright2.pdf",
+    "Szarka_JL_D_2011_Copyright3.pdf",
+    "Szarka_JL_D_2011_Copyright4.pdf",
+    "Szarka_JL_D_2011_Copyright5.pdf",
+    "Szarka_JL_D_2011_Copyright6.pdf",
+    "Szarka_JL_D_2011.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Adaptive threshold",
+    "High quality processes",
+    "Statistical process control",
+    "CUSUM charts",
+    "Biosurveillance",
+    "W2 method",
+    "UGR chart",
+    "Attributes data"
+  ],
+  "title": "Surveillance of Negative Binomial and Bernoulli Processes",
+  "type": "Dissertation"
+}

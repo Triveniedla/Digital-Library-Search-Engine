@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Young, Alexander Rian",
+  "contributor_committeechair": "Bostian, Charles W",
+  "contributor_committeemember": [
+    "Reed, Jeffrey H",
+    "Meehan, Kathleen",
+    "Woolsey, Craig A.",
+    "Pratt, Timothy"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-03-23T08:00:12Z",
+  "date_available": "2013-03-23T08:00:12Z",
+  "date_issued": "2013-03-22",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation presents the theory, design, implementation and successful deployment of a cognitive engine decision algorithm by which a cognitive radio-equipped mobile robot may adapt its motion and radio parameters through multi-objective optimization. This provides a proof-of-concept prototype cognitive system that is aware of its envirionment, its userâ •s needs, and the rules governing its operation. It is to take intelligent action based on this awareness to optimize its performance across both the mobility and radio domains while learning from experience and responding intelligently to ongoing environmental mission changes. The prototype combines the key features of cognitive radios and autonomous vehicles into a single package whose behavior integrates the essential features of both.<br /><br />The use case for this research is a scenario where a small unmanned aerial vehicle (UAV) is traversing a nominally cyclic or repeating flight path (an â •orbitâ •) seeking to observe targets and where possible avoid hostile agents. As the UAV traverses the path, it experiences varying RF effects, including multipath propagation and terrain shadowing. The goal is to provide the capability for the UAV to learn the flight path with respect both to motion and RF characteristics and modify radio parameters and flight characteristics proactively to optimize performance. Using sensor fusion techniques to develop situaitonal awareness, the UAV should be able to adapt its motion or communication based on knolwedge of (but not limited to) physical location, radio performance, and channel conditions. Using sensor information from RF and mobility domains, the UAV uses the mission objectives and its knowledge of the world to decide on a course of action. The UAV develops and executes a multi-domain action; action that crosses domains, such as changing RF power and increasing its speed.<br /><br />This research is based on a simple observation, namely that cognitive radios and autonomous vehicles perform similar tasks, albeit in different domains. Both analyze their environment, make and execute a decision, evaluate the result (learn from experience), and repeat as required. This observation led directly to the creation of a single intelligent agent combining cognitive radio and autonomous vehicle intelligence with the ability to leverage flexibility in the radio frequency (RF) and motion domains. Using a single intelligent agent to optimize decision making across both mobility and radio domains is unified multi-domain decision making (UMDDM).",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-23T08:00:12Z (GMT). No. of bitstreams: 2 Young_AR_D_2013.pdf: 2962000 bytes, checksum: 41002702c416e8c52d7f321d76e8676b (MD5) Young_AR_D_2013_support_1.docx: 19636 bytes, checksum: a5766541de697dd716b99bd8a8844c71 (MD5)   Previous issue date: 2013-03-22",
+  "format_medium": "ETD",
+  "handle": "19295",
+  "identifier_other": "vt_gsexam:62",
+  "identifier_uri": "http://hdl.handle.net/10919/19295",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Cognitive Radio",
+    "Autonomous Vehicles",
+    "Multi-domain Decision Making",
+    "Multi-objective Optimization"
+  ],
+  "title": "Unified Multi-domain Decision Making: Cognitive Radio and Autonomous Vehicle Convergence",
+  "type": "Dissertation"
+}

@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Dong, Ming",
+  "contributor_committeechair": "Chen, Fengshan Frank",
+  "contributor_committeemember": [
+    "Bish, Ebru K.",
+    "Sarin, Subhash C.",
+    "Huang, Philip Y.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:37Z",
+  "date_adate": "2001-08-27",
+  "date_available": "2014-03-14T20:15:37Z",
+  "date_issued": "2001-07-27",
+  "date_rdate": "2002-08-27",
+  "date_sdate": "2001-08-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Supply chain management has been recently introduced to address the integration of organizational functions ranging from the ordering and receipt of raw materials throughout the manufacturing processes, to the distribution and delivery of products to the customer. Its application demonstrates that this idea enables organizations to achieve higher quality products, better customer service, and lower inventory cost.   In order to achieve high performance, supply chain functions must operate in an integrated and coordinated manner. Several challenging problems associated with integrated supply chain design are: (1) how to model and coordinate the supply chain business processes, specifically in the area of supply chain workflows; (2) how to analyze the performance of an integrated supply chain network so that optimization techniques can be employed to improve customer service and reduce inventory cost; and (3) how to evaluate dynamic supply chain networks and obtain a comprehensive understanding of decision-making issues related to supply network configurations. These problems are most representative in the supply chain theory's research and applications.   There are three major objectives for this research. The first objective is to develop viable modeling methodologies and analyzing algorithms for supply chain business processes so that the logic properties of supply chain process models can be analyzed and verified. This problem has not been studied in integrated supply chain literature to date. To facilitate the modeling and verification analysis of supply chain workflows, an object-oriented Petri nets based modular modeling and analyzing approach is presented. The proposed, structured, process-modeling algorithm provides an effective way to design structured supply chain business processes.   The second objective is to develop a network of inventory-queue models for the performance analysis and optimization of an integrated supply network with inventory control at all sites. An inventory-queue is a queueing model that incorporates an inventory replenishment policy for the output store. This dissertation extends the previous work done on the supply network model with base-stock control and service requirements. Instead of one-for-one base stock policy, batch-ordering policy and lot-sizing problems are considered. To determine the replenishment lead times of items at the stores, a fixed-batch target-level production authorization mechanism is employed to explicitly obtain performance measures of the supply chain queueing model. The validity of the proposed model is illustrated by comparing the results from the analytical performance evaluation model and those obtained from the simulation study.  The third objective is to develop simulation models for understanding decision-making issues of the supply chain network configuration in an integrated environment. Simulation studies investigate multi-echelon distribution systems with installation stock reorder policy and echelon stock reorder policy. The results show that, depending on the structure of multi-echelon distribution systems, either echelon stock or installation stock policy may be advantageous. This dissertation presents a new transshipment policy, called \"alternate transshipment policy,\" to improve supply chain performance.  In an integrated supply chain network that considers both the distribution function and the manufacturing function, the impacts of component commonality on network performance are also evaluated.  The results of analysis-of-variance and Tukey's tests reveal that there is a significant difference in performance measures, such as delivery time and order fill rates, when comparing an integrated supply chain with higher component commonality to an integrated supply chain with lower component commonality.   Several supply chain network examples are employed to substantiate the effectiveness of the proposed methodologies and algorithms.",
+  "description_provenance": [
+    "Author Email: mdong@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: phhuang@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:37Z (GMT). No. of bitstreams: 7 Chapters_3-4.pdf: 250864 bytes, checksum: ea0e79cac640cf3988d0ef0d4e8f8437 (MD5) Chapters_1-2.pdf: 148632 bytes, checksum: b5571dd2257647c92e9d714f1d1c81e2 (MD5) Chapter_8.PDF: 134149 bytes, checksum: 29b981f83a0e80071d97c07298b515df (MD5) Chapter_7_Part_3.pdf: 342805 bytes, checksum: 3ee61e6d2c52898b7d5ccfe21e7c1c66 (MD5) Chapter_7_Part_2.pdf: 274611 bytes, checksum: 9a6c8485c611d4e81ab0e61700aa880b (MD5) Chapter_7_Part_1.pdf: 249151 bytes, checksum: 3a8be721da148a6537cc1fd02b2ee2f4 (MD5) Chapters_5-6.PDF: 201773 bytes, checksum: edadc9e1fca390e6be3303d6883aab5a (MD5)   Previous issue date: 2001-07-27"
+  ],
+  "handle": "28779",
+  "identifier_other": "etd-08242001-102340",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08242001-102340/",
+  "identifier_uri": "http://hdl.handle.net/10919/28779",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapters_3-4.pdf",
+    "Chapters_1-2.pdf",
+    "Chapter_8.PDF",
+    "Chapter_7_Part_3.pdf",
+    "Chapter_7_Part_2.pdf",
+    "Chapter_7_Part_1.pdf",
+    "Chapters_5-6.PDF"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "configuration simulation",
+    "Process modeling",
+    "integrated supply chain network design",
+    "performance analysis"
+  ],
+  "title": "Process Modeling, Performance Analysis and Configuration Simulation in Integrated Supply Chain Network Design",
+  "type": "Dissertation"
+}

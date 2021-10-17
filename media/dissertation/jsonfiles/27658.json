@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Singh, Hitendra Kumar",
+  "contributor_committeechair": "Dillard, David A.",
+  "contributor_committeemember": [
+    "Case, Scott W.",
+    "Thangjitham, Surot",
+    "Dillard, John G.",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:11:52Z",
+  "date_adate": "2009-06-09",
+  "date_available": "2014-03-14T20:11:52Z",
+  "date_issued": "2009-04-29",
+  "date_rdate": "2010-06-09",
+  "date_sdate": "2009-05-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Polymer electrolyte membrane (PEM) fuel cell (FC) stacks require elastomeric gaskets for each cell to keep the reactant gases within their respective regions[1]. If any gasket degrades or fails, the reactant gases can leak or mix with each other directly during operation or standby, affecting the overall operation and performance of the FC. The elastomeric gaskets used as FC seals are exposed to a range of environmental conditions, and concurrently, subjected to mechanical compression between the bipolar plates forming the cell. The combination of mechanical stress and environmental exposure may result in degradation of the seal material[2] over a period of time. In order to address the durability and make reliability predictions, the long-term stability of the gaskets in FC assemblies is critical. The aim of this study is to investigate the performance of elastomeric seals in a simulated FC environment in the presence of mechanical stresses. The overall scope of the study includes mechanical and viscoelastic properties characterization, and lifetime durability predictions based on an accelerated characterization approach.  </p> <p>      With the help of finite element analysis software, ABAQUS, a fixture was designed to perform strain-based accelerated characterization of seal material in air, deionized (DI) water, 50v/50v ethylene glycol/water solution, and 0.1M sulfuric acid solution. Dogbone samples were strained to different levels in the custom fixture and submerged in liquid solutions at 90oC and in air at 90oC and 120oC. It was observed that mechanical properties such as tensile strength, strain to break, 100% modulus, crosslink density, and tensile set degrade due to aging and the extent of change (increase or decrease) depends significantly on the strain level on the specimen.    </p> <p>     Trouser tear tests were conducted on reinforced specimens in air and deionized water (DI) to evaluate the tear resistance of an elastomeric seal material intended for proton exchange membrane fuel cells. Plots relating the crack growth rate with tearing energy were obtained at various temperatures and provided significant insight into the rate and temperature dependence of the tearing strength of the seal material. Stick-slip crack propagation was observed at all temperatures and loading rates, although the behavior was suppressed significantly at low loading rates and high temperatures. Crack growth rate versus tearing energy data at different temperatures was shifted to construct a master curve and an estimate on the threshold value of tear energy was obtained which may be helpful in designing components where material tear is of concern. Strain energy release rate (SERR) value, calculated using the J-integral approach for a pre-existing crack in ABAQUS, was used to estimate the crack growth rate in a given seal cross-section to predict lifetime.   </p> <p>     In order to assess the viscoelastic behavior and to investigate the long term stress relaxation behavior of the seal material, compression stress relaxation (CSR) tests were performed on molded seals, called as SMORS, over a range of environmental conditions using a custom-designed fixture. The effect of temperature and environment was evident on material property changes and presented in terms of momentary properties and stress relaxation behavior. Various mechanisms involved in material degradation, chain scission and crosslinking, were suggested and insights were gained into how cure state and level of antidegradants in a material dictate the material behavior during the first phase of environmental exposure leading to change in material properties. Ring samples made of silicone were also tested using the fixture to obtain insight additional into material degradation due to aging.  Results presented from testing on SMORS showed a lot more variation in data as compared to neat silicone rings due to the complexity involved in making SMORS.    </p> <p>     For understanding the deformation behavior of an elastomeric seal and its sealing performance, finite element characterization of seal cross-section was carried out on O-ring and SMORS cross-section. The effect of a sealâ  s layout on distribution and magnitude of contact stresses and contact width was investigated for the O-ring and the information obtained thereby helped to analyze a complex assembly such as SMORS, where several interfaces and boundary conditions are involved. Stress/strain profiles were generated to visualize their concentration and distribution in the seal cross-section. Frictionless and rough interfacial conditions between seal material and platens were assumed and it was found that its effect on contact width and peak contact pressure was insignificant. Results obtained from FEA on SMORS were validated through comparison with contact mechanics approach and experimental data and it was found that Lindleyâ  s equation correlates well with experimental data whereas ABAQUS overestimates the load values at a given compression. Lindleyâ  s approach may be used to develop contact pressure profiles that may help estimate peak contact pressure at a given time so leaking can be avoided.</p>",
+  "description_provenance": [
+    "Author Email: hisingh@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: dillardj@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: dillard@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:52Z (GMT). No. of bitstreams: 1 SinghDissertation.pdf: 11036989 bytes, checksum: c406a327b6b567c81aef77c5e87854ab (MD5)   Previous issue date: 2009-04-29"
+  ],
+  "handle": "27658",
+  "identifier_other": "etd-05112009-131323",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05112009-131323/",
+  "identifier_uri": "http://hdl.handle.net/10919/27658",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SinghDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Strain Energy Release Rate",
+    "Stick-slip",
+    "Viscoelastic",
+    "Degradation",
+    "Polymer Electrolyte Membrane Fuel Cell (PEMFC)",
+    "Elastomeric Seals",
+    "Stress Relaxation",
+    "Durability",
+    "Lifetime Prediction."
+  ],
+  "title": "Lifetime Prediction and Durability of Elastomeric Seals for Fuel Cell Applications",
+  "type": "Dissertation"
+}

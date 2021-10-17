@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Qin, Zhanming",
+  "contributor_committeechair": "Librescu, Liviu",
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Thangjitham, Surot",
+    "Batra, Romesh C.",
+    "Gao, David Y."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:17:24Z",
+  "date_adate": "2001-10-17",
+  "date_available": "2014-03-14T20:17:24Z",
+  "date_issued": "2001-10-02",
+  "date_rdate": "2002-10-17",
+  "date_sdate": "2001-10-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Based on a refined analytical anisotropic thin-walled beam model, aeroelastic instability, dynamic aeroelastic response, active/passive aeroelastic control of advanced aircraft wings modeled as thin-walled beams are systematically addressed. The refined thin-walled beam model is based on an existing framework of the thin-walled beam model and a couple of non-classical effects that are usually also important are incorporated and the model herein developed is validated against the available experimental, Finite Element Anaylsis (FEA), Dynamic Finite Element (DFE), and other analytical predictions. The concept of indicial functions is used to develop unsteady aerodynamic model, which broadly encompasses the cases of incompressible, compressible subsonic, compressible supersonic and hypersonic flows. State-space conversion of the indicial function based unsteady aerodynamic model is also developed. Based on the piezoelectric material technology, a worst case control strategy based on the minimax theory towards the control of aeroelastic systems is further developed. Shunt damping within the aeroelastic tailoring environment is also investigated. The major part of this dissertation is organized in the form of self-contained chapters, each of which corresponds to a paper that has been or will be submitted to a journal for publication. In order to fullfil the requirement of having a continuous presentation of the topics, each chapter starts with the purely structural models and is gradually integrated with the involved interactive field disciplines.",
+  "description_provenance": [
+    "Author Email: zqin@vt.edu",
+    "Advisor Email: librescu@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:24Z (GMT). No. of bitstreams: 1 thesis.pdf: 4016361 bytes, checksum: 2e18cf88c5bc157fae36091c584683a5 (MD5)   Previous issue date: 2001-10-02"
+  ],
+  "handle": "29283",
+  "identifier_other": "etd-10162001-114529",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10162001-114529/",
+  "identifier_uri": "http://hdl.handle.net/10919/29283",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Aeroelastic Instabilities",
+    "Passive/Active Control",
+    "Aeroelasticity",
+    "Thin-Walled Beam",
+    "Dynamics"
+  ],
+  "title": "Vibration and Aeroelasticity of Advanced Aircraft Wings Modeled as Thin-Walled Beams--Dynamics, Stability and Control",
+  "type": "Dissertation"
+}

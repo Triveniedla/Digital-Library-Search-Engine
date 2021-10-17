@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Lai, Shouwen",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Plassmann, Paul E.",
+    "Hou, Yiwei Thomas",
+    "Vullikanti, Anil Kumar S.",
+    "Yang, Yaling"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:58Z",
+  "date_adate": "2010-05-06",
+  "date_available": "2014-03-14T20:10:58Z",
+  "date_issued": "2010-04-26",
+  "date_rdate": "2010-05-06",
+  "date_sdate": "2010-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In order to save energy consumption in idle states, low duty-cycled operation is widely used in Wireless Sensor Networks (WSNs), where each node periodically switches between sleeping mode and awake mode. Although efficient toward saving energy, duty-cycling causes many challenges, such as difficulty in neighbor discovery due to asynchronous wakeup/sleep scheduling, time-varying transmission latencies due to varying neighbor discovery latencies, and difficulty on multihop broadcasting due to non-simultaneous wakeup in neighborhood. This dissertation focuses on this problem space. Specifically, we focus on three co-related problems in duty-cycled WSNs: wakeup scheduling, routing and broadcasting.    We propose an asynchronous quorum-based wakeup scheduling scheme, which optimizes heterogenous energy saving ratio and achieves bounded neighbor discovery latency, without requiring time synchronization. Our solution is based on quorum system design. We propose two designs: cyclic quorum system pair (cqs-pair) and grid quorum system pair (gqs-pair). We also present fast offline construction algorithms for such designs. Our analytical and experimental results show that cqs-pair and gqs-pair achieve better trade-off between the average discovery delay and energy consumption ratio. We also study asymmetric quorum-based wakeup scheduling for two-tiered network topologies for further improving energy efficiency.    Heterogenous duty-cycling causes transmission latencies to be time-varying. Hence, the routing problem becomes more complex when the time domain must be considered for data delivery in duty-cycled WSNs. We formulate the routing problem as time-dependent Bellman-Ford problem, and use vector representation for time-varying link costs and end-to-end (E2E) distances. We present efficient algorithms for route construction and maintenance, which have bounded time and message complexities in the worst case by ameliorating with beta-synchronizer.   Multihop broadcast is complex in duty-cycled WSNs due to non simultaneous wakeup in neighborhoods. We present Hybrid-cast, an asynchronous multihop broadcast protocol, which can be applied to low duty-cycling or quorum-based duty-cycling schedules, where nodes send out a beacon message at the beginning of wakeup slots. Hybrid-cast achieves better tradeoff between broadcast latency and broadcast count compared to previous broadcast solutions. It adopts opportunistic data delivery in order to reduce the broadcast latency. Meanwhile, it reduces redundant transmission via delivery deferring and online forwarder selection. We analytically establish the upper bound of broadcast count and the broadcast latency under Hybrid-cast.    To verify the feasibility, effectiveness, and performance of our solutions for asynchronous wakeup scheduling, we developed a prototype implementation using Telosb and TinyOS 2.0 WSN platforms. We integrated our algorithms with the existing protocol stack in TinyOS, and compared them with the CSMA mechanism. Our implementation measurements illustrate the feasibility, performance trade-off, and effectiveness of the proposed solutions for low duty-cycled WSNs.",
+  "description_provenance": [
+    "Author Email: swlai@vt.edu",
+    "Advisor Email: plassmann@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: akumar@vbi.vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:58Z (GMT). No. of bitstreams: 1 Lai_Shouwen_D_2010.pdf: 1264283 bytes, checksum: 82dbd42eca06510ab80e28d4d2e0b77c (MD5)   Previous issue date: 2010-04-26"
+  ],
+  "handle": "27333",
+  "identifier_other": "etd-04262010-160152",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262010-160152/",
+  "identifier_uri": "http://hdl.handle.net/10919/27333",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lai_Shouwen_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Wireless Sensor Network",
+    "Duty Cycle",
+    "MAC",
+    "Routing",
+    "Broadcast",
+    "Quorum System"
+  ],
+  "title": "Duty-Cycled Wireless Sensor Networks: Wakeup Scheduling, Routing, and Broadcasting",
+  "type": "Dissertation"
+}

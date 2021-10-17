@@ -1,0 +1,36 @@
+{
+  "contributor_author": "DeBrunner, Linda Sumners",
+  "contributor_committeechair": "Gray, Festus Gail",
+  "contributor_committeemember": [
+    "Armstrong, James R.",
+    "Boisen, Monte B. Jr.",
+    "Nunnally, Charles E.",
+    "VanLandingham, Hugh F."
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:17:19Z",
+  "date_adate": "2005-10-12",
+  "date_available": "2014-03-14T20:17:19Z",
+  "date_issued": "1991-07-05",
+  "date_rdate": "2012-07-11",
+  "date_sdate": "2005-10-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Three models are proposed to evaluate and design distributed reconfigurable systems for fault tolerant, highly reliable applications. These models serve as valuable tools for developing fault tolerant systems. In each model, cells work together in parallel to change the global structure through a series of separate actions. In the Local Supervisor Model (LSM), selected cells guide the reconfiguration process. In the Tessellation Automata Model (TAM), each cell determines its next state based on its state and its neighbors' states, and communicates its state information to its neighbors. In the Interconnected Finite State Machine Model (IFS:MM:), each cell determines its next state and outputs based on its state and its inputs.<p> The hierarchical nature of the TAM and IFSMM provides advantages in evaluating, comparing, and designing systems. The use of each of these models in describing systems is demonstrated. The IFSMM: is emphasized since it is the most versatile of the three models. The IFSMM: is used to identify algorithm weaknesses and improvements, compare existing algorithms, and develop a novel design for a reconfigurable hypercube.",
+  "description_provenance": [
+    "Author Email: linda.debrunner@fsu.edu",
+    "Made available in DSpace on 2014-03-14T20:17:19Z (GMT). No. of bitstreams: 1 LD5655.V856_1991.D427.pdf: 10100940 bytes, checksum: 92736d2ee04204039b6419a31e49213e (MD5)   Previous issue date: 1991-07-05"
+  ],
+  "format_medium": "BTD",
+  "handle": "29254",
+  "identifier_other": "etd-10122005-134433",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10122005-134433/",
+  "identifier_uri": "http://hdl.handle.net/10919/29254",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1991.D427.pdf",
+  "subject": "Fault-tolerant computing",
+  "subject_lcc": "LD5655.V856 1991.D427",
+  "title": "Modeling reconfiguration algorithms for regular architecture",
+  "type": "Dissertation"
+}

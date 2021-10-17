@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Refaei, Mohamed  Tamer",
+  "contributor_committeechair": "DaSilva, Luiz A.",
+  "contributor_committeemember": [
+    "Tranter, William H.",
+    "Eltoweissy, Mohamed Y.",
+    "Midkiff, Scott F.",
+    "Park, Jung-Min Jerry",
+    "Chen, Ing-Ray"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:36Z",
+  "date_adate": "2007-05-09",
+  "date_available": "2014-03-14T20:07:36Z",
+  "date_issued": "2007-02-02",
+  "date_rdate": "2007-05-09",
+  "date_sdate": "2007-02-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An ad hoc network adopts a decentralized unstructured networking model that depends on node cooperation for key network functionalities such as routing and medium access.  The significance of node cooperation in ad hoc networks makes network survival particularly sensitive to insider node behavior.  The presence of selfish or malicious nodes in an ad hoc network could greatly degrade the network performance and might even result in a total communication breakdown. Consequently, it is important for both security and performance reasons to discourage, expose, and react to such damaging misbehavior.  Reputation management systems have been proposed to mitigate against such misbehavior in ad hoc networks.  The functions of a reputation management system are to evaluate nodesâ   quality of behavior based on their cooperation (evaluation), distinguish between well-behaved and misbehaving nodes (detection), and appropriately react to misbehaving nodes (reaction).  A significant number of reputation management systems have been proposed for ad hoc networks to date.  However, there has been no attempt to consolidate all current research into a formal framework for reputation management systems.  The lack of a formal framework is a potential weakness of the research field.  For example, a formal comparison of proposed reputation management systems has remained difficult, mainly due to the lack of a formal framework upon which the comparison could be based.  There is also a lack of formal metrics that could be used for quantitative evaluation and comparison of reputation management systems.   Another major shortcoming in this research field is the assumption that the functions of reputation management (evaluation, detection, and reaction) are carried out homogeneously across time and space at different nodes.  The dynamic nature of ad hoc networks causes node behavior to vary spatially and temporally due to changes in the local and network-wide conditions.  Reputation management functions do not adapt to such changes, which may impact the system accuracy and promptness.  We herein recognize an adaptive reputation management system as one where nodes carry out the reputation management functions heterogeneously across time and space according to the instantaneous perception of each of its surrounding network conditions.   In this work, we address the above concerns.  We develop a formal framework for reputation management systems upon which design, evaluation, and comparison of reputation management systems can be based.  We define and discuss the different components of the framework and the interactions among them.  We also define formal metrics for evaluation of reputation management systems.  The metrics assess both, the effectiveness (security issues) of a reputation management system in detecting misbehavior and limiting its negative impact on the network, and its efficiency (performance issues) in terms of false positives and overhead exerted by the reputation management system on the network.  We also develop ARMS, an autonomous reputation management system, based on the formal framework.  The theoretical foundation of ARMS is based on the theory of Sequential Probability Ratio Test introduced by Wald.  In ARMS, nodes independently and without cooperation manage their reputation management system functions.  We then use ARMS to investigate adaptation in reputation management systems.  We discuss some of the characteristics of an adaptive reputation management system such as sensitivity, adaptability, accuracy, and promptness.  We consider how the choice of evaluation metric, typically employed by the evaluation function for assessment of node behavior, may impact the sensitivity and accuracy of node behavior evaluation.  We evaluate the sensitivity and accuracy of node behavior evaluation using a number of metrics from the network and medium access layer.  We then introduce a time-slotted approach to enhance the sensitivity of the evaluation function and show how the duration of an evaluation slot can adapt according to the network activity to enhance the system accuracy and promptness.  We also show how the detection function can adapt to the network conditions by using the nodeâ  s own behavior as a benchmark to set its detection parameters.  To the best of our knowledge, this is the first work to explore the adaptation of the reputation management functions in ad hoc networks.",
+  "description_provenance": [
+    "Author Email: mtamer@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: toweissy@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Advisor Email: irchen@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:36Z (GMT). No. of bitstreams: 1 Dissertation_All_8.pdf: 1364396 bytes, checksum: 6547321e6820bf842bd3dab7380cc6ae (MD5)   Previous issue date: 2007-02-02"
+  ],
+  "handle": "26238",
+  "identifier_other": "etd-02182007-235056",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02182007-235056/",
+  "identifier_uri": "http://hdl.handle.net/10919/26238",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_All_8.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "reputation management",
+    "ad hoc network security",
+    "node misbehavior"
+  ],
+  "title": "Adaptation in Reputation Management Systems for Ad hoc Networks",
+  "type": "Dissertation"
+}

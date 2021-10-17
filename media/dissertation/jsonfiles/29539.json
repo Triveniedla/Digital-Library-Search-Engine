@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Ahuja, Kapil",
+  "contributor_committeechair": "de Sturler, Eric",
+  "contributor_committeemember": [
+    "Beattie, Christopher A.",
+    "Borggaard, Jeffrey T.",
+    "Ceperley, David M.",
+    "Rossi, John F.",
+    "Gugercin, Serkan"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:18:26Z",
+  "date_adate": "2011-11-15",
+  "date_available": "2014-03-14T20:18:26Z",
+  "date_issued": "2011-10-10",
+  "date_rdate": "2011-11-15",
+  "date_sdate": "2011-11-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Science and engineering problems frequently require solving a sequence of single linear systems or a sequence of dual linear systems. We develop algorithms that recycle Krylov subspaces and preconditioners from one system (or pair of systems) in the sequence to the next, leading to efficient solutions.  <br> <br> Besides the benefit of only having to store few Lanczos vectors, using BiConjugate Gradients (BiCG) to solve dual linear systems may have application-specific advantages. For example, using BiCG to solve the dual linear systems arising in interpolatory model reduction provides a backward error formulation in the model reduction framework. Using BiCG to evaluate bilinear forms -- for example, in the variational Monte Carlo (VMC) algorithm for electronic structure calculations -- leads to a quadratic error bound. Since one of our focus areas is sequences of dual linear systems, we introduce recycling BiCG, a BiCG method that recycles two Krylov subspaces from one pair of dual linear systems to the next pair. The derivation of recycling BiCG also builds the foundation for developing recycling variants of other bi-Lanczos based methods like CGS, BiCGSTAB, BiCGSTAB2, BiCGSTAB(l), QMR, and TFQMR.   <br> <br> We develop a generalized bi-Lanczos algorithm, where the two matrices of the bi-Lanczos procedure are not each other's conjugate transpose but satisfy this relation over the generated Krylov subspaces. This is sufficient for a short term recurrence. Next, we derive an augmented bi-Lanczos algorithm with recycling and show that this algorithm is a special case of generalized bi-Lanczos. The Petrov-Galerkin approximation that includes recycling in the iteration leads to modified two-term recurrences for the solution and residual updates.  <br> <br> We generalize and extend the framework of our recycling BiCG to CGS, BiCGSTAB and BiCGSTAB2. We perform extensive numerical experiments and analyze the generated recycle space. We test all of our recycling algorithms on a discretized partial differential equation (PDE) of convection-diffusion type. This PDE problem provides well-known test cases that are easy to analyze further. We use recycling BiCG in the Iterative Rational Krylov Algorithm (IRKA) for interpolatory model reduction and in the VMC algorithm. For a model reduction problem, we show up to 70% savings in iterations, and we also demonstrate that solving the problem without recycling leads to (about) a 50% increase in runtime. Experiments with recycling BiCG for VMC gives promising results.  <br> <br> We also present an algorithm that recycles preconditioners, leading to a dramatic reduction in the cost of VMC for large(r) systems. The main cost of the VMC method is in constructing a sequence of Slater matrices and computing the ratios of determinants for successive Slater matrices. Recent work has improved the scaling of constructing Slater matrices for insulators, so that the cost of constructing Slater matrices in these systems is now linear in the number of particles. However, the cost of computing determinant ratios remains cubic in the number of particles. With the long term aim of simulating much larger systems, we improve the scaling of computing determinant ratios in the VMC method for simulating insulators by using preconditioned iterative solvers.  <br> <br> The main contribution here is the development of a method to efficiently compute for the Slater matrices a sequence of preconditioners that make the iterative solver converge rapidly. This involves cheap preconditioner updates, an effective reordering strategy, and a cheap method to monitor instability of ILUTP preconditioners. Using the resulting preconditioned iterative solvers to compute determinant ratios of consecutive Slater matrices reduces the scaling of the VMC algorithm from O(n^3) per sweep to roughly O(n^2), where n is the number of particles, and a sweep is a sequence of n steps, each attempting to move a distinct particle. We demonstrate experimentally that we can achieve the improved scaling without increasing statistical errors.",
+  "description_provenance": [
+    "Author Email: kahuja@vt.edu",
+    "Advisor Email: sturler@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: ceperley@ncsa.uiuc.edu",
+    "Advisor Email: rossij@vt.edu",
+    "Advisor Email: gugercin@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:26Z (GMT). No. of bitstreams: 1 Ahuja_K_D_2011.pdf: 3188166 bytes, checksum: af4a6c142d3a6ef37831cf839236a811 (MD5)   Previous issue date: 2011-10-10"
+  ],
+  "handle": "29539",
+  "identifier_other": "etd-11112011-010340",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11112011-010340/",
+  "identifier_uri": "http://hdl.handle.net/10919/29539",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ahuja_K_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Variational Monte Carlo",
+    "Model reduction",
+    "Krylov subspace recycling",
+    "Updating preconditioners",
+    "Sequence of linear systems",
+    "Bi-Lanczos method",
+    "BiCG",
+    "Preconditioning"
+  ],
+  "title": "Recycling Krylov Subspaces and Preconditioners",
+  "type": "Dissertation"
+}

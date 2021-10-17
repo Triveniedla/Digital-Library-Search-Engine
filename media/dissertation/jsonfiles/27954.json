@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Afshari, Mana",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Kasarda, Mary E. F.",
+    "Tarazaga, Pablo A.",
+    "Ahmadian, Mehdi",
+    "Seidel, Gary D."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:44Z",
+  "date_adate": "2012-06-08",
+  "date_available": "2014-03-14T20:12:44Z",
+  "date_issued": "2012-05-25",
+  "date_rdate": "2013-06-08",
+  "date_sdate": "2012-06-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Structural Health Monitoring (SHM) is the implementation of damage detection and characterization algorithms using in vitro sensing and actuation for rapidly determining faults in structural systems before the damage leads to catastrophic failure. SHM systems provide near real time information on the state of the integrity of civil, mechanical and aerospace structures. A roadblock in implementing SHM systems in practice is the possibility of false positives introduced by environmental changes. In particular, temperature changes can cause many SHM algorithms to indicate damage when no damage exists. While several experimentally based efforts have been attempted to alleviate temperature effects on SHM algorithms, fundamental research on the effects of temperature on SHM has not been investigated.  The work presented in this dissertation composes of two main parts: the first part focuses on the experimental studies of different mechanical structures of aluminum beams, lug samples and railroad switch bolts. The experimental study of the aluminum lug samples and beams is done to propose and examine methods and models for in situ interrogation and detection of damage (in the form of a fatigue crack) in these specimen and to quantify the smallest detectable crack size in aluminum structures. This is done by applying the electrical impedance-based SHM method and using piezoceramic sensors and actuators. Moreover, in order to better extract the damage features from the measured electrical impedance, the ARX non-linear feature extraction is employed. This non-linear feature extraction, compared to the linear one, results in detection of damages in the micro-level size and improves the early detection of fatigue cracks in structures. Experimental results also show that the temperature variation is an important factor in the structural health monitoring applications and its effect on the impedance-based monitoring of the initiation and growth of fatigue cracks in the lug samples is experimentally investigated. The electrical impedance-based SHM technique is also applied in monitoring the loosening of bolted joints in a full-scale railroad switch and the sensitivity of this technique to different levels of loosening of the bolts is investigated.   The second part of the work presented here focuses on the analytical study and better understanding of the effect of temperature on the vibration-based SHM. This is done by analytical modeling of the vibratory response of an Euler-Bernoulli beam with two different support conditions of simply supported and clamped-clamped and with a single, non-breathing fatigue crack at different locations along the length of the beam. The effect of temperature variations on the vibratory response of the beam structure is modeled by considering the two effects of temperature-dependent material properties and thermal stress formations inside the structure. The inclusion of thermal effects from both of these points of view (i.e. material properties variations and generation of thermal stresses) as independent factors is investigated and justified by studying the formulations of Helmholtz free energy and stresses inside a body. The effect of temperature variations on the vibratory response of the cracked beam are then studied by integrating these two temperature-related effects into the analytical modeling. The effect of a growing fatigue crack as well as temperature variations and thermal loadings is then numerically studied on the deflection of the beam and the output voltage of a surface-bonded piezoceramic sensor.",
+  "description_provenance": [
+    "Author Email: afshari@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: pablot@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: gary.seidel@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:44Z (GMT). No. of bitstreams: 1  Afshari_M_D_2012.pdf: 3589122 bytes, checksum: cd07790bf15b6a2ebe606a85b32ebeec (MD5)    Previous issue date: 2012-05-25"
+  ],
+  "handle": "27954",
+  "identifier_other": "etd-06052012-122847",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06052012-122847/",
+  "identifier_uri": "http://hdl.handle.net/10919/27954",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Afshari_M_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Structural Health Monitoring",
+    "Vibrations",
+    "electrical Impedance",
+    "Thermal loading",
+    "Environmental factors",
+    "Crack modeling",
+    "Euler-Bernoulli beams"
+  ],
+  "title": "Vibration- and Impedance-based Structural Health Monitoring Applications and Thermal Effects",
+  "type": "Dissertation"
+}

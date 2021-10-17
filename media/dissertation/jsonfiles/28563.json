@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Maiti, Dipayan",
+  "contributor_committeechair": "Leman, Scotland C.",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "North, Christopher L.",
+    "House, Leanna L.",
+    "Kim, Inyoung",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:53Z",
+  "date_adate": "2012-08-23",
+  "date_available": "2014-03-14T20:14:53Z",
+  "date_issued": "2012-07-23",
+  "date_rdate": "2012-08-23",
+  "date_sdate": "2012-08-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Multiset Sampler [Leman et al., 2009] has previously been deployed and developed for efficient sampling from complex stochastic processes. We extend the sampler and the surrounding theory to model selection problems. In such problems efficient exploration of the model space becomes a challenge since independent and ad-hoc proposals might not be able to jointly propose multiple parameter sets which correctly explain a new pro- posed model. In order to overcome this we propose a multiset on the model space to en- able efficient exploration of multiple model modes with almost no tuning. The Multiset Model Selection (MSMS) framework is based on independent priors for the parameters and model indicators on variables. We show that posterior model probabilities can be easily obtained from multiset averaged posterior model probabilities in MSMS. We also obtain typical Bayesian model averaged estimates for the parameters from MSMS. We apply our algorithm to linear regression where it allows easy moves between parame- ter modes of different models, and in probit regression where it allows jumps between widely varying model specific covariance structures in the latent space of a hierarchical model. The Storytelling algorithm [Kumar et al., 2006] constructs stories by discovering and con- necting latent connections between documents in a network. Such automated algorithms often do not agree with userâ  s mental map of the data. Hence systems that incorporate feedback through visual interaction from the user are of immediate importance. We pro- pose a visual analytic framework in which such interactions are naturally incorporated in to the existing Storytelling algorithm through a redefinition of the latent topic space used in the similarity measure of the network. The document network can be explored us- ing the newly learned normalized topic weights for each document. Hence our algorithm augments the limitations of human sensemaking capabilities in large document networks by providing a collaborative framework between the underlying model and the user. Our formulation of the problem is a supervised topic modeling problem where the supervi- sion is based on relationships imposed by the user as a set of inequalities derived from tolerances on edge costs from inverse shortest path problem. We show a probabilistic modeling of the relationships based on auxiliary variables and propose a Gibbs sampling based strategy. We provide detailed results from a simulated data and the Atlantic Storm data set.",
+  "description_provenance": [
+    "Author Email: dipayanm@vt.edu",
+    "Advisor Email: leman@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: north@vt.edu",
+    "Advisor Email: lhouse@vt.edu",
+    "Advisor Email: inyoungk@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:53Z (GMT). No. of bitstreams: 1 Maiti_D_D_2012.pdf: 1609927 bytes, checksum: a4a7e282e40c19324a63848ed982ce76 (MD5)   Previous issue date: 2012-07-23"
+  ],
+  "handle": "28563",
+  "identifier_other": "etd-08072012-143006",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08072012-143006/",
+  "identifier_uri": "http://hdl.handle.net/10919/28563",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Maiti_D_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "supervised topic modeling",
+    "visual analytics",
+    "bayesian model averaging",
+    "Bayesian mode selection"
+  ],
+  "title": "Multiset Model Selection and Averaging, and Interactive Storytelling",
+  "type": "Dissertation"
+}

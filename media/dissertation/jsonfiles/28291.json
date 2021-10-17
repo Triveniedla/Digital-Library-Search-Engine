@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Barlow III, Fred D",
+  "contributor_committeechair": "Elshabini-Riad, Aicha A.",
+  "contributor_committeemember": [
+    "Sergent, Jerry E.",
+    "Besieris, Ioannis M.",
+    "Scales, Wayne A.",
+    "McGrath, James E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:59Z",
+  "date_adate": "1999-07-15",
+  "date_available": "2014-03-14T20:13:59Z",
+  "date_issued": "1999-06-14",
+  "date_rdate": "2000-07-15",
+  "date_sdate": "1999-07-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Current trends in electronics are toward the use of reduced voltages. In the past, 5 V and higher voltages have been the standard, however, currently, 3.3V and 2.5V circuits are becoming increasingly common. While the operating voltage is decreasing, electronic systems are becoming more complex. The net result is that in many, cases, the current required by the next generation of electronics will be far greater than in the past. These increased currents and low voltages pose dramatic problems for designers not the least of which is the effect of electronic packaging and circuit implementation on the overall power supply performance. In addition, for many applications, space and weight are at a premium and converters are needed to power low voltage circuit assemblies that are highly efficient, low in weight, and small in total height and foot print. This dissertation addresses these trends and needs through the design, fabrication and evaluation of a 3.3V DC/DC converter. Designs of 3.3V, 2.5V, and 1.5V are presented and evaluated while a 3.3V, 100 watt converter with a power density of 157 watts/in 3 has been fabricated and evaluated in a miniature form. This converter utilizes a implementation strategy developed by the author which was selected due to its ability to handle the current levels required and its compact size. Specific contributions of this work include: * Analysis of the effects of packaging on low voltage high current converters in order to provide a guideline for converter implementation. This analysis has been performed for 3.3 V, 2.5 V, and 1.5 V designs, respectively. * Development of high efficiency 2.5 V, 100 watt and 1.5 V, 75 watt designs based on previously reported half bridge topologies. * Development of a packaging strategy which allows the fabrication of low voltage compact converters with high efficiency. A 3.3 V converter has been fabricated and with the simulated data validated these experimental results. For very low (less than 50 watts and / or less than 10 amps) and high power levels (hundreds of amps or kilowatts), the implementation strategy is normally clear; PCB/IMS, and DBC respectively. However, for applications in the middle range of power or current level, the optimum implementation is often unclear. The question that this work seeks to answer is under what conditions are different implementation schemes most suitable.",
+  "description_provenance": [
+    "Author Email: fbarlow@vt.edu",
+    "Advisor Email: aicha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:59Z (GMT). No. of bitstreams: 1 ETD_Fred_D_Barlow_III.pdf: 16010218 bytes, checksum: 8f79bddfabb71d2ffec1eaac27b5d046 (MD5)   Previous issue date: 1999-06-14"
+  ],
+  "handle": "28291",
+  "identifier_other": "etd-071399-153442",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-071399-153442/",
+  "identifier_uri": "http://hdl.handle.net/10919/28291",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_Fred_D_Barlow_III.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "DC/DC Converters",
+    "Electronic Packaging",
+    "High Current"
+  ],
+  "title": "Electronic Packaging Strategies for High Current DC to DC Converters",
+  "type": "Dissertation"
+}

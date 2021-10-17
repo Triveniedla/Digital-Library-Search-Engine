@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Nithyanandam, Karthik",
+  "contributor_committeechair": "Pitchumani, Ranga",
+  "contributor_committeemember": [
+    "Roy, Christopher John",
+    "Ekkad, Srinath",
+    "Ball, Kenneth Steven",
+    "Mahajan, Roop L"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-06-11T08:00:12Z",
+  "date_available": "2013-06-11T08:00:12Z",
+  "date_issued": "2013-06-10",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Thermal energy storage (TES) in a concentrating solar power (CSP) plant allows for continuous operation even during times when solar radiation is not available, thus providing a reliable output to the grid. Energy can be stored either as sensible heat or latent heat, of which latent heat storage is advantageous due to its high volumetric energy density and the high Rankine cycle efficiency owing to the isothermal operation of latent thermal energy storage (LTES) system. Storing heat in the form of latent heat of fusion of a phase change material (PCM), in addition to sensible heat, significantly increases the energy density, thus potentially reducing the storage size and cost. However, a major technical barrier to the use of latent thermal energy of PCM is the high thermal resistance to energy transfer due to the intrinsically low thermal conductivity of PCMs, which is a particularly acute constraint during the energy discharge. Secondly, for integration of TES in CSP plants, it is imperative that the cyclic exergetic efficiency be high, among other requirements, to ensure that the energy extracted from the system is at the maximum possible temperature to achieve higher cycle conversion efficiency in the power block.<br />    The first objective is addressed through computational modeling and simulation to quantify the effectiveness of two different approaches to reduce the thermal resistance of PCM in a LTES, viz. (a) developing innovative, inexpensive and passive heat transfer devices that efficiently transfer large amount of energy between the PCM and heat transfer fluid (HTF) and (b) increase the heat transfer area of interaction between the HTF and PCM by incorporating the PCM mixture in small capsules using suitable encapsulation techniques.<br />    The second portion of the research focuses on numerical modeling of large scale latent thermal storage systems integrated to a CSP plant with the aforementioned enhancement techniques and cascaded with more than one PCM to maximize the exergetic efficiency. Based on systematic parametric analysis on the various performance metrics of the two types of LTES, feasible operating regimes and design parameters are identified to meet the U.S. Department of Energy SunShot Initiative requirements including storage cost < $15/kWht and exergetic efficiency > 95%, for a minimum storage capacity of 14 h, in order to reduce subsidy-free levelized cost of electricity (LCE) of CSP plants from 21¢/kWh (2010 baseline) to 6¢/kWh, to be on par with the LCE associated with fossil fuel plants. <br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-11T08:00:12Z (GMT). No. of bitstreams: 1 Nithyanandam_K_D_2013.pdf: 6194483 bytes, checksum: 941dfc2dfaf18964bc8785015f5c91a3 (MD5)   Previous issue date: 2013-06-10",
+  "format_medium": "ETD",
+  "handle": "23189",
+  "identifier_other": "vt_gsexam:1013",
+  "identifier_uri": "http://hdl.handle.net/10919/23189",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "concentrating solar power",
+    "power tower",
+    "molten salt",
+    "thermal energy storage",
+    "heat pipes",
+    "encapsulated phase change material",
+    "sys"
+  ],
+  "title": "Investigations on Latent Thermal Energy Storage for Concentrating Solar Power",
+  "type": "Dissertation"
+}

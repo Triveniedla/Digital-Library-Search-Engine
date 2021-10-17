@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Cruz, Juan Ramón",
+  "contributor_committeecochair": [
+    "Haftka, Raphael T.",
+    "Mason, William H."
+  ],
+  "contributor_committeemember": [
+    "Grossman, Bernard M.",
+    "Scott, Elaine P.",
+    "Johnson, Eric R."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:56Z",
+  "date_adate": "2003-04-21",
+  "date_available": "2014-03-14T20:09:56Z",
+  "date_issued": "2003-04-04",
+  "date_rdate": "2004-04-21",
+  "date_sdate": "2003-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An investigation was conducted to assess the usefulness of anti-optimization in the process of validating of aerodynamic codes.  Anti-optimization is defined here as the intentional search for regions where the computational and experimental results disagree.  Maximizing such disagreements can be a useful tool in uncovering errors and/or weaknesses in both analyses and experiments.  \tThe codes chosen for this investigation were an airfoil code and a lifting line code used together as an analysis to predict three-dimensional wing aerodynamic coefficients.  The parameter of interest was the maximum lift coefficient of the three-dimensional wing, CL max.  The test domain encompassed Mach numbers from 0.3 to 0.8, and Reynolds numbers from 25,000 to 250,000.  \tA simple rectangular wing was designed for the experiment.  A wind tunnel model of this wing was built and tested in the NASA Langley Transonic Dynamics Tunnel.  Selection of the test conditions (i.e., Mach and Reynolds numbers) were made by applying the techniques of response surface methodology and considerations involving the predicted experimental uncertainty.  The test was planned and executed in two phases.  In the first phase runs were conducted at the pre-planned test conditions.  Based on these results additional runs were conducted in areas where significant differences in CL max were observed between the computational results and the experiment â   in essence applying the concept of anti-optimization.  These additional runs were used to verify the differences in CL max and assess the extent of the region where these differences occurred.  \tThe results of the experiment showed that the analysis was capable of predicting CL max to within 0.05 over most of the test domain.  The application of anti-optimization succeeded in identifying a region where the computational and experimental values of CL max differed by more than 0.05, demonstrating the usefulness of anti-optimization in process of validating aerodynamic codes.  This region was centered at a Mach number of 0.55 and a Reynolds number of 34,000.  Including considerations of the uncertainties in the computational and experimental results confirmed that the disagreement was real and not an artifact of the uncertainties.",
+  "description_provenance": [
+    "Author Email: j.r.cruz@larc.nasa.gov",
+    "Advisor Email: haftka@ufl.edu",
+    "Advisor Email: grossman@nianet.org",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: scottep@vt.edu",
+    "Advisor Email: erjohns4@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:56Z (GMT). No. of bitstreams: 1 JRC_PhD_V2.pdf: 4864793 bytes, checksum: fa94c91018c59080a084aa02855b575e (MD5)   Previous issue date: 2003-04-04"
+  ],
+  "handle": "26960",
+  "identifier_other": "etd-04182003-102409",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182003-102409/",
+  "identifier_uri": "http://hdl.handle.net/10919/26960",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JRC_PhD_V2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wind tunnel testing",
+    "design of experiments",
+    "anti-optimization",
+    "analysis validation",
+    "Mars airplanes",
+    "aerodynamics"
+  ],
+  "title": "An Application of Anti-Optimization in the Process of Validating Aerodynamic Codes",
+  "type": "Dissertation"
+}

@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Ricciardi, Anthony Pasquale",
+  "contributor_committeechair": [
+    "Canfield, Robert Arthur",
+    "Patil, Mayuresh J"
+  ],
+  "contributor_committeemember": [
+    "Watson, Layne T",
+    "Kapania, Rakesh K",
+    "Lindsley, Ned J."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-01-21T09:00:40Z",
+  "date_available": "2014-01-21T09:00:40Z",
+  "date_issued": "2014-01-20",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Aeroelastic scaling methodologies are developed for geometrically nonlinear applications.  The new methods are demonstrated by designing an aeroelastically scaled model of a suitably nonlinear full-scale joined-wing aircraft.  The best of the methods produce scaled models that closely replicate the target aeroelastic behavior.  Internal loads sensitivity studies show that internal loads can be insensitive to axial stiffness, even for globally indeterminate structures.  A derived transverse to axial stiffness ratio can be used as an indicator of axial stiffness importance.  Two findings of the work extend to geometrically linear applications: new sources of local optima are identified, and modal mass is identified as a scaling parameter.  Optimization procedures for addressing the multiple optima and modal mass matching are developed and demonstrated.  Where justified, limitations of commercial software are avoided through development of custom tools for structural analysis and sensitivities, aerodynamic analysis, and nonlinear aeroelastic trim.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-21T09:00:40Z (GMT). No. of bitstreams: 1 Ricciardi_AP_D_2014.pdf: 12640068 bytes, checksum: f0371dbc63f295946368ce60ff475c22 (MD5)   Previous issue date: 2014-01-20",
+  "format_medium": "ETD",
+  "handle": "24913",
+  "identifier_other": "vt_gsexam:1873",
+  "identifier_uri": "http://hdl.handle.net/10919/24913",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Nonlinear",
+    "Aeroelasticity",
+    "Scaling",
+    "SensorCraft"
+  ],
+  "title": "Geometrically Nonlinear Aeroelastic Scaling",
+  "type": "Dissertation"
+}

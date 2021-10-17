@@ -1,0 +1,50 @@
+{
+  "contributor_author": "He, Weiping",
+  "contributor_committeechair": "Chen, Ing-Ray",
+  "contributor_committeemember": [
+    "Kulczycki, Gregory W.",
+    "Lu, Chang-Tien",
+    "Eltoweissy, Mohamed Y.",
+    "Egyhazy, Csaba J."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:08:49Z",
+  "date_adate": "2009-04-24",
+  "date_available": "2014-03-14T20:08:49Z",
+  "date_issued": "2009-03-20",
+  "date_rdate": "2009-04-24",
+  "date_sdate": "2009-04-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mobility management addresses the issues of how to track and locate a mobile node (MN) efficiently. Service management addresses the issues of how to efficiently deliver services to MNs.  This dissertation aims to design and analyze integrated mobility and service management schemes for future all-IP based wireless systems. We propose and analyze per-user regional registration schemes extending from Mobile IP Regional Registration and Hierarchical Mobile IPv6 for integrated mobility and service management with the goal to minimize the network signaling and packet delivery cost in future all-IP based wireless networks. <br><br>  If access routers in future all-IP based wireless networks are restricted  to  perform  network  layer functions only, we investigate the design of intelligent routers, called dynamic mobility anchor points (DMAPs), to implement per-user regional management in IP wireless networks.  These DMAPs are access routers (ARs) chosen by individual MNs to act as regional routers to reduce the signaling overhead for intra-regional movements. The DMAP domain size is based on a MN's mobility and service characteristics. A MN optimally determines when and where to launch a DMAP to minimize the network cost in serving the user's mobility and service management operations. We show that there exists an optimal DMAP domain size for each individual MN. We also demonstrate that the DMAP design can easily support failure recovery because of the flexibility of allowing a MN to choose any AR to be the DMAP for mobility and service management. <br><br>  If access routers are powerful and flexible in future all-IP based networks to perform network-layer and application-layer functions, we propose the use of per-user proxies that can run on access routers. The user proxies can carry service context information such as cached data items and Web processing objects, and perform context-aware functions such as content adaptation for services engaged by the MN to help application executions.  We investigate a proxy-based integrated mobility and service management architecture (IMSA) under which a client-side proxy is created on a per-user basis to serve as a gateway between a MN and all services engaged by the MN. Leveraging Mobile IP with route optimization, the proxy runs on an access router and cooperates with the home agent and foreign agent of the MN to maintain the location information of the MN to facilitate data delivery by services engaged by the MN. Further, the proxy optimally determines when to move with the MN so as to minimize the network cost associated with the user's mobility and service management operations. <br><br>  Finally we investigate a proxy-based integrated cache consistency and mobility management scheme called PICMM to support client-server query-based mobile applications, to improve query performance, the MN stores frequently used data in its cache. The MN's proxy receives invalidation reports or updated data objects from application servers, i.e., corresponding nodes (Cans) for cached data objects stored in the MN. If the MN is connected, the proxy will forward invalidation reports or fresh data objects to the MN. If the MN is disconnected, the proxy will store the invalidation reports or fresh data objects, and, once the MN is reconnected, the proxy will forward the latest cache invalidation report or data objects to the MN. We show that there is an optimal ``service area'' under which the overall cost due to query processing, cache consistency management and mobility management is minimized. To further reduce network traffic, we develop a threshold-based hybrid cache consistency management policy such that whenever a data object is updated at the server, the server sends an invalidation report to the MN through the proxy to invalidate the cached data object only if the size of the data object exceeds the given threshold. Otherwise, the server sends a fresh copy of the data object through the proxy to the MN. We identify the best ``threshold'' value that would minimize the overall network cost. <br><br>  We develop mathematical models to analyze performance characteristics of DMAP, IMSA and PICMM developed in the dissertation research and demonstrate that they outperform existing schemes that do not consider integrated mobility and service management or that use static regional routers to serve all MNs in the system. The analytical results obtained are validated through extensive simulation. We conclude that integrated mobility and service management can greatly reduce the overall network cost for mobile multimedia and database applications, especially when the application's data service rate is high compared with the MN's mobility rate.",
+  "description_provenance": [
+    "Author Email: weiping@vt.edu",
+    "Advisor Email: gregwk@vt.edu",
+    "Advisor Email: clu@vt.edu",
+    "Advisor Email: toweissy@vt.edu",
+    "Advisor Email: cegyhazy@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:49Z (GMT). No. of bitstreams: 1 WeipingHE_Dissertation.pdf: 1321247 bytes, checksum: 2c06fe275fc52a1e4dcecd73a6c49736 (MD5)   Previous issue date: 2009-03-20"
+  ],
+  "handle": "26615",
+  "identifier_other": "etd-04032009-164835",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04032009-164835/",
+  "identifier_uri": "http://hdl.handle.net/10919/26615",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WeipingHE_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "data consistency",
+    "performance analysis",
+    "optimization",
+    "integrated mobility and service management",
+    "Mobile IP",
+    "Petri net.",
+    "regional registration",
+    "network protocol",
+    "proxy"
+  ],
+  "title": "Integrated Mobility and Service Management for Future All-IP Based Wireless Networks",
+  "type": "Dissertation"
+}

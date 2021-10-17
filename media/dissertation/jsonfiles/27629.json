@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Quan, Chuanwen",
+  "contributor_committeechair": "Trani, Antonio A.",
+  "contributor_committeemember": [
+    "Sherali, Hanif D.",
+    "Flintsch, Gerardo W.",
+    "Teodorovic, Dusan",
+    "Baik, Hojong"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:11:49Z",
+  "date_adate": "2007-10-02",
+  "date_available": "2014-03-14T20:11:49Z",
+  "date_issued": "2007-04-20",
+  "date_rdate": "2007-10-02",
+  "date_sdate": "2007-05-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Aviation suffers many delays due to the lack of timely air traffic flow management. These delays are also caused by the uncertainty weather information; and the lack of efficient dissemination of weather products to pilots. It is clear that better models are needed to quantify air traffic flow in three flight regions - en-route, in the terminal, and on the ground, to determine aviation weather information requirements at each region, and to quantify their bandwidth requirements. Furthermore, the results from those models can be used to select alternative future aviation communication systems. </p><p> In this research, the 'ITHINK' and 'MATLAB' software packages have been used to develop a lumped Air Traffic Flow Model (ATFM) and an Aviation Weather Information and Bandwidth Requirements Model (AWINBRM). The ATFM model is used to quantify the volume of air traffic in each phase of flight in three flight regions. This model can be used to study navigation, surveillance, and communication requirements. The AWINBRM model is used to study aviation weather information requirements in different flight phases of flight. Existing and potential communication systems used for transmitting aviation weather information are explored in this research. Finally, a usable and practical computer model - Aircraft Impacted and Detour Model (AIDM) around an aviation weather system is developed. This model is used to compare the costs between detoured flights around a weather system and delayed flights at the airports. </p><p>The purpose of this research is to study air traffic flow and aviation weather information and bandwidth requirements through modeling. The ultimate goal of the models described here is to serve as a living laboratory where policies can be tried before implementing them into the real system. Moreover, these computer models can evolve dynamically through time allowing decision makers to exercise policies at various points in time to quantify results with ease. </p><p>This research would be a first integrated model for combing air traffic flow and aviation weather requirements and determining the quantity of aviation weather information between pilot and ground service centers. This research would be a guideline for aviation industry to build an efficient and timely aviation weather information transmission system with minimum budget. Consequently, this research will reduce aviation delays and improve aviation safety.</p><p>",
+  "description_provenance": [
+    "Author Email: cquan@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: flintsch@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: hbaik@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:49Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 2540895 bytes, checksum: eb4f5b2670cb27a340e550a693b2792c (MD5)   Previous issue date: 2007-04-20"
+  ],
+  "handle": "27629",
+  "identifier_other": "etd-05102007-112104",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05102007-112104/",
+  "identifier_uri": "http://hdl.handle.net/10919/27629",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Simulation",
+    "Communication",
+    "Aviation Weather",
+    "Air Traffic",
+    "and Model"
+  ],
+  "title": "Integrated Modeling of Air Traffic,  Aviation Weather, and Communication Systems",
+  "type": "Dissertation"
+}

@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Lee, Im  Soo",
+  "contributor_committeechair": "Gutierrez, Marte S.",
+  "contributor_committeemember": [
+    "Filz, George M.",
+    "Duncan, James Michael",
+    "Chin, Lee"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:39Z",
+  "date_adate": "2008-09-09",
+  "date_available": "2014-03-14T20:13:39Z",
+  "date_issued": "2008-06-24",
+  "date_rdate": "2009-09-09",
+  "date_sdate": "2008-07-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In soil and rock mechanics, coupling effects between geomechanics field and fluid-flow field are important to understand many physical phenomena. Coupling effects in fluid-saturated porous media comes from the interaction between the geomechanics field and the fluid flow. Stresses subjected on the porous material result volumetric strains and fluid diffusion in the pores. In turn, pore pressure change cause effective stresses change that leads to the deformation of the geomechanics field. Coupling effects have been neglected in traditional geotechnical engineering and petroleum engineering however, it should not be ignored or simplified to increases reliability of the results. The coupling effect in porous media was theoretically established in the poroelasticity theory developed by Biot, and it has become a powerful theory for modeling three-dimensional consolidation type of problem.  The analysis of the porous media with fully-coupled simulations based on the Biotâ  s theory requires intensive computational effort due to the large number of interacting fields. Therefore, advanced computational techniques need to be exploited to reduce computational time. In order to solve the coupled problem, several techniques are currently available such as one-way coupling, partial-coupling, and full-coupling. The fully-coupled approach is the most rigorous approach and produces the most correct results. However, it needs large computational efforts because it solves the geomechanics and the fluid-flow unknowns simultaneously and monolithically. In order to overcome this limitation, staggered solution based on the Biotâ  s theory is proposed and implemented using a modular approach. In this thesis, Biotâ  s equations are implemented using a Finite Element method and/or Finite Difference method with expansion of nonlinear stress-strain constitutive relation and multi-phase fluid flow. Fully-coupled effects are achieved by updating the compressibility matrix and by using an additional source term in the conventional fluid flow equation. The proposed method is tested in multi-phase FE and FD fluid flow codes coupled with a FE geomechanical code and numerical results are compared with analytical solutions and published results.",
+  "description_provenance": [
+    "Author Email: ilee@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Advisor Email: mgutierr@mines.edu",
+    "Advisor Email: jmd@vt.edu",
+    "Advisor Email: Lee.Chin@conocophillips.com",
+    "Made available in DSpace on 2014-03-14T20:13:39Z (GMT). No. of bitstreams: 1 Dissertation_ImsooLee.pdf: 2658418 bytes, checksum: e2fc192dabfaefa4533c2c1db5fd62ec (MD5)   Previous issue date: 2008-06-24"
+  ],
+  "handle": "28179",
+  "identifier_other": "etd-07012008-115136",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07012008-115136/",
+  "identifier_uri": "http://hdl.handle.net/10919/28179",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_ImsooLee.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Biotâ  s theory",
+    "fully-coupled solution",
+    "finite elements"
+  ],
+  "title": "Computational Techniques for Efficient Solution of Discretized Biot's Theory for Fluid Flow in Deformable Porous Media",
+  "type": "Dissertation"
+}

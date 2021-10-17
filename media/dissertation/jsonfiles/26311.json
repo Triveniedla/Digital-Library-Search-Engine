@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Shiratuddin, Mohd  Fairuz",
+  "contributor_committeechair": "Thabet, Walid",
+  "contributor_committeemember": [
+    "Beliveau, Yvan J.",
+    "Ku, Ki-hong",
+    "Messner, John"
+  ],
+  "contributor_department": "Environmental Design and Planning",
+  "date_accessioned": "2014-03-14T20:07:48Z",
+  "date_adate": "2009-03-20",
+  "date_available": "2014-03-14T20:07:48Z",
+  "date_issued": "2009-02-06",
+  "date_rdate": "2009-03-20",
+  "date_sdate": "2009-02-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Framework for Context-Aware Information Processing for Design Review in a Virtual Environment <p> Abstract <p> Design review is a process of reviewing construction design documents to ensure that they reflect the ownerâ  s design intent, and are accurate in describing the ownerâ  s desired building or facility. Information generation becomes more intensive as the design stage progresses. The use of valuable information during design review stage can lead to a more comprehensive and high quality design, and a building or facility that is constructible, and within the intended budget. However, in current design practices, valuable design review information is scattered, ineffectively placed, and is not used efficiently. The design review process will be more efficient if this valuable information is integrated and centralized. <p> The author developed a framework to improve the design review process by incorporating a centralized repository of design review information and 3D CAD model, in an interactive Virtual Environment (VE). To develop the framework, the author used Action Research style where he identified and confirmed the design review problem area, promoted the potential solutions to the problem, and developed a prototype. In gathering and analyzing the data for the research, the author used the synthesis of three methods. They include review of literature, a case study (interviews with industry personnel and content analysis of design review documents), and dissemination of the authorâ  s progressive findings in conferences, conference proceedings and journal publications. <p> From his findings, the author developed the framework to improve the design review process by using information filtering based on context-aware concept, coupled with the benefits of a VE. The required design review information in the form of textual, numerical and geometric information is processed (queried, retrieved and stored). The author defined four contexts for information filtering: discipline-centric, task-centric, object-centric, and location-centric. IF-THEN rules are used to trigger the processing of the required design review information and present it to the design reviewer in a VE. A low cost 3D Game Engine is used as the enabling development tool to develop a work-in-progress (WIP) prototype design review application in a VE.",
+  "description_provenance": [
+    "Author Email: mfsksa@gmail.com",
+    "Advisor Email: thabet@vt.edu",
+    "Advisor Email: yvan@vt.edu",
+    "Advisor Email: kku@vt.edu",
+    "Advisor Email: jmessner@engr.psu.edu",
+    "Made available in DSpace on 2014-03-14T20:07:48Z (GMT). No. of bitstreams: 2 M_F_Shiratuddin_Framework_for_Context-Aware_Information_Processing_for_Design_Review_in_a_Virtual_Environment.pdf: 8578532 bytes, checksum: e15069e29ec612264f954af662000815 (MD5) M_F_Shiratuddin_Appendix_4.pdf: 33869 bytes, checksum: b0ec4ee1d7f926f966c17b51fc0fb7d9 (MD5)   Previous issue date: 2009-02-06"
+  ],
+  "handle": "26311",
+  "identifier_other": "etd-02252009-145703",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02252009-145703/",
+  "identifier_uri": "http://hdl.handle.net/10919/26311",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "M_F_Shiratuddin_Framework_for_Context-Aware_Information_Processing_for_Design_Review_in_a_Virtual_Environment.pdf",
+    "M_F_Shiratuddin_Appendix_4.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "3d",
+    "design review",
+    "game engine",
+    "virtual environment"
+  ],
+  "title": "Framework for Context-Aware Information Processing for Design Review in a Virtual Environment",
+  "type": "Dissertation"
+}

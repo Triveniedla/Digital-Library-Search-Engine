@@ -1,0 +1,63 @@
+{
+  "contributor_author": "Ochinero, Tomoya Thomas",
+  "contributor_committeechair": "Hyer, Michael W.",
+  "contributor_committeemember": [
+    "Loos, Alfred C.",
+    "Renardy, Yuriko Y.",
+    "Morris, Don H.",
+    "Librescu, Liviu"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:17:41Z",
+  "date_adate": "2001-10-29",
+  "date_available": "2014-03-14T20:17:41Z",
+  "date_issued": "2001-10-24",
+  "date_rdate": "2002-10-29",
+  "date_sdate": "2001-10-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work discusses the deformations of various unsymmetric composite panels due to thermal and mechanical loads. Chapter 2 focuses on the warpage of large unsymmetric curved composite panels due manufacturing anomalies. These panels are subjected to a temperature change of -280Â°F to simulate the cooling from the autoclave cure temperature. Sixteen layer quasi-isotropic, axial-stiff, and circumferentially-stiff laminates are considered. These panels are intended to be symmetric laminates, but are slightly unsymmetric due to the manufacturing anomalies. Rayleigh-Ritz and finite-element models are developed to predict the deformations. Initially, to serve as a basis for comparison, warpage effects due to orthotropic thermal expansion properties in perfect panels are investigated and are found to produce deformations not captured in two-dimensional theories. This is followed by the investigation of the effects of ply misalignments. Ply misalignments of 5Â° are incorporated into the laminate, one layer at a time, to produce unsymmetric laminates. It is found that ply misalignments produce warpages much larger than those induced by orthotropic thermal expansion properties. Next, unsymmetric laminates resulting from ply thickness variations are investigated. Layers 10% thicker than nominal are incorporated into the laminate, one layer at a time, while the remaining layers are of uniform thickness. Due to the change in fiber volume fraction of the thicker layers, corresponding material properties are modified to reflect this change. The results show that ply thickness variations cause warpages of about 25-50% of those induced by ply misalignments. Finally, warpage of panels due to nonuniform cooling due to inplane thermal gradients during cure is investigated. A thermal gradient of 0.1Â°F/in. is used to construct six inplane distributions. It is found that the warpages induced by thermal gradients are very small. The warpages are negligible with respect to those induced by ply thickness variations or ply misalignments. Deformations induced by thermal gradients depend primarily on the magnitude of the thermal gradient, but not on the pattern of distribution. Overall, ply misalignments cause the most warpage, followed by ply thickness variations. Important variables for these imperfections are, the through-thickness location of the imperfections, the orientation of the layer containing the imperfections, and the lamination sequence. All cases show that geometric nonlinearities are important to accurately predict the deformations induced by these imperfections. Chapter 3 discusses the deformations of composite plates that are intentionally fabricated to be unsymmetric. Such plates, if flat, might be considered in applications where bending-stretching coupling effects can be used to advantage. It is assumed the laminates are cured at an elevated temperature and then cooled 280Â°F. Significant deformations result because of the high level of asymmetry in the laminate construction. Accordingly, geometric nonlinearities are included in the models. Four cross-ply laminates and three angle-ply laminates are considered. Four-term and 14-term Rayleigh-Ritz models are developed, together with finite-element models to model the deformations. Actual specimens were constructed and the deformations measured to compare with predictions. The results show that agreement between predictions and the experimental results are good. The 14-term Rayleigh-Ritz model is found to be the most useful due to its ability to find multiple solutions, its physical basis, and computational efficiency. Chapter 4 discusses the deformations of initially flat aluminum, symmetric, and unsymmetric composite plates due to axial endshortening under various boundary conditions, the aluminum and symmetric plates serving as a baseline. Seven plates are considered, each with three boundary condition combinations, namely, clamped ends and sides (CL-CL), clamped ends with simply-supported sides (CL-SS), and simply-supported ends and sides (SS-SS). Generally, the boundary conditions play a key role in the deformation characteristics of the plates. The aluminum and symmetric cross-ply plates have no out-of-plane deformations until classic buckling, or primary instability, then each exhibits two stable solutions. Each also exhibits secondary instability that results in two stable solutions. The symmetric laminates show less of a dependence on the boundary conditions compared to the unsymmetric laminates. Unsymmetric laminates show a mixture of characteristics. Some cases exhibit primary instability, other cases do not. Some cases exhibit secondary instability, while some case do not. The unsymmetric cross-ply laminates have only one stable solution after secondary buckling, while most other laminates and boundary condition combinations have two stable solutions. It is interesting to note that for the unbalanced unsymmetric [302/90/0]2T laminate, the boundary conditions controlled the sign of the out-of-plane deflection from the onset of axial endshortening. Generally speaking, the CL-CL cases carry the most load, followed by the CL-SS, and then the SS-SS cases. Like all the problems discussed in Chapter 2 and 3, geometric nonlinearities are found to be important for this case as well.",
+  "description_provenance": [
+    "Author Email: ochinero@vt.edu",
+    "Advisor Email: aloos@vt.edu",
+    "Advisor Email: renardyy@math.vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: dhmorris@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:41Z (GMT). No. of bitstreams: 14 Vita.pdf: 3546 bytes, checksum: 6549182b65e6b1cf6f83285d3f094930 (MD5) Acknowledgements.pdf: 4708 bytes, checksum: 29a2e4859933be6ebea50f6b80a385ba (MD5) Chapter_5.pdf: 22978 bytes, checksum: cb090fcd3e80a9dd55eaa1a17c522463 (MD5) Chapter_4.pdf: 2405169 bytes, checksum: bc3d12d09c19dfce6113e2fe549f642b (MD5) Chapter_2.pdf: 32819090 bytes, checksum: d98d84eab7c17b81511b00f07cce0d4d (MD5) Cover.pdf: 5041 bytes, checksum: bfa8ae63c6649e1e8852af62da9962fd (MD5) List_of_figures.pdf: 150584 bytes, checksum: 6b142baa4b815708e6bdca8be4d2454c (MD5) Chapter_3.pdf: 41750286 bytes, checksum: 137f179c212ee50693cb72e96e5a07dc (MD5) Table_of_contents.pdf: 27907 bytes, checksum: c864e910e5abe64822ca381abeb220b5 (MD5) Abstract.pdf: 11991 bytes, checksum: 07c1fb85c8ccc560821bbe213fb3c4e7 (MD5) Appendix.pdf: 20100287 bytes, checksum: 243f446004c97eba03e4e58f74278bdd (MD5) Bibliography.pdf: 18634 bytes, checksum: 5308911952927089ee8dfb183fd8bfe1 (MD5) Chapter_1.pdf: 9797 bytes, checksum: 3f7e2cfc80c34001031f3d50f72d563a (MD5) List_of_tables.pdf: 6710 bytes, checksum: eda76e4a4ffd899d6494aab773666ec5 (MD5)   Previous issue date: 2001-10-24"
+  ],
+  "handle": "29375",
+  "identifier_other": "etd-10262001-165801",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10262001-165801/",
+  "identifier_uri": "http://hdl.handle.net/10919/29375",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Vita.pdf",
+    "Acknowledgements.pdf",
+    "Chapter_5.pdf",
+    "Chapter_4.pdf",
+    "Chapter_2.pdf",
+    "Cover.pdf",
+    "List_of_figures.pdf",
+    "Chapter_3.pdf",
+    "Table_of_contents.pdf",
+    "Abstract.pdf",
+    "Appendix.pdf",
+    "Bibliography.pdf",
+    "Chapter_1.pdf",
+    "List_of_tables.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "warpage",
+    "composite materials",
+    "buckling",
+    "geometrically nonlinear",
+    "warpage",
+    "shells",
+    "plates"
+  ],
+  "title": "Deformations of Unsymmetric Composite Panels",
+  "type": "Dissertation"
+}

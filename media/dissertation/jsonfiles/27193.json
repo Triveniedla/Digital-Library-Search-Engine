@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Gozali, Ran",
+  "contributor_committeechair": "Woerner, Brian D.",
+  "contributor_committeemember": [
+    "Rappaport, Theodore S.",
+    "Ebel, William J.",
+    "Reed, Jeffrey Hugh",
+    "Kohler, Werner E.",
+    "Stutzman, Warren L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:36Z",
+  "date_adate": "2002-04-26",
+  "date_available": "2014-03-14T20:10:36Z",
+  "date_issued": "2002-04-24",
+  "date_rdate": "2003-04-26",
+  "date_sdate": "2002-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Space-time codes (STC) are a class of signaling techniques, offering coding and diversity gains along with improved spectral efficiency. These codes exploit both the spatial and the temporal diversity of the wireless link by combining the design of the error correction code, modulation scheme and array processing. STC are well suited for improving the downlink performance, which is the bottleneck in asymmetric applications such as downstream Internet.  Three original contributions to the area of STC are presented in this dissertation. First, the development of analytic tools that determine the fundamental limits on the performance of STC in a variety of channel conditions. For trellis-type STC, transfer function based techniques are applied to derive performance bounds over Rayleigh, Rician and correlated fading environments. For block-type STC, an analytic framework that supports various complex orthogonal designs with arbitrary signal cardinalities and array configurations is developed. In the second part of the dissertation, the Virginia Tech Space-Time Advanced Radio (VT-STAR) is designed, introducing a multi-antenna hardware laboratory test bed, which facilitates characterization of the multiple-input multiple-output (MIMO) channel and validation of various space-time approaches. In the third part of the dissertation, two novel space-time architectures paired with iterative processing principles are proposed. The first extends the suitability of STC to outdoor wireless communications by employing iterative equalization/decoding for time dispersive channels and the second employs iterative interference cancellation/decoding to solve the error propagation problem of Bell-Labs Layered Space-Time Architecture (BLAST). Results show that remarkable energy and spectral efficiencies are achievable by combining concepts drawn from space-time coding, multiuser detection, array processing and iterative decoding.",
+  "description_provenance": [
+    "Author Email: rgozali@vt.edu",
+    "Advisor Email: wireless@vt.edu",
+    "Advisor Email: ebelwj@slu.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:36Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 4656431 bytes, checksum: b25e4d81fa7bf18bfb18ca87077d4e1d (MD5)   Previous issue date: 2002-04-24"
+  ],
+  "handle": "27193",
+  "identifier_other": "etd-04242002-155825",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242002-155825/",
+  "identifier_uri": "http://hdl.handle.net/10919/27193",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Space-Time Coding",
+    "MIMO Channels",
+    "VT-STAR",
+    "Iterative Processing",
+    "Wireless Communications"
+  ],
+  "title": "Space-Time Codes for High Data Rate Wireless Communications",
+  "type": "Dissertation"
+}

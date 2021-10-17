@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ashour, Osama Naim",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Mook, Dean T.",
+    "Hajj, Muhammad R.",
+    "Adjerid, Slimane",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:07:40Z",
+  "date_adate": "2001-03-06",
+  "date_available": "2014-03-14T20:07:40Z",
+  "date_issued": "2001-01-17",
+  "date_rdate": "2002-03-06",
+  "date_sdate": "2001-02-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A nonlinear active vibration absorber to control the vibrations of plates is investigated.  The absorber is based on the saturation phenomenon associated with dynamical systems with quadratic nonlinearities and a two-to-one internal resonance.  The technique is implemented by coupling a second-order controller with the plate's response through a sensor and an actuator.  Energy is exchanged between the primary structure and the controller and, near resonance, the plate's response saturates to a small value.  Numerical as well as experimental results are presented for a cantilever rectangular plate.  For numerical studies, finite-element methods as well as modal analysis are implemented.  The commercially available software ABAQUS is used in the finite-element analysis together with a user-provided subroutine to model the controller.  For the experimental studies, the plate is excited using a dynamic shaker.  Strain gages are used as sensors, while piezoelectric ceramic patches are used as actuators.  The control technique is implemented using a dSPACE digital signal processing board and a modeling software (SIMULINK).  Both numerical and experimental results show that the control strategy is very efficient.  A numerical study is conducted to optimize the location of the actuators on the structure to maximize its controllability.  In this regard, the control gain is maximized for the PZT actuators.  Furthermore, a more general method is introduced that is based on a global measure of controllability for linear systems.  Finally, the control strategy is made adaptive by incorporating an efficient frequency-measurement technique.  This is validated by successfully testing the control strategy for a non-conventional problem, where nonlinear effects hinder the application of the non-adaptive controller.",
+  "description_provenance": [
+    "Author Email: oashour@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:40Z (GMT). No. of bitstreams: 2 dissert.pdf: 2772825 bytes, checksum: 820d6774140fc4c7008fdced552bf9e4 (MD5) dissert.pdf: 2772825 bytes, checksum: 820d6774140fc4c7008fdced552bf9e4 (MD5)   Previous issue date: 2001-01-17"
+  ],
+  "handle": "26266",
+  "identifier_other": "etd-02212001-145056",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02212001-145056/",
+  "identifier_uri": "http://hdl.handle.net/10919/26266",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "dissert.pdf",
+    "dissert.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Active Control",
+    "Piezoelectric Ceramics",
+    "Terfenol-D",
+    "Smart Materials",
+    "Saturation",
+    "Vibration Absorber"
+  ],
+  "title": "Nonlinear Control of Plate Vibrations",
+  "type": "Dissertation"
+}

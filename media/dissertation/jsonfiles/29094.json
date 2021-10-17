@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Lohse-Busch, Henning",
+  "contributor_committeechair": "Nelson, Douglas J.",
+  "contributor_committeemember": [
+    "De La Ree Lopez, Jaime",
+    "Ellis, Michael W.",
+    "Kornhauser, Alan A.",
+    "von Spakovsky, Michael R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:46Z",
+  "date_adate": "2009-10-16",
+  "date_available": "2014-03-14T20:16:46Z",
+  "date_issued": "2009-05-11",
+  "date_rdate": "2009-10-16",
+  "date_sdate": "2009-09-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work describes the design, development and research applications of a Modular Automotive Technology Testbed (MATT). MATT is built to evaluate technology components in a hybrid vehicle system environment. MATT can also be utilized to evaluate energy management and torque split control strategies and to produce physical measured component losses and emissions to monitor emissions behavior.  In the automotive world, new technology components are first developed on a test bench and then they are integrated into a prototype vehicle for transient evaluation from the vehicle system perspective. This process is expensive and the prototype vehicles are typically inflexible in hardware and software configuration. MATT provides flexibility in component testing through its component module approach. The flexible combination of modules provides a vehicle environment to test and evaluate new technology components. MATT also has an open control system where any energy management and torque split strategy can be implemented. Therefore, the controlâ  s impact on energy consumption and emissions can be measured. MATT can also emulate different types and sizes of vehicles. MATT is a novel, unique, flexible and powerful automotive research tool that provides hardware-based data for specific research topics.  Currently, several powertrain modules are available for use on MATT: a gasoline engine module, a hydrogen engine module, a virtual scalable energy storage and virtual scalable motor module, a manual transmission module and an automatic transmission module. The virtual battery and motor module uses some component Hardware-In-the-Loop (HIL) principles by utilizing a physical motor powered from the electric grid in conjunction with a real time simulation of a battery and a motor model. This module enables MATT to emulate a wide variety of vehicles, ranging from a conventional vehicle to a full performance electric vehicle with a battery pack that has virtually unlimited capacity.  A select set of PHEV research studies are described in this dissertation. One of these studies had an outcome that influenced the PHEV standard test protocol development by SAE. Another study investigated the impact of the control strategy on emissions of PHEVs. Emissions mitigation routines were integrated in the control strategies, reducing the measured emissions to SULEV limits on a full charge test.  A special component evaluation study featured in this dissertation is the transient performance characterization of a supercharged hydrogen internal combustion engine on MATT. Four constant air-fuel ratio combustions are evaluated in a conventional vehicle operation on standard drive cycles. Then, a variable air fuel ratio combustion strategy is developed and the test results show a significant fuel economy gain compared to other combustion strategies, while NOx emissions levels are kept low.",
+  "description_provenance": [
+    "Author Email: hlohsebu@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: alkorn@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:46Z (GMT). No. of bitstreams: 1 Lohse-Busch_H_D_2009.pdf: 36757332 bytes, checksum: 79de64b15eea97b17be4fdadc2407244 (MD5)   Previous issue date: 2009-05-11"
+  ],
+  "handle": "29094",
+  "identifier_other": "etd-09252009-163003",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09252009-163003/",
+  "identifier_uri": "http://hdl.handle.net/10919/29094",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lohse-Busch_H_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Modular Automotive Technology Testbed",
+    "Hybrid electric vehicle"
+  ],
+  "title": "Development and Applications of the Modular Automotive Technology Testbed (MATT) to Evaluate Hybrid Electric Powertrain Components and Energy Management Strategies",
+  "type": "Dissertation"
+}

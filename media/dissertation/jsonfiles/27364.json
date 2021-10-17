@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Medjahed, Brahim",
+  "contributor_committeechair": "Bouguettaya, Athman",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Chen, Ing-Ray",
+    "Eltoweissy, Mohamed Y.",
+    "Barkhi, Reza"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:11:04Z",
+  "date_adate": "2004-04-30",
+  "date_available": "2014-03-14T20:11:04Z",
+  "date_issued": "2004-01-19",
+  "date_rdate": "2004-04-30",
+  "date_sdate": "2004-04-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we present a novel approach for the automatic composition of Web services on the envisioned Semantic Web. Automatic service composition requires dealing with three major research thrusts: semantic description of Web services, composability of participant services, and generation of composite service descriptions. This dissertation deals with the aforementioned research issues. We first propose an ontology-based framework for organizing and describing semantic Web services. We introduce the concept of  community to cluster Web services based on their domain of interest. Each community is defined as an instance of an ontology called community ontology. We then propose a composability model to check whether semantic Web services can be combined together, hence avoiding unexpected failures at run time. The model defines formal safeguards for meaningful composition through the use of composability rules. We also introduce the notions of composability degree and  tau-composability to cater for partial and total composability. Based on the composability model, we propose a set of algorithms that automatically generate detailed descriptions of composite services from high-level specifications of composition requests. We introduce a Quality of Composition (QoC) model to assess the quality of the generated composite services. The techniques presented in this dissertation are implemented in  WebDG, a prototype for accessing e-government Web services. Finally, we conduct an extensive performance study (analytical and experimental) of the proposed composition algorithms.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "Author Email: brahim@vt.edu",
+    "Advisor Email: athman@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: toweissy@vt.edu",
+    "Advisor Email: reza@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:04Z (GMT). No. of bitstreams: 1 medjahed.pdf: 2531845 bytes, checksum: 6ac423ae1570a10ee17ab3f2b9ffa0f1 (MD5)   Previous issue date: 2004-01-19"
+  ],
+  "handle": "27364",
+  "identifier_other": "etd-04272004-171215",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04272004-171215/",
+  "identifier_uri": "http://hdl.handle.net/10919/27364",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "medjahed.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Web Service",
+    "Ontology",
+    "Service Composition",
+    "Semantic Web"
+  ],
+  "title": "Semantic Web Enabled Composition of Web Services",
+  "type": "Dissertation"
+}

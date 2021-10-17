@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Clark, Matthew Taylor",
+  "contributor_committeechair": "Paul, Mark R.",
+  "contributor_committeemember": [
+    "Huxtable, Scott T.",
+    "Stremler, Mark A.",
+    "Tafti, Danesh K.",
+    "Vick, Brian L."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:48Z",
+  "date_adate": "2008-11-18",
+  "date_available": "2014-03-14T20:17:48Z",
+  "date_issued": "2008-10-24",
+  "date_rdate": "2008-11-18",
+  "date_sdate": "2008-10-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Micro and nanoscale systems are rapidly evolving to improve the resolution of experimental measurements.  Experiments involving such small scale devices are difficult and expensive, and the available analytical theory to describe their dynamics is idealized.  The dynamics of microscopic cantilevers in fluid are complicated and include significant contributions from many sources in an actual experiment.  Some examples are: complex cantilever geometries, near-wall effects, thermal and external actuation techniques, and a variety of measurement techniques.  Numerical simulations are a powerful approach to describe the dynamics of micro and nanoscale systems for the precise conditions of experiment.  This thesis provides a numerical approach capable of addressing these inherent challenges and quantifies the dynamics of microscopic cantilevers in fluid for experimentally relevant conditions.   A thermodynamic approach based upon the fluctuation-dissipation theorem allows for the calculation of stochastic dynamics from deterministic dynamics.  Using numerical simulations, the thermal motion can be described for the precise conditions of experiment.  It is found that the measured dynamics of cantilevers differs depending on the quantity being measured. In particular, the dynamics of displacement and angle of the cantilever tip distribute energy differently to the higher flexural modes. The externally driven dynamics of microscale cantilevers in fluid are also considered.  The driven dynamics are calculated using numerical simulations of the cantilever response to a force impulse. It is found that the driven dynamics depend upon the type of actuation in addition to the quantity measured.  A comparison of the driven dynamics to the corresponding stochastic dynamics yields insight into the nature of the Brownian force acting on the cantilever.   Another experimentally relevant condition is the use of cantilevers with V-shaped planforms in fluid. The resulting flow field is three-dimensional and complex in contrast to what is found for a long and slender rectangular cantilever. Despite the flow complexity, the stochastic and driven dynamics of the fundamental mode can be predicted using a two-dimensional model with an appropriately chosen length scale.  An experimentally motivated magnetomotive actuation technique is investigated.  Results show that this approach generates power spectra nearly equivalent to the noise spectra. Furthermore, the case of a V-shaped cantilever in fluid and oscillating in proximity of a solid boundary is investigated.  In the presence of a solid surface the fluid damping and added mass of fluid on the cantilever are larger than for a cantilever far from boundaries.  This results in a lower frequency and quality factor for the fundamental resonance.  This can impede experimental efforts because broad peaks lack distinct features that can be used to identify experimental signals.   An option to overcome the large viscous damping is to take advantage of higher modes of cantilever oscillation. The higher frequency oscillations of the higher modes generate a smaller viscous boundary layer and have a reduced added mass. As a result, the quality factor increases with increasing mode number. The frequency dependence of the fluid dynamics around a fluctuating microscale cantilever is also studied. The mass of fluid entrained by the cantilever and the viscous damping quantify the interaction of a cantilever with the surrounding fluid and are computed. Analytical expressions for these parameters are derived for moderate mode number.  The techniques and findings of this thesis have broad applicability to a wide range of micro and nanotechnologies that rely upon understanding the dynamics of small scale structures in fluid.",
+  "description_provenance": [
+    "Author Email: clarkmt@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Advisor Email: stremler@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:48Z (GMT). No. of bitstreams: 1 mtc-thesis.pdf: 2071598 bytes, checksum: 794978a78db63d85543fe606e4986abe (MD5)   Previous issue date: 2008-10-24"
+  ],
+  "handle": "29411",
+  "identifier_other": "etd-10312008-131342",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10312008-131342/",
+  "identifier_uri": "http://hdl.handle.net/10919/29411",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mtc-thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "detection",
+    "actuation",
+    "numerical simulation",
+    "atomic force microscopy",
+    "fluid dynamics",
+    "fluctuation-dissipation theorem"
+  ],
+  "title": "The driven and stochastic dynamics of micro and nanoscale cantilevers in viscous fluid and near a solid boundary",
+  "type": "Dissertation"
+}

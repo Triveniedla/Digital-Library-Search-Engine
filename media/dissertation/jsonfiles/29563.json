@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Jeong, Gi  Young",
+  "contributor_committeechair": "Hindman, Daniel P.",
+  "contributor_committeemember": [
+    "Watson, Layne T.",
+    "Thangjitham, Surot",
+    "Zink-Sharp, Audrey G.",
+    "Loferski, Joseph R."
+  ],
+  "contributor_department": "Wood Science and Forest Products",
+  "date_accessioned": "2014-03-14T20:18:29Z",
+  "date_adate": "2008-12-07",
+  "date_available": "2014-03-14T20:18:29Z",
+  "date_issued": "2008-10-30",
+  "date_rdate": "2008-12-07",
+  "date_sdate": "2008-11-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Previous modeling of wood materials has included many assumptions of unknown mechanical properties associated with the hierarchical structure of wood. The experimental validation of previous models did not account for the variation of mechanical properties present in wood materials. Little research has explored the uncertainties of mechanical properties in earlywood and latewood samples as well as wood strands. The goal of this study was to evaluate the effect of the intra-ring properties and grain angles on the modulus of elasticity (MOE) and ultimate tensile strength (UTS) of different orientation wood strands and to analyze the sensitivity of the MOE and UTS of wood strands with respect to these variables.     Tension testing incorporating digital image correlation (DIC) was employed to measure the MOE and UTS of earlywood and latewood bands sampled from growth ring numbers 1-10 and growth ring numbers 11-20. A similar technique adjusted for strand size testing was also applied to measure the MOE and UTS of different orientation wood strands from the two growth ring numbers. The stochastic finite element method (SFEM) was used with the results from the earlywood and latewood testing as inputs to model the mechanical property variation of loblolly pine wood strands. A sensitivity analysis of the input parameters in the SFEM model was performed to identify the most important parameters related to mechanical response.      Modulus of elasticity (MOE), Poisson ratio, and ultimate tensile strength (UTS) from earlywood and latewood generally increased as the growth ring number increased except for the UTS of latewood, which showed a slight decrease. MOE and UTS from radial, tangential, and angled grain orientation strands increased as the growth ring numbers increased while MOE and UTS from cross-grain strands decreased as the growth ring number increased. Shear modulus of wood strands increased as the growth ring number increased while shear strength decreased as the growth ring number increased. Poisson ratio from radial and angled grain strands decreased as the growth ring number increased while Poisson ratio from tangential and cross grain orientation strands increased as the growth ring number increased.      The difference of average MOE from different grain strands between experimental results and SFEM results ranged from 0.96% to 22.31%. The cumulative probability distribution curves from experimental tests and SFEM results agreed well except for the radial grain models from growth ring numbers 11-20. From sensitivity analysis, earlywood MOE was the most important contributing factor to the predicted MOE from different grain orientation strand models. From the sensitivity analysis, earlywood and latewood participated differently in the computation of MOE of different grain orientation strand models. The predicted MOE was highly associated with the strain distribution caused by different orientation strands and interaction of earlywood and latewood properties. In general, earlywood MOE had a greater effect on the predicted MOE of wood strands than other SFEM input parameters.     The difference in UTS between experimental and SFEM results ranged from 0.09% to 11.09%. Sensitivity analysis showed that grain orientation and growth ring number influenced the UTS of strands. UTS of strands from growth ring numbers 1-10 showed strength indexes (Xt, Yt, and S) to be the dominant factors while UTS of strands from growth ring numbers 11-20 showed both strength indexes and stress components (Ï 1, Ï 2, and Ï 12) to be the dominant factors. Grain orientations of strands were a strong indicator of mechanical properties of wood strands.",
+  "description_provenance": [
+    "Author Email: gjeong1@vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: agzink@vt.edu",
+    "Advisor Email: jloferski@vt.edu",
+    "Advisor Email: dhindman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:29Z (GMT). No. of bitstreams: 1 dissertation.pdf: 4071820 bytes, checksum: fe2be5a10e48cfa5b2ce7509da27fa94 (MD5)   Previous issue date: 2008-10-30"
+  ],
+  "handle": "29563",
+  "identifier_other": "etd-11132008-114908",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11132008-114908/",
+  "identifier_uri": "http://hdl.handle.net/10919/29563",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "digital image correlation (DIC)",
+    "wood strands",
+    "latewood",
+    "earlywood"
+  ],
+  "title": "Tensile Properties of Loblolly Pine Strands Using Digital Image Correlation and Stochastic Finite Element Method",
+  "type": "Dissertation"
+}

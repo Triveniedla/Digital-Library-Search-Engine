@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Lee, Kwang-Sub",
+  "contributor_committeechair": "Hobeika, Antoine G.",
+  "contributor_committeemember": [
+    "Rakha, Hesham Ahmed",
+    "Trani, Antonio A.",
+    "Baik, Hojong",
+    "Fraticelli, Barbara M. P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:20Z",
+  "date_adate": "2009-07-03",
+  "date_available": "2014-03-14T20:13:20Z",
+  "date_issued": "2009-06-10",
+  "date_rdate": "2009-07-03",
+  "date_sdate": "2009-06-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Value pricing is now an accepted strategy for congestion and demand management in metropolitan areas. Along with alternate congestion management strategies, many transportation agencies have started looking at value pricing as a method to help financial shortfalls of new congestion management projects. Value pricing allows revenue collected from toll facilities to reduce operational concerns with underutilized High Occupancy Vehicle (HOV) facilities and relieves environmental concerns by reducing travel demand. Recently, transportation agencies have become increasingly interested in a high-occupancy toll (HOT) lane value pricing system with time-dependent tolls or dynamic tolls that change by the congestion level. However, there is a lack of proper travel demand forecasting tools that can evaluate and determine the impacts of pricing on travelersâ   decision in relation to congestion. The current methods use aggregated and zonal based approaches that lack the capability of tracing individual travelers through the supply network in order to capture his/her travel decisions as it pertains to the estimated cost for toll usage. The conventional models do not consider individual traveler socio-economic characteristics, particularly the heterogeneous value of time (VOT).  TRANSIMS (Transportation Analysis Simulation System) differs from current travel demand forecasting methods in its underlying concepts and structure. These differences include a consistent and continuous representation of time, a detailed representation of persons and households, time-dependent routing, and a person-based Microsimulator. The TRANSIMS Microsimulator is the only simulation tool that maintains the identity of the traveler throughout the simulation and is capable of accessing the database of each individual (e.g., income, age, trip purpose). It traces the movement of people as well as vehicles on a second-by-second basis. Although TRANSIMS environment has significantly improved over the past few years, there are still issues that need to be improved upon including: the pricing of a HOT lane with dynamic tolls and the rescheduling of activities (i.e., departure time choice model) in response to network conditions.  The primary objectives of this study are to improve functions of TRANSIMS by modifying source codes in order to utilize non-linear, individual VOT function in route choice of a HOT lane value pricing system, to implement 15-min dynamic tolls that vary by level of service (i.e., volume/capacity ratio) in the HOT lane(s) and to develop departure time choice model. Testing the proposed methodologies using real-world data as case studies and evaluating the impacts of dynamic tolls and/or departure time choice model are other objectives of this study. The test site of the HOT lane system is a segment of I-5 northbound from Hwy 217 to I-405 near the central business district (CBD) in Portland metropolitan region, Oregon.  The experimental analyses of the application of dynamic tolls and individual VOT demonstrate the feasibility of the proposed simulation methodology. The outputs from the microscopic analysis clearly indicate the effectiveness of the analysis in scrutinizing travelersâ   route choice behavior based on different socio-economic and travel characteristics when different toll rates are applied. The effects of individual VOT on route choice are consistent with intuition; that is, travelers with higher VOTs are more likely to choose the HOT lane(s). In addition, the impacts of various tolls on route choice are analyzed on the basis of socio-economic and trip characteristics of each traveler.   In addition to the development of the dynamic value pricing along with individual VOT, the departure time choice model is also developed. The proposed method is a post-processing of route choice and represents a sequential decision making process of travelers who want to depart early or late based on congestion, individual attributes and activity characteristics. This paper presents the results of a departure time choice model and its impacts on a HOT lane system using Portland, Oregon as a case study. The results show that 13.9% of households did change their departure time because of congestion and/or tolls.",
+  "description_provenance": [
+    "Author Email: kwlee@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: baikh@mst.edu",
+    "Advisor Email: barbf@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:20Z (GMT). No. of bitstreams: 1 Dissertation_Lee.pdf: 1401741 bytes, checksum: fda287e58f6308364ab4cdb6bbb11b41 (MD5)   Previous issue date: 2009-06-10"
+  ],
+  "handle": "28063",
+  "identifier_other": "etd-06172009-152738",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06172009-152738/",
+  "identifier_uri": "http://hdl.handle.net/10919/28063",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Lee.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "departure time choice",
+    "route choice",
+    "traveler response to value pricing",
+    "heterogeneous value of time",
+    "dynamic toll pricing",
+    "HOT lane value pricing",
+    "TRANSIMS"
+  ],
+  "title": "Modifying TRANSIMS (Transportation Analysis and Simulation) to Include Dynamic Value Pricing and Departure Time Choice",
+  "type": "Dissertation"
+}

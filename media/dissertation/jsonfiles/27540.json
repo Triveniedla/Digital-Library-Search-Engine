@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Lu, Yang",
+  "contributor_committeechair": "Wang, Linbing",
+  "contributor_committeemember": [
+    "Puri, Ishwar K.",
+    "Sotelino, Elisa D.",
+    "Filz, George M."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:11:34Z",
+  "date_adate": "2010-06-03",
+  "date_available": "2014-03-14T20:11:34Z",
+  "date_issued": "2010-04-20",
+  "date_rdate": "2011-06-03",
+  "date_sdate": "2010-05-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is dedicated to develop models and methods to bridge atomistic and continuum scales of deformation processes in asphalt-aggregate interfacial composite materials systems. The deformation and failure behaviors, e.g. nanoscale strength, deformation, stiffness, and adhesion/cohesion at asphalt-aggregate interfaces are all evaluated by means of atomistic simulations. The atomistic modeling approach is employed to simulate mechanical properties, which is connected by their common dependence on the nanoscale bonding and their sensitive dependences on mechanics and moisture sensitivity. Specifically, CVFF-aug forcefield is employed in the atomistic calculations to study the fundamental failure processes that appear at the interface as a result of a mechanical deformation. There are five primary aspects to this dissertation.  First, the multiscale features of asphalt concrete materials are characterized by using nanoscale characterization & fabrication devices, e.g. High Resolution Optical Microscope (HROM), Environmental Scanning Electron Microscope (ESEM), Transmission Electron Microscope (TEM), Focused Ion Beam (FIB), and Atomistic Force Microscope (AFM).  Second, based on the multiscale devices characterization of the interfaces, a 2-layer atomistic bitumen-rock interface structure is constructed. Interface structure evolution under uniaxial tension is performed with various deformation rates. Comparison is made between both theoretical and experimental characterizations of interface configuration. Molecular dynamics (MD) simulations are used to investigate potential relationships between interface structure and morphology. Influences of deformation rate and temperature factors are discussed in terms of interface region stress-strain relation and loading time duration.  Third, molecular dynamics simulations are also performed to provide a characterization of atomic scale mechanical behaviors for a 3-layer confined shear structure which leads to interfacial shear failure. In addition, atomistic static simulation approach is employed to calculate a couple of mineral crystalsâ   elastic constants. Furthermore, molecular dynamics simulations are also used to predict the static, thermodynamic, and mechanical properties of three asphalt molecular models.  Fourth, the high performance parallel computing technology is extensively employed throughout this dissertation. In addition to use the large-scale MD program, LAMMPS, the author developed a high performance parallel distributive computing program, MPI_multistress, to implement the multiscale understanding/predicting of materials mechanical behaviors.  Finally, this research also focuses on the evaluation of the susceptibility of aggregates and asphalts to moisture damage through understanding the nano-mechanisms that influence adhesive bond between aggregates and asphalt, as well as the cohesive strength and moisture susceptibility of the specific asphalt-aggregate interfaces. Surface energy theory and pull-out simulation are used to compute the adhesive bond strength between the aggregates and asphalt, as well as the cohesive bond strength within the binder.  In general, this dissertation has focused on the development of nanoscale modeling methods to assess asphalt-aggregate interfacial atomistic deformation and failure behaviors, as well as moisture effects on asphalt mixture strength. Simulation results provide valuable insights into mechanistic details of nanoscale interactions, particularly under conditions of various deformation rates and different temperatures. The results obtained show that a reasonable agreement between the theoretical and pavement industry observations is satisfactory. We conclude that the theoretical calculations presented here are useful in asphalt concrete industry for predicting the mechanical properties of asphalt-aggregate interfaces, which are difficult to obtain experimentally because of their small size.",
+  "description_provenance": [
+    "Author Email: luy06@vt.edu",
+    "Advisor Email: ikpuri@vt.edu",
+    "Advisor Email: sotelino@vt.edu",
+    "Advisor Email: filz@vt.edu",
+    "Advisor Email: wangl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:34Z (GMT). No. of bitstreams: 1 Lu_Y_D_2010.pdf: 11417889 bytes, checksum: 2ee39d8878c8c7f6b6cf41b450f50d08 (MD5)   Previous issue date: 2010-04-20"
+  ],
+  "handle": "27540",
+  "identifier_other": "etd-05042010-140910",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05042010-140910/",
+  "identifier_uri": "http://hdl.handle.net/10919/27540",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lu_Y_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Atomistic Modeling",
+    "Asphalt",
+    "Interface",
+    "Forcefield",
+    "Aggregate"
+  ],
+  "title": "Atomistic Characterization and Modeling of the Deformation and Failure Properties of Asphalt-Aggregate Interface",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Azam, Farooq",
+  "contributor_committeechair": "VanLandingham, Hugh F.",
+  "contributor_committeemember": [
+    "Bay, John S.",
+    "Athanas, Peter M.",
+    "Baumann, William T.",
+    "Saunders, William R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:54Z",
+  "date_adate": "2000-06-19",
+  "date_available": "2014-03-14T20:12:54Z",
+  "date_issued": "2000-05-19",
+  "date_rdate": "2001-06-19",
+  "date_sdate": "2000-06-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation explores the modular learning in artificial neural networks that mainly driven by the inspiration from the neurobiological basis of the human learning. The presented modularization approaches to the neural network design and learning are inspired by the engineering, complexity, psychological and neurobiological aspects. The main theme of this dissertation is to explore the organization and functioning of the brain to discover new structural and learning inspirations that can be subsequently utilized to design artificial neural network.  The artificial neural networks are touted to be a neurobiologicaly inspired paradigm that emulate the functioning of the vertebrate brain. The brain is a highly structured entity with localized regions of neurons specialized in performing specific tasks. On the other hand, the mainstream monolithic feed-forward neural networks are generally unstructured black boxes which is their major performance limiting characteristic. The non explicit structure and monolithic nature of the current mainstream artificial neural networks results in lack of the capability of systematic incorporation of functional or task-specific a priori knowledge in the artificial neural network design process. The problem caused by these limitations are discussed in detail in this dissertation and remedial solutions are presented that are driven by the functioning of the brain and its structural organization.  Also, this dissertation presents an in depth study of the currently available modular neural network architectures along with highlighting their shortcomings and investigates new modular artificial neural network models in order to overcome pointed out shortcomings. The resulting proposed modular neural network models have greater accuracy, generalization, comprehensible simplified neural structure, ease of training and more user confidence. These benefits are readily obvious for certain problems, depending upon availability and usage of available a priori knowledge about the problems.  The modular neural network models presented in this dissertation exploit the capabilities of the principle of divide and conquer in the design and learning of the modular artificial neural networks. The strategy of divide and conquer solves a complex computational problem by dividing it into simpler sub-problems and then combining the individual solutions to the sub-problems into a solution to the original problem. The divisions of a task considered in this dissertation are the automatic decomposition of the mappings to be learned, decompositions of the artificial neural networks to minimize harmful interaction during the learning process, and explicit decomposition of the application task into sub-tasks that are learned separately.  The versatility and capabilities of the new proposed modular neural networks are demonstrated by the experimental results. A comparison of the current modular neural network design techniques with the ones introduced in this dissertation, is also presented for reference. The results presented in this dissertation lay a solid foundation for design and learning of the artificial neural networks that have sound neurobiological basis that leads to superior design techniques. Areas of the future research are also presented.",
+  "description_provenance": [
+    "Author Email: fazam@vt.edu",
+    "Advisor Email: jbay@fallschurch.esys.com",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: wills@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:54Z (GMT). No. of bitstreams: 1 etd.pdf: 1199418 bytes, checksum: b7241507eda0bb2e2d09888658278b5c (MD5)   Previous issue date: 2000-05-19"
+  ],
+  "handle": "27998",
+  "identifier_other": "etd-06092000-12150028",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06092000-12150028/",
+  "identifier_uri": "http://hdl.handle.net/10919/27998",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "a  priori expert knowledge",
+    "generalization",
+    "artificial neural networks",
+    "accuracy",
+    "robustness",
+    "Biologically inspired neural networks",
+    "modular neural networks",
+    "principle of divide and conquer"
+  ],
+  "title": "Biologically Inspired Modular Neural Networks",
+  "type": "Dissertation"
+}

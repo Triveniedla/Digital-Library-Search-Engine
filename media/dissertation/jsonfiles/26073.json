@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Leu, Ching-Shan",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Wang, Fei Fred",
+    "Xu, Ming",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:01Z",
+  "date_adate": "2006-01-31",
+  "date_available": "2014-03-14T20:07:01Z",
+  "date_issued": "2006-01-24",
+  "date_rdate": "2006-01-31",
+  "date_sdate": "2006-01-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Among PWM power conversion topologies, the single-switch forward topology is the one that has been most widely used for decades.  Its popularity has been based on many factors, including its low cost, circuit simplicity and high efficiency. However, several issues need to be addressed when using the forward converter such as the core reset, the voltage spikes caused by the transformer leakage inductance, and the pulsating input current waveform. The transformer is driven in a unidirectional fashion in the forward converter; a tertiary forward converter (TFC) is an example of this.  Therefore, the third winding and reset diode must be provided with an adequate period of reset time so that the flux can be fully reset by the end of each switching cycle to prevent core saturation. Also, due to the utilization of a transformer, leakage inductances cannot be avoided.  The energy stored in the leakage inductance during current ramp-up is not transferred to the load, and is not recovered during its discharge phase.  As a result, the VDS waveform has a voltage spike and undesirable high-frequency oscillation.  Therefore, a higher voltage-rating switch should be used to reduce the risk of high-voltage breakdown.  Although a switch with amply high voltage ratings is available, it would tend to have a higher on-resistance, RDS(ON), resulting in increased conduction losses.   Moreover, selection of a switch with higher voltage ratings than necessary may needlessly increase the cost of the design. Usually an additional circuit such as a snubber circuit or a clamp circuit or the soft-switching technique is used to absorb these voltage spikes.  Consequently, the leakage inductance is intentionally minimized in the PWM power conversion technique so that it will not degrade the circuit performance.  In contrast, the leakage inductance of the transformer may enhance rather than detract from circuit performance with a resonant power conversion technique. To date, however, no single-switch forward converter has been claimed to be able to enhance the converter performance with the PWM power conversion technique by utilizing the leakage inductance.  Therefore, research on the utilization of the transformer leakage inductance in the PWM forward converter is needed.  Two techniques, input current ripple reduction and an embedded filter, are proposed to enhance the performance of forward converter using the PWM technique. By inserting a capacitor between two primary windings of the TFC, an input current ripple reduction technique is proposed and a forward converter with ripple reduction (FRR) is presented in this research work.  Because the voltage of the capacitor is clamped to input voltage, the capacitor becomes a second voltage source to share part of the load current.  As a result, the input current ripple is reduced.  Moreover, the capacitor voltage is clamped both at the static and dynamic states; thus the excessive voltage stress on the main switch S1 of the FAC during low-line to high-line step transient is eliminated. Furthermore, without an external LC filter, the EMI noise levels can be further reduced as a result of the embedded notch filter formed by the transformer leakage inductance and clamp capacitor if the notch frequency is designed to be the same as the switching frequency.  With the help of the clamp capacitor, therefore, the leakage inductance can enhance rather than detract from the converter performance. The input current ripple can be reduced further by employing the proposed techniques.  Two sets of the clamp capacitors and the leakage inductances are utilized, and the current ripple can even be cancelled if the condition is met.  Consequently, the input current becomes a non-pulsating waveform and a forward converter with ripple cancellation (FRC) is presented.  Moreover, without an external LC filter, the EMI noise levels can be further attenuated as a result of the embedded low-pass filter formed by the transformer leakage inductances and clamp capacitors.  Again, the leakage inductance can enhance the converter performance just as the resonant converter does. In addition to providing the analysis and design procedure, this work verifies the performance of the presented converters, the FRR and the FRC, by the experimental results. By employing the proposed techniques, eight new topologies have been extended for different power conversion applications.  Each member of the FRR and the FRC families is able to enhance the converter performance, in ways such as the elimination of the voltage spikes on the main switch without a snubber circuit and the improvement of the EMI performance with small filter components.  Consequently, the cost can be reduced and the space of the converter can be saved.",
+  "description_provenance": [
+    "Author Email: cleu@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: fred.wang@vt.edu",
+    "Advisor Email: mixu3@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:01Z (GMT). No. of bitstreams: 1 CSLeu_ETD.pdf: 2696594 bytes, checksum: 2d265e4a19b70514ce93b56e0c951689 (MD5)   Previous issue date: 2006-01-24"
+  ],
+  "handle": "26073",
+  "identifier_other": "etd-01302006-001219",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01302006-001219/",
+  "identifier_uri": "http://hdl.handle.net/10919/26073",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CSLeu_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PWM",
+    "notch filter",
+    "low-pass filter",
+    "current ripple cancellation",
+    "embedded filter",
+    "current ripple reduction",
+    "Forward converter"
+  ],
+  "title": "Improved Forward Topologies for DC-DC applications with Built-in Input Filter",
+  "type": "Dissertation"
+}

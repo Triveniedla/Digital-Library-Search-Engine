@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Badasyan, Narine",
+  "contributor_committeechair": "Gilles, Robert P.",
+  "contributor_committeemember": [
+    "Haller, Hans H.",
+    "Eckel, Catherine C.",
+    "Barkhi, Reza",
+    "Spanos, Aris",
+    "Lutz, Nancy A."
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2011-08-22T19:02:25Z",
+  "date_adate": "2004-06-22",
+  "date_available": "2011-08-22T19:02:25Z",
+  "date_issued": "2004-06-09",
+  "date_rdate": "2004-06-22",
+  "date_sdate": "2004-06-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Internet has a loosely hierarchical structure. At the top of the hierarchy are the backbones, also called Internet Access Providers (hereafter IAPs). The second layer of the hierarchy is comprised of Internet Service Providers (hereafter ISPs). At the bottom of the hierarchy are the end users, consumers, who browse the web, and websites. To provide access to the whole Internet, the providers must interconnect with each other and share their network infrastructure. Two main forms of interconnection have emerged â   peering under which the providers carry each otherâ  s traffic without any payments and transit under which the downstream provider pays the upstream provider a certain settlement payment for carrying its traffic. This dissertation develops three game theoretical models to describe the interconnection agreements among the providers, and analysis of those models from two alternative modeling perspectives: a purely non-cooperative game and a network perspective. There are two original contributions of the dissertation. First, we model the formation of peering/transit contracts explicitly as a decision variable in a non-cooperative game, while the current literature does not employ such modeling techniques. Second, we apply network analysis to examine interconnection decisions of the providers, which yields much realistic results. Chapter 1 provides a brief description of the Internet history, architecture and infrastructure as well as the economic literature. In Chapter 2 we develop a model, in which IAPs decide on private peering agreements, comparing the benefits of private peering relative to being connected only through National Access Points (hereafter NAPs). The model is formulated as a multistage game. Private peering agreements reduce congestion in the Internet, and so improve the quality of IAPs. The results show that even though the profits are lower with private peerings, due to large investments, the network where all the providers privately peer is the stable network.  Chapter 3 discusses the interconnection arrangements among ISPs. Intra-backbone peering refers to peering between ISPs connected to the same backbone, whereas inter-backbone peering refers to peering between ISPs connected to different backbones. We formulate the model as a two-stage game. Peering affects profits through two channels - reduction of backbone congestion and ability to send traffic circumventing congested backbones. The relative magnitude of these factors helps or hinders peering. In Chapter 4 we develop a game theoretic model to examine how providers decide who they want to peer with and who has to pay transit. There is no regulation with regard to interconnection policies of providers, though there is a general convention that the providers peer if they perceive equal benefits from peering, and have transit arrangements otherwise. The model discusses a set of conditions, which determine the formation of peering and transit agreements. We argue that market forces determine the terms of interconnection, and there is no need for regulation to encourage peering. Moreover, Pareto optimum is achieved under the transit arrangements.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:25Z (GMT). No. of bitstreams: 1  Dissertation_Badasyan.pdf: 2536373 bytes, checksum: 6ee4b0fc570a9a1b5d64d00fc1606187 (MD5)    Previous issue date: 2004-06-09",
+    "Author Email: nbadasya@vt.edu",
+    "Advisor Email: haller@vt.edu",
+    "Advisor Email: eckelc@vt.edu",
+    "Advisor Email: rgilles@vt.edu",
+    "Advisor Email: reza@vt.edu",
+    "Advisor Email: aris@vt.edu",
+    "Advisor Email: nlutz@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11193",
+  "identifier_other": "etd-06182004-131213",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06182004-131213",
+  "identifier_uri": "http://hdl.handle.net/10919/11193",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Badasyan.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Pairwise Stability",
+    "Nash Equilibrium",
+    "Peering",
+    "Transit",
+    "Internet"
+  ],
+  "title": "Game Theoretic Models of Connectivity Among Internet Access Providers",
+  "type": "Dissertation"
+}

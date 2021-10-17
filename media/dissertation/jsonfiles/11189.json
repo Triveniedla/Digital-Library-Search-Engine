@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Dimock, William John",
+  "contributor_committeecochair": [
+    "Lewis, Edwin E.",
+    "Weaver, Michael J."
+  ],
+  "contributor_committeemember": [
+    "Brewster, Carlyle C.",
+    "Stone, Nicholas D.",
+    "Chalmers, David R."
+  ],
+  "contributor_department": "Entomology",
+  "date_accessioned": "2011-08-22T19:02:12Z",
+  "date_adate": "2004-06-04",
+  "date_available": "2011-08-22T19:02:12Z",
+  "date_issued": "2004-04-27",
+  "date_rdate": "2004-06-04",
+  "date_sdate": "2004-05-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A regional IPM project was initiated with four rounds of sampling for white grubs on the fairways of nine golf courses located on the Lower Peninsula of eastern Virginia, from 2000 through 2002.  Fifteen regressor variables were collected and measured that included local-scale variables, golf course management practices and spatial pattern metrics derived from satellite images that underwent two methods of a supervised classification of six land-cover types (turf, woods, wetland, urban, bare soil and water) on four landscape scales derived from 10 km x 10 km buffer zones surrounding each golf course.  Pearson's correlation coefficients were calculated to reduce the number of variables to a few that were highly correlated with white grub densities.  Mallow's C(p) calculations were performed on the reduced variable sets to extract those that would be highly predictive.  A multiple linear regression was performed using the Mallow's variables to develop eight regression equations (two classification methods x four landscape scales) that were used to predict regional white grub presence and abundance in 2003 on six additional golf courses located on the Lower Peninsula.  The best model was the 6 km x 6 km buffer zones model from the second classification method, which included one local-scale variable (golf course age) and three spatial pattern metrics (total turf area, total turf area-to-total urban area ratio, and a woods interspersion-juxtaposition index).  The mean difference between actual and predicted values was -0.15, standard deviation = 0.79, R2 = 81.38%.  Additionally, a study was conducted to determine whether the number of white grubs collected from transects of sampled golf course fairways was significantly different from those found in the roughs.  White grub counts from the roughs were significantly higher (mean = 0.283 grubs/transect, standard error = 0.0135) than those from fairways (mean = 0.146 grubs/transect, standard error = 0.0188); t = -4.31, df = 735, P = 0.0001.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:12Z (GMT). No. of bitstreams: 1 WJD-Dissertation-Final.pdf: 4734090 bytes, checksum: b924a0d76ccf9b68b10f434778ed8e98 (MD5)   Previous issue date: 2004-04-27",
+    "Author Email: wdimock@vt.edu",
+    "Advisor Email: lewise@vt.edu",
+    "Advisor Email: mweaver@vt.edu",
+    "Advisor Email: carlyleb@vt.edu",
+    "Advisor Email: nick.stone@vt.edu",
+    "Advisor Email: dchalmers@tamu.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11189",
+  "identifier_other": "etd-05262004-101931",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05262004-101931",
+  "identifier_uri": "http://hdl.handle.net/10919/11189",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WJD-Dissertation-Final.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Regional IPM",
+    "White Grubs",
+    "Remote Sensing",
+    "Spatial Pattern Analysis",
+    "Spatial Ecology"
+  ],
+  "title": "Spatial factors affecting white grub presence and abundance in golf course turf",
+  "type": "Dissertation"
+}

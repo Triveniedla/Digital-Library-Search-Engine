@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ray, William Keith",
+  "contributor_committeechair": "Larson, Timothy J.",
+  "contributor_committeemember": [
+    "Chen, Jiann-Shin",
+    "Grabau, Elizabeth A.",
+    "Stevens, Ann M.",
+    "Bevan, David R."
+  ],
+  "contributor_department": "Biochemistry and Anaerobic Microbiology",
+  "date_accessioned": "2014-03-14T20:15:29Z",
+  "date_adate": "1999-08-24",
+  "date_available": "2014-03-14T20:15:29Z",
+  "date_issued": "1999-08-02",
+  "date_rdate": "2000-08-24",
+  "date_sdate": "1999-08-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "AgaR, a protein in Escherichia coli thought to control the metabolism of N-acetylgalactosamine, is a member of the DeoR family of transcriptional regulators.  Three transcriptional promoters within a cluster of genes containing the gene for AgaR were identified, specific for agaR, agaZ and agaS, and the transcription start sites mapped.  Transcription from these promoters was specifically induced by N-acetylgalactosamine or galactosamine, though K-12 strains lacked the ability to utilize these as sole sources of carbon.  The activity of these promoters was constitutively elevated in a strain in which agaR had been disrupted confirming that the promoters are subject to negative regulation by AgaR.  AgaR-His6, purified using immobilized metal affinity chromatography, was used for DNase I footprint analysis of the promoter regions.  Four operator sites bound by AgaR were identified.  A putative consensus binding sequence for AgaR was proposed based on these four sites.  In vivo and in vitro analysis of the agaZ promoter indicated that this promoter was activated by the cAMP-cAMP receptor protein (CRP).  Expression from the aga promoters was less sensitive to catabolite repression in revertants capable of  N-acetylgalactosamine utilization, suggesting that these revertants have mutation(s) that result in an elevated level of inducer for AgaR. <p> \tA cluster of genes at minute 87.7 of the E. coli genome contains a gene that encodes another member of the DeoR family of transcriptional regulators.  This protein, YihW, is more similar to GlpR, transcriptional regulator of sn-glycerol 3-phosphate metabolism in E. coli, than other members of the DeoR family.  Despite the high degree of similarity, YihW lacked the ability to repress PglpK, a promoter known to be controlled by GlpR.  A variant of YihW containing substitutions in the putative recognition helix to more closely match the recognition helix of GlpR was also unable to repress PglpK. Transcriptional promoters identified in this cluster of genes were negatively regulated by YihW. <p> \tRegulation of genes involved in the metabolism of sn-glycerol 3-phosphate in E. coli by GlpR has been well characterized.  However, the function of a protein (GlpE) encoded by a gene cotranscribed with that for GlpR was unknown prior to this work. GlpE was identified as a single-domain, 12-kDa rhodanese (thiosulfate:cyanide sulfurtransferase).  The enzyme was purified to near homogeneity and characterized.  As shown for other characterized rhodaneses, kinetic analysis revealed that catalysis occurs via an enzyme-sulfur intermediate utilizing a double-displacement mechanism requiring an active-site cysteine.  Km (SSO32-) and Km (CN-) were determined to be 78 mM and 17 mM, respectively.  The native molecular mass of GlpE was 22.5 kDa indicating that GlpE functions as a dimer.  GlpE exhibited a kcat of 230 s-1.  Thioredoxin, a small multifunctional dithiol protein, served as sulfur-acceptor substrate for GlpE with an apparent Km of 34 mM when thiosulfate was near its Km, suggesting thioredoxin may be a physiological substrate.",
+  "description_provenance": [
+    "Author Email: keith.ray4@gte.net",
+    "Advisor Email: chenjs@vt.edu",
+    "Advisor Email: egrabau@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: drbevan@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:29Z (GMT). No. of bitstreams: 1 Etd.pdf: 1071849 bytes, checksum: 128a3ca1a0140cc515bc2c082aba00ca (MD5)   Previous issue date: 1999-08-02"
+  ],
+  "handle": "28740",
+  "identifier_other": "etd-082099-094958",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-082099-094958/",
+  "identifier_uri": "http://hdl.handle.net/10919/28740",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "sulfurtransferase",
+    "iron-sulfur cluster biosynthesis",
+    "repressors",
+    "carbon metabolism",
+    "transcriptional control"
+  ],
+  "title": "Characterization of AgaR and YihW, Members of the DeoR Family of Transcriptional Regulators, and GlpE, a Rhodanese Belonging to the GlpR Regulon, Also a Member of the DeoR Family",
+  "type": "Dissertation"
+}

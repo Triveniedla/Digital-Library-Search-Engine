@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Aytemiz, Tevfik",
+  "contributor_committeecochair": [
+    "Jacobson, Sheldon H.",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_committeemember": [
+    "Ye, Keying",
+    "Meller, Russell D.",
+    "Bish, Ebru K."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:13:43Z",
+  "date_adate": "2001-07-06",
+  "date_available": "2014-03-14T20:13:43Z",
+  "date_issued": "2001-06-28",
+  "date_rdate": "2002-07-06",
+  "date_sdate": "2001-07-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Discrete optimization problems are defined by a finite set of solutions together with an objective function value assigned to each solution.  Local search algorithms provide useful tools for addressing a wide variety of intractable discrete optimization problems.  Each such algorithm offers a distinct set of rules to intelligently exploit the solution space with the hope of finding an optimal/near optimal solution using a reasonable amount of computing time.  This research studies and analyses randomly generated instances of 3-SATISFIABILITY to gain insights into the structure of the underlying solution space.  Two random variables are defined and analyzed to assess the probability that a fixed solution will be assigned a particular objective function value in a randomly generated instance of 3-SATISFIABILITY.  Then, a random vector is defined and analyzed to investigate how the solutions in the solution space are distributed over their objective function values.  These results are then used to define a stopping criterion for local search algorithms applied to MAX 3-SATISFIABILITY.  This research also analyses and compares the effectiveness of two local search algorithms, tabu search and random restart local search, on MAX 3-SATISFIABILITY.  Computational results with tabu search and random restart local search on randomly generated instances of 3-SATISFIABILITY are reported.  These results suggest that, given a limited computing budget, tabu search offers an effective alternative to random restart local search.  On the other hand, these two algorithms yield similar results in terms of the best solution found.  The computational results also suggest that for randomly generated instances of 3-SATISFIABILITY (of the same size), the globally optimal solution objective function values are typically concentrated over a narrow range.",
+  "description_provenance": [
+    "Author Email: taytemiz@vt.edu",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: rmeller@vt.edu",
+    "Advisor Email: shj@uiuc.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:43Z (GMT). No. of bitstreams: 1 TA-Dissertation.pdf: 1043838 bytes, checksum: e1a2d3fbec567d243e906fcf5961a923 (MD5)   Previous issue date: 2001-06-28"
+  ],
+  "handle": "28202",
+  "identifier_other": "etd-07042001-165926",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07042001-165926/",
+  "identifier_uri": "http://hdl.handle.net/10919/28202",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "TA-Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "3-Satisfiability",
+    "Satisfiability",
+    "Probabilistic Analysis of Max 3-Satisfiability",
+    "Tabu Search",
+    "Threshold Conjecture",
+    "Max 3-Satisfiability"
+  ],
+  "title": "A Probabilistic Study of 3-SATISFIABILITY",
+  "type": "Dissertation"
+}

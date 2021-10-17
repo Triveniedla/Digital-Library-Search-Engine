@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Bonanos, Aristides Michael",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "O'Brien, Walter F. Jr.",
+    "Wang, Joseph J.",
+    "Barnwell, Richard W.",
+    "Goyne, Christopher P."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:51Z",
+  "date_adate": "2005-09-23",
+  "date_available": "2014-03-14T20:15:51Z",
+  "date_issued": "2005-08-22",
+  "date_rdate": "2006-09-23",
+  "date_sdate": "2005-09-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An integrated aerodynamic-ramp-injector/plasma-torch-igniter of original design was tested in a Mâ   = 2, unvitiated, heated flow facility arranged as a diverging duct scramjet combustor. The facility operated at a total temperature of 1000 K and total pressure of 330 kPa. Hydrogen (H2), ethylene (C2H4) and methane (CH4) were used as fuels, and a wide range of global equivalence ratios were tested. The main data obtained were wall static pressure measurements, and the presence of combustion was determined based on the pressure rises obtained.  Supersonic and dual-mode combustion were achieved with hydrogen and ethylene fuel, whereas very limited heat release was obtained with the methane. Global operability limits were determined to be 0.07 < Ï  < 0.31 for hydrogen, and 0.14 < Ï  < 0.48 for ethylene. The hydrogen fuel data for the aeroramp/torch system was compared to data from a physical 10Âº unswept compression ramp injector and similar performance was found with the two arrangements. With hydrogen and ethylene as fuels and the aeroramp/plasma-torch system, the effect of varying the air total temperature was investigated. Supersonic combustion was achieved with temperatures as low as 530K and 680K for the two fuels, respectively. These temperatures are facility/operational limits, not combustion limits. The pressure profiles were analyzed using the Ramjet Propulsion Analysis (RJPA) code. Results indicate that both supersonic and dual-mode ramjet combustion were achieved. Combustion efficiencies varied with Ï  from a high of about 75% to a low of about 45% at the highest Ï . With a theoretical diffuser and nozzle assumed for the configuration and engine, thrust was computed for each fuel. Fuel specific impulse was on average 3000 and 1000 seconds for hydrogen and ethylene respectively, and air specific impulse varied from a low of about 9 sec to a high of about 24 sec (for both fuels) for the To = 1000K test condition. The GASP RANS code was used to numerically simulate the injection and mixing process of the fuels. The results of this study were very useful in determining the suitability of the selected plasma torch locations. Further, this tool can be used to determine whether combustion is theoretically possible or not.",
+  "description_provenance": [
+    "Author Email: abonanos@vt.edu, abonanos@gmail.com",
+    "Advisor Email: walto@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: jowang@vt.edu",
+    "Advisor Email: barnwell@vces.org",
+    "Advisor Email: goyne@virginia.edu",
+    "Made available in DSpace on 2014-03-14T20:15:51Z (GMT). No. of bitstreams: 1 BonanosDissertation.pdf: 2815250 bytes, checksum: 62719ea2e10dcb17f479ce2156747ad7 (MD5)   Previous issue date: 2005-08-22"
+  ],
+  "handle": "28847",
+  "identifier_other": "etd-09012005-141732",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09012005-141732/",
+  "identifier_uri": "http://hdl.handle.net/10919/28847",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BonanosDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "aeroramp mixing and injection",
+    "hypersonic propulsion",
+    "plasma torch",
+    "supersonic combustion",
+    "scramjets"
+  ],
+  "title": "Scramjet Operability Range Studies of an Integrated Aerodynamic-Ramp-Injector/Plasma-Torch Igniter with Hydrogen and Hydrocarbon Fuels",
+  "type": "Dissertation"
+}

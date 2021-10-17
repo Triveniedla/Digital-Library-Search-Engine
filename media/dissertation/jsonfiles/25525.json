@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Bennett, James",
+  "contributor_committeechair": [
+    "Cao, Guohua",
+    "Wang, Ge"
+  ],
+  "contributor_committeemember": [
+    "Rylander, Christopher G",
+    "Butler, Anthony",
+    "Yu, Hengyong"
+  ],
+  "contributor_department": "Biomedical Engineering",
+  "date_accessioned": "2014-02-22T09:00:14Z",
+  "date_available": "2014-02-22T09:00:14Z",
+  "date_issued": "2014-02-21",
+  "degree_discipline": "Biomedical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Spectral computed tomography (CT) has proven an important development in biomedical imaging, yet there are several limitations to this nascent technology.  Near-term implementation of spectral CT imaging can be enhanced using a hybrid architecture that integrates a narrow-beam spectral 'interior' imaging chain integrated with a traditional wide-beam 'global' imaging chain.  The first study demonstrates the feasibility of hybrid spectral micro-CT architecture with a first-of-its-kind system implementation and preliminary results showing improved contrast resolution and spatial resolution.  The second study seeks to characterize the hybrid spectral micro-CT scan protocol for reduction of radiation exposure.  In the third study, the spectral 'interior' imaging chain was optimized for K-edge imaging of high-z elemental contrast agents.  In the final study, an open-source, low-cost solution for managing digital content in an academic setting was demonstrated.  The results of these studies confirm the merits of a hybrid architecture and warrant further consideration in future pre-clinical and clinical spectral micro-CT and CT scanner design and protocols.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-22T09:00:14Z (GMT). No. of bitstreams: 2  Bennett_J_D_2014.pdf: 6264467 bytes, checksum: 8ef048a918dabac30461b9145a9103c7 (MD5)  Bennett_J_D_2014_support_1.pdf: 138265 bytes, checksum: 522c8fdfcb677b3ed06b948f4bb4c301 (MD5)    Previous issue date: 2014-02-21",
+  "format_medium": "ETD",
+  "handle": "25525",
+  "identifier_other": "vt_gsexam:2258",
+  "identifier_uri": "http://hdl.handle.net/10919/25525",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Micro-CT",
+    "Spectral CT",
+    "Hybrid Imaging",
+    "K-edge Imaging",
+    "Content Management"
+  ],
+  "title": "Hybrid Spectral Micro-CT: System Implementation, Exposure Reduction, K-edge Imaging Optimization, and Content Management",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kopper, Regis Augusto Poli",
+  "contributor_committeechair": "Bowman, Douglas A.",
+  "contributor_committeemember": [
+    "North, Christopher L.",
+    "Tatar, Deborah Gail",
+    "McCrickard, Donald Scott",
+    "Balakrishnan, Ravin"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:40Z",
+  "date_adate": "2011-08-04",
+  "date_available": "2014-03-14T20:13:40Z",
+  "date_issued": "2011-06-09",
+  "date_rdate": "2011-08-04",
+  "date_sdate": "2011-07-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Distal pointing is the interaction style defined by directly pointing at targets from a distance. It follows a laser pointer metaphor and the position of the cursor is determined by the intersection of a vector extending the pointing device with the display surface. Distal pointing as a basic interaction style poses several challenges for the user, mainly because of the lack of precision humans have when using it.      The focus of this thesis is to understand and improve distal pointing, making it a viable interaction metaphor to be used in a wide variety of applications. We achieve this by proposing and validating a predictive model of distal pointing that is inspired by Fitts' law, but which contains some unique features. The difficulty of a distal pointing task is best described by the angular size of the target and the angular distance that the cursor needs to go across to reach the target from the input device perspective. The practical impact of this is that the user's relative position to the target should be taken into account. Based on the model we derived, we proposed a set of design guidelines for high-precision distal pointing techniques. The main guideline from the model is that increasing the target size is much more important than reducing the distance to the target.      In order to improve distal pointing, we followed the model guidelines and designed interaction techniques that aim at improving the precision of distal pointing tasks. Absolute and Relative Mapping (ARM) distal pointing increases precision by offering the user a toggle which changes the control/display (CD) ratio such that a large movement of the input device is mapped to a small movement of the cursor. Dynamic Control Display Ratio (DyCoDiR) automatically increases distal pointing precision, as the user needs it. DyCoDiR takes into account the user distance to the interaction area and the speed at which the user moves the input device to dynamically calculate an increased CD ratio, making the action more precise the steadier the user tries to be. We performed an evaluation of ARM and DyCoDiR comparing them to basic distal pointing in a realistic context. In this experiment, we also provided variations of the techniques which increased the visual perception of targets through zooming in the area around the cursor when precision was needed. Results from the study show that ARM and DyCoDiR are significantly faster and more accurate than basic distal pointing with tasks that require very high precision. We analyzed user navigation strategies and found that the high precision techniques afford users to remain stationary while performing interactions. However, we also found that individual differences have a strong impact on the decision to walk or not, and that, sometimes, is more important than the technique affordance. We provided a validation for the distal pointing model through the analysis of expected difficulty of distal pointing tasks in light of each technique tested.  \t\t   We propose selection by progressive refinement, a new design concept for distal pointing selection techniques, whose goal is to offer the ability to achieve near perfect accuracy in selection at very cluttered environments. The idea of selection by progressive refinement is to gradually eliminate possible targets from the set of selectable objects until only one object is available for selection. We implemented SQUAD, a selection by progressive refinement distal pointing technique, and performed a controlled experiment comparing it to basic distal pointing. We found that there is a clear tradeoff between immediate selections that require high precision and selections by progressive refinement which always require low precision. We validated the model by fitting the distal pointing data and proposed a new model, which has a linear growth in time, for SQUAD selection.",
+  "description_provenance": [
+    "Author Email: kopper@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: dtatar@cs.vt.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: ravin@dgp.toronto.edu",
+    "Advisor Email: bowman@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:40Z (GMT). No. of bitstreams: 1 Kopper_RAP_D_2011.pdf: 20957314 bytes, checksum: 1b0bf3094a7ccc07b1ac1a41e1a429b3 (MD5)   Previous issue date: 2011-06-09"
+  ],
+  "handle": "28183",
+  "identifier_other": "etd-07012011-195812",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07012011-195812/",
+  "identifier_uri": "http://hdl.handle.net/10919/28183",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kopper_RAP_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "progressive refinement",
+    "3D selection",
+    "3D interaction",
+    "distal pointing",
+    "Fitts' law",
+    "HCI models of human motor behavior"
+  ],
+  "title": "Understanding and Improving Distal Pointing Interaction",
+  "type": "Dissertation"
+}

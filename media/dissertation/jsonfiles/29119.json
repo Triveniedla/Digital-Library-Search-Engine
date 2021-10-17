@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Rafique, Muhammad  Mustafa",
+  "contributor_committeechair": "Butt, Ali R. A.",
+  "contributor_committeemember": [
+    "Cameron, Kirk W.",
+    "Feng, Wu-Chun",
+    "Nazhandali, Leyla",
+    "Nikolopoulos, Dimitrios S.",
+    "Tilevich, Eli"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:51Z",
+  "date_adate": "2011-10-21",
+  "date_available": "2014-03-14T20:16:51Z",
+  "date_issued": "2011-09-22",
+  "date_rdate": "2011-10-21",
+  "date_sdate": "2011-09-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The computing needs and the input and result datasets of modern scientific and enterprise applications are growing exponentially. To support such applications, High-Performance Computing (HPC) systems need to employ thousands of cores and innovative data management. At the same time, an emerging trend in designing HPC systems is to leverage specialized asymmetric multicores, such as IBM Cell and AMD Fusion APUs, and commodity computational accelerators, such as programmable GPUs, which exhibit excellent price to performance ratio as well as the much needed high energy efficiency. While such accelerators have been studied in detail as stand-alone computational engines, integrating the accelerators into large-scale distributed systems with heterogeneous computing resources for data-intensive computing presents unique challenges and trade-offs. Traditional programming and resource management techniques cannot be directly applied to many-core accelerators in heterogeneous distributed settings, given the complex and custom instruction sets architectures, memory hierarchies and I/O characteristics of different accelerators. In this dissertation, we explore the design space of using commodity accelerators, specifically IBM Cell and programmable GPUs, in distributed settings for data-intensive computing and propose an adaptive framework for programming and managing heterogeneous clusters.  The proposed framework provides a MapReduce-based extended programming model for heterogeneous clusters, which distributes tasks between asymmetric compute nodes by considering workload characteristics and capabilities of individual compute nodes. The framework provides efficient data prefetching techniques that leverage general-purpose cores to stage the input data in the private memories of the specialized cores. We also explore the use of an advanced layered-architecture based software engineering approach and provide mixin-layers based reusable software components to enable easy and quick deployment of heterogeneous clusters. The framework also provides multiple resource management and scheduling policies under different constraints, e.g., energy-aware and QoS-aware, to support executing concurrent applications on multi-tenant heterogeneous clusters. When applied to representative applications and benchmarks, our framework yields significantly improved performance in terms of programming efficiency and optimal resource management as compared to conventional, hand-tuned, approaches to program and manage accelerator-based heterogeneous clusters.",
+  "description_provenance": [
+    "Author Email: mustafa@vt.edu",
+    "Advisor Email: butta@cs.vt.edu",
+    "Advisor Email: cameron@vt.edu",
+    "Advisor Email: wfeng@vt.edu",
+    "Advisor Email: leyla@vt.edu",
+    "Advisor Email: dsn@ics.forth.gr",
+    "Advisor Email: tilevich@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:51Z (GMT). No. of bitstreams: 1 Rafique_MM_D_2011.pdf: 1841655 bytes, checksum: 8367491835637becd5257c1902a40fd0 (MD5)   Previous issue date: 2011-09-22"
+  ],
+  "handle": "29119",
+  "identifier_other": "etd-09272011-232811",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09272011-232811/",
+  "identifier_uri": "http://hdl.handle.net/10919/29119",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Rafique_MM_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Heterogeneous Computing",
+    "High-Performance Computing",
+    "Resource Sharing",
+    "Resource Management and Scheduling",
+    "Programming Models"
+  ],
+  "title": "An Adaptive Framework for Managing Heterogeneous Many-Core Clusters",
+  "type": "Dissertation"
+}

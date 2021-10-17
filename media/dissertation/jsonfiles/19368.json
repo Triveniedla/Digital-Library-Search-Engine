@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Al-Khwaji, Abdusalam",
+  "contributor_committeechair": "Diller, Thomas E",
+  "contributor_committeemember": [
+    "Rylander, M Nichole",
+    "Grant, John W",
+    "Vick, Brian",
+    "Huxtable, Scott T"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-04-30T08:00:07Z",
+  "date_available": "2013-04-30T08:00:07Z",
+  "date_issued": "2013-04-29",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "A new mathematical model has been developed along with a new parameter estimation routine using surface temperature and heat flux measurements to estimate blood perfusion and thermal resistance in living tissue. Dynamic thermal measurements collected at the surface of the sensor before and after imposing a dynamic thermal cooling event are used with the model to estimate the blood perfusion, thermal resistance and core temperature. The Green\\'s function based analytical solution does not require calculation of the whole tissue temperature distribution, which was not the case for the previous models. The result from the new model was proved to have better and more consistent results than previous models. The new model was validated to solve one of the unsolved biomedical problems which is the ability of detecting burn severity. The method was tested with a phantom perfusion system. The results matched known blood perfusion and thermal resistance values. The method was also tested with burns on animal models. Inflammation effects associated with the burns were studied using a newly developed term called the Burn Factor. This correlated with the severity of imposed burns.<br />This work consists of three journal papers. The first paper introduces the mathematical model and its validation with finite-difference solutions. The second paper validates the physical aspects of the usage of the model with thermal measurement in detecting simulated burned layers and the associated perfusion. The third paper demonstrates the ability of the model to use thermal measurements to detect different burn severity of an animal model and to study the healing process.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-30T08:00:07Z (GMT). No. of bitstreams: 2 Al-Khwaji_A_D_2013.pdf: 1569722 bytes, checksum: a1cbeb4f29d0f3516538c2cf429a8264 (MD5) Al-Khwaji_A_D_2013_support_1.pdf: 255500 bytes, checksum: db9fdaefc0ec4faac529aaeb67199e49 (MD5)   Previous issue date: 2013-04-29",
+  "format_medium": "ETD",
+  "handle": "19368",
+  "identifier_other": "vt_gsexam:748",
+  "identifier_uri": "http://hdl.handle.net/10919/19368",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "burn severity",
+    "blood perfusion",
+    "thermal resistance",
+    "thermal measurement",
+    "parameter estimation",
+    "inflammation"
+  ],
+  "title": "Computational and Experimental Modeling of the Bioheat Transfer Process of Perfusion in Tissue Applied to Burn Wounds",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Rao, Weifeng",
+  "contributor_committeechair": "Wang, Yue J.",
+  "contributor_committeemember": [
+    "Dr. Dwight D. Viehland",
+    "Dr. William T. Reynolds, Jr.",
+    "Dr. David Y. Gao",
+    "Aning, Alexander O."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:14:39Z",
+  "date_adate": "2009-08-20",
+  "date_available": "2014-03-14T20:14:39Z",
+  "date_issued": "2009-07-31",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-08-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Phase field modeling and simulation is employed to study the underlying mechanism of enhancing electromechanical properties in single crystals and polycrystals of perovskite-type ferroelectrics around the morphotropic phase boundary (MPB). The findings include: <p>      (I) Coherent phase decomposition near MPB in PZT is investigated. It reveals characteristic multidomain microstructures, where nanoscale lamellar domains of tetragonal and rhombohedral phases coexist with well-defined crystallographic orientation relationships and produce coherent diffraction effects.<p>      (II) A bridging domain mechanism for explaining the phase coexistence observed around MPBs is presented. It shows that minor domains of metastable phase spontaneously coexist with and bridge major domains of stable phase to reduce total system free energy, which explains the enhanced piezoelectric response around MPBs.<p>      (III) We demonstrate a grain size- and composition-dependent behavior of phase coexistence around the MPBs in polycrystals of ferroelectric solid solutions. It shows that grain boundaries impose internal mechanical and electric boundary conditions, which give rise to the grain size effect of phase coexistence, that is, the width of phase coexistence composition range increases with decreasing grain sizes.<p>      (IV) The domain size effect is explained by the domain wall broadening mechanism. It shows that, under electric field applied along the nonpolar axis, without domain wall motion, the domain wall broadens and serves as embryo of field-induced new phase, producing large reversible strain free from hysteresis.<p>      (V) The control mechanisms of domain configurations and sizes in crystallographically engineered ferroelectric single crystals are investigated. It reveals that highest domain wall densities are obtained with intermediate magnitude of electric field applied along non-polar axis of ferroelectric crystals. <p>      (VI) The domain-dependent internal electric field associated with the short-range ordering of charged point defects is demonstrated to stabilize engineered domain microstructure. The internal electric field strength is estimated, which is in agreement with the magnitude evaluated from available experimental data.<p>      (VII) The poling-induced piezoelectric anisotropy in untextured ferroelectric ceramics is investigated. It is found that the maximum piezoelectric response in the poled ceramics is obtained along a macroscopic nonpolar direction; and extrinsic contributions from preferred domain wall motions play a dominant role in piezoelectric anisotropy and enhancement in macroscopic nonpolar direction.<p>      (VIII) Stress effects on domain microstructure are investigated for the MPB-based ferroelectric polycrystals. It shows that stress alone cannot pole the sample, but can be utilized to reduce the strength of poling electric field. <p>      (IX) The effects of compressions on hysteresis loops and domain microstructures of MPB-based ferroelectric polycrystals are investigated. It shows that longitudinal piezoelectric coefficient can be enhanced by compressions, with the best value found when compression is about to initiate the depolarization process.",
+  "description_provenance": [
+    "Author Email: wfrao@vt.edu",
+    "Advisor Email: dviehlan@vt.edu",
+    "Advisor Email: reynolds@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Advisor Email: yuwang@mse.vt.edu",
+    "Advisor Email: aaning@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:39Z (GMT). No. of bitstreams: 1 Final_Dissertation_wfrao.pdf: 16610429 bytes, checksum: af77a0a959995c4a76bb5f13b8e895af (MD5)   Previous issue date: 2009-07-31"
+  ],
+  "handle": "28493",
+  "identifier_other": "etd-08022009-172904",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08022009-172904/",
+  "identifier_uri": "http://hdl.handle.net/10919/28493",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Final_Dissertation_wfrao.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Domain Engineering",
+    "Morphotropic Phase Boundary",
+    "Ferroelectrics",
+    "Phase Field Modeling",
+    "Phase Coexistence",
+    "Piezoelectricity",
+    "Domain Microstructure and Evolution"
+  ],
+  "title": "Computer Modeling and Simulation of Morphotropic Phase Boundary Ferroelectrics",
+  "type": "Dissertation"
+}

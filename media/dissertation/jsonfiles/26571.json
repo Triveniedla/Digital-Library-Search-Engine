@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Weinhart, Thomas",
+  "contributor_committeechair": "Adjerid, Slimane",
+  "contributor_committeemember": [
+    "Beattie, Christopher A.",
+    "Rogers, Robert C.",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:08:41Z",
+  "date_adate": "2009-04-22",
+  "date_available": "2014-03-14T20:08:41Z",
+  "date_issued": "2009-03-19",
+  "date_rdate": "2013-07-30",
+  "date_sdate": "2009-03-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation we present an analysis for the discontinuous Galerkin discretization error of multi-dimensional first-order linear symmetric and symmetrizable hyperbolic systems of conservation laws. We explicitly write the leading term of the local DG error, which is spanned by Legendre polynomials of degree p and p+1 when p-th degree polynomial spaces are used for the solution. For special hyperbolic systems, where the coefficient matrices are nonsingular, we show that the leading term of the error is spanned by (p+1)-th degree Radau polynomials. We apply these asymptotic results to observe that projections of the error are pointwise O(h<sup>p+2</sup>)-superconvergent in some cases and establish superconvergence results for some integrals of the error. We develop an efficient implicit residual-based a posteriori error estimation scheme by solving local finite element problems to compute estimates of the leading term of the discretization error. For smooth solutions we obtain error estimates that converge to the true error under mesh refinement. We first show these results for linear symmetric systems that satisfy certain assumptions, then for general linear symmetric systems. We further generalize these results to linear symmetrizable systems by considering an equivalent symmetric formulation, which requires us to make small modifications in the error estimation procedure. We also investigate the behavior of the discretization error when the Lax-Friedrichs numerical flux is used, and we construct asymptotically exact a posteriori error estimates. While no superconvergence results can be obtained for this flux, the error estimation results can be recovered in most cases. These error estimates are used to drive h- and p-adaptive algorithms and assess the numerical accuracy of the solution. We present computational results for different fluxes and several linear and nonlinear hyperbolic systems in one, two and three dimensions to validate our theory. Examples include the wave equation, Maxwell's equations, and the acoustic equation.",
+  "description_provenance": [
+    "Author Email: weinhart@vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:41Z (GMT). No. of bitstreams: 1 Dissertation_Thomas_Weinhart.pdf: 1611001 bytes, checksum: 4054b3d4ce4d6ac31a9ed2d721fdbf2a (MD5)   Previous issue date: 2009-03-19"
+  ],
+  "handle": "26571",
+  "identifier_other": "etd-03312009-114703",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03312009-114703/",
+  "identifier_uri": "http://hdl.handle.net/10919/26571",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Thomas_Weinhart.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hyperbolic systems of conservation laws",
+    "a posteriori error estimation",
+    "superconvergence",
+    "adaptivity",
+    "discontinuous Galerkin method"
+  ],
+  "title": "A Posteriori Error Analysis of the Discontinuous Galerkin Method for Linear Hyperbolic Systems of Conservation Laws",
+  "type": "Dissertation"
+}

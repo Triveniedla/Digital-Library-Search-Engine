@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Muecke, Karl James",
+  "contributor_committeechair": "Hong, Dennis W.",
+  "contributor_committeecochair": "Kurdila, Andrew J.",
+  "contributor_committeemember": [
+    "Southward, Steve C.",
+    "Hendricks, Scott L.",
+    "Lockhart, Thurmon E."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:04Z",
+  "date_adate": "2009-04-24",
+  "date_available": "2014-03-14T20:09:04Z",
+  "date_issued": "2009-03-31",
+  "date_rdate": "2009-04-24",
+  "date_sdate": "2009-04-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mimicking human motion with a humanoid robot can prove to be useful for studying gaits, designing better prostheses, or assisting the elderly or disabled. Directly mimicking and implementing a motion of a human on a humanoid robot may not be successful because of the different dynamic characteristics between them, which may cause the robot to fall down due to instability. Using the Zero Moment Point as the stability criteria, this work proposes an Analytical Motion Filter (AMF), which stabilizes a reference motion that can come from human motion capture data, gait synthesis using kinematics, or animation software, while satisfying common constraints.  In order to determine how the AMF stabilized a motion, the different kinds of instabilities were identified and classified when examining the reference motions.  The different cases of instability gave more insight as to why a particular motion was unstable: the motion was too fast, too slow, or inherently unstable.  In order to stabilize the gait two primary methods were utilized: time and spatial scaling.  Spatial scaling scaled the COM trajectory down towards a known stable trajectory.  Time scaling worked similarly by changing the speed of the motion, but was limited in effectiveness based on the types of instabilities in the motion and the coupling of the spatial directions.  Other constraints applied to the AMF and combinations of the different methods produced interesting results that gave more insight into the stability of the gait.  The AMF was tested using both simulations and physical experiments using the DARwIn miniature humanoid robot developed by RoMeLa at Virginia Tech as the test platform.  The simulations proved successful and provided more insight to understanding instabilities that can occur for different gait generation methods.  The physical experiments worked well for non-walking motions, but because of insufficient controllability in the joint actuators of the humanoid robot used for the experiment, the high loads during walking motions prevented them from proper testing.  The algorithms used in this work could also be expanded to legged robots or entirely different platforms that depend on stability and can use the ZMP as a stability criterion.  One of the primary contributions of this work was showing that an entire reference motion could be stabilized using a single set of closed form solutions and equations.  Previous work by others considered optimization functions and numeric schemes to stabilize all or a portion of a gait.  Instead, the Analytical Motion Filter gives a direct relationship between the input reference motion and the resulting filtered output motion.",
+  "description_provenance": [
+    "Author Email: kmuecke@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: kurdila@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: lockhart@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:04Z (GMT). No. of bitstreams: 1 01-Body.pdf: 18454049 bytes, checksum: 4b773a4e1168c7bc3bcd56e0ed7ae14a (MD5)   Previous issue date: 2009-03-31"
+  ],
+  "handle": "26686",
+  "identifier_other": "etd-04072009-183346",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04072009-183346/",
+  "identifier_uri": "http://hdl.handle.net/10919/26686",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "01-Body.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Humanoid robot",
+    "Zero Moment Point",
+    "Biped",
+    "Motion Filter"
+  ],
+  "title": "An Analytical Motion Filter for Humanoid Robots",
+  "type": "Dissertation"
+}

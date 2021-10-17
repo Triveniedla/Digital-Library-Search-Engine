@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Moorhouse, Kevin Michael",
+  "contributor_committeechair": "Granata, Kevin P.",
+  "contributor_committeemember": [
+    "Renardy, Yuriko Y.",
+    "Grant, John Wallace",
+    "Lesko, John J.",
+    "Madigan, Michael L.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:17:21Z",
+  "date_adate": "2005-11-23",
+  "date_available": "2014-03-14T20:17:21Z",
+  "date_issued": "2005-09-30",
+  "date_rdate": "2005-11-23",
+  "date_sdate": "2005-10-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Role of Intrinsic and Reflexive Dynamics in the Control of Spinal Stability  Kevin M. Moorhouse  Abstract  Spinal stability describes the ability of the neuromuscular system to maintain equilibrium in the presence of kinematic and control variability, and may play an important role in the etiology of low-back disorders (LBDs).  The primary mechanism for the neuromuscular control of spinal stability is the recruitment and control of active paraspinal muscle stiffness (i.e., trunk stiffness).  The two major components of active muscle stiffness include the immediate stiffness contribution provided by the intrinsic stiffness of actively contracted muscles, and the delayed stiffness contribution provided by the reflex response.  The combined behavior of these two components of active muscle stiffness is often referred to as \"effective stiffness\".  In order to understand the neuromuscular control of spinal stability, stochastic system identification methods were utilized and nonparametric impulse response functions (IRFs) calculated in three separate studies in an effort to:      1) Quantify the effective dynamics (stiffness, damping, mass) of the trunk  Nonparametric IRFs were implemented to estimate the dynamics of the trunk during active voluntary trunk extension exertions.  IRFs were determined from the movement following pseudo-random stochastic force disturbances applied to the trunk.  Results demonstrated a significant increase in effective stiffness and damping with voluntary exertion forces.  2) Quantify the reflex dynamics of the trunk  Nonparametric IRFs were computed from the muscle electromyographic (EMG) reflex response following a similar pseudo-random force disturbance protocol.  Reflexes were observed with a mean response delay of 67 msec.  Reflex gain was estimated from the peak of the IRF and increased significantly with exertion effort.  3) Separate the intrinsic and reflexive components of the effective dynamics and determine the relative role of each in the control of spinal stability.  Both intrinsic muscle and reflexive components of activation contribute to the effective trunk stiffness.  To evaluate the relative role of these components, a nonlinear parallel-cascade system identification procedure was used to separate the intrinsic and reflexive dynamics.  Results revealed that the intrinsic dynamics of the trunk alone can be insufficient to counteract the destabilizing effects of gravity.  This illustrates the extreme importance of reflexive feedback in the maintenance of spinal stability and warrants the inclusion of reflexes in any comprehensive trunk model.",
+  "description_provenance": [
+    "Author Email: kmoorhou@vt.edu",
+    "Advisor Email: renardy@vt.edu",
+    "Advisor Email: granata@vt.edu",
+    "Advisor Email: jgrant@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: mimadiga@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:21Z (GMT). No. of bitstreams: 1 Kevin_Moorhouse_Dissertation.pdf: 712615 bytes, checksum: 62bc96ee7ffbe2815f394b8a8ba54a08 (MD5)   Previous issue date: 2005-09-30"
+  ],
+  "handle": "29265",
+  "identifier_other": "etd-10132005-163032",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10132005-163032/",
+  "identifier_uri": "http://hdl.handle.net/10919/29265",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kevin_Moorhouse_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dynamics",
+    "Intrinsic Stiffness",
+    "Reflexes",
+    "Low Back"
+  ],
+  "title": "Role of Intrinsic and Reflexive Dynamics in the Control of Spinal Stability",
+  "type": "Dissertation"
+}

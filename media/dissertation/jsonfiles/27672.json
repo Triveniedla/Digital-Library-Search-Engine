@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Topasna, Gregory A",
+  "contributor_committeechair": "Dennison, Brian K.",
+  "contributor_committeemember": [
+    "Broderick, John J.",
+    "Blecher, Marvin",
+    "Heflin, James R.",
+    "Simonetti, John H."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:11:55Z",
+  "date_adate": "1999-05-13",
+  "date_available": "2014-03-14T20:11:55Z",
+  "date_issued": "1999-05-07",
+  "date_rdate": "2000-05-13",
+  "date_sdate": "1999-05-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Polarimetric CCD images of HII regions were obtained using a rotating polarizer device designed, built, and used in conjunction with the Spectral Line Imaging Camera (SLIC) at Virginia Tech's Martin Observatory in Giles County, Virginia. The SLIC uses a narrow bandpass interference filter coupled with a 58 mm camera lens and cryogenically cooled CCD camera to image diffuse, extended H-alpha emission over a 10Â° angular extent. A rotating polarizer device  was placed in front of the H-alpha filter with images recorded at every 45Â° with  respect to a fiducial setting. Stoke's parameters and were obtained and polarization maps of selected HII regions were created. Maps of the Monoceros supernova remnant and the Rosette Nebula (NGC 2237-9) were made in an attempt to detect polarization by selective extinction in H light. While this was not detected, polarization by scattering in a dust shell around the Rosette Nebula (NGC 2237-9) was observed. <p> Scattered continuum light from the central star cluster NGC 2244 in the H-alpha bandpass was ruled out. Using Celnik's (1985) map of extinction across the Rosette Nebula at the H wavelength, coupled with Serkowski's empirical  relationship between maximum polarization and color excess, it was shown that the maximum degree of polarization seen in the Rosette Nebula should be no more than 3% to 4%. The polarization observed in this project reaches values as high as 10%. It was found that a correlation exists between the H-alpha intensity and infrared emission by dust grains in all four IRAS waveband images in the suspected scattering region of the Rosette Nebula. A radial comparison between [SII] images and H-alpha images in the region of high polarization showed that the H-alpha intensity in that region is dominated by scattered H-alpha light from the Rosette Nebula.<p> A single scattering model was constructed in an effort to predict the observed polarization. The model used parameters based on 21 cm observations by Kuchar and Bania (1993) of the HI shell which surrounds the HII region of the Rosette Nebula. The single scattering model can not accurately predict the degree of polarization. It was concluded that a multiple scattering model is required. A spatial comparison of the 12 m emission with the degree of  polarization strongly suggested that multiple scattering is important in describing the observed radial behavior of polarization. <p>Polarization images of regions in Cygnus were obtained. A polarization map of the North America Nebula (NGC 7000) and surroundings reveals a large amount of polarization. The map reveals that scattering of H-alpha light from the North America Nebula is the most likely cause of polarization in these images. <p>From the analysis in this thesis, I conclude that in the northwest quadrant, at radial distances greater than 40 from the center of the Rosette Nebula, the  observed H-alpha intensity is due to scattered H light from the nebula itself. This implies that, in H-alpha , the Rosette Nebula appears slightly larger than it actually is. With evidence of polarization by scattered H supported by the polarization map of the North America Nebula (NGC 7000), it is concluded that other HII regions may very well appear larger in H-alpha than they actually are. Thus, scattered H-alpha light may account for a small part of the more extended warm ionized medium as well.",
+  "description_provenance": [
+    "Author Email: topasna@astro.phys.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:55Z (GMT). No. of bitstreams: 8 chapter2.pdf: 706751 bytes, checksum: 888964ef8cc67d32674cea32e93aaf6f (MD5) chapter5.pdf: 25842 bytes, checksum: 4f96257b12b8ada730936308d9ab9c1d (MD5) chapter4.pdf: 1927956 bytes, checksum: 582093cf672f95f54855d35d2c1bdc9f (MD5) chapter3.pdf: 285459 bytes, checksum: d6702f5eaf6a1519565b532ffb571df9 (MD5) frntmat2.pdf: 28239 bytes, checksum: 3c3fc2a9f2b737d11bceb3906f46f5f0 (MD5) chapter1.pdf: 153904 bytes, checksum: 7735375d136caf179b4a0390eb3b78ad (MD5) appendix.pdf: 196462 bytes, checksum: 044fb10af452957df3438b96a940c64a (MD5) CV2.PDF: 11322 bytes, checksum: a933686081f71dd6d46e8663a283638e (MD5)   Previous issue date: 1999-05-07"
+  ],
+  "handle": "27672",
+  "identifier_other": "etd-051199-154038",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-051199-154038/",
+  "identifier_uri": "http://hdl.handle.net/10919/27672",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chapter2.pdf",
+    "chapter5.pdf",
+    "chapter4.pdf",
+    "chapter3.pdf",
+    "frntmat2.pdf",
+    "chapter1.pdf",
+    "appendix.pdf",
+    "CV2.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Interstellar Medium",
+    "Galactic Magnetic Field",
+    "Rosette Nebula",
+    "Polarization",
+    "Supershells",
+    "Shells",
+    "Warm Ionized Medium"
+  ],
+  "title": "The Scattering of H-alpha Emission Associated with the Rosette Nebula in the Monoceros Region Studied Using Polarimetry",
+  "type": "Dissertation"
+}

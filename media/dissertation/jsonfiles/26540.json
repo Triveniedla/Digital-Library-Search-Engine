@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Larssen, Jon  Vegard",
+  "contributor_committeechair": "Devenport, William J.",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Neu, Wayne L.",
+    "Glegg, Stewart A. L.",
+    "Simpson, Roger L.",
+    "Thole, Karen A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:36Z",
+  "date_adate": "2005-04-07",
+  "date_available": "2014-03-14T20:08:36Z",
+  "date_issued": "2005-01-24",
+  "date_rdate": "2005-04-07",
+  "date_sdate": "2005-03-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The turbulent flow through a marine propulsor was experimentally modeled using a large cascade configuration with six 33 cm chord flat plates spanning the entire height of the test section in the Virginia Tech Stability Wind Tunnel. Three-component hot-wire velocity measurements were obtained ahead, throughout and behind both an unstaggered and a 35Âº staggered cascade configuration with blade spacing and onset turbulence integral scales on the order of the chord. This provided a much needed data-set of much larger Taylor Reynolds number than previous related studies and allowed a thorough investigation of the blade-blocking effects of the cascade on the incident turbulent field.  In order to generate the large scale turbulence needed for this study, a mechanically rotating â  activeâ   grid design was adopted and placed in the contraction of the wind tunnel at a streamwise location sufficient to cancel out the relatively large inherent low frequency anisotropy associated with this type of grid. The resulting turbulent flow is one of the largest Reynolds number (Re&#955; &#61627; 1000) homogeneous near-isotropic turbulent flows ever created in a wind tunnel, and provided the opportunity to investigate Reynolds number effects on turbulence parameters, especially relating to inertial range dynamics. Key findings include 1) that the extent of local isotropy is solely determined by the turbulence generator and the size of the wind-tunnel that houses it; and 2) that the turbulence generator operating conditions affect the shape of the equilibrium range at fixed Taylor Reynolds number. The latter finding suggests that grid turbulence is not necessarily self-similar at a given Reynolds number independent of how it was generated. The experimental blade-blocking data was compared to linear cascade theory and showed good qualitative agreement, especially for wavenumbers above the region of influence of the wind tunnel and turbulence generator effects. As predicted, the turbulence is permanently modified by the presence of the cascade after which it remains invariant for a significant downstream distance outside the thin viscous regions. The obtained results support the claim that Rapid Distortion Theory (RDT) is capable of providing reasonable estimates of the flow behind the cascade even though the experimental conditions lie far outside the predicted region of validity.",
+  "description_provenance": [
+    "Author Email: jlarssen@vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: glegg@oe.fau.edu",
+    "Advisor Email: simpson@aoe.vt.edu",
+    "Advisor Email: thole@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:36Z (GMT). No. of bitstreams: 2 Larssen_ETD.pdf: 6326168 bytes, checksum: 4e598e5ab22e06182bbad51e705675ed (MD5) Vita.pdf: 7623 bytes, checksum: 3f02f3bf9ed7687ae4be59288abf7246 (MD5)   Previous issue date: 2005-01-24"
+  ],
+  "handle": "26540",
+  "identifier_other": "etd-03292005-055751",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03292005-055751/",
+  "identifier_uri": "http://hdl.handle.net/10919/26540",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Larssen_ETD.pdf",
+    "Vita.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "RDT",
+    "Blade Blocking",
+    "Active Grid Generated Turbulence",
+    "Cascade"
+  ],
+  "title": "Large Scale Homogeneous Turbulence and Interactions with a Flat-Plate Cascade",
+  "type": "Dissertation"
+}

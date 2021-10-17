@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Brooks, Evan Beren",
+  "contributor_committeechair": [
+    "Wynne, Randolph H",
+    "Thomas, Valerie Anne"
+  ],
+  "contributor_committeemember": [
+    "Radtke, Philip J",
+    "Woodcock, Curtis E.",
+    "Coulston, John W"
+  ],
+  "contributor_department": "Forest Resources and Environmental Conservation",
+  "date_accessioned": "2013-06-28T08:00:07Z",
+  "date_available": "2013-06-28T08:00:07Z",
+  "date_issued": "2013-06-27",
+  "degree_discipline": "Forestry",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Researchers now have unprecedented access to free Landsat data, enabling detailed monitoring of the Earth\\'s land surface and vegetation.  There are gaps in the data, due in part to cloud cover. The gaps are aperiodic and localized, forcing any detailed multitemporal analysis based on Landsat data to compensate.  <br />Harmonic regression approximates Landsat data for any point in time with minimal training images and reduced storage requirements.  In two study areas in North Carolina, USA, harmonic regression approaches were least as good at simulating missing data as STAR-FM for images from 2001.  Harmonic regression had an R^2\"0.9 over three quarters of all pixels. It gave the highest R_Predicted^2 values on two thirds of the pixels.  Applying harmonic regression with the same number of harmonics to consecutive years yielded an improved fit, R^2\"0.99 for most pixels.  <br />We next demonstrate a change detection method based on exponentially weighted moving average (EWMA) charts of harmonic residuals. In the process, a data-driven cloud filter is created, enabling use of partially clouded data.  The approach is shown capable of detecting thins and subtle forest degradations in Alabama, USA, considerably finer than the Landsat spatial resolution in an on-the-fly fashion, with new images easily incorporated into the algorithm.  EWMA detection accurately showed the location, timing, and magnitude of 85% of known harvests in the study area, verified by aerial imagery.  <br />We use harmonic regression to improve the precision of dynamic forest parameter estimates, generating a robust time series of vegetation index values.  These values are classified into strata maps in Alabama, USA, depicting regions of similar growth potential.  These maps are applied to Forest Service Forest Inventory and Analysis (FIA) plots, generating post-stratified estimates of static and dynamic forest parameters.  Improvements to efficiency for all parameters were such that a comparable random sample would require at least 20% more sampling units, with the improvement for the growth parameter requiring a 50% increase.<br />These applications demonstrate the utility of harmonic regression for Landsat data.  They suggest further applications in environmental monitoring and improved estimation of landscape parameters, critical to improving large-scale models of ecosystems and climate effects.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-28T08:00:07Z (GMT). No. of bitstreams: 1 Brooks_EB_D_2013.pdf: 5252722 bytes, checksum: cbebedd295720184ccd6dd1f6c0e91f3 (MD5)   Previous issue date: 2013-06-27",
+  "format_medium": "ETD",
+  "handle": "23276",
+  "identifier_other": "vt_gsexam:1225",
+  "identifier_uri": "http://hdl.handle.net/10919/23276",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "harmonic analysis",
+    "phenology",
+    "interpolation",
+    "data fusion",
+    "trajectory",
+    "thinning",
+    "statistical process control",
+    "productivity",
+    "site"
+  ],
+  "title": "Fourier Series Applications in Multitemporal Remote Sensing Analysis using Landsat Data",
+  "type": "Dissertation"
+}

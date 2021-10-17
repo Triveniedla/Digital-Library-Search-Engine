@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Park, Seung In",
+  "contributor_committeechair": "Quek, Francis",
+  "contributor_committeemember": [
+    "Cao, Yang",
+    "Bowman, Douglas Andrew",
+    "Cao, Yong",
+    "Abbott, Amos L"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-03-23T08:00:20Z",
+  "date_available": "2013-03-23T08:00:20Z",
+  "date_issued": "2013-03-22",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In the simulation of human crowd behavior including evacuation planning, transportation management, and safety engineering in architecture design, the development of pedestrian model for higher behavior fidelity is an important task. To construct plausible facsimiles of real crowd movements, simulations should exhibit human behaviors for navigation, pedestrian decision-making, and social behaviors such as grouping and crowding. The research field is quite mature in some sense, with a large number of approaches that have been proposed to path finding, collision avoidance, and visually pleasing steering behaviors of virtual humans. However, there is still a clear disparity between the variety of approaches and the quality of crowd behaviors in simulations.<br /><br />Many social science field studies inform us that crowds are typically composed of multiple social groups (James, 1953; Coleman and James, 1961; Aveni, 1977). These observations indicate that one component of the complexity of crowd dynamics emerges from the presence of various patterns of social interactions within small groups that make up the crowd. Hence, realism in a crowd simulation may be enhanced when virtual characters are organized in multiple social groups, and exhibit human-like coordination behaviors.<br /><br />Motivated by the need for modeling groups in a crowd, we present a multi-agent model for large crowd simulations that incorporates socially plausible group behaviors. A computational model for multi-agent coordination and interaction informed by well- established Common Ground theory (Clark, 1996; Clark and Brennan, 1991) is proposed. In our approach, the task of navigation in a group is viewed as performing a joint activity which requires maintaining a state of common ground among group members regarding walking strategies and route choices. That is, group members communicate with, and adapt their behaviors to each other in order to maintain group cohesiveness while walking. In the course of interaction, an agent may present gestures or other behavioral cues according to its communicative purpose. It also considers the spatiotemporal conditions of the agent-group\\'s environment in which the agent interacts when selecting a kind of motions.<br /><br />With the incorporation of our agent model, we provide a unified framework for crowd simulation and animation which accommodates high-level socially-aware behavioral realism of animated characters. The communicative purpose and motion selection of agents are consistently carried through from simulation to animation, and a resulted sequence of animated character behaviors forms not merely a chain of reactive or random gestures but a socially meaningful interactions.<br /><br />We conducted several experiments in order to investigate the impact of our social group<br />interaction model in crowd simulation and animation. By showing that group communicative behaviors have a substantial influence on the overall distribution of a crowd, we demonstrate the importance of incorporating a model of social group interaction into multi-agent simulations of large crowd behaviors. With a series of perceptual user studies, we show that our model produces more believable behaviors of animated characters from the viewpoint of human observers.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-23T08:00:20Z (GMT). No. of bitstreams: 1 Park_S_D_2013.pdf: 7369373 bytes, checksum: 8974e57b11d5b5610ddda9249d9ade6b (MD5)   Previous issue date: 2013-03-22",
+  "format_medium": "ETD",
+  "handle": "19297",
+  "identifier_other": "vt_gsexam:350",
+  "identifier_uri": "http://hdl.handle.net/10919/19297",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Crowd simulation",
+    "Group modeling",
+    "Social behavior simulation",
+    "Multi-agent system",
+    "Common ground theory"
+  ],
+  "title": "Modeling Social Group Interactions for Realistic Crowd Behaviors",
+  "type": "Dissertation"
+}

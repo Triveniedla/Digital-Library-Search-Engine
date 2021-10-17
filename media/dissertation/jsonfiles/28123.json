@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Xing, Kun",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Sable, Don M.",
+    "Nelson, Douglas J.",
+    "Chen, Dan Y.",
+    "Borojevich, Dushan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:30Z",
+  "date_adate": "1999-07-09",
+  "date_available": "2014-03-14T20:13:30Z",
+  "date_issued": "1999-05-24",
+  "date_rdate": "2000-07-09",
+  "date_sdate": "1999-06-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<H4> <p ALIGN=center> ABSTRACT </H4>   <BLOCKQUOTE> <p ALIGN=justify>    The basic Power Electronics Building Block (PEBB) configurations are identified and conceptual PEBB modules are constructed and tested. Using the INCA (Inductance Calculator) parasitic extraction and the Saber circuit simulation software, the microscopic relationships between the parasitics of the packaging layout and their circuit electrical effects are cross-examined. The PEBB module with advanced packaging techniques is characterized in comparison with the wire-bond module. The soft-switching techniques are evaluated for PEBB applications. The Zero-Current-Transition (ZCT) is proved better because the parasitics in the power current flow path are absorbed into the resonant soft-switching operation. This makes the PEBBs insensitive to system integration.</p>    <p ALIGN=justify>    Based on the building block concept, the discrete and large signal average models are developed for simulation, design, and analysis of large-scale PEBB-based systems. New average models are developed for half-bridge PEBB module and Space Vector Modulation (SVM). These models keep the exact information of the discontinuous SVM and the common mode component of the three-phase system. They can be used to construct the computer models of a power electronics system the same as the modularized hardware and perform time domain simulations with very fast speed. Further more, even though the system is modeled based on modularized concept on the ABC coordinates, it can be used to perform small signal analysis on the DQ coordinates as well.</p>    <p ALIGN=justify>    Based on the developed models, the system-level interactions in integrated systems are investigated. Three interaction scenarios are presented: (1) the zero-sequence circulation current in paralleled three-phase rectifiers caused by the interleaved discontinuous SVM, (2) the load and source interactions caused by unbalanced load and small signal impedance overlap, and (3) the combined common mode noise caused by both front-end PWM rectifiers and load inverters. The interaction phenomena and mitigation methods are demonstrated through hardware testbed system.</p>   <p ALIGN=justify>    The concept of dc bus conditioning is proposed. The bus conditioner is a bi-directional dc/dc converter programmed as a current controlled current source, which shunts the large signal ac current, which otherwise goes to the dc bus, into an isolated energy storage component. In addition to alleviate the source and load interactions, it increases the load impedance/decreases the bus impedance and provides more stability margins to the distribution system. The dc bus conditioner concept and its functions are demonstrated through system simulation and preliminary hardware experiment.</p>  <p> </p></BLOCKQUOTE>",
+  "description_provenance": [
+    "Author Email: kxing@vt.edu",
+    "Advisor Email: sable@vpt-inc.com",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:30Z (GMT). No. of bitstreams: 8 ch2.pdf: 557216 bytes, checksum: 9dc10dd610be942984aa2e972d55af3b (MD5) ch6.pdf: 11715 bytes, checksum: 0ad178b37ef49964f492e7b8c61c0043 (MD5) ch5.pdf: 224412 bytes, checksum: ba4e3f3a9f1b5992137d07dee95b5d27 (MD5) ch4.pdf: 1433208 bytes, checksum: 6410c290db0460928e7274409c783027 (MD5) ch3.pdf: 528467 bytes, checksum: 3a5177cac57c1903c3db87949c62bf27 (MD5) ch1.pdf: 142319 bytes, checksum: 4ef966134b7247f0806d4a50461f1dee (MD5) ch0.pdf: 65731 bytes, checksum: 1b1e9927921714a45bfd150f17d34212 (MD5) ch7.pdf: 65836 bytes, checksum: 9c712dfc06245415b0ca1bb2c140bb2b (MD5)   Previous issue date: 1999-05-24"
+  ],
+  "handle": "28123",
+  "identifier_other": "etd-062599-231223",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-062599-231223/",
+  "identifier_uri": "http://hdl.handle.net/10919/28123",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ch2.pdf",
+    "ch6.pdf",
+    "ch5.pdf",
+    "ch4.pdf",
+    "ch3.pdf",
+    "ch1.pdf",
+    "ch0.pdf",
+    "ch7.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "System Integration",
+    "Power Electronics Building Blocks (PEBB)",
+    "Modeling",
+    "Distributed Power System",
+    "DC Bus Conditioner"
+  ],
+  "title": "Modeling, Analysis, and Design of Distributed Power Electronics System Based on Building Block Concept",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Singler, John",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeemember": [
+    "Cliff, Eugene M.",
+    "Borggaard, Jeffrey T.",
+    "Iliescu, Traian",
+    "Herdman, Terry L."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:10Z",
+  "date_adate": "2005-07-07",
+  "date_available": "2014-03-14T20:13:10Z",
+  "date_issued": "2005-06-15",
+  "date_rdate": "2005-07-07",
+  "date_sdate": "2005-06-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "For over 100 years, researchers have attempted to predict transition to turbulence in fluid flows by analyzing the spectrum of the linearized Navier-Stokes equations. However, for many simple flows, this approach has failed to match experimental results. Recently, new scenarios for transition have been proposed that are based on the non-normality of the linearized operator. These new â  mostly linearâ   theories have increased our understanding of the transition process, but the role of nonlinearity has not been explored. The main goal of this work is to begin to study the role of nonlinearity in transition. We use model problems to illustrate that small unmodeled disturbances can cause transition through movement or bifurcation of equilibria. We also demonstrate that small wall roughness can lead to transition by causing the linearized system to become unstable. Sensitivity methods are used to obtain important information about the disturbed problem and to illustrate that it is possible to have a precursor to predict transition. Finally, we apply linear feedback control to the model problems to illustrate the power of feedback to delay transition and even relaminarize fully developed chaotic flows.",
+  "description_provenance": [
+    "Author Email: jsingler@math.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: iliescu@math.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Advisor Email: herdman@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:10Z (GMT). No. of bitstreams: 1 JRS_thesis.pdf: 2465103 bytes, checksum: ebfd5387b74154e4635b6fd89689977e (MD5)   Previous issue date: 2005-06-15"
+  ],
+  "handle": "28051",
+  "identifier_other": "etd-06162005-203749",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06162005-203749/",
+  "identifier_uri": "http://hdl.handle.net/10919/28051",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JRS_thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Sensitivity Analysis",
+    "Small Disturbances",
+    "Transition to Turbulence",
+    "Partial Differential Equations"
+  ],
+  "title": "Sensitivity Analysis of Partial Differential Equations With Applications to Fluid Flow",
+  "type": "Dissertation"
+}

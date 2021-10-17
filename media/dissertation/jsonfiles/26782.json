@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Chigani, Amine",
+  "contributor_committeechair": "Balci, Osman",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Barkhi, Reza",
+    "Sheetz, Steven D.",
+    "Tilevich, Eli"
+  ],
+  "contributor_department": "Computer Science and Applications",
+  "date_accessioned": "2014-03-14T20:09:24Z",
+  "date_adate": "2011-04-29",
+  "date_available": "2014-03-14T20:09:24Z",
+  "date_issued": "2011-04-06",
+  "date_rdate": "2011-04-29",
+  "date_sdate": "2011-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The history of university, college, and high school campuses is eventful with man-made tragedies ensuing a tremendous loss of life. Virginia Techâ  s April 16 shooting ignited the discussion about balancing openness and safety in open campus environments. Existing campus safety solutions are characterized by addressing bits and pieces of the problem. The perfect example is the recent influx in demand for Electronic Notification Systems (ENS) by many educational institutions following the tragedies at Virginia Tech and Northern Illinois University. Installing such systems is important, as it is an essential part of an overall solution. However, without a comprehensive, innovative understanding of the requirements for an institution-wide solution that enables effective security control and efficient emergency response, the proposed solutions will always fall short. <p> This dissertation describes an architecture for SINERGY (campuS sItuational awareNess and Emergency Response manaGement sYstem) â   a Service-Oriented Architecture (SOA)-based network-centric system of systems that provides a comprehensive, institution-wide, software-based solution for balancing safety and openness on any campus environment. SINERGY architecture addresses three main capabilities: Situational awareness (SA), security control (SC), and emergency response management (ERM). A safe and open campus environment can be realized through the development of a network-centric system that enables the creation of a COP of the campus environment shared by all campus entities. Having a COP of what goes on campus at any point in time is key to enabling effective SC measures to be put in place. Finally, common SA and effective SC lay the foundation for an efficient and successful ERM in the case of a man-made tragedy.  <p> Because this research employs service orientation principles to architect SINERGY, this dissertation also addresses a critical area of research with regards to SOA; that area is SOA security. Security has become a critical concern when it comes to SOA-based network-centric systems of systems due the nature of business practices today, which emphasize dynamic sharing of information and services among independent partners. As a result, the line between internal and external organization networks and services has been blurred making it difficult to assess the security quality of SOA environments. In order to do this evaluation effectively, a hierarchy of security indicators is developed. The proposed hierarchy is incorporated in a well-established evaluation methodology to provide a structured approach for assessing the security of an SOA-based network-centric system of systems. <p> Another area of focus in this dissertation is the architecting process. With the advent of potent network technology, software/system engineering has evolved from a traditional platform-centric focus into a network-centric paradigm where the â  system of systemsâ   perspective has been the norm. Under this paradigm, architecting has become a critical process in the life cycle of software/system engineering. The need for a structured description of the architecting process is undeniable. This dissertation fulfills that need and provides a structured description of the process of architecting a software-based network-centric system of systems. The architecting process is described using a set of goals that are specific to architecting, and the associated specific practices that enable the realization of these goals. The architecting process description presented herein is intended to guide the software/system architects.",
+  "description_provenance": [
+    "Author Email: achigani@vt.edu",
+    "Advisor Email: balci@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: reza@vt.edu",
+    "Advisor Email: sheetz@vt.edu",
+    "Advisor Email: tilevich@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:24Z (GMT). No. of bitstreams: 2 Chigani_Amine_D_2011_Copyright.pdf: 291925 bytes, checksum: e8c47246b9b0a602343b9a47a25b0446 (MD5) Chigani_Amine_D_2011.pdf: 3575760 bytes, checksum: 36e99b292a43daedd43303c2edeb11d8 (MD5)   Previous issue date: 2011-04-06"
+  ],
+  "handle": "26782",
+  "identifier_other": "etd-04112011-111310",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112011-111310/",
+  "identifier_uri": "http://hdl.handle.net/10919/26782",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chigani_Amine_D_2011_Copyright.pdf",
+    "Chigani_Amine_D_2011.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Architecting",
+    "Capabilities Specification",
+    "Campus Safety",
+    "Emergency Response Management",
+    "SOA Security"
+  ],
+  "title": "A Campus Situational Awareness and Emergency Response Management System Architecture",
+  "type": "Dissertation"
+}

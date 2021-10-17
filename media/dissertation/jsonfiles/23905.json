@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Hilal, Amr E.",
+  "contributor_committeechair": "MacKenzie, Allen B.",
+  "contributor_committeemember": [
+    "Riad, Sedki Mohamed",
+    "Hou, Yiwei Thomas",
+    "Silva, Luiz A.",
+    "Sherali, Hanif D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-10-18T08:00:37Z",
+  "date_available": "2013-10-18T08:00:37Z",
+  "date_issued": "2013-10-17",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Although smart mobile devices have only come into prominence recently, they have quickly become a necessity in the modern world. In 2012, more than 450 million new smartphones are expected to be purchased around the world, exceeding, for the first time, purchases of laptops and desktop PCs combined in a single year. That, in addition to the increasing processing power and low cost of these emerging mobile devices, creates an increasing demand for mobile applications that work in infrastructure-supported environments like WiFi and cellular networks as well as infrastructure-less environments like ad hoc networks. Therefore, the behavior of mobile devices in such scenarios should be a continued focus of research.    Several factors contribute to the observed behavior of nodes in Mobile Ad-hoc Networks MANETs. For example, nodes may act selfishly to preserve their limited energy resources. This selfishness may be detrimental to network performance. Therefore, cooperation between peers is necessary to keep these MANETs operational. Beside the need for actively encouraging cooperation by providing incentives, passive encouragement is also needed to overcome the effect of factors that limit cooperation, including malicious behavior, environmental obstruction, and mobility.    The contribution of this work is to provide a cooperation model in MANETs that is capable of surviving topology distortions caused by mobility, and is operable in practical distributed scenarios. Towards this goal, we first provide a study of the topology characteristics of MANETs based on real experiments. We study the node degree, link stability, and link symmetry of these networks, and, based on our observations, we suggest a two-state Markov model to model link state in such networks, demonstrating the superiority of this model over the widely-used disk model with mobility. We conclude from this study that both mobility and channel fluctuations have a significant influence on the network topology, which makes it important to study cooperation in scenarios where the topology is changing rapidly.    Based on experimental observations of a real network, we propose a coalition game model for cooperation in MANETs that shows that stable, effective coalitions can be maintained, even in the face of a dynamic network topology. We provide an initial evaluation of the model using a centralized simulation approach. We use the notion of reachability to evaluate the proposed model, and we simulate the model under different speeds and node densities. Our simulations show that reachability can be sustained at stable levels despite the deterioration caused by mobility. In addition, we show that our cumulative coalition formation approach gives good results in terms of reachability level and computational complexity. We also show that our proposed model achieves a fair payoff distribution among participating nodes.    Motivated by the promising results of our centralized simulation approach, we take a further step towards more practical evaluation. We integrate the cooperation model with an existing MANET routing protocol, OLSR, and evaluate it in this distributed environment. We modify and augment the OLSR messaging mechanism to enable the exchange of the coalition information required to keep the model operating. Beside ensuring that the reachability gain is still attained and the coalition structure is stable, we study the effect of the extra control traffic overhead incurred by the model. We compare deliverability over the network with and without the cooperation model. Although our results show that the cooperation model incurs an average overhead exceeding $100\\%$ of that incurred by OLSR in high density scenarios, it shows better reliability in delivering traffic especially among selfish nodes in low and average density scenarios.    Counter to what is commonly assumed in the literature, this study shows that cooperation can be be maintained in a distributed manner without causing significant traffic overhead to MANETs run by proactive routing protocols. Due to the simplicity, several extensions can be applied to enhance the performance of the proposed model and diversify its usage. We propose these extensions at the end of this dissertation.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-18T08:00:37Z (GMT). No. of bitstreams: 1  Hilal_AE_D_2013.pdf: 2557892 bytes, checksum: c7d9b7b1e0e8befaacc8283b90a93fa4 (MD5)    Previous issue date: 2013-10-17",
+  "format_medium": "ETD",
+  "handle": "23905",
+  "identifier_other": "vt_gsexam:1510",
+  "identifier_uri": "http://hdl.handle.net/10919/23905",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Mobile ad hoc networks",
+    "Cooperation",
+    "Mobility",
+    "Coalition Game Theory"
+  ],
+  "title": "Incentivizing Cooperation in Mobile Ad Hoc Networks: An Experiment, A Coalition Game Theory Model, and OLSR Integration.",
+  "type": "Dissertation"
+}

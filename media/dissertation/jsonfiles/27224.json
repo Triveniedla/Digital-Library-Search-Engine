@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Subramanian, Shivaram",
+  "contributor_committeechair": "Sherali, Hanif D.",
+  "contributor_committeemember": [
+    "Drew, Donald R.",
+    "Jacobson, Sheldon H.",
+    "Kobza, John E.",
+    "Trani, Antonio A."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:41Z",
+  "date_adate": "1999-04-29",
+  "date_available": "2014-03-14T20:10:41Z",
+  "date_issued": "1999-04-13",
+  "date_rdate": "2000-04-29",
+  "date_sdate": "1999-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A variety of practical network optimization problems arising in the context of public supply and commercial transportation, emergency response and risk management, engineering design, and industrial planning are addressed in this study. The decisions to be made in these problems include the location of supply centers, the routing, allocation and scheduling of flow between supply and demand locations, and the design of links in the network. This study is concerned with the development of optimization models and the analysis of five such problems, and the subsequent design and testing of exact and heuristic algorithms for solving these various network optimization problems.  The first problem addressed is the time-dependent shortest pair of disjoint paths problem. We examine computational complexity issues, models, and algorithms for the problem of finding a shortest pair of disjoint paths between two nodes of a network such that the total travel delay is minimized, given that the individual arc delays are time-dependent. It is shown that this problem, and many variations of it, are nP-Hard and a 0-1 linear programming model that can be used to solve this problem is developed. This model can accommodate various degrees of disjointedness of the pair of paths, from complete to partial with respect to specific arcs.  Next, we examine a minimum-risk routing problem and pursue the development, analysis, and testing of a mathematical model for determining a route that attempts to reduce the risk of low probability-high consequence accidents related with the transportation of hazardous materials (hazmat). More specifically, the problem addressed in this study involves finding a path that minimizes the conditional expectation of a consequence, given that an accident occurs, subject to the expected value of the consequence being lesser than or equal to a specified level n, and the probability of an accident on the path being also constrained to be no more than some value h. Various insights into related modeling issues are also provided. The values n and h are user-prescribed and could be prompted by the solution of shortest path problems that minimize the respective corresponding linear risk functions. The proposed model is a discrete, fractional programming problem that is solved using a specialized branch-and-bound approach. The model is also tested using realistic data associated with a case concerned with routing hazmat through the roadways of Bethlehem, Pennsylvania.  The third problem deals with the development of a resource allocation strategy for emergency and risk management. An important and novel issue addressed in modeling this problem is the effect of loss in coverage due to the non-availability of emergency response vehicles that are currently serving certain primary incidents. This is accommodated within the model by including in the objective function a term that reflects the opportunity cost for serving an additional incident that might occur probabilistically on the network. A mixed-integer programming model is formulated for the multiple incident - multiple response problem, and we show how its solution capability can be significantly enhanced by injecting a particular structure into the constraints that results in an equivalent alternative model representation. Furthermore, for certain special cases of the MIMR problem, efficient polynomial-time solution approaches are prescribed. An algorithmic module composed of these procedures, and used in concert with a computationally efficient LP-based heuristic scheme that is developed, has been incorporated into an area-wide incident management decision support system (WAIMSS) at the Center for Transportation Research, Virginia Tech.  The fourth problem addressed in this study deals with the development of global optimization algorithms for designing a water distribution network, or expanding an already existing one, that satisfies specified flow demands at stated pressure head requirements. The nonlinear, nonconvex network problem is transformed into the space of certain design variables. By relaxing the nonlinear constraints in the transformed space via suitable polyhedral outer approximations and applying the Reformulation-Linearization Technique (RLT), a tight linear lower bounding problem is derived. This problem provides an enhancement and a more precise representation of previous lower bounding relaxations that use similar approximations. Computational experience on three standard test problems from the literature is provided. For all these problems, a proven global optimal solution within a tolerance of 10 -4 % and/or within 1$ of optimality is obtained. For the two larger instances dealing with the Hanoi and New York test networks that have been open for nearly three decades, the solutions derived represent significant improvements, and the global optimality has been verified at the stated level of accuracy for these problems for the very first time in the literature. A new real network design test problem based on the Town of Blacksburg Water Distribution System is also offered to be included in the available library of test cases, and related computational results on deriving global optimal solutions are presented.  The final problem addressed in this study is concerned with a global optimization approach for solving capacitated Euclidean distance multifacility location-allocation problems, as well as the development of a new algorithm for solving the generalized lp distance location-allocation problem. There exists no global optimization algorithm that has been developed and tested for this class of problems, aside from a total enumeration approach. Beginning with the Euclidean distance problem, we design depth-first and best-first branch-and-bound algorithms based on a partitioning of the allocation space that finitely converges to a global optimum for this nonconvex problem. For deriving lower bounds at node subproblems in these partial enumeration schemes, we employ two types of procedures. The first approach computes a lower bound via a simple projected location space lower bounding (PLSB) subproblem. The second approach derives a significantly enhanced lower bound by using a Reformulation-Linearization Technique (RLT) to transform an equivalent representation of the original nonconvex problem into a higher dimensional linear programming relaxation. In addition, certain cut-set inequalities generated in the allocation space, objective function based cuts derived in the location space, and tangential linear supporting hyperplanes for the distance function are added to further tighten the lower bounding relaxation. The RLT procedure is then extended to the.general lp distance problem for 1 < p < 2. Various issues related to the selection of branching variables, the design of heuristics via special selective backtracking mechanisms, and the study of the sensitivity of the proposed algorithm to the value of p in the lp - norm, are computationally investigated. Computational experience is also provided on a set of test problems to investigate both the PLSB and the RLT-lower bounding schemes. The results indicate that the proposed global optimization approach using the RLT-based scheme offers a promising viable solution procedure. In fact, among the problems solved, for the only two test instances previously available in the literature for the Euclidean distance case that were posed in 1979, we report proven global optimal solutions within a tolerance of 0.1% for the first time.  It is hoped that the modeling, analysis, insights, and concepts provided for these various network based problems that arise in diverse routing, location, distribution, and design contexts, will provide guidelines for studying many other problems that arise in related situations.",
+  "description_provenance": [
+    "Author Email: shsubram@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:41Z (GMT). No. of bitstreams: 12 title.pdf: 5321 bytes, checksum: 8b990b11143a4fe437dd5a49736feb80 (MD5) chap1.pdf: 23866 bytes, checksum: 4f56a3a8f74ce6712d97db510e0ae941 (MD5) chap3.pdf: 111018 bytes, checksum: 5a8c6b51d0b4b2178ff9178a9e9e0ab5 (MD5) abstract.pdf: 14659 bytes, checksum: 065c074a95b3d6a2f0314428572537f0 (MD5) ack.pdf: 6152 bytes, checksum: ec8959ad3804bfd10c501ed9958febb7 (MD5) chap2.pdf: 84121 bytes, checksum: 5dfb6240b9b1afec4716854d96360c24 (MD5) ref.pdf: 59789 bytes, checksum: d94d6a820067f945adc5e28956ea11fa (MD5) toc.pdf: 17906 bytes, checksum: 49c5798934ef6eff6c789b252afb4fa9 (MD5) chap6.pdf: 230620 bytes, checksum: 2eb71da2346859d9b3479f167e7fcb29 (MD5) chap7.pdf: 150379 bytes, checksum: abec254a4328cc1c2a9d3f744b955187 (MD5) chap5.pdf: 99491 bytes, checksum: 67bb548141e5a854824d7ff4369ea870 (MD5) chap4.pdf: 104247 bytes, checksum: 405d3d9e89a765aee2d2d70fe6995c68 (MD5)   Previous issue date: 1999-04-13"
+  ],
+  "handle": "27224",
+  "identifier_other": "etd-042499-225537",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-042499-225537/",
+  "identifier_uri": "http://hdl.handle.net/10919/27224",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "title.pdf",
+    "chap1.pdf",
+    "chap3.pdf",
+    "abstract.pdf",
+    "ack.pdf",
+    "chap2.pdf",
+    "ref.pdf",
+    "toc.pdf",
+    "chap6.pdf",
+    "chap7.pdf",
+    "chap5.pdf",
+    "chap4.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "reformulation linearization technique",
+    "nonconvex",
+    "optimization",
+    "location-allocation",
+    "network",
+    "routing"
+  ],
+  "title": "Optimization Models and Analysis of Routing, Location, Distribution, and Design Problems on Networks",
+  "type": "Dissertation"
+}

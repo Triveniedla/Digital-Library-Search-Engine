@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Goldstein, Andre L.",
+  "contributor_committeechair": "Fuller, Christopher R.",
+  "contributor_committeemember": [
+    "Burdisso, Ricardo A.",
+    "Carneal, James P.",
+    "Inman, Daniel J.",
+    "Lindner, Douglas K.",
+    "Johnson, Martin E."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:38Z",
+  "date_adate": "2006-08-31",
+  "date_available": "2014-03-14T20:12:38Z",
+  "date_issued": "2006-05-05",
+  "date_rdate": "2007-08-31",
+  "date_sdate": "2006-05-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Nowadays, numerous applications of active sound transmission control require lightweight partitions with high transmission loss over a broad frequency range and simple control strategies. In this work an active-passive sound transmission control approach is investigated that potentially addresses these requirements. The approach involves the use of lightweight stiff panels, or tiles, attached to a radiating base structure through active-passive soft mounts and covering the structure surface. The resulting double-partition configuration was shown to have good high frequency passive isolation, but poor low frequency transmission loss due to the coupling of the tiles to the base vibration through the air gap. The low frequency transmission loss performance of the partition was increased by using the active mounts to cancel the local volume velocity of the tiles. The use of a decentralized control approach with independent single channel controllers for each tile facilitates the implementation of a multiple tile system in a large scale application.  A coupled structural-acoustic model based on an impedance mobility matrix approach was formulated to investigate the potential performance of active-passive tile approach in controlling sound transmission through plates. The model was initially applied to investigate the sound transmission characteristics of a double-panel partition consisting of a single tile-plate configuration and then extended to model a partition consisting of multiple-tiles mounted on a plate. The system was shown to have significant passive performance above the mass-spring-mass resonance of the double-panel system. Both feedback and feedforward control approaches were simulated and  shown to significantly increase the transmission loss of the partition by applying control forces in parallel with the mounts to reduce the tile normal velocity. A correspondent reduction in sound radiated power was obtained over a broad frequency range limited by the tile stiffness.  The experimental implementation of the active-passive tile approach for the control of sound transmission through plates was also performed. Two main experimental setups were utilized in the investigations, the first consisting of a single tile mounted on a clamped plate and the other consisting of four active tiles mounted of a simply supported plate. Tile prototypes were implemented with lightweight stiff panels and integrated active-passive mounts were implemented with piezoelectric Thunder actuators. Both analog feedback and digital feedforward control schemes where designed and implemented with the objective of reducing the normal velocity of the tiles. Experimental results have demonstrated significant broad frequency range reductions in the sound transmission through the partition by active attenuation of the tile velocity. In addition, the experiments have shown that decentralized control can be successfully implemented for multiple tiles systems. The active-passive sound transmission control characteristics of the systems experimentally studied were observed to be in accordance with the analytical results.",
+  "description_provenance": [
+    "Author Email: agoldste@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: jcarneal@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: c.r.fuller@larc.nasa.gov",
+    "Advisor Email: martyj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:38Z (GMT). No. of bitstreams: 1 etd_Andre_Goldstein4.pdf: 7745573 bytes, checksum: 8c733bd29d0e6d7aae462f7f123ce369 (MD5)   Previous issue date: 2006-05-05"
+  ],
+  "handle": "27913",
+  "identifier_other": "etd-05292006-220754",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05292006-220754/",
+  "identifier_uri": "http://hdl.handle.net/10919/27913",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd_Andre_Goldstein4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "vibration isolation",
+    "noise control",
+    "payload fairing",
+    "double panel",
+    "Thunder actuator"
+  ],
+  "title": "Control of Sound Transmission with Active-Passive Tiles",
+  "type": "Dissertation"
+}

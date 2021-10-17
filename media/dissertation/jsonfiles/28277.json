@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Zhang, Zhenyu",
+  "contributor_committeechair": "Case, Scott W.",
+  "contributor_committeemember": [
+    "Lattimer, Brian Y.",
+    "Thangjitham, Surot",
+    "Hendricks, Scott L.",
+    "Roberts-Wollmann, Carin L."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:13:56Z",
+  "date_adate": "2010-07-22",
+  "date_available": "2014-03-14T20:13:56Z",
+  "date_issued": "2010-06-29",
+  "date_rdate": "2012-04-06",
+  "date_sdate": "2010-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One of the most critical issues for Polymer Matrix Composites (PMCs) in naval applications is the structural performance of composites at high temperature such as that experienced in a fire. A three-dimensional model including the effect of orthotropic viscoelasticity and decomposition is developed to predict the thermo-mechanical behavior and compressive failure of polymer matrix composites (PMCs) subjected to heat and compressive load. An overlaid element technique is proposed for incorporating the model into commercial finite element software ABAQUS. The technique is employed with the user subroutines to provide practicing engineers a convenient tool to perform analysis and design studies on composite materials subjected to combined fire exposure and mechanical loading. <p> The resulting code is verified and validated by comparing its results with other numerical results and experimentally measured data from the one-sided heating of composites at small (coupon) scale and intermediate scale. The good agreement obtained indicates the capability of the model to predict material behavior for different composite material systems with different fiber stacking sequences, different sample sizes, and different combined thermo-mechanical loadings. <p> In addition, an experimental technique utilizing Vacuum Assisted Resin Transfer Molding (VARTM) is developed to manufacture PMCs with a hypodermic needle inserted for internal pressure measurement. One-sided heating tests are conducted on the glass/vinyl ester composites to measure the pressure at different locations through thickness during the decomposition process. The model is employed to simulate the heating process and predict the internal pressure due to the matrix decomposition. Both predicted and measured results indicate that the range of the internal pressure peak in the designed test is around 1.1-1.3 atmosphere pressure.",
+  "description_provenance": [
+    "Author Email: zyzhang@vt.edu",
+    "Advisor Email: scase@exchange.vt.edu",
+    "Advisor Email: lattimer@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: wollmann@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:56Z (GMT). No. of bitstreams: 2 Zhang_Z_D_2010.pdf: 2339147 bytes, checksum: e156404825e689752bb31ea119ae01a7 (MD5) Zhang_Z_D_2010_Copyright.pdf: 36481 bytes, checksum: a6f92edfb965769c6994629e43c81730 (MD5)   Previous issue date: 2010-06-29"
+  ],
+  "handle": "28277",
+  "identifier_other": "etd-07122010-233742",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122010-233742/",
+  "identifier_uri": "http://hdl.handle.net/10919/28277",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Zhang_Z_D_2010.pdf",
+    "Zhang_Z_D_2010_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Compressive Failure",
+    "Thermo-Mechanical Behavior",
+    "Fire",
+    "Polymer Composites",
+    "Finite Element Analysis"
+  ],
+  "title": "Thermo-Mechanical Behavior of Polymer Composites Exposed to Fire",
+  "type": "Dissertation"
+}

@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Bullock, Bronson P",
+  "contributor_committeechair": "Burkhart, Harold E.",
+  "contributor_committeemember": [
+    "Prisley, Stephen P.",
+    "Schabenberger, Oliver",
+    "Oderwald, Richard G.",
+    "Radtke, Philip J."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:08:08Z",
+  "date_adate": "2002-03-13",
+  "date_available": "2014-03-14T20:08:08Z",
+  "date_issued": "2002-02-08",
+  "date_rdate": "2012-04-27",
+  "date_sdate": "2002-03-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Diameter distributions of juvenile loblolly pine (Pinus taeda L.) with different planting densities were characterized utilizing a two-parameter Weibull distribution.  Trend analysis was employed to describe the effects of planting density, age, relative spacing, and rectangularity on the estimated diameter distributions for juvenile loblolly pine.  A reparameterization of the two-parameter Weibull distribution was sought to reduce the dispersion of the estimated shape parameter.   <p> Methods that quantify the amount of inter-tree spatial dependency in a particular stand were applied.  Empirical semivariograms were derived for each plot over all ages to enable spatial trend recognition.  Moranâ  s I and Gearyâ  s C coefficients were estimated for ground-line diameters from ages 2 to 5, and for breast height diameters from ages 5 to 11.  Though there was no discernable trend in the presence of significant spatial autocorrelation with planting density, an initial negative trend with age was present, but leveled off by age 5.  A conditional autoregressive model was utilized to evaluate the amount of spatial influence stems in a stand have on one another.  The occurrence of significant spatial influences was positively associated with age through age 8, the trend then leveled off; no recognizable trend was detected with planting density. <p>  These indices help to describe stand dynamics that are influenced by the spatial distribution of stems.  Models to predict the parameters of the two-parameter Weibull distribution were developed to aid in forecasting and simulation of juvenile loblolly pine.  Simulations were conducted where a spatial dependency was imposed on the diameters within a stand.  The spatial structure simulation enables accurate representations of stem characteristics when simulating forest stands that include spatially-explicit information.",
+  "description_provenance": [
+    "Author Email: bbullock31@hotmail.com",
+    "Made available in DSpace on 2014-03-14T20:08:08Z (GMT). No. of bitstreams: 2 Bullock_VT_ETD.pdf: 5649234 bytes, checksum: d6c4ba9e7ead25a22ab8f249b7a06922 (MD5) Bullock_Abstract_LitCited.pdf: 166083 bytes, checksum: 3f2b13edc91d2f6953cab785764df096 (MD5)   Previous issue date: 2002-02-08"
+  ],
+  "handle": "26412",
+  "identifier_other": "etd-03112002-151703",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03112002-151703/",
+  "identifier_uri": "http://hdl.handle.net/10919/26412",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Bullock_VT_ETD.pdf",
+    "Bullock_Abstract_LitCited.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Inter-tree spatial dependency",
+    "Planting rectangularity",
+    "Weibull Distribution"
+  ],
+  "title": "Diameter Distributions of Juvenile Stands of Loblolly Pine (Pinus taeda L.) with Different Planting Densities",
+  "type": "Dissertation"
+}

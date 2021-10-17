@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Jones, Stephen H.",
+  "contributor_committeechair": "Baumann, William T.",
+  "contributor_committeemember": [
+    "VanLandingham, Hugh F.",
+    "Robertshaw, Harry H.",
+    "Bay, John S.",
+    "Cudney, Harley H."
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:17:21Z",
+  "date_adate": "2005-10-13",
+  "date_available": "2014-03-14T20:17:21Z",
+  "date_issued": "1991-08-05",
+  "date_rdate": "2005-10-13",
+  "date_sdate": "2005-10-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This thesis generalizes the concept of internal feedback loop modeling, due to Tahk and Speyer, to arrive at two new LQG-based methods of parameter robust control. One component of the robustness procedure, common to both methods, is the application of an auxiliary cost functional penalty to desensitize the system to variations in selected parameters of the state-space model. The other component consists of the formulation of a fictitious noise model to accommodate the effect of these parameter variations. <p>The \"frequency-domain method\" utilizes knowledge of the system dynamics to create a frequency-shaped noise model with a power spectrum that approximates the frequency content of unknown error signals in the system due to parameter uncertainties. This design method requires augmentation of additional dynamics to the plant, which results in higher-dimensional full-order controllers. However, the controller design computations are identical to those of a standard LQG problem. The \"time-domain method\" emulates the same error signals by means of a multiplicative white noise model which reflects the time-domain behavior of those signals. The resulting robust controller is of the same order as the standard LQG controller, although the design involves a more complex computational algorithm. The application of multiplicative white noise to the system model requires the solution of a system of four coupled equations - two modified Riccati equations and two modified Lyapunov equations. <p>In addition, the optimal projection equations are applied to both robustness methods to reduce the controller order with minimal loss in performance. Comparisons are drawn between these and related robust control methods, and it is shown that the relative effectiveness of such methods is problem dependent. Parameter sensitivity analysis is carried out on a simply supported plate model subject to external disturbances. The appropriate robust controller is selected, and it is found to stabilize the plate with little sacrifice in performance.",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:17:21Z (GMT). No. of bitstreams: 1 LD5655.V856_1991.J666.pdf: 3943426 bytes, checksum: 5b4c8f239c2f6db90cf148d4fa203444 (MD5)   Previous issue date: 1991-08-05",
+  "format_medium": "BTD",
+  "handle": "29264",
+  "identifier_other": "etd-10132005-152535",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10132005-152535/",
+  "identifier_uri": "http://hdl.handle.net/10919/29264",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1991.J666.pdf",
+  "subject": "Robust statistics",
+  "subject_lcc": "LD5655.V856 1991.J666",
+  "title": "Parameter robust reduced-order control of flexible structures",
+  "type": "Dissertation"
+}

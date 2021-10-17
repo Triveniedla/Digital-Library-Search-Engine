@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hur, Jungshik",
+  "contributor_committeechair": "Kumar, Raman",
+  "contributor_committeemember": [
+    "Cliff, Michael T.",
+    "Chance, Donald M.",
+    "Keown, Arthur J.",
+    "Gulen, Huseyin"
+  ],
+  "contributor_department": "Finance",
+  "date_accessioned": "2014-03-14T20:11:19Z",
+  "date_adate": "2007-05-01",
+  "date_available": "2014-03-14T20:11:19Z",
+  "date_issued": "2007-04-12",
+  "date_rdate": "2007-05-01",
+  "date_sdate": "2007-04-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation consists of two chapters. The first chapter shows that the measurement errors in betas for stocks induce corresponding measurement errors in alphas and a spurious negative covariance between the estimated betas and alphas across stocks. This negative covariance between the estimated betas and alphas results in a violation of the independence assumption between the independent variable (betas) and error terms in the Fama-MacBeth regressions of tests of the CAPM, thereby creating a downward bias in the estimated market risk premiums. The procedure of using portfolio returns and betas does not necessarily eliminate this bias. Depending upon the grouping variable used to form portfolios, the negative covariance between estimated betas and alphas can be increased, decreased, and can even be made positive. This paper proposes two methods for correcting the downward bias in the estimated market risk premium. The estimated market risk premiums are consistent with the CAPM after the proposed corrections.  The second chapter provides evidence that when the ex-post market risk premium is positive (up markets), the relation between returns and betas is positive, significant, and consistent with the CAPM. However, when the ex-post market risk premium is negative (down markets), the negative relation between betas and returns is significant, but stronger than what is implied by the CAPM. This strong negative relation offsets the positive relation, resulting in an insignificant relation between returns and betas for the overall period. The negative relation between size and returns, after controlling for beta differences, is present only when the ex-post market risk premium is negative, and is responsible for the negative relation for the overall period. This paper decomposes the negative relation between size and returns after controlling for beta differences into the intercept size effect (relation between alphas of stocks and their size) and the residual size effect (relation between residuals of stocks and their size). The asymmetrical size effect between up and down market is being driven by the residual size effect. Long term mean reversion in returns explains, in part, the negative relation between size and returns during down markets.",
+  "description_provenance": [
+    "Author Email: jhur@vt.edu",
+    "Advisor Email: rkumar@vt.edu",
+    "Advisor Email: mcliff@vt.edu",
+    "Advisor Email: dchance@lsu.edu",
+    "Advisor Email: emily@vt.edu",
+    "Advisor Email: hgulen@umich.edu",
+    "Made available in DSpace on 2014-03-14T20:11:19Z (GMT). No. of bitstreams: 1 ETD_Jungshik_Hur_May_1_2007.pdf: 383795 bytes, checksum: aa51f9d2a55ebe763e84482c992cc0bb (MD5)   Previous issue date: 2007-04-12"
+  ],
+  "handle": "27458",
+  "identifier_other": "etd-04302007-115831",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04302007-115831/",
+  "identifier_uri": "http://hdl.handle.net/10919/27458",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_Jungshik_Hur_May_1_2007.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "CAPM",
+    "Cross-Sectional Test",
+    "Bias of the Estimated Market Risk Premium",
+    "Purged beta",
+    "Measurement Error",
+    "Asymmetry",
+    "Size Premium"
+  ],
+  "title": "Two Essays on Asset Pricing",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Oueini, Shafic Sami",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Kohler, Werner E.",
+    "Inman, Daniel J.",
+    "Mook, Dean T.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:10:33Z",
+  "date_adate": "1999-04-24",
+  "date_available": "2014-03-14T20:10:33Z",
+  "date_issued": "1999-04-19",
+  "date_rdate": "2000-04-24",
+  "date_sdate": "1999-04-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We tackle the problem of suppressing high-amplitude vibrations of cantilever beams when subjected to either primary external or principal parametric resonances.  Guided by results of previous investigations into the nonlinear dynamics of single- and multi-degree-of-freedom structures, we design mechatronic systems of sensors, actuators, and electronic devices and implement nonlinear active feedback control.    In the case of external excitation, we devise two vibration absorbers based on either quadratic or cubic feedback.   We conduct theoretical analyses and demonstrate that when a two-to-one (one-to-one) internal resonance condition is imposed between the plant and the quadratic (cubic) absorber, there exists a saturation phenomenon.   When the plant is forced near its resonant frequency and the forcing amplitude exceeds a certain small threshold, the nonlinear coupling creates an energy-transfer mechanism that limits (saturates) the response of the plant.  Our theoretical studies reveal that the cubic absorber creates regimes of high-amplitude quasiperiodic and chaotic responses, thereby limiting its utility.  However, we show that superior results can be achieved when the natural frequency of the quadratic absorber is set equal to one-half the excitation frequency.  Consequently, we apply the quadratic technique through a variety of linear and nonlinear actuators, sensors, and electronic devices.  We design and build second-order analog circuits that emulate the quadratic absorber.  Using  a DC motor, piezoelectric ceramics, and Terfenol-D struts as actuators and potentiometers, strain gages, and accelerometers as sensors, we demonstrate successful single- and multi-mode vibration control.  In order to realize a more versatile implementation of the control strategy, we resort to a digital signal processing (DSP) board.  We compose a code in C and design a digital absorber by developing algorithms that, in addition to replacing the analog circuit, automatically detect the amplitude and frequency of oscillation of the plant and fine-tune the absorber parameters.   We take advantage of the digital realization, implement a linear absorber, and compare the performance of the quadratic absorber with that of its linear counterpart.  In the case of parametric excitation, we investigate two techniques.  First, we explore application of the quadratic absorber.  We prove theoretically and demonstrate experimentally that this control scheme is not reliable.  Then, we propose an alternate approach.  We devise a control law based on cubic velocity feedback.  We conduct theoretical and experimental investigations and show that the latter strategy leads to effective vibration suppression and bifurcation control.",
+  "description_provenance": [
+    "Author Email: soueini@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: dtmook@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:33Z (GMT). No. of bitstreams: 1 soueini.pdf: 3313581 bytes, checksum: 59a4b8fa9ec00106b76a60673c6a3ebc (MD5)   Previous issue date: 1999-04-19"
+  ],
+  "handle": "27176",
+  "identifier_other": "etd-042399-012248",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-042399-012248/",
+  "identifier_uri": "http://hdl.handle.net/10919/27176",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "soueini.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Vibration Absorber",
+    "Active Control",
+    "Nonlinear Dynamics",
+    "Parametric Excitation",
+    "Saturation",
+    "Smart Structures",
+    "PZT",
+    "Terfenol-D"
+  ],
+  "title": "Techniques for Controlling Structural Vibrations",
+  "type": "Dissertation"
+}

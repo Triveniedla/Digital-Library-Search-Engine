@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Hu, Xiaopei",
+  "contributor_committeechair": "Mallikarjunan, Parameswarakumar",
+  "contributor_committeemember": [
+    "Jahncke, Michael L.",
+    "Flick, George J. Jr.",
+    "Cundiff, John S.",
+    "Wilson, James H."
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:06:29Z",
+  "date_adate": "2005-01-07",
+  "date_available": "2014-03-14T20:06:29Z",
+  "date_issued": "2004-12-15",
+  "date_rdate": "2008-01-07",
+  "date_sdate": "2005-01-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "High pressure processing (HPP) and gamma irradiation were applied to inactivate <i>Vibrio vulnificus</i> (MO624) and <i>Vibrio parahaemolyticus</i> (O3:K6 TX2103) in pure culture and in inoculated live oysters. <i>Vibrio</i> pure culture and inoculated oysters were exposed to pressures of 207 MPa (30 kpsi) to 552 MPa (80 kpsi) for 0 min to maximum of 20 min. More than 5.4 log reductions of <i>V. vulnificus</i> occurred at 345 MPa for 0 min in oysters; 345 MPa for 2 min can achieve 4 log reductions on <i>V. parahaemolyticus</i>. Dosage of 1 kGy gamma-irradiation was proved to be effective in producing <i>Vibrio</i> free oysters with comparable organoleptic quality to raw oysters.  Thermal conductivity of shucked oysters was measured to be 0.58 to 0.68 W/mÂ°C, as temperature increased from 0 to 50 Â°C, using a line heat source probe. The specific heat was measured by differential scanning calorimeter methods. It increased from 3.80 to 4.05 kJ/kg Â°C, when temperature rose from 10 to 50 Â°C.  The thermal diffusivity was calculated employing the data of thermal conductivity, specific heat and density of shucked oysters. The results showed that, under the tested temperature range, thermal properties did not change significantly with temperature. The dielectric constant and loss factor of oysters were determined by an open-ended coaxial line probe connected to a network analyzer at frequency of 30 MHz to 3000 MHz from 1 to 55 Â°C. The penetration depth of dielectric heating was calculated to be 1.1 cm with the dielectric constant of 55 and loss factor of 14.  A two-dimensional mathematical model was established to simulate the heat transfer of microwave heating using a fish gel. Finite difference method was utilized to solve partial differential heat transfer equations. The model was able to predict the temperature distribution in heated fish gel with an accuracy of Â± 8Â°C. Applying the developed mathematical model, the lethality of <i>Vibrio</i> spp., artificially inoculated in live oysters, was estimated collectively by integrating the individual localized lethality of designated heating units. The predicted lethality was compared with microwave enumeration data on Vibrios in oysters. The observed maximum log reductions by microbial enumeration were 4.4 and 3.4 for <i>V. vulnificus</i> and <i>V. parahaemolyticus</i>, respectively. The lethality calculated by integrating temperature profiles was acceptable. The discrepancy between the estimated lethality and microbial test was attributed to the simplified model construction.   The quality of processed oysters, including color, aroma and texture properties, was evaluated instrumentally by a digital image system, an electronic nose and universal testing machine. The performance of two electronic nose systems on their abilities to detect oyster aroma and classify the aroma data into distinct groups was evaluated using a trained sensory panel and microbial tests. Cyranose 320 system has demonstrated potential as a quality assessment tool due to its sound correlation with microbial quality data and sensory evaluation scores. According to the quality measurement results, high pressure processing conditions were recommended to be at 345 MPa for less than 3 min and 379 MPa for less than 1.5 min. Deterioration of the quality was distinct for oyster meats exposed to 60 Â°C or above by thermal processing. The critical thermal processing condition was identified to be 55 Â°C for 2 min. With careful control, microwave processing could be considered as a candidate for seafood processing to reduce potential bacterial hazard but still retain the quality of the product.",
+  "description_provenance": [
+    "Author Email: xihu1@vt.edu",
+    "Advisor Email: mjahncke@vt.edu",
+    "Advisor Email: flickg@vt.edu",
+    "Advisor Email: jcundiff@vt.edu",
+    "Advisor Email: kumar@vt.edu",
+    "Advisor Email: jawilson@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:29Z (GMT). No. of bitstreams: 1 Disertation-Xiaopei_Hu.pdf: 1238786 bytes, checksum: 4f64342b581be740dcbbb34d3ffccc4d (MD5)   Previous issue date: 2004-12-15"
+  ],
+  "handle": "25940",
+  "identifier_other": "etd-01032005-161627",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01032005-161627/",
+  "identifier_uri": "http://hdl.handle.net/10919/25940",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Disertation-Xiaopei_Hu.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "<i>Vibrio</i> spp.",
+    "Gamma irradiation",
+    "High pressure processing",
+    "Oysters",
+    "Microwave",
+    "Inactivation kinetics",
+    "Thermal and dielectric properties",
+    "Mathematical model"
+  ],
+  "title": "Application of Alternative Technologies to Eliminate <i>Vibrios </i> spp. in Raw Oysters",
+  "type": "Dissertation"
+}

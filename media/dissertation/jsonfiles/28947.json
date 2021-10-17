@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Shin, Sangmook",
+  "contributor_committeechair": "Ragab, Saad A.",
+  "contributor_committeemember": [
+    "Ng, Fai",
+    "Devenport, William J.",
+    "Grossman, Bernard M.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:09Z",
+  "date_adate": "2001-09-14",
+  "date_available": "2014-03-14T20:16:09Z",
+  "date_issued": "2001-09-04",
+  "date_rdate": "2002-09-14",
+  "date_sdate": "2001-09-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A three-dimensional unstructured incompressible RANS code has been developed using artificial compressibility and Spalart-Allmaras eddy viscosity model. A node-based finite volume method is used in which all flow variables are defined at the vertices of tetrahedrons in an unstructured grid. The inviscid fluxes are computed by using the Roe's flux difference splitting method, and higher order accuracy is attained by data reconstruction based on Taylor series expansion. Gauss theorem is used to formulate necessary gradients. For time integration, an implicit scheme based on linearized Euler backward method is used. A tetrahedral unstructured grid generation code has been also developed and applied to the tip clearance flow in a highly staggered cascade. Surface grids are first generated in the flow passage and blade tip by using several triangulation methods including Delaunay triangulation, advancing front method and advancing layer method. Then the whole computational domain including tip gap region is filled with prisms using the surface grids. Each prism is divided into three tetrahedrons. To accomplish this division in a consistent manner, connectivity pattern is assigned to each triangle in the surface grids. A new algorithm is devised to assign the connectivity pattern without reference to the particular method of triangulation. This technique offers great flexibility in surface grid generation. The code has been validated by comparisons with available computational and experimental results for several test cases: invisicd flow around NACA section, laminar and turbulent flow over a flat plate, turbulent flow through double-circular arc cascade and laminar flow through a square duct with 90Â°  bend. For the laminar flat plate case, the velocity profile and skin friction coefficient are in excellent agreement with Blasius solution. For the turbulent flat plate case, velocity profiles are in full agreement with the law of the wall up to Reynolds number of 1.0E8, however, the skin friction coefficient is under-predicted by about 10% in comparison with empirical formula. Blade loading for the two-dimensional circular arc cascade is also compared with experiments. The results obtained with the experimental inflow angle (51.5Â° ) show some discrepancies at the trailing edge and severely under-predict the suction peak at the leading edge. These discrepancies are completely remedied if the inflow angle is increased to 53.5Â° . The code is also capable of predicting the secondary flow in the square duct with 90Â°  bend, and the velocity profiles are in good agreement with measurements and published Navier-Stokes computations. Finally the code is applied to a linear cascade that has GE rotor B section with tip clearance and a high stagger angle of 56.9Â° . The overall structure of the tip clearance flow is well predicted. Loss of loading due to tip leakage flow and reloading due to tip leakage vortex are presented. On the end wall, separation line of the tip leakage vortex and reattachment line of passage vortex are identified. The location of the tip leakage vortex in the passage agrees very well with oil flow visualization. Separation bubble on the blade tip is also predicted. Mean streamwise velocity contours and cross sectional velocity vectors are compared with experimental results in the near wake, and good agreements are observed. It is concluded that Spalart-Allmaras turbulence model is adequate for this type of flow field except at locations where the tip leakage vortex of one blade interacts with the wake of a following blade. This situation may prevail for blades with longer span and/or in the far wake. Prediction of such an interaction presents a challenge to RANS computations. The effects of blade span on the flow structure have been also investigated. Two cascades with blades of aspect ratios of 0.5 and 1.0 are considered. By comparing pressure distributions on the blade, it is shown that the aspect ratio has strong effects on loading distribution on the blade although the tip gap height is very small (0.016 chord). Grid convergence study has been carried out with three different grids for pressure distributions and limiting streamlines on the end wall.",
+  "description_provenance": [
+    "Author Email: sshin@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: wdevenpo@vt.edu",
+    "Advisor Email: bgrossma@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:09Z (GMT). No. of bitstreams: 1 ShinSangmook_etd.pdf: 17725195 bytes, checksum: 9e2a76560a944c1af5df2de9e375ec35 (MD5)   Previous issue date: 2001-09-04"
+  ],
+  "handle": "28947",
+  "identifier_other": "etd-09122001-174121",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09122001-174121/",
+  "identifier_uri": "http://hdl.handle.net/10919/28947",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ShinSangmook_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "tetrahedral grid",
+    "connectivity pattern",
+    "tip leakage vortex",
+    "incompressible RANS code"
+  ],
+  "title": "Reynolds-Averaged Navier-Stokes Computation of Tip Clearance Flow in a Compressor Cascade Using an Unstructured Grid",
+  "type": "Dissertation"
+}

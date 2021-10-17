@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Subramaniam, Chitra P",
+  "contributor_committeechair": "Marand, Hervé L.",
+  "contributor_committeemember": [
+    "Wilkes, Garth L.",
+    "Ward, Thomas C.",
+    "Gibson, Harry W.",
+    "Glanville, James O."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:13:21Z",
+  "date_adate": "1999-06-18",
+  "date_available": "2014-03-14T20:13:21Z",
+  "date_issued": "1999-06-07",
+  "date_rdate": "2000-06-18",
+  "date_sdate": "1999-06-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The morphology, crystallization and melting behaviors of a series of ethylene/alpha-olefin copolymers were investigated as a function of comonomer content, comonomer type and processing conditions, including crystallization temperature and time.  This was achieved by using a combination of techniques such as Nuclear Magnetic Resonance Spectroscopy (NMR), Differential Scanning Calorimetry (DSC), Atomic Force Microscopy (AFM) and Fourier Transform Infrared Spectroscopy (FTIR).<p>  The results from the thermal analysis studies clearly indicated the existence of two distinct regions of crystallization, demarcated by a cross-over temperature, T*.  The high temperature region (above T*) displayed cooling-rate dependence as well as significant hysteresis in crystallinity between cooling and heating processes, similar to that observed in linear polyethylene.  This implied that the crystals associated with this region were formed via chain-folded lamellar growth.  However, the lower temperature region (below T*) exhibited reversible changes in crystallinity between cooling and heating, and was found to be independent of the cooling rate.<p>   The temporal evolution of secondary crystallization in the copolymers was studied for times ranging from 100-106 min, at different crystallization temperatures (Tx).  Two distinct melting endotherms were discerned at crystallization temperatures below T*.  A higher melting endotherm that remained invariant with crystallization time (tx) was associated with lamellar crystals that were formed during primary crystallization.  In contrast, both the positions as well as the magnitude of the lower temperature endotherm were found to vary systematically with log (tx).  The peak positions of the low endotherm, i.e., the melting temperature of the secondary crystals, were found to consistently extrapolate to the crystallization temperature at very short times.  Based on this and other considerations, the secondary crystals were associated with the melting of thin stacks of polymer chains aggregated in the form of \"fringed-micelle\"-like bundled crystals.<p>   The temperature dependence of the kinetic parameters (derived from Avrami and other analyses) above T* and their invariance below T*, suggested that the transformation in morphology from lamellar to bundled crystals was gradual and systematic, as the branch content was increased or as the crystallization temperature was lowered.  Further verification of this result was obtained via AFM experiments.  A systematic variation in morphology from lamellar to spot-like (lamellae were less clearly visible) was clearly discerned on increasing the comonomer content.  Furthermore, a second morphological feature represented by bridge-like links between the lamellae, and approximately perpendicular to them, was also observed for some copolymers.  This feature was correlated with the bundled crystals discussed above.<p>   The presence of an alternate crystal structure, in addition to the usual orthorhombic crystal form expected for linear polyethylene, was also established from the results of the FTIR studies.  The relative proportions of the second crystal form in the copolymers as a function of branch content and temperature were modeled and estimated via mathematical deconvolution and curve-fitting processes.  Comparing the results to those of the hexagonal rotator phase of n-paraffins, it was proposed that the second crystal structure in the copolymers could be assigned to a hexagonal type unit cell structure.<p> Furthermore, the crystallization and melting behaviors of all three types of copolymers studied - ethylene/1-butene, ethylene/1-pentene and ethylene/1-hexene - were found to be identical to each other, suggesting that the crystallization process examined was independent of branch type for the ethyl, propyl and butyl branches examined.  Since the lengthy butyl branch (in the ethylene-hexene copolymers) is not likely to be accommodated in the crystal, it was concluded that all three branch types were predominantly excluded from the crystal structure.<p>     Based on the results from these studies, a new model for the crystallization mechanism in these copolymers was proposed and could be further extended to other semicrystalline polymers such as PET, PEEK, PVC, PBT, i-PS and polycarbonate.  In this model, the primary and secondary crystallization stages were redefined on the basis of the chain-folded lamellar growth process.  According to the model, secondary crystallization involves the generation of the bundled crystals that may be viewed as physical cross-links in the amorphous phase.  Therefore, it may provide a means of correlating the temporal evolution of secondary crystallization to the time and temperature dependence of the physical properties of semicrystalline polymers, above their glass transition temperatures.<p>",
+  "description_provenance": [
+    "Author Email: nsubrama@vt.edu",
+    "Advisor Email: hmarand@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:21Z (GMT). No. of bitstreams: 16 01TITLEETD.PDF: 4622 bytes, checksum: 6902202b7a9b1cc80b8c832f00b15fe9 (MD5) 02ABSTRACTETD.PDF: 11703 bytes, checksum: 93baab61d80dff471588f43a1abee8f7 (MD5) 03DEDICATIONETD.PDF: 3069 bytes, checksum: b80d750055f79f740ff20e4dd1d7ded4 (MD5) 04ACKNOWLEDGMENTSETD.PDF: 7715 bytes, checksum: 1e06e38f80e02904442f8a34fe264e9e (MD5) 05TABLEOFCONTENTSETD.PDF: 13858 bytes, checksum: 9c6fd5be09a4f3c060319809a815a161 (MD5) 06LISTOFFIGURESETD.PDF: 20542 bytes, checksum: dbad6e171718b83d8603990854835ad8 (MD5) 07LISTOFTABLESETD.PDF: 8037 bytes, checksum: 328f0a1a7e587e72a4a1dd636b7d8642 (MD5) 08INTROETD.PDF: 24651 bytes, checksum: 0cbf351d52b9e59bbae9c1c4c7704a58 (MD5) 09LITREVETD.PDF: 470079 bytes, checksum: 777d4e1d898e5fc808be0509efa47cf7 (MD5) 10EXPERIMENTALETD.PDF: 121103 bytes, checksum: e5b26c401a7fdbdfdfcade56778ae9f4 (MD5) 11MATCHARACTERIZATIONETD.PDF: 62627 bytes, checksum: c6d4dbef2fb0c421140923a2c55d2894 (MD5) 12DSCETD.PDF: 346842 bytes, checksum: b975cad23ffaa2bd37c29ce9377d7d10 (MD5) 13AFMETD.PDF: 1008299 bytes, checksum: b9411c0af47acf4beaeb016c0c5ad71a (MD5) 14IRETD.PDF: 176446 bytes, checksum: facdc5749155ebeaeb54a32fb53beebf (MD5) 15CONCLUSIONETD.PDF: 18045 bytes, checksum: 2ca0d65e7ab87e8b8775ecae7b7f668b (MD5) 16VITAETD.PDF: 3923 bytes, checksum: b4184cb79c81c7af5e5b3f6d9d306205 (MD5)   Previous issue date: 1999-06-07"
+  ],
+  "handle": "28064",
+  "identifier_other": "etd-061799-113854",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-061799-113854/",
+  "identifier_uri": "http://hdl.handle.net/10919/28064",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "01TITLEETD.PDF",
+    "02ABSTRACTETD.PDF",
+    "03DEDICATIONETD.PDF",
+    "04ACKNOWLEDGMENTSETD.PDF",
+    "05TABLEOFCONTENTSETD.PDF",
+    "06LISTOFFIGURESETD.PDF",
+    "07LISTOFTABLESETD.PDF",
+    "08INTROETD.PDF",
+    "09LITREVETD.PDF",
+    "10EXPERIMENTALETD.PDF",
+    "11MATCHARACTERIZATIONETD.PDF",
+    "12DSCETD.PDF",
+    "13AFMETD.PDF",
+    "14IRETD.PDF",
+    "15CONCLUSIONETD.PDF",
+    "16VITAETD.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Secondary Crystallization",
+    "Ethlyene/alpha-olefin copolymers",
+    "Random copolymers",
+    "Morphology",
+    "Structure"
+  ],
+  "title": "Morphology, Crystallization and Melting Behaviors of Random Copolymers of Ethylene with 1-Butene, 1-Pentene and 1-Hexene",
+  "type": "Dissertation"
+}

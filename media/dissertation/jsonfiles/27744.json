@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Hammad, Bashar Khalil",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Raman, Sanjay",
+    "Ragab, Saad A.",
+    "Leo, Donald J."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:08Z",
+  "date_adate": "2008-06-06",
+  "date_available": "2014-03-14T20:12:08Z",
+  "date_issued": "2008-05-02",
+  "date_rdate": "2008-06-06",
+  "date_sdate": "2008-05-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> The first objective of this Dissertation is to present a methodology to calculate analytically the mode shapes and corresponding natural frequencies and determine critical buckling loads of mechanically coupled microbeam resonators with a focus on micromechanical filters. The second objective is to adopt a nonlinear approach to build a reduced-order model and obtain closed-form expressions for the response of the filter to a primary resonance. The third objective is to investigate the feasibility of employing subharmonic excitation to build bandpass filters consisting of either two sets of two beams coupled mechanically or two sets of clamped-clamped beams. Throughout this Dissertation, we treat filters as distributed-parameter systems. </p> <p>  In the first part of the Dissertation, we demonstrate the methodology by considering a mechanical filter composed of two beams coupled by a weak beam. We solve a boundary-value problem (BVP) composed of five equations and twenty boundary conditions for the natural frequencies and mode shapes. We reduce the problem to a set of three linear homogeneous algebraic equations for three constants and the frequencies in order to obtain a deeper insight into the relation between the design parameters and the performance metrics. In an approach similar to the vibration problem, we solve the buckling problem to study the effect of the residual stress on the static stability of the structure. </p> <p> To achieve the second objective, we develop a reduced-order model for the filter by writing the Lagrangian and applying the Galerkin procedure using its analytically calculated linear global mode shapes as basis functions. The resulting model accounts for the geometric and electric nonlinearities and the coupling between them. Using the method of multiple scales, we obtain closed-form expressions for the deflection and the electric current in the case of one-to-one internal and primary resonances. The closed-form solution shows that there are three possible operating ranges, depending on the DC voltage. For low DC voltages, the effective nonlinearity is positive and the filter behavior is hardening, whereas for large DC voltages, the effective nonlinearity is negative and the filter behavior is softening. We found that, when mismatched DC voltages are applied to the primary resonators, the first mode is localized in the softer resonator and the second mode is localized in the stiffer resonator. We note that the excitation amplitude can be increased without worrying about the appearance of multivaluedness when operating the filter in the near-linear range. The upper bound in this case is the occurrence of the dynamic pull-in instability. In the softening and hardening operating ranges, the adverse effects of the multi-valued response, such as hysteresis and jumps, limit the range of the input signal. </p> <p> To achieve the third objective, we propose a filtration technique based on subharmonic resonance excitation to attain bandpass filters with ideal stopband rejection and sharp rolloff. The filtration mechanism depends on tuning two oscillators such that one operates in the softening range and the other operates in the hardening range. Hardware and logic schemes are necessary to realize the proposed filter. We derive a reduced-order model using a methodology similar to that used in the primary excitation case, but with all necessary changes to account for the subharmonic resonance of order one-half. We observe that some manipulations are essential for a structure of two beams coupled by a weak spring to be suitable for filtration. To avoid these complications, we use a pair of single clamped-clamped beams to achieve our goal. Using a model derived by attacking directly the distributed-parameters problem, we suggest design guidelines to select beams that are potential candidates for building a bandpass filter. We demonstrate the proposed mechanism using an example.</p>",
+  "description_provenance": [
+    "Author Email: bkhammad@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: sraman@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:08Z (GMT). No. of bitstreams: 1 DissertationHAMMAD.pdf: 2410156 bytes, checksum: bca72ea20a6db8d69a141fb9770d435b (MD5)   Previous issue date: 2008-05-02"
+  ],
+  "handle": "27744",
+  "identifier_other": "etd-05162008-154021",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05162008-154021/",
+  "identifier_uri": "http://hdl.handle.net/10919/27744",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DissertationHAMMAD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Distributed-parameter formulation",
+    "Reduced-order model",
+    "Modal interaction",
+    "Mechanical filters",
+    "Micro-resonators",
+    "Nonlinear modeling",
+    "Structural dynamics",
+    "Subharmonic resonance",
+    "Primary resonance",
+    "Galerkin discretization"
+  ],
+  "title": "Modeling, Simulation, and Analysis of Micromechanical Filters Coupled with Capacitive Transducers",
+  "type": "Dissertation"
+}

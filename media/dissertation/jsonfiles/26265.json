@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Lee, Jong-Hyung",
+  "contributor_committeechair": "Jacobs, Ira",
+  "contributor_committeemember": [
+    "Shaw, John Kenneth",
+    "Brandt-Pearce, Maite",
+    "Besieris, Ioannis M.",
+    "Woerner, Brian D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:40Z",
+  "date_adate": "2000-03-07",
+  "date_available": "2014-03-14T20:07:40Z",
+  "date_issued": "2000-02-10",
+  "date_rdate": "2001-03-07",
+  "date_sdate": "2000-02-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, various analytical models to characterize fiber nonlinearities have been applied, and the ranges of validity of the models are determined by comparing with numerical results.<p> First, the perturbation approach is used to solve the nonlinear SchrÃ¶dinger equation, and its range of validity is determined by comparing to the split-step Fourier method. In addition, it is shown mathematically that the perturbation approach is equivalent to the Volterra series approach. Secondly, root-mean-square (RMS) widths both in the time domain and in the frequency domain are modeled. It is shown that there exists an optimal input pulse width to minimize output pulse width based on the derived RMS models, and the functional form of the minimum output pulse width is derived. The response of a fiber to a sinusoidally modulated input which models an alternating bit sequence is studied to see its utility in measuring system performance in the presence of the fiber nonlinearities. In a single channel system, the sinusoidal response shows a strong correlation with eye-opening penalty in the normal dispersion region over a wide range of parameters, but over a more limited range in the anomalous dispersion region. The cross-phase modulation (CPM) penalty in a multi-channel system is also studied using the sinusoidally modulated input signal. The derived expression shows good agreement with numerical results in conventional fiber systems over a wide range of channel spacing, df, and in dispersion-shifted fiber systems when df > 100GHz. It is also shown that the effect of fiber nonlinearities may be characterized with stochastic input signals using noise-loading analysis. In a dense wavelength division multiplexed (DWDM) system where channels are spaced very closely, the broadened spectrum due to various nonlinear effects like SPM (self-phase modulation), CPM, and FWM (four-wave mixing) is in practice indistinguishable. In such a system, the noise-loading analysis could be useful in assessing the effects of broadened spectrum due to fiber nonlinearities on system performance. Finally, it is shown numerically how fiber nonlinearities can be utilized to improve system performance of a spectrum-sliced WDM system.<p> The major limiting factors of utilizing fiber nonlinearities are also discussed.",
+  "description_provenance": [
+    "Author Email: jolee8@vt.edu",
+    "Advisor Email: shaw@math.vt.edu",
+    "Advisor Email: mb9q@ee.virginia.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:40Z (GMT). No. of bitstreams: 1 jhlee_etd.pdf: 1269992 bytes, checksum: 75ccaad143f0aa1ebae8d5beb67c22aa (MD5)   Previous issue date: 2000-02-10"
+  ],
+  "handle": "26265",
+  "identifier_other": "etd-02212000-15440013",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02212000-15440013/",
+  "identifier_uri": "http://hdl.handle.net/10919/26265",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "jhlee_etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "WDM",
+    "Fiber Optics",
+    "Fiber Nonlinearity",
+    "Optical Communication"
+  ],
+  "title": "Analysis and Characterization of Fiber Nonlinearities with Deterministic and Stochastic Signal Sources",
+  "type": "Dissertation"
+}

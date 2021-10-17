@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Goncalves, Fernando D.",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeemember": [
+    "Baird, Donald G.",
+    "Carlson, David",
+    "Leo, Donald",
+    "Kasarda, Mary E. F.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:13Z",
+  "date_adate": "2005-02-11",
+  "date_available": "2014-03-14T20:07:13Z",
+  "date_issued": "2005-01-21",
+  "date_rdate": "2006-02-11",
+  "date_sdate": "2005-02-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Magnetorheological (MR) fluids offer solutions to many engineering challenges.  The success of MR fluid is apparent in many disciplines, ranging from the automotive and civil engineering communities to the biomedical engineering community.  This well documented success of MR fluids continues to motivate current and future applications of MR fluid. One such application that has been considered recently is MR fluid devices for use in impact and other high velocity applications.  In such applications, the fluid environment within the device may be well beyond the scope of our understanding for these fluids.  To date, little has been done to explore the suitability of MR fluids in such high velocity and high shear applications. While future applications may expose the fluid to adverse flow conditions, we must also consider current and existing applications which expose the fluid to extreme flow environments.  Consider, for example, an MR damper intended for automotive primary suspensions, in which shear rates may exceed 10^5 s^-1.  Flow conditions within these dampers far exceed existing fluid behavior characterization. The aim of the current study is to identify the behavior of the fluid under these extreme operating conditions.  Specifically, this study intends to identify the behavior of MR fluid subject to high rates of shear and high flow velocities.  A high shear rheometer is built which allows for the high velocity testing of MR fluids.  The rheometer is capable of fluid velocities ranging from 1 m/s to 37 m/s, with corresponding shear rates ranging from 0.14x10^5 s^-1 to 2.5x10^5 s^-1.  Fluid behavior is characterized in both the off-state and the on-state. The off-state testing was conducted in order to identify the high shear viscosity of the fluid.  Because the high shear behavior of MR fluid is largely governed by the behavior of the carrier fluid, the carrier fluid behavior was also identified at high shear.  Experiments were conducted using the high shear rheometer and the MR fluid was shown to exhibit nearly Newtonian post-yield behavior.  A slight thickening was observed for growing shear rates.  This slight thickening can be attributed to the behavior of the carrier fluid, which exhibited considerable thickening at high shear. The purpose of the on-state testing was to characterize the MR effect at high flow velocities.  As such, the MR fluid was run through the rheometer at various flow velocities and a number of magnetic field strengths.  The term â  dwell timeâ   is introduced and defined as the amount of time the fluid spends in the presence of a magnetic field.  Two active valve lengths were considered, which when coupled to the fluid velocities, generated dwell times ranging from 12 ms to 0.18 ms.  The yield stress was found from the experimental measurements and the results indicate that the magnitude of the yield stress is sensitive to fluid dwell time.  As fluid dwell times decrease, the yield stress developed in the fluid decreases.  The results from the on-state testing clearly demonstrate a need to consider fluid dwell times in high velocity applications.  Should the dwell time fall below the response time of the fluid, the yield stress developed in the fluid may only achieve a fraction of the expected value.  These results imply that high velocity applications may be subject to diminished controllability for falling dwell times. Results from this study may serve to aid in the design of MR fluid devices intended for high velocity applications.  Furthermore, the identified behavior may lead to further developments in MR fluid technology.  In particular, the identified behavior may be used to develop or identify an MR fluid well suited for high velocity and high shear applications.",
+  "description_provenance": [
+    "Author Email: nando@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: dbaird@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: maryk@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:13Z (GMT). No. of bitstreams: 1 Goncalves_ETD.pdf: 2334680 bytes, checksum: 9809d09c1d1c5bfe38afe452d37a8f22 (MD5)   Previous issue date: 2005-01-21"
+  ],
+  "handle": "26142",
+  "identifier_other": "etd-02072005-185842",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02072005-185842/",
+  "identifier_uri": "http://hdl.handle.net/10919/26142",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Goncalves_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High Velocity",
+    "Shear Rate",
+    "Dwell Time",
+    "Response Time",
+    "MR Effect",
+    "MR Fluid",
+    "Magnetorheological",
+    "Bingham",
+    "Yield Stress"
+  ],
+  "title": "Characterizing the Behavior of Magnetorheological Fluids at High Velocities and High Shear Rates",
+  "type": "Dissertation"
+}

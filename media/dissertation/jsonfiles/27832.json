@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Stoyanov, Miroslav",
+  "contributor_committeechair": "Borggaard, Jeffrey T.",
+  "contributor_committeemember": [
+    "Gugercin, Serkan",
+    "Burns, John A.",
+    "Zietsman, Lizette"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:12:25Z",
+  "date_adate": "2009-06-12",
+  "date_available": "2014-03-14T20:12:25Z",
+  "date_issued": "2009-05-05",
+  "date_rdate": "2009-06-12",
+  "date_sdate": "2009-05-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Solving the linear quadratic regulator (LQR) problem for partial differential equa- tions (PDEs) leads to many computational challenges. The primary challenge comes from the fact that discretization methods for PDEs typically lead to very large sys- tems of differential or differential algebraic equations. These systems are used to form algebraic Riccati equations involving high rank matrices. Although we restrict our attention to control problems with small numbers of control inputs, we allow for po- tentially high order control outputs. Problems with this structure appear in a number of practical applications yet no suitable algorithm exists. We propose and analyze so- lution strategies based on applying model order reduction methods to Chandrasekhar equations, Lyapunov/Sylvester equations, or combinations of these equations. Our nu- merical examples illustrate improvements in computational time up to several orders of magnitude over standard tools (when these tools can be used). We also present exam- ples that cannot be solved using existing methods. These cases are motivated by flow control problems that are solved by computing feedback controllers for the linearized system.",
+  "description_provenance": [
+    "Author Email: mkstoyanov@gmail.com",
+    "Advisor Email: gugercin@math.vt.edu",
+    "Advisor Email: burns@math.vt.edu",
+    "Advisor Email: jborggaa@vt.edu",
+    "Advisor Email: lzietsma@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:25Z (GMT). No. of bitstreams: 1 MiroslavStoyanovDissertation.pdf: 6628439 bytes, checksum: e1206610363f9c413ed1af0e8ee98dfe (MD5)   Previous issue date: 2009-05-05"
+  ],
+  "handle": "27832",
+  "identifier_other": "etd-05212009-155950",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05212009-155950/",
+  "identifier_uri": "http://hdl.handle.net/10919/27832",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MiroslavStoyanovDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Large Scale",
+    "High Rank",
+    "Navier-Stokes",
+    "Riccati Equations"
+  ],
+  "title": "Reduced Order Methods for Large Scale Riccati Equations",
+  "type": "Dissertation"
+}

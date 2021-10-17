@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Schenck, David Robert",
+  "contributor_committeechair": "Russell, David L.",
+  "contributor_committeemember": [
+    "Kim, Jong Uhn",
+    "Lin, Tao",
+    "Rogers, Robert C.",
+    "Wheeler, Robert L."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:02Z",
+  "date_adate": "1999-08-14",
+  "date_available": "2014-03-14T20:15:02Z",
+  "date_issued": "1999-07-26",
+  "date_rdate": "2000-08-14",
+  "date_sdate": "1999-08-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Some equations of linear elasticity are developed, including those  specific to certain actuator structures considered in formation  theory.  The invariance of the strain-energy under the transformation  from rectangular to spherical coordinates is then established for use  in two specific formation problems.  The first problem, involving an  elastic structure with a cylindrical equilibrium configuration, is  formulated in two dimensions using polar coordinates.  It is shown  that $L^2$ controls suffice to obtain boundary displacements in  $H^{1/2}$.  The second problem has a spherical equilibrium  configuration and utilizes the elastic equations in spherical  coordinates.  Results similar to those obtained in the two dimensional  case are indicated for the three dimensional problem.",
+  "description_provenance": [
+    "Author Email: schenck@math.vt.edu",
+    "Advisor Email: russell@math.vt.edu",
+    "Advisor Email: kim@math.vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: wheeler@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:02Z (GMT). No. of bitstreams: 1 master.pdf: 1365624 bytes, checksum: 74c5ab9fdb4c9fd145a30ac7ef88bfcd (MD5)   Previous issue date: 1999-07-26"
+  ],
+  "handle": "28608",
+  "identifier_other": "etd-081099-174646",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-081099-174646/",
+  "identifier_uri": "http://hdl.handle.net/10919/28608",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "master.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Formation Theory",
+    "Control Theory",
+    "Shape Control",
+    "Linear Elasticity"
+  ],
+  "title": "Some Formation Problems for Linear Elastic Materials",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Blinn, Christine Elizabeth",
+  "contributor_committeechair": "Wynne, Randolph H.",
+  "contributor_committeemember": [
+    "Scrivani, John A.",
+    "Reams, Gregory A.",
+    "Prisley, Stephen P.",
+    "Oderwald, Richard G."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:15:20Z",
+  "date_adate": "2005-08-25",
+  "date_available": "2014-03-14T20:15:20Z",
+  "date_issued": "2005-07-29",
+  "date_rdate": "2005-08-25",
+  "date_sdate": "2005-08-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The impacts of training data sample size and sampling method on the accuracy of forest/nonforest classifications of three mosaicked Landsat ETM+ images with the nearest neighbor decision rule were explored.  Large training data pools of single pixels were used in simulations to create samples with three sampling methods (random, stratified random, and systematic) and eight sample sizes (25, 50, 75, 100, 200, 300, 400, and 500).  Two forest area estimation techniques were used to estimate the proportion of forest in each image and to calculate forest area precision estimates.  Training data editing was explored to remove problem pixels from the training data pools.  All possible band combinations of the six non-thermal ETM+ bands were evaluated for every sample draw.  Comparisons were made between classification accuracies to determine if all six bands were needed.  The utility of separability indices, minimum and average Euclidian distances, and cross-validation accuracies for the selection of band combinations, prediction of classification accuracies, and assessment of sample quality were determined.  \t \tLarger training data sample sizes produced classifications with higher average accuracies and lower variability.  All three sampling methods had similar performance.  Training data editing improved the average classification accuracies by a minimum of 5.45%, 5.31%, and 3.47%, respectively, for the three images.  Band combinations with fewer than all six bands almost always produced the maximum classification accuracy for a single sample draw.  The number of bands and combination of bands, which maximized classification accuracy, was dependent on the characteristics of the individual training data sample draw, the image, sample size, and, to a lesser extent, the sampling method.  All three band selection measures were unable to select band combinations that produced higher accuracies on average than all six bands.  Cross-validation accuracies with sample size 500 had high correlations with classification accuracies, and provided an indication of sample quality.    \tCollection of a high quality training data sample is key to the performance of the nearest neighbor classifier.  Larger samples are necessary to guarantee classifier performance and the utility of cross-validation accuracies.  Further research is needed to identify the characteristics of \"good\" training data samples.",
+  "description_provenance": [
+    "Author Email: cblinn@vt.edu",
+    "Advisor Email: wynne@vt.edu",
+    "Advisor Email: John.Scrivani@dof.virginia.gov",
+    "Advisor Email: greams@fs.fed.us",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: oderwald@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:20Z (GMT). No. of bitstreams: 2 Blinn_CV.pdf: 126223 bytes, checksum: 2e6c9d8c657c86d52c4350f3f2825325 (MD5) BlinnCE_Dissertation.pdf: 1943922 bytes, checksum: 511594a35a9578e6f054122aaaf25ec3 (MD5)   Previous issue date: 2005-07-29"
+  ],
+  "handle": "28694",
+  "identifier_other": "etd-08172005-161710",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08172005-161710/",
+  "identifier_uri": "http://hdl.handle.net/10919/28694",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Blinn_CV.pdf",
+    "BlinnCE_Dissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "training data",
+    "nearest neighbor",
+    "forest area estimation",
+    "band combinations",
+    "Landsat ETM+"
+  ],
+  "title": "Increasing the Precision of Forest Area Estimates through Improved Sampling for Nearest Neighbor Satellite Image Classification",
+  "type": "Dissertation"
+}

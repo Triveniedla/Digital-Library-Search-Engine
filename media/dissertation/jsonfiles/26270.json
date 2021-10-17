@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Umsrithong, Anake",
+  "contributor_committeechair": "Sandu, Corina",
+  "contributor_committeemember": [
+    "Ferris, John B.",
+    "Chan, Brendan Juin-Yih",
+    "Sandu, Adrian",
+    "Taheri, Saied"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:41Z",
+  "date_adate": "2012-03-30",
+  "date_available": "2014-03-14T20:07:41Z",
+  "date_issued": "2012-02-10",
+  "date_rdate": "2012-03-30",
+  "date_sdate": "2012-02-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The tire is one of the most important components of the vehicle. It has many functions, such as supporting the load of the vehicle, transmitting the forces which drive, brake and guide the vehicle, and acting as the secondary suspension to absorb the effect of road irregularities before transmitting the forces to the vehicle suspension. A tire is a complex reinforced rubber composite air container. The structure of the tire is very complex. It consists of several layers of synthetic polymer, many flexible filaments of high modulus cord, and glass fiber, which are bonded to a matrix of low modulus polymeric material. As the tire is the only component of the vehicle which makes contact with the road surface, almost all forces and moments acting on the vehicle must be transferred by the tire. To predict the dynamics of the vehicle, we need to know these forces and moments generated at the tire contact patch. Therefore, tire models that accurately describe this dynamic behavior are needed for vehicle dynamic simulation. Many researchers developed tire models for vehicle dynamic simulations; however, most of the development in tire modeling has been limited to deterministic steady-state on-road tire models. The research conducted in this study is concerned with the development of semi-empirical transient tire models for on-road and off-road vehicle simulations. The semi-empirical transient tire model is developed based on existed tire models, analytical tire structure mechanics analysis, and experimental data collected by various researchers. The tire models were developed for vehicle traction, handling and ride analysis. The theoretical mechanics analysis of the tire model focused on the determination of tire and terrain deformation. Then, the results are used together with empirical data to calculate the force response and the moment response. Moreover, the influence of parametric uncertainties in tire parameters on the tire-terrain interaction is investigated. The parametric uncertainties are quantified and propagated through the tire models using a polynomial chaos theory with a collocation approach. To illustrate the capabilities of the tire models developed, both deterministic and stochastic tire models are simulated for various scenarios and maneuvers. Numerically simulated results are analyzed from the perspective of vehicle dynamics. Such an analysis can be used in tire and vehicle development and design.",
+  "description_provenance": [
+    "Author Email: uanake@vt.edu",
+    "Advisor Email: jbferris@vt.edu",
+    "Advisor Email: brendan.chan@bendix.com",
+    "Advisor Email: asandu7@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Advisor Email: staheri@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:41Z (GMT). No. of bitstreams: 6 Umsrithong_A_D_2012.pdf: 27553536 bytes, checksum: c5bc1970347f493cf3f15a586f43afb7 (MD5) Figure_2_6_Fair_Use.pdf: 121923 bytes, checksum: c78bd7fca340909493cb9165618f7c37 (MD5) Figure_2_5_Fair_Use.pdf: 120973 bytes, checksum: 9842687ec7c513d93d0cc9680bfc6988 (MD5) Figure_2_1_Fair_Use.pdf: 118976 bytes, checksum: 65f9288e37f3a66385b427115c659a33 (MD5) Figure_2_2_Fair_Use.pdf: 119176 bytes, checksum: 5761939bd23bdefaa28d111e16b41012 (MD5) Figure_2_4_Fair_Use.pdf: 121372 bytes, checksum: 4279d31cbbdf3d697b1578c1d497be11 (MD5)   Previous issue date: 2012-02-10"
+  ],
+  "handle": "26270",
+  "identifier_other": "etd-02212012-204837",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02212012-204837/",
+  "identifier_uri": "http://hdl.handle.net/10919/26270",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Umsrithong_A_D_2012.pdf",
+    "Figure_2_6_Fair_Use.pdf",
+    "Figure_2_5_Fair_Use.pdf",
+    "Figure_2_1_Fair_Use.pdf",
+    "Figure_2_2_Fair_Use.pdf",
+    "Figure_2_4_Fair_Use.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "tire model",
+    "uncertainties",
+    "vehicle dynamics"
+  ],
+  "title": "Deterministic and Stochastic Semi-Empirical Transient Tire Models",
+  "type": "Dissertation"
+}

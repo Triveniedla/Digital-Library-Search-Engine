@@ -1,0 +1,43 @@
+{
+  "contributor_author": "van Wyk, Hans-Werner",
+  "contributor_committeechair": "Borggaard, Jeffrey T.",
+  "contributor_committeemember": [
+    "Herdman, Terry L.",
+    "Zietsman, Lizette",
+    "Day, Martin V."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:49Z",
+  "date_adate": "2012-05-25",
+  "date_available": "2014-03-14T20:11:49Z",
+  "date_issued": "2012-04-26",
+  "date_rdate": "2012-05-25",
+  "date_sdate": "2012-05-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As simulation plays an increasingly central role in modern science and engineering research, by supplementing experiments, aiding in the prototyping of engineering systems or informing decisions on safety and reliability, the need to quantify uncertainty in model outputs due to uncertainties in the model parameters becomes critical. However, the statistical characterization of the model parameters is rarely known. In this thesis, we propose a variational approach to solve the stochastic inverse problem of obtaining a statistical description of the diffusion coefficient in an elliptic partial differential equation, based noisy measurements of the model output. We formulate the parameter identification problem as an infinite dimensional constrained optimization problem for which we establish existence of minimizers as well as first order necessary conditions. A spectral approximation of the uncertain observations (via a truncated Karhunen-Loeve expansion) allows us to estimate the infinite dimensional problem by a smooth, albeit high dimensional, deterministic optimization problem, the so-called 'finite noise' problem, in the space of functions with bounded mixed derivatives. We prove convergence of 'finite noise' minimizers to the appropriate infinite dimensional ones, and devise a gradient based, as well as a sampling based strategy for locating these numerically. Lastly, we illustrate our methods by means of numerical examples.",
+  "description_provenance": [
+    "Author Email: hvanwyk@vt.edu",
+    "Advisor Email: jborggaa@vt.edu",
+    "Advisor Email: terry.herdman@vt.edu",
+    "Advisor Email: lzietsma@vt.edu",
+    "Advisor Email: daymv@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:49Z (GMT). No. of bitstreams: 1 VanWyk_HW_D_2012.pdf: 2791404 bytes, checksum: d7b3f73452feb86e30cf88b4c973324f (MD5)   Previous issue date: 2012-04-26"
+  ],
+  "handle": "27635",
+  "identifier_other": "etd-05102012-163445",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05102012-163445/",
+  "identifier_uri": "http://hdl.handle.net/10919/27635",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "VanWyk_HW_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "uncertainty quantification",
+    "parameter identification",
+    "elliptic systems",
+    "stochastic collocation methods"
+  ],
+  "title": "A Variational Approach to Estimating Uncertain Parameters in Elliptic Systems",
+  "type": "Dissertation"
+}

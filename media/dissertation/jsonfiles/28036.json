@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Menéndez Gómez, José  Mar­ía",
+  "contributor_committeechair": "Day, Martin V.",
+  "contributor_committeemember": [
+    "Borggaard, Jeffrey T.",
+    "Ball, Joseph A.",
+    "Herdman, Terry L.",
+    "Adjerid, Slimane"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:02Z",
+  "date_adate": "2007-06-17",
+  "date_available": "2014-03-14T20:13:02Z",
+  "date_issued": "2007-06-08",
+  "date_rdate": "2007-06-17",
+  "date_sdate": "2007-06-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The study of stochastic queueing networks is quite important due to the many applications including transportation, telecommunication, and manufacturing industries. Since there is often no explicit solution to these types of control problems, numerical methods are needed. Following the method of BouÃ©-Dupuis, we use a Dynamic Programming approach of optimization on a controlled Markov Chain that simulates the behavior of a fluid limit of the original process. The search for an optimal control in this case involves a Skorokhod problem to describe the dynamics on the boundary of closed, convex domain. Using relaxed stochastic controls we show that the approximating numerical solution converges to the actual solution as the size of the mesh in the discretized state space goes to zero, and illustrate with an example.",
+  "description_provenance": [
+    "Author Email: menendez@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: terry.herdman@vt.edu",
+    "Advisor Email: day@math.vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:02Z (GMT). No. of bitstreams: 1 Menendez_PhD.pdf: 469259 bytes, checksum: ada6f0375ed153ef1b4a170466f7b1d4 (MD5)   Previous issue date: 2007-06-08"
+  ],
+  "handle": "28036",
+  "identifier_other": "etd-06132007-124519",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06132007-124519/",
+  "identifier_uri": "http://hdl.handle.net/10919/28036",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Menendez_PhD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "queueing networks",
+    "bounded domain",
+    "Markov chain approximations",
+    "weak convergence",
+    "Skorokhod problem"
+  ],
+  "title": "Computational Methods for Control of Queueing Models in Bounded Domains",
+  "type": "Dissertation"
+}

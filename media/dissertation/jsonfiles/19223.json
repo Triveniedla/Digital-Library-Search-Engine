@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Plymale, William O",
+  "contributor_committeechair": "Midkiff, Scott F",
+  "contributor_committeemember": [
+    "Tatar, Deborah Gail",
+    "Silva, Luiz A",
+    "Tront, Joseph G",
+    "Martin, Thomas L"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-02-19T22:38:48Z",
+  "date_available": "2013-02-19T22:38:48Z",
+  "date_issued": "2013-01-11",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Wireless and pervasive computing research continues to study ways the Internet of Things (IoT)<br />can make lives easier and more productive. Areas of interest include advances in new<br />architectures and frameworks that support large-scale IoT deployments beyond research<br />prototypes, simple and inexpensive human-to-device and device-to-device interfaces, and user<br />decision making support with opportunistic information services.<br /><br />This dissertation investigates the design and implementation of a general-purpose framework<br />upon which IoT and opportunistic computing (OC) systems can be built.<br /><br />The result of this work is Pebbles and Urns (P&U), a casually accessible system designed to<br />deliver information to a person that is pertinent and beneficial to them with respect to their<br />current activity, location and other contexts. P&U is a proximity-based information delivery<br />framework that leverages a simple, inexpensive tangible interface and context-rich, physicallysituated,<br />distributed information repositories. By its proposed use of enforced proximity, local<br />context, and location-specific services, P&U can support the situated interaction between user<br />and place.<br /><br />The P&U framework is based on a layered architecture consisting of an isolated physical<br />communication layer, a data repository supporting opportunistic service composition and<br />delivery, and a controller/interface providing user feedback. Serving as a potential IoT design<br />pattern, P&U application developers can use the framework API\\'s and software tools to build<br />and deploy P&U systems.<br /><br />As validation of this work, P&U prototypes are constructed using the framework, API\\'s and<br />software tools. The prototypes are based on use cases depicting a person engaged in the day-today<br />activities of attending class, going to the gym and grocery shopping. Performance<br />measurements are performed on the prototypes profiling core components of the framework.<br />Results indicate proper functioning of P&U tangible interfaces, communication connections,<br />service request and delivery, and internal framework operations.<br /><br />Contributions of this research include a general-purpose framework, a simple IoT interface and<br />an opportunistic engine.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:38:48Z (GMT). No. of bitstreams: 1 Plymale_WO_D_2013.pdf: 5586242 bytes, checksum: fba76de7c582653f9469abb8c3e630fa (MD5)   Previous issue date: 2013-01-11",
+  "format_medium": "ETD",
+  "handle": "19223",
+  "identifier_other": "vt_gsexam:318",
+  "identifier_uri": "http://hdl.handle.net/10919/19223",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "pervasive computing",
+    "opportunistic",
+    "situated"
+  ],
+  "title": "Pebbles and Urns: A Tangible, Presence-Based Service Delivery Framework",
+  "type": "Dissertation"
+}

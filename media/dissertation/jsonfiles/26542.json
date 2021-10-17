@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Kim, Jong Han",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeecochair": "Annamalai, Annamalai  Jr.",
+  "contributor_committeemember": [
+    "Ellingson, Steven W.",
+    "Tranter, William H.",
+    "Taaffe, Michael R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:36Z",
+  "date_adate": "2007-04-25",
+  "date_available": "2014-03-14T20:08:36Z",
+  "date_issued": "2007-03-19",
+  "date_rdate": "2007-04-25",
+  "date_sdate": "2007-03-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Multiple-input/multiple-output (MIMO) systems with the adaptive array processing technique, also referred to as smart antennas, have received extensive attention in wireless communications due to their ability to combat multipath fading and co-channel interference, two major channel impairments that degrade system performance. However, when smart antennas are deployed in wireless networks, careful attention is required since any defective or imperfect operation of smart antennas can severely degrade the performance of the entire network. Therefore, the evaluation of network performance under ideal and imperfect conditions is critical in the process of system design and should precede deploying smart antennas on the wireless network. This work focuses on the development of an analytical framework to evaluate the performance of wireless networks based on popular DS/CDMA cellular systems equipped with antenna arrays. Spatial diversity at both the base station (BS) and the mobile station (MS) is investigated through both analytical analysis and simulation. The main contribution of this research is to provide a comprehensive analytical framework for examining the system level performance with multiple antennas at both the BS and the MS. Using the framework developed in this research, system capacity and coverage of the uplink (or reverse link) are investigated when antenna arrays are implemented at both the BS and the MS. In addition, the system capacity and soft handoff capability of the downlink (or forward link) are examined taking into account MIMO. Furthermore, various physical and upper layer parameters that can affect the system level performance are taken into account in the analytical framework and their combined impact is evaluated. Finally, to validate the analytical analysis results, a system level simulator is developed and selective results are provided.",
+  "description_provenance": [
+    "Author Email: jonghank@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: ellingso@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: annamala@vt.edu",
+    "Advisor Email: taaffe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:36Z (GMT). No. of bitstreams: 1 jonghank_dissertation.pdf: 2069716 bytes, checksum: 318f452e2b50054bffb0be2742c64305 (MD5)   Previous issue date: 2007-03-19"
+  ],
+  "handle": "26542",
+  "identifier_other": "etd-03292007-171328",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03292007-171328/",
+  "identifier_uri": "http://hdl.handle.net/10919/26542",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "jonghank_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "MIMO",
+    "System Coverage",
+    "DS/CDMA Cellular Network",
+    "Spatial Diversity",
+    "System Capacity"
+  ],
+  "title": "On the Impact of MIMO Implementations on Cellular Networks: An Analytical Approach from a Systems Perspective",
+  "type": "Dissertation"
+}

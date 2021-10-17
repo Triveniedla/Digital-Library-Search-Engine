@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Baccouch, Mahboub",
+  "contributor_committeechair": "Adjerid, Slimane",
+  "contributor_committeemember": [
+    "Sun, Shu-Ming",
+    "Iliescu, Traian",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:07:53Z",
+  "date_adate": "2008-03-31",
+  "date_available": "2014-03-14T20:07:53Z",
+  "date_issued": "2008-02-22",
+  "date_rdate": "2010-10-12",
+  "date_sdate": "2008-02-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this thesis, we present new superconvergence properties of discontinuous Galerkin (DG) methods for two-dimensional hyperbolic problems. We investigate the superconvergence properties of the DG method applied to scalar first-order hyperbolic partial differential equations on triangular meshes. We study the effect of finite element spaces on the superconvergence properties of DG solutions on three types of triangular elements. Superconvergence is described for structured and unstructured meshes. We show that the DG solution is O(hp+1) superconvergent at Legendre points on the outflow edge on triangles having one outflow edge using three p- degree polynomial spaces. For triangles having two outflow edges the finite element error is O(hp+1)  superconvergent at the end points of the inflow edge for an augmented space of degree p. Furthermore, we discovered additional mesh-orientation dependent superconvergence points in the interior of triangles. The dependence of these points on orientation is explicitly given. We also established a global superconvergence result on meshes consisting of triangles having one inflow and one outflow edges.  <p> Applying a local error analysis, we construct simple, efficient and asymptotically correct a posteriori error estimates for discontinuous finite element solutions of hyperbolic problems on triangular meshes. A posteriori error estimates are needed to guide adaptive enrichment and to provide a measure of solution accuracy for any numerical method. We develop an inexpensive superconvergence-based a posteriori error estimation technique for the DG solutions of conservation laws. We explicitly write the basis functions for the error spaces corresponding to several finite element solution spaces. The leading term of the discretization error on each triangle is estimated by solving a local problem where no boundary conditions are needed. The computed error estimates are shown to converge to the true error under mesh refinement in smooth solution regions. We further present a numerical study of superconvergence properties for the DG method applied to time-dependent convection problems. We also construct asymptotically correct a posteriori error estimates by solving local hyperbolic problems with no boundary conditions on general unstructured meshes. The global superconvergence results are numerically confirmed. Finally, the a posteriori error estimates are tested on several linear and nonlinear problems to show their efficiency and accuracy under mesh refinement.",
+  "description_provenance": [
+    "Author Email: baccouch@vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: iliescu@math.vt.edu",
+    "Advisor Email: tlin@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:53Z (GMT). No. of bitstreams: 14 03Dedication.pdf: 55051 bytes, checksum: 520a77ad4e43f97304d86c8789fef2c0 (MD5) 09chapter4.pdf: 25325157 bytes, checksum: 81a30f93aaba9ab5cd52b5f475ee3d08 (MD5) 01title.pdf: 49258 bytes, checksum: d18f907080cf0cb4613ef07ff51b24ff (MD5) 04Acknowledgments.pdf: 60721 bytes, checksum: 782ca901b32d80c8b77bae365376ce12 (MD5) 02abstract.pdf: 91325 bytes, checksum: b01d501afe9e54349be3194bded43d57 (MD5) 05Contents.pdf: 145058 bytes, checksum: 7798a26adc741c8c3b70d8f81e39096f (MD5) 10chapter5.pdf: 339529 bytes, checksum: aea2d763771d950dfef3bfe9f83227bf (MD5) 11chapter6.pdf: 121399 bytes, checksum: a56fac33c284e89055fc378352a3b900 (MD5) 12Bibliography.pdf: 114156 bytes, checksum: a9ef4f69c3a5a3aa41491876f7ea05fd (MD5) 13Vitae.pdf: 53034 bytes, checksum: 80b8ec64d867932b867c05b09a567ea1 (MD5) thesis.pdf: 58097948 bytes, checksum: fa1e9f4451194ec7e6bf674ae071d497 (MD5) 07chapter2.pdf: 846163 bytes, checksum: 71411fa98d7a2eb9fa117c08f600c767 (MD5) 08chapter3.pdf: 31885243 bytes, checksum: dafcac9f8dc52daf3b5a57b196409f5b (MD5) 06chapter1.pdf: 242332 bytes, checksum: cc212605a0d1d53e8a7ee7003df5cd7a (MD5)   Previous issue date: 2008-02-22"
+  ],
+  "handle": "26331",
+  "identifier_other": "etd-02292008-162611",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02292008-162611/",
+  "identifier_uri": "http://hdl.handle.net/10919/26331",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "03Dedication.pdf",
+    "09chapter4.pdf",
+    "01title.pdf",
+    "04Acknowledgments.pdf",
+    "02abstract.pdf",
+    "05Contents.pdf",
+    "10chapter5.pdf",
+    "11chapter6.pdf",
+    "12Bibliography.pdf",
+    "13Vitae.pdf",
+    "thesis.pdf",
+    "07chapter2.pdf",
+    "08chapter3.pdf",
+    "06chapter1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "hyperbolic problems",
+    "a posteriori errorestimates",
+    "Discontinuous Galerkin method",
+    "triangular meshes",
+    "superconvergence"
+  ],
+  "title": "Superconvergence and A posteriori Error Estimation for the Discontinuous Galerkin Method Applied to Hyperbolic Problems on Triangular Meshes",
+  "type": "Dissertation"
+}

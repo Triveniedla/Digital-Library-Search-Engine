@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Ahuja, Sumit",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Hsiao, Michael S.",
+    "Abbott, A. Lynn",
+    "Vullikanti, Anil Kumar S.",
+    "Schaumont, Patrick Robert"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:18Z",
+  "date_adate": "2010-06-14",
+  "date_available": "2014-03-14T20:12:18Z",
+  "date_issued": "2010-05-12",
+  "date_rdate": "2010-06-14",
+  "date_sdate": "2010-05-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The unabated continuation of the Mooreâ  s law has allowed the doubling of the number of transistors per unit area of a silicon die every 2 years or so. At the same time, an increasing demand on consumer electronics and computing equipments to run sophisticated applications has led to an unprecedented complexity of hardware designs. These factors have necessitated the abstraction level of design-entry of hardware systems to be raised beyond the Register-Transfer-Level (RTL) to Electronic System Level (ESL). However, power envelope on the designs due to packaging and other thermal limitations, and the energy envelope due to battery life-time considerations have also created a need for power/energy efficient design. The confluence of these two technological issues has created an urgent need for solving two problems: (i) How do we enable a power-aware design flow with a design entry point at the Electronic System Level? (ii) How do we enable power aware High Level Synthesis to automatically synthesize RTL implementation from ESL?  This dissertation distinguishes itself by addressing the following two issues: (i) Since power/energy consumption of electronic systems largely depends on implementation details, and high-level models abstract away from such details, power/energy estimation at such levels has not been addressed thoroughly. (ii) A lot of work has been done in applying various techniques on control-data-flow graphs (CDFG) to find power/area/latency pareto points during behavioral synthesis. However, high level C-based functional models of various compute-intensive components, which could be easily synthesized as co-processors, have many opportunities to reduce power. Some of these savings opportunities are traditional such as clock-gating, operand-isolation etc. The exploration of alternate granularities of these techniques with target applications in mind, opens the door for traditional power reduction opportunities at the high-level.  This work therefore concentrates on the aforementioned two areas of inadequacy of hardware design methodologies. Our proposed solutions include utilizing ESL simulation traces and mapping those to lower abstraction levels for power estimation, derivation of statistical power models using regression based learning for power estimation at early design stages, etc. On the HLS front, techniques that insert the power saving features during the synthesis process using exploration of granularity and scope of clock-gating, sequential clock-gating are proposed. Finally, this work shows how to marry two domains, that is estimation and reduction. In this regard, a power model is proposed, which helps in predicting power savings obtained using clock-gating and further guiding HLS to selectively insert clock-gating.",
+  "description_provenance": [
+    "Author Email: sahuja@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: akumar@vbi.vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:18Z (GMT). No. of bitstreams: 1 ahuja_sumit_d_2010.pdf: 1130975 bytes, checksum: 2f103f3cd8dd56389bc54d0189f0f184 (MD5)   Previous issue date: 2010-05-12"
+  ],
+  "handle": "27802",
+  "identifier_other": "etd-05192010-020151",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05192010-020151/",
+  "identifier_uri": "http://hdl.handle.net/10919/27802",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ahuja_sumit_d_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High Level Synthesis",
+    "Model Checking",
+    "Power Estimation",
+    "Clock-gating",
+    "Power Reduction",
+    "Coprocessors.",
+    "Hardware Software Co-design",
+    "Electronic System Level"
+  ],
+  "title": "High Level Power Estimation and Reduction Techniques for Power Aware Hardware Design",
+  "type": "Dissertation"
+}

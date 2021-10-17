@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Ryan, Anne Garrett",
+  "contributor_committeechair": "Woodall, William H.",
+  "contributor_committeemember": [
+    "Birch, Jeffrey B.",
+    "Kim, Dong-Yun",
+    "Reynolds, Marion R. Jr."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:08:37Z",
+  "date_adate": "2011-04-18",
+  "date_available": "2014-03-14T20:08:37Z",
+  "date_issued": "2011-03-18",
+  "date_rdate": "2011-04-18",
+  "date_sdate": "2011-03-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As time passes, change occurs. With this change comes the need for surveillance. One may be a technician on an assembly line and in need of a surveillance technique to monitor the number of defective components produced. On the other hand, one may be an administrator of a hospital in need of surveillance measures to monitor the number of patient falls in the hospital or to monitor surgical outcomes to detect changes in surgical failure rates. A natural choice for on-going surveillance is the control chart; however, the chart must be constructed in a way that accommodates the situation at hand. Two scenarios involving attribute control charting are investigated here. The first scenario involves Poisson count data where the area of opportunity changes. A modified exponentially weighted moving average (EWMA) chart is proposed to accommodate the varying sample sizes. The performance of this method is compared with the performance for several competing control chart techniques and recommendations are made regarding the best preforming control chart method. This research is a result of joint work with Dr. William H. Woodall (Department of Statistics, Virginia Tech). The second scenario involves monitoring a process where items are classified into more than two categories and the results for these classifications are readily available. A multinomial cumulative sum (CUSUM) chart is proposed to monitor these types of situations. The multinomial CUSUM chart is evaluated through comparisons of performance with competing control chart methods. This research is a result of joint work with Mr. Lee J. Wells (Grado Department of Industrial and Systems Engineering, Virginia Tech) and Dr. William H. Woodall (Department of Statistics, Virginia Tech).",
+  "description_provenance": [
+    "Author Email: agryan@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: dongyunkim@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:37Z (GMT). No. of bitstreams: 1 Ryan_AG_D_2011.pdf: 620043 bytes, checksum: bed843069ef195cb06356cbd62d517fe (MD5)   Previous issue date: 2011-03-18"
+  ],
+  "handle": "26549",
+  "identifier_other": "etd-03292011-155916",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03292011-155916/",
+  "identifier_uri": "http://hdl.handle.net/10919/26549",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ryan_AG_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Average Run Length",
+    "Cumulative Sum Chart",
+    "Exponentially Weighted Moving Average Chart",
+    "Statistical Process Control"
+  ],
+  "title": "Surveillance of Poisson and Multinomial Processes",
+  "type": "Dissertation"
+}

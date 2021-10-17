@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Zhang, Di",
+  "contributor_committeecochair": [
+    "Boroyevich, Dushan",
+    "Wang, Fei Fred"
+  ],
+  "contributor_committeemember": [
+    "Centeno, Virgilio A.",
+    "Leech, Irene E.",
+    "De La Ree Lopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:40Z",
+  "date_adate": "2010-05-21",
+  "date_available": "2014-03-14T20:11:40Z",
+  "date_issued": "2010-04-26",
+  "date_rdate": "2011-11-19",
+  "date_sdate": "2010-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Three-phase voltage source converters(VSCs) have become the converter of choice in many ac medium and high power applications due to their many advantages, including low harmonics, high power factor, and high efficiency. Modular VSCs have also been a popular choice as building blocks to achieve even higher power, primarily through converter paralleling.   In addition to high power ratings, paralleling converters can also provide system redundancy through the so-called (N+1) configuration for improved availability, as well as allow easy implementation of converter power management. Interleaving can further improve the benefit of paralleling VSCs by reducing system harmonic currents, which potentially can increase system power density. There are many challenges to implement interleaving in paralleled VSCs system due to the complicated relationships in a three-phase power converter system. In addition, to maximize the benefit of interleaving, current knowledge of symmetric interleaving is not enough. More insightful understanding of this PWM technology is necessary before implement interleaving in a real paralleled VSCs system.  <p> In this dissertation, a systematic methodology to analyze and design a paralleled three-phase voltage source converters with interleaving is developed. All the analysis and proposed control methods are investigated with the goal of maximizing the benefit of interleaving based on system requirement. <p> The dissertation is divided into five sections. Firstly, a complete analysis studying the impact of interleaving on harmonic currents in ac and dc side passive components for paralleled VSCs is presented. The analysis performed considers the effects of modulation index, pulse-width-modulation (PWM) schemes, interleaving angle and displacement angle. Based on the analysis the method to optimize interleaving angle is proposed. Secondly, the control methods for the common mode (CM) circulating current of paralleled three-phase VSCs with discontinuous space-vector modulation (DPWM) and interleaving are proposed. With the control methods, DPWM and interleaving, which is a desirable combination, but not considered possible, can be implemented together. In addition, the total flux of integrated inter-phase inductor to limit circulating current can be minimized. Thirdly, a 15 kW three phase ac-dc rectifier is built with SiC devices. With the technologies presented in this dissertation, the specific power density can be pushed more than 2kW/lb. Fourthly, the converter system with low switching frequency is studied. Special issues such as beat phenomenon and system unbalance due to non-triplen carrier ratio is explained and solved by control methods. Other than that, an improved asymmetric space vector modulation is proposed, which can significantly reduce output current total harmonic distortion (THD) for single and interleaved VSCs system. Finally, the method to protect a system with paralleled VSCs under the occurrence of internal faults is studied.  After the internal fault is detected and isolated, the paralleled VSCs system can continue work. So system reliability can be increased.",
+  "description_provenance": [
+    "Author Email: zd06@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: ileech@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: fred.wang@utk.edu",
+    "Made available in DSpace on 2014-03-14T20:11:40Z (GMT). No. of bitstreams: 1 Zhang_Di_D_2010(Updated).pdf: 5979738 bytes, checksum: fb67dadaae2cf285cbf293a081b72de0 (MD5)   Previous issue date: 2010-04-26"
+  ],
+  "handle": "27579",
+  "identifier_other": "etd-05072010-115156",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072010-115156/",
+  "identifier_uri": "http://hdl.handle.net/10919/27579",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Zhang_Di_D_2010(Updated).pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "passive component minimization",
+    "high power density",
+    "Asymmetric interleaving angle",
+    "harmonic current reduction",
+    "Asymmetric SVM",
+    "Interleaving",
+    "THD reduction",
+    "failure mode analysis"
+  ],
+  "title": "Analysis and Design of Paralleled Three-Phase Voltage Source Converters with Interleaving",
+  "type": "Dissertation"
+}

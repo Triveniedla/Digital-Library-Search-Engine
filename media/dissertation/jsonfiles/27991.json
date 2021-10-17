@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Law, Deify",
+  "contributor_committeechair": "Battaglia, Francine",
+  "contributor_committeemember": [
+    "Vlachos, Pavlos P.",
+    "Stremler, Mark A.",
+    "Heindel, Theodore J.",
+    "Brown, Eugene F."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:52Z",
+  "date_adate": "2010-06-25",
+  "date_available": "2014-03-14T20:12:52Z",
+  "date_issued": "2010-05-27",
+  "date_rdate": "2010-06-25",
+  "date_sdate": "2010-06-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "External loop airlift reactors are widely used for biochemical applications such as syngas fermentation and wastewater treatment. To further understand the inherent gas-liquid flow physics within the reactors, computational modeling and simulations of hydrodynamics for air-water external loop airlift reactors were investigated. The gas-liquid flow dynamics in a bubble column were simulated using a FORTRAN code developed by Los Alamos National Laboratory, CFDLib, which employs an Eulerian-Eulerian ensemble averaged method.  A two-dimensional Cartesian coordinate system was used to conduct an extensive grid resolution study; it was found that grid cells smaller than the bubble diameter produced unstable solutions. Next, closure models for drag force and turbulent viscosity were investigated for a simple bubble column geometry.  The effects of using a bubble pressure model and two drag coefficient models, the White model and the Schiller-Naumann model, were investigated.  The bubble pressure model performed best for homogeneous (low velocity) flows and the Schiller-Naumann model was best for all flow regimes.  Based on the studies for bubble column flows, an external loop airlift reactor was simulated using both two- and three-dimensional coordinates and results for gas holdup and riser velocity agreed better with experimental data for the 3D simulations.  It was concluded that when performing 2D and 3D simulations, care must be taken when specifying the effective bubble diameter size, especially at high flow rates.         Population balance models (PBM) for bubble break-up and coalescence were implemented into CFDLib, validated with experiments, and simulated for the external loop airlift reactor at high inlet superficial gas velocities.  The PBM predictions for multiple bubble sizes were comparable with the single bubble size simulations; however, the PBM simulations better predicted the formation of the gas bubble in the downcomer.  The 3D PBM simulations also gave better predictions for the average bubble diameter size in the riser.  It was concluded that a two-dimensional domain is adequate for gas-liquid flow simulations of a simple bubble column geometry, whereas three-dimensional simulations are required for the complex airlift reactor geometry.  To conclude, a two-fluid Eulerian-Eulerian model coupled with a PBM is needed for quantitative as well as physical predictions of gas-liquid external loop airlift reactor flows at high inlet superficial gas velocities.",
+  "description_provenance": [
+    "Author Email: dlawd@vt.edu",
+    "Advisor Email: fbattaglia@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: mark.stremler@vt.edu",
+    "Advisor Email: theindel@iastate.edu",
+    "Advisor Email: efbrown@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:52Z (GMT). No. of bitstreams: 1 Law_Deify_D_2010.pdf: 5365395 bytes, checksum: 1b7c2b40ba1dfc94f4dd50f486958a07 (MD5)   Previous issue date: 2010-05-27"
+  ],
+  "handle": "27991",
+  "identifier_other": "etd-06072010-222745",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06072010-222745/",
+  "identifier_uri": "http://hdl.handle.net/10919/27991",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Law_Deify_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Numerical Simulations",
+    "Computational Fluid Dynamics",
+    "Hydrodynamics",
+    "Two-Phase Flow",
+    "Airlift Reactor"
+  ],
+  "title": "Computational Modeling and Simulations of Hydrodynamics for Air-Water External Loop Airlift Reactors",
+  "type": "Dissertation"
+}

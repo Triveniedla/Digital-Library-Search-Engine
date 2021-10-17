@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Baidas, Mohammed Wael",
+  "contributor_committeechair": "MacKenzie, Allen B.",
+  "contributor_committeemember": [
+    "Buehrer, Richard Michael",
+    "da Silva, Claudio R. C. M.",
+    "Taaffe, Michael R.",
+    "Riad, Sedki Mohamed"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:34Z",
+  "date_adate": "2012-04-23",
+  "date_available": "2014-03-14T20:08:34Z",
+  "date_issued": "2012-03-21",
+  "date_rdate": "2012-04-23",
+  "date_sdate": "2012-03-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recently, there has been an increasing demand for reliable, robust and high data rate communication systems that can counteract the limitations imposed by the scarcity of two fundamental resources for communications: bandwidth and power. In turn, cooperative communications has emerged as a new communication paradigm in which network nodes share their antennas and transmission resources for distributed data exchange and processing. Recent studies have shown that cooperative communications can achieve significant performance gains in terms of signal reliability, coverage area, and power savings when compared with conventional communication schemes. However, the merits of cooperative communications can only be exploited with efficient resource allocation in terms of bandwidth utilization and power control. <p> Additionally, the limited network resources in wireless environments can lead rational network nodes to be selfish and aim at maximizing their own benefits. Therefore, assuming fully cooperative behaviors such as unconditionally sharing of one's resources to relay for other nodes is unjustified. On the other hand, a particular network node may try to utilize resources from other nodes and also share its own resources so as to improve its own performance, which in turn may prompt other nodes to behave similarly and thus promote cooperation.  <p> This dissertation aims to answer the following three questions: ``How can bandwidth-efficient multinode cooperative communications be  achieved?'', ``How can optimal power allocation be achieved in a distributed fashion?'', and finally, ``How can network nodes dynamically interact with each other so as to promote cooperation?''. In turn, this dissertation focuses on three main problems of cooperation in ad-hoc wireless networks: (i) optimal node selection in network-coded cooperative communications, (ii) auction-based distributed power allocation in single- and multi-relay cooperative networks, and finally (iii) coalitional game-theoretic analysis and modeling of the dynamic interactions among the network nodes and their coalition formations. <p> Bi-directional relay networks are first studied in a scenario where two source nodes are communicating with each other via a set of intermediate relay nodes. The symbol error rate performance and achievable cooperative diversity orders are studied. Additionally, the effect of timing synchronization errors on the symbol error rate performance is investigated. Moreover, a sum-of-rates maximizing optimal power allocation is proposed. Relay selection is also proposed to improve the total achievable rate and mitigate the effect of timing synchronization errors. <p> Multinode cooperative communications are then studied through the novel concept of many-to-many space-time network coding. The symbol error rate performance under perfect and imperfect timing synchronization and channel state information is theoretically analyzed and the optimal power allocation that maximizes the total network rate is derived. Optimal node selection is also proposed to fully exploit cooperative diversity and mitigate timing offsets and channel estimation errors.<p>  Further, this dissertation investigates  distributed power allocation for single-relay cooperative networks. The distributed power allocation algorithm is conceived as an ascending-clock auction where multiple source nodes submit their power demands based on an announced relay price and are efficiently allocated cooperative transmit power. It is analytically and numerically shown that the proposed ascending-clock auction-based distributed algorithm leads to efficient power allocation, enforces truth-telling, and maximizes the social welfare.<p>  A distributed ascending-clock auction-based power allocation algorithm is also proposed for multi-relay cooperative networks. The proposed algorithm is shown to converge to the unique Walrasian Equilibrium allocation which maximizes the social welfare when source nodes truthfully report their cooperative power demands. The proposed algorithm achieves the same performance as could be achieved by centralized control while eliminating the need for complete channel state information and signaling overheads.<p>  Finally, the last part of the dissertation studies altruistic coalition formation and stability in cooperative wireless networks. Specifically, the aim is to study the interaction between network nodes and design a distributed coalition formation algorithm so as to promote cooperation while accounting for cooperation costs. This involves an analysis of coalitions' merge-and-split processes as well as the impact of different cooperative power allocation criteria and mobility on coalition formation and stability. A comparison with centralized power allocation and coalition formation is also considered, where the proposed distributed algorithm is shown to provide reasonable tradeoff between network sum-rate and computational complexity.",
+  "description_provenance": [
+    "Author Email: baidas@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: Buehrer@vt.edu",
+    "Advisor Email: cdasilva@vt.edu",
+    "Advisor Email: Taaffe@vt.edu",
+    "Advisor Email: sedki@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:34Z (GMT). No. of bitstreams: 1 Baidas_MW_D_2012.pdf: 2283755 bytes, checksum: 3577615f9193ad4111dab9e43efab0e2 (MD5)   Previous issue date: 2012-03-21"
+  ],
+  "handle": "26527",
+  "identifier_other": "etd-03272012-214407",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03272012-214407/",
+  "identifier_uri": "http://hdl.handle.net/10919/26527",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Baidas_MW_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Synchronization",
+    "Power Allocation",
+    "Optimization",
+    "Node Selection",
+    "Network Coding",
+    "Game Theory",
+    "Cooperation"
+  ],
+  "title": "Node Selection, Synchronization and Power Allocation in Cooperative Wireless Networks",
+  "type": "Dissertation"
+}

@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Wang, Zhicun",
+  "contributor_committeechair": "Mook, Dean T.",
+  "contributor_committeemember": [
+    "Preidikman, Sergio",
+    "Librescu, Liviu",
+    "Hendricks, Scott L.",
+    "Hajj, Muhammad R.",
+    "Gao, David Y."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T19:01:59Z",
+  "date_adate": "2004-05-25",
+  "date_available": "2011-08-22T19:01:59Z",
+  "date_issued": "2004-05-06",
+  "date_rdate": "2004-05-25",
+  "date_sdate": "2004-05-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The nonlinear interactions between aerodynamic forces and wing structures are numerically investigated as integrated dynamic systems, including structural models, aerodynamics, and control systems, in the time domain. An elastic beam model coupled with rigid-body rotation is developed for the wing structure, and the natural frequencies and mode shapes are found by the finite-element method. A general unsteady vortex-lattice method is used to provide aerodynamic forces. This method is verified by comparing the numerical solutions with the experimental results for several cases; and thereafter applied to several applications such as the inboard-wing/twin-fuselage configuration, and formation flights. The original thought that the twin fuselage could achieve two-dimensional flow on the wing by eliminating free wing tips appears to be incorrect. The numerical results show that there can be a lift increase when two or more wings fly together, compared to when they fly alone. Flutter analysis is carried out for a High-Altitude-Long-Endurance aircraft wing cantilevered from the wall of the wind tunnel, a full-span wing mounted on a free-to-roll sting at its mid-span without and with a center mass (fuselage). Numerical solutions show that the rigidity added by the wall results in a higher flutter speed for the wall-mounted semi-model than that for the full-span model. In addition, a predictive control technique based on neural networks is investigated to suppress flutter oscillations. The controller uses a neural network model to predict future plant responses to potential control signals. A search algorithm is used to select the best control input that optimizes future plant performance. The control force is assumed to be given by an actuator that can apply a distributed torque along the spanwise direction of the wing. The solutions with the wing-tip twist or the wing-tip deflection as the plant output show that the flutter oscillations are successfully suppressed with the neural network predictive control scheme.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:01:59Z (GMT). No. of bitstreams: 1 ZW_dissertation.pdf: 5110046 bytes, checksum: 0dcd75458eeaf18348aa317460726714 (MD5)   Previous issue date: 2004-05-06",
+    "Author Email: zwang@vt.edu",
+    "Advisor Email: spreidik@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Advisor Email: dtmook@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11181",
+  "identifier_other": "etd-05152004-145940",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05152004-145940",
+  "identifier_uri": "http://hdl.handle.net/10919/11181",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ZW_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Neural Network Control",
+    "Aeroelasticity",
+    "Rigid-Body Motion",
+    "Flutter",
+    "Vortex-lattice Method",
+    "Aerodynamics"
+  ],
+  "title": "Time-Domain Simulations of Aerodynamic Forces on Three-Dimensional Configurations, Unstable Aeroelastic Responses, and Control by Neural Network Systems",
+  "type": "Dissertation"
+}

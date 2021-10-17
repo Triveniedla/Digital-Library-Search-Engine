@@ -1,0 +1,32 @@
+{
+  "contributor_author": "Lewis, Stephanie Nicole",
+  "contributor_committeechair": "Bevan, David R",
+  "contributor_committeemember": [
+    "Zhang, Liqing",
+    "Bassaganya-Riera, Josep",
+    "Sible, Jill C"
+  ],
+  "contributor_department": "Animal and Poultry Sciences",
+  "date_accessioned": "2013-08-01T08:00:16Z",
+  "date_available": "2013-08-01T08:00:16Z",
+  "date_issued": "2013-07-31",
+  "degree_discipline": "Genetics, Bioinformatics, and Computational Biology",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Exploration of peroxisome proliferator-activated receptor-gamma (PPAR\") as a drug target holds applications for treating a wide variety of chronic inflammation-related diseases. Type 2 diabetes (T2D), which is a metabolic disease influenced by chronic inflammation, is quickly reaching epidemic proportions. Although some treatments are available to control T2D, more efficacious compounds with fewer side effects are in great demand. Drugs targeting PPAR\" typically are compounds that function as agonists toward this receptor, which means they bind to and activate the protein. Identifying compounds that bind to PPAR\" (i.e. binders) using computational docking methods has proven difficult given the large binding cavity of the protein, which yields a large target area and variations in ligand positions within the binding site. We applied a combined computational and experimental concept for characterizing PPAR\" and identifying binders. The goal was to establish a time- and cost-effective way to screen a large, diverse compound database potentially containing natural and synthetic compounds for PPAR\" agonists that are more efficacious and safer than currently available T2D treatments. The computational molecular modeling methods used include molecular docking, molecular dynamics, steered molecular dynamics, and structure- and ligand-based pharmacophore modeling. Potential binders identified in the computational component funnel into wet-lab experiments to confirm binding, assess activation, and test preclinical efficacy in a mouse model for T2D and other chronic inflammation diseases. The initial process used provided \"-eleostearic acid as a compound that ameliorates inflammatory bowel disease in a pre-clinical trial. Incorporating pharmacophore analyses and binding interaction information improved the method for use with a diverse ligand database of thousands of compounds. The adjusted methods showed enrichment for full agonist binder identification. Identifying lead compounds using our method would be an efficient means of addressing the need for alternative T2D treatments.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-01T08:00:16Z (GMT). No. of bitstreams: 2  Lewis_SN_D_2013.pdf: 7318835 bytes, checksum: 33d15e241ede17da561ccfdd54f65307 (MD5)  Lewis_SN_D_2013_support_1.pdf: 68935 bytes, checksum: d3e5560f965b99fda1b59b6d5352a5c0 (MD5)    Previous issue date: 2013-07-31",
+  "format_medium": "ETD",
+  "handle": "23675",
+  "identifier_other": "vt_gsexam:1347",
+  "identifier_uri": "http://hdl.handle.net/10919/23675",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Virtual screening",
+    "PPAR"
+  ],
+  "title": "Refinement of the Docking Component of Virtual Screening for PPAR",
+  "type": "Dissertation"
+}

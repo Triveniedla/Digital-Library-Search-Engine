@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Becerra-Cordoba, Nancy",
+  "contributor_committeechair": "Browder, John O.",
+  "contributor_committeemember": [
+    "Wynne, Randolph H.",
+    "Bosch, Darrell J.",
+    "Nachlas, Joel A.",
+    "Dawkins, Casey J."
+  ],
+  "contributor_department": "Environmental Design and Planning",
+  "date_accessioned": "2014-03-14T20:14:06Z",
+  "date_adate": "2008-08-15",
+  "date_available": "2014-03-14T20:14:06Z",
+  "date_issued": "2007-05-09",
+  "date_rdate": "2008-08-15",
+  "date_sdate": "2008-07-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The present dissertation research has three purposes: the first one is to predict anthropogenic deforestation caused by small farmers firstly using only pathways of past land cover change and secondly using demographic, socioeconomic and land cover data at the farm level. The second purpose is to compare the explanatory and predictive capacity of both approaches at identifying areas at high risk of deforestation among small farms in RondÃµnia, Brazil. The third purpose is to test the assumptions of stationary probabilities and homogeneous subjects, both commonly used assumptions in predictive stochastic models applied to small farmersâ   deforestation decisions. This study uses the following data: household surveys, maps, satellite images and their land cover classification at the pixel level, and pathways of past land cover change for each farm. These data are available for a panel sample of farms in three municipios in RondÃµnia, Brazil (Alto Paraiso, Nova UniÃ£o, and Rolim de Moura) and cover a ten-year period of study (1992-2002). Pathways of past land cover change are graphic representations in the form of flow charts that depict Land Cover Change (LCC) in each farm during the ten-year period of study. Pathways were constructed using satellite images, survey data and maps, and a set of interviews performed on a sub-sample of 70 farms. A panel data analysis of the estimated empirical probabilities was conducted to test for subject and time effects using a Fixed Group Effects Model (FGEM), specifically the Least Square Dummy Variable (LSDV1) fixed effects technique. <p>Finally, the two predictive modeling approaches are compared. The first modeling approach predicts future LCC using only past land cover change data in the form of empirical transitional probabilities of LCC obtained from pathways of past LCC. These empirical probabilities are used in a LSDV1 for fixed â  group effects, a LSDV1 for fixed-time effects, and an Ordinary Least Square model (OLS) for the pooled sample. Results from these models are entered in a modified Markov chain modelâ  s matrix multiplication. The second modeling approach predicts future LCC using socio-demographic and economic survey variables at the household level. The survey data is used to perform a multinomial logit regression model to predict the LC class of each pixel. In order to compare the explanatory and predictive capacity of both modeling approaches, LCC predictions at the pixel level are summarized in terms of percentage of cells in which future LC was predicted correctly. Percentage of correct predicted land cover class is compared against actual pixel classification from satellite images. The presence of differences among farmers in the LSDV1-fixed group effect by farmer suggests that small farmers are not a homogeneous group in term of their probabilities of LCC and that further classification of farmers into homogeneous subgroups will depict better their LCC decisions. Changes in the total area of landholdings proved a stronger influence in farmerâ  s LCC decisions in their main property (primary lot) when compared to changes in the area of the primary lot. Panel data analysis of the LCC empirical transition probabilities (LSDV1 fixed time effects model) does not find enough evidence to prefer the fixed time effects model when compared to a Ordinary Least Square (OLS) pooled version of the probabilities. When applying the results of the panel data analysis to a modified markov chain model the LSDV1-farmer model provided a slightly better accuracy (59.25% accuracy) than the LSDV1-time and the OLS-pooled models (57.54% and 57.18%, respectively). The main finding for policy and planning purposes is that owners type 1 â  with stable total landholdings over time-- tend to preserve forest with a much higher probability (0.9033) than owner with subdividing or expanding properties (probs. of 0.0013 and 0.0030). The main implication for policy making and planning is to encourage primary forest preservation, given that the Markov chain analysis shows that primary forest changes into another land cover, it will never go back to this original land cover class. Policy and planning recommendations are provided to encourage owner type 1 to continue their pattern of high forest conservation rates. Some recommendations include: securing land titling, providing health care and alternative sources of income for the OT1â  s family members and elderly owners to remain in the lot. Future research is encouraged to explore spatial autocorrelation in the pixelâ  s probabilities of land cover change, effects of local policies and macro-economic variables in the farmerâ  s LCC decisions.",
+  "description_provenance": [
+    "Author Email: nancyb@vt.edu",
+    "Advisor Email: wynne@vt.edu",
+    "Advisor Email: bosch@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Advisor Email: browder@vt.edu",
+    "Advisor Email: dawkins@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:06Z (GMT). No. of bitstreams: 4 CoverPageNancyBC.pdf: 11820 bytes, checksum: 9abd344857673332de079645e7c2c0ea (MD5) ABSTRACTiiNancyBC.pdf: 12272 bytes, checksum: e87a5e323bdc76b6cf6446c4d4d6c35c (MD5) ABSTRACTiiiNancyBC.pdf: 38716 bytes, checksum: 26ad073a0db9fce3503c8d3d3fffef65 (MD5) DISSERTATIONNancyBC.pdf: 873102 bytes, checksum: af2716007743f70095a8e600fadb8530 (MD5)   Previous issue date: 2007-05-09"
+  ],
+  "handle": "28322",
+  "identifier_other": "etd-07172008-141305",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07172008-141305/",
+  "identifier_uri": "http://hdl.handle.net/10919/28322",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "CoverPageNancyBC.pdf",
+    "ABSTRACTiiNancyBC.pdf",
+    "ABSTRACTiiiNancyBC.pdf",
+    "DISSERTATIONNancyBC.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "panel data analysis",
+    "Amazon",
+    "Markov chains",
+    "land-cover change",
+    "deforestation",
+    "fixed-time effects",
+    "pathways",
+    "fixed-group effects",
+    "multinomial logit regression"
+  ],
+  "title": "Modeling land-cover change in the Amazon using historical pathways of land cover change and Markov chains. A case study of RondÃµnia, Brazil.",
+  "type": "Dissertation"
+}

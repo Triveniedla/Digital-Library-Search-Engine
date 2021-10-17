@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Ribeiro, Alvaro John",
+  "contributor_committeechair": [
+    "Baker, Joseph Benjamin",
+    "Ruohoniemi, John Michael"
+  ],
+  "contributor_committeemember": [
+    "Earle, Gregory D.",
+    "McGwier, Robert W.",
+    "Bailey, Scott M.",
+    "Shinpaugh, Kevin A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-12-10T09:00:08Z",
+  "date_available": "2013-12-10T09:00:08Z",
+  "date_issued": "2013-12-09",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Super Dual Auroral Radar Network (SuperDARN) data is a powerful tool for space science research.  Traditionally this data has been processed using a routine with known limitations.  A large issue preventing the development and implementation of new processing algorithms was the lack of a realistic test dataset.  We have implemented a robust data simulator based on physical principles which is presented in Chapter 2.  The simulator is able to generate SuperDARN data with realistic statistical fluctuations and known input Doppler velocity and spectral width.  Using the simulator to generate a test data set, we was able to test new algorithms for processing SuperDARN data.  The algorithms which were tested included the traditional method (FITACF), a new approach using the bisection method (FITEX2), and the Levenberg-Marquardt algorithm for nonlinear curve fitting (LMFIT).  FITACF is found to have problems when processing data with high (> 1~km/s) Doppler velocity, and is outperformed by both FITEX2 and LMFIT.  LMFIT is found to produce slightly better fitting results than FITEX2, and is thus my recommendation to be the standard SuperDARN data fitting algorithm.      The construction of the new midlatitude SuperDARN chain has revealed that nighttime, quiet-time plasma irregularities with low Doppler velocity and spectral width are a very common (> 50% of nights) occurrence.  Following on previous work, we have conducted a study of nighttime midlatitude convection using SuperDARN data.  First, the data are processed into convection patterns, and the results are presented.  The drifts are mainly zonal and westward throughout the night.  The plasma drifts also display significant seasonal variability.  Additionally, a large latitudinal gradient is observed in the zonal velocity during the winter months.  This is attributed to processes in the conjugate hemisphere, and possible causes are discussed.      During my graduate studies, we have been part of the development of a software package for enabling and accelerating space science research known as DaViTpy.  This software package is completely free and open source.  It allows access to several different space science datasets through a single simple interface, without having to write any code for reading data files.  It also incorporates several space science models in a single install.  The software package represents a paradigm shift in the space science community, and is presented in Appendix A.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-10T09:00:08Z (GMT). No. of bitstreams: 1  Ribeiro_AJ_D_2013.pdf: 6573001 bytes, checksum: 07a619f9dc9766ee182c8acaf49fc618 (MD5)    Previous issue date: 2013-12-09",
+  "format_medium": "ETD",
+  "handle": "24469",
+  "identifier_other": "vt_gsexam:1798",
+  "identifier_uri": "http://hdl.handle.net/10919/24469",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "SuperDARN",
+    "Ionosphere",
+    "Radar"
+  ],
+  "title": "SuperDARN Data Simulation, Processing, Access, and Use in Analysis of Mid-latitude Convection",
+  "type": "Dissertation"
+}

@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Pyla, Hari Krishna",
+  "contributor_committeechair": [
+    "Varadarajan, Srinidhi",
+    "Ribbens, Calvin J"
+  ],
+  "contributor_committeemember": [
+    "Adve, Vikram",
+    "Ramakrishnan, Narendran",
+    "Tilevich, Eli",
+    "Lea, Douglas"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-03-06T09:00:13Z",
+  "date_available": "2013-03-06T09:00:13Z",
+  "date_issued": "2013-03-05",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The increasing prevalence of multi and many core processors has brought the<br />issues of concurrency and parallelism to the forefront of everyday<br />computing. Even for applications amenable to traditional parallelization techniques,<br />the subtleties of concurrent programming are known to introduce concurrency<br />bugs. Due to the potential of concurrency bugs, programmers find it hard to write<br />correct concurrent code. To take full advantage of parallel shared memory<br />platforms, application programmers need safe and efficient mechanisms that<br />can support a wide range of parallel applications.<br /><br />In addition, a large body of applications are inherently<br />hard-to-parallelize; their data and control dependencies impose execution<br />order constraints that preclude the use of traditional parallelization<br />techniques. Sensitive to their input data, a substantial number of<br />applications fail to scale well, leaving cores idle. To improve the<br />performance of such applications, application programmers need effective<br />mechanisms that can fully leverage multi and many core architectures.<br /><br />These challenges stand in the way of realizing the true potential of<br />emerging many core platforms. The techniques described in this  dissertation<br />address these challenges. Specifically, this dissertation contributes<br />techniques to transparently detect and eliminate several concurrency bugs,<br />including deadlocks, asymmetric write-write data races, priority inversion,<br />live-locks, order violations, and bugs that stem from the presence of<br />asynchronous signaling and locks. A second major contribution of this dissertation<br />is a programming framework that exploits coarse-grain speculative<br />parallelism to improve the performance of otherwise hard-to-parallelize<br />applications.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-06T09:00:13Z (GMT). No. of bitstreams: 1 Pyla_HK_D_2013.pdf: 1908847 bytes, checksum: 97d7a7efa43130fc86aea615fb94114e (MD5)   Previous issue date: 2013-03-05",
+  "format_medium": "ETD",
+  "handle": "19276",
+  "identifier_other": "vt_gsexam:334",
+  "identifier_uri": "http://hdl.handle.net/10919/19276",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Concurrent Programming",
+    "Concurrency Bugs",
+    "Program Analysis",
+    "Runtime Systems",
+    "Deadlock Detection and Recovery",
+    "Speculative Parall"
+  ],
+  "title": "Safe Concurrent Programming and Execution",
+  "type": "Dissertation"
+}

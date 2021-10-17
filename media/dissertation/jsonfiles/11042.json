@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Lee, Dong-Ho",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Chen, Dan Y.",
+    "Borojevich, Dushan",
+    "Nelson, Douglas J.",
+    "Lai, Jason",
+    "Huang, Alex Q."
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2011-08-22T18:35:35Z",
+  "date_adate": "1999-07-15",
+  "date_available": "2011-08-22T18:35:35Z",
+  "date_issued": "1999-07-06",
+  "date_rdate": "2000-07-15",
+  "date_sdate": "1999-07-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new power conditioning system (PCS) for superconductive magnetic energy storage (SMES) is developed and its prototype test system is built and tested. The PCS uses IGBTs for high-speed PWM operation and has a multi-level chopper-VSC structure. The prototype test system has three-level that can handle up to 250-kVA with a 1800-V DC link, a 200-A maximum load current , and a switching frequency reaching 20-kHz with the help of zero-current-transition (ZCT) soft-switching. This PCS has a great number of advantages over conventional ones in terms of size, speed, and cost. Conventional PCSs use thyristors, due to the power capacity of the SMES system. The speed limit of the thyristor uses a six-pulse operation that generates a high harmonic. To reduce the harmonic, multiple PCSs are connected together with phase-matching transformers that need to be precise to be effective in reducing the harmonics. So, the system becomes large and expensive. In addition, the dynamic range of the PCSs are also limited by the six-pulse operation, because it limits the useful area of the PCS applications. By employing a high-speed PWM, the new PCS can reduce the harmonics without using the transformers reducing size and cost, and has wide dynamic range. However, the speed of a switching device is generally inversely proportional to its power handling capacity. Therefore, employing a multi-level structure is one method of extending the power-handling capability of the high-speed device. Switching loss is another factor that limits the speed of the switch, but it can be reduced by soft-switching techniques. The 20-kHz switching frequency can be obtained with the help of the ZCT soft-switching technique, which can reduce about 90% of switching losses from the IGBT during both turn-on and turn-off transients. There are two different topologies of the PCS; the current source converter (CSC) type and the chopper and voltage source converter (VSC) type. In terms of the SMES system efficiency, the chopper-VSC type shows a less volt-ampere requirement of the power device. Therefore, the new PCS system has a chopper-VSC structure. Since the chopper-VSC structure consists of multiple legs that can be modularized, a power electronics building block (PEBB) leg is a good choice; all of the system problems caused by the high frequency can be solved within the PEBB leg. The VSC is built with three of the PEBB legs. Three-phase AC is implemented with a three-level space vector modulation (SVM) that can reduce the number of switching and harmonic contents from the output current. A closed-loop control system is also implemented for the VSC, and shows 600-Hz control bandwidth. The multi-level structure used requires too many high-speed switches. However, not all of them are used at the same time during normal multi-level operation. A new multi-level topology is suggested that requires only two high-speed switches, regardless of the number of levels. Other switches can be replaced with slow-speed switches that can allow additional cost savings.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:35:35Z (GMT). No. of bitstreams: 5  ETDVita.PDF: 2215 bytes, checksum: c59b71ddedec2e1eeb340eca41654119 (MD5)  ETDAppendixC.pdf: 286547 bytes, checksum: 94d5cce8bf54bf8987c0648efca1f508 (MD5)  ETDAppendixB.pdf: 135642 bytes, checksum: ff57474725854a52daea5d6161e0b924 (MD5)  ETDAppendixA.pdf: 635735 bytes, checksum: a37e25d90c622a70931d2b76ec252b24 (MD5)  ETD.pdf: 4369696 bytes, checksum: 0bf76135a280ef07459810a4f5234335 (MD5)    Previous issue date: 1999-07-06",
+    "Author Email: dolee2@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: fclee@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11042",
+  "identifier_other": "etd-071399-122308",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-071399-122308",
+  "identifier_uri": "http://hdl.handle.net/10919/11042",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "ETDAppendixC.pdf",
+    "ETDAppendixB.pdf",
+    "ETDVita.PDF",
+    "ETDAppendixA.pdf",
+    "ETD.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "VSC",
+    "SMES",
+    "Multi-Level",
+    "PCS",
+    "Soft-Switcing"
+  ],
+  "title": "A Power Conditioning System for Superconductive Magnetic Energy Storage based on Multi-Level Voltage Source Converter",
+  "type": "Dissertation"
+}

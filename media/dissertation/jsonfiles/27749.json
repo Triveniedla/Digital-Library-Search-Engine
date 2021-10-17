@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Hofmann, Matthias Colin",
+  "contributor_committeechair": "Xu, Yong",
+  "contributor_committeemember": [
+    "Wang, Anbo",
+    "Baumann, William T.",
+    "Wang, Ge",
+    "Soker, Shay"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:08Z",
+  "date_adate": "2012-06-05",
+  "date_available": "2014-03-14T20:12:08Z",
+  "date_issued": "2012-05-04",
+  "date_rdate": "2012-06-05",
+  "date_sdate": "2012-05-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A major limitation in tissue engineering is the lack of nondestructive methods to assess the development of tissue scaffolds undergoing preconditioning in bioreactors. Due to significant optical scattering in most scaffolding materials, current microscope-based imaging methods cannot â  seeâ   through thick and optically opaque tissue constructs. To address this deficiency, we developed a scanning fiber imaging method capable of nondestructive imaging of fluorescently labeled cells through a thick and optically opaque vascular scaffold, contained in a bioreactor. This imaging modality is based on local excitation of fluorescent cells, acquisition of fluorescence through the scaffold, and fluorescence mapping based on the position of the excitation light. To evaluate the capability and accuracy of the imaging system, human endothelial cells, stably expressing green fluorescent protein (GFP), were imaged through a fibrous scaffold. Without sacrificing the scaffolds, we nondestructively visualized the distribution of GFP-labeled endothelial cells on the luminal surface through a ~500 Âµm thick tubular scaffold at cell-level resolutions and distinct localization. These results were similar to control images obtained using an optical microscope with direct line-of-sight access. Through a detailed quantitative analysis, we demonstrated that this method achieved a resolution of the order of 20-30 Âµm, with 10% or less deviation from standard optical microscopy. Furthermore, we demonstrated that the penetration depth of the imaging method exceeded that of confocal laser scanning microscopy by more than a factor of 2. Our imaging method also possesses a working distance (up to 8 cm) much longer than that of a standard confocal microscopy system, which can significantly facilitate bioreactor integration. This method will enable nondestructive monitoring of endothelial cells seeded on the lumen of a tissue-engineered vascular graft during preconditioning in vitro, as well as for other tissue-engineered constructs in the future.",
+  "description_provenance": [
+    "Author Email: hofmann@vt.edu",
+    "Advisor Email: yong@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: wangg@vt.edu",
+    "Advisor Email: ssoker@wakehealth.edu",
+    "Made available in DSpace on 2014-03-14T20:12:08Z (GMT). No. of bitstreams: 1 Hofmann_MC_D_2012.pdf: 15643181 bytes, checksum: d58125ee50814e9fccdc523951c193bf (MD5)   Previous issue date: 2012-05-04"
+  ],
+  "handle": "27749",
+  "identifier_other": "etd-05162012-235327",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05162012-235327/",
+  "identifier_uri": "http://hdl.handle.net/10919/27749",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hofmann_MC_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Deep Tissue Imaging",
+    "Blood Vessel",
+    "Fiber Optics"
+  ],
+  "title": "Localized Excitation Fluorescence Imaging (LEFI)",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Pathak, Rakesh",
+  "contributor_committeechair": "Charney, Finley A.",
+  "contributor_committeemember": [
+    "Easterling, William Samuel",
+    "Plaut, Raymond H.",
+    "Sotelino, Elisa D.",
+    "Hindman, Daniel P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:12:44Z",
+  "date_adate": "2008-07-11",
+  "date_available": "2014-03-14T20:12:44Z",
+  "date_issued": "2008-05-01",
+  "date_rdate": "2009-07-11",
+  "date_sdate": "2008-06-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents work targeted to study the effects of diaphragm flexibility on the seismic performance of light frame wood structures (LFWS). The finite element approach is considered for modeling LFWS as it is more detailed and provides a way to explicitly incorporate individual structural elements and corresponding material properties. It is also suitable for capturing the detailed response of LFWS components and the structure as a whole. The finite element modeling methodology developed herein is in general based on the work done by the other finite element researchers in this area. However, no submodeling or substructuring of subassemblages is performed and instead a detailed model considering almost every connection in the shear walls and diaphragms is developed. The studs, plates, sills, blockings and joists are modeled using linear isotropic three dimensional frame elements. A linear orthotropic shell element incorporating both membrane and plate behavior is used for the sheathings. The connections are modeled using oriented springs with modified Stewart hysteresis spring stiffnesses. The oriented spring pair has been found to give a more accurate representation of the sheathing to framing connections in shear walls and diaphragms when compared to non-oriented or single springs typically used by most researchers in the past. Fifty six finite element models of LFWS are created using the developed methodology and eighty eight nonlinear response history analyses are performed using the Imperial Valley and Northridge ground motions. These eighty eight analyses encompass the parametric study on the house models with varying aspect ratios, diaphragm flexibility and lateral force resisting system. Torsionally irregular house models showed the largest range of variation in peak base shear of individual shear walls, when corresponding flexible and rigid diaphragm models are compared. It is also found that presence of an interior shear wall helps in reducing peak base shears in the boundary walls of torsionally irregular models. The interior walls presence was also found to reduce the flexibility of diaphragm. A few analyses also showed that the nail connections are the major source of in-plane flexibility compared to sheathings within a diaphragm, irrespective of the aspect ratio of the diaphragm.  A major part of the dissertation focuses on the development of a new high performance nonlinear dynamic finite element analysis program which is also used to analyze all the LFWS finite element models presented in this study. The program is named WoodFrameSolver and is written on a mixed language platform Microsoft Visual Studio .NET using object-oriented C++, C and FORTRAN. This tool set is capable of performing basic structural analysis chores like static and dynamic analysis of 3D structures. It has a wide collection of linear, nonlinear and hysteretic elements commonly used in LFWS analysis. The advanced analysis features include static, nonlinear dynamic and incremental dynamic analysis. A unique aspect of the program lies in its capability of capturing elastic displacement participation (sensitivity) of spring, link, frame and solid elements in static analysis. The programâ  s performance and accuracy are similar to that of SAP 2000 which is chosen as a benchmark for validating the results. The use of fast and efficient serial and parallel solver libraries obtained from INTEL has reduced the solution time for repetitive dynamic analysis. The utilization of the standard C++ template library for iterations, storage and access has further optimized the analysis process, especially when problems with a large number of degrees of freedom are encountered.",
+  "description_provenance": [
+    "Author Email: rakesh.pathak@bentley.com",
+    "Advisor Email: fcharney@vt.edu",
+    "Advisor Email: seaster@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Advisor Email: sotelino@vt.edu",
+    "Advisor Email: dhindman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:44Z (GMT). No. of bitstreams: 1 Thesis.pdf: 6481878 bytes, checksum: 1f492b728121835f1834702a34628794 (MD5)   Previous issue date: 2008-05-01"
+  ],
+  "handle": "27947",
+  "identifier_other": "etd-06042008-212402",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06042008-212402/",
+  "identifier_uri": "http://hdl.handle.net/10919/27947",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Finite Element",
+    "Light Frame Wood Structure",
+    "Nonlinear Dynamic Analysis",
+    "Static",
+    "Object Oriented C++",
+    "Diaphragm Flexibility"
+  ],
+  "title": "The Effects of Diaphragm Flexibility on the Seismic Performance of Light Frame Wood Structures",
+  "type": "Dissertation"
+}

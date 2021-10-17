@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Babiceanu, Radu Florin",
+  "contributor_committeechair": "Chen, Fengshan Frank",
+  "contributor_committeemember": [
+    "Sturges, Robert H.",
+    "Huang, Philip Y.",
+    "Koelling, Charles Patrick",
+    "Sarin, Subhash C."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:14:07Z",
+  "date_adate": "2005-08-10",
+  "date_available": "2014-03-14T20:14:07Z",
+  "date_issued": "2005-07-12",
+  "date_rdate": "2005-08-10",
+  "date_sdate": "2005-07-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In real-word manufacturing environments, finding the right job sequences and their associated schedules when resource, precedence, and timing constraints are imposed is a difficult task. For most practical problems classical scheduling easily leads to an exponential growth in the number of possible schedules. Moreover, a decision time period of hours or even minutes is too long. Good solutions are often needed in real-time. The problem becomes even more complicated if changes, such as new orders or resource breakdowns, occur within the manufacturing system. One approach to overcome the challenges of solving classical scheduling problems is the use of distributed schemes such as agent or holonic-based control architectures.  This dissertation presents an innovative control architecture that uses the holonic concept, capable of delivering good solutions when applied in dynamic environments. The general holonic control framework presented in this research has specific characteristics not found in others reported so far. Using a modular approach it takes into account all the categories of hardware and software resources of a manufacturing system. Due to its modularity, the holonic control framework can be used for assigning and scheduling different task types, separately or simultaneously. Thus, it can be used not only for assigning and scheduling transport tasks, but also for finding feasible solutions to the job assignment and scheduling of processing tasks, or to better utilize the auxiliary equipment and devices in a manufacturing system.  In the holonic system, under real-time constraints, a feasible schedule for the material handling resources emerges from the combination of individual holon's schedules. Internal evaluation algorithms and coordination mechanisms between the entities in the architecture form the basis for the resultant schedules. The experimental results obtained show a percentage difference between the makespan values obtained using the holonic scheduling approach and the optimal values of under seven percent. Since current control systems in use in industry lack the ability to adapt to dynamic manufacturing environments, the holonic architecture designed and the tests performed in this research could be a part in the effort to build the foundations for the control systems of the next generation manufacturing systems.",
+  "description_provenance": [
+    "Author Email: rbabicea@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Advisor Email: phhuang@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:07Z (GMT). No. of bitstreams: 1 ETD.pdf: 2215667 bytes, checksum: 03143f515dbecea4c7e99d31b6e78074 (MD5)   Previous issue date: 2005-07-12"
+  ],
+  "handle": "28326",
+  "identifier_other": "etd-07182005-173421",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07182005-173421/",
+  "identifier_uri": "http://hdl.handle.net/10919/28326",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Holonic manufacturing systems",
+    "Material handling systems",
+    "Real-time scheduling"
+  ],
+  "title": "Holonic-based control system for automated material handling systems",
+  "type": "Dissertation"
+}

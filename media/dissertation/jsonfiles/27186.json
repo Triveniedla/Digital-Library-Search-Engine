@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Cao, Renfang",
+  "contributor_committeechair": "Leo, Donald J.",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Burdisso, Ricardo A.",
+    "Robertshaw, Harry H.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:10:35Z",
+  "date_adate": "2001-05-02",
+  "date_available": "2014-03-14T20:10:35Z",
+  "date_issued": "2001-04-17",
+  "date_rdate": "2002-05-02",
+  "date_sdate": "2001-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Methods for analyzing the structural-acoustic power efficiency of active structures are developed.  For this work we define the power efficiency as the ratio of the sound power radiated by a structure to the maximum possible radiated sound power.  An active structure is defined as one that has electromechanical actuators distributed over its surface for the purpose of structural-acoustic excitation.  The power efficiency of planar, baffled structures with arbitrary boundary conditions is examined using a combination of methods based on numerical integration, variational principles, and finite element analysis.   <p>  The fundamental result of this work is that computing the power efficiency of an active structure reduces to the solution of two eigenvalue problems.  The maximum possible sound power radiated by a planar, baffled structure is shown to be equivalent to the largest eigenvalue of the acoustic power transfer matrix.  The structural-acoustic power efficiency is the solution of a separate generalized eigenvalue problem whose parameters include the location of the electromechanical actuators and the type of electromechanical actuation.  The advantage of this metric over other measures of radiation efficiency is that 0 and 1 bound the structural-acoustic power efficiency.  Furthermore, solving for the power efficiency as a function of frequency yields a measure of the bandwidth of the structural-acoustic actuator.  <p>  Power efficiency is analyzed for point force actuation and distributed moment actuation.  Numerical simulations demonstrate that maximizing the power efficiency requires that the magnitude and phase of the structural modal velocity vector be matched to that of the eigenvector that corresponds to the maximum eigenvalue of the acoustic power transfer matrix.  Matching the modal velocity to the maximizing eigenvector produces a vibration shape that maximizes the sound power radiation of the structure.  Individual actuators are not able to achieve high efficiency over a broad frequency range for both types of electromechanical actuation.  Multiple-actuator arrays are able to achieve higher average efficiency at the expense of increased number of actuators.    <p>   An optimization problem is then posed to maximize the structural-acoustic power efficiency by varying the location and size of distributed moment actuators.  We demonstrate that an average efficiency on the order of 0.85 is possible over a large bandwidth through optimal placement and sizing of a set of four distributed moment actuators.  Experimental results on a baffled plate demonstrate that correct phasing of the actuators results in velocity distributions that correlate well with predicted results.      <p>",
+  "description_provenance": [
+    "Author Email: rcao@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:35Z (GMT). No. of bitstreams: 1 diss.pdf: 995692 bytes, checksum: 7582ca9430f92714e35e01bd46edf4e1 (MD5)   Previous issue date: 2001-04-17"
+  ],
+  "handle": "27186",
+  "identifier_other": "etd-04242001-102238",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242001-102238/",
+  "identifier_uri": "http://hdl.handle.net/10919/27186",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PZT",
+    "Power efficiency",
+    "active noise control",
+    "active structure"
+  ],
+  "title": "Power efficiency analysis for an Active structure",
+  "type": "Dissertation"
+}

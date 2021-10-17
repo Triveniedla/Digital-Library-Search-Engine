@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Chen, Jinsong",
+  "contributor_committeecochair": [
+    "Terrell, George R.",
+    "Kim, Inyoung"
+  ],
+  "contributor_committeemember": [
+    "House, Leanna L.",
+    "Smith, Eric P.",
+    "Birch, Jeffrey B.",
+    "Du, Pang"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:12:56Z",
+  "date_adate": "2010-07-01",
+  "date_available": "2014-03-14T20:12:56Z",
+  "date_issued": "2010-05-28",
+  "date_rdate": "2012-06-22",
+  "date_sdate": "2010-06-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The generalized linear model (GLM) is a popular model in many research areas. In the GLM, each outcome of the dependent variable is assumed to be generated from a particular distribution function in the exponential family. The mean of the distribution depends on the independent variables. The link function provides the relationship between the linear predictor and the mean of the distribution function. In this dissertation, two semiparametric extensions of the GLM will be developed. In the first part of this dissertation, we have proposed a new model, called a semiparametric generalized linear model with a log-concave random component (SGLM-L). In this model, the estimate of the distribution of the random component has a nonparametric form while the estimate of the systematic part has a parametric form. In the second part of this dissertation, we have proposed a model, called a generalized semiparametric single-index mixed model (GSSIMM). A nonparametric component with a single index is incorporated into the mean function in the generalized linear mixed model (GLMM) assuming that the random component is following a parametric distribution. <p> In the first part of this dissertation, since most of the literature on the GLM deals with the parametric random component, we relax the parametric distribution assumption for the random component of the GLM and impose a log-concave constraint on the distribution. An iterative numerical algorithm for computing the estimators in the SGLM-L is developed. We construct a log-likelihood ratio test for inference. In the second part of this dissertation, we use a single index model to generalize the GLMM to have a linear combination of covariates enter the model via a nonparametric mean function, because the linear model in the GLMM is not complex enough to capture the underlying relationship between the response and its associated covariates. The marginal likelihood is approximated using the Laplace method. A penalized quasi-likelihood approach is proposed to estimate the nonparametric function and parameters including single-index coeÂ±cients in the GSSIMM. We estimate variance components using marginal quasi-likelihood. Asymptotic properties of the estimators are developed using a similar idea by Yu (2008). A simulation example is carried out to compare the performance of the GSSIMM with that of the GLMM. We demonstrate the advantage of my approach using a study of the association between daily air pollutants and daily mortality adjusted for temperature and wind speed in various counties of North Carolina.",
+  "description_provenance": [
+    "Author Email: jchen04@vt.edu",
+    "Advisor Email: lhouse@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: inyoungk@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: pangdu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:56Z (GMT). No. of bitstreams: 1 Chen_Jinsong_D_2010.pdf: 1907388 bytes, checksum: 42af78c7f647bbad9e58ffbaf01da5b7 (MD5)   Previous issue date: 2010-05-28"
+  ],
+  "handle": "28012",
+  "identifier_other": "etd-06102010-133130",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06102010-133130/",
+  "identifier_uri": "http://hdl.handle.net/10919/28012",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Chen_Jinsong_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Penalized splines",
+    "Generalized linear mixed model",
+    "Generalized linear model",
+    "Single-Index Model"
+  ],
+  "title": "Semiparametric Methods for the Generalized Linear Model",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Na, Che  Woo",
+  "contributor_committeechair": "Yang, Yaling",
+  "contributor_committeemember": [
+    "Hou, Yiwei Thomas",
+    "Zhang, Liqing",
+    "Park, Jung-Min Jerry",
+    "Ha, Dong Sam"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:50Z",
+  "date_adate": "2011-09-22",
+  "date_available": "2014-03-14T20:15:50Z",
+  "date_issued": "2011-08-22",
+  "date_rdate": "2011-09-22",
+  "date_sdate": "2011-08-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recently there has been a growing interest in the use of Low Rate Wireless Personal Area Networks (LR-WPAN) [1] driven by the large number of emerging applications such as home automation, health-care monitoring and environmental surveillance. To fulfill the needs for these emerging applications, IEEE has created a new standard called IEEE 802.15.4 for LR-WPAN, which has been widely accepted as the de facto standard for wireless sensor networks. Unlike IEEE 802.11 [2], which was designed for Wireless Local Area Networks (WLAN), it focuses on short range wireless communications. The goal of the IEEE 802.15.4 LR-WPAN is to support low data rate connectivity among wireless sensors with low complexity, cost and power consumption [3]. It specifies two types of network topologies, which are the beacon-enabled start network and the nonbeacon-enabled peer-to-peer network. For the beacon-enabled network, it defines the Guaranteed Time Slot (GTS) to provide real-time guaranteed service for delay-sensitive applications. <p>     In the nonbeacon-enabled network the GTS is reserved time slots such that it is requested, allocated and scheduled to wireless sensors that need guaranteed service for delay-sensitive applications. Existing GTS scheduling algorithms include First-Come-First-Served (FCFS) [1], priority-based [4] and Earliest Deadline First (EDF) [5] methods. Such FCFS and priority-based scheduling methods have critical drawbacks in achieving real-time guarantees. Namely, they fail to satisfy the delay constraints of delay-sensitive transactions. Further, they lead to GTS scarcity and GTS underutilization. On the other hand, the EDF-based scheduling method provides delay guarantee while it does not support delay-sensitive applications where arrival of the first packet has a critical impact on the performance. To solve these problems, we design the optimal work-conserving GTS Allocation and Scheduling (GAS) algorithm that provides guarantee service for delay-sensitive applications in beacon-enabled networks. Not only does the GAS satisfy the delay constraints of transactions, but also it reduces GTS scarcity and GTS underutilization. Further, it supports delay-sensitive applications where arrival of the first packet has a critical impact on the performance. Through the extensive simulation results, we show that the proposed algorithm outperforms the existing scheduling methods. Our algorithm differs from the existing ones in that it is an on-line scheduling and allocation algorithm and allows transmissions of bursty and periodic transactions with delay constraints even when the network is overloaded. <p>     In the nonbeacon-enabled peer-to-peer network some operating scenarios for ratesensitive applications arise when one considers wireless video surveillance and target detection applications for wireless sensor networks. To support such rate-sensitive applications in wireless sensor networks, we present a Multirate-based Service Differentiation (MSD) operating in the nonbeacon-enabled peer-to-peer network. Unlike existing priority-based service differentiation models, the MSD defines the independent Virtual Medium Access Controls (VMACs), each of which consists of a transmission queue and the Adaptive Backoff Window Control (ABWC). Since the VMACs serve multiple rate-sensitive flows, it is possible that more than one data frame is collided with each other when their backoff times expire simultaneously. To solve such a virtual collision in the virtual collision domain, we design the Virtual Collision Avoidance Control (VCAC). The ABWC component adjusts the backoff window to reflect the local network state in the local collision domain. The VCAC component prevents virtual collisions and preempts packets with the minimal cost in the virtual collision domain. By analyzing these algorithms, we prove that the ABWC component enables the achieved data rate to converge to the rate requirement and the VCAC component produces a virtual-collision-free schedule to avoid degradation of the achieved data rate. Through the simulation, we validate our analysis and show the MSD outperforms existing algorithms.",
+  "description_provenance": [
+    "Author Email: cwrha@vt.edu",
+    "Advisor Email: hou@vt.edu",
+    "Advisor Email: lqzhang@cs.vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:50Z (GMT). No. of bitstreams: 1 Na_C_D_2011_1.pdf: 6819863 bytes, checksum: b354ccadb39a4997246330829ad7d498 (MD5)   Previous issue date: 2011-08-22"
+  ],
+  "handle": "28841",
+  "identifier_other": "etd-08312011-022356",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08312011-022356/",
+  "identifier_uri": "http://hdl.handle.net/10919/28841",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Na_C_D_2011_1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "delay guarantee",
+    "real-time scheduling",
+    "virtual collision",
+    "wireless sensor",
+    "Service Differentiation",
+    "GTS",
+    "Scheduling"
+  ],
+  "title": "Ieee 802.15.4 Wireless Sensor Networks: Gts Scheduling and Service Differentiation",
+  "type": "Dissertation"
+}

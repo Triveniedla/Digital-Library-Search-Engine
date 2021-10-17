@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Vugrin, Kay Ellen White",
+  "contributor_committeechair": "Borggaard, Jeffrey T.",
+  "contributor_committeemember": [
+    "Iliescu, Traian",
+    "Sun, Shu-Ming",
+    "Cliff, Eugene M.",
+    "Herdman, Terry L."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:29Z",
+  "date_adate": "2005-05-06",
+  "date_available": "2014-03-14T20:11:29Z",
+  "date_issued": "2005-04-04",
+  "date_rdate": "2005-05-06",
+  "date_sdate": "2005-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The calibration of model parameters is an important step in model development.  Commonly, system output is measured, and model parameters are iteratively varied until the model output is a good match to the measured system output.  Optimization algorithms are often used to identify the model parameter values.  The presence of noise is difficult to avoid when physical processes are used to calibrate models due to measurement error, model structure error, and errors arising from numerical techniques and approximate solutions.  Our study focuses on the effects of noise in parameter identification optimization problems.  We generate six test problems, including five perturbations of a smooth problem.  A previously studied groundwater parameter identification problem serves as our seventh test problem.  We test the Nelder-Mead Algorithm, a combination of the Nelder-Mead Algorithm and Simulated Annealing, and the Shuffled Complex Evolution Method on these test problems.  Comparison of optimization results for these problems reveals the effects of noise on optimization performance,  including an increase in fitness values and a decrease in the number of fit evaluations. We vary the values of the internal algorithmic parameters to determine the effects of different values and present numerical results that indicate that changing the values of the algorithmic parameters can cause profound differences in optimization results for all three algorithms. A variation of the generally accepted parameter values for the Nelder-Mead Algorithm is recommended, and we determine that the Nelder-Mead/Simulated Annealing Hybrid and Shuffled Complex Evolution Method are too problem dependent for general recommendations for parameter values. Finally, we prove new convergence results for the Nelder-Mead/Simulated Annealing Hybrid in both smooth and noisy cases.",
+  "description_provenance": [
+    "Author Email: kwvugri@sandia.gov",
+    "Advisor Email: iliescu@math.vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: herdman@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:29Z (GMT). No. of bitstreams: 1 vugrin_dissertation.pdf: 1012034 bytes, checksum: 29974844eb58ab7478f697dd7a837140 (MD5)   Previous issue date: 2005-04-04"
+  ],
+  "handle": "27515",
+  "identifier_other": "etd-05032005-133146",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032005-133146/",
+  "identifier_uri": "http://hdl.handle.net/10919/27515",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "vugrin_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Shuffled Complex Evolution Method",
+    "Nelder-Mead Algorithm",
+    "Inverse Problem"
+  ],
+  "title": "On the Effects of Noise on Parameter Identification Optimization Problems",
+  "type": "Dissertation"
+}

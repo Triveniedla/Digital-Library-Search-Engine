@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Haque, Ashim Shatil",
+  "contributor_committeechair": "Lu, Guo-Quan",
+  "contributor_committeemember": [
+    "Lee, Fred C.",
+    "Nelson, Douglas J.",
+    "Borojevich, Dushan",
+    "Kampe, Stephen L.",
+    "Suchicital, Carlos T. A."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:06:35Z",
+  "date_adate": "2000-01-08",
+  "date_available": "2014-03-14T20:06:35Z",
+  "date_issued": "1999-12-15",
+  "date_rdate": "2001-01-08",
+  "date_sdate": "2000-01-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Processing and Characterization of Device Solder Interconnection and Module Attachment for Power Electronics Modules by Shatil Haque Committee Chairman: Dr. Guo-Quan Lu Materials Engineering and Science Department (ABSTRACT) This research is focused on the processing of an innovative three-dimensional packaging architecture for power electronics building blocks with soldered device interconnections and subsequent characterization of the module's critical interfaces. A low-cost approach termed metal posts interconnected parallel plate structure (MPIPPS) was developed for packaging high-performance modules of power electronics building blocks (PEBB).  The new concept implemented direct bonding of copper posts, not wire bonding of fine aluminum wires, to interconnect power devices as well as joining the different circuit planes together.  We have demonstrated the feasibility of this packaging approach by constructing PEBB modules (consisting of Insulated Gate Bipolar Transistors (IGBTs), diodes, and a few gate driver elements and passive components). In the 1st phase of module fabrication with IGBTs with Si<sub>3</sub>N<sub>4</sub> passivation, we had successfully fabricated packaged devices and modules using the MPIPPS technique.  These modules were tested electrically and thermally, and they operated at pulse-switch and high power stages up to 6kW.  However, in the 2nd phase of module fabrication with polyimide passivated devices, we experienced significant yield problems due to metallization difficulties of these devices. <p>The under-bump metallurgy scheme for the development of a solderable interface involved sputtering of Ti-Ni-Cu and Cr-Cu, and an electroless deposition of Zn-Ni-Au metallization.  The metallization process produced excellent yield in the case of Si<sub>3</sub>N<sub>4</sub> passivated devices.  However, under the same metallization schemes, devices with a polyimide passivation exhibited inconsistent electrical contact resistance.  We found that organic contaminants such as hydrocarbons remain in the form of thin monolayers on the surface, even in the case of as-received devices from the manufacturer.  Moreover, in the case of polyimide passivated devices, plasma cleaning introduced a few carbon constituents on the surface, which was not observed in the case of Si<sub>3</sub>N<sub>4</sub> passivated devices.  X-Ray Photoelectron Spectroscopy (XPS) Spectra showed evidence of possible carbon contaminants, such as carbide (~282.9eV) and graphite (~284.3eV) on the surface at binding energies below the binding energy of the hydrocarbon peak (C 1s at 285eV). Whereas above the hydrocarbon peak energy level, carbon-nitrogen compounds, single bond carbon compounds (~285.9eV) and double bond carbon compounds (~288.5eV) were evident.  The majority of the carbon composition on the pad surface was associated with hydrocarbons, which were hydrophobic in nature, thus making the device contact pad less wettable.  XPS data showed that, after the plasma cleaning process, absorbed monolayers on the Si<sub>3</sub>N<sub>4</sub> passivated and polyimide passivated surfaces consisted of different chemical compositions and accordingly, the attraction forces of these absorbed layers are also different, which affects the bonding properties of the subsequent metallization, resulting in different contact resistances.  On the other hand, with an electroless Zn-Ni-Au deposition, it was found that the polyimide passivation on the devices degraded due to due alkaline exposure in the plating baths, thus lowering the device breakdown voltage significantly. <p>Furthermore, interfacial thermal resistances of solder preform, solder paste and silver epoxy (between the power module and the heat spreader) were characterized for process optimization.  Void content at the resulting interface was found to be dependent on the flux content and flux activity.  Solder preform with no-clean flux, reflowed in nitrogen results in the least resistant and minimized void-content interface.  It is most likely that the flux added to the preform had a higher fluxing action than the flux contained in the solder paste.  On the other hand, the outgassing of the entrapped flux profoundly affects the void formation and a lower void content indicates a lesser amount of trapped flux.  In the case of a solder paste, the flux is in direct contact with the surface oxide of the powders and the surface to be soldered.  Consequently, during reflow, any residual oxide can be expected to have some flux adhered to it.  In the case of solder preform with added flux, the higher activity flux eliminated the oxide more rapidly and more thoroughly, thus leaving fewer spots for the flux to adhere to. Void contents in all cases of nitrogen reflow are consistently lower than the air-reflowed samples.  Silver epoxy with a higher thermal conductivity (60W/mK) than Pb-Sn eutectic solder did not produce low-resistance interfaces.  We found that thermal conductivity of the interface material is not the most crucial factor in reducing thermal resistance, rather it is the contact thermal resistance of the interfaces, which constitutes the largest part of the total interfacial thermal resistance.  Process optimization with applied pressure and nitrogen reflow resulted in a significant lowering of contact resistance (from 0.55<sup>o</sup>C/W to 0.25<sup>o</sup>C/W) for the solder preform interfaces.  We concluded that contact resistance needs to be duly accounted for in thermal modeling for an accurate representation of an interface; at the same time, the module attachment process must be tailored to reduce contact resistance for improved thermal management.",
+  "description_provenance": [
+    "Author Email: shatil@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: dusan@vt.edu",
+    "Advisor Email: kampe@vt.edu",
+    "Advisor Email: ctas@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:35Z (GMT). No. of bitstreams: 7 Vita.pdf: 5843 bytes, checksum: 1ec8fc302f84bda342e00c14a781ba23 (MD5) ch4.pdf: 1574451 bytes, checksum: bb5199f3866b54ba7f669895ab36a71d (MD5) front-pages.pdf: 92116 bytes, checksum: d3dab67d761ed9780112139132f20553 (MD5) ch3.pdf: 6050452 bytes, checksum: 32054070fe381fb9924fcbee902433e1 (MD5) ch2.pdf: 1284039 bytes, checksum: 3b4c991b555b5a1a57d16ef5b191e271 (MD5) ch1.pdf: 140469 bytes, checksum: 5b234323fa0c23f25434965b46de5bfc (MD5) ch5.pdf: 26407 bytes, checksum: 086ebe97ab3565f9a22b5eebbc10d98b (MD5)   Previous issue date: 1999-12-15"
+  ],
+  "handle": "25956",
+  "identifier_other": "etd-0107100-102125",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-0107100-102125/",
+  "identifier_uri": "http://hdl.handle.net/10919/25956",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Vita.pdf",
+    "ch4.pdf",
+    "front-pages.pdf",
+    "ch3.pdf",
+    "ch2.pdf",
+    "ch1.pdf",
+    "ch5.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "power electronics packaging",
+    "interface characterization",
+    "solderable interconnection of devices",
+    "interfacial thermal resistance"
+  ],
+  "title": "Processing and Characterization of Device Solder Interconnection and Module Attachment for Power Electronics Modules",
+  "type": "Dissertation"
+}

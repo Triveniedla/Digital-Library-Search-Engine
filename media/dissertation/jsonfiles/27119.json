@@ -1,0 +1,51 @@
+{
+  "contributor_author": "McPherson, Derrell C.",
+  "contributor_committeechair": "Popham, David L.",
+  "contributor_committeemember": [
+    "Walker, Richard A.",
+    "Stevens, Ann M.",
+    "Larson, Timothy J.",
+    "Falkinham, Joseph O. III"
+  ],
+  "contributor_department": "Biology",
+  "date_accessioned": "2014-03-14T20:10:26Z",
+  "date_adate": "2003-04-25",
+  "date_available": "2014-03-14T20:10:26Z",
+  "date_issued": "2003-04-16",
+  "date_rdate": "2004-04-25",
+  "date_sdate": "2003-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The survival of all organisms depends on their ability to perform certain enzymatic activities and the ability to construct certain structures.  In prokaryotes, enzymes are required for the final reactions of peptidoglycan (PG) synthesis, the structural element of the bacterial cell wall.  These proteins, known as penicillin-binding proteins (PBPs), are identified through the presence of conserved motifs within their functional domains.  The Class A high-molecular weight PBPs are bifunctional, performing the penicillin-sensitive transpeptidase activity and the glycosyl transferase (GT) activity required for the polymerization of the glycan strands.  The Class A PBPs in Bacillus subtilis are PBP1, PBP4, PBP2c, and PBP2d (YwheE) and they are encoded by ponA, pbpD, pbpF, and pbpG (ywhE), respectively.  These proteins appear to be somewhat functionally redundant because removal of one or more does not cause any noticeable change in phenotype.  However, the loss of PBP1 has previously been demonstrated in B. subtilis to cause a decreased growth rate and changes in morphology of vegetative cells, both of which are increased upon the additional loss of PBP4.  Furthermore, the loss of sporulation-expressed Class A PBPs, PBP2c and 2d, causes a 10,000-fold decrease in the production of heat resistant spores.  This double mutant is shown to have changes in the structural parameters of cortex PG that appear minor when compared to other strains, but are coupled with a large defect on the deposition of cortex PG, apparently from the synthesis of an abnormal germ cell wall.  The Class A PBPs are believed to be the only proteins capable of performing the GT activity and it is therefore believed that cell viability requires the presence of at least one functional Class A PBP.  This requirement has been demonstrated in other organisms, but a B. subtilis strain lacking all Class A PBPs is viable.  The phenotypical changes seen in the PBP1 mutant are exacerbated in this strain.  The GT activity remaining in this strain is sensitive to the antibiotic moenomycin in vitro whereas it appears resistant in vivo.  Identification of the protein(s) performing this novel GT activity will rely on the demonstration of the GT activity in vitro.",
+  "description_provenance": [
+    "Author Email: demcpher@vt.edu",
+    "Advisor Email: rwalker@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: tlarson@vt.edu",
+    "Advisor Email: dpopham@vt.edu",
+    "Advisor Email: jof@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:26Z (GMT). No. of bitstreams: 3 McPhersonAbstract.pdf: 6262 bytes, checksum: bed6f345b753b57a7a1bc534d512f4a2 (MD5) McPhersonETD.pdf: 4955761 bytes, checksum: 479a37545320e6f00d09589394b300a1 (MD5) McPhersonBiblio.pdf: 72656 bytes, checksum: bf53f6f3fb63e7f5544ec23712b5980f (MD5)   Previous issue date: 2003-04-16"
+  ],
+  "handle": "27119",
+  "identifier_other": "etd-04222003-140931",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04222003-140931/",
+  "identifier_uri": "http://hdl.handle.net/10919/27119",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "McPhersonAbstract.pdf",
+    "McPhersonETD.pdf",
+    "McPhersonBiblio.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "peptidoglycan",
+    "sporulation",
+    "germ cell wall",
+    "glycosyl transferase",
+    "Bacillus subtilis",
+    "penicillin-binding proteins"
+  ],
+  "title": "Studies of the Class A High-Molecular Weight Penicillin-Binding Proteins in Bacillus subtilis",
+  "type": "Dissertation"
+}

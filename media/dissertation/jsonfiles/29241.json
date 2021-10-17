@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Gu, Baoshan",
+  "contributor_committeechair": "Chen, Ing-Ray",
+  "contributor_committeemember": [
+    "Gracanin, Denis",
+    "DaSilva, Luiz A.",
+    "Midkiff, Scott F.",
+    "Lu, Chang-Tien"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:17:16Z",
+  "date_adate": "2005-12-01",
+  "date_available": "2014-03-14T20:17:16Z",
+  "date_issued": "2005-09-30",
+  "date_rdate": "2005-12-01",
+  "date_sdate": "2005-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mobile wireless environments present new challenges to the design and validation of system supports for facilitating development of mobile applications. This dissertation concerns two major system-support mechanisms in mobile wireless networks, namely, location management and service management. We address this research issue by considering three topics: location management, service management, and integrated location and service management.   A location management scheme must effectively and efficiently handle both user location-update and location-search operations. We first quantitatively analyze a class of location management algorithms and identify conditions under which one algorithm may perform better than others. From insight gained from the quantitative analysis, we design and analyze a hybrid replication with forwarding algorithm that outperforms individual algorithms and show that such a hybrid algorithm can be uniformly applied to mobile users with distinct call and mobility characteristics to simplify the system design without sacrificing performance.  For service management, we explore the notion of location-aware personal proxies that cooperate with the underlying location management system with the goal to minimize the network communication cost caused by service management operations. We show that for cellular wireless networks that provide packet services, when given a set of model parameters characterizing the network and workload conditions, there exists an optimal proxy service area size such that the overall network communication cost for service operations is minimized. These proxy-based mobile service management schemes are shown to outperform non-proxy-based schemes over a wide range of identified conditions. \t We investigate a class of integrated location and service management schemes by which service proxies are tightly integrated with location databases to further reduce the overall network signaling and communication cost. We show analytically and by simulation that when given a user's mobility and service characteristics, there exists an optimal integrated location and service management scheme that would minimize the overall network communication cost for servicing location and service operations. We demonstrate that the best integrated location and service scheme identified always performs better than the best decoupled scheme that considers location and service managements separately.",
+  "description_provenance": [
+    "Author Email: bgu@vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: irchen@cs.vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:16Z (GMT). No. of bitstreams: 1 ETD.pdf: 705322 bytes, checksum: d1294503bafdfa9c5e96e772ace93bbb (MD5)   Previous issue date: 2005-09-30"
+  ],
+  "handle": "29241",
+  "identifier_other": "etd-10112005-231633",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112005-231633/",
+  "identifier_uri": "http://hdl.handle.net/10919/29241",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "integrated location and service management",
+    "performance evaluation",
+    "mobile wireless networks",
+    "service handoff",
+    "service management",
+    "Location management"
+  ],
+  "title": "Design and Analysis of Algorithms for Efficient Location and Service Management in Mobile Wireless Systems",
+  "type": "Dissertation"
+}

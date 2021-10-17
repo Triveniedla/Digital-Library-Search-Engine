@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Desai, Jitamitra",
+  "contributor_committeechair": "Sherali, Hanif D.",
+  "contributor_committeemember": [
+    "Koelling, Charles Patrick",
+    "Fraticelli, Barbara M. P.",
+    "Herdman, Terry L.",
+    "Sarin, Subhash C."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:13:45Z",
+  "date_adate": "2005-07-20",
+  "date_available": "2014-03-14T20:13:45Z",
+  "date_issued": "2005-06-28",
+  "date_rdate": "2007-07-20",
+  "date_sdate": "2005-07-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ever since the advent of the simplex algorithm, linear programming (LP) has been extensively used with great success in many diverse fields. The field of discrete optimization came to the forefront as a result of the impressive developments in the area of linear programming. Although discrete optimization problems can be viewed as belonging to the class of nonconvex programs, it has only been in recent times that optimization research has confronted the more formidable class of continuous nonconvex optimization problems, where the objective function and constraints are often highly nonlinear and nonconvex functions, defined in terms of continuous (and bounded) decision variables. Typical classes of such problems involve polynomial, or more general factorable functions. <P> This dissertation focuses on employing the Reformulation-Linearization Technique (RLT) to enhance model formulations and to design effective solution techniques for solving several practical instances of continuous nonconvex optimization problems, namely, the hard and fuzzy clustering problems, risk management problems, and problems arising in control systems. <P> Under the umbrella of the broad RLT framework, the contributions of this dissertation focus on developing models and algorithms along with related theoretical and computational results pertaining to three specific application domains. In the basic construct, through appropriate surrogation schemes and variable substitution strategies, we derive strong polyhedral approximations for the polynomial functional terms in the problem, and then rely on the demonstrated (robust) ability of the RLT for determining global optimal solutions for polynomial programming problems. The convergence of the proposed branch-and-bound algorithm follows from the tailored branching strategy coupled with consistency and exhaustive properties of the enumeration tree. First, we prescribe an RLT-based framework geared towards solving the hard and fuzzy clustering problems. In the second endeavor, we examine two risk management problems, providing novel models and algorithms. Finally, in the third part, we provide a detailed discussion on studying stability margins for control systems using polynomial programming models along with specialized solution techniques.",
+  "description_provenance": [
+    "Author Email: jidesai@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: bfratice@vt.edu",
+    "Advisor Email: herdman@icam.vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:45Z (GMT). No. of bitstreams: 1 Desai_Dissertation.pdf: 1461511 bytes, checksum: 967601463d3181fc5e7fd1b8f19cbcc7 (MD5)   Previous issue date: 2005-06-28"
+  ],
+  "handle": "28211",
+  "identifier_other": "etd-07052005-124337",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07052005-124337/",
+  "identifier_uri": "http://hdl.handle.net/10919/28211",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Desai_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "global optimization",
+    "RLT",
+    "factorable programs",
+    "hard and fuzzy clustering",
+    "risk management",
+    "control systems",
+    "nonconvex programs",
+    "event trees"
+  ],
+  "title": "Solving Factorable Programs with Applications to Cluster Analysis, Risk Management, and Control Systems Design",
+  "type": "Dissertation"
+}

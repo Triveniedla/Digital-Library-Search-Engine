@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Camacho, Diogo Mayo",
+  "contributor_committeechair": "Mendes, Pedro J. P.",
+  "contributor_committeemember": [
+    "Shulaev, Vladimir",
+    "Laubenbacher, Reinhard C.",
+    "Hoeschele, Ina",
+    "Winkel, Brenda S. J."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:12:45Z",
+  "date_adate": "2007-06-29",
+  "date_available": "2014-03-14T20:12:45Z",
+  "date_issued": "2007-06-01",
+  "date_rdate": "2007-06-29",
+  "date_sdate": "2007-06-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the post-\"omic\" era the analysis of high-throughput data is regarded as one of the major challenges faced by researchers. One focus of this data analysis is uncovering biological network topologies and dynamics. It is believed that this kind of research will allow the development of new mathematical models of biological systems as well as aid in the improvement of already existing ones. The work that is presented in this dissertation addresses the problem of the analysis of highly complex data sets with the aim of developing a methodology that will enable the reconstruction of a biological network from time series data through an iterative process.     The first part of this dissertation relates to the analysis of existing methodologies that aim at inferring network structures from experimental data. This spans the use of statistical tools such as correlations analysis (presented in Chapter 2) to more complex mathematical frameworks (presented in Chapter 3). A novel methodology that focuses on the inference of biological networks from time series data by least squares fitting will then be introduced. Using a set of carefully designed inference rules one can gain important information about the system which can aid in the inference process. The application of the method to a data set from the response of the yeast Saccharomyces cerevisiae to cumene hydroperoxide is explored in Chapter 5. The results show that this method can be used to generate a coarse-level mathematical model of the biological system at hand. Possible developments of this method are discussed in Chapter 6.",
+  "description_provenance": [
+    "Author Email: dcamacho@vt.edu",
+    "Advisor Email: vshulaev@vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: inah@vt.edu",
+    "Advisor Email: winkel@vt.edu",
+    "Advisor Email: mendes@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:45Z (GMT). No. of bitstreams: 1  Dissertation-Camacho-07.pdf: 4023107 bytes, checksum: 54d9990a2be6ffb653327c7af3a0f9c1 (MD5)    Previous issue date: 2007-06-01"
+  ],
+  "handle": "27960",
+  "identifier_other": "etd-06062007-093054",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06062007-093054/",
+  "identifier_uri": "http://hdl.handle.net/10919/27960",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-Camacho-07.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "reverse engineering",
+    "computational biology",
+    "mathematical modeling",
+    "systems biology"
+  ],
+  "title": "In silico cell biology and biochemistry: a systems biology approach",
+  "type": "Dissertation"
+}

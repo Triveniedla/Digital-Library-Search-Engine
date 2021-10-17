@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Vaughan, Diane Elizabeth",
+  "contributor_committeecochair": [
+    "Koelling, Charles Patrick",
+    "Jacobson, Sheldon H."
+  ],
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "Bish, Ebru K.",
+    "Nachlas, Joel A."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "2000-08-22",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "2000-07-31",
+  "date_rdate": "2001-08-22",
+  "date_sdate": "2000-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Generalized hill climbing (GHC) algorithms provide a framework for using local search algorithms to address intractable discrete optimization problems.  Many well-known local search algorithms can be formulated as GHC algorithms, including simulated annealing, threshold accepting, Monte Carlo search, and pure local search (among others).    This dissertation develops a mathematical framework for simultaneously addressing a set of related discrete optimization problems using GHC algorithms.  The resulting algorithms, termed simultaneous generalized hill climbing (SGHC) algorithms, can be applied to a wide variety of sets of related discrete optimization problems. The SGHC algorithm probabilistically moves between these discrete optimization problems according to a problem generation probability function.  This dissertation establishes that the problem generation probability function is a stochastic process that satisfies the Markov property.  Therefore, given a SGHC algorithm, movement between these discrete optimization problems can be modeled as a Markov chain. Sufficient conditions that guarantee that this Markov chain has a uniform stationary probability distribution are presented. Moreover, sufficient conditions are obtained that guarantee that a SGHC algorithm will visit the globally optimal solution over all the problems in a set of related discrete optimization problems.     Computational results are presented with SGHC algorithms for a set of traveling salesman problems.  For comparison purposes, GHC algorithms are also applied individually to each traveling salesman problem.  These computational results suggest that optimal/near optimal solutions can often be reached more quickly using a SGHC algorithm.",
+  "description_provenance": [
+    "Author Email: vaughand@vt.edu",
+    "Advisor Email: rogers@calvin.math.vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: shj@uiuc.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 2 vita.pdf: 3303 bytes, checksum: 3d841296f5bcfa54461269cb9dcff689 (MD5) dianeetd.pdf: 887905 bytes, checksum: ed356025db770d35ef96ec32e7b4f105 (MD5)   Previous issue date: 2000-07-31"
+  ],
+  "handle": "28514",
+  "identifier_other": "etd-08042000-14590003",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08042000-14590003/",
+  "identifier_uri": "http://hdl.handle.net/10919/28514",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "vita.pdf",
+    "dianeetd.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Traveling Salesman Problem",
+    "Ergodicity",
+    "Local Search",
+    "Markov Chains",
+    "Simulated Annealing",
+    "Generalized Hill Climbing Algorithms",
+    "Manufacturing Applications"
+  ],
+  "title": "Simultaneous Generalized Hill Climbing Algorithms for Addressing Sets of Discrete Optimization Problems",
+  "type": "Dissertation"
+}

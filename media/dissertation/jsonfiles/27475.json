@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Natarjan, Arun",
+  "contributor_committeechair": "Schaub, Hanspeter",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Woolsey, Craig A.",
+    "Hall, Christopher D."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:11:22Z",
+  "date_adate": "2007-05-04",
+  "date_available": "2014-03-14T20:11:22Z",
+  "date_issued": "2007-04-26",
+  "date_rdate": "2007-05-04",
+  "date_sdate": "2007-05-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation the linearized dynamics and stability of a two-craft Coulomb tether formation are investigated. With a Coulomb tether the relative distance between two satellites is controlled using electrostatic Coulomb forces.  A charge feedback law is introduced to stabilize the relative distance between the satellites to a constant value.  Compared to previous Coulomb thrusting research, this is the first feedback control law that stabilizes a particular formation shape. The two craft are connected by an electrostatic virtual tether that essentially acts as a long, slender near-rigid body.   Inter-spacecraft Coulomb forces cannot influence the inertial angular momentum of this formation.  However,  the differential gravitational attraction can be exploited to stabilize the attitude of this Coulomb tether formation about an orbit nadir direction. Stabilizing the separation distance will also stabilize the in-plane rotation angle, while the out-of-plane rotational motion remains unaffected.  The other two relative equilibriums of the charged 2-craft problem are along the orbit-normal and the along-track direction.  Unlike the charged  2-craft formation scenario  aligned along the orbit radial direction, a feedback control law using inter-spacecraft  electrostatic Coulomb forces and  the differential gravitational accelerations  is not sufficient to stabilize   the Coulomb tether length and the formation attitude. Therefore,  hybrid feedback control laws are presented which combine  conventional thrusters and Coulomb forces.  The Coulomb force  feedback  requires measurements  of separation distance error and error rate,  while the  thruster  feedback is in terms of Euler angles and their rates. This hybrid feedback control is designed to asymptotically stabilize the satellite formation shape and attitude    while avoiding plume impingement issues.   The relative distance between the two satellites can be  increased or decreased using electrostatic Coulomb forces.  The linear dynamics and stability analysis of such reconfiguration are studied for all the three equilibrium. The Coulomb tether expansion and contraction rates affect the stability of the structure and limits on these rates are discussed using the linearized time-varying dynamical models.  These limits allow the reference length time histories to be designed while ensuring linear stability of the virtual structure. Throughout this dissertation the Coulomb tether is modeled as a massless, elastic component and, a point charge model is used to describe the charged craft.",
+  "description_provenance": [
+    "Author Email: anat@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Advisor Email: schaub@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:22Z (GMT). No. of bitstreams: 1 Dissertation_Arun_Natarajan_New.pdf: 13834289 bytes, checksum: b77f94b7b21b968c203a1d773780421e (MD5)   Previous issue date: 2007-04-26"
+  ],
+  "handle": "27475",
+  "identifier_other": "etd-05012007-025542",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05012007-025542/",
+  "identifier_uri": "http://hdl.handle.net/10919/27475",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Arun_Natarajan_New.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Spacecraft Formation Flying",
+    "Coulomb Tether"
+  ],
+  "title": "A Study of  Dynamics and Stability of Two-Craft Coulomb Tether Formations",
+  "type": "Dissertation"
+}

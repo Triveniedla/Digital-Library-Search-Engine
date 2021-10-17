@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Wang, Shuo",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Nelson, Douglas J.",
+    "Lindner, Douglas K.",
+    "Odendaal, Willem Gerhardus"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:34Z",
+  "date_adate": "2005-07-20",
+  "date_available": "2014-03-14T20:12:34Z",
+  "date_issued": "2005-05-11",
+  "date_rdate": "2005-07-20",
+  "date_sdate": "2005-05-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Five chapters of this dissertation concentrate on the characterization and cancellation of high frequency parasitic parameters in EMI filters. One chapter addresses the interaction between the power interconnects and the parasitic parameters in EMI filters. The last chapter addresses the characterization, evaluation and design of noise separators. Both theoretical and experimental analyses are applied to each topic.  This dissertation tries to explore several important issues related to EMI filters and noise separators. The author wishes to find some helpful approaches to benefit the understanding and design of EMI filters. The contributions of the dissertation can be summarized below: 1)\tIdentification of mutual couplings and their effects on EMI filter performance 2)\tExtraction of mutual couplings using scattering parameters 3)\tCancellation of mutual couplings to improve EMI filter performance 4)\tCancellation of equivalent series inductance to improve capacitor performance 5)\tAnalysis of mode transformations due to the imperfectly balanced parameters in EMI filters 6)\tAnalysis of interaction between power interconnects and EMI filters on filter high-frequency performance 7)\tModeling and design of high-performance noise separator for EMI diagnosis 8)\tIdentification of the effects of parasitics in boost PFC inductor on DM noise Although all topics are supported by both theory and experiments, there may still be some mistakes in the dissertation. The author welcomes any advice and comments. Please send them via email to shuowang@ieee.org. Thanks",
+  "description_provenance": [
+    "Author Email: shwang6@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: hardus@ieee.org",
+    "Made available in DSpace on 2014-03-14T20:12:34Z (GMT). No. of bitstreams: 1 ShuoWang_dissertation.pdf: 4621659 bytes, checksum: 802861f3a9b7d343626307ebf0a9807a (MD5)   Previous issue date: 2005-05-11"
+  ],
+  "handle": "27885",
+  "identifier_other": "etd-05252005-153053",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05252005-153053/",
+  "identifier_uri": "http://hdl.handle.net/10919/27885",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ShuoWang_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Conducted EMI",
+    "Mode Transformation",
+    "Parasitic Cancellation",
+    "Noise separator",
+    "S-Parameters",
+    "Equivalent Series Inductance (ESL)",
+    "Unbalance",
+    "Parasitic Couplings",
+    "EMI Filter",
+    "Transmission Lines",
+    "Impedance Transformation"
+  ],
+  "title": "Characterization and Cancellation of High-Frequency Parasitics for EMI Filters and Noise Separators in Power Electronics Applications",
+  "type": "Dissertation"
+}

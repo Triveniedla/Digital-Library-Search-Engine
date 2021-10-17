@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Dodson, Jacob Christopher",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Pierson, Mark A.",
+    "Borggaard, Jeffrey T.",
+    "Wicks, Alfred L.",
+    "Foley, Jason R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:10:15Z",
+  "date_adate": "2012-04-22",
+  "date_available": "2014-03-14T20:10:15Z",
+  "date_issued": "2012-04-09",
+  "date_rdate": "2012-04-22",
+  "date_sdate": "2012-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Damage detection in mechanical and aerospace structures is critical to maintaining safe and optimal performance. The early detection of damage increases safety and reduces cost of maintenance and repair. Structural Health Monitoring (SHM) integrates sensor networks and structures to autonomously interrogate the structure and detect damage. The development of robust SHM systems is becoming more vital as aerospace structures are becoming more complex. New SHM methods that can determine the health of the structure without using traditional non-destructive evaluation techniques will decrease the cost and time associated with these investigations. The primary SHM method uses the signals recorded on a pristine structure as a reference and compares operational signals to the baseline measurement. One of the current limitations of baseline SHM is that environmental factors, such as temperature and stress, can change the system response so the algorithm indicates damage when there is none. Many structures which can benefit from SHM have multiple components and often have connections and interfaces that also can change under environmental conditions, thus changing the dynamics of the system.  This dissertation addresses some of the current limitations of SHM. First the changes that temperature variations and applied stress create on Lamb wave propagation velocity in plates is analytically modeled and validated. Two methods are developed for the analytical derivative of the Lamb wave velocity; the first uses assumes a thermoelastic material while the second expands thermoelastic theory to include thermal expansion and the associated stresses. A model is developed so the baseline measurement can be compensated to eliminate the false positives due to environmental conditions without storage of dispersion curves or baseline signals at each environmental state. Next, a wave based instantaneous baseline method is presented which uses the comparison of simultaneously captured real time signals and can be used to eliminate the influence of environmental effects on damage detection. Finally, wave transmission and conversion across interfaces in prestressed bars is modeled to provide a better understanding of how the coupled axial and flexural dynamics of a non-ideal preloaded interface change with applied load.",
+  "description_provenance": [
+    "Author Email: dodsonjc@vt.edu",
+    "Advisor Email: mark.pierson@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: daninman@umich.edu",
+    "Advisor Email: jason.foley@eglin.af.mil",
+    "Made available in DSpace on 2014-03-14T20:10:15Z (GMT). No. of bitstreams: 1 Dodson_JC_D_2012.pdf: 6095127 bytes, checksum: e52ba5e3d2a1220770d94ae924341143 (MD5)   Previous issue date: 2012-04-09"
+  ],
+  "handle": "27070",
+  "identifier_other": "etd-04202012-091113",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202012-091113/",
+  "identifier_uri": "http://hdl.handle.net/10919/27070",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dodson_JC_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "thermal sensitivity",
+    "Lamb waves",
+    "guided waves",
+    "environmental factors",
+    "structural health monitoring"
+  ],
+  "title": "Guided Wave Structural Health Monitoring with Environmental Considerations",
+  "type": "Dissertation"
+}

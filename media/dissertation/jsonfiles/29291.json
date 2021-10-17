@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Xu, Jun",
+  "contributor_committeechair": "Jones, James R.",
+  "contributor_committeecochair": "Schubert, Robert P.",
+  "contributor_committeemember": [
+    "Dymond, Randel L.",
+    "Koebel, Charles Theodore",
+    "Wang, Joseph C.",
+    "Jones, Dennis B."
+  ],
+  "contributor_department": "Environmental Design and Planning",
+  "date_accessioned": "2014-03-14T20:17:25Z",
+  "date_adate": "2003-11-14",
+  "date_available": "2014-03-14T20:17:25Z",
+  "date_issued": "2003-09-30",
+  "date_rdate": "2003-11-14",
+  "date_sdate": "2003-10-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>This research proposes a new site analysis methodology in the form of an integrated framework.  The framework separates the site analysis process into different models, incorporates each model, and considers the interaction between them.  The most important models are the environmental models (climate, geology, hydrology, topography, and vegetation models), social-cultural models, economic models, and infrastructure models.  Each model also contains several important factors. <p>The study identifies and organizes environmental factors within the framework that influence site analysis and design.  Based on the applicability of feng shui principles and their interpretations into measurable factors, this research compares and incorporates feng shui and contemporary environmental design theories, and summarizes essential environmental factors.  The emphasis on environmental factors from these models may lead to a better understanding of the relationships between humankind and the natural environment. <p>The proposed framework is implemented into a computer simulation program, titled SiteOne, to demonstrate the concepts and ideas, with an emphasis on environmental factors.  This research uses the town of Reston in Fairfax County, Virginia, as the study area because of the availability of information.  SiteOne analyzes a range of alternatives and then derives solutions from the suggested site conditions in the form of GIS maps.  There are various modules that make up the prototype system: namely an analysis module, a database module, and a result generation module.  SiteOne helps professionals collect a wide range of information and select corresponding criteria in the early stages of design.  It also provides visual analysis based on selected criteria and models.  Therefore, it can act as an educational knowledge component for professionals as well as the general public.",
+  "description_provenance": [
+    "Author Email: junxu99@hotmail.com",
+    "Advisor Email: silver@vt.edu",
+    "Advisor Email: dymond@vt.edu",
+    "Advisor Email: tkoebel@vt.edu",
+    "Advisor Email: joswan@vt.edu",
+    "Advisor Email: dbjones@vt.edu",
+    "Advisor Email: jajone10@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:25Z (GMT). No. of bitstreams: 10 8_References.pdf: 31636 bytes, checksum: 915a5d07390494d16c2c9a93441fccc3 (MD5) 7_Conclusion.pdf: 344728 bytes, checksum: 2c39ac8748ccd62326a1d2142b7d10f5 (MD5) 3_EnvPrinciples.pdf: 664630 bytes, checksum: 48edd0f6f8327772ad93db3c52ae1104 (MD5) 6_Interview.pdf: 799250 bytes, checksum: 6453a1b6d6cde39a1da4fb97b8d57156 (MD5) 1_Introduction.pdf: 192885 bytes, checksum: 6b519632a6efaaec4fac61f1d50f7649 (MD5) 4_Framework.pdf: 939454 bytes, checksum: 2498dd0c621a4c06e89396f9cb9b2abe (MD5) 9_Appendix.pdf: 2832732 bytes, checksum: 3c38b9fef6139df64357c5b6d45bc537 (MD5) 0_TitleAbstractTOC.pdf: 26509 bytes, checksum: 6e2f862f174a2d0fa3a649b35524bb40 (MD5) 2_DesignMethod.pdf: 479828 bytes, checksum: 5204364d865026b8aa432db6ea375f38 (MD5) 5_CaseStudy.pdf: 15166780 bytes, checksum: f8c6d88cd63c1bf37f89daec8b1392b7 (MD5)   Previous issue date: 2003-09-30"
+  ],
+  "handle": "29291",
+  "identifier_other": "etd-10172003-101905",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10172003-101905/",
+  "identifier_uri": "http://hdl.handle.net/10919/29291",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "8_References.pdf",
+    "7_Conclusion.pdf",
+    "3_EnvPrinciples.pdf",
+    "6_Interview.pdf",
+    "1_Introduction.pdf",
+    "4_Framework.pdf",
+    "9_Appendix.pdf",
+    "0_TitleAbstractTOC.pdf",
+    "2_DesignMethod.pdf",
+    "5_CaseStudy.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "environmental design",
+    "site analysis",
+    "decision-support",
+    "GIS",
+    "feng shui"
+  ],
+  "title": "A Framework for Site Analysis with Emphasis on Feng Shui and Contemporary Environmental Design Principles",
+  "type": "Dissertation"
+}

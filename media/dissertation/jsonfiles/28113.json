@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Baldwin, Rusty Olen",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Bostian, Charles W.",
+    "Gray, Festus Gail",
+    "Kobza, John E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:28Z",
+  "date_adate": "1999-06-29",
+  "date_available": "2014-03-14T20:13:28Z",
+  "date_issued": "1999-06-23",
+  "date_rdate": "2000-06-29",
+  "date_sdate": "1999-06-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research considers the transmission of real-time data within a wireless local area network (WLAN).  Exact and approximate analytic network evaluation techniques are examined.  The suitability of using a given technique in a particular situation is discussed.  Simulation models are developed to study the performance of our protocol RT-MAC (real-time medium access control).  RT-MAC is a novel, simple, and elegant MAC protocol for use in transmitting real-time data in point to point ad hoc WLAN.  Our enhancement of IEEE 802.11, RT-MAC, achieves dramatic reductions in mean delay, missed deadlines, and packet collisions by selectively discarding packets and sharing station state information.  For example, in a 50 station network with a normalized offered load of 0.7, mean delay is reduced from more than 14 seconds to less than 45 ms, late packets are reduced from 76% to less than 1%, and packet collisions are reduced from 36% to less than 1%.  Stations using RT-MAC are interoperable with stations using IEEE 802.11.  In networks with both RT-MAC and IEEE 802.11 stations, significant performance improvements were seen even when more than half of the stations in the network were not RT-MAC stations.  The effect of the wireless channel and its impact on the ability of a WLAN to meet packet deadlines is evaluated.  It is found that, in some cases, other factors such as the number of stations in the network and the offered load are more significant than the condition of the wireless channel.  Regression models are developed from simulation data to predict network behavior in terms of throughput, mean delay, missed deadline ratio, and collision ratio.  Telemetry, avionics, and packetized voice traffic models are considered.  The applicability of this research is not limited to real-time wireless networks.  Indeed, the collision reduction algorithm of RT-MAC is independent of the data being transported. Furthermore, RT-MAC would perform equally well in wired networks.  Incorporating the results of this research into existing protocols will result in immediate and dramatic improvements in network performance.",
+  "description_provenance": [
+    "Author Email: rusty.baldwin@iname.com",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: fggray@vt.edu",
+    "Advisor Email: jkobza@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:28Z (GMT). No. of bitstreams: 1 dissertation-modified.pdf: 1771452 bytes, checksum: c303cd3681cc76d541d47b9c362c27ca (MD5)   Previous issue date: 1999-06-23"
+  ],
+  "handle": "28113",
+  "identifier_other": "etd-062499-102718",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-062499-102718/",
+  "identifier_uri": "http://hdl.handle.net/10919/28113",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-modified.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "integrated voice-data",
+    "mac",
+    "real time",
+    "queueing models",
+    "real-time",
+    "access protocol",
+    "wireless LAN"
+  ],
+  "title": "Improving the Real-time Performance of a Wireless Local Area Network",
+  "type": "Dissertation"
+}

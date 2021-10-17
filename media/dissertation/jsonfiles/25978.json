@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Tao, Fengfeng",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "van Wyk, Jacobus Daniel",
+    "Nelson, Douglas J.",
+    "Huang, Alex Q.",
+    "Lai, Jason",
+    "Chen, Dan Y."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:40Z",
+  "date_adate": "2002-01-10",
+  "date_available": "2014-03-14T20:06:40Z",
+  "date_issued": "2001-12-19",
+  "date_rdate": "2003-01-10",
+  "date_sdate": "2002-01-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Small size, light weight, high efficacy, longer lifetime and controllable output are the main advantages of high-frequency electronic ballasts for gas discharge lamps. However, power line quality and electromagnetic interference (EMI) issues arise when a simple peak rectifying circuit is used. To suppress harmonic currents and improve power factor, input-current-shaping (ICS) or power-factor-correction (PFC) techniques are necessary. This dissertation addresses advanced high-frequency electronic ballasting techniques by using a single-stage PFC approach. The proposed techniques include single-stage boost-derived PFC electronic ballasts with voltage-divider-rectifier front ends, single-stage PFC electronic ballasts with wide range dimming controls, single-stage charge-pump PFC electronic ballasts with lamp voltage feedback, and self-oscillating single-stage PFC electronic ballasts. Single-stage boost-derived PFC electronic ballasts with voltage-divider-rectifier front ends are developed to solve the problem imposed by the high boost conversion ratio required by commonly used boost-derived PFC electronic ballast. Two circuit implementations are proposed, analyzed and verified by experimental results. Due to the interaction between the PFC stage and the inverter stage, extremely high bus-voltage stress may exist during dimming operation. To reduce the bus voltage and achieve a wide-range dimming control, a novel PFC electronic ballast with asymmetrical duty-ratio control is proposed. Experimental results show that wide stable dimming operation is achieved with constant switching frequency. Charge-pump (CP) PFC techniques utilize a high-frequency current source (CS) or voltage source (VS) or both to charge and discharge the so-called charge-pump capacitor in order to achieve PFC. The bulky DCM boost inductor is eliminated so that this family of PFC circuits has the potential for low cost and small size. A family of CPPFC electronic ballasts is investigated. A novel VSCS-CPPFC electronic ballast with lamp-voltage feedback is proposed to reduce the bus-voltage stress. This family of CPPFC electronic ballasts are implemented and evaluated, and verified by experimental results. To further reduce the cost and size, a self-oscillating technique is applied to the CPPFC electronic ballast. Novel winding voltage modulation and current injection concepts are proposed to modulate the switching frequency. Experimental results show that the self-oscillating CS-CPPFC electronic ballast with current injection offers a more cost-effective solution for non-dimming electronic ballast applications.",
+  "description_provenance": [
+    "Author Email: ftao@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:40Z (GMT). No. of bitstreams: 1 ETD.pdf: 4326898 bytes, checksum: ef65f8c762b028b104b06db24d4b7c3b (MD5)   Previous issue date: 2001-12-19"
+  ],
+  "handle": "25978",
+  "identifier_other": "etd-01102002-000548",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01102002-000548/",
+  "identifier_uri": "http://hdl.handle.net/10919/25978",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "power factor correction",
+    "electronic ballast",
+    "power converter",
+    "self-oscillation"
+  ],
+  "title": "Advanced High-Frequency Electronic Ballasting Techniques for Gas Discharge Lamps",
+  "type": "Dissertation"
+}

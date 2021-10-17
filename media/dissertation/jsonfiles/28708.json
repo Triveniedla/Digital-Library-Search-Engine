@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Clark, Jeffrey",
+  "contributor_committeechair": "Safaai-Jazi, Ahmad",
+  "contributor_committeemember": [
+    "Riad, Sedki Mohamed",
+    "Pratt, Timothy J.",
+    "Kohler, Werner E.",
+    "Besieris, Ioannis M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:23Z",
+  "date_adate": "2006-10-03",
+  "date_available": "2014-03-14T20:15:23Z",
+  "date_issued": "2006-08-08",
+  "date_rdate": "2007-10-03",
+  "date_sdate": "2006-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>\tWith the recent resurgence of interest in double negative (DNG) materials and the reported construction of a metamaterial with DNG characteristics, applications of these materials become feasible and examination of the behavior of systems and devices a potentially fruitful topic.  The most promising area of research, upon inquiry into past work related to DNG materials, proves to be dielectric waveguides.  The present investigation, then, focuses on the inclusion of DNG materials in various planar dielectric waveguide configurations.  These waveguides involve a core region surrounded by various numbers of symmetrically-placed cladding layers.   \t</p><p>The present investigation involves the review of the electromagnetic properties of DNG materials by a thorough analysis based on Maxwell's equations.  The use of a negative index of refraction for these materials is justified.  These results are then used to perform a frequency domain analysis of an N-layer formulation for dielectric waveguides which is general for any combination of DNG and double positive (DPS) materials.  This N-layer formulation allows for the derivation of the characteristic equation, which relates the operating frequency and the propagation constant solutions, along with the cutoff conditions and field distributions.  A causal material model which obeys the Kramers-Kronig relations and which is based on measurements of a realized metamaterial is studied and used in the investigation in order to produce realistic results. \t</p><p>The N-layer formulation is then applied to the three-layer (slab) waveguide and known results are reviewed.  A new interpretation of intramodal degeneracy is given, whereby degenerate modes are split into two separate modes, one with positive phase velocity and one with negative phase velocity but both with a causal positive group (energy) velocity.  Next, the formulation is applied to the five-layer waveguide.  New behaviors are observed in this case which are not seen for the three-layer waveguide, including the return of the fundamental mode in some cases, whereas it is never present for the three-layer guide, the absence of certain higher-order modes in some situations and the appearance of new modes.  Additionally, for some configurations the order of the even and odd modes in the DNG frequency range is found to be reversed from that of conventional waveguides. \t</p><p>The photonic crystal waveguide, which involves an infinite number of periodically placed cladding layers, is next studied using ray analysis, and a slight variation of the N-layer formulation is used to compare these results with those of the pseudo-photonic crystal waveguide.  The pseudo-photonic crystal waveguide is identical to the photonic crystal waveguide with the exception that it has only large but finite number of layers.  It is seen that the results of these two cases are similar for conventional modes, but the photonic crystal waveguide allows for new modes called photonic crystal modes which are inaccessible through conventional waveguides.  Interesting phenomena such as mode crossings among the photonic crystal modes are observed and discussed. \t</p><p>Using the results from the frequency domain analysis of the five-layer waveguide, a Fourier transform technique is used to study pulse propagation in a waveguide containing DNG materials.  A Gaussian pulse is launched in the waveguide over the frequency range covering a portion of the positive- and negative-phase-velocity fundamental transverse electric (TE) modes.  Splitting of the input pulse into two separate pulses is observed, where both of these new pulses have a causal, positive energy velocity.  The interpretation of intramodal degeneracy given in previous discussions is buttressed with evidence from this portion of the investigation, thus completing the analysis and bringing the present study to its conclusion.</p>",
+  "description_provenance": [
+    "Author Email: jeclark@vt.edu",
+    "Advisor Email: sedki@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: kohler@calvin.math.vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: imbesieris@msn.com",
+    "Made available in DSpace on 2014-03-14T20:15:23Z (GMT). No. of bitstreams: 2 JRClarkDiss.pdf: 857539 bytes, checksum: c80655b8c3a03687c063cc05de8c84f4 (MD5) JRCPerm.pdf: 15074 bytes, checksum: 35e6081c5490524ee59effafb65109d3 (MD5)   Previous issue date: 2006-08-08"
+  ],
+  "handle": "28708",
+  "identifier_other": "etd-08182006-122412",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182006-122412/",
+  "identifier_uri": "http://hdl.handle.net/10919/28708",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "JRClarkDiss.pdf",
+    "JRCPerm.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dielectric Waveguide",
+    "Pulse Propagation",
+    "Dispersion Characteristics",
+    "Double Negative Metamaterials"
+  ],
+  "title": "Double Negative Metamaterials in Dielectric Waveguide Configurations",
+  "type": "Dissertation"
+}

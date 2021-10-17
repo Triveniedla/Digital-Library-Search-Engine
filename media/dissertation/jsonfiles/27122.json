@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Ransbottom, J. Scot",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Woerner, Brian D.",
+    "Hou, Yiwei Thomas",
+    "Varadarajan, Srinidhi",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:26Z",
+  "date_adate": "2004-04-27",
+  "date_available": "2014-03-14T20:10:26Z",
+  "date_issued": "2004-04-21",
+  "date_rdate": "2004-04-27",
+  "date_sdate": "2004-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research considered the efficient transmission of data within a wireless local area network (WLAN) system. A simulation model was developed to study the performance of our protocol, AGG-MAC (aggregated medium access control).  AGG-MAC is a simple and elegant medium access control (MAC) protocol designed to improve performance by transmitting a maximal quantity of data with minimal overhead. Our enhancement to IEEE 802.11, AGG-MAC yields dramatic improvements in both local and global throughput.  It furthermore reduces jitter in support of real time communications requirements such as voice over IP (VoIP).  In support of heterogeneous roaming between Third Generation (3G) Wideband CDMA (WCDMA), specifically Universal Mobile Telecommunications System (UMTS) and WLAN systems, we constructed a simulation environment which allowed the evaluation of AGG-MAC in such a system. We further demonstrated the suitability of AGG-MAC throughout a range of infrastructure and ad hoc based WLAN scenarios.  The AGG-MAC protocol enhancement provides significant performance improvements across a range of wireless applications, while interoperating with standard IEEE 802.11 stations. Performance is commensurate to original WLAN MAC performance for applications that do not benefit from packet level aggregation. <P>     The key contributions of this research were two-fold. First was the development of an OPNET simulation environment suitable for evaluation of future protocols supporting tightly coupled, heterogeneous WLAN and 3G systems.  Secondly was the implementation and testing of the AGG-MAC protocol which aggregates suboptimal size packets together into a single frame, thereby amortizing the overhead.",
+  "description_provenance": [
+    "Author Email: ransbottom@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: srinidhi@cs.vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:26Z (GMT). No. of bitstreams: 1 Ransbottom_Dissertation_Final.pdf: 2182206 bytes, checksum: cd391c15cc94b85325ab598fe56d5531 (MD5)   Previous issue date: 2004-04-21"
+  ],
+  "handle": "27122",
+  "identifier_other": "etd-04222004-021140",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04222004-021140/",
+  "identifier_uri": "http://hdl.handle.net/10919/27122",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ransbottom_Dissertation_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Protocol",
+    "UMTS",
+    "3G",
+    "Aggregation",
+    "WLAN"
+  ],
+  "title": "Mobile Wireless System Interworking with 3G and Packet Aggregation for Wireless LAN",
+  "type": "Dissertation"
+}

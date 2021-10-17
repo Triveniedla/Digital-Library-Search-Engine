@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Du, Yu",
+  "contributor_committeechair": "Burdisso, Ricardo A.",
+  "contributor_committeecochair": "Nikolaidis, Efstratios",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Inman, Daniel J.",
+    "Leo, Donald J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:25Z",
+  "date_adate": "2003-05-06",
+  "date_available": "2014-03-14T20:11:25Z",
+  "date_issued": "2003-04-22",
+  "date_rdate": "2004-05-06",
+  "date_sdate": "2003-05-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Conventional isolation models deal with massless isolators, which tend to overestimate the isolator performance because they neglect the internal resonances (IRs) due to the inertia of the isolator. Previous researches on the IR problem is not adequate because they only discussed this problem in terms of vibration based on single degree-of-freedom (SDOF) models. These studies did not reveal the importance of the IRs, especially from the perspective of the noise radiation. This dissertation is novel compared to previous studies in the following ways: (a) a three-DOF (3DOF) model, which better represents practical vibration systems, is employed to investigate the importance of the IRs; (b) the IR problem is studied considering both vibration and noise radiation; and (c) passive and hybrid control approaches using dynamic vibration absorbers (DVAs) to suppress the IRs are investigated and their potential demonstrated.  The 3DOF analytical model consists of a rigid primary mass connected to a flexible foundation through three isolators. To include the IRs, the isolator is modeled as a continuous rod with longitudinal motion. The force transmissibility through each isolator and the radiated sound power of the foundation are two criteria used to show the effects and significance of the IRs on isolator performance. Passive and hybrid DVAs embedded in the isolator are investigated to suppress the IRs. In the passive approach, two  DVAs are implemented and their parameters are selected so that the IRs can be effectively attenuated without significantly degrading the isolator performance at some other frequencies that are also of interest. It is demonstrated that the passive DVA enhanced isolator performs much better than the conventional isolator in the high frequency range where the IRs occur. The isolator performance is further enhanced by inserting an active force pair between the two passive DVA masses, forming the hybrid control approach. The effectiveness and the practical potential of the hybrid system are demonstrated using a feedforward control algorithm. It is shown that this hybrid control approach not only is able to maintain the performance of the passive approach, but also significantly improve the isolator performance at low frequencies.",
+  "description_provenance": [
+    "Author Email: yudu@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: enikolai@eng.utoledo.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:25Z (GMT). No. of bitstreams: 1 etd_Du.pdf: 3126811 bytes, checksum: fa072313daaba2f34911604ea9f18ea5 (MD5)   Previous issue date: 2003-04-22"
+  ],
+  "handle": "27493",
+  "identifier_other": "etd-05022003-143638",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05022003-143638/",
+  "identifier_uri": "http://hdl.handle.net/10919/27493",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd_Du.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dynamic vibration absorber",
+    "wave effect",
+    "vibration isolation",
+    "hybrid control",
+    "internal resonance",
+    "noise control",
+    "passive control",
+    "rubber isolator"
+  ],
+  "title": "Internal Resonances in Vibration Isolators and Their Control Using Passive and Hybrid Dynamic Vibration Absorbers",
+  "type": "Dissertation"
+}

@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Suh, Jung Wook",
+  "contributor_committeechair": "Wyatt, Christopher L.",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Beex, A. A. Louis",
+    "Martin, Thomas L.",
+    "Gao, David Y."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:18:27Z",
+  "date_adate": "2007-11-21",
+  "date_available": "2014-03-14T20:18:27Z",
+  "date_issued": "2007-10-25",
+  "date_rdate": "2007-11-21",
+  "date_sdate": "2007-11-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "State-of-the-art three-dimensional endo-luminal virtual colonoscopy (VC) or CT colonography (CTC) is a minimally invasive medical procedure that examines the entire colon in order to detect polyps and colorectal cancer. Most colon cancers malignantly transform from polyps, which are extra growths on the surface of the mucous membrane. Three dimensional endoscopic colon lumen interior images offered by CTC allow physicians to examine the colon interactively. Thus, CTC has several advantages over conventional optical colonoscopy including reduced risk. One of the challenging problems that prevent practical use in clinical situations is the complexity of the human colon. The colonâ  s deformation by peristalsis and the diverse shapes of polyps make it difficult to distinguish polyps from other non-threatening entities in the colon. Hence, most CTC protocols acquire both prone and supine images to improve the visualization of the lumen wall, reduce false positives, and improve sensitivity. Comparisons between the prone and supine images can be facilitated by computerized registration between the scans. In this dissertation, two algorithms for registering colons segmented from prone and supine images are presented. First is an algorithm for three dimensional registration of the prone and supine colon when both are well distended and there is a single connected lumen. Second is another registration algorithm between colons with topological differences caused by inadequate bowel preparation or peristalsis. Such topological changes make deformable registrations of the colons difficult, and at present there are no registration algorithms which can accommodate them. The first algorithm uses feature matching of the colon centerline and a modified version of the demons deformable registration algorithm to define a deformation field between the prone and supine lumen surface. The second method utilizes embedded map representation of colon volume. The two proposed colon registration methods will contribute to improving the accuracy of the computerized registration process and increasing the versatility of the clinical use of CT colonoscopy.",
+  "description_provenance": [
+    "Author Email: jwsuh@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Advisor Email: clwyatt@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:27Z (GMT). No. of bitstreams: 1 CorrectedETD2.pdf: 2617459 bytes, checksum: f2554d425b38e94e063a4bbb299b4567 (MD5)   Previous issue date: 2007-10-25"
+  ],
+  "handle": "29548",
+  "identifier_other": "etd-11122007-171441",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11122007-171441/",
+  "identifier_uri": "http://hdl.handle.net/10919/29548",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CorrectedETD2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Image registration",
+    "CT colonography",
+    "Virtual colonoscopy"
+  ],
+  "title": "Deformable Registration of Supine and Prone Colons for CT Colonography",
+  "type": "Dissertation"
+}

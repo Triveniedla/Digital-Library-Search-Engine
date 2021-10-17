@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Xiao, Pei",
+  "contributor_committeechair": "Reynolds, Marion R",
+  "contributor_committeemember": [
+    "Kim, Dong-Yun Han",
+    "Du, Pang",
+    "Woodall, William H"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2013-03-07T09:00:07Z",
+  "date_available": "2013-03-07T09:00:07Z",
+  "date_issued": "2013-03-06",
+  "degree_discipline": "Statistics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In multivariate statistical process control it is generally assumed that the process variables follow a multivariate normal distribution with mean vector \" and covariance matrix •, but this is rarely satisfied in practice. Some robust control charts have been developed to monitor the mean and variance of univariate processes, or the mean vector \" of multivariate processes, but the development of robust multivariate charts for monitoring • has not been adequately addressed. The control charts that are most affected by departures from normality are actually the charts for • not the charts for \". In this article, the robust design of several MEWMA-type control charts for monitoring • is investigated. In particular, the robustness and efficiency of different MEWMA-type control charts are compared for the in-control and out-of-control cases over a variety of multivariate distributions. Additionally, the total extra quadratic loss is proposed to evaluate the overall performance of control charts for multivariate processes.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-07T09:00:07Z (GMT). No. of bitstreams: 1 Xiao_P_D_2013.pdf: 6000407 bytes, checksum: d4482ac927ea32fcdc56203e3d3049ce (MD5)   Previous issue date: 2013-03-06",
+  "format_medium": "ETD",
+  "handle": "19280",
+  "identifier_other": "vt_gsexam:338",
+  "identifier_uri": "http://hdl.handle.net/10919/19280",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Multivariate control chart",
+    "non-normal processes",
+    "Robustness",
+    "Quadratic loss"
+  ],
+  "title": "Robust MEWMA-type Control Charts for Monitoring the Covariance Matrix of Multivariate Processes",
+  "type": "Dissertation"
+}

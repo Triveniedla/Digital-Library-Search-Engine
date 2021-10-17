@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Huang, Zhengyu",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Jacobs, Ira",
+    "Pickrell, Gary R.",
+    "Heflin, James R.",
+    "Liu, Yilu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:37Z",
+  "date_adate": "2006-03-23",
+  "date_available": "2014-03-14T20:07:37Z",
+  "date_issued": "2006-02-06",
+  "date_rdate": "2006-03-23",
+  "date_sdate": "2006-02-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The motivation of this research is to meet the growing demand for the measurand high-resolution, high-spatial resolution, attenuation insensitive and low-cost quasi-distributed temperature and strain sensors that can reliably work under harsh environment or in extended structures. There are two main drives for distributed fiber sensor research. The first is to lower cost-per-sensor so that the fiber sensors may become price-competitive against electrical sensors in order to gain widespread acceptance. The second is to obtain spatial distribution of the measurand. This dissertation presents detailed research on the design, modeling, analysis, system implementation, sensor fabrication, performance evaluation, sensor field test and noise analysis of a quasi-distributed intrinsic Fabry-Perot interferometric (IFPI) fiber sensor suitable for temperature and strain measurement. For the first time to our knowledge, an IFPI sensor using a different type of fiber spliced in between two single-mode fibers is proposed and tested. The proposed sensor has high measurement accuracy, excellent repeatability, a large working range and a low insertion-loss. It requests no annealing after the sensor is made, and the sensor is calibration-free. The sensor fabrication is low-cost and has a high yield rate. The goal for this research is to bring this sensor to a level where it will become commercially viable for quasi-distributed sensing applications.",
+  "description_provenance": [
+    "Author Email: zhhuang1@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: pickrell@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:37Z (GMT). No. of bitstreams: 4 abstract.pdf: 38439 bytes, checksum: d1818677a212af222c24643a855a2ebb (MD5) dissertation.pdf: 2434754 bytes, checksum: b226070784f400d2c2de27d192ab0d35 (MD5) contents.pdf: 116184 bytes, checksum: 840c890635d60e84c38909b8cf01aa9a (MD5) cover.pdf: 23002 bytes, checksum: f7f5d09aa600269a039548e3c86cd389 (MD5)   Previous issue date: 2006-02-06"
+  ],
+  "handle": "26247",
+  "identifier_other": "etd-02192006-201938",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02192006-201938/",
+  "identifier_uri": "http://hdl.handle.net/10919/26247",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "abstract.pdf",
+    "dissertation.pdf",
+    "contents.pdf",
+    "cover.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "interferometry",
+    "Fabry-Perot",
+    "Quasi-Distributed",
+    "Temperature",
+    "Fiber optic sensors",
+    "Strain"
+  ],
+  "title": "Quasi-Distributed Intrinsic Fabry-Perot Interferometric Fiber Sensor for Temperature and Strain Sensing",
+  "type": "Dissertation"
+}

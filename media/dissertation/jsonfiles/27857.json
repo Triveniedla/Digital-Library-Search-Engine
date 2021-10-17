@@ -1,0 +1,45 @@
+{
+  "contributor_author": "GrÃ¶ner, Markus K.",
+  "contributor_committeechair": "Arthur, James D.",
+  "contributor_committeemember": [
+    "Rosenberg, Linda H.",
+    "Lee, John A. N.",
+    "Nance, Richard E.",
+    "Rosson, Mary Beth"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:12:29Z",
+  "date_adate": "2002-05-29",
+  "date_available": "2014-03-14T20:12:29Z",
+  "date_issued": "2002-05-10",
+  "date_rdate": "2003-05-29",
+  "date_sdate": "2002-05-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Product quality is directly related to how well that product meets the customerâ  s needs and intents.  It is paramount, therefore, to capture customer requirements correctly and succinctly.  Unfortunately, most development models tend to avoid, or only vaguely define the process by which requirements are generated.  Other models rely on formalistic characterizations that require specialized training to understand.  To address such drawbacks we introduce the Requirements Generation Model (RGM) that (a) decomposes the conventional â  requirements analysisâ   phase into sub-phases which focus and refine requirements generation activities, (b) constrains and structures those activities, and (c) incorporates a monitoring methodology to assist in detecting and resolving deviations from process activities defined by the RGM.  We present an empirical study of the RGM in an industrial setting, and results derived from this study that substantiate the effectiveness of the RGM in producing a better set of requirements.",
+  "description_provenance": [
+    "Author Email: vt@groeners.org.",
+    "Advisor Email: Linda.H.Rosenberg.1@gsfc.nasa.gov",
+    "Advisor Email: janlee@cs.vt.edu",
+    "Advisor Email: nance@cs.vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: rosson@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:29Z (GMT). No. of bitstreams: 1 Markus_K._Groener_Dissertation.pdf: 319715 bytes, checksum: 5cd806a22d40e3da5539405a471efec4 (MD5)   Previous issue date: 2002-05-10"
+  ],
+  "handle": "27857",
+  "identifier_other": "etd-05232002-234024",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05232002-234024/",
+  "identifier_uri": "http://hdl.handle.net/10919/27857",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Markus_K._Groener_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "software development lifecycle",
+    "methodology",
+    "software engineering",
+    "requirements engineering"
+  ],
+  "title": "Capturing Requirements Meeting Customer Intent: A Methodological Approach",
+  "type": "Dissertation"
+}

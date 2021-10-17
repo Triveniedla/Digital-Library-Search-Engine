@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Sajdak, John Anthony Waltham",
+  "contributor_committeechair": "Brown, Alan J.",
+  "contributor_committeemember": [
+    "Johnson, Eric R.",
+    "West, Robert L. Jr.",
+    "Kapania, Rakesh K.",
+    "Hughes, Owen F."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:03Z",
+  "date_adate": "2005-01-13",
+  "date_available": "2014-03-14T20:15:03Z",
+  "date_issued": "2004-07-29",
+  "date_rdate": "2005-01-13",
+  "date_sdate": "2004-08-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The overall objective of this thesis is to develop, validate and assess a probabilistic collision damage model to support ongoing work by the Society of Naval Architecture and Marine Engineering (SNAME) Ad Hoc Panel #6 and IMO working groups. It is generally agreed that structural design has a major influence on tanker oil outflow and damaged stability in grounding and collision, but crashworthiness is not considered in present regulations.  The proposed methodology provides a practical means of considering structural design in a regulatory framework, and when implemented would improve the safety and environmental performance of ships.  This thesis continues the development and applies a Simplified Collision Model (SIMCOL) to calculate damage extent (transverse, vertical and longitudinal) and oil outflow in ship collisions. The primary contribution of this thesis is the development and validation of a theory for the determination of energy absorbed in longitudinal extent of damage, and the implementation of the theory within SIMCOL.  <p> SIMCOL is sufficiently fast to be applied to thousands of collision cases as is required for a probabilistic analysis. The following specific tasks were completed using SIMCOL in support of this project: <p> Â· Completed the development of SIMCOL Version 3.0 including:      1) Deformable Bow sub model      2) Implementation and validation of theory for the determination of energy absorbed         in longitudinal extent of damage. Â· Developed the capability to model collision events using LSDYNA. Â· Validated Virginia Tech LSDYNA ship collision modeling procedure. Â· Validated SIMCOL using real collision data, and probabilistic collision data for   penetrating collisions.",
+  "description_provenance": [
+    "Author Email: jsajdak@vt.edu",
+    "Advisor Email: brown@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:03Z (GMT). No. of bitstreams: 1 jaws_Dissertation.pdf: 32948200 bytes, checksum: c555b3d4067647fffdbbda6008b3538c (MD5)   Previous issue date: 2004-07-29"
+  ],
+  "handle": "28614",
+  "identifier_other": "etd-08112004-113055",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08112004-113055/",
+  "identifier_uri": "http://hdl.handle.net/10919/28614",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "jaws_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "damage",
+    "collision",
+    "longitudinal",
+    "deformation",
+    "bow",
+    "ship"
+  ],
+  "title": "Analyses of Ship Collisions: Determination of Longitudinal Extent of Damage and Penetration",
+  "type": "Dissertation"
+}

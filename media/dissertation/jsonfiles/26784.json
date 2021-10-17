@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Hubble, David Owen",
+  "contributor_committeechair": "Diller, Thomas E.",
+  "contributor_committeecochair": "Vlachos, Pavlos P.",
+  "contributor_committeemember": [
+    "Simpson, Roger L.",
+    "Huxtable, Scott T.",
+    "Dancey, Clinton L.",
+    "Stremler, Mark A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:25Z",
+  "date_adate": "2011-04-29",
+  "date_available": "2014-03-14T20:09:25Z",
+  "date_issued": "2011-02-08",
+  "date_rdate": "2011-04-29",
+  "date_sdate": "2011-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The mechanism by which convective heat transfer is augmented by freestream turbulence in the stagnation region was studied experimentally. Previous work has suggested that the primary mechanism for the observed augmentation is the amplification of vorticity into strong vortices which dominate the flow field near the surface. Therefore, two separate experimental investigations were performed to further study this phenomenon. In the first, the spatiotemporal convection from a heated surface was measured during the normal collision of a vortex ring. The convection was observed to increase dramatically in areas where vortices forced outer fluid through the natural convection boundary layer to the surface. Regions where fluid was swept along the surface experienced much smaller increases in convection. These observations led to the development of a mechanistic model which predicted the heat transfer based on the amount of time that fluid remained within the thermal boundary layer prior to reaching the surface. In subsequent testing, the model was able to accurately predict the time-resolved convection based solely on the transient properties of the vortex present. In the second investigation, the model was applied to the vortices which form in a stagnating turbulent flow. Three turbulence conditions were tested which changed the properties of the vortices produced. Again, the model was successful in predicting the time-resolved convection over much of the experimental measurement time.  The work of designing and calibrating the heat flux sensor used is also reported. A new sensor was developed specifically for the convection research performed herein as no existing sensor possessed the required spatiotemporal resolution and underwater capabilities. Utilizing spot-welded foils of thermoelectric alloys resulted in a very robust and sensitive sensing array which was thoroughly analyzed and calibrated. In the final section, the hybrid heat flux (HHF) method is presented which significantly increases the performance of existing heat flux sensors. It is shown (both numerically and experimentally) that by combining the spatial and temporal temperature measurements from a standard sensor, the time response increases by up to a factor of 28. Also, this method causes the sensor to be insensitive to the material to which it is mounted.",
+  "description_provenance": [
+    "Author Email: dhubble@vt.edu",
+    "Advisor Email: rosimso@vt.edu",
+    "Advisor Email: huxtable@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Advisor Email: stremler@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:25Z (GMT). No. of bitstreams: 1 Hubble_DO_D_2011.pdf: 10105692 bytes, checksum: b393dc1aad1dd5523ed9bd3717834a41 (MD5)   Previous issue date: 2011-02-08"
+  ],
+  "handle": "26784",
+  "identifier_other": "etd-04112011-165403",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112011-165403/",
+  "identifier_uri": "http://hdl.handle.net/10919/26784",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hubble_DO_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "heat transfer",
+    "mechanism",
+    "turbulence",
+    "heat flux sensor",
+    "particle image velocimetry",
+    "time-resolved",
+    "vortex"
+  ],
+  "title": "An experimental investigation of the mechanism of heat transfer augmentation by coherent structures",
+  "type": "Dissertation"
+}

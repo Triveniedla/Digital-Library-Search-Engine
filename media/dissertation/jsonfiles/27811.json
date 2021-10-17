@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Elsayed, Mohamed Aly Khamis",
+  "contributor_committeecochair": [
+    "Ragab, Saad A.",
+    "Hajj, Muhammad R."
+  ],
+  "contributor_committeemember": [
+    "Renardy, Yuriko Y.",
+    "Masoud, Ziyad N.",
+    "Tieleman, Henry W.",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:12:19Z",
+  "date_adate": "2005-05-27",
+  "date_available": "2014-03-14T20:12:19Z",
+  "date_issued": "2005-05-13",
+  "date_rdate": "2007-05-27",
+  "date_sdate": "2005-05-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Unsteady large-scale vortices, formed by the roll-up of free shear layers separating along sharp edges, are the dominant flow characteristics of the turbulent flow over buildings. These vortical structures interact with each other and with the building surface resulting in secondary separation and severe pressure fluctuations. Moreover, the interaction of the large-scale vortices with the multiplicity of turbulence scales in the incoming wind exacerbates their unsteady motion and hence significantly affects the pressure fluctuations spectra experienced by the building.   Large-eddy simulations are conducted to study the interaction of homogeneous turbulence in the incident flow with a surface-mounted prism. A compact fifth-order upwind difference scheme is used to effectively and accurately perform the simulations. Three cases of incident flow are considered. In one case, the prism is placed in a smooth uniform flow. In the second case, homogeneous isotropic turbulence with von Karman spectrum is superimposed on the uniform flow at the inflow boundary. The integral length scale is one-half the prism height. In the third case, the integral length scale is equal to the prism height.    The numerical results are compared with experimental measurements reported by Tieleman et al. (2002). The results show that the highest negative mean value of the pressure coefficient on the roof and the sides is about 30% larger in case two of turbulent inflow and takes place closer to the windward edge of the prism. Moreover, the pressure coefficients on the roof and sides of the prism in the case of turbulent inflow show a higher level of variations in comparison with the case of smooth inflow conditions. The predicted mean characteristics of the pressure coefficients in the turbulent case match the experimental values in terms of both magnitude and location on the roof of the prism reported in Tieleman et al. (1998) and Tieleman et al. (2002). As for the peak value, the peak value of -2 obtained in the turbulent inflow case two is about 20% smaller than the values measured experimentally by Tieleman et al. (2002). On the other hand, it is stressed that the peak value in the simulations would increase as the duration of the simulation is increased to match that of the experimental measurement. The results also show that the turbulent case yields a non-exceedence probability for the peak pressure coefficient that is closer to the one obtained from the measured data than the smooth case data.  Also, spectral and cross-spectral analysis are carried out using complex Morlet wavelet transform to investigate pressure-velocity relation. The study shows that the nonlinearity in the relationship of velocity-pressure is detected using wavelet bicoherence.",
+  "description_provenance": [
+    "Author Email: melsayed@vt.edu",
+    "Advisor Email: renardyy@math.vt.edu",
+    "Advisor Email: zmasoud@vt.edu",
+    "Advisor Email: tieleman@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:19Z (GMT). No. of bitstreams: 1 thesis.pdf: 25018200 bytes, checksum: 8a02b35c6849ec3de0fb27c6a341c5b6 (MD5)   Previous issue date: 2005-05-13"
+  ],
+  "handle": "27811",
+  "identifier_other": "etd-05202005-123103",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05202005-123103/",
+  "identifier_uri": "http://hdl.handle.net/10919/27811",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wind loads",
+    "bicoherence",
+    "wavelet analysis",
+    "peak pressures",
+    "large eddy simulation"
+  ],
+  "title": "Large Eddy Simulation and Wavelet Analysis of the Flow Field around a Surface Mounted Prism",
+  "type": "Dissertation"
+}

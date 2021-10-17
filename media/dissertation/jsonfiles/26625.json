@@ -1,0 +1,57 @@
+{
+  "contributor_author": "Wang, Xiaodong",
+  "contributor_committeechair": "Etzkorn, Felicia A.",
+  "contributor_committeemember": [
+    "Crawford, Daniel T.",
+    "Carlier, Paul R.",
+    "Tanko, James M.",
+    "Kingston, David G. I."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:08:51Z",
+  "date_adate": "2005-04-12",
+  "date_available": "2014-03-14T20:08:51Z",
+  "date_issued": "2005-03-04",
+  "date_rdate": "2006-04-12",
+  "date_sdate": "2005-04-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Pin1 (protein interacting with NIMA 1) is a peptidyl-prolyl isomerase involved in mitosis. As a potential anti-cancer drug target, Pin1 interacts and regulates the activity of an increasing number of cell cycle enzymes by an unknown mechanism. These cell cycle enzymes include Cdc25, Cdc27, Cyclin D1, Myt1, Wee1, NIMA, Cdc2, Plk1 and c-Myc. Recent research has revealed that Pin1 is overexpressed in a variety of cancer cell lines and Pin1 inhibitors inhibit proliferation activity of several cancer cells overexpressing Pin1. The most potent Pin1 inhibitors identified so far are in the micromolar range and no pharmacophore has been identified. <p>In order to assist the understanding of the biological function of Pin1 using molecular probes, two amide isosteres of Ser-trans-Pro and Ser-cis-Pro dipeptides were designed and stereoselectively synthesized. The conformationally locked Serâ  transâ  Pro mimic, Bocâ  SerY[(E)CH=C]Proâ  OH, was synthesized through the use of an Ireland-Claisen [3,3]-sigmatropic rearrangement in nine steps with 13% overall yield from a serine derivative. The Ser-cis-Pro mimic, Bocâ  SerY[(Z)CH=C]Proâ  OH, was synthesized through the use of a Still-Wittig [2,3]-sigmatropic rearrangement in 11 steps with an overall yield of  20% from the same starting material.</p>    <p>Conformationally locked peptidomimetics, including two exactly matched peptidomimetics, Acâ  Pheâ  Pheâ  pSer&Psi;(E)CH=C]Proâ  Argâ  NH2 and Acâ  Pheâ  Pheâ  pSer&Psi;[(Z)CH=C]Proâ  Argâ  NH2, were synthesized from these Ser-Pro isosteres using Fmoc SPPS. A protocol for in vitro Pin1 inhibition assay was established for measuring the inhibition constant for these peptidomimetics. A conformationally locked cis peptidomimetic inhibits Pin1 with a Ki of 1.7 mM, 23-fold more potent than its trans counterpart, illustrating the preference of Pin1 for a cis amide bond in its PPIase domain. The A2780 ovarian cancer cell antiproliferation activity of these peptidomimetics parallels their respective Pin1 inhibition data. This research provides a start toward more drug-like Pin1 inhibitor design. Glyâ  transâ  Pro isosteres were synthesized using the Ireland-Claisen route. The construction of a non-peptidic (Z)-alkene library for Pin1 inhibition was attempted using the Ser-cis-Pro mimic, Boc&mdash;Ser&Psi;[(Z)CH=C]Proâ  OH as the core.</p>",
+  "description_provenance": [
+    "Author Email: xiwang5@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Advisor Email: fetzkorn@vt.edu",
+    "Advisor Email: pcarlier@vt.edu",
+    "Advisor Email: jtanko@vt.edu",
+    "Advisor Email: dkingston@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:51Z (GMT). No. of bitstreams: 3 appendix2.pdf: 197431 bytes, checksum: 5f0ce07fd9f1b5ab843c26f50cd60f65 (MD5) appendix1.pdf: 668835 bytes, checksum: 211026825c5f47ca8d547160941b31f7 (MD5) Main-text.pdf: 1901168 bytes, checksum: 157d60af365dba4a6a74d44f5b82d87e (MD5)   Previous issue date: 2005-03-04"
+  ],
+  "handle": "26625",
+  "identifier_other": "etd-04042005-190608",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04042005-190608/",
+  "identifier_uri": "http://hdl.handle.net/10919/26625",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "appendix2.pdf",
+    "appendix1.pdf",
+    "Main-text.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "conformation",
+    "collagen",
+    "inhibition",
+    "assay",
+    "Ser-trans-Pro",
+    "Ser-cis-Pro",
+    "peptidomimetics",
+    "solid phase peptide synthesis",
+    "cell cycle",
+    "Pin1",
+    "isosteres",
+    "mimic"
+  ],
+  "title": "Design, Syntheses, and Bioactivities of Conformationally Locked Pin1 Ground State Inhibitors",
+  "type": "Dissertation"
+}

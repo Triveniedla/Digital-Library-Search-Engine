@@ -1,0 +1,46 @@
+{
+  "contributor_author": "McLendon, Patrick Michael",
+  "contributor_committeechair": "Theresa M. Reineke",
+  "contributor_committeemember": [
+    "Timothy E. Long",
+    "Kevin J. Edgar",
+    "Capelluto, Daniel G. S.",
+    "Jeffrey R. Kuhn"
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:17:53Z",
+  "date_adate": "2009-11-30",
+  "date_available": "2014-03-14T20:17:53Z",
+  "date_issued": "2009-10-20",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-11-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Understanding the biological mechanisms of polymeric DNA delivery is essential to develop vehicles that perform optimally.  In this work, the cellular internalization mechanisms of poly(glycoamidoamine) (PGAA) DNA delivery polymers were investigated.  Polymer:DNA complexes interact with cell-surface glycosaminoglycans (GAGs) in a manner independent of electrostatic interactions.   Desulfation and GAG removal leads to decreased uptake.  Individual polyplexes appear to have differing affinities for specific GAGs, as polyplex dissociation occurs in a charge-independent manner, and may influence binding.  Internalization occurs through close interactions with GAGs, as GAGs accumulate on polyplex surfaces, resulting in negatively-charged polyplexes and decompaction of intact polyplexes is observed upon interaction with GAG.   <p>\tPGAA polyplexes enter cells via a complex, multifaceted internalization route.  Pharmacological inhibition of endocytosis and visualization by confocal microscopy reveal  that internalization occurs primarily through an actin and dynamin-dependent mechanism.  Caveolae/raft-mediated endocytosis appears to be the predominant internalization mechanism, with clathrin-mediated endocytosis also significantly involved.  Internalization occurs to a smaller degree via macropinocytosis and direct membrane penetration.  Caveolae-mediated, but not clathrin-mediated, internalization leads to transgene expression, suggesting a targeting opportunity based on uptake mechanisms. <p>\tPEGylation of PGAA polyplexes was achieved to minimize polyplex aggregation in serum.  Polyplex size increased in serum, but PEGylation prevented further polyplex growth over time compared to non-PEGylated polymers.  Specific targeting of hepatocytes through end-modification of PEG with galactose was unsuccessful, likely due to inaccessibility of targeting groups.  Further hepatocyte targeting efforts focused on malonate-based polymers with clickable linkages for facile linkage of targeting groups.  Despite favorable surface presentation of galactose, receptor-specific internalization of polyplexes was unsuccessful, as competitive inhibition in HepG2 cells resulted in significant polyplex internalization derived from nonspecific membrane interactions. <p>\tChemical modification of vehicles allows systematic study of structure-function properties leading to efficient intracellular delivery.  Increasing G4 molecular weight generally increases toxicity and decreases transgene expression in HeLa cells.  Incorporating galactose into a lanthanide-chelating polymer facilitated efficient cellular internalization that was visualized by two-photon microscopy.  Increased gene expression was observed that correlated to increasing galactose, suggesting that polymer degradation increases gene expression. Also studied were branched peptides targeted to HIV-1 TAR, which displayed high biocompatibility and favorable internalization profiles in mammalian cells.",
+  "description_provenance": [
+    "Author Email: mclendpm@vt.edu",
+    "Advisor Email: telong@vt.edu",
+    "Advisor Email: kjedgar@vt.edu",
+    "Advisor Email: treineke@vt.edu",
+    "Advisor Email: capellut@vt.edu",
+    "Advisor Email: jrkuhn@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:53Z (GMT). No. of bitstreams: 1 McLendon_PM_D_2009.pdf: 13029476 bytes, checksum: 2acee6358aef4dbf9f83e7f3921a2d3e (MD5)   Previous issue date: 2009-10-20"
+  ],
+  "handle": "29436",
+  "identifier_other": "etd-11022009-202351",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11022009-202351/",
+  "identifier_uri": "http://hdl.handle.net/10919/29436",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "McLendon_PM_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "-viral DNA Delivery",
+    "Poly(glycoamidoamine)",
+    "Endocytosis",
+    "Glycosaminoglycan",
+    "Asialoglycoprotein Targeting"
+  ],
+  "title": "Cationic Glycopolymers for DNA Delivery: Cellular Internalization Mechanisms and Biological Characterization",
+  "type": "Dissertation"
+}

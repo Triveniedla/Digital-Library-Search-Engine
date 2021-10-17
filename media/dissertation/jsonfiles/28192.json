@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Vasavada, Yash M",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Beex, A. A. Louis",
+    "Tranter, William H.",
+    "Stutzman, Warren L.",
+    "Rossi, John F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:42Z",
+  "date_adate": "2012-07-17",
+  "date_available": "2014-03-14T20:13:42Z",
+  "date_issued": "2012-05-21",
+  "date_rdate": "2012-07-17",
+  "date_sdate": "2012-07-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation proposes an iterative confidence passing (ICP) approach for parameter estimation. The dissertation describes three different algorithms that follow from this ICP approach. These three variations of the ICP approach are applied to (a) macrodiversity and user cooperation diversity reception problems, (b) the co-operative multipoint MIMO reception problem (pertinent to the LTE Advanced system scenarios), and (c) the satellite beamforming problem. The first two of these three applications are some of the significant open DSP research problems that are currently being actively pursued in academia and industry. This dissertation demonstrates a significant performance improvement that the proposed ICP approach delivers compared to the existing known techniques.  The proposed ICP approach jointly estimates (and, thereby, separates) two sets of unknown parameters from the receiver measurements. For applications (a) and (b) mentioned above, one set of unknowns is comprised of the discrete-valued information-bearing transmitted symbols in a multi-channel communication system, and the other set of unknown parameters is formed by the coefficients of a Rayleigh or Rician fading channel. Application (a) is for interference-free, cooperative or macro, transmit or receive, diversity scenarios. Application (b) is for MIMO systems with interference-rich reception. Finally, application (c) is for an interference-free spacecraft array calibration system model in which both the sets of unknowns are complex continuous valued variables whose magnitude follows the Rician distribution.  The algorithm described here is the outcome of an investigation for solving a difficult channel estimation problem. The difficulty of the estimation problem arises because (i) the channel of interest is intermittently observed, and (ii) the partially observed information is not directly of the channel of interest; it has dependency on another unknown and uncorrelated set of complex-valued random variables.  The proposed ICP algorithmic approach for solving the above estimation problems is based on an iterative application of the Weighted Least Squares (WLS) method. The main novelty of the proposed algorithm is a back and forth exchange of the confidence or the belief values in the WLS estimates of the unknown parameters during the algorithm iterations. The confidence values of the previously obtained estimates are used to derive the estimation weights at the next iteration, which generates an improved estimate with a greater confidence. This method of iterative confidence (or belief) passing causes a bootstrapping convergence to the parameter estimates.  Besides the ICP approach, several alternatives are considered to solve the above problems (a, b and c). Results of the performance simulation of the alternative methods show that the ICP algorithm outperforms all the other candidate approaches. Performance benefit is significant when the measurements (and the initial seed estimates) have non-uniform quality, e.g., when many of the measurements are either non-usable (e.g., due to shadowing or blockage) or are missing (e.g., due to instrument failures).",
+  "description_provenance": [
+    "Author Email: yash.vasavada@gmail.com",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: rossij@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:42Z (GMT). No. of bitstreams: 1 Vasavada_YV_D_2012.pdf: 46576489 bytes, checksum: df9c0d9fc3445542cd36500664b31c89 (MD5)   Previous issue date: 2012-05-21"
+  ],
+  "handle": "28192",
+  "identifier_other": "etd-07022012-113130",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07022012-113130/",
+  "identifier_uri": "http://hdl.handle.net/10919/28192",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Vasavada_YV_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Probabilistic Inference",
+    "Beamforming",
+    "Optimum Diversity Combining",
+    "MMSE",
+    "Least Squares",
+    "Bayesian Belief Theory",
+    "Iterative Estimation"
+  ],
+  "title": "An Iterative Confidence Passing Approach for Parameter Estimation and Its Applications to MIMO Systems",
+  "type": "Dissertation"
+}

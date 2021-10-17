@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Fannin, Christopher A.",
+  "contributor_committeechair": "Saunders, William R.",
+  "contributor_committeemember": [
+    "Vandsburger, Uri",
+    "Robertshaw, Harry H.",
+    "Baumann, William T.",
+    "Chelliah, Harsha"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:18Z",
+  "date_adate": "2000-07-29",
+  "date_available": "2014-03-14T20:14:18Z",
+  "date_issued": "2000-07-25",
+  "date_rdate": "2001-07-29",
+  "date_sdate": "2000-07-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A dynamic model is developed for the purpose of predicting stability characteristics of an industrial-scale, swirl-stabilized premixed combustor located at the National Energy Technology Laboratory (NETL) in Morgantown, WV.  The model consists of modular blocks that assemble into an open-loop transfer function depicting the frequency response of the thermoacoustic system.  These blocks include the system acoustic response to unsteady heat release forcing, the air-side coupling of acoustic particle velocity to inlet fuel mass fraction, transport delays present in the mixing nozzle and combustion chamber, and dynamic heat release excitation from unsteady inlet fuel mass fraction.  By examing the frequency response with linear stability techniques, the existence of limit cycles due to linear instabilities is predicted.  Further, the frequency response analysis is used to predict limit cycle frequencies in the case of predicted instability.  The analysis predictions are compared with the results of tests performed at NETL, demonstrating a capability of replicating many of the observed stability characteristics.",
+  "description_provenance": [
+    "Author Email: cfannin@vt.edu",
+    "Advisor Email: uvandsbu@vt.edu",
+    "Advisor Email: WISAUND2@VT.EDU",
+    "Advisor Email: HAROBERT@VT.EDU",
+    "Advisor Email: baumann@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:18Z (GMT). No. of bitstreams: 1 CAFannin2.pdf: 1557160 bytes, checksum: bc62c9c47ccf76c3b1396039f749d353 (MD5)   Previous issue date: 2000-07-25"
+  ],
+  "handle": "28400",
+  "identifier_other": "etd-07262000-18360041",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07262000-18360041/",
+  "identifier_uri": "http://hdl.handle.net/10919/28400",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "CAFannin2.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "time delay",
+    "stability",
+    "acoustic",
+    "heat release"
+  ],
+  "title": "Linear Modeling and Analysis of Thermoacoustic Instabilities in a Gas Turbine Combustor.",
+  "type": "Dissertation"
+}

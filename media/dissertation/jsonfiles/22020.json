@@ -1,0 +1,32 @@
+{
+  "contributor_author": "Farlow, Kasie Geralyn",
+  "contributor_committeechair": "Day, Martin V.",
+  "contributor_committeemember": [
+    "Sun, Shu Ming",
+    "Haskell, Peter E.",
+    "Ball, Joseph A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2013-05-07T08:00:39Z",
+  "date_available": "2013-05-07T08:00:39Z",
+  "date_issued": "2013-05-06",
+  "degree_discipline": "Mathematics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The Reflected Quasipotential V(x) is the solution to a variational problem that arises in the study of reflective Brownian motion. Specifically, the stationary distributions of reflected Brownian motion satisfy a large deviation principle (with respect to a spatial scaling parameter) with V(x) as the rate function. The Skorokhod Problem is an essential device in the construction and analysis of reflected Brownian motion and our value function V(x). Here we characterize V(x) as a solution to a partial differential equation H(DV(x))=0 in the positive n-dimensional orthant with appropriate boundary conditions.  H(p) is the Hamiltonian and DV(x) is the gradient of V(x). V(x) is continuous but not differentiable in general. The characterization  will need to be in terms of viscosity solutions. Solutions are not unique, thus additional qualifications will be needed for uniqueness. In order to prove our uniqueness result we consider a discounted version of V(x) in a truncated region and pass to the limit. In addition to this characterization of V(x) we explore the possibility of cyclic optimal paths in 3 dimensions.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-07T08:00:39Z (GMT). No. of bitstreams: 1  Farlow_KG_D_2013.pdf: 669552 bytes, checksum: c1f3a3db74dd7ee0353c10e6ab620f25 (MD5)    Previous issue date: 2013-05-06",
+  "format_medium": "ETD",
+  "handle": "22020",
+  "identifier_other": "vt_gsexam:349",
+  "identifier_uri": "http://hdl.handle.net/10919/22020",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "viscosity solution",
+    "Skorokhod Problem"
+  ],
+  "title": "The Reflected Quasipotential: Characterization and Exploration",
+  "type": "Dissertation"
+}

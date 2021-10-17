@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Huang, Xinyu",
+  "contributor_committeechair": "Reifsnider, Kenneth L.",
+  "contributor_committeemember": [
+    "Hasselman, D. P. H.",
+    "Lesko, John J.",
+    "Bates, Robert C.",
+    "Heller, Robert A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:06:59Z",
+  "date_adate": "2002-02-01",
+  "date_available": "2014-03-14T20:06:59Z",
+  "date_issued": "2001-12-19",
+  "date_rdate": "2003-02-01",
+  "date_sdate": "2002-01-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Porous ceramics and porous ceramic composites are emerging functional materials  that have found numerous industrial applications, especially in energy conversion  processes.  They are characterized by random microstructure and high porosity.  Examples are ceramic candle filters used in coal-fired power plants, gas-fired  infrared burners, anode and cathode materials of solid oxide fuel cells, etc.   In this research, both experimental and theoretical work have been conducted to characterize and to model the mechanical behavior and durability of this novel class of functional material.  Extensive experiments were performed on a hot gas candle filter material provided by the McDermott Technologies Inc (MTI).  Models at  micro-/meso-/macro- geometric scales were established to model the porous ceramic  material and fiber reinforced porous ceramic material. The effective mechanical  properties are of great technical interest in many applications.  Based on the  average field formalism, a computational micromechanics approach was developed to estimate  the effective elastic properties of a highly porous material with random microstructure.  A meso-level analytical model based on the energy principles was developed to estimate  the global elastic properties of the MTI filament-wound ceramic composite tube.   To deal with complex geometry, a finite element scheme was developed for porous material with strong fiber reinforcements.  Some of the model-predicted elastic  properties were compared with experimental values.  The long-term performance of ceramic  composite hot gas candle filter materials was discussed. Built upon the stress analysis  models, a coupled damage mechanics and finite element approach was presented to assess  the durability and to predict the service life of the porous ceramic composite  candle filter material.",
+  "description_provenance": [
+    "Author Email: xihuang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:59Z (GMT). No. of bitstreams: 1 xinyu.pdf: 5561762 bytes, checksum: 716115d605ca126105f2c90fc3a52fc8 (MD5)   Previous issue date: 2001-12-19"
+  ],
+  "handle": "26063",
+  "identifier_other": "etd-01292002-133751",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01292002-133751/",
+  "identifier_uri": "http://hdl.handle.net/10919/26063",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "xinyu.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mechanical properties",
+    "durability",
+    "micromechanics",
+    "ceramic matrix composites",
+    "porous ceramics",
+    "hog gas filters"
+  ],
+  "title": "Mechanics and Durability of Fiber Reinforced Porous Ceramic Composites",
+  "type": "Dissertation"
+}

@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Tanner, Edward Troy",
+  "contributor_committeecochair": [
+    "Inman, Daniel J.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Robertshaw, Harry H.",
+    "Leo, Donald J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:18:26Z",
+  "date_adate": "2003-12-02",
+  "date_available": "2014-03-14T20:18:26Z",
+  "date_issued": "2003-11-07",
+  "date_rdate": "2007-12-02",
+  "date_sdate": "2003-11-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Combining shock and vibration isolation into a single isolation system package is explored through the use of an air spring in parallel with a controlled magnetorheological fluid damper.  The benefits of combining shock and vibration isolation into a single package is discussed.  Modeling and control issues are investigated and test and simulation results are discussed.  It is shown that this hybrid isolation system provides significantly increased performance over current state-of-the-art passive systems.  Also explored is the feasibility of scavenging and storing ambient shipboard vibration energy for use in powering the isolation system. <p>  To date the literature has not adequately explored the direct design of a combined shock and vibration isolation system.  As shock and vibration isolation are typically conflicting goals, the traditional approach has been to design separate shock and vibration isolation systems and operate them in parallel.  This approach invariably leads to compromises in terms of the performance of both systems.  Additionally, while considerable research has been performed on magnetorheological fluids and devices based on these fluids, there has been little research performed on the use of these fluids in devices that are subjected to high velocities such as the velocity seen by a ship exposed to underwater near-miss explosive events.  Also missing from the literature is any research involving the scavenging and storage of ambient shipboard vibration energy.  While the focus of this work is on the use of this scavenged energy to power the subject isolation system, many other uses for this energy can be envisioned.   <p>  Experimental and analytical results from this research clearly show the advantages of this hybrid isolation system.  Drop tests show that inputs as great as 167 g's were reduced to 3.42 g's above mount at 1.11 inches of deflection using a Velocity Feedback controller suggested by the author.  When contrasted with typical test results with similar inputs, the subject isolation system achieved reductions in above mount accelerations of 300% and reductions in mount deflections of 200% over current state-of-the-art passive shipboard isolation systems.  Furthermore, simulations using a validated model of the isolation system suggest that this performance improvement can be achieved in multi-degree-of-freedom isolation systems as well.  It was shown that above mount accelerations in the vertical and athwartship directions could be effectively limited to a predefined value, while achieving the absolute minimum mount defections, using an Acceleration Limiting Bang-Bang controller suggested by the author.  Further experimentation suggests that the subject isolation system could be entirely self-powered from scavenged ambient shipboard vibration energy.  An experiment using an energy scavenging and storage system consisting of a Piezoelectric Stack Generator and a bank of ultracapacitors showed that enough energy could be harvested to power the isolation system though several shock events.",
+  "description_provenance": [
+    "Author Email: ttanner@partechinc.com",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:26Z (GMT). No. of bitstreams: 5 TannerETDCh10.pdf: 595499 bytes, checksum: af013d79d8ba0e29b16a47210c5d1848 (MD5) TannerETDCh1-4.pdf: 566109 bytes, checksum: cfc42d1b649377af45df48567b5a1be3 (MD5) TannerETDCh9.pdf: 95685 bytes, checksum: 1ae220a3c20de0379098b8652204b46a (MD5) TannerETDCh11.pdf: 176299 bytes, checksum: 4608b7298deafc294fa4464b611aabb6 (MD5) TannerETDCh5-8.pdf: 3705353 bytes, checksum: 309e13f53236d696c0ec40ea53dc50aa (MD5)   Previous issue date: 2003-11-07"
+  ],
+  "handle": "29541",
+  "identifier_other": "etd-11122003-120652",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11122003-120652/",
+  "identifier_uri": "http://hdl.handle.net/10919/29541",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "TannerETDCh10.pdf",
+    "TannerETDCh1-4.pdf",
+    "TannerETDCh9.pdf",
+    "TannerETDCh11.pdf",
+    "TannerETDCh5-8.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Magnetorheological Damper",
+    "Vibration Isolation",
+    "Shock Isolation"
+  ],
+  "title": "Combined Shock and Vibration Isolation Through the Self-Powered, Semi-Active Control of a Magnetorheological Damper in Parallel with an Air Spring",
+  "type": "Dissertation"
+}

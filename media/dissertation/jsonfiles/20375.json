@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Xiao, Jian",
+  "contributor_committeechair": "Batra, Romesh C",
+  "contributor_committeemember": [
+    "Cramer, Mark S",
+    "Adjerid, Slimane",
+    "Dillard, David A",
+    "Hendricks, Scott L"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-05-04T08:00:21Z",
+  "date_available": "2013-05-04T08:00:21Z",
+  "date_issued": "2013-05-03",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "We have developed a third-order shear and normal deformable plate/shell theory (TSNDT) incorporating all geometric nonlinearities and used it to analyze, by the finite element method (FEM), transient finite deformations of a sandwich beam with two face sheets and the core made of St. Venant-Kirchhoff materials.  A triangular cohesive zone model with stress based criterion for delamination initiation and energy based relation for complete separation is used to analyze delamination failure in a beam under mixed-mode loading. We have studied transient post-buckling deformations and delamination progression in an axially compressed and initially delaminated clamped-clamped sandwich beam.  The buckling load for transient deformations exceeds that for static deformations and the increase depends upon the loading rate.  This FE software for analyzing deformations of sandwich beam is coupled with that based on the boundary element method (BEM) for studying time-dependent deformations of water and the coupled software is used to analyze deformations of flexible curved hulls due to water slamming loads.  The water is assumed to be inviscid and incompressible and undergo irrotational deformations.  The Laplace equation for the velocity potential is numerically solved by the BEM with normal velocity and pressure assumed to be continuous across the interface between the hull and the water.  Challenging issues resolved in this work include finding the wetted surface of the hull, nonlinear deformations of the fluid due to convective part of acceleration, effects of geometric nonlinearities on hull\\'s deformations, resolution of the jet tip, as well as the initiation and propagation of delamination between the face sheets and the core.  It is found that both delamination and geometric nonlinearities significantly affect the hydrodynamic pressure acting on the hull, and transverse shear deformations contribute more to the strain energy absorbed by the core than its transverse normal deformations.  <br />We have used the discontinuous basis functions to derive the Galerkin formulation of a nonlinear problem involving simple shearing deformations of a homogeneous and isotropic thermo-elasto-visco-plastic body with uniform deformations perturbed to simulate the effect of a defect.  The resulting coupled nonlinear ordinary differential equations are integrated with respect to time by using the package, LSODE (Livermore Solver for Ordinary Differential Equations).  Computed results showing localization of deformations into narrow regions are found to agree well with those found by the FEM, and spatial variations of the shear stress are smoother than those obtained by the FEM.<br /><br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-04T08:00:21Z (GMT). No. of bitstreams: 1 Xiao_J_D_2013.pdf: 5518125 bytes, checksum: 67bc0cc068dcce6fc10613a9784a3f2c (MD5)   Previous issue date: 2013-05-03",
+  "format_medium": "ETD",
+  "handle": "20375",
+  "identifier_other": "vt_gsexam:185",
+  "identifier_uri": "http://hdl.handle.net/10919/20375",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Local slamming",
+    "Curved flexible hulls",
+    "Delamination",
+    "Fluid-structure interaction",
+    "Adiabatic shear bands"
+  ],
+  "title": "Local Water Slamming of Nonlinear Elastic Sandwich Hulls, and Adiabatic Shear Banding in Simple Shearing Deformations of Thermoelastoviscoplastic Bodies",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Park, Sung     Yeul",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Centeno, Virgilio A.",
+    "Wang, Fei Fred",
+    "Nelson, Douglas J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:11Z",
+  "date_adate": "2009-08-20",
+  "date_available": "2014-03-14T20:15:11Z",
+  "date_issued": "2009-07-27",
+  "date_rdate": "2009-08-20",
+  "date_sdate": "2009-08-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation aims to present a detailed analysis of the grid voltage disturbance in frequency domain for the current control design in the grid-tie inverter applications and to propose current control techniques in order to minimize its impact and maximize feasibility of the power conditioning system in distributed generations. Because the grid voltage is constantly changing, the inverter must be able to response to it. If the inverter is unable to respond properly, then the grid voltage power comes back to the system and damages the fuel cell power conditioning systems.  A closed-loop dynamic model for the current control loop of the grid-tie inverter has been developed. The model explains the structure of the inverter admittance terms. The disturbance of the grid voltages has been analyzed in frequency domain. The admittance compensator has been proposed to prevent the grid voltage effect. The proposed lead-lag current control with admittance compensator transfers current properly without system failure. In order to get rid of the steady-state error of the feedback current, a proportional-resonant controller (PR) has been adopted. A PR control with admittance compensation provides great performance from zero power to full power operation. In addition, active and reactive power flow controller has been proposed based on the PR controller with admittance compensation. The proposed active and reactive power flow control scheme shows a wide range power flow control from pure leading power to pure lagging power. Finally, the proposed controller scheme has been verified its feasibility in three phase grid-tie inverter applications. First of all, a half-bridge grid-tie inverter has been designed with PR controller and admittance compensation. Then three individual grid-tie inverters has been combined and produced three phase current to the three phase grid in either balanced condition or unbalanced condition. The proposed control scheme can be applied not only single phase grid-tie inverter application, but also three phase grid-tie inverter application. This research can be applicable to the photovoltaic PCS as well. This technology makes renewable energy source more plausible for distributed generations.",
+  "description_provenance": [
+    "Author Email: supark@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: wangfred@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:11Z (GMT). No. of bitstreams: 1 Supark_Dissertation.pdf: 4125113 bytes, checksum: a66cc570a025ccc4fffc91ca0c2b4dde (MD5)   Previous issue date: 2009-07-27"
+  ],
+  "handle": "28645",
+  "identifier_other": "etd-08132009-160401",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08132009-160401/",
+  "identifier_uri": "http://hdl.handle.net/10919/28645",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Supark_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Proportional-Resonant Control",
+    "Admittance Compensator",
+    "Grid-Tie Inverter",
+    "Power Conditioning System",
+    "Solid Oxide Fuel Cell",
+    "Active Power",
+    "Reactive Power"
+  ],
+  "title": "A Wide Range and Precise Active and Reactive Power Flow Controller for Fuel Cell Power Conditioning Systems",
+  "type": "Dissertation"
+}

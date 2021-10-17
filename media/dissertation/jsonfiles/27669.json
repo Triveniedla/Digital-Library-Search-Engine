@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Wang, Xiaojun",
+  "contributor_committeechair": "Renardy, Michael J.",
+  "contributor_committeemember": [
+    "Borggaard, Jeffrey T.",
+    "Rogers, Robert C.",
+    "Sun, Shu-Ming",
+    "Renardy, Yuriko Y."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:54Z",
+  "date_adate": "2012-05-22",
+  "date_available": "2014-03-14T20:11:54Z",
+  "date_issued": "2012-04-30",
+  "date_rdate": "2012-05-22",
+  "date_sdate": "2012-05-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "For simple fluids, or Newtonian fluids, the study of the Navier-Stokes equations in the high Reynolds number limit brings about two fundamental research subjects, the Euler equations and the Prandtl's system. The consideration of infinite Reynolds number reduces the Navier-Stokes equations to the Euler equations, both of which are dealing with the entire flow region. Prandtl's system consists of the governing equations of the boundary layer, a thin layer formed at the wall boundary where viscosity cannot be neglected.  In this dissertation, we investigate the upper convected Maxwell(UCM) model for complex fluids, or non-Newtonian fluids, in the high Weissenberg number limit. This is analogous to the Newtonian fluids in the high Reynolds number limit. We present two well-posedness results.  The first result is on an initial-boundary value problem for incompressible hypoelastic materials which arise as a high Weissenberg number limit of viscoelastic fluids. We first assume the stress tensor is rank-one and develop energy estimates to show the problem is locally well-posed. Then we show the more general case can be handled in the same spirit. This problem is closely related to the incompressible ideal magneto-hydrodynamics(MHD) system.    The second result addresses the formulation of a time-dependent elastic boundary layer through scaling analysis. We show the well-posedness of this boundary layer by transforming to Lagrangian coordinates. In contrast to the possible ill-posedness of Prandtl's system in Newtonian fluids, we prove that in non-Newtonian fluids the stress boundary layer problem is well-posed.",
+  "description_provenance": [
+    "Author Email: xjwang08@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: mrenardy@math.vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: renardy@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:54Z (GMT). No. of bitstreams: 1 Wang_Xiaojun_D_2012.pdf: 398213 bytes, checksum: 69326e9deca5f3981c1b5b43b49978d0 (MD5)   Previous issue date: 2012-04-30"
+  ],
+  "handle": "27669",
+  "identifier_other": "etd-05112012-110824",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05112012-110824/",
+  "identifier_uri": "http://hdl.handle.net/10919/27669",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Wang_Xiaojun_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "mollifier",
+    "symmetric hyperbolic system",
+    "curvilinear coordinates",
+    "stress boundary layer",
+    "scaling analysis",
+    "multiscale modeling",
+    "Lagrangian coordinates"
+  ],
+  "title": "Well-posedness results for a class of complex flow problems in the high Weissenberg number limit",
+  "type": "Dissertation"
+}

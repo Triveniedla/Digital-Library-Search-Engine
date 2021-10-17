@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Nuqui, Reynaldo Francisco",
+  "contributor_committeechair": "Phadke, Arun G.",
+  "contributor_committeemember": [
+    "Mili, Lamine M.",
+    "Johnson, Lee W.",
+    "Liu, Yilu",
+    "De La Ree Lopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:54Z",
+  "date_adate": "2001-07-13",
+  "date_available": "2014-03-14T20:13:54Z",
+  "date_issued": "2001-07-02",
+  "date_rdate": "2002-07-13",
+  "date_sdate": "2001-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The phasor measurement unit (PMU) is considered to be one of the most important measuring devices in the future of power systems. The distinction comes from its unique ability to provide synchronized phasor measurements of voltages and currents from widely dispersed locations in an electric power grid. The commercialization of the global positioning satellite (GPS) with accuracy of timing pulses in the order of 1 microsecond made possible the commercial production of phasor measurement units.   Simulations and field experiences suggest that PMUs can revolutionize the way power systems are monitored and controlled. However, it is perceived that costs and communication links will affect the number of PMUs to be installed in any power system.  Furthermore, defining the appropriate PMU system application is a utility problem that must be resolved. This thesis will address two key issues in any PMU initiative: placement and system applications.  A novel method of PMU placement based on incomplete observability using graph theoretic approach is proposed. The objective is to reduce the required number of PMUs by intentionally creating widely dispersed pockets of unobserved buses in the network. Observable buses enveloped such pockets of unobserved regions thus enabling the interpolation of the unknown voltages.  The concept of depth of unobservability is introduced. It is a general measure of the physical distance of unobserved buses from those known. The effects of depth of unobservability on the number of PMU placements and the errors in the estimation of unobserved buses will be shown.   The extent and location of communication facilities affects the required number and optimal placement of PMUs. The pragmatic problem of restricting PMU placement only on buses with communication facilities is solved using the simulated annealing (SA) algorithm.  SA energy functions are developed so as to minimize the deviation of communication-constrained placement from the ideal strategy as determined by the graph theoretic algorithm.  A technique for true real time monitoring of voltage security using synchronized phasor measurements and decision trees is presented as a promising system application. The relationship of widening bus voltage angle separation with network stress is exploited and its connection to voltage security and margin to voltage collapse established. Decision trees utilizing angle difference attributes are utilized to classify the network voltage security status. It will be shown that with judicious PMU placement, the PMU angle measurement is equally a reliable indicator of voltage security class as generator var production.  A method of enhancing the weighted least square state estimator (WLS-SE) with PMU measurements using a non-invasive approach is presented.  Here, PMU data is not directly inputted to the WLS estimator measurement set.  A separate linear state estimator model utilizing the state estimate from WLS, as well as PMU voltage and current measurement is shown to enhance the state estimate.  Finally, the mathematical model for a streaming state estimation will be presented.  The model is especially designed for systems that are not completely observable by PMUs.  Basically, it is proposed to estimate the voltages of unobservable buses from the voltages of those observable using interpolation.  The interpolation coefficients (or the linear state estimators, LSE) will be calculated from a base case operating point.  Then, these coefficients will be periodically updated using their sensitivities to the unobserved bus injections.  It is proposed to utilize the state from the traditional WLS estimator to calculate the injections needed to update the coefficients.  The resulting hybrid estimator is capable of producing a streaming state of the power system.  Test results show that with the hybrid estimator, a significant improvement in the estimation of unobserved bus voltages as well as power flows on unobserved lines is achieved.",
+  "description_provenance": [
+    "Author Email: rnuqui@msn.com",
+    "Advisor Email: lmili@vt.edu",
+    "Advisor Email: johnsonl@math.vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: Yilu.liu@vt.edu",
+    "Advisor Email: jreelope@vtedu",
+    "Made available in DSpace on 2014-03-14T20:13:54Z (GMT). No. of bitstreams: 1 rnuqui_dissertation.pdf: 1158420 bytes, checksum: 1683dff78816eb45ca72d22544caf612 (MD5)   Previous issue date: 2001-07-02"
+  ],
+  "handle": "28266",
+  "identifier_other": "etd-07122001-030152",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122001-030152/",
+  "identifier_uri": "http://hdl.handle.net/10919/28266",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "rnuqui_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "streaming state estimation",
+    "decision trees",
+    "phasor measurement unit"
+  ],
+  "title": "State Estimation and Voltage Security Monitoring Using Synchronized Phasor Measurements",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Malakorn, Tanit",
+  "contributor_committeecochair": [
+    "Ball, Joseph A.",
+    "Baumann, William T."
+  ],
+  "contributor_committeemember": [
+    "VanLandingham, Hugh F.",
+    "Jacobs, Ira",
+    "Day, Martin V."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:35Z",
+  "date_adate": "2003-04-16",
+  "date_available": "2014-03-14T20:09:35Z",
+  "date_issued": "2003-04-10",
+  "date_rdate": "2004-04-16",
+  "date_sdate": "2003-04-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation contains two parts: Commutative and Noncommutative Multidimensional ($d$-D) Linear Systems Theory.   The first part  focuses on the development of the interpolation theory to solve the $H^{\\infty}$ control problem for $d$-D linear systems.   We first review the classical discrete-time 1D linear system in the operator theoretical viewpoint followed by the formulations of the so-called Givone-Roesser and Fornasini-Marchesini models.    Application of the $d$-variable $Z$-transform to the system of equations yields the transfer function which is a rational function of several complex variables, say $\\mathbf{z} = (z_{1}, \\dots, z_{d})$. <p> We then consider the output feedback stabilization problem for a plant $P(\\mathbf{z})$. By assuming that  $P(\\mathbf{z})$ admits a double coprime factorization, then a set of stabilizing controllers $K(\\mathbf{z})$ can be parametrized by the Youla parameter $Q(\\mathbf{z})$.   By doing so, one can convert such a problem to the model matching problem with performance index $F(\\mathbf{z})$, affine in $Q(\\mathbf{z})$.  Then, with $F(\\mathbf{z})$ as the design parameter rather than $Q(\\mathbf{z})$, one has an interpolation problem for $F(\\mathbf{z})$.   Incorporation of a tolerance level on $F(\\mathbf{z})$ then leads to an interpolation problem of multivariable Nevanlinna-Pick type.  We also give an operator-theoretic formulation of the model matching problem which lends itself to a solution via the commutant lifting theorem on the polydisk.   <p> The second part  details a system whose time-axis is described by  a free semigroup $\\mathcal{F}_{d}$.  Such a system can be represented by the so-called noncommutative Givone-Roesser, or noncommutative Fornasini-Marchesini models  which are analogous to those in the first part. Application of a noncommutative $d$-variable $Z$-transform to the system of equations yields the transfer function expressed by a formal power series in several noncommuting indeterminants, say $T(z) = \\sum_{v \\in \\mathcal{F}_{d}}T_{v}z^{v}$ where $z^{v} = z_{i_{n}} \\dotsm z_{i_{1}}$ if $v = g_{i_{n}} \\dotsm g_{i_{1}} \\in \\mathcal{F}_{d}$ and $z_{i}z_{j} \\neq z_{j}z_{i}$ unless $i = j$.   The concepts of reachability, controllability, observability, similarity, and stability are introduced by means of the state-space interpretation.  Minimal realization problems for noncommutative Givone-Roesser or Fornasini-Marchesini systems are solved directly by a shift-realization procedure constructed from appropriate noncommutative Hankel matrices. This procedure adapts the ideas of SchÃ¼tzenberger and Fliess originally developed for \"recognizable series\" to our systems.",
+  "description_provenance": [
+    "Author Email: tmalakor@vt.edu",
+    "Advisor Email: ball@calvin.math.vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: Baumann@vt.edu",
+    "Advisor Email: day@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:35Z (GMT). No. of bitstreams: 1 ETD.pdf: 1201086 bytes, checksum: 912a2eb4492aeabeb77a5ea0a097198d (MD5)   Previous issue date: 2003-04-10"
+  ],
+  "handle": "26845",
+  "identifier_other": "etd-04142003-144447",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04142003-144447/",
+  "identifier_uri": "http://hdl.handle.net/10919/26845",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "noncommutative $d$-D linear systems",
+    "model matching form",
+    "Linear Operator Inequality (LOI)",
+    "H^{infty} control problem",
+    "interpolation theory",
+    "minimal realization"
+  ],
+  "title": "Multidimensional Linear Systems and Robust Control",
+  "type": "Dissertation"
+}

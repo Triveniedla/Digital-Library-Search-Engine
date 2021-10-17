@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Teets, Jay Marshall",
+  "contributor_committeechair": "Russell, Roberta S.",
+  "contributor_committeemember": [
+    "Tegarden, David P.",
+    "Matheson, Lance Arthur",
+    "Cook, Deborah F.",
+    "Huang, Philip Y."
+  ],
+  "contributor_department": "Business Information Technology",
+  "date_accessioned": "2014-03-14T20:07:15Z",
+  "date_adate": "2007-03-12",
+  "date_available": "2014-03-14T20:07:15Z",
+  "date_issued": "2007-01-19",
+  "date_rdate": "2009-03-12",
+  "date_sdate": "2007-02-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Advances in microcomputing hardware and software over the last several years have resulted in personal computers with exceptional computational power and speed.  As the costs associated with microcomputer hardware and software continue to decline, manufacturers have begun to implement numerous information technology components on the shop floor.  Components such as microcomputer file servers and client workstations are replacing traditional (manual) methods of data collection and analysis since they can be used as a tool for real-time decision-making.  Server-based and web-based shop floor data collection and monitoring software applications are able to collect vast amounts of data in a relatively short period of time.  In addition, advances in telecommunications and computer interconnectivity allow for the remote access and sharing of this data for additional analysis.  Rarely, however, does the method by which a manager reviews production and quality data keep pace with the large amount of data being collected and thus available for analysis.  Visualization techniques that allow the decision maker to react quickly, such as the ability to view and manipulate vast amounts of data in real-time, may provide an alternative for operations managers and decision-makers.  These techniques can be used to improve the communication between the manager using a microcomputer and the microcomputer itself through the use of computer-generated, domain-specific visualizations. This study explores the use of visualization tools and techniques applied to manufacturing systems as an aid in managerial decision-making.  Numerous visual representations that support process and quality monitoring have been developed and presented for evaluation of process and product quality characteristics.  These visual representations are based on quality assurance data and process monitoring data from a high-volume, discrete product manufacturer with considerable investment in both automated and intelligent processes and information technology components.  A computer-based application was developed and used to display the visual representations that were then presented to a sample group of evaluators who evaluated them with respect to their ability to utilize them in making accurate and timely decisions about the processes being monitored.  This study concludes with a summary of the results and provides a direction for future research efforts.",
+  "description_provenance": [
+    "Author Email: jayt@coastal.edu",
+    "Advisor Email: david.tegarden@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: rrussell@vt.edu",
+    "Advisor Email: dcook@vt.edu",
+    "Advisor Email: phhuang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:15Z (GMT). No. of bitstreams: 1 JMTeetsETD.pdf: 4113052 bytes, checksum: b6237e44027d847c40b221182ffdb476 (MD5)   Previous issue date: 2007-01-19"
+  ],
+  "handle": "26156",
+  "identifier_other": "etd-02092007-231530",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02092007-231530/",
+  "identifier_uri": "http://hdl.handle.net/10919/26156",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JMTeetsETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "information systems",
+    "quality assurance",
+    "process monitoring",
+    "visualization"
+  ],
+  "title": "Multidimensional Visualization of Process Monitoring and Quality Assurance Data in High-Volume Discrete Manufacturing",
+  "type": "Dissertation"
+}

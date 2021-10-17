@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Song, Myoungkyu",
+  "contributor_committeechair": "Tilevich, Eli",
+  "contributor_committeemember": [
+    "Kafura, Dennis G",
+    "Yi, Kwangkeun",
+    "Edwards, Stephen H",
+    "Ryder, Barbara Gershon"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-04-30T08:00:10Z",
+  "date_available": "2013-04-30T08:00:10Z",
+  "date_issued": "2013-04-29",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In recent years, metadata-driven software development has gained prominence. In this implementation model, various application concerns are provided as third-party frameworks and libraries that the programmer configures through metadata, such as XML configuration files or Java annotations. Metadata-driven software development is a special case of declarative programming: metadata serves as a domain-specific language that the programmer uses to declare various concerns, whose implementation is provided by an elaborate ecosystem of libraries and frameworks that serve as pre-defined application building blocks. Examples abound: transparent persistence mechanisms facilitate data management; security frameworks provide access control and encryption; unit testing frameworks provide abstractions for implementing and executing unit tests, etc. Metadata-driven software development has been particularly embraced in enterprise computing as a means of providing standardized solutions to common application scenarios. <br /><br />Despite the conciseness and simplicity benefits of metadata-driven software development, this implementation model introduces a unique set of reuse and evolution challenges. In particular, metadata is not reusable across application modules, and program evolution causes unsafe discrepancies between the main source code and its corresponding metadata. The research described in this dissertation addresses five fundamental problems of metadata-driven software development: (1) bytecode enhancements that transparently introduce concerns hinder program understanding and debugging; (2) mainstream enterprise metadata formats are hard to understand, evolve, and reuse; (3) concerns declared via metadata cannot be reused when source-to-source compiling emerging languages to mainstream ones; (4) metadata correctness cannot be automatically ensured as application source code is being refactored and enhanced; and (5) lacking built-in metadata, JavaScript programs can be enhanced with additional concerns only through manual source code changes.<br /><br />The research described in this dissertation leverages domain-specific languages and automated code generation to enable effective reuse and safe evolution in metadata-driven software development. The specific innovations that address the problems outlined above are as follows: (1) a domain-specific language (DSL) describing bytecode enhancement that facilitates the understanding and debugging of additional concerns; (2) a novel metadata format expressed as a DSL that is easier to author, understand, reuse, and maintain than existing metadata formats; (3) automated metadata translation that enables effective reuse of target language additional concerns from source-to-source compiled source language programs; (4) metadata invariants---a new abstraction for expressing and verifying metadata coding convention; and (5) a new approach to declaratively enhancing JavaScript programs with additional concerns.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-30T08:00:10Z (GMT). No. of bitstreams: 1 Song_M_D_2013.pdf: 3110267 bytes, checksum: c4b00cbc189cba345f2b103eeb7fc5bd (MD5)   Previous issue date: 2013-04-29",
+  "format_medium": "ETD",
+  "handle": "19369",
+  "identifier_other": "vt_gsexam:613",
+  "identifier_uri": "http://hdl.handle.net/10919/19369",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "declarative programming",
+    "metadata",
+    "domain-specific language",
+    "invariants",
+    "program transformation",
+    "frameworks"
+  ],
+  "title": "Supporting Effective Reuse and Safe Evolution in Metadata-Driven Software Development",
+  "type": "Dissertation"
+}

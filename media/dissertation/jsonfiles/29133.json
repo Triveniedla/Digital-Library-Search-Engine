@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Thompson, Michael Stewart",
+  "contributor_committeechair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Martin, Thomas L.",
+    "Baumann, William T.",
+    "Morgan, George E.",
+    "DaSilva, Luiz A.",
+    "Chen, Ing-Ray"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:53Z",
+  "date_adate": "2006-10-17",
+  "date_available": "2014-03-14T20:16:53Z",
+  "date_issued": "2006-07-20",
+  "date_rdate": "2006-10-17",
+  "date_sdate": "2006-09-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Service discovery is a driving force in realizing pervasive computing.  It provides a way for users and services to locate and interact with other services in a pervasive computing environment.  Unfortunately, current service discovery solutions do not capture the effects of the human or physical world and do not deal well with diverse device populations; both of which are characteristics of pervasive computing environments.  This research concentrates on the examination and fulfillment of the goals of two of the four components of service discovery, service description and dissemination.  It begins with a review of and commentary on current service discovery solutions.  Following this review, is the formulation of the problem statement, including a full explanation of the problems mentioned above.  The problem formulation is followed by an explanation of the process followed to design and build solutions to these problems.  These solutions include the Pervasive Service Description Language (PSDL), the Pervasive Service Query Language (PSQL), and the Multi-Assurance Delivery Protocol (MADEP).  Prototype implementations of the components are used to validate feasibility and evaluate performance.  Experimental results are presented and analyzed.  This work concludes with a discussion of overall conclusions, directions for future work, and a list of contributions.",
+  "description_provenance": [
+    "Author Email: stuboy@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: gmorgan@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:53Z (GMT). No. of bitstreams: 1 michael_thompson_dissertation.pdf: 2322300 bytes, checksum: c7324783c188d17ababf0d60d138c117 (MD5)   Previous issue date: 2006-07-20"
+  ],
+  "handle": "29133",
+  "identifier_other": "etd-09292006-105328",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09292006-105328/",
+  "identifier_uri": "http://hdl.handle.net/10919/29133",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "michael_thompson_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "resource discovery",
+    "resource location",
+    "service location",
+    "service discovery",
+    "ubiquitous computing",
+    "pervasive computing"
+  ],
+  "title": "Service Discovery in Pervasive Computing Environments",
+  "type": "Dissertation"
+}

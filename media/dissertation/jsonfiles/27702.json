@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Guo, Xu",
+  "contributor_committeechair": "Schaumont, Patrick Robert",
+  "contributor_committeemember": [
+    "Brown, Ezra A.",
+    "Patterson, Cameron D.",
+    "Shukla, Sandeep K.",
+    "Tront, Joseph G."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:01Z",
+  "date_adate": "2012-05-30",
+  "date_available": "2014-03-14T20:12:01Z",
+  "date_issued": "2012-05-01",
+  "date_rdate": "2012-05-30",
+  "date_sdate": "2012-05-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Nowadays pervasive computing opens up many new challenges. Personal and sensitive data and computations are distributed over a wide range of computing devices. This presents great challenges in cryptographic system designs: how to protect privacy, authentication, and integrity in this distributed and connected computing world, and how to satisfy the requirements of different platforms, ranging from resource constrained embedded devices to high-end servers. Moreover, once mathematically strong cryptographic algorithms are implemented in either software or hardware, they are known to be vulnerable to various implementation attacks. Although many countermeasures have been proposed, selecting and integrating a set of countermeasures thwarting multiple attacks into a single design is far from trivial. Security, performance and cost need to be considered together.  The research presented in this dissertation deals with the secure and efficient implementation of cryptographic primitives. We focus on how to integrate cryptographic coprocessors in an efficient and secure way. The outcome of this research leads to four contributions to hardware security research. First, we propose a programmable and parallel Elliptic Curve Cryptography (ECC) coprocessor architecture. We use a systematic way of analyzing the impact of System-on-Chip (SoC) integration to the cryptographic coprocessor performance and optimize the hardware/software codesign of cryptographic coprocessors. Second, we provide a hardware evaluation methodology to the NIST SHA-3 standardization process. Our research efforts cover both of the SHA-3 fourteen Second Round candidates and five Third Round finalists. We design the first SHA-3 benchmark chip and discuss the technology impact to the SHA-3 hardware evaluation process. Third, we discuss two technology dependent issues in the fair comparison of cryptographic hardware. We provide a systematic approach to do a cross-platform comparison between SHA-3 FPGA and ASIC benchmarking results and propose a methodology for lightweight hash designs. Finally, we provide guidelines to select implementation attack countermeasures in ECC cryptosystem designs. We discuss how to integrate a set of countermeasures to resist a collection of side-channel analysis (SCA) attacks and fault attacks.  The first part of the dissertation discusses how system integration can affect the efficiency of the cryptographic primitives. We focus on the SoC integration of cryptographic coprocessors and analyze the system profile in a co-simulation environment and then on an actual FPGA-based SoC platform. We use this system-level design flow to analyze the SoC integration issues of two block ciphers: the existing Advanced Encryption Standard (AES) and a newly proposed lightweight cipher PRESENT. Next, we use hardware/software codesign techniques to design a programmable ECC coprocessor architecture which is highly flexible and scalable for system integration into a SoC architecture.  The second part of the dissertation describes our efforts in designing a hardware evaluation methodology applied to the NIST SHA-3 standardization process. Our Application Specific Integrated Circuit (ASIC) implementation results of five SHA-3 finalists are the first ASIC real measurement results reported in the literature. As a contribution to the NIST SHA-3 competition, we provide timely ASIC implementation cost and performance results of the five SHA-3 finalists in the SHA-3 standard final round evaluation process. We define a consistent and comprehensive hardware evaluation methodology to the NIST SHA-3 standardization process from Field Programmable Gate Array (FPGA) prototyping to ASIC implementation.  The third part of the dissertation extends the discussion on hardware benchmarking of NIST SHA-3 candidates by analyzing the impact of technology to the fair comparison of cryptographic hardware. First, a cross-platform comparison between the FPGA and ASIC results of SHA-3 designs demonstrates the gap between two sets of benchmarking results. We describe a systematic approach to analyze a SHA-3 hardware benchmark process for both FPGAs and ASICs. Next, by observing the interaction of hash algorithm design, architecture design, and technology mapping, we propose a methodology for lightweight hash implementation and apply it to CubeHash optimizations. Our ultra-lightweight design of the CubeHash algorithm represents the smallest ASIC implementation of this algorithm reported in the literature. Then, we introduced a cost model for analyzing the hardware cost of lightweight hash implementations.  The fourth part of the dissertation discusses SCA attacks and fault attacks resistant cryptosystem designs. We complete a comprehensive survey of state-of-the-art of secure ECC implementations and propose a methodology on selecting countermeasures to thwart multiple side-channel attacks and fault attacks. We focus on a systematic way of organizing and understanding known attacks and countermeasures.",
+  "description_provenance": [
+    "Author Email: xuguo@vt.edu",
+    "Advisor Email: schaum@vt.edu",
+    "Advisor Email: ezbrown@math.vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: jgtront@exchange.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:01Z (GMT). No. of bitstreams: 1 Guo_X_D_2012.pdf: 5766693 bytes, checksum: f332694732a6eccc61f0106f7af3f2b6 (MD5)   Previous issue date: 2012-05-01"
+  ],
+  "handle": "27702",
+  "identifier_other": "etd-05132012-150929",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05132012-150929/",
+  "identifier_uri": "http://hdl.handle.net/10919/27702",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Guo_X_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Block Cipher",
+    "Side-Channel Attacks",
+    "SHA-3",
+    "Hash Function",
+    "System-on-Chip",
+    "Cryptographic Coprocessor",
+    "Elliptic Curve Cryptography",
+    "Fault Attacks"
+  ],
+  "title": "Secure and Efficient Implementations of Cryptographic Primitives",
+  "type": "Dissertation"
+}

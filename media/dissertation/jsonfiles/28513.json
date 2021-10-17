@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Popp, Oliver",
+  "contributor_committeechair": "Ng, Fai",
+  "contributor_committeecochair": "Diller, Thomas E.",
+  "contributor_committeemember": [
+    "Schetz, Joseph A.",
+    "Wicks, Alfred L.",
+    "Dancey, Clinton L."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "1999-08-07",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "1999-07-23",
+  "date_rdate": "2000-08-07",
+  "date_sdate": "1999-08-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The unsteady interaction of shock waves emerging from the trailing edge of modern turbine nozzle guide vanes and impinging on downstream rotor blades is modeled in a linear cascade. The Reynolds number based on blade chord and exit conditions (5*10^6) and the exit Mach number (1.2) are representative of modern engine operating conditions. The relative motion of shocks and blades is simulated by sending a shock wave along the leading edges of the linear cascade instead of moving the blades through an array of stationary shock waves. The blade geometry is a generic version of a modern high turning rotor blade with transonic exit conditions. The blade is equipped with a showerhead film cooling scheme. Heat flux, surface pressure and surface temperature are measured at six locations on the suction side of the central blade. Pressure measurements are taken with Kulite XCQ-062-50a high frequency pressure transducers. Heat flux data is obtained with Vatell HFM-7/L high speed heat flux sensors. High speed heat flux and pressure data are recorded during the time of the shock impact with and without film cooling. The data is analyzed in detail to find the relative magnitudes of the shock effect on the heat transfer coefficient and the recovery temperature or adiabatic wall temperature (in the presence of film cooling).  It is shown that the variations of the heat transfer coefficient and the film effectiveness are less significant than the variations of recovery temperature. The effect of the shock is found to be similar in the cases with and without film cooling. In both cases the variation of recovery temperature induced by the shock is shown to be the main contribution to the overall unsteady heat flux.  The unsteady heat flux is compared to results from different prediction models published in the literature. The best agreement of data and prediction is found for a model that assumes a constant heat transfer coefficient and a temperature difference calculated from the unsteady surface pressure assuming an isentropic compression.",
+  "description_provenance": [
+    "Author Email: opopp@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 1 ThesisMain.pdf: 2634946 bytes, checksum: 47b45a7f79c99301cd74d9d2325112f3 (MD5)   Previous issue date: 1999-07-23"
+  ],
+  "handle": "28513",
+  "identifier_other": "etd-080399-154049",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080399-154049/",
+  "identifier_uri": "http://hdl.handle.net/10919/28513",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ThesisMain.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Unsteady Heat Transfer",
+    "Turbine",
+    "Film Cooling",
+    "Transonic Cascade"
+  ],
+  "title": "Steady and Unsteady Heat Transfer in a Film Cooled Transonic Turbine Cascade",
+  "type": "Dissertation"
+}

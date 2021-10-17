@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Louisell, William",
+  "contributor_committeechair": "Collura, John",
+  "contributor_committeemember": [
+    "Teodorovic, Dusan",
+    "Van Aken, Eileen M.",
+    "Tignor, Samuel C.",
+    "Hobeika, Antoine G."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:09:31Z",
+  "date_adate": "2003-04-23",
+  "date_available": "2014-03-14T20:09:31Z",
+  "date_issued": "2003-04-08",
+  "date_rdate": "2004-04-23",
+  "date_sdate": "2003-04-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Preferential treatments are employed to provide preemption for emergency vehicles (EV) and conditional priority for transit vehicles at signalized intersections. EV preemption employs technologies and signal control strategies seeking to reduce emergency vehicle crash potential and response times. Transit priority employs the same technologies with signal control strategies seeking to reduce travel time and travel time variability. Where both preemption and transit technologies are deployed, operational strategies deconflict simultaneous requests. Thus far, researchers have developed separate evaluation frameworks for preemption and priority.  This research addresses the issue of preemption and priority signal control strategies in breadth and depth. In breadth, this research introduces a framework that reveals planning interdependence and operational interaction between preemption and priority from the controlling strategy down to roadway hardware operation under the inclusive title: preferential treatment. This fulfills a current gap in evaluation. In depth, this research focuses on evaluation of EV preemption.    There are two major analytical contributions resulting from this research. The first is a method to evaluate the safety benefits of preemption based on conflict analysis. The second is an algorithm, suitable for use in future traffic simulation models, that incorporates the impact of auto driver behavior into the determination of travel time savings for emergency vehicles operating on signalized arterial roadways. These two analytical methods are a foundation for future research that seeks to overcome the principal weakness of current EV preemption evaluation.   Current methods, which rely on modeling and simulation tools, do not consider the unique auto driver behaviors observed when emergency vehicles are present. This research capitalizes on data collected during a field operational test in Northern Virginia, which included field observations of emergency vehicles traversing signalized intersections under a wide variety of geometric, traffic flow, and signal operating conditions. The methods provide a means to quantify the role of EV preemption in reducing the number and severity of conflict points and the delay experienced at signalized intersections. This forms a critical basis for developing deployment and operational guidelines, and eventually, warrants.",
+  "description_provenance": [
+    "Author Email: wlouisel@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: evanaken@vt.edu",
+    "Advisor Email: satignor@vt.edu",
+    "Advisor Email: jcollura@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:31Z (GMT). No. of bitstreams: 1 louiselldissertationv2.pdf: 1040473 bytes, checksum: 3c68452c96aa355f448b8620a9960975 (MD5)   Previous issue date: 2003-04-08"
+  ],
+  "handle": "26820",
+  "identifier_other": "etd-04132003-214341",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04132003-214341/",
+  "identifier_uri": "http://hdl.handle.net/10919/26820",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "louiselldissertationv2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Traffic Signal Priority",
+    "Transportation Planning",
+    "Intersection Safety",
+    "Emergency Vehicle Preemption"
+  ],
+  "title": "A Framework and Analytical Methods for Evaluation of Preferential Treatment for Emergency and Transit Vehicles at Signalized Intersections",
+  "type": "Dissertation"
+}

@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Xu, Juncheng",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Indebetouw, Guy J.",
+    "Pickrell, Gary R.",
+    "Safaai-Jazi, Ahmad",
+    "Liu, Yilu",
+    "Jacobs, Ira"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:42Z",
+  "date_adate": "2006-02-08",
+  "date_available": "2014-03-14T20:06:42Z",
+  "date_issued": "2005-12-15",
+  "date_rdate": "2006-02-08",
+  "date_sdate": "2006-01-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Pressure measurements are required in various industrial applications, including extremely harsh environments such as turbine engines, power plants and material-processing systems. Conventional sensors are often difficult to apply due to the high temperatures, highly corrosive agents or electromagnetic interference (EMI) noise that may be present in those environments. Fiber optic pressure sensors have been developed for years and proved themselves successfully in such harsh environments. Especially, diaphragm based fiber optic pressure sensors have been shown to possess advantages of high sensitivity, wide bandwidth, high operation temperature, immunity to EMI, lightweight and long life.  Static and dynamic pressure measurements at various locations of a gas turbine engine are highly desirable to improve its operation and reliability. However, the operating environment, in which temperatures may exceed 600 Â°C and pressures may reach 100 psi (690 kPa) with about 1 psi (6.9kPa) variation, is a great challenge to currently available sensors. To meet these requirements, a novel type of fiber optic engine pressure sensor has been developed. This pressure sensor functions as a diaphragm based extrinsic Fabry-PÃ©rot interferometric sensor. One of the unique features of this sensor is the all silica structure, allowing a much higher operating temperature to be achieved with an extremely low temperature dependence. In addition, the flexible nature of the sensor design such as wide sensitivity selection, and passive or adaptive temperature compensation, makes the sensor suitable for a variety of applications  An automatically controlled CO2 laser-based sensor fabrication system was developed and implemented. Several novel bonding methods were proposed and investigated to improve the sensor mechanical ruggedness and reduce its temperature dependence.   An engine sensor testing system was designed and instrumented. The system generates known static and dynamic pressures in a temperature-controlled environment, which was used to calibrate the sensor. Several sensor signal demodulation schemes were used for different testing purposes including a white-light interferometry system, a tunable laser based component test system (CTS), and a self-calibrated interferometric-intensity based (SCIIB) system. All of these sensor systems are immune to light source power fluctuations, which offer high reliability and stability.  The fiber optic pressure sensor was tested in a F-109 turbofan engine. The testing results prove the sensor performance and the packaging ruggedization. Preliminary laboratory and field test results have shown great potential to meet not only the needs for reliable and precise pressure measurement of turbine engines but also for any other pressure measurements especially requiring high bandwidth and high temperature capability.",
+  "description_provenance": [
+    "Author Email: juxu1@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: pickrell@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:42Z (GMT). No. of bitstreams: 1 Xu_Dissertation.pdf: 1261799 bytes, checksum: 58d79476d4cf09120e5f1df4dd4f95f2 (MD5)   Previous issue date: 2005-12-15"
+  ],
+  "handle": "25988",
+  "identifier_other": "etd-01122006-142538",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01122006-142538/",
+  "identifier_uri": "http://hdl.handle.net/10919/25988",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Xu_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "fused silica",
+    "acoustic sensor",
+    "optical fiber",
+    "pressure sensor",
+    "Fabry-Perot",
+    "dynamic pressure",
+    "diaphragm",
+    "high temperature"
+  ],
+  "title": "High Temperature High Bandwidth Fiber Optic Pressure Sensors",
+  "type": "Dissertation"
+}

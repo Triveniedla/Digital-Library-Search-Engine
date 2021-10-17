@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Abdelkefi, Abdessattar",
+  "contributor_committeecochair": [
+    "Nayfeh, Ali H.",
+    "Hajj, Muhammad R."
+  ],
+  "contributor_committeemember": [
+    "Paul, Mark R.",
+    "Ragab, Saad A.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:15:33Z",
+  "date_adate": "2012-09-05",
+  "date_available": "2014-03-14T20:15:33Z",
+  "date_issued": "2012-07-12",
+  "date_rdate": "2012-09-05",
+  "date_sdate": "2012-08-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Converting vibrations to a usable form of energy has been the topic of many recent investigations. The ultimate goal is to convert ambient or aeroelastic vibrations to operate low-power consumption devices, such as microelectromechanical systems, heath monitoring sensors, wireless sensors or replacing small batteries that have a nite life span or would require hard and expensive maintenance. The transduction mechanisms used for transforming vibrations to electric power include: electromagnetic, electrostatic, and piezoelectric mechanisms. Because it can be used to harvest energy over a wide range of frequencies and because of its ease of application, the piezoelectric option has attracted significant interest. In this work, we investigate the performance of different types of piezoelectric energy harvesters. The objective is to design and enhance the performance of these harvesters. To this end, distributed-parameter and phenomenological models of these harvesters are developed. Global analysis of these models is then performed using modern methods of nonlinear dynamics. In the first part of this Dissertation, global nonlinear distributed-parameter models for piezoelectric energy harvesters under direct and parametric excitations are developed. The method of multiple scales is then used to derive nonlinear forms of the governing equations and associated boundary conditions, which are used to evaluate their performance and determine the effects of the nonlinear piezoelectric coefficients on their behavior in terms of softening or hardening. In the second part, we assess the influence of the linear and nonlinear parameters on the dynamic behavior of a wing-based piezoaeroelastic energy harvester. The system is composed of a rigid airfoil that is constrained to pitch and plunge and supported by linear and nonlinear torsional and flexural springs with a piezoelectric coupling attached to the plunge degree of freedom. Linear analysis is performed to determine the effects of the linear spring coefficients and electrical load resistance on the  flutter speed. Then, the normal form of the Hopf bifurcation (flutter) is derived to characterize the type of instability and determine the effects of the aerodynamic nonlinearities and the nonlinear coefficients of the springs on the system's stability near the bifurcation. This is useful to characterize the effects of different parameters on the system's output and ensure that subcritical or \"catastrophic\" bifurcation does not take place. Both linear and nonlinear analyses are then used to design and enhance the performance of these harvesters. In the last part, the concept of energy harvesting from vortex-induced vibrations of a circular cylinder is investigated. The power levels that can be generated from these vibrations and the variations of these levels with the freestream velocity are determined. A mathematical model that accounts for the coupled lift force, cylinder motion and generated voltage is presented. Linear analysis of the electromechanical model is performed to determine the effects of the electrical load resistance on the natural frequency of the rigid cylinder and the onset of the synchronization region. The impacts of the nonlinearities on the cylinder's response and energy harvesting are then investigated.",
+  "description_provenance": [
+    "Author Email: abdes09@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:33Z (GMT). No. of bitstreams: 1 Abdelkefi_A_D_2012.pdf: 5120007 bytes, checksum: 0e69bdcf0e87651326284c83c84f8d14 (MD5)   Previous issue date: 2012-07-12"
+  ],
+  "handle": "28761",
+  "identifier_other": "etd-08222012-185932",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08222012-185932/",
+  "identifier_uri": "http://hdl.handle.net/10919/28761",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Abdelkefi_A_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Energy harvesting",
+    "piezoelectricity",
+    "aeroelasticity",
+    "electromechanical modeling",
+    "nonlinear dynamics",
+    "vortex-induced vibrations"
+  ],
+  "title": "Global Nonlinear Analysis of Piezoelectric Energy Harvesting from Ambient and Aeroelastic Vibrations",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Thirugnanam, Rajesh",
+  "contributor_committeechair": "Ha, Dong Sam",
+  "contributor_committeemember": [
+    "Tront, Joseph G.",
+    "Armstrong, James R.",
+    "Brown, Ezra B.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:47Z",
+  "date_adate": "2008-01-24",
+  "date_available": "2014-03-14T20:06:47Z",
+  "date_issued": "2008-01-14",
+  "date_rdate": "2008-01-24",
+  "date_sdate": "2008-01-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Power line communications (PLC) has been considered by utility companies for over a half century and for home networking in recent years. However, PLC at the IC level, or even at the PCB level, has not been investigated outside Dr. Haâ  s research group. This thesis investigates the feasibility of PLC over power distribution networks (PDNs) of advanced microprocessors. A PDN in an integrated circuit (IC) is ubiquitous as seen by the internal logic, i.e., a power line is accessible to any internal node. This suggests the possibility of monitoring or controlling the logic value of any internal node through a power line by attaching a simple sensing/control circuit to the node. Routing the data through a power line avoids the necessity of preplanning the routing of a data path between the node and an external data pin. PLC over microprocessor PDNs also provide a viable means for â  run-time testingâ   as well as for monitoring the so called â  large time-constant errorsâ   resulting from aging and temperature variations.  In this thesis, we considered impulse-based ultra wideband (I-UWB) communication technology for PLC over PDNs of microprocessors. I-UWB has several advantages for PLC over PDNs due to its robustness to multipath effects, simple hardware for transmission and reception of pulses and, more importantly, reduced interference to the normal operation of microprocessors. A microprocessor PDN is heavily decoupled to damp the resonances in the power supply impedance as well as to reduce the slew rate of current variations by locally supplying (sinking) currents to (from) the switching nodes. Consequently, a PDN behaves like a bulky lowpass filter for high frequency signals. However, the inductance component of decoupling capacitors becomes more significant beyond the self resonant frequency (SRF) of the capacitors. So, a PDN becomes essentially a distributed circuit beyond the SRF and is no longer a lowpass filter. Indeed, high frequency PDN models developed earlier at Dr. Haâ  s group show that there exist multiple frequency bands where high frequency signals can propagate through the PDN with relatively low attenuation [3] [4].   The major contributions of our research lie in three areas. First, we verified existence of passbands on PDNâ  s transfer characteristics through measurements. We carried out high frequency measurements on the PDN of Intelâ  s 65 nm Pentium processor and 45 nm Core 2 Duo processor. We measured PDN transfer characteristics up to several GHz from a core power pin on a tester board to an on-chip power node for both active and cold microprocessor dies. The measurements show the existence of narrow, sporadic and migratory passbands i.e. location of passbands change from one generation of processor to the next. The migratory nature of passbands requires the I-UWB receiver and a transmitter to cover a wide range of frequencies rather than a specific passband. Second, we have developed a PDN communication channel model for system level study. To develop the channel model, we also performed noise measurements on Intel microprocessors. The link budget was calculated based on the channel model and appropriate modulation schemes were suggested through the system level study. Third, we investigated design of an I-UWB receiver and a transmitter, which cover a wide bandwidth. The proposed receiver and transmitter designs were evaluated through simulations in TSMC 0.18 Î¼m CMOS process. Our simulation indicates that the PLC over a PDN is feasible with a relatively simple digital-process friendly I-UWB receiver and a transmitter.",
+  "description_provenance": [
+    "Author Email: thirugnr@vt.edu",
+    "Advisor Email: jgtront@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: jramaa@comcast.net",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:47Z (GMT). No. of bitstreams: 1 Dissertation_final_Rajesh_Thirugnanam_v7x.pdf: 1690067 bytes, checksum: 827dc597230f66f9094fd47d0e35f9f7 (MD5)   Previous issue date: 2008-01-14"
+  ],
+  "handle": "26011",
+  "identifier_other": "etd-01192008-135017",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01192008-135017/",
+  "identifier_uri": "http://hdl.handle.net/10919/26011",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_final_Rajesh_Thirugnanam_v7x.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Ultra Wideband",
+    "Microprocessor",
+    "Power Distribution Network",
+    "Power Line Communications"
+  ],
+  "title": "Power Line Communications over Power Distribution Networks of Microprocessors - Feasibility Study, Channel Modeling, and a Circuit Design Approach",
+  "type": "Dissertation"
+}

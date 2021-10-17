@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Wang, Meng",
+  "contributor_committeechair": "von Spakovsky, Michael R.",
+  "contributor_committeemember": [
+    "Ellis, Michael W.",
+    "Johnson, Martin E.",
+    "Rancruel, Diego",
+    "Nelson, Douglas J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:08Z",
+  "date_adate": "2008-04-10",
+  "date_available": "2014-03-14T20:07:08Z",
+  "date_issued": "2008-01-11",
+  "date_rdate": "2008-04-10",
+  "date_sdate": "2008-02-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "ABSTRACT  A typical approach to the synthesis/design optimization of energy systems is to only use steady state operation and high efficiency (or low total life cycle cost) at full load as the basis for the synthesis/design. Transient operation is a secondary task to be solved by system and control engineers once the synthesis/design is fixed. This thesis considers the system dynamics in the process of developing the system using a set of transient thermodynamic, kinetic, and geometric as well as physical and cost models developed and implemented for the components of a 5 kW PEMFC (Proton Exchange Membrane Fuel Cell) system. The system is composed of three subsystems: a stack subsystem (SS), a fuel processing subsystem (FPS), and a work recovery and air supply subsystem (WRAS). To study the effect of control to the optimization, State Space control design is used in a looped set of optimizations. These results are compared to those resulting from a more direct optimization of the controller designs in which the gains for the controllers are part of the decision variable set for the overall optimization. Then, dynamic optimization results are obtained and compared with steady-state optimization results to illustrate the advantages of dynamic optimization. Also, a multi-level optimization technique, dynamic iterative local-global optimization (DILGO), is utilized for the optimization of the PEMFC system by separating the system into three subsystems and the results are compared with the single level optimization results, in which the whole system is optimized together.",
+  "description_provenance": [
+    "Author Email: wangm@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: Diego.RancruelArce@ge.com",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:08Z (GMT). No. of bitstreams: 1 Disertation_Meng_Wang.pdf: 3785079 bytes, checksum: 33499eba6faa5f6cf646742564c96daa (MD5)   Previous issue date: 2008-01-11"
+  ],
+  "handle": "26114",
+  "identifier_other": "etd-02042008-140129",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02042008-140129/",
+  "identifier_uri": "http://hdl.handle.net/10919/26114",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Disertation_Meng_Wang.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "PEM",
+    "fuel cell",
+    "control",
+    "state space",
+    "decomposition",
+    "dynamic",
+    "optimization"
+  ],
+  "title": "The Integration of State Space into the Dynamic Synthesis/Design and Operational/Control Optimization of a PEMFC System",
+  "type": "Dissertation"
+}

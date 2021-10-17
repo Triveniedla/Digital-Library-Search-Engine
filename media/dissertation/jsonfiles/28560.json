@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Nasir, Shakeel",
+  "contributor_committeechair": "Ng, Fai",
+  "contributor_committeemember": [
+    "Dancey, Clinton L.",
+    "Ragab, Saad A.",
+    "Diller, Thomas E.",
+    "Thole, Karen A.",
+    "O'Brien, Walter F. Jr."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:14:52Z",
+  "date_adate": "2008-09-01",
+  "date_available": "2014-03-14T20:14:52Z",
+  "date_issued": "2007-06-30",
+  "date_rdate": "2010-09-09",
+  "date_sdate": "2008-08-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One way to increase cycle efficiency of a gas turbine engine is to operate at higher turbine inlet temperature (TIT). In most engines, the turbine inlet temperatures have increased to be well above the metallurgical limit of engine components. Film cooling of gas turbine components (blades and vanes) is a widely used technique that allows higher turbine inlet temperatures by maintaining material temperatures within acceptable limits. In this cooling method, air is extracted from the compressor and forced through internal cooling passages within turbine blades and vanes before being ejected through discrete cooling holes on the surfaces of these airfoils. The air leaving these cooling holes forms a film of cool air on the component surface which protects the part from hot gas exiting the combustor.  Design optimization of the airfoil film cooling system on an engine scale is a key as increasing the amount of coolant supplied yields a cooler airfoil that will last longer, but decreases engine core flowâ  diminishing overall cycle efficiency. Interestingly, when contemplating the physics of film cooling, optimization is also a key to developing an effective design. The film cooling process is shown to be a complex function of at least two important mechanisms: Increasing the amount of coolant injected reduces the driving temperature (adiabatic wall temperature) of convective heat transferâ  reducing heat load to the airfoil, but coolant injection also disturbs boundary layer and augments convective heat transfer coefficient due to local increase in freestream turbulence.  Accurate numerical modeling of airfoil film cooling performance is a challenge as it is complicated by several factors such as film cooling hole shape, coolant-to-freestream blowing ratio, coolant-to-freestream momentum ratio, surface curvature, approaching boundary layer state, Reynolds number, Mach number, combustor-generated high freestream turbulence, turbulence length scale, and secondary flows just to name a few. Until computational methods are able to accurately simulate these factors affecting film cooling performance, experimental studies are required to assist engineers in designing effective film cooling schemes.  The unique contribution of this research work is to experimentally and numerically investigate the effects of coolant injection rate or blowing ratio and exit Reynolds number/Mach number on the film cooling performance of a showerhead film cooled first stage turbine vane at high freestream turbulence (Tu = 16%) and engine representative exit flow conditions. The vane was arranged in a two-dimensional, linear cascade in a heated, transonic, blow-down wind tunnel. The same facility was also used to conduct experimental and numerical study of the effects of freestream turbulence, and Reynolds number on smooth (without film cooling holes) turbine blade and vane heat transfer at engine representative exit flow conditions. The showerhead film cooled vane was instrumented with single-sided platinum thin film gauges to experimentally determine the Nusselt number and film cooling effectiveness distributions over the surface from a single transient-temperature run. Showerhead film cooling was found to augment Nusselt number and reduce adiabatic wall temperature downstream of injection. The adiabatic effectiveness trend on the suction surface was also found to be influenced by a favorable pressure gradient due to Mach number and boundary layer transition region at all blowing ratio and exit Mach number conditions. The experimental study was also complimented with a 3-D CFD effort to calculate and explain adiabatic film cooling effectiveness and Nusselt number distributions downstream of the showerhead film cooling rows of a turbine vane at high freestream turbulence (Tu = 16%) and engine design exit flow condition (Mex = 0.76). The research work presents a new three-simulations technique to calculate vane surface recovery temperature, adiabatic wall temperature, and surface Nusselt number to completely characterize film cooling performance in a high speed flow. The RANS based v2-f turbulence model was used in all numerical calculations. CFD calculations performed with experiment-matched boundary conditions showed an overall good trend agreement with experimental adiabatic film cooling effectiveness and Nusselt number distributions downstream of the showerhead film cooling rows of the vane.",
+  "description_provenance": [
+    "Author Email: snasir@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: KThole@psu.edu",
+    "Advisor Email: walto@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:52Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 4408061 bytes, checksum: 6db0ecce582cf0f4c17f5e0b8d8e0c77 (MD5)   Previous issue date: 2007-06-30"
+  ],
+  "handle": "28560",
+  "identifier_other": "etd-08072008-211337",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08072008-211337/",
+  "identifier_uri": "http://hdl.handle.net/10919/28560",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High Freestream Turbulence",
+    "Film Cooling",
+    "Heat Transfer",
+    "Gas Turbines",
+    "Transonic Cascade",
+    "Aerodynamics"
+  ],
+  "title": "Showerhead Film Cooling Performance of a Turbine Vane at High Freestream Turbulence in a Transonic Cascade",
+  "type": "Dissertation"
+}

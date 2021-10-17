@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Hossain, Mahmud Shahriar",
+  "contributor_committeechair": "Ramakrishnan, Naren",
+  "contributor_committeemember": [
+    "North, Christopher L.",
+    "Watson, Layne T.",
+    "Davidson, Ian",
+    "Fox, Edward Alan"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:24Z",
+  "date_adate": "2012-07-25",
+  "date_available": "2014-03-14T20:13:24Z",
+  "date_issued": "2012-06-08",
+  "date_rdate": "2012-07-25",
+  "date_sdate": "2012-06-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Exploratory data analysis aims to study datasets through the use of iterative, investigative, and visual analytic algorithms. Due to the difficulty in managing and accessing the growing volume of unstructured data, exploratory analysis of datasets has become harder than ever and an interest to data mining researchers. In this dissertation, we study new algorithms for exploratory analysis of data collections using clusters and stories. Clustering brings together similar entities whereas stories connect dissimilar objects. The former helps organize datasets into regions of interest, and the latter explores latent information by connecting the dots between disjoint instances. This dissertation specifically focuses on five different research aspects to demonstrate the applicability and usefulness of clusters and stories as exploratory data analysis tools. In the area of clustering, we investigate whether clustering algorithms can be automatically \"alternatized\" and how they can be guided to obtain alternative results using flexible constraints as \"scatter-gather\" operations. We demonstrate the application of these ideas in many application domains, including studying the bat biosonar system and designing sustainable products. In the area of storytelling, we develop algorithms that can generate stories using distance, clique, and syntactic constraints. We explore the use of storytelling for studying document collections in the biomedical literature and intelligence analysis domain.",
+  "description_provenance": [
+    "Author Email: msh@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: ltwatson@computer.org",
+    "Advisor Email: davidson@cs.ucdavis.edu",
+    "Advisor Email: fox@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:24Z (GMT). No. of bitstreams: 1 Hossain_MS_D_2012.pdf: 16599341 bytes, checksum: 8897d9293569187ca41034b4384d1c18 (MD5)   Previous issue date: 2012-06-08"
+  ],
+  "handle": "28085",
+  "identifier_other": "etd-06192012-223659",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06192012-223659/",
+  "identifier_uri": "http://hdl.handle.net/10919/28085",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hossain_MS_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Alternative clustering",
+    "Guided clustering",
+    "Storytelling",
+    "Connecting the dots"
+  ],
+  "title": "Exploratory Data Analysis using Clusters and Stories",
+  "type": "Dissertation"
+}

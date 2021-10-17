@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Wells, Lee Jay",
+  "contributor_committeechair": "Camelio, Jaime A.",
+  "contributor_committeemember": [
+    "Williams, Christopher Bryant",
+    "Sturges, Robert H",
+    "Jin, Ran"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-01-16T09:00:09Z",
+  "date_available": "2014-01-16T09:00:09Z",
+  "date_issued": "2014-01-15",
+  "degree_discipline": "Industrial and Systems Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Through recent advancements in high-density dimensional (HDD) measurement technologies, such as 3D laser scanners, data-sets consisting of an almost complete representation of a manufactured part's geometry can now be obtained. While HDD data measurement devices have traditionally been used in reverse engineering application, they are beginning to be applied as in-line measurement devices. Unfortunately, appropriate quality control (QC) techniques have yet to be developed to take full advantage of this new data-rich environment and for the most part rely on extracting discrete key product characteristics (KPCs) for analysis. In order to maximize the potential of HDD measurement technologies requires a new quality paradigm. Specifically, when presented with HDD data, quality should not only be assessed by discrete KPCs but should consider the entire part being produced, anything less results in valuable data being wasted.  \tThis dissertation addresses the need for adapting current techniques and developing new approaches for the use of HDD data in manufacturing systems to increase overall quality control (QC) capabilities. Specifically, this research effort focuses on the use of HDD data for 1) Developing a framework for self-correcting compliant assembly systems, 2) Using statistical process control to detect process shifts through part surfaces, and 3) Performing automated part inspection for non-feature based faults. The overarching goal of this research is to identify how HDD data can be used within these three research focus areas to increase QC capabilities while following the principles of the aforementioned new quality paradigm.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-16T09:00:09Z (GMT). No. of bitstreams: 2 Wells_LJ_D_2014.pdf: 3513504 bytes, checksum: 998ef384012168cb3829b5e9bee73b6e (MD5) Wells_LJ_D_2014_support_1.pdf: 195900 bytes, checksum: 968595104211284be123478e91a94930 (MD5)   Previous issue date: 2014-01-15",
+  "format_medium": "ETD",
+  "handle": "24865",
+  "identifier_other": "vt_gsexam:2064",
+  "identifier_uri": "http://hdl.handle.net/10919/24865",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Compliant Assembly",
+    "High Density Dimensional Data",
+    "Inspection Systems",
+    "Statistical Process Control",
+    "Surface Monitoring",
+    "Quality Control"
+  ],
+  "title": "Advancing Manufacturing Quality Control Capabilities Through The Use Of In-Line High-Density Dimensional Data",
+  "type": "Dissertation"
+}

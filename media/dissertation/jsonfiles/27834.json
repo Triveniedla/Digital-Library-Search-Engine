@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Halverson, Howard Gerhard",
+  "contributor_committeechair": "Curtin, William A. Jr.",
+  "contributor_committeemember": [
+    "Kraige, Luther Glenn",
+    "Kampe, Stephen L.",
+    "Lesko, John J.",
+    "Reifsnider, Kenneth L."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:12:25Z",
+  "date_adate": "2000-05-23",
+  "date_available": "2014-03-14T20:12:25Z",
+  "date_issued": "2000-05-08",
+  "date_rdate": "2001-05-23",
+  "date_sdate": "2000-05-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this work, the deformation and strength of an oxide/oxide ceramic matrix composite system under stress-rupture conditions were studied both experimentally and analytically.  A rupture model for unidirectional composites which incorporates fiber strength statistics, fiber degradation, and matrix damage was derived.  The model is based on a micromechanical analysis of the stress state in a fiber near a matrix crack and includes the effects of fiber pullout and global load sharing from broken to unbroken fibers.  The parameters required to produce the deformation and lifetime predictions can all be obtained independently of stress-rupture testing through quasi-static tension tests and tests on the individual composite constituents.  Thus the model is truly predictive in nature.  The predictions from the model were compared to the results of an extensive experimental program.  The model captures the trends in steady-state creep and tertiary creep but the lifetime predictions are extremely conservative.  The model was further extended to the behavior of cross-ply or woven materials through the use of numeric representations of the fiber stresses as the fibers bridge matrix cracks.  Comparison to experiments on woven materials demonstrated the relationship between the behavior of the unidirectional and cross-ply geometries.  Finally, an empirical method for predicting the durability of materials which exhibit multiple damage modes is examined and compared to results of accurate Monte Carlo simulations.  Such an empirical method is necessary for the durability analysis of large structural members with varying stress and temperature fields over individual components.  These analyses typically require the use  of finite element methods, but the extensive computations required in micromechanical models render them impractical.  The simple method examined in this work, however, is shown to have applicability only over a narrow range of material properties.",
+  "description_provenance": [
+    "Author Email: hhalvers@vt.edu",
+    "Advisor Email: kraige@vt.edu",
+    "Advisor Email: kampe@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: curtin@engin.brown.edu",
+    "Advisor Email: mrl@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:25Z (GMT). No. of bitstreams: 1 HGHDissertation.pdf: 15565942 bytes, checksum: 246273592ced5d56f267cded8d9cdc3e (MD5)   Previous issue date: 2000-05-08"
+  ],
+  "handle": "27834",
+  "identifier_other": "etd-05222000-11160059",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05222000-11160059/",
+  "identifier_uri": "http://hdl.handle.net/10919/27834",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HGHDissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "stress-rupture",
+    "high temperature",
+    "ceramic matrix composite",
+    "micromechanics",
+    "creep"
+  ],
+  "title": "Durability of Ceramic Matrix Composites at Elevated Temperatures: Experimental Studies and Predictive Modeling",
+  "type": "Dissertation"
+}

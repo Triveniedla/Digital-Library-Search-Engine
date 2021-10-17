@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Rautenberg, Carlos Nicolas",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeemember": [
+    "Zietsman, Lizette",
+    "Herdman, Terry L.",
+    "Cliff, Eugene M.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:10:22Z",
+  "date_adate": "2010-05-05",
+  "date_available": "2014-03-14T20:10:22Z",
+  "date_issued": "2010-03-31",
+  "date_rdate": "2010-05-05",
+  "date_sdate": "2010-04-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this thesis we develop a rigorous mathematical framework for analyzing and approximating optimal sensor placement problems for distributed parameter systems and apply these results to PDE problems defined by the convection-diffusion equations. The mathematical problem is formulated as a distributed parameter optimal control problem with integral Riccati equations as constraints.  In order to prove existence of the optimal sensor network and to construct a framework in which to develop rigorous numerical integration of the Riccati equations, we develop a theory based on Bochner integrable solutions of the Riccati equations. In particular, we focus on $\\I_p$-valued continuous solutions of the Bochner integral Riccati equation. We give new results concerning the smoothing effect achieved by multiplying a general strongly continuous mapping by operators in $\\I_p$. These smoothing results are essential to the proofs of the existence of Bochner integrable solutions of the Riccati integral equations.  We also establish that multiplication of continuous $\\I_p$-valued functions improves convergence properties of strongly continuous approximating mappings and specifically approximating $C_0$-semigroups. We develop a Galerkin type numerical scheme for approximating the solutions of the integral Riccati equation and prove convergence of the approximating solutions in the $\\I_p$-norm. Numerical examples are given to illustrate the theory.",
+  "description_provenance": [
+    "Author Email: rautenbe@vt.edu",
+    "Advisor Email: lzietsma@vt.edu",
+    "Advisor Email: terry.herdman@vt.edu",
+    "Advisor Email: ecliff@vt.edu",
+    "Advisor Email: jborggaa@vt.edu",
+    "Advisor Email: jaburns@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:22Z (GMT). No. of bitstreams: 1 Rautenberg_CN_D_2010.pdf: 10921860 bytes, checksum: b7c81c0b80d59a0d52d0cb7859ad01c9 (MD5)   Previous issue date: 2010-03-31"
+  ],
+  "handle": "27103",
+  "identifier_other": "etd-04212010-100919",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04212010-100919/",
+  "identifier_uri": "http://hdl.handle.net/10919/27103",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Rautenberg_CN_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Riccati Equation",
+    "Kalman Filter",
+    "Mobile Sensor Networks",
+    "Optimal Filtering"
+  ],
+  "title": "A Distributed Parameter Approach to Optimal Filtering and Estimation with Mobile Sensor Networks",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Huang, Guorong",
+  "contributor_committeechair": "Deisenroth, Michael P.",
+  "contributor_committeemember": [
+    "Russell, Roberta S.",
+    "Ellis, Kimberly P.",
+    "Chen, Fengshan Frank"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:47Z",
+  "date_adate": "2007-09-04",
+  "date_available": "2014-03-14T20:15:47Z",
+  "date_issued": "2007-08-09",
+  "date_rdate": "2007-09-04",
+  "date_sdate": "2007-08-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of a cost model is to provide designers and decision-makers with accurate cost information to assess and compare multiple alternatives for obtaining the optimal solution and controlling cost. The cost models developed in the design phases are the most important and the most difficult to develop. Therefore it is necessary to identify appropriate cost drivers and employ appropriate modeling techniques to accurately estimate cost for directing designers. The objective of this study is to provide higher predictive accuracy of cost estimation for directing designer in the early design phases of complex products.<p>  After a generic cost estimation model is presented and the existing methods for identification of cost drivers and different cost modeling techniques are reviewed, the dissertation first proposes new methodologies to identify and select the cost drivers: Causal-Associated (CA) method and Tabu-Stepwise selection approach. The CA method increases understanding and explanation of the cost analysis and helps avoid missing some cost drivers. The Tabu-Stepwise selection approach is used to select significant cost drivers and eliminate irrelevant cost drivers under nonlinear situation. A case study is created to illustrate their procedure and benefits. The test data show they can improve predictive capacity.<p>  Second, this dissertation introduces Tabu-SVR, a nonparametric approach based on support vector regression (SVR) for cost estimation for complex products in the early design phases. Tabu-SVR determines the parameters of SVR via a tabu search algorithm improved by the author. For verification and validation of performance on Tabu-SVR, the five common basic cost characteristics are summarized: accumulation, linear function, power function, step function, and exponential function. Based on these five characteristics and the Flight Optimization Systems (FLOPS) cost module (engine part), seven test data sets are generated to test Tabu-SVR and are used to compare it with other traditional methods (parametric modeling, neural networking and case-based reasoning). The results show Tabu-SVR significantly improves the performance compared to SVR based on empirical study. The radial basis function (RBF) kernel, which is much more robust, often has better performance over linear and polynomial kernel functions. Compared with other traditional cost estimating approaches, Tabu-SVR with RBF kernel function has strong predicable capability and is able to capture nonlinearities and discontinuities along with interactions among cost drivers.<p>  The third part of this dissertation focuses on semiparametric cost estimating approaches. Extensive studies are conducted on three semiparametric algorithms based on SVR. Three data sets are produced by combining the aforementioned five common basic cost characteristics. The experiments show Semiparametric Algorithm 1 is the best approach under most situations. It has better cost estimating accuracy over the pure nonparametric approach and the pure parametric approach. The model complexity influences the estimating accuracy for Semiparametric Algorithm 2 and Algorithm 3. If the inexact function forms are used as the parametric component of semiparametric algorithm, they often do not bring any improvement of cost estimating accuracy over the pure nonparametric approach and even worsen the performance.<p>  The last part of this dissertation introduces two existing methods for sensitivity analysis to improve the explanation capability of the cost estimating approach based on SVR. These methods are able to show the contribution of cost drivers, to determine the effect of cost drivers, to establish the profiles of cost drivers, and to conduct monotonic analysis. They finally can help designers make trade-off study and answer â  what-ifâ   questions.",
+  "description_provenance": [
+    "Author Email: grhuang@vt.edu",
+    "Advisor Email: rrussell@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: mpdeis@vt.edu",
+    "Advisor Email: FF.Chen@utsa.edu",
+    "Made available in DSpace on 2014-03-14T20:15:47Z (GMT). No. of bitstreams: 1 GH_Dissertation.pdf: 1594823 bytes, checksum: 2cffc0121a70cf8aed6755c76cd3b0d7 (MD5)   Previous issue date: 2007-08-09"
+  ],
+  "handle": "28825",
+  "identifier_other": "etd-08292007-223225",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08292007-223225/",
+  "identifier_uri": "http://hdl.handle.net/10919/28825",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "GH_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cost Estimation",
+    "Semiparametric Approach",
+    "Sensitivity Analysis",
+    "Tabu Search",
+    "Support Vector Regression",
+    "Cost Driver Identification",
+    "Cost Driver Selection"
+  ],
+  "title": "Cost Modeling Based on Support Vector Regression for Complex Products During the Early Design Phases",
+  "type": "Dissertation"
+}

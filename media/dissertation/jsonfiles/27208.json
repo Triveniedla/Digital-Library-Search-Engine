@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Ren, Yuancheng",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Borojevich, Dushan",
+    "Van Wyk, Daan",
+    "Lu, Guo-Quan",
+    "Lindner, Douglas K."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:38Z",
+  "date_adate": "2005-04-27",
+  "date_available": "2014-03-14T20:10:38Z",
+  "date_issued": "2005-04-22",
+  "date_rdate": "2005-04-27",
+  "date_sdate": "2005-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "It is perceived that Mooreâ  s Law will prevail at least for the next decade, with continuous advancements of processing technologies for very-large-scale integrated (VLSI) circuits. Nano technology is driving VLSI circuits in a path of greater transistor integration, faster clock frequency, and lower operation voltage. This has imposed a new challenge for delivering high- quality power to modern processors. Power management technology is critical for transferring the required high current in a highly efficient way, and accurately regulating the sub-1V voltage in very fast dynamic transient response conditions. Furthermore, the VRs are limited in a given area and the power density is important to save the precious real estate of the motherboard. Based on the power delivery path model, the analysis results show that as long as the bandwidth can reach around 350 kHz, the bulk capacitor of the VR can be completely eliminated, which means significant savings in cost and real estate. Analysis also indicates that 650kHz bandwidth can reduce the number of the decoupling capacitor from 230 to 50 for future microprocessor case. Beyond 650kHz, the reduction is not obvious any more due to the parasitic components along the power delivery path. Following the vision of high bandwidth, the VRs need to operate at much higher frequency than todayâ  s practice. Unfortunately, the multiphase buck converter cannot benefit from it due to the low efficiency at high switching frequency. The extreme duty is the bottleneck. The extreme duty cycle increases VR switching loss, reverse recovery loss, and conduction loss; therefore makes the 12V-input VR efficiency drop a good deal when compared with 5V-input VR efficiency. Two-stage approach is proposed in this dissertation to solve this issue. The analysis shows that the two-stage conversion has much better high frequency capability than the conventional single stage VRs. Based on todayâ  s commercial devices, 2-MHz is realized by the hardware and   350kHz bandwidth is achieved to eliminate the output bulk capacitors. Further improvement based on future devices and several proposed methods of reducing switching loss and body diode loss can push the switching frequency up to 4MHz while maintaining good efficiency. Such a high frequency makes the high bandwidth design (650kHz) feasible. Hence, the output capacitance can be significantly reduced to save cost and real estate. The two-stage concept is also effective in laptop computer and 48V DPS applications. It has been experimentally proved that two-stage VR is able to achieve higher switching frequency than single stage not only at full load condition but also at light load condition by the proposed ABVP and AFP concept based on two-stage configuration. These unique control strategies make the two-stage approach even more attractive. As the two-stage approach is applied to 48V DPS applications, such as telecommunication system and server systems, more efficient and higher power density power supply can be achieved while greatly cut down the cost. Therefore, after the two-stage approach is proposed, it has been widely adopted by the industry. In order to further reduce the output capacitance, the power architecture of computer needs to be modified. Based on two-stage approach, one possible solution is to move the second stage VR up to the OLGA board. Based on this structure, the parasitics can be dramatically reduced and the number of the cavity capacitor is reduced from 50 to 14. By reducing ESL of the capacitor, the output capacitance could be further reduced. After that and based on two-stage approach again, VR+LR structure is discussed, which provides the opportunity to reduce the output capacitance and integrate the power supply with CPU. The feasibility is studied in this dissertation from both power loss reduction and output capacitance reduction perspectives. Experimental results prove that LR can significantly reduce the voltage spike while minimizing the output capacitance.  As a conclusion, the two-stage approach is a promising solution for powering future processors. It is widely effective in computer and communication systems. Far beyond that, it provides a feasible platform for new architectures to power the future microprocessors.",
+  "description_provenance": [
+    "Author Email: yuren@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:38Z (GMT). No. of bitstreams: 1 dissertation_finalized.pdf: 5294296 bytes, checksum: 1d9ca5d9ebf21c2e423181a6914062fb (MD5)   Previous issue date: 2005-04-22"
+  ],
+  "handle": "27208",
+  "identifier_other": "etd-04242005-212752",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242005-212752/",
+  "identifier_uri": "http://hdl.handle.net/10919/27208",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_finalized.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "high efficiency",
+    "high frequency",
+    "two-stage VR"
+  ],
+  "title": "High Frequency, High Efficiency Two-Stage Approach for Future Microprocessors",
+  "type": "Dissertation"
+}

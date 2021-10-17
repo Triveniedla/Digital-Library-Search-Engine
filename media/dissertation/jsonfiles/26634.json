@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Falin, Lee J.",
+  "contributor_committeechair": "Tyler, Brett M.",
+  "contributor_committeemember": [
+    "Terrell, George R.",
+    "Laubenbacher, Reinhard C.",
+    "Mortveit, Henning S."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:08:55Z",
+  "date_adate": "2011-04-06",
+  "date_available": "2014-03-14T20:08:55Z",
+  "date_issued": "2011-03-22",
+  "date_rdate": "2011-04-06",
+  "date_sdate": "2011-04-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The widespread use of high-throughput experimental assays designed to measure the entire complement of a cells genes or gene products has led to vast stores of data which are extremely plentiful in terms of the number of items they can measure in a single sample, yet often sparse in the number of samples per experiment due to their high cost. This often leads to datasets where the number of treatment levels or time points sampled is limited, or where there are very small numbers of technical and/or biological replicates. If the goal is to use this data to infer network models, these sparse datasets can lead to under-determined systems. While model parameter variation and its effects on model robustness has been well studied, most of this work has looked exclusively at accounting for variation only from measurement error. In contrast, little work has been done to isolate and quantify the amount of parameter variation caused by the uncertainty in the unmeasured regions of time course experiments. Here we introduce a novel algorithm to quantify the uncertainty in the unmeasured inter- vals between biological measurements taken across a set of quantitative treatments. The algorithm provides a probabilistic distribution of possible gene expression values within un- measured intervals, based on a plausible biological constraint. We show how quantification of this uncertainty can be used to guide researchers in further data collection by identifying which samples would likely add the most information to the system under study. We also present an application of this method to isolate and quantify two distinct sources of model parameter variation. In the concluding chapter we discuss another source of uncertainty in systems biology, namely gene function prediction, and compare several algorithms designed for that purpose.",
+  "description_provenance": [
+    "Author Email: lee.falin@gmail.com",
+    "Advisor Email: bmtyler@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: hmortvei@vbi.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:55Z (GMT). No. of bitstreams: 1 Falin_LJ_D_2011.pdf: 9030335 bytes, checksum: 71c91417fb11a3444d0fd845fbd29556 (MD5)   Previous issue date: 2011-03-22"
+  ],
+  "handle": "26634",
+  "identifier_other": "etd-04042011-112939",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04042011-112939/",
+  "identifier_uri": "http://hdl.handle.net/10919/26634",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Falin_LJ_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Gene Expression",
+    "Uncertainty Minimization",
+    "Microarray",
+    "Bioinformatics"
+  ],
+  "title": "Systems Uncertainty in Systems Biology & Gene Function Prediction",
+  "type": "Dissertation"
+}

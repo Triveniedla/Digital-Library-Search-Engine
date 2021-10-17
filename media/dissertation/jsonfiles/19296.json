@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Mu, Mingkai",
+  "contributor_committeechair": "Lee, Fred C",
+  "contributor_committeemember": [
+    "Mattavelli, Paolo",
+    "Viehland, Dwight D",
+    "Boroyevich, Dushan",
+    "De La Reelopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-03-23T08:00:16Z",
+  "date_available": "2013-03-23T08:00:16Z",
+  "date_issued": "2013-03-22",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The core used to build power inductors and transformers are soft magnetic materials. When there is alternating external field, the magnetic moments rotate and consume energy, which is the core loss. The core loss depends on the AC flux frequency, amplitude, waveform, DC bias and temperature. These dependences are nonlinear and difficult to predict. How to measure, model and analyze the core loss is a challenge for decades. <br />In this dissertation, two new core loss measurement methods are introduced first. These two methods use the reactive cancellation concept to reduce the sensitivity to phase discrepancy, which will destroy the accuracy in classic two-winding method for high frequency high quality factor sample measurements. By using the new measurement techniques the accuracy can be improved by several orders. The first is for sinusoidal waveforms, and the second is for non-sinusoidal wave. The new methods enable high frequency core loss characterization capability, which will help scientists and engineers on material research and inductor/transformer design. Measurement examples, considerations and error analysis are demonstrated and discussed in detail. <br />With the measurement techniques, the core loss under rectangular AC voltage and DC bias current are investigated. A new core loss model named rectangular extension Steinmetz equation (RESE) is proposed based on the measurement results. The new model is shown to be more accurate than the existing core loss models. Several commercially available MnZn ferrites are characterized and modeled. <br />Other than conventional MnZn ferrite materials, three commercial LTCC ferrite materials are characterized for integrated power supply applications. Based on characterized properties of these LTCCs, a group of new LTCC ferrites are fabricated and tested. The new LTCC is fabricated by laminating commercial LTCC tapes and co-firing. The new LTCC is demonstrated to have over 50% more inductance over the commercial LTCC materials. This work indicates that the power electronics engineers should work with material engineers to get the optimum material for a given application. <br />In the last part, the core loss of the partially saturated lateral flux planar inductor is analyzed. The challenge of the analysis is the complexity of the distribution of bias field and flux density in a highly biased planar inductor. Each point in the core is working at different excitation and bias condition, and the core loss density is very non-uniform. The proposed method combines the characterization tested in previous chapters and the commercial finite element tool. Experiments verified that the calculation errors are within about 10%.<br />In conclusion, the research in this dissertation proposed a complete solution to measure, model and analyze the high frequency core loss. This solution will not only facilitate fundamental research on physics understanding and material innovation, but also development of power electronics and RF applications. <br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-23T08:00:16Z (GMT). No. of bitstreams: 2 Mu_M_D_2013.pdf: 6136702 bytes, checksum: 01a1d0b21626844d70d9af6cb2024d09 (MD5) Mu_M_D_2013_support_1.pdf: 218297 bytes, checksum: e865237fd5e3feb33b5ab3f9f6786a06 (MD5)   Previous issue date: 2013-03-22",
+  "format_medium": "ETD",
+  "handle": "19296",
+  "identifier_other": "vt_gsexam:410",
+  "identifier_uri": "http://hdl.handle.net/10919/19296",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Magnetic core loss",
+    "measurement",
+    "high frequency",
+    "non-sinusoidal excitation",
+    "DC bias",
+    "core loss model",
+    "finite element"
+  ],
+  "title": "High Frequency Magnetic Core Loss Study",
+  "type": "Dissertation"
+}

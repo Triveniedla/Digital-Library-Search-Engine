@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Mansour, Riham",
+  "contributor_committeechair": "Bohner, Shawn A.",
+  "contributor_committeemember": [
+    "McCrickard, Donald Scott",
+    "El-Kassas, Sherif",
+    "Gracanin, Denis",
+    "Eltoweissy, Mohamed Y."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:08:23Z",
+  "date_adate": "2009-04-20",
+  "date_available": "2014-03-14T20:08:23Z",
+  "date_issued": "2009-03-11",
+  "date_rdate": "2009-04-20",
+  "date_sdate": "2009-03-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Engineering secure software remains a significant challenge for todayâ  s software organizations as they struggle to understand the implications of security on their systems and develop systems that guarantee specified software security properties. The use of formal methods that are based on mathematical models has long been advocated in the development of secure systems, yet the promise of formal methods has not been realized. This is due to the additional discipline needed to formulate precisely the requirements and due complexities that often confront engineers. Further, the cost of development and the requisite learning curve of formal methods are quite high making them cost prohibitive to apply, especially for large software.   The transition from requirements to design has been one of the most difficult steps in software development. Moreover, effective methods for deriving design from requirements that guarantee retention of the intended security properties remain largely unrealized on a repeatable and consistent basis. If security requirements are formalized and transformed into design using formal methods, the potential for security vulnerabilities would be diminished through better clarity, completeness, and consistency. Therefore, a requirements specification must be systematically transformable to a formal representation, and through effective formal methods the design can be derived such that the security properties are preserved and conveyed.  This dissertation presents the FADES (Formal Analysis and Design for Engineering Security) approach that couples goal-oriented requirements specification with formal design specification to develop secure software in a constructive, provable and cost-effective way. To the best of our knowledge, FADES is the first security engineering approach that provides a systematic and automated bridge between semi-formal security requirements and formal design and implementation. FADES maintains the completeness and consistency of the security requirements specified with KAOS (Knowledge Acquisition for autOmated Specifications) when transformed to B formal specifications. Relaxing formality during requirements analysis enables security requirements to be better organized for producing more complete, consistent and clear requirements. The KAOS requirements model is then transformed to B, a popular formal representation used to derive and refine software systems. Security design specifications and implementation are produced using the B formal method which preserves the requisite security requirement properties.  FADES treats security-specific elements in a systematic and constructive way while considering security early in the development lifecycle. Moreover, employing FADES provides better confidence for  security evaluators in the evaluation of trusted software. A side effect of employing formal methods in development is the availability of sufficient traceability information at the various phases of development and maintenance allowing for more accurate impact analysis of security changes. FADES has been examined empirically both by security engineering experts and practitioners. Results obtained from the controlled experiments compare FADES to other formal methods, and show that FADES preserves security properties while maintaining better consistency, quality, and completeness. This is accomplished at a lower cost and with better results. These results have been evaluated by academic and industry experts working in the area of security and formal methods.",
+  "description_provenance": [
+    "Author Email: rhabdel@vt.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: sherif@aucegypt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: toweissy@vt.edu",
+    "Advisor Email: sbohner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:23Z (GMT). No. of bitstreams: 3 RihamMansour-ETD-FinalDefensDocument(new).pdf: 4032554 bytes, checksum: 6cd9467ec70b57b5e240919b679e15f2 (MD5) approvalLetter(experiment2).pdf: 217558 bytes, checksum: 2fcc01683584fc659902a0454a3469b3 (MD5) approvalLetter(experiment1).pdf: 253612 bytes, checksum: 3728dc78eef07b4248c31f1527f60d03 (MD5)   Previous issue date: 2009-03-11"
+  ],
+  "handle": "26486",
+  "identifier_other": "etd-03232009-182707",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03232009-182707/",
+  "identifier_uri": "http://hdl.handle.net/10919/26486",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "RihamMansour-ETD-FinalDefensDocument(new).pdf",
+    "approvalLetter(experiment2).pdf",
+    "approvalLetter(experiment1).pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Security Engineering",
+    "Formal methods",
+    "Security",
+    "Formal Analysis and Design",
+    "Goal-Oriented Requirements Analysis",
+    "Software Engineering"
+  ],
+  "title": "Formal Analysis and Design for Engineering Security",
+  "type": "Dissertation"
+}

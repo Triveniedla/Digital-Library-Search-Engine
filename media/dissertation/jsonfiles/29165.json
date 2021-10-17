@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Chae, Gyoo-Soo",
+  "contributor_committeechair": "Scales, Wayne A.",
+  "contributor_committeemember": [
+    "Beattie, Christopher A.",
+    "Besieris, Ioannis M.",
+    "Poon, Ting-Chung",
+    "Brown, Gary S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:00Z",
+  "date_adate": "2000-10-11",
+  "date_available": "2014-03-14T20:17:00Z",
+  "date_issued": "2000-09-28",
+  "date_rdate": "2001-10-11",
+  "date_sdate": "2000-10-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "There has been a great deal of interest in investigating numerous unique types of electrostatic and electromagnetic waves and instabilities in dusty plasmas. Dusty plasmas are characterized by the presence of micrometer or submicrometer size dust grains immersed in a partially or fully ionized plasma. In this study, a two-dimensional numerical model is presented to study waves and instabilities in dusty plasmas. Fundamental differences exist between dusty plasmas and electron-ion plasmas because of dust charging processes. Therefore, a primary goal of this study is to consider the unique effects of dust charging on collective effects in dusty plasmas. The background plasma electrons and ions here are treated as two interpenerating fluids whose densities vary by dust charging. The dust is treated with a Particle-In-Cell PIC model in which the dust charge varies with time according to the standard dust charging model. Fourier spectral methods with a predictor-corrector time advance are used to temporally evolve the background plasma electron and ion equations. The dust charge fluctuation mode and the damping of lower hybrid oscillations due to dust charging, as well as plasma instabilities associated with dust expansion into a magnetized background plasma are investigated using our numerical model. Also, an ion acoustic streaming instability in unmagnetized dusty plasmas due to dust charging is investigated. The numerical simulation results show good agreement with theoretical  predictions and provide further insight into dust charging effects on wave modes and instabilities in dusty plasmas.",
+  "description_provenance": [
+    "Author Email: gchae@vt.edu",
+    "Advisor Email: wscales@vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:00Z (GMT). No. of bitstreams: 7 chae0.pdf: 62036 bytes, checksum: f1c290d19c9074bac100cd97724ff605 (MD5) chae4.pdf: 513141 bytes, checksum: f33b72ad7cad7742aa8916ab32b20073 (MD5) chae6.pdf: 54926 bytes, checksum: c240c048ffc83b3bc50bd3ac1c40e814 (MD5) chae3.pdf: 188096 bytes, checksum: 0b6fc6ab803609b5e6c70009dd1fa629 (MD5) chae1.pdf: 81566 bytes, checksum: 2f97d143a6e4959f86c064b348e2275f (MD5) chae5.pdf: 327249 bytes, checksum: 5bc11c31f028227ade11b20a7f42b40e (MD5) chae2.pdf: 60636 bytes, checksum: 50430a0bbe3663f26df80bef29ed3efc (MD5)   Previous issue date: 2000-09-28"
+  ],
+  "handle": "29165",
+  "identifier_other": "etd-10022000-10160034",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10022000-10160034/",
+  "identifier_uri": "http://hdl.handle.net/10919/29165",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chae0.pdf",
+    "chae4.pdf",
+    "chae6.pdf",
+    "chae3.pdf",
+    "chae1.pdf",
+    "chae5.pdf",
+    "chae2.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Dusty Plasmas",
+    "Particle-In-Cell Code",
+    "Numerical Simulation"
+  ],
+  "title": "Numerical Simulation of Ion Waves in Dusty Plasmas",
+  "type": "Dissertation"
+}

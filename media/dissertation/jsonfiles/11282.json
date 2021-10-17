@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Col, Bekir",
+  "contributor_committeechair": "Larson, Timothy J.",
+  "contributor_committeemember": [
+    "Stevens, Ann M.",
+    "Gillaspy, Glenda E.",
+    "Popham, David L.",
+    "Dean, Dennis R."
+  ],
+  "contributor_department": "Biochemistry",
+  "date_accessioned": "2011-08-22T19:09:12Z",
+  "date_adate": "2004-10-22",
+  "date_available": "2011-08-22T19:09:12Z",
+  "date_issued": "2004-02-24",
+  "date_rdate": "2006-10-22",
+  "date_sdate": "2004-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The glpX gene of Escherichia coli encodes fructose 1,6-bisphosphatase II (FBPase II), an enzyme that would appear to be redundant with FBPase I, encoded by fbp.  However, glpX mutants have no apparent phenotype, while fbp mutants are unable to grow on gluconeogenic substrates as sole carbon sources, suggesting that GlpX function is insufficient for growth of fbp mutants under these conditions.  To gain insight into the physiological functions of the FBPases, regulation of glpX expression was investigated.  It was found that glpX is transcribed as part of a complex glpFKX operon containing promoters upstream of glpF, glpK and glpX (PglpF, PglpK, PglpX, respectively).  Transcription start sites of PglpX were found at -24 and -41 relative to the ATG translation initiation site using primer extension analysis.  Unlike PglpF, these newly found promoters were not subject to regulation by GlpR or cAMP-CRP.  Cra (Catabolite Repressor/Activator) positively regulated expression from PglpK and PglpX by increasing transcription approximately 2 fold.  Western analysis using GlpX polyclonal antibodies revealed that GlpX levels were higher in cultures grown on glycerol compared with levels in maltose- or glucose-grown cultures (glycerol>maltose>glucose).  Various strains and growth conditions were used to show that GlpX levels are regulated by GlpR, suggesting that PglpF can give rise to expression of glpX.  GlpX protein was present in a strain containing a polar insertion in glpK, indicating that PglpX can also give rise to expression of glpX.  Strains deficient in FBPase I or CsrA (carbon starvation regulator) did not reveal any difference in GlpX levels with respect to the wild type.  All of these data indicate that glpX expression is achieved by its own promoter as well as the operon promoter, PglpF.  Finally, the results show that the delta-fbp phenotype is not due to the absence of GlpX.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:09:12Z (GMT). No. of bitstreams: 1 bcol_thesis_etd_FINAL.pdf: 2544181 bytes, checksum: 28aa3c07837de8f20f17b40fede2833a (MD5)   Previous issue date: 2004-02-24",
+    "Author Email: bcol@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: gillaspy@vt.edu",
+    "Advisor Email: tilarson@vt.edu",
+    "Advisor Email: dpopham@vt.edu",
+    "Advisor Email: deandr@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11282",
+  "identifier_other": "etd-10112004-092507",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112004-092507",
+  "identifier_uri": "http://hdl.handle.net/10919/11282",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "bcol_thesis_etd_FINAL.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "glp regulon",
+    "gluconeogenesis",
+    "carbon metabolism",
+    "fructose 1 6-bisphosphatase",
+    "glpFKX operon"
+  ],
+  "title": "Regulation of Fructose 1,6-bisphosphatase II (GlpX) Gene Expression in Escherichia coli",
+  "type": "Dissertation"
+}

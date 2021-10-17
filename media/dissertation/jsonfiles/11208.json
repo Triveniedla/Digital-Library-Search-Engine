@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Jiang, Jing",
+  "contributor_committeecochair": [
+    "Tranter, William H.",
+    "Buehrer, Richard Michael"
+  ],
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Ramakrishnan, Naren",
+    "Jacobs, Ira",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:02:29Z",
+  "date_adate": "2004-07-22",
+  "date_available": "2011-08-22T19:02:29Z",
+  "date_issued": "2004-06-30",
+  "date_rdate": "2004-07-22",
+  "date_sdate": "2004-07-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation focuses on downlink multi-antenna transmission with packet scheduling in a wireless packet data network. The topic is viewed as a critical system design problem for future high-speed packet networks requiring extremely high spectral efficiency. Our aim is to illustrate the interaction between transmission schemes at the physical layer and scheduling algorithms at the medium access control (MAC) layer from a sum-capacity perspective. Various roles of multiple antennas are studied under channel-aware scheduling, including diversity, beamforming and spatial multiplexing. At a system performance level, our work shows that downlink throughput can be optimized by joint precoding across multiple transmit antennas and exploiting small-scale fading of distributed multiple input and multiple output (MIMO) channels. There are three major results in this dissertation. First, it is shown that over a MIMO Gaussian broadcast channel, and under channel-aware scheduling, open-loop transmit antenna diversity actually reduces the achievable sum rate. This reveals a negative interaction between open-loop antenna diversity and the closed-loop multiuser diversity through scheduling. Second, a suboptimal dirty paper coding (DPC) approach benefits greatly from multiuser diversity by an efficient packet scheduling algorithm. Performance analysis of a suboptimal greedy scheduling algorithm indicates that, compared with the receiver-centric V-BLAST method, it can achieve a much larger scheduling gain over a distributed MIMO channel. Further, pre-interference cancellation allows for transmissions free of error propagation. A practical solution, termed Tomlinson-Harashima precoding (THP), is studied under this suboptimal scheduling algorithm. Similar to V-BLAST, a reordering is applied to minimize the average error rate, which introduces only a negligible sum-rate loss in the scenarios investigated. Third, for an orthogonal frequency division multiplexing (OFDM) system using MIMO precoding, it is shown that a DPC-based approach is readily applicable and can be easily generalized to reduce the peak-to-average power ratio (PAR) up to 5 dB without affecting the receiver design. Simulations show that in an interference-limited multi-cell scenario, greater performance improvement can be achieved by interference avoidance through adaptive packet scheduling, rather than by interference diversity or averaging alone. These findings suggest that, coordinated with channel-aware scheduling, adaptive multiplexing in both spatial and frequency domains provides an attractive downlink solution from a total capacity point of view.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:29Z (GMT). No. of bitstreams: 1  diss_jing.pdf: 2283882 bytes, checksum: 1956d771f2ff705704596a3a4920a759 (MD5)    Previous issue date: 2004-06-30",
+    "Author Email: jjiang@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: ramakris@trinetra.cs.vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: reedjh@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11208",
+  "identifier_other": "etd-07192004-143816",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07192004-143816",
+  "identifier_uri": "http://hdl.handle.net/10919/11208",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss_jing.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "capacity",
+    "diversity",
+    "spatial multiplexing",
+    "precoding",
+    "Multi-antenna broadcast channel",
+    "scheduling"
+  ],
+  "title": "Capacity-approaching data transmission in MIMO broadcast channels",
+  "type": "Dissertation"
+}

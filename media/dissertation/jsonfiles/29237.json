@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Woo, Youngjin",
+  "contributor_committeechair": "Plaut, Raymond H.",
+  "contributor_committeemember": [
+    "Rojiani, Kamal B.",
+    "Singh, Mahendra P.",
+    "Dillard, David A.",
+    "Holzer, Siegfried M."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:17:16Z",
+  "date_adate": "2002-10-18",
+  "date_available": "2014-03-14T20:17:16Z",
+  "date_issued": "2002-09-13",
+  "date_rdate": "2003-10-18",
+  "date_sdate": "2002-10-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A numerical analysis of the loop tack test is presented to study the behavior of the strip and the influence of several factors, and the results are compared with experimental ones. The numerical results can be applied to model the performance of a pressure sensitive adhesive (PSA). Since the simulation of the loop tack test includes geometrical and material nonlinearities, it is solved numerically by the finite element method. The finite element program ABAQUS is used throughout the research. As the teardrop shaped loop is pushed down onto the adhesive and then pulled up, the variation of the loop behavior is investigated using two-dimensional (2D) and three-dimensional (3D) models. A bilinear elastic-plastic constitutive law is used for the strip. The deformation of the pressure sensitive adhesive is approximated as uniaxial extension of independent adhesive strands. A Winkler-type nonlinear elastic foundation and a viscoelastic foundation are used to model the PSA. A nonlinear elastic spring function is used, which is composed of a compression region for the bonding phase and a tension region for the debonding phase. A debonding failure criterion is assumed, in which an adhesive strand will debond when it reaches a certain length. During the bonding phase, it is assumed that the loop is perfectly bonded, and the contact time is not included. Curves of the pulling force versus the top displacement (i.e., tack curves) are obtained throughout the simulation. A parametric study is made with respect to the nonlinear spring function parameters, experimental uncertainties, and strip thickness. Anticlastic bending behavior is shown in the 3D analysis, and the contact patterns are presented. The effects of the elasticity modulus of the PSA for the elastic foundation and the displacement rate for the viscoelastic model are investigated.",
+  "description_provenance": [
+    "Author Email: ywoo@vt.edu",
+    "Advisor Email: krojiani@vt.edu",
+    "Advisor Email: mpsingh@vt.edu",
+    "Advisor Email: dillard@vt.edu",
+    "Advisor Email: holzer@vt.edu",
+    "Advisor Email: rplaut@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:16Z (GMT). No. of bitstreams: 1 ETD.pdf: 2509473 bytes, checksum: 4a6837ced0588784a43aa4217db594e6 (MD5)   Previous issue date: 2002-09-13"
+  ],
+  "handle": "29237",
+  "identifier_other": "etd-10112002-190728",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10112002-190728/",
+  "identifier_uri": "http://hdl.handle.net/10919/29237",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Loop tack test",
+    "Tack",
+    "Finite element analysis",
+    "Pressure sensitive adhesive"
+  ],
+  "title": "Inelastic Analysis of the Loop Tack Test for Pressure Sensitive Adhesives",
+  "type": "Dissertation"
+}

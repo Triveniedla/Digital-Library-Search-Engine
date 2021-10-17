@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Sornil, Ohm",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Edwards, Stephen H.",
+    "Ramakrishnan, Naren",
+    "Koelling, Charles Patrick",
+    "Varadarajan, Srinidhi"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:11Z",
+  "date_adate": "2001-02-09",
+  "date_available": "2014-03-14T20:07:11Z",
+  "date_issued": "2001-01-25",
+  "date_rdate": "2002-02-09",
+  "date_sdate": "2001-02-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dramatic increase in the amount of content available in digital forms gives rise to large-scale digital libraries, targeted to support millions of users and terabytes of data. Retrieving information from a system of this scale in an efficient manner is a challenging task due to the size of the collection as well as the index.  This research deals with the design and implementation of an inverted index that supports searching for information in a large-scale digital library, implemented atop a massively parallel storage system.  Inverted index partitioning is studied in a simulation environment, aiming at a terabyte of text.  As a result, a high performance partitioning scheme is proposed. It combines the best qualities of the term and document partitioning approaches in a new Hybrid Partitioning Scheme. Simulation experiments show that this organization provides good performance over a wide range of conditions.  Further, the issues of creation and incremental updates of the index are considered.  A disk-based inversion algorithm and an extensible inverted index architecture are described, and experimental results with actual collections are presented. Finally, distributed algorithms to create a parallel inverted index partitioned according to the hybrid scheme are proposed, and performance is measured on a portion of the equipment that normally makes up the 100 node Virginia Tech PetaPlexâ ¢ system. <br> NOTE: (02/2007) An updated copy of this ETD was added after there were patron reports of problems with the file.",
+  "description_provenance": [
+    "Author Email: osornil@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: srinidhi@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:11Z (GMT). No. of bitstreams: 2 dissertation_printTo7.pdf: 1129735 bytes, checksum: c3333911a8e15ae1bb9f0b252cae194a (MD5) dissertation.pdf: 1069153 bytes, checksum: f0d773b6aa97a663a5c3a2d5dfc5171d (MD5)   Previous issue date: 2001-01-25"
+  ],
+  "handle": "26131",
+  "identifier_other": "etd-02062001-114915",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02062001-114915/",
+  "identifier_uri": "http://hdl.handle.net/10919/26131",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "dissertation_printTo7.pdf",
+    "dissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "simulation",
+    "incremental update",
+    "information retrieval",
+    "parallel inverted index",
+    "hybrid partitioning",
+    "performance",
+    "digital library",
+    "terabyte text collection"
+  ],
+  "title": "Parallel Inverted Indices for Large-Scale, Dynamic Digital Libraries",
+  "type": "Dissertation"
+}

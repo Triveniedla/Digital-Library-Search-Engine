@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Kim, Yong-Jae",
+  "contributor_committeechair": "Heremans, Jean J.",
+  "contributor_committeemember": [
+    "Park, Kyungwha",
+    "Soghomonian, Victoria",
+    "Heflin, James R."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:14:58Z",
+  "date_adate": "2012-08-15",
+  "date_available": "2014-03-14T20:14:58Z",
+  "date_issued": "2012-07-30",
+  "date_rdate": "2012-08-15",
+  "date_sdate": "2012-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We present studies of the electical detection of spin injection and transport in InSb/CoFe heterostructures. As a narrow gap semiconductor, InSb has a high mobility and strong spin-orbit interaction. Using ferromagnetic CoFe, lateral InSb/CoFe devices are fabricated by semiconductor processing techniques. The saturation magnetizations of various CoFe electrodes with different widths are calculated from Hall measurements in which the fringing fields of the CoFe electrodes are detected. A magnetic model provides reasonable estimation of the saturation magnetization for micrometer scale geometries. The interface magnetoresistance measurements of InSb/CoFe thin film layered structures present a unique peak at low field, having a symmetric behavior in magnetic field with a critical field Hc and a strong temperature dependence. We attribute our signal to a ferromagnetic phase in the InSb induced by spin injection. In a non-local lateral spin valve measurement, we observed the following. Firstly, Hc of the lateral spin valve signals is identical to Hc of interface magnetoresistance signals. Secondly, the non-local lateral spin valve signals are strongly dependent on temperature, which is also a unique characteristic magnetoresistance. Thirdly, the signals are tunable in response to an applied injector bias. Lastly, the signals are dependent on the exact interfaces. Based on these observations, the detected signals may be considered as spin current signals. The Hall and magnetoresistance signals are measured locally and non-locally in InSb/CoFe Hall devices. The non-local magnetoresistance signals exhibit asymmetric behavior in applied magnetic field which are considered as signatures of spin phenomena. The non-local Hall signals present switching behavior with the CoFe magnetization switching at the coercive field. The non-local Hall signals in a perpendicular field show Hc, similarly seen in non-local lateral spin valves. Inverse spin Hall effect measurements with tilted magnetic fields show an in-plane magnetic field dependence in non-local type Hall signal and a perpendicular magnetic field dependence in the local Hall measurement. We have found that the signal can have its origin in a spin current from our observation of Hc and hysteresis in the magnetization traces. As yet, the spin current transport mechanism is unknown.",
+  "description_provenance": [
+    "Author Email: ykim07@vt.edu, krone95kim@gmail.com",
+    "Advisor Email: kyungwha@vt.edu",
+    "Advisor Email: soghomon@vt.edu",
+    "Advisor Email: rheflin@vt.edu",
+    "Advisor Email: heremans@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:58Z (GMT). No. of bitstreams: 1 Kim_YJ_D_2012.pdf: 11194042 bytes, checksum: e3a10c15ca7ad9553a6b2def257a0a9d (MD5)   Previous issue date: 2012-07-30"
+  ],
+  "handle": "28589",
+  "identifier_other": "etd-08092012-104008",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08092012-104008/",
+  "identifier_uri": "http://hdl.handle.net/10919/28589",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kim_YJ_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "semiconductor",
+    "spin",
+    "ferromagnetism",
+    "spintronics",
+    "InSb"
+  ],
+  "title": "Electrical injection and detection of spin polarization in InSb/ferromagnet nanostructures",
+  "type": "Dissertation"
+}

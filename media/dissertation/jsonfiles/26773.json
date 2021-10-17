@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Joner, Jr., Michael D.",
+  "contributor_committeecochair": [
+    "Woodall, William H.",
+    "Reynolds, Marion R. Jr."
+  ],
+  "contributor_committeemember": [
+    "Spitzner, Dan J.",
+    "Vining, G. Geoffrey",
+    "Birch, Jeffrey B."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:09:22Z",
+  "date_adate": "2007-05-02",
+  "date_available": "2014-03-14T20:09:22Z",
+  "date_issued": "2007-03-30",
+  "date_rdate": "2010-10-10",
+  "date_sdate": "2007-04-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "It is often important to detect an increase in the frequency of some event.  Particular attention is given to medical events such as mortality or the incidence of a given disease, infection or birth defect.  Observations are regularly taken in which either an incidence occurs or one does not.  This dissertation contains the result of an investigation of prospective monitoring techniques in two distinct surveillance situations.  In the first situation, the observations are assumed to be the results of independent Bernoulli trials.  Some have suggested adapting the scan statistic to monitor such rates and detect a rate increase as soon as possible after it occurs.  Other methods could be used in prospective surveillance, such as the Bernoulli cumulative sum (CUSUM) technique.  Issues involved in selecting parameters for the scan statistic and CUSUM methods are discussed, and a method for computing the expected number of observations needed for the scan statistic method to signal a rate increase is given.  A comparison of these methods shows that the Bernoulli CUSUM method tends to be more effective in detecting increases in the rate.  In the second situation, the incidence information is available at multiple locations.  In this case the individual sites often report a count of incidences on a regularly scheduled basis.  It is assumed that the counts are Poisson random variables which are independent over time, but the counts at any given time are possibly correlated between regions.  Multivariate techniques have been suggested for this situation, but many of these approaches have shortcomings which have been demonstrated in the quality control literature.  In an attempt to remedy some of these shortcomings, a new control chart is recommended based on a multivariate exponentially weighted moving average.  The average run-length performance of this chart is compared with that of the existing methods.",
+  "description_provenance": [
+    "Author Email: mjoner@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: dspitzne@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:22Z (GMT). No. of bitstreams: 1 dissertation.pdf: 994060 bytes, checksum: 7d43f9d8c10a8bb0a508f1a3c1a37e48 (MD5)   Previous issue date: 2007-03-30"
+  ],
+  "handle": "26773",
+  "identifier_other": "etd-04112007-104744",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04112007-104744/",
+  "identifier_uri": "http://hdl.handle.net/10919/26773",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bernoulli Control Charts",
+    "Disease Surveillance",
+    "Multivariate Control Charts",
+    "One-sided Control Charts",
+    "Prospective Monitoring",
+    "Scan Statistic",
+    "Spatial Correlation"
+  ],
+  "title": "Univariate and Multivariate Surveillance Methods for Detecting Increases in Incidence Rates",
+  "type": "Dissertation"
+}

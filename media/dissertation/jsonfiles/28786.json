@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Elteir, Marwa Khamis",
+  "contributor_committeechair": "Wu-chun Feng",
+  "contributor_committeecochair": "Heshan Lin",
+  "contributor_committeemember": [
+    "Ali Butt",
+    "Eli Tilevich",
+    "Xiaosong Ma"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:40Z",
+  "date_adate": "2013-06-01",
+  "date_available": "2014-03-14T20:15:40Z",
+  "date_issued": "2012-08-15",
+  "date_rdate": "2013-06-01",
+  "date_sdate": "2012-08-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Nowadays, an increasing number of computational systems are equipped with heterogeneous compute resources, i.e., following different architecture. This applies to the level of a single chip, a single node and even supercomputers and large-scale clusters. With its impressive price-to-performance ratio as well as power efficiently compared to traditional multicore processors, graphics processing units (GPUs) has become an integrated part of these systems. GPUs deliver high peak performance; however efficiently exploiting their computational power requires the exploration of a multi-dimensional space of optimization methodologies, which is challenging even for the well-trained expert. The complexity of this multi-dimensional space arises not only from the traditionally well known but arduous task of architecture-aware GPU optimization at design and compile time, but it also arises in the partitioning and scheduling of the computation across these heterogeneous resources. Even with programming models like the Compute Unified Device Architecture (CUDA) and Open Computing Language (OpenCL), the developer still needs to manage the data transfer be- tween host and device and vice versa, orchestrate the execution of several kernels, and more arduously, optimize the kernel code.</p>  <p>In this dissertation, we aim to deliver a transparent parallel programming environment for heterogeneous resources by leveraging the power of the MapReduce programming model and OpenCL programming language. We propose a portable architecture-aware framework that efficiently runs an application across heterogeneous resources, specifically AMD GPUs and NVIDIA GPUs, while hiding complex architectural details from the developer. To further enhance performance portability, we explore approaches for asynchronously and efficiently distributing the computations across heterogeneous resources. When applied to benchmarks and representative applications, our proposed framework significantly enhances performance, including up to 58% improvement over traditional approaches to task assignment and up to a 45-fold improvement over state-of-the-art MapReduce implementations.</p>",
+  "description_provenance": [
+    "Author Email: maelteir@vt.edu",
+    "Advisor Email: wfeng@vt.edu",
+    "Advisor Email: hlin2@vt.edu",
+    "Advisor Email: butta@vt.edu",
+    "Advisor Email: tilevich@vt.edu",
+    "Advisor Email: ma@csc.ncsu.edu",
+    "Made available in DSpace on 2014-03-14T20:15:40Z (GMT). No. of bitstreams: 1 Elteir_MK_D_2012.pdf: 800630 bytes, checksum: fd96798079ca675c4ddbd49cd49ae838 (MD5)   Previous issue date: 2012-08-15"
+  ],
+  "handle": "28786",
+  "identifier_other": "etd-08242012-153113",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08242012-153113/",
+  "identifier_uri": "http://hdl.handle.net/10919/28786",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Elteir_MK_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Atomics",
+    "Graphics Processing Units",
+    "Programming Models",
+    "Heterogeneous Computing",
+    "MapReduce"
+  ],
+  "title": "A MapReduce Framework for Heterogeneous Computing Architectures",
+  "type": "Dissertation"
+}

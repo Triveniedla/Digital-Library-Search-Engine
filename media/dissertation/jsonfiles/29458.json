@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Bonhaus, Daryl Lawrence",
+  "contributor_committeechair": "Grossman, Bernard M.",
+  "contributor_committeemember": [
+    "Anderson, W. Kyle",
+    "Mason, William H.",
+    "Schetz, Joseph A.",
+    "Walters, Robert W."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:17:56Z",
+  "date_adate": "1998-05-11",
+  "date_available": "2014-03-14T20:17:56Z",
+  "date_issued": "1998-11-16",
+  "date_rdate": "1998-05-11",
+  "date_sdate": "1998-12-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Streamline Upwind/Petrov-Galerkin (SU/PG) method is applied to higher-order finite-element discretizations of the Euler equations in one dimension and the Navier-Stokes equations in two dimensions. The unknown flow quantities are discretized on meshes of triangular elements using triangular Bezier patches. The nonlinear residual equations are solved using an approximate Newton method with a pseudotime term. The resulting linear system is solved using the Generalized Minimum Residual algorithm with block diagonal preconditioning.  The exact solutions of Ringleb flow and Couette flow are used to quantitatively establish the spatial convergence rate of each discretization. Examples of inviscid flows including subsonic flow past a parabolic bump on a wall and subsonic and transonic flows past a NACA 0012 airfoil and laminar flows including flow past a a flat plate and flow past a NACA 0012 airfoil are included to qualitatively evaluate the accuracy of the discretiza-tions. The scheme achieves higher order accuracy without modification. Based on the test cases presented, significant improvement of the solution can be expected using the higher-order schemes with little or no increase in computational requirements. The nonlinear sys-tem also converges at a higher rate as the order of accuracy is increased for the same num-ber of degrees of freedom; however, the linear system becomes more difficult to solve. Several avenues of future research based on the results of the study are identified, includ-ing improvement of the SU/PG formulation, development of more general grid generation strategies for higher order elements, the addition of a turbulence model to extend the method to high Reynolds number flows, and extension of the method to three-dimensional flows. An appendix is included in which the method is applied to inviscid flows in three dimensions. The three-dimensional results are preliminary but consistent with the findings based on the two-dimensional scheme.",
+  "description_provenance": [
+    "Author Email: d.l.bonhaus@larc.nasa.gov",
+    "Advisor Email: w.k.anderson@larc.nasa.gov",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: schetz@aoe.vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:56Z (GMT). No. of bitstreams: 1 dissertation.pdf: 899663 bytes, checksum: 166539f51effea790aa5db2ac17d83db (MD5)   Previous issue date: 1998-11-16"
+  ],
+  "handle": "29458",
+  "identifier_other": "etd-110498-102120",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-110498-102120/",
+  "identifier_uri": "http://hdl.handle.net/10919/29458",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": "Petrov-Galerkin",
+  "title": "A Higher Order Accurate Finite Element Method for Viscous Compressible Flows",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Hur, Hae-Kyu",
+  "contributor_committeechair": "Kapania, Rakesh K.",
+  "contributor_committeecochair": "Librescu, Liviu",
+  "contributor_committeemember": [
+    "Case, Scott W.",
+    "Patil, Mayuresh J.",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:16:49Z",
+  "date_adate": "2006-11-21",
+  "date_available": "2014-03-14T20:16:49Z",
+  "date_issued": "2006-08-15",
+  "date_rdate": "2009-11-21",
+  "date_sdate": "2006-09-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This study is devoted to the development of an integrated numerical modeling enabling one to investigate the static and the dynamic behaviors and failures of 2-D textile composite as well as 3-D orthogonal woven composite structures weakened by cracks and subjected to static-, impact- and ballistic-type loads. As more complicated modeling about textile composite structures is introduced, some of homogenization schemes, geometrical modeling and crack propagations become more difficult problems to solve. To overcome these problems, this study presents effective mesh-generation schemes, homogenization modeling based on a repeating unit cell and sinusoidal functions, and also a cohesive element to study micro-crack shapes.      This proposed research has two: 1) studying behavior of textile composites under static loads, 2) studying dynamic responses of these textile composite structures subjected to the transient/ballistic loading. In the first part, efficient homogenization schemes are suggested to show the influence of textile architectures on mechanical characteristics considering the micro modeling of repeating unit cell. Furthermore, the structures of multi-layered or multi-phase composites combined with different laminar such as a sub-laminate, are considered to find the mechanical characteristics. A simple progressive failure mechanism for the textile composites is also presented.  In the second part, this study focuses on three main phenomena to solve the dynamic problems: micro-crack shapes, textile architectures and textile effective moduli. To obtain a good solutions of the dynamic problems, this research attempts to use four approaches: I) determination of governing equations via a three-level hierarchy: micro-mechanical unit cell analysis, layer-wise analysis accounting for transverse strains and stresses, and structural analysis based on anisotropic plate layers, II) development of an efficient computational approach enabling one to perform transient response analyses of 2-D plain woven, 2-D braided and 3-D orthogonal woven composite structures featuring matrix cracking and exposed to time-dependent ballistic loads, III) determination of the structural characteristics of the textile-layered composites and their degraded features under smeared and discrete cracks, and assessment of the implications of stiffness degradation on dynamic response to impact loads, and finally, IV) the study of the micro-crack propagation in the textile/ceramic layered plates.   A number of numerical models have been carried out to investigate the mechanical behavior of 2-D plain woven, 2-D braided and 3-D orthogonal woven textile composites with several geometrical representations, and also study the dynamic responses of multi-layered or textile layered composite structures subjected to ballistic impact penetrations with a developed in-house code.",
+  "description_provenance": [
+    "Author Email: hhur@vt.edu",
+    "Advisor Email: scase@exchange.vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:49Z (GMT). No. of bitstreams: 1 HURHKdissertation.pdf: 42648764 bytes, checksum: 6114757db317c90426e5a813aa483234 (MD5)   Previous issue date: 2006-08-15"
+  ],
+  "handle": "29107",
+  "identifier_other": "etd-09262006-151533",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09262006-151533/",
+  "identifier_uri": "http://hdl.handle.net/10919/29107",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HURHKdissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Repeating Unit Cell",
+    "Homogenization",
+    "Ballistic Impact",
+    "Cohesive Element",
+    "Textile Composites"
+  ],
+  "title": "Computational Modeling and Impact Analysis of Textile Composite Structutres",
+  "type": "Dissertation"
+}

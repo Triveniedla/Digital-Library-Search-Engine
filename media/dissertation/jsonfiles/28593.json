@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Bae, Han-Kyung",
+  "contributor_committeechair": "Ramu, Krishnan",
+  "contributor_committeemember": [
+    "Hendricks, Robert W.",
+    "Nunnally, Charles E.",
+    "Kohler, Werner E.",
+    "Mili, Lamine M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:59Z",
+  "date_adate": "2000-08-15",
+  "date_available": "2014-03-14T20:14:59Z",
+  "date_issued": "2000-08-09",
+  "date_rdate": "2001-08-15",
+  "date_sdate": "2000-08-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A novel torque control algorithm, which adopts a two-phase excitation, is proposed to improve the performance of the Switched Reluctance Motor (SRM) drive. By exciting two adjacent phases instead of single phase, the changing rate and the magnitude of the phase currents are much reduced. Therefore the existing problems caused by the single-phase excitation such as large torque ripple during commutation, increased audible noise and fatigue of the rotor shaft are mitigated. The electromagnetic torque is efficiently distributed to each phase by the proposed Torque Distribution Function (TDF) that also compensates the effects of mutual coupling. To describe the effects of mutual coupling between phases, a set of voltage and torque equations is newly derived for the two-phase excitation. Parameters of the SRM are obtained by Finite Element Analysis (FEA) and verified by measurements. It is shown that the mutual inductance of two adjacent phases partly contributes to generate the electromagnetic torque and introduces coupling between two adjacent phases in the current or flux linkage control loop, which has been neglected in the single-phase excitation. The dynamics of the current or flux linkage loop are coupled and nonlinear due to the mutual inductance between two adjacent phases and the time varying nature of inductance. Each phase current or flux linkage needs to be controlled precisely to achieve the required performance. A feedback linearizing current controller is proposed to linearize and decouple current control loop along with a gain scheduling scheme to maintain performance of the current control loop regardless of rotor position as well as a feedback linearizing flux linkage controller. Finally, to reduce current or flux linkage ripple, a unipolar switching strategy is proposed. The unipolar switching strategy effectively doubles the switching frequency without increasing the actual switching frequency of the switches. This contributes to the mitigation of current or flux linkage ripple and hence to the reduction of the torque ripple.",
+  "description_provenance": [
+    "Author Email: hbae@vt.edu",
+    "Advisor Email: Robert.Hendricks@vt.edu",
+    "Advisor Email: kramu@vt.edu",
+    "Advisor Email: nunnally@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:59Z (GMT). No. of bitstreams: 1 ETD.pdf: 1826707 bytes, checksum: f5d91b413dd24bb73afb52746290ecce (MD5)   Previous issue date: 2000-08-09"
+  ],
+  "handle": "28593",
+  "identifier_other": "etd-08102000-16110018",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08102000-16110018/",
+  "identifier_uri": "http://hdl.handle.net/10919/28593",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "torque distribution function",
+    "flux linkage control",
+    "Switched reluctance motor",
+    "current control",
+    "mutual inductance"
+  ],
+  "title": "Control of Switched Reluctance Motors Considering Mutual Inductance",
+  "type": "Dissertation"
+}

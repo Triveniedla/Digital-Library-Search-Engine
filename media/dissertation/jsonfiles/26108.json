@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Boggs, Christopher Matthew",
+  "contributor_committeecochair": [
+    "Southward, Steve C.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_committeemember": [
+    "Taheri, Saied",
+    "Sandu, Corina",
+    "Ferris, John B.",
+    "McCue-Weil, Leigh S."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:07:07Z",
+  "date_adate": "2009-03-04",
+  "date_available": "2014-03-14T20:07:07Z",
+  "date_issued": "2009-01-19",
+  "date_rdate": "2012-03-30",
+  "date_sdate": "2009-02-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Successful race teams rely heavily on track testing to search for the ideal suspension setup.  As more restrictions are placed on the amount of on-track testing by major racing sanctioning bodies, such as NASCAR, teams have increased their attention to alternate testing methods to augment their track data and better understand the dynamics of their racecars.  One popular alternate to track testing is 8-post dynamic shaker rig testing.  Eight-post rig testing gives the team a better understanding of the vehicleâ  s dynamics before they arrive at the race track, allowing them to use their limited track testing time more efficiently. </p>   <p>While 8-post rig testing certainly is an attractive option, an extensive test matrix is often required to find the best suspension setups.  To take full advantage of 8-post rig tests, more efficient experimental methods are needed.  Since investigating shock absorber selection is often the most time-consuming task, this study focuses on developing more efficient methods to select the best shock absorber setups. </p>   <p>This study develops a novel method that applies dynamic substructuring and system identification to generate a mathematical model that predicts the results of future tests as both command inputs and components are changed.  This method is used to predict the results of 8-post rig tests as actuator commands and shock absorber forces are varied.  The resulting model can then be coupled with shock absorber models to simulate how the vehicle response changes with shock absorber selection.  This model can then be applied to experimental design.  </p>    <p>First, a physically-motivated nonlinear dynamic shock absorber model is developed, suitable for quickly fitting experimental data and implementing in simulation studies.  Next, a system identification method to identify a vehicle model using experimental data is developed.  The vehicle model is then used to predict response trends as shock absorber selection is varied.  Comparison of simulation and experimental results show that this model can be used to predict the response levels for 8-post rig tests and aid in streamlining 8-post rig testing experimental designs. </p>",
+  "description_provenance": [
+    "Author Email: chboggs2@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Advisor Email: staheri@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Advisor Email: jbferris@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: mccue@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:07Z (GMT). No. of bitstreams: 1 Boggs_Dissertation_v4.pdf: 8660491 bytes, checksum: b13789abd16357502821df2028448ae3 (MD5)   Previous issue date: 2009-01-19"
+  ],
+  "handle": "26108",
+  "identifier_other": "etd-02032009-145329",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02032009-145329/",
+  "identifier_uri": "http://hdl.handle.net/10919/26108",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Boggs_Dissertation_v4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "vehicle dynamics",
+    "system identification",
+    "dynamic substructuring",
+    "simulation",
+    "shock absorber",
+    "8-post rig",
+    "damper",
+    "modeling"
+  ],
+  "title": "The Use of Simulation to Expedite Experimental Investigations of the Effect of High-Performance Shock Absorbers",
+  "type": "Dissertation"
+}

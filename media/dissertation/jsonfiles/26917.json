@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Han, Kai",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Yang, Yaling",
+    "Plassmann, Paul E.",
+    "Jensen, E. Douglas",
+    "Cao, Yang",
+    "Athanas, Peter M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:48Z",
+  "date_adate": "2010-05-06",
+  "date_available": "2014-03-14T20:09:48Z",
+  "date_issued": "2010-01-22",
+  "date_rdate": "2010-05-06",
+  "date_sdate": "2010-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we consider scheduling distributed soft real-time tasks in unreliable (e.g., those with arbitrary node and network failures) and untrustworthy systems (e.g., those with Byzantine node behaviors). We present a distributed real-time scheduling algorithm called Gamma. Gamma considers a distributed (i.e., multi-node) task model where tasks are subject to Time/Utility Function (or TUF) end-to-end time constraints, and the scheduling optimality criterion of maximizing the total accrued utility. The algorithm makes three novel contributions. First, Gamma uses gossip for reliably propagating task scheduling parameters and for discovering task execution nodes. Second, Gamma achieves distributed real-time mutual exclusion in unreliable environments. Third, the algorithm guards against potential disruption of message propagation due to Byzantine attacks using a mechanism called Launcher-Attacker-Infective-Susceptible-Immunized-Removed-Consumer (or LAISIRC). By doing so, the algorithm schedules tasks with probabilistic termination-time satisfactions, despite system unreliability and untrustworthiness.  We analytically establish several timeliness and non-timeliness properties of the algorithm including probabilistic end-to-end task termination time satisfactions, optimality of message overheads, mutual exclusion guarantees, and the mathematical model of the LAISIRC mechanism. We conducted simulation-based experimental studies and compared Gamma with its competitors. Our experimental studies reveal that Gammaâ  s scheduling algorithm accrues greater utility and satisfies a greater number of deadlines than do competitor algorithms (e.g., HVDF) by as much as 47% and 45%, respectively. LAISIRC is more tolerant to Byzantine attacks than competitor protocols (e.g., Path Verification) by obtaining as much as 28% higher correctness ratio. Gammaâ  s mutual exclusion algorithm accrues greater utility than do competitor algorithms (e.g., EDF-Sigma) by as much as 25%. Further, we implemented the basic Gamma algorithm in the Emulab/ChronOS 250-node testbed, and measured the algorithmâ  s performance. Our implementation measurements validate our theoretical analysis and the algorithm's effectiveness and robustness.",
+  "description_provenance": [
+    "Author Email: khan05@vt.edu",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Advisor Email: pep3@vt.edu",
+    "Advisor Email: jensen@real-time.org",
+    "Advisor Email: ycao@cs.vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:48Z (GMT). No. of bitstreams: 1 Han_K_D_2010.pdf: 2897850 bytes, checksum: 6d3d76ca7bafd4f4901f13185416451e (MD5)   Previous issue date: 2010-01-22"
+  ],
+  "handle": "26917",
+  "identifier_other": "etd-04162010-132432",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162010-132432/",
+  "identifier_uri": "http://hdl.handle.net/10919/26917",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Han_K_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Distributed Real-Time Scheduling",
+    "Gossip Protocols",
+    "Mutual Exclusion",
+    "Unreliable Systems",
+    "Byzantine Attacks",
+    "Time/Utility Functions",
+    "Utility Accrual Scheduling"
+  ],
+  "title": "Scheduling Distributed Real-Time Tasks in Unreliable and Untrustworthy Systems",
+  "type": "Dissertation"
+}

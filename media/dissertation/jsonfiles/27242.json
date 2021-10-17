@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Lough, Daniel Lowry",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Marchany, Randolph C.",
+    "Jones, Mark T.",
+    "Midkiff, Scott F.",
+    "Nunnally, Charles E.",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:43Z",
+  "date_adate": "2001-04-30",
+  "date_available": "2014-03-14T20:10:43Z",
+  "date_issued": "2001-03-26",
+  "date_rdate": "2002-04-30",
+  "date_sdate": "2001-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The majority of attacks made upon modern computers have been successful due to the exploitation of the same errors and weaknesses that have plagued computer systems for the last thirty years.  Because the industry has not learned from these mistakes, new protocols and systems are not designed with the aspect of security in mind; and security that is present is typically added as an afterthought.  What makes these systems so vulnerable is that the security design process is based upon assumptions that have been made in the past; assumptions which now have become obsolete or irrelevant. In addition, fundamental errors in the design and implementation of systems repeatedly occur, which lead to failures. <p> This research presents a comprehensive analysis of the types of attacks that are being leveled upon computer systems and the construction of a general taxonomy and methodologies that will facilitate design of secure protocols. To develop a comprehensive taxonomy, existing lists, charts, and taxonomies of host and network attacks published over the last thirty years are examined and combined, revealing common denominators among them.  These common denominators, as well as new information, are assimilated to produce a broadly applicable, simpler, and more complete taxonomy. It is shown that all computer attacks can be broken into a taxonomy consisting of improper conditions: <b>V</b>alidation <b>E</b>xposure <b>R</b>andomness  <b>D</b>eallocation <b>I</b>mproper <b>C</b>onditions <b>T</b>axonomy; hence described by the acronym <b>VERDICT</b>. <p> The developed methodologies are applicable to both wired and wireless systems, and they are applied to some existing Internet attacks to show how they can be classified under VERDICT.  The methodologies are applied to the IEEE 802.11 wireless local area network protocol and numerous vulnerabilities are found.  Finally, an extensive annotated bibliography is included.",
+  "description_provenance": [
+    "Author Email: daniel@lough.org",
+    "Advisor Email: marchany@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: nunnally@vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:43Z (GMT). No. of bitstreams: 1 lough.dissertation.pdf: 2019569 bytes, checksum: 51c796bb941bb89b66a03aaaf521e11a (MD5)   Previous issue date: 2001-03-26"
+  ],
+  "handle": "27242",
+  "identifier_other": "etd-04252001-234145",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252001-234145/",
+  "identifier_uri": "http://hdl.handle.net/10919/27242",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "lough.dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "computer attack taxonomy",
+    "computer security",
+    "integrity flaws",
+    "wireless security",
+    "VERDICT",
+    "IEEE 802.11"
+  ],
+  "title": "A Taxonomy of Computer Attacks with Applications to Wireless Networks",
+  "type": "Dissertation"
+}

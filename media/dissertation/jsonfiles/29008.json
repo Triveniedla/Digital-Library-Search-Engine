@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Qian, Hao",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Meehan, Kathleen",
+    "Lindner, Douglas K.",
+    "Nelson, Douglas J.",
+    "Yu, Wensong"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:22Z",
+  "date_adate": "2011-10-25",
+  "date_available": "2014-03-14T20:16:22Z",
+  "date_issued": "2011-08-31",
+  "date_rdate": "2011-10-25",
+  "date_sdate": "2011-09-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Lithium-ion based battery energy storage system has become one of the most popular forms of energy storage system for its high charge and discharge efficiency and high energy density. This dissertation proposes a high-efficiency grid-tie lithium-ion battery based energy storage system, which consists of a LiFePO4 battery based energy storage and associated battery management system (BMS), a high-efficiency bidirectional ac-dc converter and the central control unit which controls the operation mode and grid interface of the energy storage system. The BMS estimates the state of charge (SOC) and state of health (SOH) of each battery cell in the pack and applies active charge equalization to balance the charge of all the cells in the pack. The bidirectional ac-dc converter works as the interface between the battery pack and the ac grid, which needs to meet the requirements of bidirectional power flow capability and to ensure high power factor and low THD as well as to regulate the dc side power regulation.  A highly efficient dual-buck converter based bidirectional ac-dc converter is proposed. The implemented converter efficiency peaks at 97.8% at 50-kHz switching frequency for both rectifier and inverter modes. To better utilize the dc bus voltage and eliminate the two dc bus bulk capacitors in the conventional dual-buck converter, a novel bidirectional ac-dc converter is proposed by replacing the capacitor leg of the dual-buck converter based single-phase bidirectional ac-dc converter with a half-bridge switch leg. Based on the single-phase bidirectional ac-dc converter topology, three novel three-phase bidirectional ac-dc converter topologies are proposed. In order to control the bidirectional power flow and at the same time stabilize the system in mode transition, an admittance compensator along with a quasi-proportional-resonant (QPR) controller is adopted to allow smooth startup and elimination of the steady-state error over the entire load range. The proposed QPR controller is designed and implemented with a digital controller. The entire system has been simulated in both PSIM and Simulink and verified with hardware experiments. Small transient currents are observed with the power transferred from rectifier mode to inverter mode at peak current point and also from inverter mode to rectifier mode at peak current point.  The designed BMS monitors and reports all battery cells parameters in the pack and estimates the SOC of each battery cell by using the Coulomb counting plus an accurate open-circuit voltage model. The SOC information is then used to control the isolated bidirectional dc-dc converter based active cell balancing circuits to mitigate the mismatch among the series connected cells. Using the proposed SOC balancing technique, the entire battery storage system has demonstrated more capacity than the system without SOC balancing.",
+  "description_provenance": [
+    "Author Email: hqian@vt.edu",
+    "Advisor Email: kameehan@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: wensong@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:22Z (GMT). No. of bitstreams: 1 Qian_H_D_2011_Revised4.pdf: 3299538 bytes, checksum: 0ecbaaf37c2175ef4a10a0e869c5857c (MD5)   Previous issue date: 2011-08-31"
+  ],
+  "handle": "29008",
+  "identifier_other": "etd-09172011-124632",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09172011-124632/",
+  "identifier_uri": "http://hdl.handle.net/10919/29008",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Qian_H_D_2011_Revised4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Microgrid",
+    "rectifier mode",
+    "inverter mode",
+    "bidirectional ac-dc converter",
+    "battery management system",
+    "battery energy storage system",
+    "lithium-ion battery"
+  ],
+  "title": "A High-Efficiency Grid-Tie Battery Energy Storage System",
+  "type": "Dissertation"
+}

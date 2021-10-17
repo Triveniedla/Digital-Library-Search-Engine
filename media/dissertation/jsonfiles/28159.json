@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Arnette, Andrew Nicholas",
+  "contributor_committeechair": "Zobel, Christopher W.",
+  "contributor_committeemember": [
+    "Rakes, Terry R.",
+    "Rees, Loren Paul",
+    "Carstensen, Laurence William Jr.",
+    "Ragsdale, Cliff T."
+  ],
+  "contributor_department": "Business (Management Science)",
+  "date_accessioned": "2014-03-14T20:13:36Z",
+  "date_adate": "2010-07-08",
+  "date_available": "2014-03-14T20:13:36Z",
+  "date_issued": "2010-06-29",
+  "date_rdate": "2010-07-08",
+  "date_sdate": "2010-06-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research involves the development of a comprehensive decision support system for energy planning through the increased use of renewable energy sources, while still considering the role of existing electricity generating facilities.  This dissertation focuses on energy planning at the regional level, with the Greater Southern Appalachian Mountain region chosen for analysis due to the dependence on coal as the largest source of generation and the availability of wind and solar resources within the region.   The first stage of this planning utilizes a geographic information system (GIS) for the discovery of renewable energy sources.  This GIS model analyzes not just the availability of wind and solar power based on resource strength, but also considers the geographic, topographic, regulatory, and other constraints that limit the use of these resources.  The model determines potential wind and solar sites within the region based on these input constraints, and finally the model calculates the cost and generation characteristics for each site. The results of the GIS model are then input into the second section of the model framework which utilizes a multi-objective linear programming (MOLP) model to determine the optimal mix of new renewable energy sources and existing fossil fuel facilities.  In addition to the potential wind and solar resources discovered in the GIS, the MOLP model considers the implementation of solid wood waste biomass for co-fire at coal plants.  The model consists of two competing objectives, the minimization of annual generation cost and the minimization of annual greenhouse gas emissions, subject to constraints on electricity demand and capital investment, amongst others.  The model uses the MiniMax function in order to find solutions that consider both of the objective functions.   The third major section of this dissertation analyzes three potential public policies â   renewable portfolio standard, carbon tax, and renewable energy production tax credit - that have been used to foster increased renewable energy usage.  These policies require minor modifications to the MOLP model for implementation.  The results of these policy cases are then analyzed to determine the impact that these policies have on generation cost and pollution emissions within the region.",
+  "description_provenance": [
+    "Author Email: aarnette@vt.edu",
+    "Advisor Email: trakes@vt.edu",
+    "Advisor Email: lrees@vt.edu",
+    "Advisor Email: czobel@vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: crags@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:36Z (GMT). No. of bitstreams: 1 Arnette_AN_D_2010.pdf: 1423868 bytes, checksum: f203d219f7d52d2fea689dd349e078cb (MD5)   Previous issue date: 2010-06-29"
+  ],
+  "handle": "28159",
+  "identifier_other": "etd-06292010-152104",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06292010-152104/",
+  "identifier_uri": "http://hdl.handle.net/10919/28159",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Arnette_AN_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Geographic Information Systems",
+    "Decision Support System",
+    "Multi-Objective Optimization",
+    "Renewable Energy"
+  ],
+  "title": "A Spatial Decision Support System for the Development of Multi-Source Renewable Energy Systems",
+  "type": "Dissertation"
+}

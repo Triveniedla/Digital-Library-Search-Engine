@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Komali, Ramakant S",
+  "contributor_committeechair": "MacKenzie, Allen B.",
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "DaSilva, Luiz A.",
+    "Shukla, Sandeep K.",
+    "Gilles, Robert P."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:11Z",
+  "date_adate": "2008-09-11",
+  "date_available": "2014-03-14T20:14:11Z",
+  "date_issued": "2008-07-09",
+  "date_rdate": "2008-09-11",
+  "date_sdate": "2008-07-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ad hoc networks are emerging as a cost-effective, yet, powerful tool for communication. These systems, where networks can emerge and converge on-the-fly, are guided by the forward-looking goals of providing ubiquitous connectivity and constant access to information. Due to power and bandwidth constraints, the vulnerability of the wireless medium, and the multi-hop nature of ad hoc networks, these networks are becoming increasingly complex dynamic systems. Besides, modern radios are empowered to be reconfigurable, which harbors the temptation to exploit the system. To understand the implications of these issues, some of which pose significant challenges to efficient network design, we study topology control using game theory. We develop a game-theoretic framework of topology control that broadly captures the radio parameters, one or more of which can be tuned under the purview of topology control. In this dissertation, we consider two parameters, viz. transmit power and channel, and study the impact of controlling these on the emergent topologies. We first examine the impact of node selfishness on the network connectivity and energy efficiency under two levels of selfishness: (a) nodes cooperate and forward packets for one another, but selfishly minimize transmit power levels and; (b) nodes selectively forward packets and selfishly control transmit powers. In the former case, we characterize all the Nash Equilibria of the game and evaluate the energy efficiency of the induced topologies. We develop a better-response-based dynamic that guarantees convergence to the minimal maximum power topology. We extend our analysis to dynamic networks where nodes have limited knowledge about network connectivity, and examine the tradeoff between network performance and the cost of obtaining knowledge. Due to the high cost of maintaining knowledge in networks that are dynamic, mobility actually helps in information-constrained networks. In the latter case, nodes selfishly adapt their transmit powers to minimize their energy consumption, taking into account partial packet forwarding in the network. This work quantifies the energy efficiency gains obtained by cooperation and corroborates the need for incentivizing nodes to forward packets in decentralized, energy-limited networks. We then examine the impact of selfish behavior on spectral efficiency and interference minimization in multi-channel systems. We develop a distributed channel assignment algorithm to minimize the spectral footprint of a network while establishing an interference-free connected network. In spite of selfish channel selections, the network spectrum utilization is shown to be within 12% of the minimum on average. We then extend the analysis to dynamic networks where nodes have incomplete network state knowledge, and quantify the price of ignorance. Under the limitations on the number of available channels and radio interfaces, we analyze the channel assignment game with respect to interference minimization and network connectivity goals. By quantifying the interference in multi-channel networks, we illuminate the interference reduction that can be achieved by utilizing orthogonal channels and by distributing interference over multiple channels. In spite of the non-cooperative behavior of nodes, we observe that the selfish channel selection algorithm achieves load balancing. Distributing the network control to autonomous agents leaves open the possibility that nodes can act selfishly and the overall system is compromised. We advance the need for considering selfish behavior from the outset, during protocol design. To overcome the effects of selfishness, we show that the performance of a non-cooperative network can be enhanced by appropriately incentivizing selfish nodes.",
+  "description_provenance": [
+    "Author Email: rskomali@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: rgilles@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:11Z (GMT). No. of bitstreams: 1 Ramakant-ETD-submission-III.pdf: 1881460 bytes, checksum: bdd395233675aeb7a918d720221dd19a (MD5)   Previous issue date: 2008-07-09"
+  ],
+  "handle": "28358",
+  "identifier_other": "etd-07222008-142101",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07222008-142101/",
+  "identifier_uri": "http://hdl.handle.net/10919/28358",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ramakant-ETD-submission-III.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "node cooperation",
+    "cognitive network",
+    "distributed algorithm",
+    "cross-layer optimization",
+    "game theory",
+    "network design",
+    "topology control",
+    "ad hoc network"
+  ],
+  "title": "Game-Theoretic Analysis of Topology Control",
+  "type": "Dissertation"
+}

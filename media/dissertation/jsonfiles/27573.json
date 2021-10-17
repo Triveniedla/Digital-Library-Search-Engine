@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Fang, Lei",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Shukla, Sandeep K.",
+    "Huang, Chao",
+    "Liu, Yilu",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:39Z",
+  "date_adate": "2008-06-03",
+  "date_available": "2014-03-14T20:11:39Z",
+  "date_issued": "2008-05-06",
+  "date_rdate": "2008-06-03",
+  "date_sdate": "2008-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Due to the widespread demands for efficient Propositional Satisfiability (SAT) solvers and its derivatives in Electronic Design Automation applications, methods to boost the performance of the SAT solver are highly desired. This dissertation aims to enhance the performance of SAT and related SAT solving problems. A hybrid solution to boost SAT solver performance is proposed as an initial attack in this dissertation, via an integration of local and DPLL-based search approaches.  Next, a different hybrid strategy is attempted that takes advantage of the conflicts in the SAT search, which plays a critical role in modern SAT solvers. Usually a learned conflict-induced clause is added back to the clause database. Although conflict-induced clauses help to block a portion of the search space, they can also become a burden due to the added cost in memory consumption and Boolean Constraint Propagation (BCP). We thus propose a novel double-layer conflict-driven learning to store only those \"primary\" conflict clauses back into the clause database while keeping the other clauses as pseudo Boolean constraints. With this approach our experiments demonstrate that the approach can improve both in performance and memory consumption. This work opens the door on how to assess the usefulness of conflict induced clauses.  Besides the aforementioned works about enhancing SAT solver performance and reducing memory cost, this dissertation also proposed a contributing work on the extended SAT problem solving. The current SAT solvers can provide an assignment for a satisfiable propositional formula. However, the capability for a SAT solver to return an \"optimal\" solution for a given objective function is severely lacking. MIN-ONE SAT is an optimization problem which requires the satisfying assignment with the minimal number of Ones, and it can be easily extended to minimize an arbitrary linear objective function. While some research has been conducted on MIN-ONE SAT, the existing algorithms do not scale very well on large formulas. This dissertation presents a novel approximation algorithm (RelaxSAT) for MIN-ONE SAT. RelaxSAT generates a set of constraints from the objective function to guide the search. The constraints are gradually relaxed to eliminate the conflicts with the original Boolean SAT formula until a solution is found. The experiments demonstrate that RelaxSAT is able to handle very large instances which cannot be solved by existing MIN-ONE algorithms; furthermore, RelaxSAT is able to obtain a very tight bound on the solution with one to two orders of magnitude speedup.  Based on the proposed powerful MIN-ONE SAT algorithm, we built a MAX-SAT solver which achieved more than one order of magnitude speed up compared with the-state-of-art MAX-SAT solver. We also discuss a promising application of this MAX-SAT solver in formal verification.",
+  "description_provenance": [
+    "Author Email: leifang@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: chuang@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: ezbrown@calvin.math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:39Z (GMT). No. of bitstreams: 1 Dissertation_Final_Lei.pdf: 857334 bytes, checksum: dabefa5ea06743d1cae647da15abb972 (MD5)   Previous issue date: 2008-05-06"
+  ],
+  "handle": "27573",
+  "identifier_other": "etd-05072008-220806",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072008-220806/",
+  "identifier_uri": "http://hdl.handle.net/10919/27573",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Final_Lei.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Relaxation",
+    "Hybrid",
+    "SAT",
+    "MIN-ONE SAT",
+    "MAX-SAT",
+    "Double-Layer conflict driven learning"
+  ],
+  "title": "Exploring Constraint Satisfiability Techniques in Formal Verification",
+  "type": "Dissertation"
+}

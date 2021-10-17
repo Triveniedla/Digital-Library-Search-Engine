@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Olteanu, Denisa Anca",
+  "contributor_committeecochair": [
+    "Vining, G. Geoffrey",
+    "Woodall, William H."
+  ],
+  "contributor_committeemember": [
+    "Kowalski, Scott M.",
+    "Birch, Jeffrey B."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:09:01Z",
+  "date_adate": "2010-04-28",
+  "date_available": "2014-03-14T20:09:01Z",
+  "date_issued": "2010-04-01",
+  "date_rdate": "2010-04-28",
+  "date_sdate": "2010-04-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Companies routinely perform life tests for their products. Typically, these tests involve running a set of products until the units fail. Most often, the data are censored according to different censoring schemes, depending on the particulars of the test. On occasion, tests are stopped at a predetermined time and the units that are yet to fail are suspended. In other instances, the data are collected through periodic inspection and only upper and lower bounds on the lifetimes are recorded. Reliability professionals use a number of non-normal distributions to model the resulting lifetime data with the Weibull distribution being the most frequently used. If one is interested in monitoring the quality and reliability characteristics of such processes, one needs to account for the challenges imposed by the nature of the data. We propose likelihood ratio based cumulative sum (CUSUM) control charts for censored lifetime data with non-normal distributions. We illustrate the development and implementation of the charts, and we evaluate their properties through simulation studies. We address the problem of interval censoring, and we construct a CUSUM chart for censored ordered categorical data, which we illustrate by a case study at Becton Dickinson (BD). We also address the problem of monitoring both of the parameters of the Weibull distribution for processes with right-censored data.",
+  "description_provenance": [
+    "Author Email: dolteanu@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Advisor Email: SKowalski@minitab.com",
+    "Advisor Email: jbbirch@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:01Z (GMT). No. of bitstreams: 1 Olteanu_DA_D_2010.pdf: 1658128 bytes, checksum: 73079c3a5f2fd440ac146065127c7b7b (MD5)   Previous issue date: 2010-04-01"
+  ],
+  "handle": "26665",
+  "identifier_other": "etd-04062010-133834",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04062010-133834/",
+  "identifier_uri": "http://hdl.handle.net/10919/26665",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Olteanu_DA_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Censored Data",
+    "CUSUM Charts",
+    "Lifetime Data",
+    "Multinomial Distribution",
+    "Weibull Distribution"
+  ],
+  "title": "Cumulative Sum Control Charts for Censored Reliability Data",
+  "type": "Dissertation"
+}

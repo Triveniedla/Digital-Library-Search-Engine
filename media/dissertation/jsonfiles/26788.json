@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Andre, Terence Scott",
+  "contributor_committeecochair": [
+    "Hartson, H. Rex",
+    "Williges, Robert C."
+  ],
+  "contributor_committeemember": [
+    "Rueb, Justin D.",
+    "Kleiner, Brian M.",
+    "Dingus, Thomas A."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:09:26Z",
+  "date_adate": "2000-04-17",
+  "date_available": "2014-03-14T20:09:26Z",
+  "date_issued": "2000-04-03",
+  "date_rdate": "2001-04-17",
+  "date_sdate": "2000-04-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The need for cost-effective usability evaluation has led to the development of methodologies to support the usability practitioner in finding usability problems during formative evaluation. Even though various methods exist for performing usability evaluation, practitioners seldom have the information needed to decide which method is appropriate for their specific purpose. In addition, most methods do not have an integrated relationship with a theoretical foundation for applying the method in a reliable and efficient manner. Practitioners often have to apply their own judgment and techniques, leading to inconsistencies in how the method is applied in the field. Usability practitioners need validated information to determine if a given usability evaluation method is effective and why it should be used instead of some other method. Such a desire motivates the need for formal, empirical comparison studies to evaluate and compare usability evaluation methods. In reality, the current data for comparing usability evaluation methods suffers from a lack of consistent measures, standards, and criteria for identifying effective methods.<p> The work described here addresses three important research activities. First, the User Action Framework was developed to help organize usability concepts and issues into a knowledge base that supports usability methods and tools. From the User Action Framework, a mapping was made to the Usability Problem Inspector; a tool to help practitioners conduct a highly focused inspection of an interface design. Second, the reliability of the User Action Framework was evaluated to determine if usability practitioners could use the framework in a consistent manner when classifying a set of usability problems. Third, a comprehensive comparison study was conducted to determine if the Usability Problem Inspector, based on the User Action Framework, could produce results just as effective as two other inspection methods (i.e., the heuristic evaluation and the cognitive walkthrough). The comparison study used a new comparison approach with standards, measures, and criteria to prove the effectiveness of methods. Results from the User Action Framework reliability study showed higher agreement scores at all classification levels than was found in previous work with a similar classification tool. In addition, agreement using the User Action Framework was stronger than the results obtained from the same experts using the heuristic evaluation. From the inspection method comparison study, results showed the Usability Problem Inspector to be more effective than the heuristic evaluation and consistent with effectiveness scores from the cognitive walkthrough.",
+  "description_provenance": [
+    "Author Email: tandre@vt.edu",
+    "Advisor Email: justin.rueb@usafa.af.mil",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: tdingus@ctr.vt.edu",
+    "Advisor Email: hartson@vt.edu",
+    "Advisor Email: williges@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:26Z (GMT). No. of bitstreams: 1 andre.pdf: 2366535 bytes, checksum: a82b177a2c99409a21889228c063bb32 (MD5)   Previous issue date: 2000-04-03"
+  ],
+  "handle": "26788",
+  "identifier_other": "etd-04122000-09440030",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04122000-09440030/",
+  "identifier_uri": "http://hdl.handle.net/10919/26788",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "andre.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Human-Computer Interaction",
+    "Usability Evaluation Methods",
+    "Evaluation Effectiveness",
+    "Usability Inspection"
+  ],
+  "title": "Determining the Effectiveness of the Usability Problem Inspector: A Theory-Based Model and Tool for Finding Usability Problems",
+  "type": "Dissertation"
+}

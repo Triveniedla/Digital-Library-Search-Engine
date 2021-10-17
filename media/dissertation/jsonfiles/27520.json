@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhao, Zheng",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Yu, Wensong",
+    "Meehan, Kathleen",
+    "Centeno, Virgilio A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:31Z",
+  "date_adate": "2012-05-21",
+  "date_available": "2014-03-14T20:11:31Z",
+  "date_issued": "2012-04-20",
+  "date_rdate": "2012-05-21",
+  "date_sdate": "2012-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A single-phase grid connected transformerless photovoltaic (PV) inverter for residential application is presented. The inverter is derived from a boost cascaded with buck converter along with a line frequency unfolding circuit. Due to its novel operating modes, high efficiency can be achieved because there is only one switch operating at high frequency at a time, and the converter allows the use of power MOSFET and ultra-fast reverse recovery diode. This dissertation begins with theoretical analysis and modeling of this boost-buck converter based inverter. And the model indicates small boost inductance will leads to increase the resonant pole frequency and decrease the peak of Q, which help the system be controlled easier and more stable. Thus, interleaved multiple phases structure is proposed to have small equivalent inductance, meanwhile the ripple can be decreased, and the inductor size can be reduced as well. A two-phase interleaved inverter is then designed accordingly.  The double-carrier modulation method is proposed based on the inverterâ  s operation mode. The duty cycle for buck switch is always one if the inverter is running in boost mode. And the duty cycle for boost switches are always zero if the inverter is running in buck mode. Because of this, the carrier for boost mode is stacked on the top of the carrier for buck mode, as a result, there is no need to compare the input and output voltage to decide which mode the inverter should operate in. And the inverter operates smoothly between these two modes. Based on similar concept, three advanced modulation methods are proposed. One of them can help further improve the efficiency, and one of them can help increase the bandwidth and gain, and the last one takes the advantage of both.  Based on similar concept, another three dual-mode double-carrier based SPWM inverters are proposed. With both step-up and step-down functions, this type of inverter can achieve high efficiency in a wide range because only one switch operates at the PWM frequency at a time. Finally, the simulation and experiment results are shown to verify the concept and the tested CEC (California Energy Commission) efficiency is 97.4%. It performs up to 2% more efficiently better than the conventional solution.",
+  "description_provenance": [
+    "Author Email: zhaoz@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: wensong@vt.edu",
+    "Advisor Email: kameehan@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:31Z (GMT). No. of bitstreams: 1 Zhao_Z_D_2012_Updated.pdf: 3583995 bytes, checksum: a6c86f1b820347baec108a126c1d93b6 (MD5)   Previous issue date: 2012-04-20"
+  ],
+  "handle": "27520",
+  "identifier_other": "etd-05032012-053914",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032012-053914/",
+  "identifier_uri": "http://hdl.handle.net/10919/27520",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Zhao_Z_D_2012_Updated.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "double carrier SPWM",
+    "dual-mode",
+    "grid-tied",
+    "high efficiency",
+    "electrolytic capacitor",
+    "PV inverter"
+  ],
+  "title": "High Efficiency Single-stage Grid-tied PV Inverter for Renewable Energy System",
+  "type": "Dissertation"
+}

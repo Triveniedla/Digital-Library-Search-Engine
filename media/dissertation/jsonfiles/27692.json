@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhao, Lingyin",
+  "contributor_committeechair": "van Wyk, Jacobus Daniel",
+  "contributor_committeemember": [
+    "Odendaal, Willem Gerhardus",
+    "Huang, Alex Q.",
+    "Liu, Yilu",
+    "Lu, Guo-Quan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:59Z",
+  "date_adate": "2004-12-08",
+  "date_available": "2014-03-14T20:11:59Z",
+  "date_issued": "2004-05-07",
+  "date_rdate": "2004-12-08",
+  "date_sdate": "2004-05-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The challenge to put power electronics on the same cost reduction spiral as integrated signal electronics has yet to be met. In the ongoing work for achieving complete power electronic converter integration, it has proven to be essential to develop a technology for integration of electromagnetic power passives. This integration will enable the incorporation of resonant circuits, transformers, EMI filters and the like into the integrated power electronics modules. These integrated electromagnetic power passives have been realized in terms of distributed structures, utilizing magnetic layers, conductive layers and dielectric layers. Because of the compact structures and the special implementation techniques of these integrated modules, the high frequency parasitic resonance are normally significant and may have negative impact on the performance and EMI characteristics. However, the existing modeling technique can only predict the fundamental resonant frequency and showed neither the causes of the high frequency resonance nor how to calculate those accurately. In this dissertation, comprehensive research work towards higher order electromagnetic modeling of integrated passive components is presented. Firstly, an L-C cell is identified as the basic building block of integrated passives such as an integrated series resonator. As an essential mistake in the structure evolution process of the original resonant transmission line primitive, the well-known conventional transmission line equivalent circuit as well as the equations are not applicable for the unbalanced current in an integrated passive module. For this particular application, a generalized transmission structure theory that applies to both balanced and unbalanced current has to be developed. The impedances of a generalized transmission structure with various loads and interconnections have been studied. An open-circuited load and a short-circuited load lead to series resonance and parallel resonance, respectively. The equations are substantiated with experimental results. Some preliminary study indicates the advantages of this unbalanced current passives integration technique. Since the existing integrated passive components are no other than some combination of this generalized transmission line primitive, the theoretical analysis may be applied to the further modeling of all integrated passive components. As the extension of the generalized two-conductor transmission structure model developed for the two-conductor approach, the generalized multi-conductor transmission structure theory has been proposed. As multiple L-C cells are putting in parallel, magnetic and capacitive coupling between cells cannot be neglected.  To determine the capacitance between two adjacent conductors on top of the same dielectric substrate, Schwarz-Christoffel transformation and its inverse transformation have been applied with the calculation results verified by measurement. Based on the original voltage and current equations written in matrix form, modal analysis has been conducted to solve the equations. All these provide the basis for any further modeling of an integrated passive structure. Based on the basic L-C cell structure, this dissertation proposes an alternative multi-cell approach to the integration of reactive components and establishes the principles for its design and operation. It achieves the 3-D integration and has a PCB-mount chip-like structure which may have the potential to be more manufacturable, modularizable and mechanically robust. Different functional equivalents can be obtained by different PCB interconnections. The experimental results confirm the functionality as integrated reactive components for applications such as high frequency resonators. To apply the multi-conductor generalized transmission structure model to practical integrated passives structures, three typical cases have been studied: spiral-winding structure integrated series resonator, multi-cell structure integrated series resonator and integrated RF EMI filter. All these structures can be treated as one or more multi-conductor transmission structures connected in certain patterns. Different connection patterns only determine the voltage and current boundary conditions with which the equations can be solved. After obtaining the voltages and currents at each point, the impedance or transfer gain of a structure can be obtained. The MATLAB calculation results correlate well with the measurement results. The calculation sensitivities with respect to variation of various parameters are also discussed and causes of resonance at different frequency range are identified. The proposed generalized transmission structure model based on matrix modal analysis is rather complex and takes a lot of computer time especially when the number of turns is large. Furthermore, the operating frequency of an integrated resonant module is normally around its 1st resonant frequency and up to the 2nd resonant frequency. Therefore, a more simplistic higher order lumped element model which covers the operating range up to the 2nd resonant frequency may be good enough for the general design purpose. A higher order equivalent circuit model for integrated series resonant modules as an example of integrated power passives is presented in this dissertation. Inter-winding capacitance is also considered compared to the conventional 1st order approximation model. This model has been verified by small-signal test results and can be easily implemented into the design algorithm as part of the high frequency design considerations.  The wide band modeling and proposed new structure mentioned above provide a comprehensive basis for better design of integrated passive components. As a general frequency plane modeling approach, the work presented in this dissertation may be extended to other passive structures, such as multi-layer capacitors, planar magnetics, etc..",
+  "description_provenance": [
+    "Author Email: lzhao@vt.edu",
+    "Advisor Email: Hardus@IEEE.org",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:59Z (GMT). No. of bitstreams: 1 Dissertation_L.Zhao.pdf: 4066269 bytes, checksum: 1013c64db7ef686e3ba490bad09fa211 (MD5)   Previous issue date: 2004-05-07"
+  ],
+  "handle": "27692",
+  "identifier_other": "etd-05132004-115031",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05132004-115031/",
+  "identifier_uri": "http://hdl.handle.net/10919/27692",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_L.Zhao.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multi-cell Structure Integrated Passives",
+    "Integrated RF-EMI Filter",
+    "Transmission Line",
+    "Generalized Transmission Structure",
+    "Integrated Passives",
+    "Frequency Plane Modeling"
+  ],
+  "title": "Generalized Frequency Plane Model of Integrated Electromagnetic Power Passives",
+  "type": "Dissertation"
+}

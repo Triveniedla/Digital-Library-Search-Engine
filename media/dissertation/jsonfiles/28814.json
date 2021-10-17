@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Lakshmikanth, Anand",
+  "contributor_committeechair": "P. Mallikarjunan",
+  "contributor_committeemember": [
+    "Jitendra Patel",
+    "George Flick",
+    "Justin R. Barone",
+    "Morse Solomon"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:45Z",
+  "date_adate": "2009-09-15",
+  "date_available": "2014-03-14T20:15:45Z",
+  "date_issued": "2009-08-13",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-08-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "High hydrodynamic pressure (HDP) treatment is a novel non-thermal technology that improves tenderness in foods by subjecting foods to underwater shock waves. In this study non-destructive and destructive testing methods, along with two mathematical models were explored to predict biomechanical behavior of beef loins subjected to HDP-treament. <p> The first study involved utilizing ultrasound and imaging techniques to predict textural changes in beef loins subjected to HDP-treatment using Warner-Braztler shear force (WBS) scores and texture profile analysis (TPA) features for correlation. Ultrasound velocity correlated very poorly with the WBS scores and TPA features, whereas the imaging features correlated better with higher r-values. The effect of HDP-treatment variables on WBS and TPA features indicated that amount of charge had no significant effects when compared to location of sample and container size during treatment.<p>  Two mathematical models were used to simulate deformational behavior in beef loins. The first study used a rheological based modeling of protein gel as a preliminary study. Results from the first modeling study indicated no viscous interactions in the model and complete deformation failure at pressures exceeding 50 kPa, which was contrary to the real-life process conditions which use pressures in the order of MPa. The second modeling study used a finite element method approach to model elastic behavior. Shock wave was modeled as a non-linear and linear propagating wave. The non-linear model indicated no deformation response, whereas the linear model indicated realistic deformation response assuming transverse isotropy of the model beef loin. <p>  The last study correlated small- and large-strain measurements using stress relaxation and elastic coefficients of the stiffness matrix as small-strain measures and results of the study indicated very high correlation between elastic coefficients c11, c22, and c44 with TPA cohesiveness (r > 0.9), and springiness (r > 0.85). Overall results of this study indicated a need for further research in estimating mechanical properties of beef loins in order to understand the dynamics of HDP-treatment process better.",
+  "description_provenance": [
+    "Author Email: anandl@vt.edu",
+    "Advisor Email: jitu.patel@ars.usda.gov",
+    "Advisor Email: flickg@vt.edu",
+    "Advisor Email: jbarone@vt.edu",
+    "Advisor Email: kumar@vt.edu",
+    "Advisor Email: morse.solomon@ars.usda.gov",
+    "Made available in DSpace on 2014-03-14T20:15:45Z (GMT). No. of bitstreams: 1 Lakshmikanth_Anand_D_2009.pdf: 4707120 bytes, checksum: 19f323219574e4f797c5770213460dce (MD5)   Previous issue date: 2009-08-13"
+  ],
+  "handle": "28814",
+  "identifier_other": "etd-08272009-165224",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08272009-165224/",
+  "identifier_uri": "http://hdl.handle.net/10919/28814",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lakshmikanth_Anand_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "small-strain and large-strain behavior",
+    "finite element modeling",
+    "rheology",
+    "wavelet features",
+    "high hydrodynamic pressure processing",
+    "video image analysis",
+    "beef",
+    "ultrasound"
+  ],
+  "title": "NON-DESTRUCTIVE EVALUATION AND MATHEMATICAL MODELING OF BEEF LOINS SUBJECTED TO HIGH HYDRODYNAMIC PRESSURE TREATMENT",
+  "type": "Dissertation"
+}

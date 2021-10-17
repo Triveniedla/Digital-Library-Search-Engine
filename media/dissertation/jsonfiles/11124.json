@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Chen, Xiaopei",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Xu, Yong",
+    "Pickrell, Gary R.",
+    "Jacobs, Ira",
+    "Heflin, James R."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:53:36Z",
+  "date_adate": "2006-10-30",
+  "date_available": "2011-08-22T18:53:36Z",
+  "date_issued": "2003-09-08",
+  "date_rdate": "2006-10-30",
+  "date_sdate": "2006-07-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this report, we give a deeper investigation of the loss-compensated recirculating delayed self-heterodyne interferometer (LC-RDSHI) for ultra-narrow linewidth measurement, including the theoretical analysis, experimental implementation, further modification on the system and more applications. Recently, less than 1kHz linewidth fiber lasers have been commercialized. But even the manufacturers face a challenge on accurately measuring the linewidth of such lasers.  There is a need to develop more accurate methods to characterize ultra-narrow laser linewidth and frequency noises. Compared with other currently available linewidth measurement techniques, the loss-compensated recirculating delayed-heterodyne interferometer (LC-RDSHI) technique is the most promising one. It overcomes the bottle-neck of the high resolution requirement on the delayed self-heterodyne interferometer (DSHI) by using a short length of fiber delay line. This method does not need another narrower and more stable laser as the reference which is the necessary component in heterodyne detection.  The laser spectral lineshape can be observed directly instead of complicated interpretation in frequency discriminator techniques. The theoretical analysis of a LC-RDSHI gives us a guidance on choosing the optimal parameters of the system and assists us to interpret the recorded spectral lineshape.  Laser linewidth as narrow as 700Hz has been proved to be measurable by using the  LC-RDSHI method. The non-linear curve fitting of Voigt lineshape to separate Lorentzian and Gaussian components was investigated. Voigt curve fitting results give us a clear view on laser frequency noises and laser linewidth nature. It is also shown that for a ultra-narrow linewidth laser, simply taking 20dB down from the maximum value of the beat spectrum and dividing by $2\\sqrt{99}$ will over estimate the laser linewidth and coherent length.  Besides laser linewidth measurement in the frequency domain, we also implemented time-domain frequency noise measurement by using a LC-RDSHI. The long fiber delay obtained by a fiber recirculating loop provides a  higher resolution of frequency noise measurement. However, spectral width broadening due to fiber nonlinearity, environmental perturbations and laser intrinsic 1/f frequency noises are still potential problems in the LC-RDSHI method. A new method by adding a transmitter switch and a loop switch is proposed to minimize the Kerr effect caused by multiple recirculation.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:36Z (GMT). No. of bitstreams: 1 Dissertation_Xiaopei.pdf: 2954809 bytes, checksum: 3cee2254d318836d96f8a882a69dae7d (MD5)   Previous issue date: 2003-09-08",
+    "Author Email: xichen5@vt.edu",
+    "Advisor Email: yong@vt.edu",
+    "Advisor Email: pickrell@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: rheflin@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11124",
+  "identifier_other": "etd-07202006-001939",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07202006-001939",
+  "identifier_uri": "http://hdl.handle.net/10919/11124",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Xiaopei.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Ultra-narrow linewidth laser",
+    "heterodyne detection",
+    "Lorentzian linewidth"
+  ],
+  "title": "Ultra-Narrow Laser Linewidth Measurement",
+  "type": "Dissertation"
+}

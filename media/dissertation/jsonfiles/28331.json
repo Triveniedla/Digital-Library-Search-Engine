@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Hadjichristofi, George Costa",
+  "contributor_committeechair": "Davis, Nathaniel J. IV",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "DaSilva, Luiz A.",
+    "Jacobs, Ira",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:07Z",
+  "date_adate": "2005-09-23",
+  "date_available": "2014-03-14T20:14:07Z",
+  "date_issued": "2005-06-28",
+  "date_rdate": "2005-09-23",
+  "date_sdate": "2005-07-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research investigated key management in a Mobile Ad Hoc Network (MANET) environment.  At the time this research began key management schemes provided limited functionality and low service availability in a highly partitioned ad hoc environment.  The purpose of this research was to develop a framework that provides redundancy and robustness for Security Association (SA) establishment between pairs of nodes. The key contribution of this research is the Key Management System (KMS) framework and, more specifically, the unique way the various components are integrated to provide the various functionalities.  The KMS overcomes the limitations of previous systems by (1) minimizing pre-configuration, (2) increasing service availability, (3) and increasing flexibility for new nodes joining the network.  A behavior grading scheme provides the network with a system-wide view of the trustworthiness of nodes and enables the KMS to dynamically adjust its configuration according to its environment.  The introduction of behavior grading allows nodes to be less dependent on strict identity verification. This KMS was simulated with Monte Carlo and NS2 simulations and was shown to interoperate with IP Security (IPsec) to enable the establishment of IPsec SAs.  The simulations have proven the effectiveness of the system in providing service to the nodes in a highly partitioned environment.",
+  "description_provenance": [
+    "Author Email: ghadjich@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: njdavis@ieee.org",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: ezbrown@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:07Z (GMT). No. of bitstreams: 1 ghadjich_dissert_September2005.pdf: 1054342 bytes, checksum: fa3fbed39f98d5eff1b7284ac8907b40 (MD5)   Previous issue date: 2005-06-28"
+  ],
+  "handle": "28331",
+  "identifier_other": "etd-07192005-123426",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07192005-123426/",
+  "identifier_uri": "http://hdl.handle.net/10919/28331",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ghadjich_dissert_September2005.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "MANET",
+    "Key Management",
+    "IP Security",
+    "Performance"
+  ],
+  "title": "A Framework for Providing Redundancy and Robustness in Key Management for IPsec Security Associations in a Mobile Ad-Hoc Environment",
+  "type": "Dissertation"
+}

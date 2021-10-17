@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Celik, Ahmet Ozan",
+  "contributor_committeechair": "Diplas, Panayiotis",
+  "contributor_committeecochair": "Dancey, Clinton L.",
+  "contributor_committeemember": [
+    "Schetz, Joseph A.",
+    "Wang, Linbing",
+    "Vlachos, Pavlos P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:27Z",
+  "date_adate": "2011-09-08",
+  "date_available": "2014-03-14T20:15:27Z",
+  "date_issued": "2011-05-04",
+  "date_rdate": "2012-11-13",
+  "date_sdate": "2011-08-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The movement of granular material along a streambed has been a challenging subject for researchers for more than a century. Predicting the limiting case of nearly zero bedload transport, usually referred to as threshold of motion or critical condition, is even more challenging due to the highly fluctuating nature of turbulent flow. Numerous works have advocated that the peak turbulent forces, randomly occurring in time and space with magnitudes higher than the average, initiate the bed material motion. More recent findings have shown that not only the magnitude of the peak turbulent forces acting on individual grains but their duration as well have to be considered for determining the incipient conditions. Their product, or impulse, is better suited for specifying such conditions. <p> The goal of this study was to investigate the mechanism responsible for initiation of sediment motion under turbulent flow conditions. The impulse concept was investigated by utilizing appropriate measurement methods in the laboratory for determining the condition of incipient motion. The experimental program included measurements of particle entrainment rates of a mobile grain and turbulence induced forces acting upon a fixed grain for a range of flow conditions. In addition, near bed flow velocities were measured synchronously with both the entrainment and pressure measurements at turbulent resolving frequencies.  <p> Results of this work covered the limitations and uncertainties associated with the experimental methods employed, and the description of the inadequacies of existing incipient motion models via the impulse framework. The extreme sensitivity of bed material activity to minute adjustments in flow conditions was explained by the associated change in the frequency of impulse events. The probability density function proposed for impulse was used together with the critical impulse to estimate the particle entrainment rate for a range of flow conditions. It was shown that the impulse events with potential to dislodge the grain were occurring mostly during sweep type of flow structures. The impulse events were also typically accompanied by positive lift forces. The force patterns showed that the positive peaks in the lift consistently occurred before and after the impulse events in the drag force. The magnitude of these lift forces were significantly higher in the wake of a cylinder compared to that of uniform flow conditions. The time average lift force in the wake of a cylinder was also observed to be positive with magnitudes reaching more than 30% of the submerged weight of the particle. The cylinder caused the downstream turbulence intensity to increase slightly but the particle entrainment rate to increase significantly. This finding provided a physically based explanation for the modification of turbulent force fluctuations and resulting changes in the particle movement rates by such unsteady flow conditions.",
+  "description_provenance": [
+    "Author Email: aocelik@vt.edu",
+    "Advisor Email: pdiplas@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Advisor Email: wangl@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:27Z (GMT). No. of bitstreams: 2 Celik_AO_D_2011.pdf: 6994279 bytes, checksum: 5398e451f2fbbed3c4680e80696ac0a9 (MD5) Celik_AO_D_2011_permissions.pdf: 100164 bytes, checksum: c89c02d7a07580c7a1bd4969f324ecb8 (MD5)   Previous issue date: 2011-05-04"
+  ],
+  "handle": "28731",
+  "identifier_other": "etd-08192011-131002",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08192011-131002/",
+  "identifier_uri": "http://hdl.handle.net/10919/28731",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Celik_AO_D_2011.pdf",
+    "Celik_AO_D_2011_permissions.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Pressure Measurements",
+    "Particle Tracking System",
+    "Open channel flow",
+    "Impulse",
+    "Turbulence",
+    "Hydrodynamic Forces",
+    "Incipient Motion",
+    "Rough bed"
+  ],
+  "title": "Experimental Investigation of the Role of Turbulence Fluctuations on Incipient Motion of Sediment",
+  "type": "Dissertation"
+}

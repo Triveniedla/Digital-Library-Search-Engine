@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Gayzik, Francis S",
+  "contributor_committeechair": "Stitzel, Joel D.",
+  "contributor_committeemember": [
+    "Gabler, Hampton Clay",
+    "Hoth, J. Jason",
+    "Martin, Robert S.",
+    "Duma, Stefan M."
+  ],
+  "contributor_department": "Biomedical Engineering and Sciences",
+  "date_accessioned": "2014-03-14T20:14:46Z",
+  "date_adate": "2009-09-17",
+  "date_available": "2014-03-14T20:14:46Z",
+  "date_issued": "2008-07-22",
+  "date_rdate": "2010-09-17",
+  "date_sdate": "2008-08-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Motor vehicle crash (MVC) and its associated injuries remain a major public health problem world wide.  In 2005 alone there were 6 million police-reported crashes in the United States resulting in 2.5 million injuries and 46,000 fatalities.  The thorax is second only to the head in terms of frequency of injury following MVC, and pulmonary contusion (PC) is the most common intra-thoracic soft tissue injury sustained as a result of blunt chest trauma.  The goal of this dissertation research is to mitigate this commonly-sustained and potentially life threatening injury.  We have taken a computational approach to solving this problem by developing a predictive injury metric for PC using finite element analysis (FEA).  The dissertation begins with an epidemiological examination of the crash modes, vehicles, and patient demographics most commonly associated with PC.  This study was conducted using real world crash data from the Crash Injury Research and Engineering Network (CIREN) database and data from government-sponsored vehicle crash tests.  The CIREN data showed that a substantial portion of the crashes resulting in PC were lateral impacts (48%).  Analysis of the thoracic loading of dummy occupants in lateral crash tests resulted in mean values of medial-lateral chest compression and deflection velocity of 25.3 Â± 2.6 % and 4.6 Â± 0.42 mâ ¢s-1 respectively.  These data provided quantified loading conditions associated with crash-induced PC and a framework for the remaining research studies, which were focused on blunt impact experiments examining the relationship between insult and outcome in a living model of this injury.  A combined experimental and computational approach was used to develop injury metrics for PC.  The animal model selected for this research was the Sprague-Dawley male rat. In the remaining studies that comprise this dissertation, an outcome measure of the inflammatory response in the lung parenchyma was correlated with a mechanical analog calculated via a finite element model of the lung.  For all studies, a precise and instrumented electronic piston was used to apply prescribed insults directly to the lungs of the subjects.  In the first set of experiments, contusion volume was calculated from MicroPET (Micro Positron Emission Tomography) scans and normalized on the basis of liver uptake of 18F-FDG.  The subjects were scanned at 24 hours, 7 days, and 28 days (15 scans), and the contused volume was measured.  A tentative criteria based on first principal strain in the parenchyma between 9 and 36% was established.  In subsequent experiments Computed Tomography was used to acquire volumetric contusion data.  The second set of experiments introduced two important aspects of this dissertation; a semi-automated algorithm for CT segmentation and a technique to match the spatial distribution of contusion within the lung to finite element analysis results.  The results of this study indicated that the product of first principal strain and strain rate is the most appropriate output variable upon which to base an injury metric for PC.  Digital analysis of histology from study subjects that underwent CT scanning prior to sacrifice was conducted and showed good agreement between CT and histology. A final set of experiments was conducted to synthesize the techniques developed in previous studies to determine an injury metric for PC.  A concurrent optimization technique was applied to the FEA model to match force vs. deflection traces from four distinct impact cohorts.  The resulting predictive injury metrics for PC were   exceeding 94.5 sec-1, first principal strain exceeding 0.284 (true strain, dimensionless), and first principal strain rate exceeding 470 sec-1. The method used in this dissertation and the resulting injury metrics for PC are based on quantified inflammatory response observed in a living model, specifically in the organ of interest.  This injury metric improves upon current thoracic injury criteria that rely on gross measures of chest loading such as acceleration, or deflection, and are not specific to a particular injury.  We anticipate that the findings of this work will lead to more data-driven improvements to vehicular safety systems and ultimately diminish the instance of PC and mitigate its severity.",
+  "description_provenance": [
+    "Author Email: sgayzik@wfubmc.edu",
+    "Advisor Email: gabler@vt.edu",
+    "Advisor Email: jhoth@wfubmc.edu",
+    "Advisor Email: romartin@wfubmc.edu",
+    "Advisor Email: jstitzel@wfubmc.edu",
+    "Advisor Email: duma@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:46Z (GMT). No. of bitstreams: 1 gayzik_fs_finite_element_injury_metric_for_pc_ETD.pdf: 4964155 bytes, checksum: cac8c12e9e12a503662da1d76a0bdbb8 (MD5)   Previous issue date: 2008-07-22"
+  ],
+  "handle": "28532",
+  "identifier_other": "etd-08052008-154601",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08052008-154601/",
+  "identifier_uri": "http://hdl.handle.net/10919/28532",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "gayzik_fs_finite_element_injury_metric_for_pc_ETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "biomechanics",
+    "computed tomgraphy",
+    "thorax",
+    "crash",
+    "injury",
+    "finite element",
+    "pulmonary contusion",
+    "PET",
+    "lung"
+  ],
+  "title": "Development of a Finite Element Based Injury Metric for Pulmonary Contusion",
+  "type": "Dissertation"
+}

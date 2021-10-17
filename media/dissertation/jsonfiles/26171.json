@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Park, Suwan",
+  "contributor_committeechair": "Loganathan, G. V.",
+  "contributor_committeemember": [
+    "Younos, Tamim",
+    "Lohani, Vinod K.",
+    "Cox, William E.",
+    "Trani, Antoino A."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:18Z",
+  "date_adate": "2000-02-16",
+  "date_available": "2014-03-14T20:07:18Z",
+  "date_issued": "2000-01-28",
+  "date_rdate": "2001-02-16",
+  "date_sdate": "2000-02-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "While the idea of critical break rate of water distribution pipeline (defined as the break rate after which it is no longer economical to continuously repair) has been accepted in the literature and among the practicing engineers, the formula to obtain the critical break rate has remained elusive. In this dissertation, an equation for identifying the threshold break rate of a pipe is developed. The threshold break rate equation gives a rule of thumb for pipe replacement decision. Input parameters to obtain the threshold break rate of a pipe are repair and replacement costs, interest rate, and the length of the pipe. In addition, a methodology that enables the use of threshold break rate with the failure intensity and hazard functions is developed. The methodology is drawn by considering the relationships of the definitions of the threshold break rate with intensity and hazard functions in the context of a repairable system's failure process modeling. As a result, the newly developed threshold break rate equation can be coupled with any appropriate intensity and hazard function to obtain economically optimal replacement time of a pipe. Also, practical usage of the threshold break rate is demonstrated with a number of numerical examples. Design aids in the form of charts and tables are provided. The threshold break rate can be easily obtained either graphically or with the aid of the tables. The methodology that links the threshold break rate and failure rate (intensity and hazard) functions is extended to accommodate stress multiplying environmental factors in the form of the proportional intensity and hazards model. The two models consist of an age dependent failure rate function and a covariate structure. They are applied to a case study area pipe system to obtain optimal replacement times for individual pipes in the system. As a result, important hazard characteristics of water distribution pipes are drawn, and implications on the optimal replacement analysis are discussed. A pipe break prediction model is also developed in this research. The model spans the space between the linear and exponential break trends. The model is applied to the case study area pipe system with various cost options. The results from this analysis are discussed in terms of practical implementation of the replacement strategies.",
+  "description_provenance": [
+    "Author Email: supark@vt.edu",
+    "Advisor Email: tyounos@vt.edu",
+    "Advisor Email: vlohani@vt.edu",
+    "Advisor Email: cox@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: gvlogan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:18Z (GMT). No. of bitstreams: 9 appndx_d.pdf: 338383 bytes, checksum: dac05f71253587285306eb37cf056f01 (MD5) appndx_c.pdf: 13178 bytes, checksum: 6cc1ea1704aae02121bfffa1563cef2a (MD5) appndx_b.pdf: 25621 bytes, checksum: 57d65d052d0713bad0f35d527b353670 (MD5) appndx_a.pdf: 22636 bytes, checksum: 946f2acf61245cd6dd8b294212e6fc8b (MD5) etdch7-8.pdf: 100732 bytes, checksum: 88046d359531367f82d61cd7e5207a8f (MD5) etdch6.pdf: 179287 bytes, checksum: 6f5a543733d8d302c9ce8076fa842776 (MD5) etdch1-5.pdf: 281138 bytes, checksum: 78627d81ec650940a8833f39714c3c1b (MD5) front.pdf: 12411 bytes, checksum: 289dd7b8d95051eb000cf4fdfa03f3dd (MD5) title.pdf: 4720 bytes, checksum: feca3b1ca83396ea67a028291c32324a (MD5)   Previous issue date: 2000-01-28"
+  ],
+  "handle": "26171",
+  "identifier_other": "etd-02112000-13590036",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02112000-13590036/",
+  "identifier_uri": "http://hdl.handle.net/10919/26171",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "appndx_d.pdf",
+    "appndx_c.pdf",
+    "appndx_b.pdf",
+    "appndx_a.pdf",
+    "etdch7-8.pdf",
+    "etdch6.pdf",
+    "etdch1-5.pdf",
+    "front.pdf",
+    "title.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Water Distribution Systems",
+    "Threshold Break Rate",
+    "Optimal Replacement"
+  ],
+  "title": "An Optimal Pipe Replacement Scheduling Model for Water Distribution Systems",
+  "type": "Dissertation"
+}

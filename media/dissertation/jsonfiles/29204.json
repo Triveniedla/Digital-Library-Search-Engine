@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Setoodeh, Shahriar",
+  "contributor_committeechair": "Gürdal, Zafer",
+  "contributor_committeemember": [
+    "Watson, Layne T.",
+    "Batra, Romesh C.",
+    "Hyer, Michael W.",
+    "Jones, Robert M."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:17:07Z",
+  "date_adate": "2005-10-21",
+  "date_available": "2014-03-14T20:17:07Z",
+  "date_issued": "2005-09-21",
+  "date_rdate": "2005-10-21",
+  "date_sdate": "2005-10-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The growing number of applications of composite materials in aerospace and naval structures along with advancements in manufacturing technologies demand continuous innovations in the design of composite structures.  In the traditional design of composite laminates, fiber orientation angles are constant for each layer and are usually limited to 0, 90, and Â±45 degrees. To fully benefit from the directional properties of composite laminates, such limitations have to be removed. The concept of variable-stiffness laminates allows the stiffness properties to vary spatially over the laminate. Through tailoring of fiber orientations and laminate thickness spatially in an optimal fashion, mechanical properties of a part can be improved.  In this thesis, the optimal design of variable-stiffness fiber-reinforced composite laminates is studied using an emerging numerical engineering optimization scheme based on the cellular automata paradigm.  A cellular automaton (CA) based design scheme uses local update rules for both field variables (displacements) and design variables (lay-up configuration and laminate density measure) in an iterative fashion to convergence to an optimal design. In the present work, the displacements are updated based on the principle of local equilibrium and the design variables are updated according to the optimality criteria for minimum compliance design. A closed form displacement update rule for constant thickness isotropic continua is derived, while for the general anisotropic continua with variable thickness a numeric update rule is used.  Combined lay-up and topology design of variable-stiffness flat laminates is performed under the action of in-plane loads and bending loads.  An optimality criteria based formulation is used to obtain local design rules for minimum compliance design subject to a volume constraint. It is shown that the design rule splits into a two step application. In the first step an optimal lay-up configuration is computed and in the second step the density measure is obtained. The spatial lay-up design problem is formulated using both fiber angles and lamination parameters as design variables. A weighted average formulation is used to handle multiple load case designs. Numerical studies investigate the performance of the proposed design methodology. The optimal lay-up configuration is independent of the lattice density with more details emerging as the density is increased. Moreover, combined topology and lay-up designs are free of checkerboard patterns.  The lay-up design problem is also solved using lamination parameters instead of the fiber orientation angles. The use of lamination parameters has two key features: first, the convexity of the minimization problem guarantees a global minimum; second, for both in-plane and bending problems it limits the number of design variables to four regardless of the actual number of layers, thereby simplifying the optimization task. Moreover, it improves the convergence rate of the iterative design scheme as compared to using fiber angles as design variables. Design parametrization using lamination parameters provides a theoretically better design, however, manufacturability of the designs is not certain. The cases of general, balanced symmetric, and balanced symmetric with equal thickness layers are studied separately. The feasible domain for laminates with equal thickness layers is presented for an increasing number of layers. A restricted problem is proposed that maintains the convexity of the design space for laminates with equal thickness layers. A recursive formulation for computing fiber angles for this case is also presented.  On the computational side of the effort, a parallel version of the present CA formulation is implemented on message passing multiprocessor clusters. A standard parallel implementation does not converge for an increased number of processors. Detailed analysis revealed that the convergence problem is due to a Jacobi type iteration scheme, and a pure Gauss-Seidel type iteration through a pipeline implementation completely resolved the convergence problem. Timing results giving the speedup for the pipeline implementation were obtained for up to 260 processors.   This work was supported by Grant NAG-1-01105 from NASA Langley Research Center. Special thanks to our project monitor Dr. Damodar R. Ambur for his technical guidance.",
+  "description_provenance": [
+    "Author Email: shahriar@vt.edu",
+    "Advisor Email: zgurdal@vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: rmjones@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:07Z (GMT). No. of bitstreams: 1 Setoodeh_PhD_Dissertation.pdf: 6328888 bytes, checksum: 5c703dd60f1dfc0fc68b2e351f2e01b5 (MD5)   Previous issue date: 2005-09-21"
+  ],
+  "handle": "29204",
+  "identifier_other": "etd-10062005-140818",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10062005-140818/",
+  "identifier_uri": "http://hdl.handle.net/10919/29204",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Setoodeh_PhD_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "lamination parameters",
+    "Compliance Design",
+    "Cellular Automata",
+    "Tow-placed laminates"
+  ],
+  "title": "Optimal Design of Variable-Stiffness Fiber-Reinforced Composites Using Cellular Automata",
+  "type": "Dissertation"
+}

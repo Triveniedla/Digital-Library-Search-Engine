@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wood, Kerry Neil",
+  "contributor_committeechair": "DaSilva, Luiz A.",
+  "contributor_committeemember": [
+    "Midkiff, Scott F.",
+    "Hou, Yiwei Thomas",
+    "Raman, Sanjay",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:01Z",
+  "date_adate": "2006-10-06",
+  "date_available": "2014-03-14T20:15:01Z",
+  "date_issued": "2006-07-26",
+  "date_rdate": "2006-10-06",
+  "date_sdate": "2006-08-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Wireless ad-hoc networks are easily deployed, untethered to infrastructure, and have virtually an unlimited number of applications. However, this flexibility comes at the cost of finite and often unreplenishable power supplies. Once a node has consumed all of its power, it can no longer receive, transmit, gather information, or otherwise participate in the network. Therefore, reducing the amount of energy necessary for node communication has been an area of intense research.  Previous work has investigated the use of directional antennas as a method to reduce inter-node power requirements.  However, most proposed methods ignore inter-session interference, propose heuristic solution methods, and ignore the use of directional antennas for signal reception.  We develop a flexible mixed-integer linear program (MILP) designed to optimize max-min multicast path lifetime for directional antenna equipped networks in the presence of interference. The MILP is utilized to perform a comparison directional antenna use for signal transmission and reception. Results indicate that directional reception is slightly superior to transmission for the defined max-min lifetime metric, and vastly superior when considering cumulative power use. We further analyze the performance of interference-ignorant link-based heuristics designed for both directional transmission and directional reception as they perform in our more realistic model. Our results show that interference-ignorant methods cannot find feasible solutions unless all nodes are equipped with high gain, high efficiency directional antennas. Even in these cases, directional reception outperforms directional transmission. Because of the superiority of directional reception, we focus our attention on this method. A heterogeneity study is performed, and two heuristic methods for approximating the MILP optima are developed. We find that even under heterogeneous conditions, directional reception can increase network lifetime.  Finally, a genetic algorithm (GA) and semi-distributed heuristic method are developed as alternatives to the MILP. Results show that the GA often can find solutions with lifetimes 85% as long as the optimal. Our semi-distributed heuristic, designed to be even more computationally simple than the GA, and to serve as a basis for a distributed protocol, is almost as effective as the GA as approximating optimal solutions. We conclude that directional reception is the superior method of antenna use for extending max-min multicast tree lifetime, that it works well in heterogeneous conditions, and lends itself well to heuristic design.",
+  "description_provenance": [
+    "Author Email: woodk@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: hou@vt.edu",
+    "Advisor Email: sraman@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:01Z (GMT). No. of bitstreams: 1 woodk_defense.pdf: 2761692 bytes, checksum: f4a0900820bd214a6233ca6201fe9665 (MD5)   Previous issue date: 2006-07-26"
+  ],
+  "handle": "28599",
+  "identifier_other": "etd-08102006-080207",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08102006-080207/",
+  "identifier_uri": "http://hdl.handle.net/10919/28599",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "woodk_defense.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "power control",
+    "directional antennas",
+    "maximum lifetime",
+    "cross-layer optimization",
+    "multicast routing"
+  ],
+  "title": "Directional Communications to Improve Multicast Lifetime in Ad Hoc Networks",
+  "type": "Dissertation"
+}

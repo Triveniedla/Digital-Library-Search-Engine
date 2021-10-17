@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Mehmood, Arshad",
+  "contributor_committeechair": "Hajj, Muhammad R",
+  "contributor_committeemember": [
+    "Borggaard, Jeffrey T",
+    "Ribbens, Calvin J",
+    "Ragab, Saad A"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-10-18T08:00:18Z",
+  "date_available": "2013-10-18T08:00:18Z",
+  "date_issued": "2013-10-17",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Fluid-structure interactions occur in many enginnering and industrial applications. Such interactions may result in undesirable forces acting on the structure that may cause fatigue and degradation of the structural components. The purpose of this research is to develop a solver that simulates the fluid-structure interaction, assess tools that can be used to control the resulting motions and analyze a system that can be used to convert the structure's motion to a useful form of energy. For this purpose, we develop a code which encompasses three-dimensional numerical simulations of a flow interacting with a freely-oscillating cylinder. The solver is based on the accelerated reference frame technique (ARF), in which the momentum equations are directly coupled with the cylinder motion by adding a reference frame acceleration term; the outer boundary conditions of the flow domain are updated using the response of the cylinder. We develop active linear and nonlinear velocity feedback controllers that suppress VIV by directly controlling the cylinder's motion. We assess their effectiveness and compare their performance and required power levels to suppress the motion of the cylinder. Particularly, we determine the most effective control law that requires minimum power to achieve a desired controlled amplitude. Furthermore, we investigate, in detail, the feasibility of using a nonlinear energy sink to control the vortex-induced vibrations of a freely oscillating circular cylinder. It has been postulated that such a system, which consists of a nonlinear spring, can be used to control the motion over a wide range of frequencies. However, introducing an essential nonlinearity of the cubic order to a coupled system could lead to multiple stable solutions depending on the initial conditions, system's characteristics and parameters. Our investigation aims at determining the effects of the sink parameters on the response of the coupled system. We also investigate the extent of drag reduction that can be attained through rotational oscillations of the circular cylinder. An optimization is performed by combining the CFD solver with a global deterministic optimization algorithm. The use of this optimization tool allows for a rapid determination of the rotational amplitude and frequency domains that yield minimum drag. We also perform three-dimensional numerical simulations of an inlinevibrating cylinder over a range of amplitudes and frequencies with the objective of suppressing the lift force. We compare the amplitude-frequency response curves, levels of lift suppression, and synchronization maps for two- and three-dimensional flows. Finally, we evaluate the possibility of converting vortex-induced vibrations into a usable form of electric power. Different transduction mechanisms can be employed for converting these vibrations to electric power, including electrostatic, electromagnetic, and piezoelectric transduction. We consider the piezoelectric option because it can be used to harvest energy over a wide range of frequencies and can be easily implemented. We particularly investigate the conversion of vortex-induced vibrations to electric power under different operating conditions including the Reynolds number and load resistance.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-18T08:00:18Z (GMT). No. of bitstreams: 2 Mehmood_A_D_2013.pdf: 41783013 bytes, checksum: 11b79d5694127d454a50f14a5874d460 (MD5) Mehmood_A_D_2013_support_1.pdf: 1085814 bytes, checksum: c34d99521ce59018364f0dd50e609225 (MD5)   Previous issue date: 2013-10-17",
+  "format_medium": "ETD",
+  "handle": "23902",
+  "identifier_other": "vt_gsexam:1700",
+  "identifier_uri": "http://hdl.handle.net/10919/23902",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Vortex-induced vibrations",
+    "Actice/Passive controls",
+    "Nonlinear energy sink",
+    "Rotary oscillations",
+    "Inline oscillations",
+    "Energy harvesting"
+  ],
+  "title": "Active/Passive Controls and Energy Harvesting from Vortex-Induced Vibrations",
+  "type": "Dissertation"
+}

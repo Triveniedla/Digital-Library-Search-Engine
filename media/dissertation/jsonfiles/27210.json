@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Joshi, Gaurav Gaurang",
+  "contributor_committeechair": "Stutzman, Warren L.",
+  "contributor_committeemember": [
+    "Davis, William A.",
+    "Annamalai, Annamalai  Jr.",
+    "Reed, Jeffrey Hugh",
+    "Beattie, Christopher A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:38Z",
+  "date_adate": "2006-05-04",
+  "date_available": "2014-03-14T20:10:38Z",
+  "date_issued": "2006-04-21",
+  "date_rdate": "2007-05-04",
+  "date_sdate": "2006-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ultra-wideband (UWB) communications is expected to revolutionize high data-rate, short-distance wireless communications, providing data-rates in excess of 100 Mbps. However, the wireless channel distorts the transmitted signal by dispersing the signal energy over time. This degrades the output signal-to-noise ratio (SNR) of a correlation based matched-filter receiver, limiting the achievable data-rate and user capacity. Most wideband channel models do not account for all the identified dispersion mechanisms namely the frequency dispersion, the resonant dispersion and the multipath dispersion.   The objective of this research is to model resonant dispersion based on the Singularity Expansion Method (SEM) and provide guidelines for UWB receiver design to meet the data capacity. The original contribution of this research is a novel pole dispersion channel model that includes resonant dispersion characterization. An empirical investigation supports our claim that a correlation type matched-filter receiver using a template signal based on the pole dispersion channel model overcomes distortion related losses. Various physical mechanisms responsible for dispersion in UWB communication systems are described in detail. The applicability of the proposed dispersive channel model is evaluated using the optimal matched filter (OMF) receiver.  The SEM approach, which was originally proposed for target identification using short pulse radars, offers limited benefits of due to its susceptibility to noise. A combined fuzzy-statistical approach is proposed to improve the robustness of resonant dispersion channel modeling in presence of noise. A natural extension of this doctoral research is to improve buried landmine detection as well as breast tumor detection by applying statistical and fuzzy analysis to the backscatter response. Moreover, radar target identification using UWB short pulses stands to gain tremendously from this research.",
+  "description_provenance": [
+    "Author Email: ggjoshi@ieee.org",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: annamala@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:38Z (GMT). No. of bitstreams: 1 Joshi_Gaurav_Dissertation_2006.pdf: 2807796 bytes, checksum: 946d1132f5bbceb1889398b543289699 (MD5)   Previous issue date: 2006-04-21"
+  ],
+  "handle": "27210",
+  "identifier_other": "etd-04242006-092903",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242006-092903/",
+  "identifier_uri": "http://hdl.handle.net/10919/27210",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Joshi_Gaurav_Dissertation_2006.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ultra-wideband",
+    "distortion",
+    "correlation receiver",
+    "matched filter",
+    "channel model",
+    "dispersion"
+  ],
+  "title": "Ultra-Wideband Channel Modeling using Singularity Expansion Method",
+  "type": "Dissertation"
+}

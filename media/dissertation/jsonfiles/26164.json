@@ -1,0 +1,47 @@
+{
+  "contributor_author": "McGhee, Jay D.",
+  "contributor_committeechair": "Berkson, James M.",
+  "contributor_committeemember": [
+    "Vaughan, Michael R.",
+    "Stauffer, Dean F.",
+    "Brewster, Carlyle C.",
+    "Kelly, Marcella J."
+  ],
+  "contributor_department": "Fisheries and Wildlife Sciences",
+  "date_accessioned": "2014-03-14T20:07:17Z",
+  "date_adate": "2006-02-23",
+  "date_available": "2014-03-14T20:07:17Z",
+  "date_issued": "2006-01-20",
+  "date_rdate": "2006-02-23",
+  "date_sdate": "2006-02-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Current eastern wild turkey (<I>Meleagris gallopavo silvestris</I>) harvest models assume density-independent population dynamics despite indications that populations are subject to a form of density dependence.  I suggest that both density-dependent and independent factors operate simultaneously on wild turkey populations, where the relative strength of each is governed by population density.   I attempt to estimate the form of the density dependence relationship in wild turkey population growth using the theta-Ricker model.  Density-independent relationships are explored between production and rainfall and temperature correlates for possible inclusion in the harvest model.  Density-dependent and independent effects are then combined in the model to compare multiple harvest strategies. To estimate a functional relationship between population growth and density, I fit the theta-Ricker model to harvest index time-series from 11 state wildlife agencies.  To model density-independent effects on population growth, I explored the ability of rainfall, temperature, and mast during the nesting and brooding season to predict observed production indices for 7 states.  I then built a harvest model incorporating estimates to determine their influence on the mean and variability of the fall and spring harvest. \tEstimated density-dependent growth rates produced a left-skewed yield curve maximized at ~40% of carrying capacity, with large residuals.  Density-independent models of production varied widely and were characterized by high model uncertainty.   \tResults indicate a non-linear density dependence effect strongest at low population densities.  High residuals from the model fit indicate that extrinsic factors will overshadow density-dependent factors at most population densities.  However, environmental models were weak, requiring more data with higher precision.  This indicates that density-independence can be correctly and more easily modeled as random error.  The constructed model uses both density dependence and density-independent stochastic error as a tool to explore harvest strategies for biologists.  The inclusion of weak density dependence changes expected harvest rates little from density-independent models.  However, it does lower the probability of overharvest at low densities.  Alternatives to proportional harvesting are explored to reduce the uncertainty in annual harvests.",
+  "description_provenance": [
+    "Author Email: jamcghe1@vt.edu",
+    "Advisor Email: mvaughan@vt.edu",
+    "Advisor Email: dstauffe@vt.edu",
+    "Advisor Email: carlyleb@vt.edu",
+    "Advisor Email: jberkson@vt.edu",
+    "Advisor Email: makelly2@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:17Z (GMT). No. of bitstreams: 1 McGheeDissertation.pdf: 1069645 bytes, checksum: eed62731120b5ced483d6493c3823cc3 (MD5)   Previous issue date: 2006-01-20"
+  ],
+  "handle": "26164",
+  "identifier_other": "etd-02102006-161134",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02102006-161134/",
+  "identifier_uri": "http://hdl.handle.net/10919/26164",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "McGheeDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "wild turkey",
+    "theta-Ricker",
+    "<I>Meleagris gallopavo silvestris</I>",
+    "non-linear regression",
+    "harvest",
+    "density dependence"
+  ],
+  "title": "Non-Linear Density Dependence in a Stochastic Wild Turkey Harvest Model",
+  "type": "Dissertation"
+}

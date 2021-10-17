@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Ertel, Richard Brian",
+  "contributor_committeechair": "Reed, Jeffrey Hugh",
+  "contributor_committeemember": [
+    "Beattie, Christopher A.",
+    "Rappaport, Theodore S.",
+    "Tranter, William H.",
+    "Woerner, Brian D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:45Z",
+  "date_adate": "1999-08-13",
+  "date_available": "2014-03-14T20:14:45Z",
+  "date_issued": "1999-07-28",
+  "date_rdate": "2000-08-13",
+  "date_sdate": "1999-08-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Due to the enormous performance gains associated with the use of antenna arrays in wireless networks, it is inevitable that these technologies will become an integral part of future systems.  This report focuses on signal propagation modeling for antenna array systems and on its relationship to the performance of these systems.  Accurate simulation and analytical models are prerequisite to the characterization of antenna array system performance.  Finally, an understanding of the performance of these systems in various environments is needed for effective overall network design. This report begins with an overview of the fundamentals of antenna array systems.   A survey of vector channel models is presented.  Angle of arrival and time of arrival statistics for the circular and elliptical (Liberti's Model) models are derived.  A generalized optimum output SINR analysis is derived for space-time processing structures in frequency selective fading channels.  The hardware and software of the MPRG Antenna Array Testbed (MAAT) is described. A literature review of previous antenna array propagation measurements is given. Antenna array measurement results obtained with the MAAT are used to compare the properties of the received signal vector in the various environmental conditions.  The influence of channel parameters on the ability of antenna arrays to separate the signals of two users on the reverse link is studied using simulation.  Finally, forward link beamforming techniques are reviewed.",
+  "description_provenance": [
+    "Author Email: rertel@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: wireless@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:45Z (GMT). No. of bitstreams: 1 rerteldiss.pdf: 4050498 bytes, checksum: 32ac36d6a7622931aa3661702cdf52b2 (MD5)   Previous issue date: 1999-07-28"
+  ],
+  "handle": "28525",
+  "identifier_other": "etd-080499-141603",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080499-141603/",
+  "identifier_uri": "http://hdl.handle.net/10919/28525",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "rerteldiss.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "propagation modeling",
+    "antenna arrays",
+    "wireless communications"
+  ],
+  "title": "Antenna Array Systems: Propagation and Performance",
+  "type": "Dissertation"
+}

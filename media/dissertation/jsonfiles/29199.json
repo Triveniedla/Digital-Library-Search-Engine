@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Rondeau, Thomas Warren",
+  "contributor_committeechair": "Bostian, Charles W.",
+  "contributor_committeemember": [
+    "MacKenzie, Allen B.",
+    "Midkiff, Scott F.",
+    "Ball, Sheryl B.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:06Z",
+  "date_adate": "2007-10-10",
+  "date_available": "2014-03-14T20:17:06Z",
+  "date_issued": "2007-09-20",
+  "date_rdate": "2007-10-10",
+  "date_sdate": "2007-10-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation provides the theory, design, and implementation of a cognitive engine, the enabling technology of cognitive radio. A cognitive radio is a wireless communications device capable of sensing the environment and making decisions on how to use the available radio resources to enable communications with a certain quality of service. The cognitive engine, the intelligent system behind the cognitive radio, combines sensing, learning, and optimization algorithms to control and adapt the radio system from the physical layer and up the communication stack. The cognitive engine presented here provides a general framework to build and test cognitive engine algorithms and components such as sensing technology, optimization routines, and learning algorithms. The cognitive engine platform allows easy development of new components and algorithms to enhance the cognitive radio capabilities. It is shown in this dissertation that the platform can easily be used on a simulation system and then moved to a real radio system. <p> The dissertation includes discussions of both theory and implementation of the cognitive engine. The need for and implementation of all of the cognitive components is strongly featured as well as the specific issues related to the development of algorithms for cognitive radio behavior. The discussion of the theory focuses largely on developing the optimization space to intelligently and successfully design waveforms for particular quality of service needs under given environmental conditions. The analysis develops the problem into a multi-objective optimization process to optimize and trade-of of services between objectives that measure performance, such as bit error rate, data rate, and power consumption. The discussion of the multi-objective optimization provides the foundation for the analysis of radio systems in this respect, and through this, methods and considerations for future developments. The theoretical work also investigates the use of learning to enhance the cognitive engine's capabilities through feed-back, learning, and knowledge representation. <p> The results of this work include the analysis of cognitive radio design and implementation and the functional cognitive engine that is shown to work in both simulation and on-line experiments. Throughout, examples and explanations of building and interfacing cognitive components to the cognitive engine enable the use and extension of the cognitive engine for future work.",
+  "description_provenance": [
+    "Author Email: trondeau@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: sball@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:06Z (GMT). No. of bitstreams: 1 rondeau-dissertation.pdf: 7173897 bytes, checksum: daef9fa1d254086df0cb328d79fab461 (MD5)   Previous issue date: 2007-09-20"
+  ],
+  "handle": "29199",
+  "identifier_other": "etd-10052007-081332",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10052007-081332/",
+  "identifier_uri": "http://hdl.handle.net/10919/29199",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "rondeau-dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "case-based reasoning",
+    "genetic algorithms",
+    "artificial intelligence",
+    "wireless communications",
+    "software defined radio",
+    "SDR",
+    "multi-objective optimization",
+    "case-based decision theory",
+    "cognitive radio"
+  ],
+  "title": "Application of Artificial Intelligence to Wireless Communications",
+  "type": "Dissertation"
+}

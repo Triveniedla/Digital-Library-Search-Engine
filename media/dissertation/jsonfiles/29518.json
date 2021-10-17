@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Ricciardi, Gerald F.",
+  "contributor_committeechair": "Stutzman, Warren L.",
+  "contributor_committeemember": [
+    "Safaai-Jazi, Ahmad",
+    "Rossi, John F.",
+    "Riad, Sedki Mohamed",
+    "Davis, William A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:18:23Z",
+  "date_adate": "2000-11-30",
+  "date_available": "2014-03-14T20:18:23Z",
+  "date_issued": "2000-09-21",
+  "date_rdate": "2001-11-30",
+  "date_sdate": "2000-11-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the field of antenna design and analysis, often the need arises to numerically extrapolate the far-zone performance of a radiating structure from its known (or assumed known) near-zone electromagnetic field.  Mathematical processes developed to accomplish such a task are known in the literature as near-zone to far-zone transformations (NZ-FZTs) as well as near-field far-field (NF-FF) transformations.  These processes make use of sampled near-zone field quantities along some virtual surface, viz., the transformation surface, that surrounds the radiating structure of interest.  Depending upon the application, samples of the required near-zone field quantities are supplied via analytical, empirical, or computational means.<p><p>Over the years, a number of NZ-FZT processes have been developed to meet the demands of many applications.  In short, their differences include, but are not limited to, the following: (1) the size and shape of the transformation surface, (2) the required near-zone field quantities and how they are sampled, (3) the computational methodology used, and (4) the imbedding of various application-driven features.  Each process has its pros and cons depending upon its specific application as well as the type of radiation structure under consideration.<p><p>In this dissertation we put forth a new and original NZ-FZT process that allows the transformation surface along which the near-zone is sampled to be spheroidal in shape: namely a prolate or oblate spheroid.  Naturally, there are benefits gained in doing so.  Our approach uses a formulated eigenfunction expansion of spheroidal wave-harmonics to develop two distinct, yet closely related, NZ-FZT algorithms for each type of spheroidal transformation surface.  The process only requires knowledge of the E-field along the transformation surface and does not need the corresponding H-field.<p><p>Given is a systematic exposition of the formulation, implementation, and verification of the newly developed NZ-FZT process.  Accordingly, computer software is developed to implement both NZ-FZT algorithms.  In the validation process, analytical and empirical radiation structures serve as computational benchmarks.  Numerical models of both benchmark structures are created by integrating the software with a field solver, viz., a finite-difference time-domain (FDTD) code.  Results of these computer models are compared with theoretical and empirical data to provide additional validation.",
+  "description_provenance": [
+    "Author Email: gfricci@aol.com",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: rossij@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:23Z (GMT). No. of bitstreams: 1 etd.pdf: 1487787 bytes, checksum: ec6b07621aeaf51a7eb2538de217c213 (MD5)   Previous issue date: 2000-09-21"
+  ],
+  "handle": "29518",
+  "identifier_other": "etd-11102000-14250056",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11102000-14250056/",
+  "identifier_uri": "http://hdl.handle.net/10919/29518",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "FDTD",
+    "antennas",
+    "eigenfunctions",
+    "computational electromagnetics"
+  ],
+  "title": "A Near-Zone to Far-Zone Transformation Process Utilizing a Formulated Eigenfunction Expansion of Spheroidal Wave-Harmonics",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wang, Li",
+  "contributor_committeechair": "Vining, G. Geoffrey",
+  "contributor_committeecochair": "Kowalski, Scott M.",
+  "contributor_committeemember": [
+    "Ye, Keying",
+    "Morgan, John P.",
+    "Spitzner, Dan J."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:15:41Z",
+  "date_adate": "2006-09-26",
+  "date_available": "2014-03-14T20:15:41Z",
+  "date_issued": "2006-08-15",
+  "date_rdate": "2008-09-26",
+  "date_sdate": "2006-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In response surface methodology, the central composite design is the most popular choice for fitting a second order model. The choice of the distance for the axial runs, alpha, in a central composite design is very crucial to the performance of the design. In the literature, there are plenty of discussions and recommendations for the choice of alpha, among which a rotatable alpha and an orthogonal blocking alpha receive the greatest attention. Box and Hunter (1957) discuss and calculate the values for alpha that achieve rotatability, which is a way to stabilize prediction variance of the design. They also give the values for alpha that make the design orthogonally blocked, where the estimates of the model coefficients remain the same even when the block effects are added to the model. In the last ten years, people have begun to realize the importance of a split-plot structure in industrial experiments. Constructing response surface designs with a split-plot structure is a hot research area now. In this dissertation, Box and Hunters' choice of alpha for rotatablity and orthogonal blocking is extended to central composite designs with a split-plot structure. By assigning different values to the axial run distances of the whole plot factors and the subplot factors, we propose two-strata rotatable splitplot central composite designs and orthogonally blocked split-plot central composite designs. Since the construction of the two-strata rotatable split-plot central composite design involves an unknown variance components ratio d, we further study the robustness of the two-strata rotatability on d through simulation. Our goal is to provide practical recommendations for the value of the design parameter alpha based on the philosophy of traditional response surface methodology.",
+  "description_provenance": [
+    "Author Email: liwang4@vt.edu",
+    "Advisor Email: keying.ye@utsa.edu",
+    "Advisor Email: jpmorgan@vt.edu",
+    "Advisor Email: SKowalski@minitab.com",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: dan.spitzner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:41Z (GMT). No. of bitstreams: 1 dissertationLiWangrevised.pdf: 783737 bytes, checksum: 03bce7afe249f8100e69ac155f14aef6 (MD5)   Previous issue date: 2006-08-15"
+  ],
+  "handle": "28794",
+  "identifier_other": "etd-08252006-133010",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252006-133010/",
+  "identifier_uri": "http://hdl.handle.net/10919/28794",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertationLiWangrevised.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "response surface designs",
+    "orthogonal blocking",
+    "rotatability",
+    "split-plot designs",
+    "central composite designs"
+  ],
+  "title": "Recommendations for Design Parameters for Central Composite Designs with Restricted Randomization",
+  "type": "Dissertation"
+}

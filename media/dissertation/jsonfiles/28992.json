@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Toh, Hoong Thiam",
+  "contributor_committeechair": "Ragab, Saad A.",
+  "contributor_committeemember": [
+    "Thangjitham, Surot",
+    "Adjerid, Slimane",
+    "Hajj, Muhammad R.",
+    "Hendricks, Scott L.",
+    "Telionis, Demetri P."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:16:19Z",
+  "date_adate": "2003-09-25",
+  "date_available": "2014-03-14T20:16:19Z",
+  "date_issued": "2004-09-05",
+  "date_rdate": "2003-09-25",
+  "date_sdate": "2003-09-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A three-dimensional flow field produced by supersonic twin-jet impingement is studied  using a large eddy simulation (LES). The numerical model consists of two parallel axisymmetric jets of diameter D<sup>*</sup>,  3D<sup>*</sup> apart, issuing from a plane which is at a distance H<sup>*</sup>=4D<sup>*</sup> above the ground. The jet diameter D<sup>*</sup>, mean velocity W<sup>*</sup><sub>o</sub>, mean density  <FONT FACE=\"Symbol\">r</font><sup>*</sup><sub>o</sub>  and mean temperature T<sup>*</sup><sub>o</sub> at the jet center in the exit plane are used as reference values.  The Mach number and Reynolds number of the jets are M=1.5  and Re=550,000, respectively. This model is closely related to the experimental setup of Elavarasan <i>et al.</i>(Elavarasan <i>et al.</i>, 2000).  <p> The three-dimensional time-dependent compressible Navier-Stokes equations are solved using the method of lines. The convective terms are discretized using a fifth-order WENO scheme, whereas the viscous terms are discretized using  a fourth-order central-differencing scheme.  A low-storage five-stage fourth-order Runge-Kutta scheme  is used to advance the solution in time.  Code verification is achieved by comparison with flat-plate boundary-layer linear stability analysis, and computational data by Bendiks <i>et al.</i> (Bendiks <i>et al.</i>, 1999). for a compressible turbulent round jet.  <p> Instantaneous flow, mean flow and Reynolds stresses for the twin-jet impingement are presented and discussed. The results reveal the existence of flapping behavior in the fountain. The flapping fountain is the vortical structure formed by the alternating merging of a primary vortex tube with a secondary vortex tube induced by the neighboring primary vortex tube.  The nondimensional period of flapping is found to be 7D<sup>*</sup>/W<sup>*</sup><sub>o</sub>. High unsteadiness and strong interaction between the fountain and the jets are also observed.  Due to the high diffusion and spreading  rate of the fountain, the interaction  between the fountain and the jets is only significant up to a height which is less than 3D<sup>*</sup>. It is found that the mean peak velocity in the fountain is 0.40406W<sup>*</sup><sub>o</sub> and it occurs at 0.536607D<sup>*</sup> from the ground.   <p> The suitability of the fifth-order WENO scheme to simulate turbulent flow field with embedded shocks is also demonstrated by its capability to capture unsteady shock waves in the impingement regions.",
+  "description_provenance": [
+    "Author Email: htoh@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:19Z (GMT). No. of bitstreams: 1 PhD_Dissertation.pdf: 68571643 bytes, checksum: ed17319a17f3e80c3d3dee58bf68764b (MD5)   Previous issue date: 2004-09-05"
+  ],
+  "handle": "28992",
+  "identifier_other": "etd-09162003-213941",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09162003-213941/",
+  "identifier_uri": "http://hdl.handle.net/10919/28992",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhD_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "LES",
+    "Twin-Jet Impingement",
+    "WENO"
+  ],
+  "title": "Large Eddy Simulation of Supersonic Twin-Jet Impingement Using a Fifth-Order WENO Scheme",
+  "type": "Dissertation"
+}

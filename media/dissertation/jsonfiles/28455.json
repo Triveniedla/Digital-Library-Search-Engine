@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Lawrence, David E",
+  "contributor_committeechair": "Birch, Jeffrey B.",
+  "contributor_committeemember": [
+    "Ye, Keying",
+    "Anderson-Cook, Christine M.",
+    "Terrell, George R.",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:32Z",
+  "date_adate": "2003-08-14",
+  "date_available": "2014-03-14T20:14:32Z",
+  "date_issued": "2003-07-17",
+  "date_rdate": "2006-10-12",
+  "date_sdate": "2003-07-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the field of linear regression analysis, a single outlier can dramatically influence ordinary least squares estimation while low-breakdown procedures such as M regression and bounded influence regression may be unable to combat a small percentage of outliers.  A high-breakdown procedure such as least trimmed squares (LTS) regression can accommodate up to 50% of the data (in the limit) being outlying with respect to the general trend.  Two available one-step improvement procedures based on LTS are Mallows 1-step (M1S) regression and Schweppe 1-step (S1S) regression (the current state-of-the-art method).  Issues with these methods include (1) computational approximations and sub-sampling variability, (2) dramatic coefficient sensitivity with respect to very slight differences in initial values, (3) internal instability when determining the general trend and (4) performance in low-breakdown scenarios.  A new high-breakdown regression procedure is introduced that addresses these issues, plus offers an insightful summary regarding the presence and structure of multivariate outliers.  This proposed method blends a cluster analysis phase with a controlled bounded influence regression phase, thereby referred to as cluster-based bounded influence regression, or CBI.  Representing the data space via a special set of anchor points, a collection of point-addition OLS regression estimators forms the basis of a metric used in defining the similarity between any two observations.  Cluster analysis then yields a main cluster \"halfset\" of observations, with the remaining observations becoming one or more minor clusters.  An initial regression estimator arises from the main cluster, with a multiple point addition DFFITS argument used to carefully activate the minor clusters through a bounded influence regression framework.  CBI achieves a 50% breakdown point, is regression equivariant, scale equivariant and affine equivariant and distributionally is asymptotically normal.  Case studies and Monte Carlo studies demonstrate the performance advantage of CBI over S1S and the other high breakdown methods regarding coefficient stability, scale estimation and standard errors.  A dendrogram of the clustering process is one graphical display available for multivariate outlier detection.  Overall, the proposed methodology represents advancement in the field of robust regression, offering a distinct philosophical viewpoint towards data analysis and the marriage of estimation with diagnostic summary.",
+  "description_provenance": [
+    "Author Email: David.Lawrence@pfizer.com",
+    "Advisor Email: keying@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:32Z (GMT). No. of bitstreams: 11 Chapter3.pdf: 141805 bytes, checksum: 30321ab4a31d279ddf0d0cde24155546 (MD5) Back.pdf: 225997 bytes, checksum: f1593794fd2be64de1b5ff12ebb34e03 (MD5) Front.pdf: 236785 bytes, checksum: 12a5d9e6c7b51536583bffa4fe106efa (MD5) Chapter2.pdf: 285122 bytes, checksum: 1b026a847f9a90797081e8970bc3d188 (MD5) Chapter4.pdf: 179226 bytes, checksum: c34409094d8d355a184c4e002e6850f4 (MD5) Chapter6.pdf: 381583 bytes, checksum: aa5d67ac019c36f7189a997beddb6538 (MD5) Chapter8.pdf: 390931 bytes, checksum: 9c06d435dc47a12d96d6f32bec201e73 (MD5) Chapter9.pdf: 128989 bytes, checksum: 6a13fbe9098e6419f8a202923a2477fb (MD5) Chapter7.pdf: 451749 bytes, checksum: 9016deb8ee2797fbb979f1ce10141e5f (MD5) Chapter5.pdf: 594903 bytes, checksum: 515443bc33311a057f3e4964e0a04d17 (MD5) Chapter1.pdf: 261028 bytes, checksum: a13e7da56a800ae497780674c71c4993 (MD5)   Previous issue date: 2003-07-17"
+  ],
+  "handle": "28455",
+  "identifier_other": "etd-07302003-183651",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07302003-183651/",
+  "identifier_uri": "http://hdl.handle.net/10919/28455",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter3.pdf",
+    "Back.pdf",
+    "Front.pdf",
+    "Chapter2.pdf",
+    "Chapter4.pdf",
+    "Chapter6.pdf",
+    "Chapter8.pdf",
+    "Chapter9.pdf",
+    "Chapter7.pdf",
+    "Chapter5.pdf",
+    "Chapter1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High-breakdown",
+    "Robust",
+    "Linear",
+    "Outlier",
+    "LTS"
+  ],
+  "title": "Cluster-Based Bounded Influence Regression",
+  "type": "Dissertation"
+}

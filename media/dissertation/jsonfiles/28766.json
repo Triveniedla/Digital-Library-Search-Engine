@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Seals, Cheryl Denise",
+  "contributor_committeechair": "Rosson, Mary Beth",
+  "contributor_committeemember": [
+    "Ehrich, Roger W.",
+    "Carroll, John M.",
+    "Burton, John K.",
+    "Hartson, H. Rex"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:34Z",
+  "date_adate": "2004-09-03",
+  "date_available": "2014-03-14T20:15:34Z",
+  "date_issued": "2004-08-12",
+  "date_rdate": "2004-09-03",
+  "date_sdate": "2004-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Incorporating computers into daily K-12 classroom teaching promises to benefit student learning, and improve teaching practice substantially. Computer enhanced curricula may enable more teachers to create exploratory and inquiry based lessons, but in most cases supporting software have only been realized as practice tools for specific rote learning skills. Drills do little to help students develop higher-order reasoning and problem-solving skills. With more computers in the classroom, the assumption was that computers would be integrated into curricula with a high usage of educational software, but research suggests that this assumption has not been borne out (Powell & Okey, 1994; Tyack & Cuban, 1995). Our general argument is that systems whose usability characteristics have been designed to meet teachersâ   needs and that can be easily tailored to meet specific teaching objectives are more likely to be incorporated into everyday teaching practices.</p><p>  One type of computer-based activity that enables teachers to engage students in exploratory learning is an educational simulation. Many educational software packages that build simulations have limited usability because they have unmodifiable, limited modifiable or difficult-to-modify functionality. Still others are useful, but are too expensive for many schools to afford. These packages fall short of achieving the ultimate goal of providing useful classroom simulation technology â   providing teachers with the option of building simulations from scratch or reusing existing simulations by adapting their functionality.</p><p>  Because teachers have limited time to learn new technology or develop new simulations, this research focused on developing a new framework that would help teachers create easily adaptable and reusable customized educational materials, encouraging them to use these materials to build and extend simulations in collaboration with their students. We began our study by analyzing the currently available tools for visual construction of educational simulations; we used the results of these analyses to develop an alternative environmentâ  SimBuilder. This environment was designed to address the general usability and programming style issues observed in our analysis of other tools. A minimalist self-study tutorial was designed to support rapid start-up and use of the SimBuilder. Through a comparative analysis using a state-of-the-art environment (AgentSheets) that collected a wide range of quantitative and qualitative measures of learning, programming style, usability, motivation, and strategies for code reuse, we determined that SimBuilder offers an improved environment for teachers to construct educational simulations.</p>",
+  "description_provenance": [
+    "Author Email: sealscd@eng.auburn.edu",
+    "Advisor Email: mrosson@psu.edu",
+    "Advisor Email: ehrich@vt.edu",
+    "Advisor Email: jmcarroll@psu.edu",
+    "Advisor Email: jburton@vt.edu",
+    "Advisor Email: hartson@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:34Z (GMT). No. of bitstreams: 1 seals_final_one.pdf: 10420245 bytes, checksum: fee8b7b76577a64c56cdb0a3ad9dcefa (MD5)   Previous issue date: 2004-08-12"
+  ],
+  "handle": "28766",
+  "identifier_other": "etd-08232004-182923",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232004-182923/",
+  "identifier_uri": "http://hdl.handle.net/10919/28766",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "seals_final_one.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "educational simulation",
+    "simulation creation",
+    "visual programming",
+    "reuse",
+    "minimalism"
+  ],
+  "title": "A framework for Learning and Reuse in Visual Programming Environments: Supporting Novice Programmer Development of Educational Simulations",
+  "type": "Dissertation"
+}

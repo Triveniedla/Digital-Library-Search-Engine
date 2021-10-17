@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Sahin, Asli",
+  "contributor_committeechair": "Terpenny, Janis P.",
+  "contributor_committeemember": [
+    "Goff, Richard M.",
+    "Van Aken, Eileen M.",
+    "Ellis, Kimberly P.",
+    "Shooter, Steven"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:18:02Z",
+  "date_adate": "2007-11-14",
+  "date_available": "2014-03-14T20:18:02Z",
+  "date_issued": "2007-09-21",
+  "date_rdate": "2007-11-14",
+  "date_sdate": "2007-11-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Product Platform Planning is an emerging philosophy that calls for the planned development of families of related products. It is markedly different from the traditional product development process and relatively new in engineering design. Product families and platforms can offer a multitude of benefits when applied successfully such as economies of scale from producing larger volumes of the same modules, lower design costs from not having to redesign similar subsystems, and many other advantages arising from the sharing of modules. While advances in this are promising, there still remain significant challenges in designing product families and platforms. This is particularly true for defining the platform components, platform architecture, and significantly different platform and product variants in a systematic manner. Lack of precise definition for platform design assets in terms of relevant customer requirements, distinct differentiations, engineering functions, components, component interfaces, and relations among all, causes a major obstacle for companies to take full advantage of the potential benefits of product platform strategy.  </p> <p>  The main purpose of this research is to address the above mentioned challenges during the design and development of modular platform-based product families. It focuses on providing answers to a fundamental question, namely, how can a decision support approach from product module definition to the determination of platform alternatives and product variants be integrated into product family design?  </p> <p>  The method presented in this work emphasizes the incorporation of critical design requirements and specifications for the design of distinctive product modules to create platform concepts and product variants using a data clustering approach. </p> <p>   A case application developed in collaboration with a tire manufacturer is used to verify that this research approach is suitable for reducing the complexity of design results by determining design commonalities across multiple design characteristics. The method was found helpful for determining and integrating critical design information (i.e., component dimensions, material properties, modularization driving factors, and functional relations) systematically into the design of product families and platforms. It supported decision-makers in defining distinctive product modules within the families and in determining multiple platform concepts and derivative product variants.  </p>",
+  "description_provenance": [
+    "Author Email: asahin@vt.edu",
+    "Advisor Email: terpenny@vt.edu",
+    "Advisor Email: richgoff@vt.edu",
+    "Advisor Email: evanaken@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: shooter@bucknell.edu",
+    "Made available in DSpace on 2014-03-14T20:18:02Z (GMT). No. of bitstreams: 1 ThesisAsliSahin.pdf: 3081913 bytes, checksum: 7325e72824fa188946959d874734706a (MD5)   Previous issue date: 2007-09-21"
+  ],
+  "handle": "29481",
+  "identifier_other": "etd-11062007-171422",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11062007-171422/",
+  "identifier_uri": "http://hdl.handle.net/10919/29481",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ThesisAsliSahin.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Modular Product",
+    "Product Platform Design",
+    "Data Clustering"
+  ],
+  "title": "A Data Clustering Approach to Support Modular Product Family Design",
+  "type": "Dissertation"
+}

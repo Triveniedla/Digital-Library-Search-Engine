@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Boyer, Keith Michael",
+  "contributor_committeechair": "O'Brien, Walter F. Jr.",
+  "contributor_committeemember": [
+    "Ng, Fai",
+    "Hale, Alan A.",
+    "Davis, Milton W. Jr.",
+    "Rabe, Douglas C.",
+    "King, Peter S."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:27Z",
+  "date_adate": "2001-05-03",
+  "date_available": "2014-03-14T20:11:27Z",
+  "date_issued": "2001-04-09",
+  "date_rdate": "2002-05-03",
+  "date_sdate": "2001-05-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A streamline curvature (SLC) throughflow numerical model was assessed and modified to better approximate the flow fields of highly transonic fans typical of military fighter applications.  Specifically, improvements in total pressure loss modeling were implemented to ensure accurate and reliable off-design performance prediction.  The assessment was made relative to the modeling of key transonic flow field phenomena, and provided the basis for  improvements, central to which was the incorporation of a physics-based shock loss model.  The new model accounts for shock geometry changes, with shock loss estimated as a function of inlet relative Mach number, blade section loading (flow turning), solidity, leading edge radius, and suction surface profile.  Other improvements included incorporation of loading effects on the tip secondary loss model, use of radial blockage factors to model tip leakage effects, and an improved estimate of the blade section incidence at which minimum loss occurs. \tData from a single-stage, isolated rotor and a two-stage, advanced-design (low aspect ratio, high solidity) fan provided the basis for experimental comparisons.  The two-stage fan was the primary vehicle used to verify the present work.  Results from a three-dimensional, steady, Reynolds-averaged Navier-Stokes model of the first rotor of the two-stage fan were also used to compare with predicted performance from the improved SLC representation.    \tIn general, the effects of important flow phenomena relative to off-design performance of the fan were adequately captured.  These effects included shock loss, secondary flow, and spanwise mixing.  Most notably, the importance of properly accounting for shock geometry and loss changes with operating conditions was clearly demonstrated.  The majority of the increased total pressure loss with loading across the important first-stage tip region was shown to be the result of increased shock loss, even at part-speed.  Overall and spanwise comparisons demonstrated that the improved model gives reasonable performance trends and generally accurate results, indicating that the physical understanding of the blade effects and the flow physics that underlie the loss model improvements are correct and realistic.  The new model is unique in its treatment of shock losses, and is considered a significant improvement for fundamentally based, accurate throughflow numerical approximations. The specific SLC model used here is employed in a novel numerical approach â   the Turbine Engine Analysis Compressor Code (TEACC).  With implementation of the improved SLC model and additional recommendations presented within this report, the TEACC method offers increased potential for accurate analysis of complex, engine-inlet integration issues, such as time-variant inlet distortion.",
+  "description_provenance": [
+    "Author Email: keboyer@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: alan.hale@arnold.af.mil",
+    "Advisor Email: milt.davis@arnold.af.mil",
+    "Advisor Email: douglas.rabe@wpafb.af.mil",
+    "Advisor Email: pking@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:27Z (GMT). No. of bitstreams: 1 dissertation_final.pdf: 6007211 bytes, checksum: de75439158b4db2f5cbdc8419418b0a9 (MD5)   Previous issue date: 2001-04-09"
+  ],
+  "handle": "27507",
+  "identifier_other": "etd-05032001-113913",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05032001-113913/",
+  "identifier_uri": "http://hdl.handle.net/10919/27507",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "gas turbine engine",
+    "compressor analysis",
+    "compressor design"
+  ],
+  "title": "An Improved Streamline Curvature Approach for Off-Design Analysis of Transonic Compression Systems",
+  "type": "Dissertation"
+}

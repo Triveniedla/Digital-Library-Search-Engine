@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Gabauer, Douglas John",
+  "contributor_committeechair": "Gabler, Hampton Clay",
+  "contributor_committeemember": [
+    "Smith, Eric P.",
+    "Madigan, Michael L.",
+    "Stitzel, Joel D.",
+    "Duma, Stefan M."
+  ],
+  "contributor_department": "Biomedical Engineering",
+  "date_accessioned": "2014-03-14T20:13:37Z",
+  "date_adate": "2008-07-18",
+  "date_available": "2014-03-14T20:13:37Z",
+  "date_issued": "2008-06-06",
+  "date_rdate": "2009-07-18",
+  "date_sdate": "2008-06-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents the results of a research effort aimed at improving the current occupant injury criteria typically used to assess occupant injury risk in crashes involving roadside hardware such as guardrail.  These metrics attempt to derive the risk of injury based solely on the response of the vehicle during a collision event.  The primary purpose of this research effort was to determine if real-world crash injury prediction could be improved by augmenting the current vehicle-based metrics with vehicle-specific structure and occupant restraint performance measures.  <p> Based on an analysis of the responses of 60 crash test dummies in full-scale crash tests, vehicle-based occupant risk criteria were not found to be an accurate measure of occupant risk and were unable to predict the variation in occupant risk for unbelted, belted, airbag only, or belt and airbag restrained occupants.  Through the use of Event Data Recorder (EDR) data coupled with occupant injury data for 214 real-world crashes, age-adjusted injury risk curves were developed relating vehicle-based metrics to occupant injury in real-world frontal collisions.    A comparison of these risk curves based on model fit statistics and an ROC curve analysis indicated that the more computationally intensive metrics that require knowledge of the entire crash pulse offer no statistically significant advantage over the simpler delta-V crash severity metric in discriminating between serious and non-serious occupant injury.  This finding underscores the importance of developing an improved vehicle-based injury metric.    <p> Based on an analysis of 619 full-scale frontal crash tests, adjustments to delta-V that reflect the vehicle structure performance and occupant restraint performance are found to predict 4 times the variation of resultant occupant chest acceleration than delta-V alone.  The combination of delta-V, ridedown efficiency, and the kinetic energy factor was found to provide the best prediction of the occupant chest kinematics.  Real-world crash data was used to evaluate the developed modified delta-V metrics based on their ability to predict injury in real-world collisions.   Although no statistically significant improvement in injury prediction was found, the modified models did show evidence of improvement over the traditional delta-V metric.",
+  "description_provenance": [
+    "Author Email: gabauer@vt.edu, douglas.gabauer@gmail.com, doug.gabauer@bucknell.edu",
+    "Advisor Email: gabler@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: mimadiga@vt.edu",
+    "Advisor Email: jstitzel@vt.edu",
+    "Advisor Email: duma@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:37Z (GMT). No. of bitstreams: 1 GabauerETD_Final.pdf: 3448673 bytes, checksum: 78a7f0b4837e25097199101906d066db (MD5)   Previous issue date: 2008-06-06"
+  ],
+  "handle": "28170",
+  "identifier_other": "etd-06302008-121009",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06302008-121009/",
+  "identifier_uri": "http://hdl.handle.net/10919/28170",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "GabauerETD_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "delta-V",
+    "flail space model",
+    "restraint performance"
+  ],
+  "title": "Predicting Occupant Injury with Vehicle-Based Injury Criteria in Roadside Crashes",
+  "type": "Dissertation"
+}

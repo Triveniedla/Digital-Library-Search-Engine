@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Nasr, Walid",
+  "contributor_committeechair": "Taaffe, Michael R.",
+  "contributor_committeemember": [
+    "Nachlas, Joel A.",
+    "Pasupathy, Raghu",
+    "Bish, Ebru K.",
+    "Nelson, Barry"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:03Z",
+  "date_adate": "2008-02-26",
+  "date_available": "2014-03-14T20:07:03Z",
+  "date_issued": "2008-01-18",
+  "date_rdate": "2009-02-26",
+  "date_sdate": "2008-02-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Developing equations to compute congestion measures for the general G/G/s/c  queueing model and networks of such nodes has always been a challenge. One approach to analyzing such systems is to approximate the model-specified general input processes and distributions by processes and distributions from the more computationally friendly family of phase-type processes and distributions. We develop numerical approximation methods for analysis of general time-dependent queueing nodes by introducing new approximations for the time-dependent first two moments of the number-in-system and departure-count processes.",
+  "description_provenance": [
+    "Author Email: wnasr@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Advisor Email: taaffe@vt.edu",
+    "Advisor Email: pasupath@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: nelsonb@northwestern.edu",
+    "Made available in DSpace on 2014-03-14T20:07:03Z (GMT). No. of bitstreams: 1 ETD_PhD_Walid_Nasr.pdf: 3734064 bytes, checksum: 60d3a29921f37710f80368136e12cb64 (MD5)   Previous issue date: 2008-01-18"
+  ],
+  "handle": "26090",
+  "identifier_other": "etd-02012008-115247",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02012008-115247/",
+  "identifier_uri": "http://hdl.handle.net/10919/26090",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_PhD_Walid_Nasr.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "phase type distribution",
+    "departure process",
+    "queueing systems",
+    "time dependent"
+  ],
+  "title": "Analysis and Approximations of Time Dependent Queueing Models",
+  "type": "Dissertation"
+}

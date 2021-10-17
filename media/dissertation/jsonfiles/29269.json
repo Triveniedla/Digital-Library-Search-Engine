@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Li, Zhonglin",
+  "contributor_committeechair": "Fuller, Christopher R.",
+  "contributor_committeemember": [
+    "Robertshaw, Harry H.",
+    "Cudney, Harley H.",
+    "Baumann, William T.",
+    "Burdisso, Ricardo A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:22Z",
+  "date_adate": "1997-11-19",
+  "date_available": "2014-03-14T20:17:22Z",
+  "date_issued": "1997-10-30",
+  "date_rdate": "1997-11-19",
+  "date_sdate": "1997-10-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Design of Active Structural Acoustic Control Systems Using Eigenassignment Approaches by Zhonglin Li Chris R. Fuller, Committee Chairman Department of Mechanical Engineering  (ABSTRACT)  Active structural acoustic control (ASAC) in conjunction with the adaptive feedforward control has been proved to be an efficient practical approach to reduce structure-borne sound. ASAC works on the principles of reducing the vibration amplitude of the structure (modal reduction), as well as changing the vibration distributions of the structure so that the vibration distributions of each structural modes destructively interfere with one another in their associated radiating acoustic field (modal restructuring). Based on these observations, two different but related design strategies, namely the non-volumetric design and the minimum supersonic wavenumber design, were developed for designing efficient ASAC system. The eigenassignment method for feedforward control system serves as the fundamental design tool for both formulations.  In this study, the dynamic characteristics of a multiple-input, multiple-output (MIMO) feedforward controlled system was investigated both analytically and experimentally on a simply supported plate under harmonic excitation. It was demonstrated that, when the control system has equal number of control inputs and error sensor outputs, the feedforward controller can effectively modify the system dynamics (i.e.,  resonance frequencies and mode shapes). This provides the theoretical basis for the eigenassignment method.    For the non-volumetric design, the single-input, single-output (SISO) eigenassignment technique is used to modify the eigenproperties of a planar structure using structure actuators and sensors so that all the controlled modes are non-volumetric (inefficient sound radiators at low frequencies, i.e., k_0a << 1), leading large global sound attenuation in the far field. The effectiveness of this formulation was demonstrated through numerical simulations for the control of radiation from simply supported and clamped-free beams. The experimental validation of the non-volumetric design was also carried out on a simply supported beam using PZT actuators and shaped PVDF film as error sensor. The filtered-x LMS algorithm was used in the experiment. Excellent global sound attenuation was achieved in the low frequencies.  The minimum supersonic wavenumber design stems from the fact that only supersonic wavenumber components of the structural velocity spectra radiate to the far field. A SISO eigenassignment technique is used to modify the eigenproperties of a planar structure so that the eigenfunctions of the controlled system have minimum supersonic wavenumber in the frequency range of study. The sound pressure or sound power radiated by the structure is therefore reduced. The design was demonstrated on a simply supported beam to minimize the supersonic wavenumber components contributed by the odd-order modes only. Significant global sound attenuation was achieved in the frequency range of study.  The main advantage of the proposed design methods is that they do not depend on the characteristics of the external disturbance, such as the form, location and frequency contents. Also, the error sensor and control input are optimized simultaneously, resulting in better acoustic control performance. The practical implementations of the proposed designs require accurate system modeling, this is the major limitation of the proposed designs.",
+  "description_provenance": [
+    "Author Email: zli@vt.edu",
+    "Advisor Email: c.r.fuller@larc.nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:17:22Z (GMT). No. of bitstreams: 1 edt.pdf: 2374460 bytes, checksum: b9a7d07dd13bba9ff94436a0726b6c38 (MD5)   Previous issue date: 1997-10-30"
+  ],
+  "handle": "29269",
+  "identifier_other": "etd-101397-153920",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-101397-153920/",
+  "identifier_uri": "http://hdl.handle.net/10919/29269",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "edt.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Feedforward Control",
+    "Active Structural Acoustic Control",
+    "Structural Acoustics"
+  ],
+  "title": "Design of Active Structure Acoustic Control Systems Using Eigenassignment Approach",
+  "type": "Dissertation"
+}

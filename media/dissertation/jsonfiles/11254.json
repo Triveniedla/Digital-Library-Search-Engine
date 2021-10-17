@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Wei, Jia",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Lu, Guo-Quan",
+    "Liu, Yilu",
+    "van Wyk, Jacobus Daniel"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:06:46Z",
+  "date_adate": "2004-09-27",
+  "date_available": "2011-08-22T19:06:46Z",
+  "date_issued": "2004-08-30",
+  "date_rdate": "2004-09-27",
+  "date_sdate": "2004-09-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Microprocessors in today's computers continue to get faster and more powerful. From the Intel 80X86 series to today's Pentium IV, CPUs have greatly improved in performance. Accordingly, their power consumption has increased dramatically [1][2]. An evolution began in power loss reduction when the high-performance Pentium processor was driven by a non-standard, less-than-5V power supply, instead of drawing its power from the 5V plane on the system board. In order to provide the power as quickly as possible, the voltage regulator (VR), a dedicated DC-DC converter, is placed in close proximity to power the processor. At first, VRs drew power from the 5V output of the silver box. As the power delivered through the VR increased so dramatically, it became no longer efficient to use the 5V bus. Then for desktop and workstation applications, the VR input voltage moved to the 12V output of the silver box. For laptop application, the VR input voltage range covers the battery voltage range and the adaptor voltage. In the meantime, microprocessors will run at very low voltage (sub 1V), and will consume up to 150A of current, and will have dynamics of about 400A/us.  The current VR solution is the 12V-input multiphase interleaved buck converter. The switching frequency is around 300KHz. This approach has several limitations for the future. OSCON capacitor is one limitation due to its large ESR and ESL; the low switching frequency the second limitation and the large inductance is the third limitation. Analysis shows that the all-ceramic solution is a better solution than the OSCON solution when the VR switching frequency reaches 1MHz. However, the 12V-input multiphase buck converter suffers low efficiency at high switching frequency, which rules out a legitimate chance of the current VR topology benefiting from high switching frequency.  The extreme duty cycle is the fundamental reason why the 12V-input multiphase buck converter is not suitable for future VRs. Employing the transformer concept can extend duty cycle, and therefore offer an opportunity to improve efficiency. The push-pull buck (PPB) converter is proposed as a solution. The efficiency is improved compared with the buck converter. Integrated magnetic techniques can be used to further improve the efficiency and simplify the implementation. The impact of transformer concept on transient response is analyzed. The PPB converter efficiency is still not satisfactory at 1MHz due to the switching loss. Switching loss being a barrier, soft switching is needed. The proposed soft-switched phase-shift buck (PSB) converter achieves soft switching for the top switches. Highly efficient power conversion is achieved at high switching frequency. The integrated magnetics makes the implementation concise and delivers good performance. Given that the PSB converter has good performance, the matrix-transformer phase-shift buck (MTPSB) converter is a simplified version of the four-phase PSB converter. The MTPSB converter trades off some performance with circuit complexity. This feature establishes itself as a very cost-effective solution for future VRs. The magnetic structure of the MTPSB converter is also very simple with the use of integrated magnetics.  Mobile CPUs are used in laptop computers. They require very challenging power management. The challenges for a laptop VR are different from and greater than those for a desktop VR. A laptop VR needs to have high efficiency at both heavy load and light load, good transient response and small and light form-factor, and work well with the wide input voltage range. Future mobile CPUs demand very aggressive power. The current single-stage VR approach cannot provide a suitable solution for the future. The PSB converter has disadvantages in light-load efficiency and does not work well with wide input voltage range; therefore it is not a suitable solution for laptop VRs although it is still a suitable solution for desktop VRs. The two-stage approach solves the wide-input-voltage-range issue and improves efficiency at heavy load significantly. The intermediate bus voltage Vbus is a very important parameter impacting overall efficiency. There is not one optimal Vbus value for all load conditions. The heavier the load, the higher the optimal Vbus. Based on this fact, the ABVP control is proposed. Vbus is adaptively positioned according to the load current therefore optimal Vbus is achieved under most conditions. Experimental results verify the theoretical prediction. The ONP control is another control scheme proposed to improve the light-load efficiency. By selecting optimal number of phases based on mobile processor power states, the VR light-load efficiency is improved. Experimental results show the proof. The baby-buck concept is the third concept proposed to improve the very-light-load efficiency. By operating the baby-buck channel, the two-stage VR improves efficiency at very light load. The two-stage VR featuring the three proposed control schemes has much higher efficiency than the single-stage VR over a very wide load range; therefore the battery life is extended. The two-stage VR with the proposed control schemes is a good solution for future laptop VRs. The problem solving process in this work proves that good solutions in isolated converters can be modified to fit into the non-isolated application. Non-isolated converters and isolated converters are not two separated worlds. On the contrary, these two worlds have many things in common. Good concepts can be transplanted from one world to another with minor modification and many problems can be solved this way. Another proven point in this work is that sometimes the solution is a fundamental, such as the change of power delivery architecture. One should not be limited by what is available right now, and should think outside the box. Once a fundamental change is made, it is very beneficial to take full advantage of the change, as it provides new opportunities.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:06:46Z (GMT). No. of bitstreams: 1  ETD_Dissertation_JiaWei.pdf: 3223245 bytes, checksum: bf7c5d35f074a1815c1fe182c8e9646a (MD5)    Previous issue date: 2004-08-30",
+    "Author Email: jwei@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: dusan@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: daan@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11254",
+  "identifier_other": "etd-09162004-115200",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09162004-115200",
+  "identifier_uri": "http://hdl.handle.net/10919/11254",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_Dissertation_JiaWei.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Voltage Regulator",
+    "High Efficiency",
+    "High Frequency"
+  ],
+  "title": "High Frequency High-Efficiency Voltage Regulators for Future Microprocessors",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Arcari, Attilio",
+  "contributor_committeechair": "Dowling, Norman E.",
+  "contributor_committeemember": [
+    "Cramer, Mark S.",
+    "Hendricks, Scott L.",
+    "Morgan, Abby W.",
+    "Thangjitham, Surot"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:07:19Z",
+  "date_adate": "2010-03-29",
+  "date_available": "2014-03-14T20:07:19Z",
+  "date_issued": "2010-01-29",
+  "date_rdate": "2012-04-20",
+  "date_sdate": "2010-02-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The design of any mechanical components requires an understanding of the general statical, dynamical and environmental conditions where the components will be operating to give a satisfactory results in terms of performance and endurance. The premature failure of any components is undesirable and potentially catastrophic, therefore predictions on performances and endurances of components to proceed with repair or substitution is vital to the stability of the structure where the component is inserted. The capability of a component of withstanding fatigue loading conditions during service is called fatigue life and the designed predictions can be conservative or non conservative. Improvements to a strain based approach to fatigue were obtained in this study, studying the effects of mean stresses on fatigue life and investigating cyclic mean stress relaxation of two aluminum alloys, 7075-T6511 and 7249-T76511, used in structural aircraft applications. The two aluminum alloys were tested and their fatigue behavior characterized. The project, entirely funded by NAVAIR, Naval Air Systems Command, and jointly coordinated with TDA, Technical Data Analysis Inc., was aimed to obtain fatigue data for both aluminum alloys, with particular interest in 7249 alloy because of its enhanced corrosion resistance, and to give guidelines for improving the performances of FAMS, Fatigue Analysis of Metallic Structures, a life prediction software from the point of view of both mean stress effects and mean stress relaxation. The sensitivity of engineering materials to mean stresses is of high relevance in a strain based fatigue approach. The performance of the most common models used to calculate mean stress correction factors was studied for the two aluminum alloys 7075 and 7249 to give guidelines in the use of those for life predictions. Not only mean stresses have a high influence on fatigue life, but they are also subjected to transient cyclic behaviors. The following study considered both an empirical approach and a plasticity theory approach to simulate and include these transient effects in life calculations. Results will give valid directions to a successful modification of FAMS like any other life calculation software to include in the picture transient phenomena.",
+  "description_provenance": [
+    "Author Email: aarcari@vt.edu",
+    "Advisor Email: ndowling@vt.edu",
+    "Advisor Email: macramer@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: awmorgan@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:19Z (GMT). No. of bitstreams: 1 Arcari_A_D_2010.pdf: 17443938 bytes, checksum: 7eaa3a009e8e321bec8428e0a84cd32e (MD5)   Previous issue date: 2010-01-29"
+  ],
+  "handle": "26178",
+  "identifier_other": "etd-02112010-123551",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02112010-123551/",
+  "identifier_uri": "http://hdl.handle.net/10919/26178",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Arcari_A_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "variable amplitude loading",
+    "relaxation",
+    "mean stress",
+    "strain-based approach",
+    "fatigue",
+    "Aluminum alloys"
+  ],
+  "title": "Enhanced strain-based fatigue methodology for high strength aluminum alloys",
+  "type": "Dissertation"
+}

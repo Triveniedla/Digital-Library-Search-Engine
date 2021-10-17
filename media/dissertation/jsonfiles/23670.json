@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Maguire, Marcus J",
+  "contributor_committeechair": "Roberts-Wollmann, Carin L",
+  "contributor_committeemember": [
+    "Leon, Roberto T",
+    "Cousins, Thomas E",
+    "Moen, Cristopher Dennis"
+  ],
+  "contributor_department": "Civil and Environmental Engineering",
+  "date_accessioned": "2013-07-31T08:00:12Z",
+  "date_available": "2013-07-31T08:00:12Z",
+  "date_issued": "2013-07-30",
+  "degree_discipline": "Civil Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Post-tensioned segmental concrete box girders have been in use in the United States since the early 1970s. This unique bridge system uses post-tensioning to connect many smaller concrete bridge segments into very efficient long span bridges. However, because of the slender components, localized transverse bending becomes more critical when compared to more conventional bridge types. Bridge owners are finding that ratings for standard loads and permit trucks are often controlled by the transverse behavior of the girders near concentrated wheel loads. The popular analysis methods used today range from two dimensional frame models to three dimensional finite element models of the entire bridge. Currently, engineers must make sound engineering judgments on limited available information, while balancing safety and economy. <br /><br />To quantify and understand longitudinal and transverse behavior, the results from three live load tests of single cell segmental concrete box girder bridges are presented. Each bridge was instrumented with longitudinal and transverse strain sensors on at least two cross sections as well as rotation and deflection sensors, when possible. Two dimensional transverse frame models and three dimensional shell models were compared to the test results for each subject bridge. The two dimensional frame analyses using the common bottom web pin and roller boundary conditions provide mean absolute percent error in excess of 250%. Conversely, the newly introduced boundary conditions using pin supports at the top and bottom of each web was shown to reduce mean absolute percent error to 82%, which is on the same order of magnitude as longitudinal beamline analysis. <br /><br />The three dimensional shell models were insensitive to several changes including mesh fineness, number of spans modeled, and support conditions. Using uniform surface loading, the transverse modeling procedure was shown to provide significantly more accurate results than the common two dimensional frame models. A faster and more convenient analysis method using a program generated, structure specific, influence surface was also outlined. This method produced similar results when compared to the uniform surface loading method, while allowing additional automation for easier load application.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-07-31T08:00:12Z (GMT). No. of bitstreams: 1 Maguire_MJ_D_2013.pdf: 22482457 bytes, checksum: aeb3c6cf129ab58b6036b13316d8b741 (MD5)   Previous issue date: 2013-07-30",
+  "format_medium": "ETD",
+  "handle": "23670",
+  "identifier_other": "vt_gsexam:1416",
+  "identifier_uri": "http://hdl.handle.net/10919/23670",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Field Testing",
+    "Transverse Bending",
+    "Segmental Concrete Box Grider Bridges"
+  ],
+  "title": "TRANSVERSE AND LONGITUDINAL BENDING OF SEGMENTAL CONCRETE BOX GIRDER BRIDGES",
+  "type": "Dissertation"
+}

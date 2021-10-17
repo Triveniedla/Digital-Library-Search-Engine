@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Brady, Michael Richard",
+  "contributor_committeechair": "Vlachos, Pavlos P.",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Luttrell, Gerald H.",
+    "Yoon, Roe-Hoan",
+    "Telionis, Demetri P."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:15:53Z",
+  "date_adate": "2009-10-13",
+  "date_available": "2014-03-14T20:15:53Z",
+  "date_issued": "2009-08-12",
+  "date_rdate": "2009-10-13",
+  "date_sdate": "2009-09-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Flotation is a complex, multiphase process used to separate minerals.  Four problems central to the fundamentals of the flotation process were studied.  A multiphase grid turbulence experiment was conducted to verify particle collision models.  The slip velocities of solid particles and bubbles were measured using Digital Particle Image Velocimetry (DPIV).  The experimental results were compared with the predictions from empirical and theoretical collision models. Time-resolved DPIV was used to measure the turbulent velocity field in a Rushton turbine around the impeller region.  The turbulence quantities were found by removing the periodic component from the blade passing, which is a dominant part of the measured velocities near the impeller. We provide evidence that larger, biased dissipation and turbulent kinetic energy values are estimated in the vicinity of the impeller due to the periodic component of the blade passage.  The flow was found to be anisotropic close to the impeller.  Vortex detection revealed that the tip vortices travel in a nearly radial direction from the impeller for small Reynolds numbers and with a wider distribution for higher Reynolds numbers. The rise of a buoyant bubble and its interaction with a free liquid surface was experimentally investigated using Time-Resolved Digital Particle Image Velocimetry as a function of bubble size, and surfactant concentration of the fluid medium.  It is shown that the presence of a surfactant significantly affected the characteristics of the velocity field during the rise and interaction with the free surface.  This difference is attributed to the adsorption coverage of the surfactant at the bubble-fluid interface.  Wake profiles were compared.  The presence of large vortices were observed and found to play a significant role. Finally, Numerical and experimental results of stable and unstable foams are presented by comparing liquid fractions and bubble sizes.  There was good agreement between the experiments and numerical modeling in free drainage and forced drainage experiments.  In addition, foam coarsening was measured and characterized experimentally. Each of the problems investigated have added to the understanding in the underlying physics of the flotation process and can lead to more accurate modeling.  The ultimate goal of this work is to contribute to the design of more effective and efficient flotation machines.",
+  "description_provenance": [
+    "Author Email: mibrady2@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: luttrell@vt.edu",
+    "Advisor Email: yoon@vt.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:53Z (GMT). No. of bitstreams: 1 Brady_MR_D_2009.pdf: 5903448 bytes, checksum: db48658e892f96939942d242bc59cfd5 (MD5)   Previous issue date: 2009-08-12"
+  ],
+  "handle": "28860",
+  "identifier_other": "etd-09032009-181332",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09032009-181332/",
+  "identifier_uri": "http://hdl.handle.net/10919/28860",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Brady_MR_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multiphase Fluid Mechanics",
+    "Turbulent Collisions",
+    "Turbulent Mixing",
+    "Bubble Dynamics",
+    "Foam Physics",
+    "Foam Drainage",
+    "Flotation"
+  ],
+  "title": "Multiphase Hydrodynamics in Flotation Systems",
+  "type": "Dissertation"
+}

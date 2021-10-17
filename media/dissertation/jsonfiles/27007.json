@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Xu, Chunchun",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeecochair": "Centeno, Virgilio A.",
+  "contributor_committeemember": [
+    "Hsiao, Michael S.",
+    "Liang, Yao",
+    "Lin, Tao",
+    "Conners, Richard W."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:05Z",
+  "date_adate": "2006-05-04",
+  "date_available": "2014-03-14T20:10:05Z",
+  "date_issued": "2006-02-20",
+  "date_rdate": "2007-05-04",
+  "date_sdate": "2006-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Frequency dynamics is one of the most important signals of a power system, and it is an indicator of imbalance between generation and load in the system. The Internet-based real-time GPS-synchronized wide-area Frequency Monitoring Network (FNET) was proposed to provide imperative frequency dynamics information for a variety of system-wide monitoring, analysis and control applications. The implementation of FNET has for the first time made the synchronized observation of the entire U.S. power network possible with very little cost.  </p><p> The FNET is comprised of many Frequency Disturbance Recorders (FDR) geographically dispersed throughout the U.S. and an Information Management System (IMS), currently located at Virginia Tech. The FDR works as a sensor, which performs local measurements and transmits calculations of frequency, voltage magnitude and voltage angle to the remote servers via the Internet. Compared with its commercial counterpart Phasor Measurement Unit (PMU), FDR provides less expensive version for networked high-resolution real-time synchronized. The improved single phase algorithm in the FDRs made it possible to measure at 110V level which is much more challenging than PMUs due to the noise involved at this level. </p><p> This research work presents the challenges and issues of both software and hardware design for the novel measurement device FDR, which is one of the devices with the highest dynamic precision for power system frequency measurement. The DFT-based Phasor Angle Analysis algorithm has been improved to make sure the high-resolution measuring FDRs are installed at residential voltage outlets, instead of substation high-voltage inputs. An embedded 12-channel timing GPS receiver has been integrated to provide an accurate timing synchronization signal, UTC time stamp, and unit location. This research work also addresses the harmonics, voltage swing and other noise components' impacts on the measurement results, and the optimized design of filters and a coherent sampling scheme to reduce or eliminate those impacts. The verification test results show that the frequency measurement accuracy of the FDR is within +/-0.0005Hz, and the time synchronization error is within +/-500ns with suitable GPS antenna installation. The preliminary research results show the measurement accuracy and real-time performance of the FDR are satisfactory for a variety of FNET applications, such as disturbance identification and event location triangulation.</p>",
+  "description_provenance": [
+    "Author Email: ccxu@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: yaliang@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: vcenteno@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:05Z (GMT). No. of bitstreams: 1 XuChunchunVTETD.pdf: 1821605 bytes, checksum: 49f48bfdd0ecbee58225ad0d02ebd199 (MD5)   Previous issue date: 2006-02-20"
+  ],
+  "handle": "27007",
+  "identifier_other": "etd-04192006-193202",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192006-193202/",
+  "identifier_uri": "http://hdl.handle.net/10919/27007",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "XuChunchunVTETD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Frequency Disturbance Recorder",
+    "Real-time Embedded System Design",
+    "Power System Frequency Tracking",
+    "GPS",
+    "FNET",
+    "Frequency Monitoring Network",
+    "FDR",
+    "Wide-area Measurement System"
+  ],
+  "title": "High Accuracy Real-time GPS Synchronized Frequency Measurement Device for Wide-area Power Grid Monitoring",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Nielsen, Eric John",
+  "contributor_committeechair": "Grossman, Bernard M.",
+  "contributor_committeemember": [
+    "Mason, William H.",
+    "Schetz, Joseph A.",
+    "Walters, Robert W.",
+    "Anderson, W. Kyle"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:17:56Z",
+  "date_adate": "1998-05-11",
+  "date_available": "2014-03-14T20:17:56Z",
+  "date_issued": "1998-11-16",
+  "date_rdate": "1999-05-11",
+  "date_sdate": "1998-12-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A discrete adjoint method is developed and demonstrated for aerodynamic design optimization on unstructured grids.  The governing equations are the three-dimensional Reynolds-averaged Navier-Stokes equations coupled with a one-equation turbulence model.  A discussion of the numerical implementation of the flow and adjoint equations is presented.  Both compressible and incompressible solvers are differentiated, and the accuracy of the sensitivity derivatives is verified by comparing with gradients obtained using finite differences and a complex-variable approach. Several simplifying approximations to the complete linearization of the residual are also presented.  A first-order approximation to the dependent variables is implemented in the adjoint and design equations, and the effect of a \"frozen\" eddy viscosity and neglecting mesh sensitivity terms is also examined.  The resulting derivatives from these approximations are all shown to be inaccurate and often of incorrect sign.  However, a partially-converged adjoint solution is shown to be sufficient for computing accurate sensitivity derivatives, yielding a potentially large cost savings in the design process.  The convergence rate of the adjoint solver is compared to that of the flow solver.  For inviscid adjoint solutions, the cost is roughly one to four times that of a flow solution, whereas for turbulent computations, this ratio can reach as high as ten.  Sample optimizations are performed for inviscid and turbulent transonic flows over an ONERA M6 wing, and drag reductions are demonstrated.",
+  "description_provenance": [
+    "Author Email: e.j.nielsen@larc.nasa.gov",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Advisor Email: schetz@aoe.vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Advisor Email: walters@aerosft.com",
+    "Advisor Email: w.k.anderson@larc.nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:17:56Z (GMT). No. of bitstreams: 1 thesis.pdf: 7242849 bytes, checksum: 7699d1d73adac322290e826a2a43f3dc (MD5)   Previous issue date: 1998-11-16"
+  ],
+  "handle": "29459",
+  "identifier_other": "etd-110498-110349",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-110498-110349/",
+  "identifier_uri": "http://hdl.handle.net/10919/29459",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Design",
+    "Navier-Stokes",
+    "Sensitivity",
+    "Unstructured",
+    "Aerodynamics",
+    "Adjoint"
+  ],
+  "title": "Aerodynamic Design Sensitivities on an Unstructured Mesh Using the Navier-Stokes Equations and a Discrete Adjoint Formulation",
+  "type": "Dissertation"
+}

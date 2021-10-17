@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Maddah, Bacel",
+  "contributor_committeechair": "Bish, Ebru K.",
+  "contributor_committeemember": [
+    "Meller, Russell D.",
+    "Lin, Kyle Y.",
+    "Sarin, Subhash C.",
+    "Nachlas, Joel A."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:46Z",
+  "date_adate": "2005-02-25",
+  "date_available": "2014-03-14T20:07:46Z",
+  "date_issued": "2005-02-11",
+  "date_rdate": "2008-02-25",
+  "date_sdate": "2005-02-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is concerned with decision making in retail operations management.  Specifically, we focus on pricing, variety, and inventory decisions, which are at the interface of the  marketing and operations functions of a retail firm.  We consider two problems that relate to two major types of retail goods.  First, we study joint pricing, variety, and inventory decisions for a set of substitutable\" items that serve the same need for the consumer (commonly referred to as a \"retailer's product line\").  Second, we present a novel model of a selling strategy for \"complementary\" items that we refer to as ``convenience tying,\" and focus on analyzing the effect of this selling strategy on pricing and profitability. We also study inventory decisions under convenience tying and exogenous pricing.  For a product line of substitutable items, the retailer's objective is to jointly determine the set of variants to include in her product line (\"assortment\"), together with their prices and inventory levels, so as to maximize her expected profit. We model the consumer choice process using a multinomial logit choice model and consider a newsvendor type inventory setting. We  derive the structure of the optimal assortment for a special case where the non-ascending order of items in mean consumer valuation and the non-descending order of items in unit cost agree.  For this special case, we find that an optimal assortment has a limited number of items with the largest values of the mean consumer valuation (equivalently, the items with the smallest values of the unit cost). For the general case, we  propose a dominance rule that significantly reduces the number of different subsets to be considered when searching for an optimal assortment.   We also present bounds on the optimal prices that can be obtained by solving single variable equations.  Finally, we combine several observations from our analytical and numerical study to develop an efficient heuristic procedure, which is shown to perform well on many numerical tests. With the objective of gaining further insights into the structure of the retailer's optimal decisions, we study a special case of the product line problem with \"similar items\" having equal unit costs and identical reservation price distributions. We also assume that all items in a product line are sold at the same price. We focus on two situations: (i) the assortment size is exogenously fixed, while the retailer jointly determines the pricing and inventory levels of items in her product line; and (ii) the pricing is exogenously set, while the retailer jointly determines the assortment size and inventory levels. We also briefly discuss the joint pricing/variety/inventory problem where the pricing,  assortment size, and inventory levels are all decision variables.    In the first setting, we characterize the structure of the retailer's optimal pricing and inventory decisions. We then study the effect of limited inventory on the optimal pricing by comparing our results (in the ``risky case\" with limited inventory) with the ``riskless case,\" which assumes infinite inventory levels. In addition, we gain insights on how the optimal price changes with product line variety as well as demand and cost parameters, and show  that the behavior of the optimal price in the risky case can be quite different from that in the riskless case.  In the second setting, we characterize the retailer's optimal assortment size considering the trade-off between sales revenue and inventory costs.  Our stylized model allows us to obtain strong structural and monotonicity results.  In particular, we find that the expected profit at optimal inventory levels is unimodal in the assortment size, which implies that the optimal assortment size is finite.  By comparison to the riskless case, we find that this finite variety level is due to inventory costs.  Finally, for the joint pricing/variety/inventory problem, we find that even when the retailer has control over the price, finite inventories still restrict the variety level. We also propose several bounds that can be useful in solving the joint problem.   We then study a convenience tying strategy for two complementary items that we denote by \"primary\" and \"secondary.\"  The retailer sells the primary item in an appropriate department of her store.  In addition, to stimulate demand, the secondary item is offered in two locations: its appropriate department and the primary item's department where it is displayed in very close proximity to the primary item.  We analyze the profitability of this selling practice by comparing it to the   traditional independent components strategy, where the two items are sold independently (each in its own department). We focus on understanding the effect of convenience tying on pricing. We also briefly discuss inventory considerations.   First, assuming infinite inventory levels, we show that convenience tying decreases the price of the primary item and adjusts the price of the secondary item up or down depending on its popularity in the primary item's department.  We also derive several structural and monotonicity properties of the optimal prices, and provide sufficient conditions for the profitability of convenience tying. Then, under exogenous pricing, we find that convenience tying is profitable only if it generates enough demand to cover the increase in inventory costs due to decentralizing the sales of the secondary item.",
+  "description_provenance": [
+    "Author Email: bmaddah@vt.edu",
+    "Advisor Email: rmeller@vt.edu",
+    "Advisor Email: kylin@nps.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:46Z (GMT). No. of bitstreams: 1 Maddah_05.pdf: 1163757 bytes, checksum: 1eeb0d2e0c546f96dcbd0beeb9eb0f73 (MD5)   Previous issue date: 2005-02-11"
+  ],
+  "handle": "26298",
+  "identifier_other": "etd-02242005-041013",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02242005-041013/",
+  "identifier_uri": "http://hdl.handle.net/10919/26298",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Maddah_05.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multi-item multi-location newsvendor.",
+    "Product variety",
+    "Bundling/Tying",
+    "Discrete choice models",
+    "Joint pricing and inventory"
+  ],
+  "title": "Pricing, Variety, and Inventory Decisions in Retail Operations Management",
+  "type": "Dissertation"
+}

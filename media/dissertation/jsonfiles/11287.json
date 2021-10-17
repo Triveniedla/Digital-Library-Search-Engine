@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Zhou, Xiaobo",
+  "contributor_committeechair": "Persaud, Naraine",
+  "contributor_committeemember": [
+    "Clark, Ralph",
+    "Pachepsky, Yakov",
+    "Heatwole, Conrad D.",
+    "Alley, Marcus M."
+  ],
+  "contributor_department": "Crop and Soil Environmental Sciences",
+  "date_accessioned": "2011-08-22T19:10:00Z",
+  "date_adate": "2004-11-05",
+  "date_available": "2011-08-22T19:10:00Z",
+  "date_issued": "2011-08-22",
+  "date_rdate": "2007-11-05",
+  "date_sdate": "2004-11-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The usefulness of watershed hydrological process models is considerably increased when they can be extrapolated across spatial and temporal scales.  This scale transfer problem, meaning the description and prediction of characteristics and processes at a scale different from the one at which observations and measurements are made, and has become the subject of much current research in hydrology and other areas.  Quantitative description of fractal scaling behavior of runoff and stream network morphometry in agricultural watersheds has not been previously reported.   In the present study, fractal and multifractal scaling of daily runoff rate in four experimental agricultural watersheds and their associated sub-watersheds (32 in total) were investigated. The time series of daily runoff rate were obtained from the database (comprising  about 16,600 station years of rainfall and runoff data for small agricultural watersheds across the U.S.) developed by the Hydrological and Remote Sensing Laboratory, Agricultural Research Service, US Department of Agriculture (HRSL/ARS/USDA).  Fractal scaling patterns of the Digital Elevation Model (DEM)-extracted stream network morphometry for these four watersheds were also examined.  The morphometry of stream networks of four watersheds were obtained by Geographic Information System (GIS) manipulation of digital elevation data downloaded from the most recent (July 2004) U.S. Geological Survey (USGS) National Elevation Dataset (NED).  Several threshold values of contribution area for stream initiation were used to extract stream networks for each of the four watersheds.   The principal measures of fractal scaling determined for the runoff series were the Hurst exponent obtained by rescaled range (R/S) analysis, the fractal dimension estimated by the shifted box-counting method, and the multifractal scaling function parameters (a and C1) of the Universal Multifractal Model (UMM).   Corresponding measures for the DEM-extracted stream networks at each threshold value were the fractal dimension estimated using the box-counting technique and the Horton ratios of the network.   Daily runoff rate exhibited strong long-term dependence and scale invariance over certain time scales.  The same fractal dimensions and Hurst exponents were obtained for the sub-watersheds within each watershed. Runoff exhibited multifractal behavior that was well described by UMM. The multifractal parameters a (quantifies how far the process is from monofractality) and C1 (characterizes the sparseness or inhomogeneity of the mean of the process) were reasonably close to each other for sub-watersheds within a watershed and were generally similar among four watersheds. For the DEM-extracted networks, the morphometric attributes and Horton ratios as well as their fractal dimensions were dependent on the threshold values of contribution area used in the extraction process.  The fractal dimensions were almost identical for DEM-extracted stream networks of the four watersheds.  The DEM-extracted stream network displayed a single scaling pattern, rather than multifractal behavior.  Explanation of the physical significance of fractal characteristics of the stream network in relation to runoff time series would require more data than were available in this study.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:10:00Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 885963 bytes, checksum: 0b8fc252a97eb6e766298b576f176961 (MD5)",
+    "Author Email: xizhou@vt.edu",
+    "Advisor Email: rbclark2690@mail.burgoyne.com",
+    "Advisor Email: ypachepsky@anri.barc.usda.gov",
+    "Advisor Email: heatwole@vt.edu",
+    "Advisor Email: malley@vt.edu",
+    "Advisor Email: npers@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11287",
+  "identifier_other": "etd-11042004-142926",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11042004-142926",
+  "identifier_uri": "http://hdl.handle.net/10919/11287",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Fractal",
+    "Multifractal",
+    "Scaling",
+    "Stream Network",
+    "unoff"
+  ],
+  "title": "Fractal and Multifractal Analysis of Runoff Time Series and Stream Networks in Agricultural Watersheds",
+  "type": "Dissertation"
+}

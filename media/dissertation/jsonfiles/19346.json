@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Westin, Benjamin Alexander",
+  "contributor_committeechair": "Brown, Gary S",
+  "contributor_committeemember": [
+    "Kohler, Werner E",
+    "Davis, William A",
+    "Scales, Wayne A",
+    "Guido, Louis J"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-04-25T08:00:16Z",
+  "date_available": "2013-04-25T08:00:16Z",
+  "date_issued": "2013-04-24",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The Method of Ordered Multiple Interactions provides a numerical solution to the integral<br />equations describing surface scattering which is both computationally efficient and reliably<br />convergent. The method has been applied in a variety of ways to solving the electromagnetic<br />scattering from perfectly-conducting rough surfaces. A desire to more accurately predict<br />the scattering from natural terrain has led to the representation of the surface material as<br />penetrable instead of conductive.<br /><br />For this purpose, the Method of Ordered Multiple Interactions is applied to numerically<br />solve the electromagnetic scattering from randomly-rough dielectric surfaces. A primary<br />consequence of the penetrable surface material is the introduction of a pair of coupled integral equations in place of the single integral equation used to solve the problem with a perfectly conducting surface. The method is tested and analyzed by developing independent scattering solutions for canonical cases in a transform domain and by comparing results with solutions from other techniques.<br /><br />The dielectric implementation of the Method of Ordered Multiple Interactions is used to solve<br />the electromagnetic scattering from a class of randomly-rough dielectric surfaces. This allows<br />for the characterization of the effect of a number of transmitter and surface parameters in the<br />scattering problem, observing bistatically and also specifically in the backscatter direction.<br /><br />MOMI is then applied as a method to examine subsurface penetration characteristics from<br />a similar family of rough surfaces. Characteristics of the environment parameters and the<br />scattered field itself are examined, and the numerical challenges associated with observing<br />beneath the surface are identified and addressed.<br /><br />The Method of Ordered Multiple Interactions is then incorporated as a major component of<br />a larger solution which computes the total scattering when a dielectric object is buried just<br />beneath the rough surface. This hyrid approach uses MOMI and the Method of Moments to<br />iteratively account for multiple interactions between the target and the dielectric interface,<br />enabling the study of scattering from the combined environment of a rough surface and the<br />embedded object, as well as the individual scattering events which combine to form the<br />steady-state solution.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-25T08:00:16Z (GMT). No. of bitstreams: 1 Westin_BA_D_2013.pdf: 9228978 bytes, checksum: a948ff8c4ccd6eaf5de53a98326c73d1 (MD5)   Previous issue date: 2013-04-24",
+  "format_medium": "ETD",
+  "handle": "19346",
+  "identifier_other": "vt_gsexam:606",
+  "identifier_uri": "http://hdl.handle.net/10919/19346",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Computational Electromagnetics",
+    "Rough Surface Scattering",
+    "Microwave Remote Sensing",
+    "Method of Ordered Multiple Interactions"
+  ],
+  "title": "Applications in Remote Sensing Using the Method of Ordered Multiple Interactions",
+  "type": "Dissertation"
+}

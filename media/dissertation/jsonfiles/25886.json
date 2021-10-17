@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Refai, Wael Yahia",
+  "contributor_committeechair": "Davis, William A",
+  "contributor_committeemember": [
+    "Kohler, Werner E",
+    "Hudait, Mantu K",
+    "Manteghi, Majid",
+    "Guido, Louis J"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T08:00:16Z",
+  "date_available": "2014-03-14T08:00:16Z",
+  "date_issued": "2014-03-13",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This research presents design techniques for a linear power amplifier with high efficiency in wireless handsets. The power amplifier operates with high efficiency at the saturated output power, maintains high linearity with enhanced efficiency at back-off power levels, and covers a broadband frequency response. The amplifier is thus able to operate in multiple modes (2G/2.5G/3G/4G). The design techniques provide contributions to current research in handset power amplifiers, especially to the converged power amplifier architecture, to reduce the number of power amplifiers within the handset while covering all standards and frequency bands around the globe.      Three main areas of interest in power amplifier design are investigated: high power efficiency; high linearity; and broadband frequency response. Multiple techniques for improving the efficiency are investigated with the focus on maintaining linear operation. The research applies a new technique to the handset industry, class-J, to improve the power efficiency while avoiding the practical issues that hinder the typical techniques (class-AB and class-F). Class-J has been implemented using GaN FET in high power applications. To our knowledge, this work provides the first implementation of class-J using GaAs HBT in a handset power amplifier.      The research investigates the linearity, and the nature and causes of nonlinearities. Multiple concepts for improving the linearity are presented, such as avoiding odd-degree harmonics, and linearizing the relationship between the output current and the input voltage of the amplifier at the fundamental frequency. The concept of bias depression in HBT transistors is introduced with a bias circuit that reduces the bias-offset effect to improve linearity at high output power.      A design methodology is presented for broadband matching networks, including the component loss. The methodology offers a quick and accurate estimation of component values, giving more degrees of freedom to meet the design specifications. It enables a trade-off among high out-of-band attenuation, number/size of components, and power loss within the network.      Although the main focus is handset power amplifiers, most of the developed techniques can be applied to a wide range of power amplifiers.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-03-14T08:00:16Z (GMT). No. of bitstreams: 1 Refai_WY_D_2014.pdf: 5744287 bytes, checksum: 7b3d8bde882657608bc3c0a475dcb928 (MD5)   Previous issue date: 2014-03-13",
+  "format_medium": "ETD",
+  "handle": "25886",
+  "identifier_other": "vt_gsexam:2340",
+  "identifier_uri": "http://hdl.handle.net/10919/25886",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "power amplifier",
+    "power efficiency",
+    "linearity",
+    "broadband",
+    "matching network",
+    "impedance transformation",
+    "converged power amplifier",
+    "wireless handset",
+    "class-J",
+    "GaAs HBT."
+  ],
+  "title": "A Linear RF Power Amplifier with High Efficiency for Wireless Handsets",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Fu, Youtong",
+  "contributor_committeechair": "Mostaghimi, Saied",
+  "contributor_committeecochair": "Shanholtz, Vernon O.",
+  "contributor_committeemember": [
+    "Loganathan, G. V.",
+    "Carstensen, Laurence William Jr.",
+    "Gallagher, Daniel L."
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:56Z",
+  "date_adate": "2003-03-20",
+  "date_available": "2014-03-14T20:07:56Z",
+  "date_issued": "2002-10-18",
+  "date_rdate": "2004-03-20",
+  "date_sdate": "2003-03-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An automated procedure was developed to identify and extract confined poultry facilities from color 35-mm slide imagery collected by the United States Department of Agriculture/Farm Service Agency (USDA/FSA). The imagery is used by the USDA/FSA to monitor compliance with various farm support programs and to determine crop production acreage within a given county. The imagery is generally available for all counties within the state on an annual basis. The imagery, however, is not flown to rigid specifications as flight height, direction, and overlap can vary significantly. The USDA/FSA attempts to collect imagery with reasonably clear skies, as visual interpretations could be drastically impacted by cloudiness.   The goal of this study was to develop procedures to effectively utilize this imagery base to identify and extract poultry facilities using automated techniques based on image processing and GIS. The procedure involved pre-screening the slides to determine coverage, geopositioning to USGS quadrangle base, color scanning to convert slide image to a digital format and archiving each data file with a naming convention that would allow rapid retrieval in later analysis. Image processing techniques were developed for identifying poultry facilities based on spectral characteristics. GIS tools were used to select poultry facilities from an array of features with similar spectral characteristics. A training data set was selected from which the spectral characteristics of poultry facilities were analyzed and compared with background conditions. Poultry facilities were found to have distinguishable characteristics. Descriptive statistics were used to define the range of spectral characteristics encompassing poultry facilities. Thresholding analyses were then utilized to eliminate all image features with spectral characteristics outside of this range.  Additional analyses were made to remove noise in the spectral image due to the sun angle, line of sight of camera, variation in roof reflectance due to rust and/or aging, shading by trees, etc. A primary objective in these analyses was to enhance the spectral characteristics for the poultry facility while, at the same time, retaining physical characteristics, i.e. the spectral characteristic is represented by a single blue color with a high brightness value.  The techniques developed to achieve a single blue color involved the use of Principal Component Analysis (PCA) on the red color band followed by RGB to Hue and RGB to Saturation analyses on the red and green color bands, respectively, from the resulting image. The features remaining from this series of analyses were converted into polygons (shape file) using ArcView GIS, which was then used to calculate the area and perimeter of each polygon.   The parameters utilized to describe the shape of a poultry house included width, length, compactness, length-width ratio, and polygon centroid analysis. Poultry facilities were found to have an average width of approximately 12.6m with a low standard deviation indicating that the widths of all houses were very similar. The length of poultry facilities ranged from 63m to 261m with and average length of 149m. The compactness parameter, which also is related to length and width, ranged from 30 to 130 with a mean value of approximately 57.  The shape parameters were used by ArcView GIS to identify polygons that represent poultry facilities. The order of selection was found to be compactness followed by length-width ratio and polygon centroid analysis. A data set that included thirty 35-mm slide images randomly selected from the Rockingham County data set, which contained over 2000 slides, was used to evaluate the automated procedure. The slides contained 182 poultry houses previously identified through manual procedures. Seven facilities were missed and 175 were correctly identified. Ninety-seven percent (97%) of existing poultry facilities were correctly identified which compares favorably with the 97 % accuracy resulted by manual procedures. .   The manual procedure described by Mostaghimi, et. al.(1999) only gave the center coordinates for each poultry facility. The automated procedure not only gives the center coordinate for each poultry building but also gives estimates for geometric parameters area, length and width along with an estimate of the capacity of building (i.e. number of birds), and waste load generated by birds including nutrient and bacteria content. The nutrient and bacteria load generated by each poultry facility is important information for conducting TMDL studies currently being developed for impaired Virginia streams. The information is expected to be very helpful to consultants and state agencies conducting the studies. Agricultural support agencies such as USDA/NRCS and USDA/FSA, Extension Service, consultants, etc. will find the information very helpful in the development of implementation plans designed to meet TMDL target water quality goals. The data also should be useful to Water Authorities for selection of appropriate treatment of water supplies and to county and local government jurisdictions for developing policies to minimize the degradation of water supplies.",
+  "description_provenance": [
+    "Author Email: youtongfu@yahoo.com",
+    "Advisor Email: gvlogan@vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: shanholz@vt.edu",
+    "Advisor Email: smostagh@vt.edu",
+    "Advisor Email: dang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:56Z (GMT). No. of bitstreams: 1 youtongfudefense_last_ver7.pdf: 6090664 bytes, checksum: 0a664ac7badd52feb6f8b2d82505cc08 (MD5)   Previous issue date: 2002-10-18"
+  ],
+  "handle": "26346",
+  "identifier_other": "etd-03032003-002938",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03032003-002938/",
+  "identifier_uri": "http://hdl.handle.net/10919/26346",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "youtongfudefense_last_ver7.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "35-mm aerial slides",
+    "GIS",
+    "shape modeling",
+    "TMDL",
+    "Remote Sensing",
+    "poultry facility",
+    "PCA",
+    "image processing"
+  ],
+  "title": "Use Of Small Format Aerial Photography in NPS Pollution Control Applications",
+  "type": "Dissertation"
+}

@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Kleppinger, David Lawrence",
+  "contributor_committeechair": "Broadwater, Robert P.",
+  "contributor_committeemember": [
+    "Pérez-Quiñones, Manuel A.",
+    "Hsiao, Michael S.",
+    "Abbott, A. Lynn",
+    "Park, Jung-Min Jerry"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:48Z",
+  "date_adate": "2010-05-06",
+  "date_available": "2014-03-14T20:09:48Z",
+  "date_issued": "2010-03-02",
+  "date_rdate": "2010-05-06",
+  "date_sdate": "2010-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation contains an examination of the problem of reconfiguration for restoration in critical infrastructure systems, with regard for the prioritization of those systems and the relationships between them.  The complexity of the reconfiguration problem is demonstrated, and previous efforts to present solutions to the problem are discussed.  This work provides a number of methods by which reconfiguration for restoration of an arbitrary number of prioritized interdependent critical infrastructure systems can be achieved.  A method of modeling systems called Graph Trace Analysis is used to enable generic operation on various system types, and a notation for writing algorithms with Graph Trace analysis models is presented.   The algorithms described are compared with each other and with prior work when run on a model of actual electrical distribution systems.  They operate in a greedy fashion, attempting to restore loads in decreasing priority order.  The described algorithms are also run on example models to demonstrate the ability to reconfigure interdependent infrastructure systems and systems which do not operate radially.",
+  "description_provenance": [
+    "Author Email: dkleppin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:48Z (GMT). No. of bitstreams: 1 Kleppinger_DL_D_2010.pdf: 674598 bytes, checksum: c60d6255ddb1077fadb56ee56fbd36a6 (MD5)   Previous issue date: 2010-03-02"
+  ],
+  "handle": "26916",
+  "identifier_other": "etd-04162010-114952",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162010-114952/",
+  "identifier_uri": "http://hdl.handle.net/10919/26916",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kleppinger_DL_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Reconfiguration for Restoration",
+    "Infrastructure Systems",
+    "Graph Trace Analysis",
+    "Priority",
+    "Interdependence",
+    "Generic Analysis"
+  ],
+  "title": "Prioritized Reconfiguration of  Interdependent  Critical Infrastructure Systems",
+  "type": "Dissertation"
+}

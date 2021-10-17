@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Calzone, Laurence",
+  "contributor_committeechair": "Tyson, John J.",
+  "contributor_committeemember": [
+    "Rogers, Robert C.",
+    "Sible, Jill C.",
+    "Wojcik, Edward J.",
+    "Wheeler, Robert L."
+  ],
+  "contributor_department": "Biology",
+  "date_accessioned": "2011-08-22T18:51:23Z",
+  "date_adate": "2003-12-09",
+  "date_available": "2011-08-22T18:51:23Z",
+  "date_issued": "2003-12-02",
+  "date_rdate": "2004-12-09",
+  "date_sdate": "2003-12-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The budding yeast cell cycle has attracted attention from many experimentalists over the years for its simplicity and amenability to genetic manipulation.  Moreover, the regulatory components described in budding yeast, Saccharomyces cerevisiae, are conserved in higher eukaryotes.  The budding yeast cell cycle is governed by a complex network of chemical reactions controlling the activity of the cyclin-dependent kinases (CDKs), proteins that drive the major events of the cell cycle.  The presence of these proteins is required for the transition from G1 to S phase (Start) whereas their absence permits the transition from S/M to G1 phase (Finish).  The cell cycle of budding yeast is based on alternation between these two states. To test the accuracy of this theory against experiments, we built a hypothetical molecular mechanism of the budding yeast cell cycle and transcribed it into differential equations. With a proper choice of kinetic parameters, the differential equations reproduce the main events of the cell cycle such as: the synthesis of cyclins (Cln1,2; Cln3; Clb1,2; Clb5,6) by their transcription factors (SBF, Mcm1, MBF); their association with stoichiometric inhibitors (Sic1, Cdc6); their degradation by SCF and adaptors of the APC (Cdc20, Cdh1).  The emphasis was put on mechanisms responsible for the release of Cdc14 from the RENT complex, Cdc14 being a major player in exit from mitosis.  Simulations of the wild type strain and more than 100 mutants showed phenotypes in accordance with experimental observations. Some mutants defective in the Start and Finish transitions and the different ways to rescue them will be presented.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:51:23Z (GMT). No. of bitstreams: 1  LC_thesis.pdf: 2413180 bytes, checksum: f44bbf6d7a4acbac7a438fac7db54472 (MD5)    Previous issue date: 2003-12-02",
+    "Author Email: lcalzone@vt.edu",
+    "Advisor Email: tyson@vt.edu",
+    "Advisor Email: rogers@math.vt.edu",
+    "Advisor Email: siblej@vt.edu",
+    "Advisor Email: ewojcik@vt.edu",
+    "Advisor Email: wheeler@math.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11070",
+  "identifier_other": "etd-12052003-121854",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-12052003-121854",
+  "identifier_uri": "http://hdl.handle.net/10919/11070",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LC_thesis.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Saccharomyces cerevisiae",
+    "cyclin-dependent kinase",
+    "cell cycle"
+  ],
+  "title": "Temporal organization of the budding yeast cell cycle: general principles and detailed simulations",
+  "type": "Dissertation"
+}

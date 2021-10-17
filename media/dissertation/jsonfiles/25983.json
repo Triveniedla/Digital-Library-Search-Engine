@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Reid, Terry Vincent",
+  "contributor_committeechair": "Ng, Fai",
+  "contributor_committeemember": [
+    "Scott, Elaine P.",
+    "Nelson, Douglas J.",
+    "Diller, Thomas E.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:06:41Z",
+  "date_adate": "1999-02-05",
+  "date_available": "2014-03-14T20:06:41Z",
+  "date_issued": "1998-04-30",
+  "date_rdate": "1999-02-05",
+  "date_sdate": "1999-01-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The effects of shock wave impact on unsteady turbine heat transfer are investigated. A numerical approach is developed to simulate the flow physics present in a previously performed unsteady wind tunnel experiment.  The windtunnel experiment included unheated and heated flows over a cascade of highly loaded turbine blades. After the flow over the blades was established, a single shock with a pressure ratio of 1.1 was introduced into the wind tunnel test section. A single blade was equipped with pressure transducers and heat flux microsensors. As the shock wave strikes the blade, time resolved pressure, temperature, and heat transfer  data were recorded.",
+  "description_provenance": [
+    "Author Email: reid5@prodigy.net",
+    "Advisor Email: douglas.j.nelson.vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:41Z (GMT). No. of bitstreams: 9 Chapt5.pdf: 805567 bytes, checksum: a5e64a373e41ca9e2927d9247d45ad97 (MD5) Chapt4.pdf: 165567 bytes, checksum: 1c8cbf73b1194a36822db72cfba10278 (MD5) Chapt7.pdf: 73131 bytes, checksum: 3a1d3b4140cb5a667538a855a552aa0a (MD5) Back.pdf: 299456 bytes, checksum: 477f23432965465c1db67abeed040c5d (MD5) Chapt6.pdf: 759138 bytes, checksum: a0a6d7df3d09d6cd4b4dd833bd765276 (MD5) Chapt3.pdf: 175476 bytes, checksum: d13b8aa218c223c7936b534dc08b105e (MD5) Front.pdf: 168931 bytes, checksum: 2838dfa11242afced19b303eee9d87c5 (MD5) Chapt2.pdf: 116093 bytes, checksum: 043f37879f49a55df3b7be22acb41dc0 (MD5) Chapt1.pdf: 405775 bytes, checksum: 09609a7e4106565134203ae3922a4f1b (MD5)   Previous issue date: 1998-04-30"
+  ],
+  "handle": "25983",
+  "identifier_other": "etd-011099-132537",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-011099-132537/",
+  "identifier_uri": "http://hdl.handle.net/10919/25983",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapt5.pdf",
+    "Chapt4.pdf",
+    "Chapt7.pdf",
+    "Back.pdf",
+    "Chapt6.pdf",
+    "Chapt3.pdf",
+    "Front.pdf",
+    "Chapt2.pdf",
+    "Chapt1.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Unsteady",
+    "computations",
+    "heat flux"
+  ],
+  "title": "A Computational Approach For Investigating Unsteady Turbine Heat Transfer Due To Shock Wave Impact",
+  "type": "Dissertation"
+}

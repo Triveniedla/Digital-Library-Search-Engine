@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Mazumder, Sudip K",
+  "contributor_committeecochair": [
+    "Boroyevich, Dushan",
+    "Nayfeh, Ali H."
+  ],
+  "contributor_committeemember": [
+    "VanLandingham, Hugo L.",
+    "Baumann, William T.",
+    "Lai, Jih-Sheng Jason"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:19Z",
+  "date_adate": "2001-08-17",
+  "date_available": "2014-03-14T20:15:19Z",
+  "date_issued": "2001-07-30",
+  "date_rdate": "2002-08-17",
+  "date_sdate": "2001-08-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Applications of distributed-power systems are on the rise. They are  already used in telecommunication power supplies, aircraft and shipboard  power-distribution systems, motor drives, plasma applications, and  they are being considered for numerous other applications. The successful  operation of these multi-converter systems relies heavily on a stable  design. Conventional analyses of power converters are based  on averaged models, which ignore the fast-scale instability and analyze  the stability on a reduced-order manifold. As such, validity of the averaged  models varies with the switching frequency even for the same topological structure.   The prevalent procedure for analyzing the stability of switching converters  is based on linearized smooth averaged (small-signal) models. Yet there are  systems (in active use) that yield a non-smooth averaged model. Even for  systems for which smooth averaged models are realizable, small-signal analyses  of the nominal solution/orbit do not provide anything  about three important characteristics: region of attraction of the nominal  solution, dependence of the converter dynamics on the initial conditions of the  states, and the post-instability dynamics. As such, converters designed based on  small-signal analyses may be conservative. In addition, linear controllers  based on such analysis may not be robust and optimal. Clearly, there is a need to  analyze the stability of power converters from a different perspective and  design nonlinear controllers for such hybrid systems.  In this Dissertation, using bifurcation analysis and Lyapunov's method, we  analyze the stability and dynamics of some of the building blocks of  distributed-power systems, namely standalone, integrated, and parallel  converters. Using analytical and experimental results, we show some of  the differences between the conventional and new approaches for stability  analyses of switching converters and demonstrate the shortcomings of some of  the existing results. Furthermore, using nonlinear analyses we attempt to answer  three fundamental questions: when does an instability occur, what is the mechanism  of the instability, and what happens after the instability?  Subsequently, we develop nonlinear controllers to stabilize parallel  dc-dc and parallel multi-phase converters. The proposed controllers  for parallel dc-dc converters combine the concepts of multiple-sliding-surface  and integral-variable-structure control. They are easy to design, robust, and have  good transient and steady-state performances. Furthermore, they achieve a constant  switching frequency within the boundary layer and hence can be operated  in interleaving or synchronicity modes. The controllers developed for  parallel multi-phase converters retain many of the above features. In addition,  they do not require any communication between the modules; as such, they  have high redundancy. One of these control schemes combines space-vector modulation  and variable-structure control. It achieves constant switching frequency within  the boundary layer and a good compromise between the transient and steady-state  performances.",
+  "description_provenance": [
+    "Author Email: sumazumd@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:19Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 7253220 bytes, checksum: 741b47a162b32d5dbd5b8891d1a4f81c (MD5)   Previous issue date: 2001-07-30"
+  ],
+  "handle": "28690",
+  "identifier_other": "etd-08172001-124400",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08172001-124400/",
+  "identifier_uri": "http://hdl.handle.net/10919/28690",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Lyapunov's Method",
+    "Sliding Surface",
+    "Bifurcation Theory",
+    "Modeling",
+    "Nonlinear Control",
+    "Parallel Converters",
+    "Multi-Phase Converters",
+    "Differential Inclusion",
+    "DC-DC Converters",
+    "Stability Analysis",
+    "Power Electronics",
+    "Floquet Theory"
+  ],
+  "title": "Nonlinear Analysis and Control of Standalone, Parallel DC-DC, and  Parallel Multi-Phase PWM Converters",
+  "type": "Dissertation"
+}

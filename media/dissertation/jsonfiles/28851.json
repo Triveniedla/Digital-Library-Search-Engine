@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Mazilu, Irina",
+  "contributor_committeechair": "Schmittmann, Beate",
+  "contributor_committeemember": [
+    "Mizutani, Tetsuro",
+    "Dennison, Brian K.",
+    "de Wolf, David A.",
+    "Zia, Royce K. P."
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2014-03-14T20:15:52Z",
+  "date_adate": "2002-09-05",
+  "date_available": "2014-03-14T20:15:52Z",
+  "date_issued": "2002-08-30",
+  "date_rdate": "2003-09-05",
+  "date_sdate": "2002-09-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In an attempt to reach a better understanding of the properties and critical behavior of non-equilibrium systems, we investigate the steady state properties of three simple models, variations of the prototype, the driven Ising lattice gas. Our first system studied is the bilayer model, a stack of two driven Ising lattice gases allowed to interact. We study this model using a very simple analytic approximation, the high temperature expansion. Building on existing simulation data and field theory results, our goal is to test how faithfully the series expansion can reproduce the Monte Carlo phase diagram. We find that the agreement between our calculations and the already reported simulations results is remarkably good. Next, we investigate the critical behavior of a two-dimensional Ising lattice gas driven into a non-equilibrium steady state, subject to a local modification of the dynamics, namely, having anisotropic attempt frequencies for exchanges along different spatial directions. We employ both Monte Carlo simulation techniques and a high temperature expansion approximation and find the phase diagram of the system, perform a finite-size scaling study in order to determine the universality class of the model and compare our simulation results with the phase diagram obtained using the high temperature expansion. We conclude that the bias in the jump rates does not affect the universal critical properties of the system: the modified model is in the same universality class as the driven Ising lattice gas. Our last objective concerns a different inroad into the study of non-equilibrium steady states. Instead of investigating a non-equilibrium steady state via indirect observables, such as correlation functions and order parameters, we seek to compute the steady state probability distribution directly. This is feasible only for systems with a small number of degrees of freedom. We chose to study a one-dimensional version of the so-called two-temperature kinetic Ising model. We solve the master equation exactly for a 1x6 system, and compare the full configurational probability distribution with its equilibrium counterpart.",
+  "description_provenance": [
+    "Author Email: imazilu@vt.edu",
+    "Advisor Email: mizutani@vpihe1.phys.vt.edu",
+    "Advisor Email: SCHMITTM@vt.edu",
+    "Advisor Email: dennison@astro.phys.vt.edu",
+    "Advisor Email: dadewolf@vt.edu",
+    "Advisor Email: rkpzia@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:52Z (GMT). No. of bitstreams: 1 etd(rev3).pdf: 629063 bytes, checksum: 4bd484e87dc2cb8f118ca7b69efce2aa (MD5)   Previous issue date: 2002-08-30"
+  ],
+  "handle": "28851",
+  "identifier_other": "etd-09022002-101837",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09022002-101837/",
+  "identifier_uri": "http://hdl.handle.net/10919/28851",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd(rev3).pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "small systems",
+    "Monte Carlo simulations",
+    "driven diffusive systems"
+  ],
+  "title": "Steady State Properties of Some Driven Diffusive Systems",
+  "type": "Dissertation"
+}

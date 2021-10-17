@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Wen, Sihua",
+  "contributor_committeechair": "Lu, Guo-Quan",
+  "contributor_committeemember": [
+    "Guido, Louis J.",
+    "Nelson, Douglas J.",
+    "Suchicital, Carlos T. A.",
+    "van Wyk, Jacobus Daniel",
+    "Boroyevich, Dushan"
+  ],
+  "contributor_department": "Center for Power Electronics Systems",
+  "date_accessioned": "2014-03-14T20:15:18Z",
+  "date_adate": "2002-08-27",
+  "date_available": "2014-03-14T20:15:18Z",
+  "date_issued": "2002-08-02",
+  "date_rdate": "2003-08-27",
+  "date_sdate": "2002-08-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research developed a novel, non-wire bond semiconductor interconnect technology, termed the Dimple Array interconnect (DAI), with significantly improved electrical, thermal and mechanical characteristics for power electronics applications. In the DAI structure, electrical connections onto the devices are achieved by solder bumps formed between the silicon device and arrays of dimples stamped on a metal sheet flex.   This research first presents the design of the materials, electrical and thermal performance, reliability, and the fabrication process of the DAI. It was found that due to the use of solder material, the current handling capability and thermal management of Dimple Array interconnected devices are significantly better than those using wire bonds. In addition, the shorter and wider solder joints reduce parasitics, which is a serious problem in wire bond interconnects. The proposed fabrication process of the DAI is simpler than other developing integrated power packaging technologies, such as flip chip and deposited metallization integration. DAI was successfully demonstrated in a half-bridge power electronics module with much improved electrical characteristics.  The study then focuses on the thermomechanical reliability of Dimple Array packages as compared to conventional controlled collapse bonding (CCB) flip chip packages. Experimental approaches, such as power cycling and temperature cycling tests, and numerical simulation with the help of finite element analysis (FEA) were used. The thermal cycling test shows that dimple solder joints display an eightfold reliability improvement over the conventional CCB solder joints. The power cycling test showed that the measured forward voltage can not reliably reflect the integrity of the solder joint interconnect. However, from metallographic cross-section images of these samples, it was concluded that the DAI solder joints are more reliable than the CCB solder joints under power cycling conditions. FEA results showed excellent correlation with experiments in predicting that the Dimple Array solder joints are more fatigue-resistant due to a reduced stress/strain concentration. Furthermore, failure mechanisms were explored using the mapped stress/strain distribution within the models. It was found that the CCB solder joint has a highly localized strain concentration at the device/solder interface, while strains are more uniformly distributed over the whole Dimple Array solder joint.",
+  "description_provenance": [
+    "Author Email: swen@vt.edu",
+    "Advisor Email: louis.guido@vt.edu",
+    "Advisor Email: doug.nelson@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: ctas@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:18Z (GMT). No. of bitstreams: 9 Chapter_2.pdf: 2395183 bytes, checksum: a6123c4ca0b7be12e33301c6fbdd9c9e (MD5) Reference.pdf: 145511 bytes, checksum: 0b049e61a5adda34d1c5887cee5d0ffb (MD5) Chapter_5.pdf: 1333047 bytes, checksum: 862064c40bb295a80665237f638a6863 (MD5) Chapter_1.pdf: 1668017 bytes, checksum: 744277962d81345872e423f1335ca68d (MD5) Chapter_6.pdf: 328449 bytes, checksum: 533c8237cba7fef7a63590e5f3689e9c (MD5) Title_pages.pdf: 260325 bytes, checksum: d9a990b758830cbd5818c1c3e66f9242 (MD5) Chapter_3.pdf: 5084700 bytes, checksum: 4fa94fb2f6baf164557dcfe6e1a5d418 (MD5) Vita.pdf: 5712 bytes, checksum: 2f0cae842cae157c095ae18109ebdddb (MD5) Chapter_4.pdf: 2143738 bytes, checksum: ac26bae4fcc76d3fbd1075e62b2ba004 (MD5)   Previous issue date: 2002-08-02"
+  ],
+  "handle": "28679",
+  "identifier_other": "etd-08162002-233352",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08162002-233352/",
+  "identifier_uri": "http://hdl.handle.net/10919/28679",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter_2.pdf",
+    "Reference.pdf",
+    "Chapter_5.pdf",
+    "Chapter_1.pdf",
+    "Chapter_6.pdf",
+    "Title_pages.pdf",
+    "Chapter_3.pdf",
+    "Vita.pdf",
+    "Chapter_4.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "BGA",
+    "converter",
+    "assembly",
+    "flex",
+    "flexible circuit"
+  ],
+  "title": "Design and Analyses of a Dimple Array Interconnect Technique for Power Electronics Packaging",
+  "type": "Dissertation"
+}

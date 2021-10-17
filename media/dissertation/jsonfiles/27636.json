@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Amaya, Austin J.",
+  "contributor_committeechair": "Ball, Joseph A.",
+  "contributor_committeemember": [
+    "Hagedorn, George A.",
+    "Klaus, Martin",
+    "Renardy, Michael J."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:50Z",
+  "date_adate": "2012-05-30",
+  "date_available": "2014-03-14T20:11:50Z",
+  "date_issued": "2012-04-26",
+  "date_rdate": "2012-05-30",
+  "date_sdate": "2012-05-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Given a full-range simply-invariant shift-invariant subspace <i>M</i> of the vector-valued <i>L<sup>2</sup></i> space on the unit circle, the classical Beurling-Lax-Halmos (BLH) theorem obtains a unitary operator-valued function <i>W</i> so that <i>M</i> may be represented as the image of of the Hardy space <i>H<sup>2</sup></i> on the disc under multiplication by <i>W</i>. The work of Ball-Helton later extended this result to find a single function representing a so-called dual shift-invariant pair of subspaces <i>(M,M<sup>Ã </sup>)</i> which together form a direct-sum decomposition of <i>L<sup>2</sup></i>. In the case where the pair <i>(M,M<sup>Ã </sup>)</i> are finite-dimensional perturbations of the Hardy space <i>H<sup>2</sup></i> and its orthogonal complement, Ball-Gohberg-Rodman obtained a transfer function realization for the representing function <i>W</i>; this realization was parameterized in terms of zero-pole data computed from the pair <i>(M,M<sup>Ã </sup>)</i>. Later work by Ball-Raney extended this analysis to the case of nonrational functions <i>W</i> where the zero-pole data is taken in an infinite-dimensional operator theoretic sense. The current work obtains analogues of these various results for arbitrary dual shift-invariant pairs <i>(M,M<sup>Ã </sup>)</i> of the <i>L<sup>2</sup></i> spaces on the real line; here, shift-invariance refers to invariance under the translation group. These new results rely on recent advances in the understanding of continuous-time infinite-dimensional input-state-output linear systems which have been codified in the book by Staffans.",
+  "description_provenance": [
+    "Author Email: amaya@vt.edu",
+    "Advisor Email: joball@math.vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Advisor Email: klaus@math.vt.edu",
+    "Advisor Email: mrenardy@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:50Z (GMT). No. of bitstreams: 1 Amaya_AJ_D_2012.pdf: 579513 bytes, checksum: 6b87e1fd316b5e34eef6039e1da16330 (MD5)   Previous issue date: 2012-04-26"
+  ],
+  "handle": "27636",
+  "identifier_other": "etd-05102012-184739",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05102012-184739/",
+  "identifier_uri": "http://hdl.handle.net/10919/27636",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Amaya_AJ_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "reproducing kernel Hilbert spaces",
+    "Hardy spaces over left/right half plane",
+    "admissible Sylvester data set",
+    "operator Sylvester equation",
+    "infinite dimensional zero-pole data",
+    "continuous shift semigroups",
+    "Ltwo well-posed linear systems",
+    "continuous-time linear systems"
+  ],
+  "title": "Beurling-Lax Representations of Shift-Invariant Spaces, Zero-Pole Data Interpolation, and Dichotomous Transfer Function Realizations: Half-Plane/Continuous-Time Versions",
+  "type": "Dissertation"
+}

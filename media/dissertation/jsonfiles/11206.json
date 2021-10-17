@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Somervell, Jacob Paul",
+  "contributor_committeechair": "McCrickard, Donald Scott",
+  "contributor_committeemember": [
+    "North, Christopher L.",
+    "Bowman, Douglas A.",
+    "Carroll, John M.",
+    "Hicks, David"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2011-08-22T19:02:28Z",
+  "date_adate": "2004-07-16",
+  "date_available": "2011-08-22T19:02:28Z",
+  "date_issued": "2004-07-07",
+  "date_rdate": "2004-07-16",
+  "date_sdate": "2004-07-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Evaluation is the key to effective interface design. It becomes even more important when the interfaces are for cutting edge technology, in application areas that are new and with little prior design knowledge. Knowing how to evaluate new interfaces can decrease development effort and increase the returns on resources spent on formative evaluation. The problem is that there are few, if any, readily available evaluation tools for these new interfaces. This work focuses on the creation and testing of a new set of heuristics that are tailored to the large screen information exhibit (LSIE) system class. This new set is created through a structured process that relies upon critical parameters associated with the notification systems design space. By inspecting example systems, performing claims analysis, categorizing claims, extracting design knowledge, and finally synthesizing heuristics; we have created a usable set of heuristics that is better equipped for supporting formative evaluation. Contributions of this work include: a structured heuristic creation process based on critical parameters, a new set of heuristics tailored to the LSIE system class, reusable design knowledge in the form of claims and high level design issues, and a new usability evaluation method comparison test. These contributions result from the creation of the heuristics and two studies that illustrate the usability and utility of the new heuristics.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:28Z (GMT). No. of bitstreams: 1 dissertation.pdf: 2017213 bytes, checksum: 15b03639ea41fe1c6aab492855464b54 (MD5)   Previous issue date: 2004-07-07",
+    "Author Email: jsomerve@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: jcarroll@ist.psu.edu",
+    "Advisor Email: mccricks@cs.vt.edu",
+    "Advisor Email: hicks@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11206",
+  "identifier_other": "etd-07122004-153037",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07122004-153037",
+  "identifier_uri": "http://hdl.handle.net/10919/11206",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "critical parameters",
+    "notification systems",
+    "heuristics",
+    "evaluation"
+  ],
+  "title": "Developing Heuristic Evaluation Methods for Large Screen Information Exhibits Based on Critical Parameters",
+  "type": "Dissertation"
+}

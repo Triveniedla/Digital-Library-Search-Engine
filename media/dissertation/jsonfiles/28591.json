@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Boyd, Jr., David Douglas",
+  "contributor_committeechair": "Barnwell, Richard W.",
+  "contributor_committeemember": [
+    "Jones, Henry",
+    "Devenport, William J.",
+    "Thomas, Russell H.",
+    "Mason, William H."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:14:59Z",
+  "date_adate": "1999-08-13",
+  "date_available": "2014-03-14T20:14:59Z",
+  "date_issued": "1999-07-27",
+  "date_rdate": "2000-08-13",
+  "date_sdate": "1999-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new unsteady rotor/fuselage interactional aerodynamics model has been developed. This model loosely couples a Generalized  Dynamic Wake Theory (GDWT) to a Navier-Stokes solution procedure. This coupling is achieved using a newly developed unsteady pressure jump boundary condition in the Navier-Stokes model. The new unsteady pressure jump boundary condition models each rotor blade as a moving pressure jump which travels around the rotor azimuth and is applied between two adjacent planes in a cylindrical,  non-rotating grid. Comparisons are made between predictions using  this new model and experiments for an isolated rotor and  for a coupled rotor/fuselage configuration.",
+  "description_provenance": [
+    "Author Email: d.d.boyd@larc.nasa.gov",
+    "Advisor Email: barnwell@vces.larc.nasa.gov",
+    "Advisor Email: h.e.jones@larc.nasa.gov",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Advisor Email: rthomas@vces.larc.nasa.gov",
+    "Advisor Email: mason@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:59Z (GMT). No. of bitstreams: 1 thesis.pdf: 19686809 bytes, checksum: cacafa0dfd870d278de689d9762ea1ef (MD5)   Previous issue date: 1999-07-27"
+  ],
+  "handle": "28591",
+  "identifier_other": "etd-080999-163154",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080999-163154/",
+  "identifier_uri": "http://hdl.handle.net/10919/28591",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Computational Fluid Dynamics",
+    "Rotorcraft",
+    "Aerodynamics",
+    "Unsteady Flow"
+  ],
+  "title": "Rotor/Fuselage Unsteady Interactional Aerodynamics: A New Computational Model",
+  "type": "Dissertation"
+}

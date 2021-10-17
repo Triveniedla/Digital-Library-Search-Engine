@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Chen, Ruiliang",
+  "contributor_committeechair": "Park, Jung-Min Jerry",
+  "contributor_committeemember": [
+    "Hou, Yiwei Thomas",
+    "Midkiff, Scott F.",
+    "Patterson, Cameron D.",
+    "Green, Edward L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:51Z",
+  "date_adate": "2008-03-07",
+  "date_available": "2014-03-14T20:07:51Z",
+  "date_issued": "2008-02-19",
+  "date_rdate": "2009-03-07",
+  "date_sdate": "2008-02-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The tremendous success of various wireless applications operating in unlicensed bands has resulted in the overcrowding of those bands. Cognitive radio (CR) is a new technology that enables an unlicensed user to coexist with incumbent users in licensed spectrum bands without inducing interference to incumbent communications. This technology can significantly alleviate the spectrum shortage problem and improve the efficiency of spectrum utilization. Networks consisting of CR nodes (i.e., CR networks)---often called dynamic spectrum access networks or NeXt Generation (XG) communication networks---are envisioned to provide high bandwidth to mobile users via heterogeneous wireless architectures and dynamic spectrum access techniques.  In recent years, the operational aspects of CR networks have attracted great research interest. However, research on the security aspects of CR networks has been very limited. In this thesis, we discuss security issues that pose a serious threat to CR networks. Specifically, we focus on three potential attacks that can be launched at the physical or MAC layer of a CR network: primary user emulation (PUE) attack, spectrum sensing data falsification (SSDF) attack, and control channel jamming (CCJ) attack. These attacks can wreak havoc to the normal operation of CR networks. After identifying and analyzing the attacks, we discuss countermeasures. For PUE attacks, we propose a transmitter verification scheme for attack detection. The scheme utilizes the location information of transmitters together with their signal characteristics to verify licensed users and detect PUE attackers. For both SSDF attacks and CCJ attacks, we seek countermeasures for attack mitigation. In particular, we propose Weighted Sequential Probability Ratio Test (WSPRT) as a data fusion technique that is robust against SSDF attacks, and introduce a multiple-rendezvous cognitive MAC (MRCMAC) protocol that is robust against CCJ attacks. Using security analysis and extensive numerical results, we show that the proposed schemes can effectively counter the aforementioned attacks in CR networks.",
+  "description_provenance": [
+    "Author Email: rlchen@vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: cdp@vt.edu",
+    "Advisor Email: green@calvin.math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:51Z (GMT). No. of bitstreams: 1 dissertation_RChen_0229.pdf: 4644954 bytes, checksum: 9dcb6997484c02546194252d5e72fdeb (MD5)   Previous issue date: 2008-02-19"
+  ],
+  "handle": "26330",
+  "identifier_other": "etd-02292008-055103",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02292008-055103/",
+  "identifier_uri": "http://hdl.handle.net/10919/26330",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_RChen_0229.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Transmitter Verification",
+    "Spectrum Sensing Data Falsification",
+    "Multiple-Rendezvous Cognitive Media Access Control",
+    "Primary User Emulation",
+    "Network Security",
+    "Cognitive Radio Networks",
+    "Weighted Sequential Probability Ratio Test",
+    "Control Channel Jamming"
+  ],
+  "title": "Enhancing Attack Resilience in Cognitive Radio Networks",
+  "type": "Dissertation"
+}

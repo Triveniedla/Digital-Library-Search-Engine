@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Dong, Xuzhu",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Lin, Tao",
+    "Huang, Qin Alex",
+    "Phadke, Arun G.",
+    "Broadwater, Robert P."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:51Z",
+  "date_adate": "2002-02-04",
+  "date_available": "2014-03-14T20:06:51Z",
+  "date_issued": "2001-01-15",
+  "date_rdate": "2003-02-04",
+  "date_sdate": "2002-01-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With deregulation, diagnosis and maintenance of power equipment, especially power transformers, become increasingly important to keep power systems in reliable operation. This dissertation systematically studied two kinds of transformer failure and abnormality cases, and then developed a new Internet based Virtual Hospital (VH) for power equipment to help power equipment diagnosis and maintenance.  A practical case of generator-step-up (GSU) transformer failures in a pumped storage plant was extensively studied. Abnormal electrical phenomena associated with GSU transformers, including switching transients and very fast transients (VFT), and lightning, were analyzed. Simulation showed that circuit breaker restriking could be a major cause of transformer successive failures, and current surge arrester configuration did not provide enough lightning protection to GSU transformers. Mitigation of abnormal electrical phenomena effects on GSU transformers was proposed and discussed. The study can be a complete reference of troubleshooting of other similar transformer failures. Geomagnetically induced current (GIC) is another possible cause of transformer abnormality. A simplified method based on the equivalent magnetizing curve for transformers with different core design was developed and validated to estimate harmonic currents and MVar drawn by power transformers with a given GIC. An effective indicator was proposed using partial harmonic distortion, PHD, to show when the transformer begins saturating with the input GIC. The developed method has been applied to a real time GIC monitoring system last year for a large power network with thousands of transformers. A new Internet based Virtual Hospital (VH) for Power Equipment was conceptually developed to share experience of power equipment diagnosis and maintenance, and update the existing diagnostic techniques and maintenance strategies, and a comprehensive information model was developed for data organization, access, and archiving related to equipment diagnosis and maintenance. An Internet based interactive fault diagnostic tool has been launched for power transformers based on dissolved gas analysis (DGA).  The above results and findings can help improving power equipment diagnosis and utility maintenance strategies.",
+  "description_provenance": [
+    "Author Email: xudong3@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: ALEXHUAN@vt.edu",
+    "Advisor Email: APHADKE@vt.edu",
+    "Advisor Email: DEW@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:51Z (GMT). No. of bitstreams: 2 title.pdf: 26940 bytes, checksum: efb0b6308e53e6b911f20a4374a9c89f (MD5) Dong-dissertation.pdf: 992872 bytes, checksum: f22e2a4413fdaed8805f0cf602b5b5bc (MD5)   Previous issue date: 2001-01-15"
+  ],
+  "handle": "26034",
+  "identifier_other": "etd-01252002-135023",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01252002-135023/",
+  "identifier_uri": "http://hdl.handle.net/10919/26034",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "title.pdf",
+    "Dong-dissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Power Transformer",
+    "Geomagnetically Induced Current (GIC)",
+    "Virtual Hospital",
+    "Information Model",
+    "Electrical Transients"
+  ],
+  "title": "Study of Power Transformer Abnormalities and IT Applications in Power Systems",
+  "type": "Dissertation"
+}

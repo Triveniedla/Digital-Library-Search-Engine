@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Akbar, Monika",
+  "contributor_committeechair": "Shaffer, Clifford A.",
+  "contributor_committeemember": [
+    "Edwards, Stephen H.",
+    "Fox, Edward A.",
+    "Fan, Weiguo",
+    "Rodger, Susan H."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-01-24T09:00:25Z",
+  "date_available": "2014-01-24T09:00:25Z",
+  "date_issued": "2014-01-23",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Some classes of Internet users have specific information needs and specialized information-seeking behaviors. For example, educators who are designing a course might create a syllabus, recommend books, create lecture slides, and use tools as lecture aid. All of these resources are available online, but are scattered across a large number of websites. Collecting, linking, and presenting the disparate items related to a given course topic within a digital library will help educators in finding quality educational material.    Content quality is important for users. The results of popular search engines typically fail to reflect  community input regarding quality of the content. To disseminate information related to the quality of available resources, users need a common place to meet and share their experiences. Online communities can support knowledge-sharing practices (e.g., reviews, ratings).     We focus on finding the information needs of educators and helping users to identify potentially useful resources within an educational digital library.  This research builds upon the existing 5S digital library (DL) framework. We extend core DL services (e.g., index, search, browse) to include information from latent user groups. We propose a formal definition for the next generation of educational digital libraries. We extend one aspect of this definition to study methods that incorporate  collective knowledge within the DL framework. We introduce the concept of deduced social network (DSN) - a network that  uses navigation history to deduce connections that are prevalent in an educational digital library. Knowledge gained from the DSN can be used to tailor DL services so as to guide users through the vast information space of educational digital libraries. As our testing ground, we use the AlgoViz and Ensemble portals, both of which have large collections of educational resources and seek to support online communities. We developed two applications, ranking of search results and recommendation, that use the information derived from DSNs. The revised ranking system  incorporates social trends into the system, whereas the recommendation system assigns users to a specific group for content recommendation. Both applications show enhanced performance when DSN-derived information is incorporated.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-24T09:00:25Z (GMT). No. of bitstreams: 2  Akbar_M_D_2014.pdf: 9931904 bytes, checksum: bd2c31bf33661f5b1e011a9da4627e49 (MD5)  Akbar_M_D_2014_support_1.pdf: 27104 bytes, checksum: e6fc1d4d01eaf972baba9caa18d175ef (MD5)    Previous issue date: 2014-01-23",
+  "format_medium": "ETD",
+  "handle": "25139",
+  "identifier_other": "vt_gsexam:2068",
+  "identifier_uri": "http://hdl.handle.net/10919/25139",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Educational digital library",
+    "online community",
+    "deduced social network",
+    "content ranking",
+    "recommendation system"
+  ],
+  "title": "Integrating Community with Collections in Educational Digital Libraries",
+  "type": "Dissertation"
+}

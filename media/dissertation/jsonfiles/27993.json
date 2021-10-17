@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Pennington, Timothy L.",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "May, Russell G.",
+    "Safaai-Jazi, Ahmad",
+    "Indebetouw, Guy J.",
+    "Claus, Richard O."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:52Z",
+  "date_adate": "2000-07-07",
+  "date_available": "2014-03-14T20:12:52Z",
+  "date_issued": "2000-06-05",
+  "date_rdate": "2001-07-07",
+  "date_sdate": "2000-06-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Three--dimensional mapping has many applications including robot navigation, medical diagnosis and industrial inspection.  However, many applications remain unfilled due to the large size and complex nature of typical 3--D mapping systems.  The use of fiber optics allows the miniaturization and simplification of many optical systems. This research used a fiber optic coupler to project a fringe pattern onto an object to be profiled.  The two outputs fibers of the coupler were brought close together to form the pinholes of a Young's Double Pinhole Interferometer. This provides the advantages of this simple interferometer without the disadvantage of power loss by the customary method of spatially filtering a collimated laser beam with a pair of pinholes.  The shape of the object is determined by analyzing the fringe pattern.  The system developed has a resolution of 0.1mm and a measurement error less than 1.5\\% of the object's depth. The use of fiber optics provides many advantages including: remote location of the laser source (which also means remote location of heat sources, a critical requirement for many applications); easy accommodation of several laser sources, including gas lasers and high--power, low--cost fiber pigtailed laser diodes; and variation of source wavelength without disturbing the pinholes.  The principal advantages of this mapping system over existing methods are its small size, minimum number of critically aligned components, and remote location of the laser sources.",
+  "description_provenance": [
+    "Author Email: penningt@ee.vt.edu, tapenn@aol.com",
+    "Advisor Email: rmay@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: roclaus@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:52Z (GMT). No. of bitstreams: 1 diss.pdf: 3312731 bytes, checksum: 5dde16bbfad0d1b5b9edd16708343fd5 (MD5)   Previous issue date: 2000-06-05"
+  ],
+  "handle": "27993",
+  "identifier_other": "etd-06082000-14320000",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06082000-14320000/",
+  "identifier_uri": "http://hdl.handle.net/10919/27993",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": "surface profilometry",
+  "title": "Miniaturized 3--D Mapping System Using a Fiber Optic Coupler as a Young's Double Pinhole Interferometer",
+  "type": "Dissertation"
+}

@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Howlader, Mohammad Mostofa Kamal",
+  "contributor_committeechair": "Woerner, Brian D.",
+  "contributor_committeemember": [
+    "Jacobs, Ira",
+    "Saunders, William R.",
+    "Reed, Jeffrey Hugh",
+    "Tranter, William H."
+  ],
+  "contributor_department": "Electrical Engineering",
+  "date_accessioned": "2014-03-14T20:14:34Z",
+  "date_adate": "2000-08-03",
+  "date_available": "2014-03-14T20:14:34Z",
+  "date_issued": "2000-07-07",
+  "date_rdate": "2001-08-03",
+  "date_sdate": "2000-07-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research investigates the application of multiuser interference suppression to direct-sequence code-division multiple-access (DS-CDMA) for peer-to-peer packet radio networks. The emphasis of this work is to develop and validate efficient interference suppression techniques through selective cancellation of interference; next, the combination of interference suppression with error correction coding is studied. A decoder-assisted frame synchronization technique is proposed for future packet radio system.  The performance of DS-CDMA in packet radio networks suffers from the near-far problem. This near-far problem can be alleviated by using either a multiuser receiver or a single-user adaptive receiver along with centralized or distributed power control. The first part of this dissertation compares the use of these receivers in a peer-to-peer environment. Next, we investigate how interference cancellation can be combined with forward error correction coding for throughput enhancement of the system. Although receivers using  interference suppression are simple in structure, the performance degrades due to the lack of exact knowledge of the interfering signal in cancellation and also due to biased decision statistics for the parallel cancellation case. We consider a system that employs both partial parallel interference cancellation and convolutional coding.  Information is shared between the operations of interference cancellation and decoding in an iterative manner, using log-likelihood ratios of the estimated coded symbols. We investigate the performance of this system for both synchronous and asynchronous CDMA systems, and for both equal and unequal signal powers.  Finally, a new code-assisted frame synchronization scheme, which uses the soft-information of the decoder, is proposed and evaluated. The sync bits are placed in the mid-amble, and encoded as a part of the data sequence using the error correction encoder to resolve time ambiguities. This technique is applied for turbo decoder-assisted frame synchronization. The performance improvement of these proposed techniques over conventional synchronization techniques is explored via simulation.",
+  "description_provenance": [
+    "Author Email: mostofa@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: saunders@stnick.me.vt.edu",
+    "Advisor Email: woerner@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:34Z (GMT). No. of bitstreams: 1 dissertation_howlader.pdf: 6294657 bytes, checksum: 849e3e4aa66ff2e25624c3bad3b092da (MD5)   Previous issue date: 2000-07-07"
+  ],
+  "handle": "28461",
+  "identifier_other": "etd-07312000-12120026",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07312000-12120026/",
+  "identifier_uri": "http://hdl.handle.net/10919/28461",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_howlader.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Frame Synchronization",
+    "Interference Cancellation",
+    "Packet Radio"
+  ],
+  "title": "Selective Interference Cancellation and Frame Synchronization for Packet Radio",
+  "type": "Dissertation"
+}

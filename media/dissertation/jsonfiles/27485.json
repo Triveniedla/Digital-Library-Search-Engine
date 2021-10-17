@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Arnold, Rachel Florence",
+  "contributor_committeechair": "Haskell, Peter E.",
+  "contributor_committeemember": [
+    "Thomson, James E.",
+    "Rossi, John F.",
+    "Floyd, William J."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:11:24Z",
+  "date_adate": "2012-05-16",
+  "date_available": "2014-03-14T20:11:24Z",
+  "date_issued": "2012-05-01",
+  "date_rdate": "2012-05-16",
+  "date_sdate": "2012-05-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is a uniï¬ cation of an analysis-based approach and the traditional topological-based approach to PoincarÃ© duality. We examine the role of the discrete Hodge star operator in proving and in realizing the PoincarÃ© duality isomorphism (between cohomology and ho-  mology in complementary degrees) in a cellular setting without reference to a dual cell complex. More speciï¬ cally, we provide a proof of this version of PoincarÃ© duality over R via the simplicial discrete Hodge star deï¬ ned by Scott Wilson in [19] without referencing a dual cell complex. We also express the PoincarÃ© duality isomorphism over both R and Z in terms of this discrete operator. Much of this work is dedicated to extending these results to a cubical setting, via the introduction of a cubical version of Whitney forms. A cubical setting provides a place for Robin Formanâ  s complex of nontraditional differential forms, deï¬ ned in [7], in the uniï¬ cation of analytic and topological perspectives discussed in this dissertation. In particular, we establish a ring isomorphism (on the cohomology level) between Formanâ  s complex of differential forms with his exterior derivative and product and a complex of cubical cochains with the discrete coboundary operator and the standard cubical cup product.",
+  "description_provenance": [
+    "Author Email: rlongley@vt.edu",
+    "Advisor Email: thomson@math.vt.edu",
+    "Advisor Email: rossij@vt.edu",
+    "Advisor Email: phaskell@math.vt.edu",
+    "Advisor Email: floyd@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:24Z (GMT). No. of bitstreams: 1 Arnold_RF_D_2012.pdf: 697391 bytes, checksum: 50dad567932c11ef34e5142792e88ef9 (MD5)   Previous issue date: 2012-05-01"
+  ],
+  "handle": "27485",
+  "identifier_other": "etd-05012012-164117",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05012012-164117/",
+  "identifier_uri": "http://hdl.handle.net/10919/27485",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Arnold_RF_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cell Complex",
+    "Cubical Whitney Forms",
+    "PoincarÃ© Duality",
+    "Discrete Hodge Star"
+  ],
+  "title": "The Discrete Hodge Star Operator and PoincarÃ© Duality",
+  "type": "Dissertation"
+}

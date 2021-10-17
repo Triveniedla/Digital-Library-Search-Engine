@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Chhabra, Meenal",
+  "contributor_committeechair": [
+    "Das, Sanmay",
+    "Vullikanti, Anil Kumar S"
+  ],
+  "contributor_committeemember": [
+    "Sarne, David",
+    "Ryzhov, Ilya O.",
+    "Ramakrishnan, Narendran"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-12T08:00:28Z",
+  "date_available": "2014-03-12T08:00:28Z",
+  "date_issued": "2014-03-11",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This thesis makes a contribution to the algorithmic pricing literature by proposing and analyzing techniques for automatically pricing digital and information goods in order to maximize profit in different settings. We also consider the effect on social welfare when agents use these pricing algorithms. The digital goods considered in this thesis are electronic commodities that have zero marginal cost and unlimited supply e.g., iTunes apps. On the other hand, an information good is an entity that bridges the knowledge gap about a product between the consumer and the seller when the consumer cannot assess the utility of owning that product accurately e.g., Carfax provides vehicle history and can be used by a potential buyer of a vehicle to get information about the vehicle.  With the emergence of e-commerce, the customers are increasingly price sensitive and search for the best opportunies anywhere. It is almost impossible to manually adjust the prices with rapidly changing demand and competition. Moreover, online shopping platforms also enable sellers to change prices easily and quickly as opposed to updating price labels in brick and mortar stores so they can also experiment with different prices to maximize their revenue. Therefore, e-marketplaces have created a need for designing sophisticated practical algorithms for pricing. This need has evoked interest in algorithmic pricing in the computer science, economics, and operations research communities.  In this thesis, we seek solutions to the following two algorithmic pricing problems:  (1) In the first problem, a seller launches a new digital good (this good has unlimited supply and zero marginal cost) but is unaware of its demand in a posted-price setting (i.e., the seller quotes a price to a buyer, and the buyer makes a decision depending on her willingness to pay); we look at the question --- how should the seller set the prices in order to maximize her infinite horizon discounted revenue? This is a classic problem of learning while earning. We propose a few algorithms for this problem and demonstrate their effectiveness using rigorous empirical tests on both synthetic datasets and real-world datasets from auctions at eBay and Yahoo!, and ratings on jokes from Jester, an online joke recommender system. We also show that under certain conditions the myopic Bayesian strategy is also Bayes-optimal. Moreover, this strategy has finite regret (independent of time) which means that it also learns very fast.   (2)   The second problem is based on search markets: a consumer is searching for a product sequentially (i.e., she examines possible options one by one and on observing them decides whether to buy or not). However, merely observing a good, although partially informative, does not typically provide the potential purchaser with the complete information set necessary to execute her buying decision. This lack of perfect information about the good creates a market for intermediaries (we refer to them as experts) who can conduct research on behalf of the buyer and sell her this information about the good. The consumer can pay these intermediaries to learn more about the good which can help her in making a better decision about whether to buy the good or not. In this case, we study various pricing schemes for these information intermediaries in a search-based environment (e.g., selling a package of $k$ reports instead of selling a single report or offering a subscription based service). We show how subsidies can be an effective tool for a market designer to increase the social welfare. We also model quality level in the experts and study competition dynamics by computing equilibrium strategies for the searcher and two experts with different qualities. Surprisingly, sometimes an improvement in the quality of the higher-quality expert (holding everything constant) can be pareto-improving: not only that expert's profit increase, so does the other expert's profit and the searcher's utility.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-03-12T08:00:28Z (GMT). No. of bitstreams: 5 Chhabra_M_D_2014.pdf: 1684988 bytes, checksum: ba8312baa74b4d305de9db56c710ea75 (MD5) Chhabra_M_D_2014_support_1.pdf: 21780 bytes, checksum: 9bbfa8d8de791250c8bf074b7349a8f3 (MD5) Chhabra_M_D_2014_support_3.pdf: 85092 bytes, checksum: be7d35438c6e13112c68034149d7902b (MD5) Chhabra_M_D_2014_support_4.pdf: 164167 bytes, checksum: ade8ada416cd3747c4d1a13b34f8d49d (MD5) Chhabra_M_D_2014_support_5.pdf: 511383 bytes, checksum: 1996a2f5358782360af919b32f06c58d (MD5)   Previous issue date: 2014-03-11",
+  "format_medium": "ETD",
+  "handle": "25874",
+  "identifier_other": "vt_gsexam:2252",
+  "identifier_uri": "http://hdl.handle.net/10919/25874",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Non-linear pricing",
+    "Sequential Search",
+    "Algorithm pricing",
+    "Information goods",
+    "Dynamic pricing",
+    "Revenue maximization",
+    "Reinforcement learning",
+    "Search markets"
+  ],
+  "title": "Studies in the Algorithmic Pricing of Information Goods and Services",
+  "type": "Dissertation"
+}

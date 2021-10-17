@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Deng, Jiangdong",
+  "contributor_committeechair": "Wang, Anbo",
+  "contributor_committeemember": [
+    "Liu, Yilu",
+    "Indebetouw, Guy J.",
+    "Jacobs, Ira",
+    "Besieris, Ioannis M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:24Z",
+  "date_adate": "2004-10-22",
+  "date_available": "2014-03-14T20:17:24Z",
+  "date_issued": "2004-10-12",
+  "date_rdate": "2005-10-22",
+  "date_sdate": "2004-10-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "For the purpose of developing a new highly-sensitive and reliable fiber optical acoustic sensor capable of real-time on-line detection of acoustic emissions in power transformers, this dissertation presents the comprehensive research work on the theory, modeling, design, instrumentation, noise analysis, and performance evaluation of a diaphragm-based optical fiber acoustic (DOFIA) sensor system.   The optical interference theory and the diaphragm dynamic vibration analysis form the two foundation stones of the diaphragm-based optical fiber interferomtric acoustic (DOFIA) sensor. Combining these two principles, the pressure sensitivity and frequency response of the acoustic sensor system is analyzed quantitatively, which provides guidance for the practical design for the DOFIA sensor probe and system.   To meet all the technical requirements for partial discharge detection, semiconductor process technologies are applied, for the first time to our knowledge, in fabricating the micro-caved diaphragm (MCD) used for the DOFIA sensor probe. The novel controlled thermal bonding method was proposed, designed, and developed to fabricate high performance DOFIA sensor probes with excellent mechanical strength and temperature stability. In addition, the signal processing unit is designed and implemented with high gain, wide band response, and ultra low noise.  A systematic noise analysis is also presented to provide a better understanding of the performance limitations of the DOFIA sensor system. Based on the system noise analysis results, optimization measures are proposed to improve the system performance.   Extensive experiments, including the field testing in a power transformer, have also been conducted to systematically evaluate the performance of the instrumentation systems and the sensor probes. These results clearly demonstrated the feasibility of the developed DOFIA sensor for the detection of partial discharges inside electrical power transformers, with unique advantages of non-electrically conducting, high sensitivity, high frequency response, and immunity to the electro-magnetic interference (EMI).",
+  "description_provenance": [
+    "Author Email: jdeng@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:24Z (GMT). No. of bitstreams: 1 ETD-final-re01.pdf: 2537112 bytes, checksum: c78c74c08efd5cef4a2602b5a87efb68 (MD5)   Previous issue date: 2004-10-12"
+  ],
+  "handle": "29286",
+  "identifier_other": "etd-10162004-233005",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10162004-233005/",
+  "identifier_uri": "http://hdl.handle.net/10919/29286",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD-final-re01.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "partial discharge",
+    "interferometer",
+    "power transformer",
+    "optical fiber sensors",
+    "acoustic emission"
+  ],
+  "title": "Development of Novel Optical Fiber Interferometric Sensors with High Sensitivity for Acoustic Emission Detection",
+  "type": "Dissertation"
+}

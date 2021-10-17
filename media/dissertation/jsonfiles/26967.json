@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Anderson, Roger J.",
+  "contributor_committeechair": "Sturges, Robert H.",
+  "contributor_committeemember": [
+    "Deisenroth, Michael P.",
+    "Nelson, Douglas J.",
+    "Reinholtz, Charles F.",
+    "Shewchuk, John P."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:09:57Z",
+  "date_adate": "2006-06-27",
+  "date_available": "2014-03-14T20:09:57Z",
+  "date_issued": "2006-02-13",
+  "date_rdate": "2006-06-27",
+  "date_sdate": "2006-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the design of material handling systems with complex and unpredictable dynamics, conventional search and optimization approaches that are based only on performance measures offer little guarantee of robustness.  Using evidence from research into complex systems, the use of behavior-based optimization is proposed, which takes advantage of observed relationships between complexity and optimality with respect to both performance and robustness.  Based on theoretical complexity measures, particularly algorithmic complexity, several simple complexity measures are created.  The relationships between these measures and both performance and robustness are examined, using a model of a directly connected material handling system as a backdrop.  The fundamental causes of the relationships and their applicability in the proposed behavior-based optimization approach are discussed.",
+  "description_provenance": [
+    "Author Email: randerso@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: mpdeis@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: creinhol@vt.edu",
+    "Advisor Email: shewchuk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:57Z (GMT). No. of bitstreams: 5 Ch7_M2.pdf: 717116 bytes, checksum: 93488a6f59c5bddb522f6d3cd0d9638e (MD5) Intro_to_Ch6_M2.pdf: 755606 bytes, checksum: e67382e6b7ff2f4173b43cfae7d7cfa0 (MD5) Ch10_to_Ch11_M2.pdf: 915456 bytes, checksum: 0c1339032a73f3c6071ef82bfce946cf (MD5) Ch8_to_Ch9_M2.pdf: 2481995 bytes, checksum: c024d234173838f7c1fce53518684dbc (MD5) Ch12_to_App_M2.pdf: 2961023 bytes, checksum: 49218869d425dfb3bc00bd77f1c9333b (MD5)   Previous issue date: 2006-02-13"
+  ],
+  "handle": "26967",
+  "identifier_other": "etd-04182006-130843",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182006-130843/",
+  "identifier_uri": "http://hdl.handle.net/10919/26967",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Ch7_M2.pdf",
+    "Intro_to_Ch6_M2.pdf",
+    "Ch10_to_Ch11_M2.pdf",
+    "Ch8_to_Ch9_M2.pdf",
+    "Ch12_to_App_M2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "optimization",
+    "chaos",
+    "complexity",
+    "algorithmic complexity",
+    "genetic algorithm"
+  ],
+  "title": "Characterization of Performance, Robustness, and Behavior Relationships in a Directly Connected Material Handling System",
+  "type": "Dissertation"
+}

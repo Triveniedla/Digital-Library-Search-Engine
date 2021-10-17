@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Omar, Hanafy M.",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Kachroo, Pushkin",
+    "Adjerid, Slimane",
+    "Hendricks, Scott L.",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:06:56Z",
+  "date_adate": "2003-01-27",
+  "date_available": "2014-03-14T20:06:56Z",
+  "date_issued": "2003-01-24",
+  "date_rdate": "2004-01-27",
+  "date_sdate": "2003-01-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The main objective of this work is to design robust, fast, and practical controllers for gantry and tower cranes. The controllers are designed to transfer the load from point to point as fast as possible and,  at the same time, the load swing is kept small during the transfer process and completely vanishes at the load destination. Moreover,  variations of the system parameters, such as the cable length and the load weight, are also included. Practical considerations, such as  the control action power, and the maximum acceleration and velocity, are taken into account. In addition, friction effects are included in the design using a friction-compensation technique.  The designed controllers are based  on two approaches. In the first approach, a gain-scheduling feedback controller is designed to move the load  from point to point  within one oscillation cycle without inducing large swings. The settling time of the system is taken to be equal to the period of oscillation of the load. This criterion enables  calculation of the controller feedback gains for varying load weight and cable length. The position references for this controller are step functions. Moreover, the position and swing controllers are treated  in a unified way. In the second approach, the transfer process and the swing control are separated in the controller design.  This approach requires designing two controllers independently: an anti-swing controller and a tracking controller. The objective of the  anti-swing controller is to reduce the load swing.  The tracking controller  is responsible for making the trolley follow a reference position trajectory. We use a PD-controller for tracking, while the anti-swing controller is designed using three different methods: (a) a classical PD controller, (b) two controllers based on a delayed-feedback technique, and (c) a fuzzy logic controller that maps the delayed-feedback controller performance.  To validate the designed controllers, an experimental setup was built. Although the designed controllers work perfectly in the computer simulations, the experimental results are unacceptable due to the high friction in the system.  This friction deteriorates the system response by introducing  time delay, high steady-state error in the trolley and tower positions, and high residual load swings. To overcome friction in the tower-crane model, we  estimate the friction, then we apply an opposite control action to cancel it. To estimate the friction force, we assume a mathematical model and  estimate the model coefficients using  an off-line identification technique using the method of least squares.   With friction compensation, the experimental results are in good agreement with the computer simulations.   The gain-scheduling controllers transfer the load smoothly without inducing an overshoot in the trolley  position. Moreover, the load can be transferred in a time near to the optimal time with small swing angles during the transfer process.   With full-state feedback, the crane can reach any position in the working environment without exceeding the system power capability by controlling the forward gain in the feedback loop. For large distances, we have to decrease this gain, which in turn slows the transfer process. Therefore, this approach is more suitable for short distances. The tracking-anti-swing control approach is usually associated with overshoots in the translational and rotational motions. These overshoots increase with an increase in the maximum acceleration of the trajectories . The transfer time is longer than that obtained with the first approach. However, the crane can follow any trajectory, which makes the controller cope with obstacles in the working environment. Also, we do not need to recalculate the feedback gains for each transfer distance as in the gain-scheduling feedback controller.",
+  "description_provenance": [
+    "Author Email: haomar@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: anyafeh@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:56Z (GMT). No. of bitstreams: 1 Thesis.pdf: 3858022 bytes, checksum: b47a6f9f392d843717cf1d4f655c438d (MD5)   Previous issue date: 2003-01-24"
+  ],
+  "handle": "26044",
+  "identifier_other": "etd-01262003-204800",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01262003-204800/",
+  "identifier_uri": "http://hdl.handle.net/10919/26044",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fuzzy Control",
+    "Gain-Scheduling Feedback",
+    "Anti-Swing Control",
+    "Tower Crane",
+    "Time-Delayed Feedback",
+    "Gantry Crane"
+  ],
+  "title": "Control of Gantry and Tower Cranes",
+  "type": "Dissertation"
+}

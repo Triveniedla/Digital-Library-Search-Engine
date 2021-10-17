@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Cole, Daniel G.",
+  "contributor_committeechair": "Robertshaw, Harry H.",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Cudney, Harley H.",
+    "Kasarda, Mary E. F.",
+    "Mook, Dean T."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:05Z",
+  "date_adate": "1998-06-10",
+  "date_available": "2014-03-14T20:17:05Z",
+  "date_issued": "1998-10-19",
+  "date_rdate": "1998-06-10",
+  "date_sdate": "1998-10-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research investigates the harmonic and narrowband disturbance rejection problem for linear time-periodic (LTP) systems.  The consequence of disturbances on LTP systems is similar to their linear time-invariant (LTI) counterparts, but is complicated by the interaction of the disturbance and plant acting at different frequencies, which manifests itself in the modulation of the disturbance signal.  The result, for an m-periodic plant and disturbance containing a single tone, is that the output contains m tones. Using various disturbance rejection architectures, harmonic and narrowband disturbance rejection is investigated for linear time-periodic plants. Included are classical and multivariable feedback controllers, fixed-gain feedforward designs using finite impulse response (FIR) filters and H-infinity synthesis tools, and adaptive feedforward controllers.  The objective of time-periodic, narrowband, disturbance rejection seeks to place a zero in the controlled system's disturbance path and align the zero direction, defined by the null space of the controlled system at the disturbance frequency, with the disturbance. In this research, constraints on controlled system infinity-norms specify nominal performance and robust stability objectives. Periodic controllers are found using existing LTI H-infinity control theory, and causality is satisfied using two techniques which can be added easily to H-infinity solvers: loop-shifting and Q-parameterization.  The resulting controllers are high-gain, narrowband-pass, periodic filters; the closed-loop sensitivity has a zero at the disturbance frequency, and the disturbance is in the sensitivity's null space.  It is also shown that classical designs do not achieve the same performance levels as periodic controllers. Similar developments are made using the feedforward disturbance rejection architecture.  Objectives are given which minimize the weighted infinity-norm of the controlled system.  Such feedforward controllers achieve perfect disturbance rejection.  A multivariable equivalent of the tapped-delay line is used in the description of periodic FIR filters.  In addition, periodic FIR filters are made adaptive using an algorithm similar to filtered-X least mean square (LMS) but modified for periodic systems.",
+  "description_provenance": [
+    "Author Email: dcole@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:05Z (GMT). No. of bitstreams: 1 diss.pdf: 681771 bytes, checksum: 158474266af9162c590cb317ecfc50d7 (MD5)   Previous issue date: 1998-10-19"
+  ],
+  "handle": "29196",
+  "identifier_other": "etd-100498-140425",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-100498-140425/",
+  "identifier_uri": "http://hdl.handle.net/10919/29196",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "periodic systems",
+    "H-infinity control",
+    "disturbance rejection"
+  ],
+  "title": "Harmonic and Narrowband Disturbance Rejection for Linear Time-Periodic Plants",
+  "type": "Dissertation"
+}

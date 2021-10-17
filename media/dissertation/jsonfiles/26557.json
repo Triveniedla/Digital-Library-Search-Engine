@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Zhu, Dan",
+  "contributor_committeechair": "Broadwater, Robert P.",
+  "contributor_committeemember": [
+    "Liu, Yilu",
+    "Cyre, Walling R.",
+    "Arthur, James D.",
+    "Tam, Kwa-Sur"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:38Z",
+  "date_adate": "2007-04-12",
+  "date_available": "2014-03-14T20:08:38Z",
+  "date_issued": "2007-03-27",
+  "date_rdate": "2007-04-12",
+  "date_sdate": "2007-03-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is a systematic study  of electric power distribution system  reliability evaluation and improvement. Reliability evaluation of electric power systems  has traditionally been an integral part of planning and operation.  Changes in the electric  utility coupled with aging electric apparatus create a need for more realistic techniques  for power system reliability modeling.    This work presents a reliability evaluation technique that combines set theory and  Graph Trace Analysis (GTA). Unlike the traditional Markov approach, this technique  provides a fast solution for large system reliability evaluation by managing computer  memory efficiently with iterators, assuming a single failure at a time. A reconfiguration  for restoration algorithm is also created  to enhance the accuracy of the reliability  evaluation, considering multiple concurrent  failures. As opposed to most restoration  simulation methods used in reliability analysis, which convert restoration problems into  mathematical models and only can solve radial systems, this new algorithm seeks the      reconfiguration solution from topology characteristics of the network itself. As a result  the new reconfiguration algorithm can handle systems with loops.   In analyzing system reliability, this research takes into account time-varying load  patterns, and seeks approaches that are financially justified. An exhaustive search scheme  is used to calculate optimal locations for Distributed Generators (DG) from the reliability  point of view. A Discrete Ascent Optimal Programming (DAOP) load shifting approach  is proposed to provide low cost, reliability improvement solutions.    As weather conditions have an important effect on distribution component failure  rates, the influence of different types of storms has been incorporated into this study.  Storm outage models are created based on ten yearsâ   worth of weather and power outage  data. An observer is designed to predict the number of outages for an approaching or on  going storm. A circuit corridor model is applied to investigate the relationship between  power outages and lightning activity.",
+  "description_provenance": [
+    "Author Email: dzhu@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: cyre@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: ktam@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:38Z (GMT). No. of bitstreams: 1 dissertation_V6.pdf: 932666 bytes, checksum: f16454055439b8e7b912401759979b75 (MD5)   Previous issue date: 2007-03-27"
+  ],
+  "handle": "26557",
+  "identifier_other": "etd-03302007-232205",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03302007-232205/",
+  "identifier_uri": "http://hdl.handle.net/10919/26557",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_V6.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Time-varying Load.",
+    "Reconfiguration for Restoration",
+    "DG",
+    "Power Distribution System",
+    "Reliability Improvement",
+    "Storm Outage Prediction",
+    "Reliability Analysis"
+  ],
+  "title": "Electric Distribution Reliability  Analysis Considering Time-varying Load, Weather Conditions and Reconfiguration with Distributed Generation",
+  "type": "Dissertation"
+}

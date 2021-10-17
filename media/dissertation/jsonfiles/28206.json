@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Kim, Dong  Kwan",
+  "contributor_committeechair": "Tilevich, Eli",
+  "contributor_committeemember": [
+    "Arthur, James D.",
+    "Bohner, Shawn A.",
+    "Fisher, Marc  II",
+    "Gracanin, Denis",
+    "Park, Jung-Min Jerry",
+    "Ribbens, Calvin J."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:13:44Z",
+  "date_adate": "2009-07-22",
+  "date_available": "2014-03-14T20:13:44Z",
+  "date_issued": "2009-06-22",
+  "date_rdate": "2009-07-22",
+  "date_sdate": "2009-07-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Dynamic software updates change the code of a computer program while it runs,  thus saving the programmerâ  s time and using computing resources more productively.  This dissertation establishes the value of and recommends practices for applying dynamic software updates to computationally-intensive applicationsâ  a computing domain characterized by long-running computations, expensive computing resources, and a tedious deployment process. This dissertation argues that updating computationally-intensive applications dynamically can reduce their time-to-discovery metricsâ  the total time it takes from posing a problem to arriving at a solutionâ  and, as such, should become an intrinsic part of their software lifecycle. To support this claim, this dissertation presents the following technical contributions: (1) a distributed consistency algorithm for synchronizing dynamic software updates in a parallel HPC application, (2) an implementation of the Proxy design pattern that is more efficient than the existing implementations, and (3) a dynamic update approach for Java Virtual Machine (JVM)-based applications using the Proxy pattern to offer flexibility and efficiency advantages, making it suitable for computationally-intensive applications. The contributions of this dissertation are validated through performance benchmarks and case studies involving computationally-intensive applications from the bioinformatics and molecular dynamics simulation domains.",
+  "description_provenance": [
+    "Author Email: ikek70@vt.edu",
+    "Advisor Email: tilevich@cs.vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: bohner@rose-hulman.edu",
+    "Advisor Email: fisherii@cs.vt.edu",
+    "Advisor Email: gracanin@vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Advisor Email: ribbens@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:44Z (GMT). No. of bitstreams: 1 dissertation-dk.pdf: 1390653 bytes, checksum: 884fe04bafe0c7814963ef6aaaff7a6b (MD5)   Previous issue date: 2009-06-22"
+  ],
+  "handle": "28206",
+  "identifier_other": "etd-07042009-010717",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07042009-010717/",
+  "identifier_uri": "http://hdl.handle.net/10919/28206",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-dk.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Proxy Pattern",
+    "Java Virtual Machine",
+    "Binary Rewriting",
+    "HPC",
+    "Dynamic Software Updates",
+    "Computationally-Intensive Applications"
+  ],
+  "title": "Applying Dynamic Software Updates to Computationally-Intensive Applications",
+  "type": "Dissertation"
+}

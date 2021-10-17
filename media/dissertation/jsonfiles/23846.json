@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Umberger, Pierce David",
+  "contributor_committeechair": "Case, Scott W",
+  "contributor_committeemember": [
+    "Batra, Romesh C",
+    "Jung, Sunghwan",
+    "West, Robert L",
+    "Hyer, Michael W"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-09-26T08:00:23Z",
+  "date_available": "2013-09-26T08:00:23Z",
+  "date_issued": "2013-09-25",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The high strain rate fiber direction tensile response of Ultra High Molecular Weight Polyethylene (UHMWPE) composites is of interest in applications where impact damage may occur. This response varies substantially with strain rate.  However, physical testing of these composites is difficult at strain rates above 10^-1/s.  A Monte Carlo simulation of composite tensile strength is constructed to estimate the tensile behavior of these composites.  Load redistribution in the vicinity of fiber breaks varies according to fiber and matrix properties, which are in turn strain rate dependent.  The distribution of fiber strengths is obtained from single fiber tests at strain rates ranging from 10^-4/s to 10^-1/s and shifted using the time-Temperature Superposition Principle (tTSP) to strain rates of 10^-4/s to 10^6/s.  Other fiber properties are obtained from the same tests, but are assumed to be deterministic.  Matrix properties are also assumed to be deterministic and are obtained from mechanical testing of neat matrix material samples. Simulation  results are compared to experimental data for unidirectional lamina at strain rates up to 10^-1/s.    Above 10^-1/s, simulation results are compared to experimental data shifted using tTSP. Similarly, through-thickness shear response of UHMWPE composites is of interest to support computational modeling of impact damage. In this study, punch shear testing of UHMWPE composites is conducted to determine shear properties. Two test fixtures, one allowing, and one preventing backplane curvature are used in conjunction with finite element modeling to investigate the stress state under punch shear loading and the resulting shear strength of the composite.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-09-26T08:00:23Z (GMT). No. of bitstreams: 2 Umberger_PD_D_2013.pdf: 10314550 bytes, checksum: 0c2192aa6df7eec4bc788867316593f0 (MD5) Umberger_PD_D_2013_support_3.zip: 24656 bytes, checksum: bd06b09ab3506f0189cbad26cf01b11f (MD5)   Previous issue date: 2013-09-25",
+  "format_medium": "ETD",
+  "handle": "23846",
+  "identifier_other": "vt_gsexam:1626",
+  "identifier_uri": "http://hdl.handle.net/10919/23846",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "UHMWPE",
+    "thermoplastic composites",
+    "time-temperature superposition",
+    "high strain rate",
+    "composite materials",
+    "shear lag",
+    "Monte Carlo",
+    "punch shear"
+  ],
+  "title": "Modeling the High Strain Rate Tensile Response and Shear Failure of Thermoplastic Composites",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Stepanyan, Vahram",
+  "contributor_committeechair": "Hovakimyan, Naira",
+  "contributor_committeemember": [
+    "Kachroo, Pushkin",
+    "Kurdila, Andrew J.",
+    "Stilwell, Daniel J.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:15:13Z",
+  "date_adate": "2006-10-06",
+  "date_available": "2014-03-14T20:15:13Z",
+  "date_issued": "2006-07-31",
+  "date_rdate": "2006-10-06",
+  "date_sdate": "2006-08-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The use of visual sensors in providing the necessary information for the autonomous guidance and navigation of the unmanned-air vehicles (UAV) or micro-air vehicles (MAV) applications is inspired by biological systems and is motivated first of all by the reduction of the navigational sensor cost. Also, visual sensors can be more advantageous in military operations since they are difficult to detect. However, the design of a reliable guidance, navigation and control system for aerial vehicles based only on visual information has many unsolved problems, ranging from hardware/software development to pure control-theoretical issues, which are even more complicated when applied to the tracking of maneuvering unknown targets.  This dissertation describes guidance law design and implementation algorithms for autonomous tracking of a flying target, when the information about the target's current position is obtained via a monocular camera mounted on the tracking UAV (follower). The visual information is related to the target's relative position in the follower's body frame via the target's apparent size, which is assumed to be constant, but otherwise unknown to the follower. The formulation of the relative dynamics in the inertial frame requires the knowledge of the follower's orientation angles, which are assumed to be known. No information is assumed to be available about the target's dynamics. The follower's objective is to maintain a desired relative position irrespective of the target's motion.  Two types of guidance laws are designed and implemented in the dissertation. The first one is a smooth guidance law that guarantees asymptotic tracking of a target, the velocity of which is viewed as a time-varying disturbance, the change in magnitude of which has a bounded integral. The second one is a smooth approximation of a discontinuous guidance law that guarantees bounded tracking with adjustable bounds when the target's acceleration is viewed as a bounded but otherwise unknown time-varying disturbance. In both cases, in order to meet the objective, an intelligent excitation signal is added to the reference commands.  These guidance laws are modified to accommodate measurement noise, which is inherently available when using visual sensors and image processing algorithms associated with them. They are implemented on a full scale non-linear aircraft model using conventional block backstepping technique augmented with a neural network for approximation of modeling uncertainties and atmospheric turbulence resulting from the closed-coupled flight of two aerial vehicles.",
+  "description_provenance": [
+    "Author Email: vahrams@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: kurdila@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: nhovakim@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:13Z (GMT). No. of bitstreams: 1 thesis1.pdf: 3599274 bytes, checksum: 436b922c2b66d05a12e0c940b2487d2b (MD5)   Previous issue date: 2006-07-31"
+  ],
+  "handle": "28659",
+  "identifier_other": "etd-08142006-151453",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08142006-151453/",
+  "identifier_uri": "http://hdl.handle.net/10919/28659",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "unmanned aerial vehicle",
+    "robust adaptive estimation and control",
+    "maneuvering target tracking",
+    "visual sensor"
+  ],
+  "title": "Vision Based Guidance and Flight Control in Problems of Aerial Tracking",
+  "type": "Dissertation"
+}

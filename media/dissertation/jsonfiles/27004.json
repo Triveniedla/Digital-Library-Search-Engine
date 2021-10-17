@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Russ, Nicholas Joel",
+  "contributor_committeechair": "Crawford, Daniel T.",
+  "contributor_committeemember": [
+    "Viers, Jimmy W.",
+    "Morris, John R.",
+    "Troya, Diego",
+    "Yee, Gordon T."
+  ],
+  "contributor_department": "Chemistry",
+  "date_accessioned": "2014-03-14T20:10:05Z",
+  "date_adate": "2006-04-26",
+  "date_available": "2014-03-14T20:10:05Z",
+  "date_issued": "2006-04-17",
+  "date_rdate": "2006-04-26",
+  "date_sdate": "2006-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "One of the most promising methods for surmounting the high-degree polynomial scaling wall associated with electron correlating wave function methods is the local correlation technique of Pulay and Saeb&oslash;. They have proposed using a set of localized occupied and virtual orbitals free of the canonical constraint commonly employed in quantum chemistry, resulting in a method that scales linearly (in the asymptotic limit) with molecular size. Pulay and Saeb$oslash; first applied their methods to configuration interaction and later to M$oslash;ller-Plesset perturbation theory. Werner et al. have have extended the local correlation scheme of Pulay and Saeb$oslash; to coupled-cluster theory.  One of the pitfalls of the local correlation methods developed by Pulay and Saeb$oslash; is the dependence of domain selection on the molecular geometry. In other words, as the geometry changes the domain structure of the local correlation calculation can change also, leading to discontinuities in the potential energy surface. We have examined the size of these discontinuities for the homolytic bond cleavage of fluoromethane and the heterolytic bond dissociation of singlet ketene and propadienone.  Properties such as polarizabilities and optical rotation are realized through linear response theory, where the Hamiltonian is subject to an external perturbation and the wave function is allowed to respond to the applied perturbation. Within the context of local correlation it is necessary to understand how the domain structure alters in response to an applied perturbation. We have proposed using solutions to the CPHF equations (coupled-perturbed Hartree-Fock) in order to predict the correlation response to an applied perturbation. We have applied this technique to the calculation of polarizabilities, with very favorable results, and also to optical rotation, with mixed results.",
+  "description_provenance": [
+    "Author Email: nruss@vt.edu",
+    "Advisor Email: jviers@vt.edu",
+    "Advisor Email: jrmorris@vt.edu",
+    "Advisor Email: troya@vt.edu",
+    "Advisor Email: gyee@vt.edu",
+    "Advisor Email: crawdad@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:05Z (GMT). No. of bitstreams: 1 dissertation_v2.pdf: 889856 bytes, checksum: 8de55bc92d80f9d4231f5a218cc8f119 (MD5)   Previous issue date: 2006-04-17"
+  ],
+  "handle": "27004",
+  "identifier_other": "etd-04192006-114340",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192006-114340/",
+  "identifier_uri": "http://hdl.handle.net/10919/27004",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_v2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "coupled cluster",
+    "polarizability",
+    "optical rotation",
+    "local correlation",
+    "CC2"
+  ],
+  "title": "Local Correlation: Implementation and Application to Molecular Response Properties",
+  "type": "Dissertation"
+}

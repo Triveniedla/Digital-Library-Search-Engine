@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Duncan, Andrew Jay",
+  "contributor_committeechair": "Leo, Donald J.",
+  "contributor_committeecochair": "Long, Timothy E.",
+  "contributor_committeemember": [
+    "Goulbourne, Nakhiah C.",
+    "Turner, S. Richard",
+    "Wilkes, Garth L.",
+    "Akle, Barbara J."
+  ],
+  "contributor_department": "Macromolecular Science and Engineering",
+  "date_accessioned": "2014-03-14T20:18:30Z",
+  "date_adate": "2009-11-20",
+  "date_available": "2014-03-14T20:18:30Z",
+  "date_issued": "2009-10-29",
+  "date_rdate": "2012-11-20",
+  "date_sdate": "2009-11-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Ionic polymer transducers (IPT) are a class of electroactive polymer devices that exhibit electromechanical coupling through charge transport in ionomeric membranes that contain a charge mobilizing diluent and are interfaced with conducting electrodes. Applications of these active materials have been broadly developed in the field of actuators and sensors. Advances in fundamental understanding of IPT performance mechanisms and tuning of the device components has primarily focused on transducers constructed with the commercial ionomer NafionÂ® due to its overall stability, high ionic conductivity, and availability. The much smaller number of studies conducted with non-perfluorosulfonated ionomers concentrated on changes in chemical composition to address processability, price, ionic conductivity, and hydrated modulus of the final IPT. Also, nearly all ionic polymer transducers operated with water as the diluent until the recent successful development of IPTs with ionic liquids.  <p> The objective of this research is to increase the understanding of electromechanical transduction in ionic polymer transducers through the synthesis and characterization of novel branched ionomers. Controlled branching is achieved in sulfonated polysulfones (sBPS) through employment of an oligomeric A2 + B3 step-growth polymerization. Structure â   property relationships are established for a series of linear and branched sulfonated polysulfones to resolve the effects of polymer topology and charge content on ionomer properties such as hydrated modulus and ionic conductivity. Furthermore, the variation of these parameters is investigated in the presence of ionic liquids as a function of ionic liquid uptake using two methods for introduction of the diluent. One of those methods, based on casting of IPT components in the presence of the ionic liquid, was applied to the Direct Application Process to produce a controlled set of IPT electrodes and transducers to investigate percolation effects of RuO2 on the deviceâ  s electrical properties and actuation characteristics. Equivalent circuit modeling of the component and transducer electrical impedance accurately modeled variations in contributing processes and material interfaces to estimate the evolution of effective capacitance based on the electrode composition.  <p> Combination of optimized electrode composition, ionic liquid uptake, and the series of linear and branched sulfonated polysulfones allowed for fabrication of a tailored set of novel ionic polymer transducers. Effects of the fabrication process on the ionic conductivity of the membranes and transducers are evaluated using electrical impedance spectroscopy, which also allowed for equivalent circuit modeling to calculate effective capacitance for the series of IPTs that varied in composition, topology, and uptake for both types of fabrication processes. The transducers described in this dissertation are the first IPTs to be designed and actuated with novel ionomers, specifically linear and branched sulfonated polysulfones, in the presence of ionic liquids. Use of sulfonated polysulfones allowed for realization of transducers with high uptakes of the ionic liquid diluent that retained significant hydrated modulus on the order of 2 GPa. Characterization of electromechanical transduction for the series of sBPS â   IPTs was demonstrated in cantilever bending through frequency response analysis and step responses in the time domain to low input voltages. Both the ion content and polymer topology of the sBPS ionomeric matrix demonstrated a significant effect on the final actuation performance in relation to variations in charge transport. Also, IPTs constructed with a co-diluent swelling method which emphasized the formation and stability of the ionomerâ  s charge transport pathway demonstrated the greatest actuation responses, up to a peak-to-peak strain of ~0.45 % and strain rates on the order of 0.1 % / s while producing significant blocked force (180 N/Vâ ¢m). Combination of these actuation performance metrics resulted in maximum energy densities of 1150 mJ/kg and 2.23 mJ/mm3 for the corresponding IPT.",
+  "description_provenance": [
+    "Author Email: ajduncan@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: telong@vt.edu",
+    "Advisor Email: ngbourne@umich.edu",
+    "Advisor Email: srturner@vt.edu",
+    "Advisor Email: gwilkes@vt.edu",
+    "Advisor Email: bakle@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:30Z (GMT). No. of bitstreams: 1 Duncan_AJ_D_2009_final.pdf: 5390877 bytes, checksum: 7533742c4b9edc5f2f5589fbc4d00b9d (MD5)   Previous issue date: 2009-10-29"
+  ],
+  "handle": "29568",
+  "identifier_other": "etd-11132009-031617",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11132009-031617/",
+  "identifier_uri": "http://hdl.handle.net/10919/29568",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Duncan_AJ_D_2009_final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "ionic liquid",
+    "actuator",
+    "ionic polymer transducer",
+    "ionomer",
+    "branching",
+    "polysulfone"
+  ],
+  "title": "Synthesis and Characterization of Branched Ionomers for Performance in Ionic Liquid â   Swollen Ionic Polymer Transducers",
+  "type": "Dissertation"
+}

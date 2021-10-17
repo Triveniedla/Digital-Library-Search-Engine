@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Medina-Borja, N.  Alexandra",
+  "contributor_committeechair": "Triantis, Konstantinos P.",
+  "contributor_committeemember": [
+    "Seaver, Willliam L.",
+    "Kleiner, Brian M.",
+    "Bohland, James R.",
+    "Van Aken, Eileen M."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:54Z",
+  "date_adate": "2002-05-01",
+  "date_available": "2014-03-14T20:10:54Z",
+  "date_issued": "2002-04-17",
+  "date_rdate": "2003-05-01",
+  "date_sdate": "2002-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Determining the best way for evaluating organizational performance is a complex problem as it involves assessment of indicators in multiple dimensions. In the case of nonprofit social service provision this evaluation needs to consider also the outcomes of the service. This research develops a performance measurement system that collects performance indicators, evaluates them and provides concrete performance improvement recommendations to decision-makers in the nonprofit sector. Three dimensions of performance are identified for social services: effectiveness or outcome achievement, service quality and efficiency. A framework for measuring performance in four stages or nodes is advanced. The nodes represent the most important production functions for nonprofit organizations dedicated to social services. These are: (a) financial (fundraising or income generation activities); (b) capacity creation; (c) service delivery; and, (d) effectiveness. Survey instruments were developed to collect service quality and effectiveness indicators for the last two nodes. Effectiveness measures were identified following a well-structured 7-step approach to develop outcome-based objectives.  To effectively deal with this problem, the Data Envelopment Analysis (DEA) formulation was adapted to evaluate performance at each node. DEA computes performance scores, optimal target performance levels, and the performance frontier for different branches, units, or other comparable decision-making units (DMUs). Two basic formulations were developed for this framework as follows: Model I as a four stage formulation that carries the actual values of output variables of one node to the successive node, and Model II as a formulation that carries the projections â  i.e. the recommended targetsâ   from one node to the other. This last formulation assumes that the DMUs have undergone a reengineering effort and that their indicators are set at their maximum potential. Several environmental factors affecting social service provision were included in the analysis. Additionally, variable selection recommendations were developed for DEA analysis and DEA graphical reports produced.   It was concluded that decision makers could use Model I to identify performance improvement targets in each production node. The results from Model II can be used for resource planning after the targets are achieved. Finally, this performance measurement framework is being implemented at one of largest national social service agencies in the United States.",
+  "description_provenance": [
+    "Author Email: nmedina@vt.edu",
+    "Advisor Email: wseaver@utk.edu",
+    "Advisor Email: bkleiner@vt.edu",
+    "Advisor Email: jayjon@vt.edu",
+    "Advisor Email: evanaken@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:54Z (GMT). No. of bitstreams: 2 namb-abstract.pdf: 7375 bytes, checksum: 48c64420d6e5c09d06c24f64b7431a1b (MD5) medinaborjadissertation.pdf: 1697194 bytes, checksum: dd4681d168ee7529c429c159b09934c0 (MD5)   Previous issue date: 2002-04-17"
+  ],
+  "handle": "27311",
+  "identifier_other": "etd-04262002-234501",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262002-234501/",
+  "identifier_uri": "http://hdl.handle.net/10919/27311",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "namb-abstract.pdf",
+    "medinaborjadissertation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Effectiveness",
+    "Efficiency",
+    "Service Quality",
+    "Data Envelopment Analysis",
+    "Performance Measurement System",
+    "Nonprofit Organizations"
+  ],
+  "title": "A Non-Parametric Approach to Evaluate the Performance of Social Service Organizations",
+  "type": "Dissertation"
+}

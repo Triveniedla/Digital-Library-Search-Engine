@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Gao, Feng",
+  "contributor_committeechair": "Smith, Eric P.",
+  "contributor_committeecochair": "Prins, Samantha C. Bates",
+  "contributor_committeemember": [
+    "Terrell, George R.",
+    "Spitzner, Dan J."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:13:26Z",
+  "date_adate": "2008-07-31",
+  "date_available": "2014-03-14T20:13:26Z",
+  "date_issued": "2007-06-20",
+  "date_rdate": "2008-07-31",
+  "date_sdate": "2008-06-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research is motivated by an issue frequently encountered in water quality monitoring and ecological assessment. One concern for researchers and watershed resource managers is how the biological community in a watershed is affected by human activities. The conventional single model approach based on regression and logistic regression usually fails to adequately model the relationship between biological responses and environmental stressors since the study samples are collected over a large spatial region and the response-stressor relationships are usually weak in this situation. In this dissertation, we propose two alternative modeling approaches to partition the whole region of study into disjoint subregions and model the response-stressor relationships within subregions simultaneously.  In our examples, these modeling approaches found stronger relationships within subregions and should help the resource managers improve impairment assessment and decision making.  The first approach is an adjusted Bayesian classification and regression tree (ABCART). It is based on the Bayesian classification and regression tree approach (BCART) and is modified to accommodate spatial partitions in ecological studies. The second approach is a Voronoi diagram based partition approach. This approach uses the Voronoi diagram technique to randomly partition the whole region into subregions with predetermined minimum sample size. The optimal partition/cluster is selected by Monte Carlo simulation. We propose several model selection criteria for optimal partitioning and modeling according to the nature of the study and extend it to multivariate analysis to find the underlying structure of response-stressor relationships. We also propose a multivariate hotspot detection approach (MHDM) to find the region where the response-stressor relationship is the strongest according to an R-square-like criterion. Several sets of ecological data are studied in this dissertation to illustrate the implementation of the above partition modeling approaches. The findings from these studies are consistent with other studies.",
+  "description_provenance": [
+    "Author Email: fgao@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: prinssc@jmu.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: dan.spitzner@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:26Z (GMT). No. of bitstreams: 1 FengGaoPhDStatistics1.pdf: 6147481 bytes, checksum: 5c88f128e348d07e88c59bb1fa9f912e (MD5)   Previous issue date: 2007-06-20"
+  ],
+  "handle": "28094",
+  "identifier_other": "etd-06212008-233109",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06212008-233109/",
+  "identifier_uri": "http://hdl.handle.net/10919/28094",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "FengGaoPhDStatistics1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "model selection",
+    "CCA",
+    "RDA",
+    "BCART",
+    "Voronoi diagrams",
+    "Model based clustering"
+  ],
+  "title": "Clustering Response-Stressor Relationships in Ecological Studies",
+  "type": "Dissertation"
+}

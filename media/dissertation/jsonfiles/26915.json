@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Howells, Christopher Corey",
+  "contributor_committeechair": "Baumann, William T.",
+  "contributor_committeemember": [
+    "Stilwell, Daniel J.",
+    "Lindner, Douglas K.",
+    "Hsiao, Michael S.",
+    "Finkielstein, Carla V."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:48Z",
+  "date_adate": "2010-05-03",
+  "date_available": "2014-03-14T20:09:48Z",
+  "date_issued": "2010-04-14",
+  "date_rdate": "2010-05-03",
+  "date_sdate": "2010-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Apoptosis, or programmed cell death, is an essential process in all multi-cellular organisms. It is indispensable to an organismâ  s survival, preventing the malicious propagation of DNA damage and pathogenic alterations, through the clean disposal of afflicted cells. The BAD/tBID/BAK pathway is a portion of the apoptosis molecular pathway, albeit an important pathway since it is known to be deregulated and lead to pathological ailments such as cancer.       Using chemical kinetics the BAD/tBID/BAK signaling pathway is modeled as a set of (nonlinear) ordinary differential equations. A first-cut numerical analysis reveals a mechanism where BAD sensitizes a switch from tBID activation to BAK activation. The phosphorylation of BAD is shown to inhibit this sensitizing effect. All behaviors are supported by experimental data, thereby validating the model of the BAD/tBID/BAK pathway. Moreover, modeling the phosphorylation of BAD as one of two modes, some conflicting experimental data about BADâ  s phosphorylation can be disentangled.         Parameter values (in this case the kinetic rate constants) are prone to error or missing altogether. Chemical reaction network theory, however, provides a theoretical approach to complement the initial numerical analysis without having to specify rate constant values. We extend the global asymptotic stability and robustness results in [92] to include any complex-balanced mass-action network. This enables us to study the BAD/tBID/BAK signaling network by breaking it into two sub-networks: one with BAD and tBID, and the other with tBID and BAK.        The complex-balanced BAD/tBID sub-network is shown to possess a unique steady state which is globally asymptotically stable. This verifies the simple and dynamically well-behaved exchange of BAD for Bcl-2 proteins which guard against tBID activation. The second sub-network, tBID/BAK, is formulated as a complex-balanced network with a perturbation representing the reaction of tBID catalyzing the activation of BAK. Our theoretical results produce a non-conservative, though state-dependent, condition which can be used to prove global convergence to a neighborhood of the unperturbed steady state. We then illustrate the biological importance of the result for tBID/BAK sub-network with an example design for a drug delivery system.",
+  "description_provenance": [
+    "Author Email: chowells@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: finkielc@vt.edu",
+    "Advisor Email: baumann10@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:48Z (GMT). No. of bitstreams: 1 Howells_CC_D_2010.pdf: 948100 bytes, checksum: 781b201a2c1978a4963ea0b1b495966f (MD5)   Previous issue date: 2010-04-14"
+  ],
+  "handle": "26915",
+  "identifier_other": "etd-04162010-114629",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162010-114629/",
+  "identifier_uri": "http://hdl.handle.net/10919/26915",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Howells_CC_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "apoptosis",
+    "complex-balanced",
+    "mass-action",
+    "chemical reaction network"
+  ],
+  "title": "The Modeling and Analysis of the Apoptotic BAD/tBID/BAK Pathway as a Chemical Reaction Network",
+  "type": "Dissertation"
+}

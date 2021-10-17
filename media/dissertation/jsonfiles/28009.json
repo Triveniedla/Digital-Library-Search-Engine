@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Kachroo, Pushkin",
+  "contributor_committeechair": "Ball, Joseph A.",
+  "contributor_committeemember": [
+    "Adjerid, Slimane",
+    "Klaus, Martin",
+    "Burns, John A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:12:55Z",
+  "date_adate": "2007-06-20",
+  "date_available": "2014-03-14T20:12:55Z",
+  "date_issued": "2007-05-10",
+  "date_rdate": "2007-06-20",
+  "date_sdate": "2007-06-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation studies hyperbolic partial differential equations for Conservation Laws motivated by traffic control problems.  New traffic models for multi-directional flow in two dimensions are derived and their properties studied.  Control models are proposed where the control variable is a multiplicative term in the flux function.  Control models are also proposed for relaxation type systems of hyperbolic PDEs.  Existence of optimal control for the case of constant controls is presented.  Unbounded and bounded feedback control designs are proposed. These include advective, diffusive, and advective-diffusive controls.  Existence result for the bounded advective control is derived.  Performance of the relaxation model using bounded advective control is analyzed.  Finally simulations using Godunov scheme are performed on unbounded and bounded feedback advective controls.",
+  "description_provenance": [
+    "Author Email: pushkin@vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: klaus@math.vt.edu",
+    "Advisor Email: burns@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:55Z (GMT). No. of bitstreams: 1 PK_Dissertation.pdf: 873486 bytes, checksum: cb8d1d7c879e49177a8575f9713cf355 (MD5)   Previous issue date: 2007-05-10"
+  ],
+  "handle": "28009",
+  "identifier_other": "etd-06102007-100142",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06102007-100142/",
+  "identifier_uri": "http://hdl.handle.net/10919/28009",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PK_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Optimal",
+    "Control",
+    "Entropy",
+    "Feedback",
+    "Evacuation",
+    "Hyperbolic PDE"
+  ],
+  "title": "Optimal and Feedback Control for Hyperbolic Conservation Laws",
+  "type": "Dissertation"
+}

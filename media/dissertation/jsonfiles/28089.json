@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Chishty, Wajid Ali",
+  "contributor_committeechair": "Vandsburger, Uri",
+  "contributor_committeemember": [
+    "Saunders, William R.",
+    "Hassa, Christoph",
+    "Chang, Clarence T.",
+    "Baumann, William T."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:13:25Z",
+  "date_adate": "2005-07-07",
+  "date_available": "2014-03-14T20:13:25Z",
+  "date_issued": "2005-06-17",
+  "date_rdate": "2005-07-07",
+  "date_sdate": "2005-06-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Thermoacoustic instabilities in modern high-performance, low-emission gas turbine engines are often observable as large amplitude pressure oscillations and can result in serious performance and structural degradations.  These acoustic oscillations can cause oscillations in combustor through-flows and given the right phase conditions, can also drive unsteady heat release.  This coupling has the potential to enhance the amplitude of pressure oscillations.  To curb the potential harms caused by the existence of thermoacoustic instabilities, recent efforts have focused on the active suppression and even complete control of these instabilities.  Intuitively, development of effective active combustion control methodologies is strongly dependent on the knowledge of the onset and sustenance of thermoacoustic instabilities.  Specially, non-premixed spray combustion environment pose additional challenges due to the inherent unstable dynamics of sprays. The understanding of the manner in which the combustor acoustics affect the spray characteristics, which in turn result in heat release oscillation, is therefore, of paramount importance.  The experimental investigations and the modeling studies conducted towards achieving this knowledge have been presented in this dissertation.  Experimental efforts comprise both reacting and non-reacting flow studies.  Reacting flow experiments were conducted on a overall lean direct injection, swirl-stabilized combustor rig.  The investigations spanned combustor characterization and stability mapping over the operating regime. All experiments were performed under atmospheric pressure condition, which is considered as an obvious first step towards providing valuable insights into more intense processes in actual gas turbine combustors. The onset of thermoacoustic instability and the transition of the combustor to two unstable regimes were investigated via phase-locked chemiluminescence imaging and measurement and phase-locked acoustic characterization.  It was found that the onset of the thermoacoustic instability is a function of the energy gain of the system, while the sustenance of instability is due to the in-phase relationship between combustor acoustics and unsteady heat release driven by acoustic oscillations. The presence of non-linearities in the system between combustor acoustic and heat release and also between combustor acoustics and air through-flow were found to exist. The impact of high amplitude limit-cycle pressure on droplet breakdown under very low mean airflow and the localized effects of forced primary fuel modulations on heat release were also investigated.  The non-reacting flow experiments were conducted to study the spray behavior under the presence of an acoustic field.  An isothermal acoustic rig was specially fabricated, where the pressure oscillations were generated using an acoustic driver. Phase Doppler Anemometry was used to measure the droplet velocities and sizes under varying acoustic forcing conditions and spray feed pressures.  Measurements made at different locations in the spray were related to these variations in mean and unsteady inputs.  The droplet velocities were found to show a second order response to acoustic forcing with the cut-off frequency equal to the relaxation time corresponding to mean droplet size.  It was also found that under acoustic forcing the droplets migrate radially away from the spray centerline and show oscillatory excursions in their movement.    Non-reacting flow experiments were also performed using Time-Resolved Digital Particle Image Velocimetry to characterize modulated sprays.  Frequency response of droplet diameters were analyzed in the pulsed spray. These pilot experiments were conducted to assess the capability of the system to measure dynamic data.  Modeling efforts were undertaken to gain physical insights of spray dynamics under the influence of acoustic forcing and to explain the experimental findings.  The radial migration of droplets and their oscillatory movement were validated. The flame characteristics in the two unstable regimes and the transition between them were explained. It was found that under certain acoustic and mean air-flow condition, bands of high droplet densities were formed which resulted in diffusion type group burning of droplets.  It was also shown that very high acoustic amplitudes cause secondary breakup of droplets.",
+  "description_provenance": [
+    "Author Email: wchishty@vt.edu",
+    "Advisor Email: will@adaptivetechinc.com",
+    "Advisor Email: Christoph.Hassa@dlr.de",
+    "Advisor Email: Clarence.T.Chang@nasa.gov",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: uri@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:25Z (GMT). No. of bitstreams: 1 Phd-Dissertation.pdf: 13659398 bytes, checksum: 09c85f28d4931d575318d4270cc6e336 (MD5)   Previous issue date: 2005-06-17"
+  ],
+  "handle": "28089",
+  "identifier_other": "etd-06202005-153659",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06202005-153659/",
+  "identifier_uri": "http://hdl.handle.net/10919/28089",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Phd-Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Spray Combustion Modeling",
+    "Thermoacoustic Instability",
+    "Spray Dynamics",
+    "Phase Doppler Anemometry",
+    "Lean Direct Injection",
+    "Time-Resolved Digital Particle Image Velocimetry"
+  ],
+  "title": "Effects of Thermoacoustic Oscillations on Spray Combustion Dynamics with Implications for Lean Direct Injection Systems",
+  "type": "Dissertation"
+}

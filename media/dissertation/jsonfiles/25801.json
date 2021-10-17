@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Roy, Arnab",
+  "contributor_committeechair": [
+    "Ng, Wing Fai",
+    "Ekkad, Srinath"
+  ],
+  "contributor_committeemember": [
+    "Kapania, Rakesh K",
+    "Vandsburger, Uri",
+    "Lattimer, Brian Y"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-04T09:00:14Z",
+  "date_available": "2014-03-04T09:00:14Z",
+  "date_issued": "2014-03-03",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The effect of global warming due to increased level of greenhouse gas emissions from coal fired thermal power plants and crisis of reliable energy resources has profoundly increased the importance of natural gas based power generation as a major alternative in the last few decades. Although gas turbine propulsion system had been primarily developed and technological advancements over the years had focused on application in civil and military aviation industry, use of gas turbine engines for land based power generation has emerged as the most promising candidate due to higher thermal efficiency, abundance of natural gas resources, development in generation of hydrogen rich synthetic fuel (Syngas) using advanced gasification technology for further improved emission levels  and strict enforcement in emission regulations on installation of new coal based power plants. The fundamental thermodynamic principle behind gas turbine engines is Brayton cycle and higher thermal efficiency is achieved through maximizing the Turbine Inlet Temperature (TIT). Modern gas turbine engines operate well beyond the melting point of the turbine component materials to meet the enhanced efficiency requirements especially in the initial high pressure stages (HPT) after the combustor exit. Application of thermal barrier coatings (TBC) provides the first line of defense to the hot gas path components against direct exposure to high temperature gases. However, a major portion of the heat load to the airfoil and passage is reduced through injection of secondary air from high pressure compressor at the expense of a penalty on engine performance. External film cooling comprises a significant part of the entire convective cooling scheme. This can be achieved injecting coolant air through film holes on airfoil and endwall passages or utilizing the high pressure air required to seal the gaps and interfaces due to turbine assembly features. The major objective is to maximize heat transfer performance and film coverage on the surface with minimum coolant usage.   Endwall contouring on the other hand provides an effective means of minimizing heat load on the platform through efficient control of secondary flow vortices. Complex vortices form due to the interaction between the incoming boundary layer and endwall-airfoil junction at the leading edge which entrain the hot gases towards the endwall, thus increasing surface heat transfer along its trajectory. A properly designed endwall profile can weaken the effects of secondary flow thereby improving the aerodynamic and associated heat transfer performance.   This dissertation aims to investigate heat transfer characteristics of a non-axisymmetric contoured endwall design compared to a baseline planar endwall geometry in presence of three major endwall cooling features – upstream purge flow, discrete hole film cooling and mateface gap leakage under transonic operating conditions. The preliminary design objective of the contoured endwall geometry was to minimize stagnation and secondary aerodynamic losses. Upstream purge flow and mateface gap leakage is necessary to prevent ingestion to the turbine core whereas discrete hole cooling is largely necessary to provide film cooling primarily near leading edge region and mid-passage region. Different coolant to mainstream mass flow ratios (MFR) were investigated for all cooling features at design exit isentropic Mach number (0.88) and design incidence angle. The experiments were performed at Virginia Tech's quasi linear transonic blow down cascade facility. The airfoil span increases in the mainstream flow direction in order to match realistic inlet/exit airfoil surface Mach number distribution. A transient Infrared (IR) thermography technique was employed to measure the endwall surface temperature and a novel heat transfer data reduction method was developed for simultaneous calculation of heat transfer coefficient (HTC) and adiabatic cooling effectiveness (ETA), assuming a 1D semi-infinite transient conduction. An experimental study on endwall film cooling with endwall contouring at high exit Mach numbers is not available in literature.  Results indicate significant benefits in heat transfer performance using the contoured endwall in presence of individual (upstream slot, discrete hole and mateface gap) and combined (upstream slot with mateface gap) cooling flow features. Major advantages of endwall contouring were observed through reduction in heat transfer coefficient and increase in coolant film coverage by weakening the effects of secondary flow and cross passage pressure differential. Net Heat Flux Reduction (NHFR) analysis was carried out combining the effect of heat transfer coefficient and film cooling effectiveness on both endwall geometries (contoured and baseline) where, the contoured endwall showed major improvement in heat load reduction near the suction side of the platform (upstream leakage only and combined upstream with mateface leakage) as well as further downstream of the film holes (discrete hole film cooling). Detailed interpretation of the heat transfer results along with near endwall flow physics has also been discussed.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-03-04T09:00:14Z (GMT). No. of bitstreams: 1  Roy_A_D_2014.pdf: 5217377 bytes, checksum: 6c083e43b478869ca583e440e37eb454 (MD5)    Previous issue date: 2014-03-03",
+  "format_medium": "ETD",
+  "handle": "25801",
+  "identifier_other": "vt_gsexam:2250",
+  "identifier_uri": "http://hdl.handle.net/10919/25801",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Heat Transfer",
+    "Film Cooling",
+    "Gas Turbine",
+    "Endwall Contouring",
+    "Transonic Cascade"
+  ],
+  "title": "Experimental Study of Gas Turbine Endwall Cooling with Endwall Contouring under Transonic Conditions",
+  "type": "Dissertation"
+}

@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Celanovic, Nikola",
+  "contributor_committeechair": "Boroyevich, Dushan",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Lai, Jason",
+    "Lee, Fred C.",
+    "Baumann, William T."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:00Z",
+  "date_adate": "2001-02-17",
+  "date_available": "2014-03-14T20:17:00Z",
+  "date_issued": "2000-09-22",
+  "date_rdate": "2002-02-17",
+  "date_sdate": "2000-10-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is the result of research and development of a power conditioning system for Superconductive Magnetic Energy Storage System.  The dominant challenge of this research was to develop the power conditioning system that can match slowly varying dc voltage and dc current on the super conductive magnet side with the ac voltages and ac currents on the utility side.  At the same time the power conditioning system was required to provide a bi-directional power flow to the superconductive magnet.  The focus of this dissertation is a three-level diode clamped dc-ac converter which is a principle part of the power conditioning system.  Accordingly, this dissertation deals with the space vector modulation of three-level converters and introduces a computationally very efficient three-level space vector modulation algorithm that is experimentally verified.    Furthermore, the proposed space vector modulation algorithm is successfully generalized to allow equally efficient, real time implementation of space vector modulation to dc-ac converters with virtually any number of levels.  The most important advantage of the proposed concept is in the fact that the number of instructions required to implement the algorithm is almost independent from the number of levels in a multilevel converter.  More on the side of the control of multilevel converters, the particular attention in this dissertation is paid to the problem of charge balance in the split dc-link capacitors of three-level neutral-point-clamped converters.  It is a known fact that although the charge balance in the neutral point can be maintained on a line cycle level, a significant third harmonic current flows into the neutral point for certain loading conditions, causing the neutral point voltage ripple. The logical consequence of that ripple is the deteriorated quality of the output voltage waveforms as well as the increased voltage stress on the switching devices.   This was the motivation to more carefully explore the loading conditions that cause the unbalance, as well as to study the fundamental limitations of dc-link capacitor charge balancing algorithms.  As a part of that work, a new model of the neutral point current in the rotating coordinate frame is developed as a tool in investigation of theoretical limitations and in providing some intuitive insight into the problem.  Additionally, the low frequency ripple is quantified and guidelines are offered that can help size the dc-link capacitors.   Because the study of the neutral point balance identified the loading conditions, that under some possible system constraints, cause an unavoidable neutral point voltage ripple, a feed forward type of control method is developed next.  The proposed feed forward algorithm can effectively prevent the neutral point voltage ripple from creating distortions in the converter output voltage under all loading conditions and without causing additional disturbance in the neutral point voltage.  The feed forward method is developed for a sine triangle as well as for the space vector type PWM algorithm.    The simulation results that include the full dynamic model of the converter and load system validate the feed forward approach and prove that the feed forward algorithm can effectively compensate the effect of the neutral point voltage ripple.  The simulation results are than experimentally verified.",
+  "description_provenance": [
+    "Author Email: ncelanov@yahoo.com",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:00Z (GMT). No. of bitstreams: 1 dissertation.pdf: 1054048 bytes, checksum: e5d2cd55965ab8798b4a72cf1ecb886c (MD5)   Previous issue date: 2000-09-22"
+  ],
+  "handle": "29164",
+  "identifier_other": "etd-10022000-00180032",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10022000-00180032/",
+  "identifier_uri": "http://hdl.handle.net/10919/29164",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Superconductive Magnetic Energy Storage",
+    "Neutral Point Balancing Problem",
+    "Feed Forward Control"
+  ],
+  "title": "Space Vector Modulation and Control of Multilevel Converters",
+  "type": "Dissertation"
+}

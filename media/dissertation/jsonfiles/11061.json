@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Savransky, Max",
+  "contributor_committeechair": "Thomas, James R. Jr.",
+  "contributor_committeemember": [
+    "Vick, Brian L.",
+    "Dancey, Clinton L.",
+    "Johnson, Lee W.",
+    "Davis, William A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T18:50:47Z",
+  "date_adate": "2003-12-02",
+  "date_available": "2011-08-22T18:50:47Z",
+  "date_issued": "2003-09-01",
+  "date_rdate": "2003-12-02",
+  "date_sdate": "2003-11-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Microwave heating is implemented in various fields such as drying, material processing, and chemical reactors. Microwaves offer several advantages over conventional heating methods: 1) microwaves deposit heat directly in the material without convection or radiation, 2) microwave heating is easy and efficient to implement, and 3) microwave processes can be controlled.In order to understand how to use microwaves more efficiently, we must understand how they affect the material with which they interact.This requires the ability to predict the temperature distribution that is achieved within the material.In recent years packed and fluidized beds have been used as chemical reactors to achieve various tasks in industry.Recent studies have shown that microwave heating offers the potential to heat the bed particles to a higher temperature than that of the fluid.This results in enhanced reaction rates and improves the overall efficiency of the reactor.T he focus of this work is to determine the temperature distributions within the packed and fluidized beds, and to determine whether the catalyst particles can be heated to a higher temperature than the gas in catalytic reactions. The beds are modeled with multiphase flow equations.The gas velocity profiles along with the solid and gas temperature profiles for packed and fluidized beds are provided. F or the fluidized beds, the hydrodynamics is modeled using FLUENT and the solid velocity profiles are also determined.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:50:47Z (GMT). No. of bitstreams: 1  diss.pdf: 42721837 bytes, checksum: e2b742fe17f84944d7f7441e22da6c38 (MD5)    Previous issue date: 2003-09-01",
+    "Author Email: msavrans@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: cdancey@vt.edu",
+    "Advisor Email: wadavis@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11061",
+  "identifier_other": "etd-11202003-144044",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11202003-144044",
+  "identifier_uri": "http://hdl.handle.net/10919/11061",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "fluidized beds",
+    "packed beds",
+    "microwave catalysis"
+  ],
+  "title": "Numerical Simulations of Thermo-Fluid Phenomena in Microwave Heated Packed and Fluidized Beds",
+  "type": "Dissertation"
+}

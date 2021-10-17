@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Romero, Alfredo A",
+  "contributor_committeechair": "Spanos, Aris",
+  "contributor_committeemember": [
+    "Parmeter, Christopher F.",
+    "Billingsley, Randall S.",
+    "Ashley, Richard A.",
+    "Ball, Sheryl B."
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2014-03-14T20:12:14Z",
+  "date_adate": "2010-06-09",
+  "date_available": "2014-03-14T20:12:14Z",
+  "date_issued": "2010-05-04",
+  "date_rdate": "2010-06-09",
+  "date_sdate": "2010-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Using theoretical relations as a source of econometric specifications might lead a researcher to models that do not adequately capture the statistical regularities in the data and do not faithfully represent the phenomenon of interest. In addition, the researcher is unable to disentangle the statistical and substantive sources of error and thus incapable of using the statistical evidence to assess whether the theory, and not the statistical model, is wrong. The Probabilistic Reduction Approach puts forward a modeling strategy in which theory can confront data without compromising the credibility of either one of them. This approach explicitly derives testable assumptions that, along with the standardized residuals, help the researcher assess the precision and reliability of statistical models via misspecification testing. It is argued that only when the statistical source of error is ruled out can the researcher reconcile the theory and the data and establish the theoretical and/or external validity of econometric models.     Through the approach, we are able to derive the properties of Beta regression-like models, appropriate when the researcher deals with rates and proportions or any other random variable with finite support; and of Lognormal models, appropriate when the researcher deals with nonnegative data, and specially important of the estimation of demand elasticities.",
+  "description_provenance": [
+    "Author Email: aromeroa@vt.edu",
+    "Advisor Email: parms@vt.edu",
+    "Advisor Email: r.billingsley@vt.edu",
+    "Advisor Email: aris@vt.edu",
+    "Advisor Email: ashleyr@vt.edu",
+    "Advisor Email: sball@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:14Z (GMT). No. of bitstreams: 1 Romero_AA_D_2010.pdf: 2302468 bytes, checksum: cb6caf00b65c84256ebdf9e1b030e214 (MD5)   Previous issue date: 2010-05-04"
+  ],
+  "handle": "27782",
+  "identifier_other": "etd-05182010-084252",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182010-084252/",
+  "identifier_uri": "http://hdl.handle.net/10919/27782",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Romero_AA_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "probabilistic reduction approach",
+    "reliability",
+    "statistical misspecification",
+    "monte carlo",
+    "beta models",
+    "elasticities",
+    "gasoline demand"
+  ],
+  "title": "Statistical Adequacy and Reliability of Inference in Regression-like Models",
+  "type": "Dissertation"
+}

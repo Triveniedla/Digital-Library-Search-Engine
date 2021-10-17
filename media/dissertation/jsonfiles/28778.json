@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Jung, Heejin",
+  "contributor_committeechair": "Hobeika, Antoine G.",
+  "contributor_committeemember": [
+    "Kikuchi, Shinya",
+    "Abbas, Montasir M.",
+    "Wang, Linbing"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:37Z",
+  "date_adate": "2012-09-19",
+  "date_available": "2014-03-14T20:15:37Z",
+  "date_issued": "2012-08-10",
+  "date_rdate": "2012-09-19",
+  "date_sdate": "2012-08-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dissertation aims to classify drivers based on driving and environmental behaviors. The research determined significant factors using factor analysis, identified different driver types using k-means clustering, and studied how the same drivers map in each classification domain. The research consists of two study cases. In the first study case, a new variable is proposed and then is used for classification. The drivers were divided into three groups. Two alternatives were designed to evaluate the environmental impact of driving behavior changes. In the second study case, two types of data sets were constructed: driving data and environmental data. The driving data represents driving behavior of individual drivers. The environmental data represents emissions and fuel consumption estimated by microscopic energy and emissions models. Significant factors were explored in each data set using factor analysis. A pair of factors was defined for each data set. Each pair of factors was used for each k-means clustering: driving clustering and environmental clustering. Then the factors were used to identify groups of drivers in each clustering domain. In the driving clustering, drivers were grouped into three clusters. In the environmental clustering, drivers were clustered into two groups. The groups from the driving clustering were compared to the groups from the environmental clustering in terms of emissions and fuel consumption. The three groups of drivers from the driving clustering were also mapped in the environmental domain. The results indicate that the differences in driving patterns among the three driver groups significantly influenced the emissions of HC, CO, and NOx. As a result, it was determined that the average target operating acceleration and braking did essentially influence the amount of emissions in terms of HC, CO, and NOx. Therefore, if drivers were to change their driving behavior to be more defensive, it is expected that emissions of HC, CO, and NOx would decrease. It was also found that spacing-based driving tended to produce less emissions but consumed more fuel than other groups, while speed-based driving produced relatively more emissions. On the other hand, the defensively moderate drivers consumed less fuel and produced fewer emissions.",
+  "description_provenance": [
+    "Author Email: hjinjung@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: kikuchi@vt.edu",
+    "Advisor Email: abbas@vt.edu",
+    "Advisor Email: lbwang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:37Z (GMT). No. of bitstreams: 1 Jung_HJ_D_2012.pdf: 4496931 bytes, checksum: 7006636bf0ce43e1b662df537ed50f0a (MD5)   Previous issue date: 2012-08-10"
+  ],
+  "handle": "28778",
+  "identifier_other": "etd-08232012-051108",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08232012-051108/",
+  "identifier_uri": "http://hdl.handle.net/10919/28778",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Jung_HJ_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "NGSIM",
+    "driving characteristics",
+    "factor analysis",
+    "k-means clustering",
+    "CMEM"
+  ],
+  "title": "A comparison of driving characteristics and environmental characteristics using factor analysis and k-means clustering algorithm",
+  "type": "Dissertation"
+}

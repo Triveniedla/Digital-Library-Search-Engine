@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Ben Ayed, Samah",
+  "contributor_committeechair": [
+    "Hajj, Muhammad R",
+    "Ragab, Saad A"
+  ],
+  "contributor_committeemember": [
+    "Paul, Mark R",
+    "Jung, Sunghwan",
+    "Puri, Ishwar K"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-07-31T08:00:17Z",
+  "date_available": "2013-07-31T08:00:17Z",
+  "date_issued": "2013-07-30",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Wind storms pose dangerous threats to human lives and are an enormous drain on the economy. Their damage to buildings usually starts with the failure of structural components that are subjected to excessive wind loads. In this dissertation, we investigate the characteristics of extreme loads on low-rise structures through analysis of full-scale and numerical data. We also use numerical simulations to evaluate different approaches to control the separated flow over a surface-mounted prism with the objective of reducing extreme pressure coefficients or loads on its surface.<br /><br />In the first part, we use a probabilistic approach to characterize peak loads as measured on a subject house during Hurricane Ivan on 2004. Time series of pressure coefficients collected on the roof of that house are analyzed. Rather than using peak values, which could vary due to the stochastic nature of the data, a probabilistic analysis is used to determine the probability of non-exceedence of specific values of pressure coefficients and associated wind loads. The results show that the time series of the pressure coefficients follow a three-parameter Gamma distribution, while the peak pressure follows a two-parameter Gumbel distribution. The results of the analysis are contrasted with the design values.<br /><br />In the second part, we perform numerical simulations of the flow over a surface-mounted prism as a simplified example for the flow over a low-rise structure. A Direct Numerical Simulation (DNS) code is developed to solve the unsteady two-dimensional incompressible Navier-Stokes equations of the flow past the prism. The pressure coefficients are then computed on the prism surface in order to assess the wind loads. The code is written on a parallel platform using the Message Passing Interface (MPI) library. We use the simulations to study the effects of inflow disturbances on the extreme loads on structures. The sensitivities of peak loads on a surface mounted prism to variations in incident gust parameters are determined. Latin Hypercube Sampling (LHS) is applied to obtain different combinations of inflow parameters. A non-intrusive polynomial chaos expansion is then applied to determine the sensitivities. The results show that the gust enhances the destabilization of the separation shear layer, forces it to break down and moves it closer to the roof of the prism. As for the sensitivities, the results show that the extreme loads are most sensitive to the transverse amplitude of the disturbance.<br />Because the separated flow over sharp edges is responsible for the extreme pressure peaks, we investigate the use of active and passive control strategies to reduce wind loads. The studied active flow control strategies include blowing, suction, and synthetic jets. We implement them by using different flux injections, different slot locations and different angles. Investigation of the possible peak pressure reduction for two Reynolds numbers is performed. For Re = 1000, a reduction by nearly 50% of the peak pressure is obtained. For Re = 10, 000, the highest achieved reduction is nearly 25%. For passive control, we mount a flexible membrane on the top of the prism. In a two-dimensional framework, the membrane equation is modeled by a forced string equation. This mechanical equation is coupled with the DNS solver and integrated in time using a fourth order Hamming predictor corrector scheme. The results show that this strategy is as efficient as the active control approach, in terms of reducing extreme loads, for Re = 10, 000.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-07-31T08:00:17Z (GMT). No. of bitstreams: 2 Ben_Ayed_S_D_2013.pdf: 30927108 bytes, checksum: f2067eaf7ecd23b09f9c6b7490e545df (MD5) Ben_Ayed_S_D_2013_support_1.pdf: 621373 bytes, checksum: cb0e1230aa42eb26094ed133c1aa6e61 (MD5)   Previous issue date: 2013-07-30",
+  "format_medium": "ETD",
+  "handle": "23671",
+  "identifier_other": "vt_gsexam:1359",
+  "identifier_uri": "http://hdl.handle.net/10919/23671",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "wind loads",
+    "peak pressure distribution",
+    "sensitivity analysis",
+    "flow control",
+    "fluid-structure interaction"
+  ],
+  "title": "Analysis, Simulation and Control of Peak Pressure Loads on Low-Rise Structures",
+  "type": "Dissertation"
+}

@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Han, Chao",
+  "contributor_committeechair": "Leman, Scott C",
+  "contributor_committeemember": [
+    "North, Christopher L",
+    "Smith, Eric P",
+    "House, Leanna L"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2013-02-19T22:36:19Z",
+  "date_available": "2013-02-19T22:36:19Z",
+  "date_issued": "2012-12-07",
+  "degree_discipline": "Statistics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In light of advancements made in data collection techniques over the past two decades, data mining has become common practice to summarize large, high dimensional datasets, in hopes of discovering noteworthy data structures. However, one concern is that most data mining approaches rely upon strict criteria that may mask information in data that analysts may find useful. We propose a new approach called Bayesian Visual Analytics (BaVA) which merges Bayesian Statistics with Visual Analytics to address this concern. The BaVA framework enables experts to interact with the data and the feature discovery tools by modeling the \"sense-making\" process using Bayesian Sequential Updating. In this paper, we use BaVA idea to enhance high dimensional visualization techniques such as Probabilistic PCA (PPCA). However, for real-world datasets, important structures can be arbitrarily complex and a single data projection such as PPCA technique may fail to provide useful insights. One way for visualizing such a dataset is to characterize it by a mixture of local models. For example, Tipping and Bishop [Tipping and Bishop, 1999] developed an algorithm called Mixture Probabilistic PCA (MPPCA) that extends PCA to visualize data via a mixture of projectors. Based on MPPCA, we developped a new visualization algorithm called Covariance-Guided MPPCA which group similar covariance structured clusters together to provide more meaningful and cleaner visualizations. Another way to visualize a very complex dataset is using nonlinear projection methods such as  the Generative Topographic Mapping algorithm(GTM). We developped an interactive version of GTM to discover interesting local data structures. We demonstrate the performance of our approaches using both synthetic and real dataset and compare our algorithms with existing ones.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:36:19Z (GMT). No. of bitstreams: 2 Han_C_D_2012.pdf: 3130077 bytes, checksum: 61d4e0ae6dd2a40c1c48b07c49bc5ea7 (MD5) Han_C_D_2012_support_1.pdf: 175528 bytes, checksum: 001ce3581080986b196e938b1e709983 (MD5)   Previous issue date: 2012-12-07",
+  "format_medium": "ETD",
+  "handle": "19210",
+  "identifier_other": "vt_gsexam:79",
+  "identifier_uri": "http://hdl.handle.net/10919/19210",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Visual Analytics",
+    "Bayesian Methods",
+    "Dimension Reduction",
+    "Human-computer Interaction"
+  ],
+  "title": "Bayesian Visual Analytics: Interactive Visualization for High Dimensional Data",
+  "type": "Dissertation"
+}

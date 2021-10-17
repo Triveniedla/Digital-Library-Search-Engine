@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Lewis, Bryan Leroy",
+  "contributor_committeechair": "Barrett, Christopher L.",
+  "contributor_committeemember": [
+    "Eubank, Stephen",
+    "Alexander, Kathleen",
+    "Bohland, James R."
+  ],
+  "contributor_department": "Genetics, Bioinformatics, and Computational Biology",
+  "date_accessioned": "2014-03-14T20:06:58Z",
+  "date_adate": "2011-02-21",
+  "date_available": "2014-03-14T20:06:58Z",
+  "date_issued": "2011-01-19",
+  "date_rdate": "2011-02-21",
+  "date_sdate": "2011-01-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Public Health requires a trans-disciplinary approach to tackle the breadth and depth of the issues it faces.  Public health decisions are reached through the compilation of multiple data sources and their thoughtful synthesis.  The complexity and importance of these decisions necessitates a variety of approaches, with simulations increasingly being relied upon.  This dissertation describes several research efforts that demonstrate the utility of highly detailed simulations in public health decision-making. \tSimulations are frequently used to represent dynamic processes and to synthesize data to predict future outcomes, which can be used in cost-benefit and course of action analyses.   The threat of pandemic influenza and its subsequent arrival prompted many simulation-based studies.  This dissertation details several such studies conducted at the federal policy level.  Their use for planning and the rapid response to the unfolding crisis demonstrates the integration of highly detailed simulations into the public health decision-making process. \tMost analytic methods developed by public health practitioners rely on historical data sources, but are intended to be broadly applicable.  Oftentimes this data is limited or incomplete.  This dissertation describes the use of highly detailed simulations to evaluate the performance of outbreak detection algorithms.  By creating methods that generate realistic and configurable synthetic data, the reliance on these historical samples can be reduced, thus facilitating the development and improvement of methods for public health practice. \tThe process of decision-making itself can significantly influence the decisions reached.  Many fields use simulations to train and evaluate, however, public health has yet to fully adopt these approaches.  This dissertation details the construction of highly detailed synthetic data that was used to build an interactive environment designed to evaluate the decision-making processes for pertussis control.  The realistic data sets provide sufficient face validity to experienced public health practitioners, creating a natural and effective medium for training and evaluation purposes. \tAdvances in high-performance computing, information sciences, computer science, and epidemiology are enabling increasing innovation in the application of simulations.  This dissertation illustrates several applications of simulations to relevant public health practices and strongly argues that highly detailed simulations have an essential role to play in Public Health decision-making.",
+  "description_provenance": [
+    "Author Email: blewis@vbi.vt.edu",
+    "Advisor Email: seubank@vbi.vt.edu",
+    "Advisor Email: cbarrett@vbi.vt.edu",
+    "Advisor Email: kathyalx@vt.edu",
+    "Advisor Email: jayjon@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:58Z (GMT). No. of bitstreams: 1 Lewis_BL_D_2011.pdf: 17811423 bytes, checksum: bcfbbdfb4cb3e3719744e27506576b6c (MD5)   Previous issue date: 2011-01-19"
+  ],
+  "handle": "26058",
+  "identifier_other": "etd-01282011-092103",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01282011-092103/",
+  "identifier_uri": "http://hdl.handle.net/10919/26058",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lewis_BL_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "public health",
+    "simulation",
+    "decision support",
+    "epidemiology",
+    "policy"
+  ],
+  "title": "in silico Public Health:  The Essential Role of Highly Detailed Simulations in Support of Public Health Decision-Making",
+  "type": "Dissertation"
+}

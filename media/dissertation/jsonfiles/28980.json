@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Yu, Guoqiang",
+  "contributor_committeechair": "Wang, Yue J.",
+  "contributor_committeecochair": "Xuan, Jianhua",
+  "contributor_committeemember": [
+    "Baumann, William T.",
+    "Lu, Chang-Tien",
+    "Wang, Ge",
+    "Clarke, Robert"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:16Z",
+  "date_adate": "2011-09-19",
+  "date_available": "2014-03-14T20:16:16Z",
+  "date_issued": "2011-09-07",
+  "date_rdate": "2011-09-19",
+  "date_sdate": "2011-09-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The missing heritability in genome-wide association studies (GWAS) is an intriguing open scientific problem which has attracted great recent interest. The interaction effects among risk factors, both genetic and environmental, are hypothesized to be one of the main missing heritability sources. Moreover, detection of multilocus interaction effect may also have great implications for revealing disease/biological mechanisms, for accurate risk prediction, personalized clinical management, and targeted drug design. However, current analysis of GWAS largely ignores interaction effects, partly due to the lack of tools that meet the statistical and computational challenges posed by taking into account interaction effects. Here, we propose a novel statistically-based framework (Significant Conditional Association) for systematically exploring, assessing significance, and detecting interaction effect. Further, our SCA work has also revealed new theoretical results and insights on interaction detection, as well as theoretical performance bounds. Using in silico data, we show that the new approach has detection power significantly better than that of peer methods, while controlling the running time within a permissible range. More importantly, we applied our methods on several real data sets, confirming well-validated interactions with more convincing evidence (generating smaller p-values and requiring fewer samples) than those obtained through conventional methods, eliminating inconsistent results in the original reports, and observing novel discoveries that are otherwise undetectable. The proposed methods provide a useful tool to mine new knowledge from existing GWAS and generate new hypotheses for further research.  Microarray gene expression studies provide new opportunities for the molecular characterization of heterogeneous diseases. Multiclass gene selection is an imperative task for identifying phenotype-associated mechanistic genes and achieving accurate diagnostic classification. Most existing multiclass gene selection methods heavily rely on the direct extension of two-class gene selection methods. However, simple extensions of binary discriminant analysis to multiclass gene selection are suboptimal and not well-matched to the unique characteristics of the multi-category classification problem. We report a simpler and yet more accurate strategy than previous works for multicategory classification of heterogeneous diseases. Our method selects the union of one-versus-everyone phenotypic up-regulated genes (OVEPUGs) and matches this gene selection with a one-versus-rest support vector machine. Our approach provides even-handed gene resources for discriminating both neighboring and well-separated classes, and intends to assure the statistical reproducibility and biological plausibility of the selected genes. We evaluated the fold changes of OVEPUGs and found that only a small number of high-ranked genes were required to achieve superior accuracy for multicategory classification. We tested the proposed OVEPUG method on six real microarray gene expression data sets (five public benchmarks and one in-house data set) and two simulation data sets, observing significantly improved performance with lower error rates, fewer marker genes, and higher performance sustainability, as compared to several widely-adopted gene selection and classification methods.",
+  "description_provenance": [
+    "Author Email: yug@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:16Z (GMT). No. of bitstreams: 1 Yu_G_D_2011.pdf: 4083405 bytes, checksum: f3f8cf18cc51f5d0327a77fe178ec254 (MD5)   Previous issue date: 2011-09-07"
+  ],
+  "handle": "28980",
+  "identifier_other": "etd-09142011-112421",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09142011-112421/",
+  "identifier_uri": "http://hdl.handle.net/10919/28980",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yu_G_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Gene-Environment Interaction",
+    "Gene-Gene Interaction",
+    "Multi-category gene selection",
+    "Genome-wide Association Study"
+  ],
+  "title": "Machine Learning to Interrogate High-throughput Genomic Data: Theory and Applications",
+  "type": "Dissertation"
+}

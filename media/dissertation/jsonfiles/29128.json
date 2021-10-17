@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Lu, Yunkai",
+  "contributor_committeechair": "Thangjitham, Surot",
+  "contributor_committeemember": [
+    "Hyer, Michael W.",
+    "Case, Scott W.",
+    "Lu, Guo-Quan",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:16:52Z",
+  "date_adate": "2009-11-11",
+  "date_available": "2014-03-14T20:16:52Z",
+  "date_issued": "2008-10-03",
+  "date_rdate": "2009-11-11",
+  "date_sdate": "2009-09-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this work, the random vibration of higher-order nonlinear beams and composite plates subjected to stochastic loading is studied. The fourth-order nonlinear beam equation is examined to study the effect of rotary inertia and shear deformation on the root mean square values of displacement response. A new linearly coupled equivalent linearization method is proposed and compared with the widely used traditional equivalent linearization method. The new method is proven to yield closer predictions to the numerical simulation results of the nonlinear beam vibration. A systematical investigation of the nonlinear random vibration of composite plates is conducted in which effects of nonlinearity, choices of different plate theories (the first order shear deformation plate theory and the classical plate theory), and temperature gradient on the plate statistical transverse response are addressed. Attention is paid to calculate the R.M.S. values of stress components since they directly affect the fatigue life of the structure. A statistical data reconstruction technique named ARMA modeling and its applications in random vibration data analysis are discussed. The model is applied to the simulation data of nonlinear beams. It is shown that good estimations of both the nonlinear frequencies and the power spectral densities are given by the technique.",
+  "description_provenance": [
+    "Author Email: yulu@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: thangjitham@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:52Z (GMT). No. of bitstreams: 1 Lu_Y_D_2008.pdf: 2733995 bytes, checksum: ec8b84c6797fa9910827534e051d056e (MD5)   Previous issue date: 2008-10-03"
+  ],
+  "handle": "29128",
+  "identifier_other": "etd-09282009-154844",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09282009-154844/",
+  "identifier_uri": "http://hdl.handle.net/10919/29128",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Lu_Y_D_2008.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "power spectral density",
+    "nonlinear",
+    "higher-order beam",
+    "root mean square",
+    "ARMA model",
+    "modal interaction"
+  ],
+  "title": "Random Vibration Analysis of Higher-Order  Nonlinear Beams and Composite Plates  with Applications of ARMA Models",
+  "type": "Dissertation"
+}

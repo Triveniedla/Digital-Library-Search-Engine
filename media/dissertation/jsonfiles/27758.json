@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Mellodge, Patricia",
+  "contributor_committeechair": "Kachroo, Pushkin",
+  "contributor_committeemember": [
+    "Day, Martin V.",
+    "Stilwell, Daniel J.",
+    "Baumann, William T.",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:10Z",
+  "date_adate": "2007-06-05",
+  "date_available": "2014-03-14T20:12:10Z",
+  "date_issued": "2007-05-10",
+  "date_rdate": "2007-06-05",
+  "date_sdate": "2007-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "To reduce complexity of system analysis and control design, simplified models that capture the behavior of interest in the original system can be obtained.  These simplified models, called abstractions, can be analyzed more easily than the original complex model.  Hierarchies of consistent abstractions can significantly reduce the complexity in determining the reachability properties of nonlinear systems.  Such consistent hierarchies of reachability-preserving nonlinear abstractions are considered for the robotic car.  Not only can these abstractions be analyzed with respect to some behavior of interest, they can also be used to transfer control design for the complex model to the simplified model.  In this work, the abstraction is applied to the car/unicycle system.  Working towards control design, it is seen that there are certain classes of trajectories that exist in the rolling disk system that cannot be achieved by the robotic car.  In order to account for these cases, the new concepts of traceability and &#949-traceability are introduced. <p> This work also studies the relationship between the evolution of uncertain initial conditions in abstracted control systems.  It is shown that a control system abstraction can capture the time evolution of the uncertainty in the original system by an appropriate choice of control input.  Abstracted control systems with stochastic initial conditions show the same behavior as systems with deterministic initial conditions.  A conservation law is applied to the probability density function (pdf) requiring that the area under it be unity.  Application of the convservation law results in a partial differential equation known as the Liouville equation, for which a closed form solution is known.  The solution provides the time evolution of the initial pdf which can be followed by the abstracted system.",
+  "description_provenance": [
+    "Author Email: pmellodg@vt.edu",
+    "Advisor Email: pushkin@vt.edu",
+    "Advisor Email: day@math.vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:10Z (GMT). No. of bitstreams: 1 Mellodge-etd1.pdf: 1233698 bytes, checksum: 1c0fb5468f116ed967ea6fb95fef0ce4 (MD5)   Previous issue date: 2007-05-10"
+  ],
+  "handle": "27758",
+  "identifier_other": "etd-05172007-112915",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172007-112915/",
+  "identifier_uri": "http://hdl.handle.net/10919/27758",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Mellodge-etd1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "abstraction",
+    "traceability",
+    "mobile robots",
+    "nonholonomic systems",
+    "feedback control"
+  ],
+  "title": "Model Abstraction in Dynamical Systems: Application to Mobile Robot Control",
+  "type": "Dissertation"
+}

@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Bai, Yuming",
+  "contributor_committeechair": "Huang, Alex Q.",
+  "contributor_committeemember": [
+    "Boroyevich, Dushan",
+    "Lai, Jih-Sheng Jason",
+    "Lu, Guo-Quan",
+    "Ha, Dong Sam"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:04Z",
+  "date_adate": "2003-09-12",
+  "date_available": "2014-03-14T20:16:04Z",
+  "date_issued": "2003-08-28",
+  "date_rdate": "2006-09-12",
+  "date_sdate": "2003-09-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Evolutions in microprocessor technology require the use of a high-frequency synchronous buck converter (SBC) in order to achieve low cost, low profile, fast transient response and high power density. However, high frequency also causes more power loss on MOSFETs. Optimization of the MOSFETs plays an important role in the system performance.  Circuit and device modeling is important in understanding the relationship between the device parameters and the power loss. The gate-to-drain charge (Qgd) is studied by a novel nonlinear model and compared with the simulation results. A new switching model is developed, which takes into account the effect of parasitic inductance on the switching process. Another model for dv/dt-induced false triggering-on relates the false-trigger-on voltage with the parasitic elements of the device and the circuits.  Some techniques are proposed to reduce the simulation time of FEA in the circuit simulation. Based on this approach, extensive simulations are performed to study the switching performance of the MOSFET with the effect of the parasitic elements. Directed by the analytical models and the experience acquired in the circuit simulation, the MOSFET optimization is realized using FEA. Different optimization algorithms are compared. The experimental results show that the optimized MOSFETs surpass the mainstream commercialized products in both cost and performance.",
+  "description_provenance": [
+    "Author Email: ybai2@vishay.com",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: dha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:04Z (GMT). No. of bitstreams: 1 dissertation.pdf: 2194794 bytes, checksum: fc40cc3d24d963573ae83a90c9d9bcca (MD5)   Previous issue date: 2003-08-28"
+  ],
+  "handle": "28915",
+  "identifier_other": "etd-09092003-235330",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09092003-235330/",
+  "identifier_uri": "http://hdl.handle.net/10919/28915",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Optimization",
+    "Buck Converter",
+    "Trench MOSFET"
+  ],
+  "title": "Optimization of Power MOSFET for High-Frequency Synchronous Buck Converter",
+  "type": "Dissertation"
+}

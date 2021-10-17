@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Wang, Chuanyun",
+  "contributor_committeecochair": [
+    "Xu, Ming",
+    "Lee, Fred C."
+  ],
+  "contributor_committeemember": [
+    "Wang, Linbing",
+    "Baumann, William T.",
+    "Boroyevich, Dushan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:07Z",
+  "date_adate": "2009-08-25",
+  "date_available": "2014-03-14T20:15:07Z",
+  "date_issued": "2009-07-21",
+  "date_rdate": "2009-08-25",
+  "date_sdate": "2009-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the rapid evolving IT technologies, today, the power factor correction (PFC) design is facing many challenges, such as power scalability, high entire-load-range efficiency, and high power density. Power scalability is a very desirable and cost-effective approach in the PFC design in order to keep up with serversâ   growing power requirements. Higher power density can eventually reduce the converter cost and allows for accommodating more equipment in the existing infrastructures. Driven strongly by economic and environmental concerns, high entire-load-range efficiency is more and more required by various organizations and programs, such as the U.S. Energy Star, Climate Savers, and German Blue Angel. Today, the existing boost PFC is reaching its limitations to meet these challenges simultaneously. Using the cutting-edge semiconductor devices, further efficiency improvement at light load is still needed. There are limited approaches available for increasing the power density due to the large EMI filter and inductor size. Interleaved multi-channel boost PFC is a promising candidate to meet those challenges, but the interleaved boost converter is a less explored area. On the other hand, the multi-channel interleaved buck converter for the VR application has been intensively studied and thoroughly explored. One basic approach of this study is trying to extend the existing knowledge and techniques obtained from multiphase buck converters to the multi-channel interleaved boost converters since there are similarities existed between the multi-phase buck and the multi-channel boost converters. The existing studies about the interleaving impact on the EMI filter design are based on the time domain ripple cancellation effect. This approach is good enough for most of the filter designs. However, unlike the conventional filter designs, the EMI filter design is a specification related process. Both the EMI standard and the EMI measurement are based on the frequency domain spectrum. Limited by the existing analysis approaches, it is difficult to provide a clear picture about how exactly the multi-channel interleaving will impact the EMI filter design. The interleaving impact on the Common Mode (CM) noise also has not been studied in any existing literatures for the same reason. In this study, the frequency domain analysis method was adopted. With the double Fourier integral transformation, a closed-form expression of all the harmonics of the noise sources can be obtained. With all the detailed phase relationship of the switching frequency harmonics and all the side band harmonics, the multi-channel interleaving impact on both the differential mode (DM) and CM filter design can be clearly understood and summarized.  According to the design curves provided, the EMI filter size can be effectively reduced by properly choosing the interleaving channel number and the switching frequency. The multi-channel interleaving impact on the output capacitor current ripple is also studied and summarized in this dissertation. It should be pointed out that interleaving only reduces the total input and output current ripples; the inductor current in each channel still has large ripple if small inductance is used. Similar to the multi-phase buck converter, coupling inductors result in different equivalent inductances for input current ripple and inductor current ripple for boost converters. Keeping the inductor current ripple magnitude the same, inverse coupling inductors between the interleaved channels can reduce the inductor size. However, the DM filter size is increased due to larger input current. Based on the investigation on the total magnetic component weight, inverse coupling inductor can reduce the total magnetic component weight. The reduction is more pronounced for lower switching frequency design when the inductor size is dominating among the total magnetic components. Based on the harmonic cancellation, and with all the detailed phase relationship of the switching frequency harmonics and all the side band harmonics, a novel phase angle control method is proposed to maximize the reduction of the EMI filter. For example, in a 2-channel interleaved PFC, just by changing the interleaving scheme to 90 degree phase shift, 39% total volume reduction of the EMI filter can be achieved. The proposed phase angle controlled multi-channel PFC is experimentally demonstrated and verified on a digital controlled 4-channel PFC. The phase angle control method proposed in the multi-channel boost converter can be applied back to the multi-phase buck converter as well. The harmonic cancellation principle will be the same as the multi-channel boost converter. The same benefits can be obtained when the requirement is defined in the frequency domain, e.g. the EMI Standard. The interleaved multi-channel configuration makes it possible to implement the phase-shedding to improve the PFC light load efficiency. By decreasing the number of active channels according to the load, the PFC light load efficiency can be optimized. However, shedding phases can reduce the ripple cancellation effect as well, which will result in the EMI noise increase and losing the benefit on the EMI filter. By applying the proposed phase-shedding with phase angle control strategy, the phase shedding impact on the EMI filter design can be minimized. The light load efficiency can be improved without compromising the EMI filter size. Then, adaptive frequency controlled PFC is proposed to further improve the PFC light load efficiency. The proposed light load efficiency improvement strategies are combined and implemented on the platform of the digital controlled 4-channel PFC. The benefit of improving the light load efficiency is experimentally verified. The EMI performance is also evaluated with the EMI measurement results obtained from the PFC prototype. Following the same approach explored, the benefits of interleaved boost converter can be further extended other applications, such as the boost converter in the Hybrid Electric Vehicles (HEV) and photovoltaic (PV) system.",
+  "description_provenance": [
+    "Author Email: cwang@vt.edu",
+    "Advisor Email: lbwang@vt.edu",
+    "Advisor Email: baumann10@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: mingxu@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:07Z (GMT). No. of bitstreams: 1 ETD_CWang_Final08252009.pdf: 3653693 bytes, checksum: 7c4678580813d9d5a07ccda82e6625ef (MD5)   Previous issue date: 2009-07-21"
+  ],
+  "handle": "28635",
+  "identifier_other": "etd-08122009-125742",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122009-125742/",
+  "identifier_uri": "http://hdl.handle.net/10919/28635",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_CWang_Final08252009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Boost Converter",
+    "Power Factor Correction (PFC)",
+    "Multi-Channel Interleaving",
+    "Phase Angle Control"
+  ],
+  "title": "Investigation on Interleaved Boost Converters and Applications",
+  "type": "Dissertation"
+}

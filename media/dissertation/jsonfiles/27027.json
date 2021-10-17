@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Sullivan, Kelly Ann",
+  "contributor_committeechair": "Jacobson, Sheldon H.",
+  "contributor_committeemember": [
+    "Nachlas, Joel A.",
+    "Ye, Keying",
+    "Sherali, Hanif D.",
+    "Kobza, John E."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:08Z",
+  "date_adate": "1999-04-21",
+  "date_available": "2014-03-14T20:10:08Z",
+  "date_issued": "1999-04-12",
+  "date_rdate": "1999-04-21",
+  "date_sdate": "1999-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Generalized hill climbing (GHC) algorithms provide a unifying framework for describing several discrete optimization problem local search heuristics, including simulated annealing and tabu search. A necessary and a sufficient convergence condition for GHC algorithms are presented.   <p> The convergence conditions presented in this dissertation are based upon a new iteration classification scheme for GHC algorithms. The convergence theory for particular formulations of GHC algorithms is presented and the implications discussed. Examples are provided to illustrate the relationship between the new convergence conditions and previously existing convergence conditions in the literature. The contributions of the necessary and the  sufficient convergence conditions for GHC algorithms are discussed and future research endeavors are suggested.",
+  "description_provenance": [
+    "Author Email: sullivak@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Advisor Email: jacobson@vt.edu",
+    "Advisor Email: keying@vtvm1.cc.vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: jkobza@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:08Z (GMT). No. of bitstreams: 1 etd.pdf: 730123 bytes, checksum: cb7f0f1a7193071660c107e39a941042 (MD5)   Previous issue date: 1999-04-12"
+  ],
+  "handle": "27027",
+  "identifier_other": "etd-041999-213806",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-041999-213806/",
+  "identifier_uri": "http://hdl.handle.net/10919/27027",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "heuristics",
+    "discrete optimization",
+    "local search",
+    "simulated annealing",
+    "convergence",
+    "combinatorial optimization",
+    "hill climbing algorithms",
+    "Markov chain"
+  ],
+  "title": "A Convergence Analysis of Generalized Hill Climbing Algorithms",
+  "type": "Dissertation"
+}

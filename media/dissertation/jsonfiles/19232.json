@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Kandas, Ishac Lamei Nagiub",
+  "contributor_committeechair": "Xu, Yong",
+  "contributor_committeemember": [
+    "Pickrell, Gary R",
+    "Wang, Anbo",
+    "Okaz, Ali Mohamed",
+    "Heflin, James R",
+    "Riad, Sedki Mohamed"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-02-19T22:39:24Z",
+  "date_available": "2013-02-19T22:39:24Z",
+  "date_issued": "2013-01-22",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "A major limitation of silica-based high-Q microcavities is the lack of functionalities such as gain, plasmonic resonance, and second-order nonlinearity. Silica possesses third order nonlinearity but cannot produce second order nonlinearity, plasmonic resonances, or fluorescence emission. The key to overcome this deficiency is to develop versatile methods that can functionalize the surface of a silica microsphere with appropriate nanomaterials. The goal of this thesis is to present and characterize an electrostatic self-assembly based approach that can incorporate a large number of functional materials onto the surface of a silica resonator with nanoscale control. We consider several types of functional materials: polar ionic self-assembled multilayer (ISAM) films that possess second order nonlinearities, Au nanoparticles (NPs) that support plasmonic resonances, and fluorescent materials such as CdSe/ZnS core/shell QDs. <br />A major part of this thesis is to investigate the relationship between cavity Q factors and the amount of nanomaterials deposited onto the silica microspheres. In particular, we fabricate multiple functional microspheres with different ISAM film thickness and Au NPs density. We find that the Q factors of these microspheres are mainly limited by optical absorption in the case of the ISAM film, and a combination of optical absorption and scattering in the case of the Au NPs. By controlling the number of polymer layers or the NPs density, we can adjust the Q factors of these functional microspheres in the range of 106 to 107. An agreement between theoretical prediction and experimental data was obtained. The results may also be generalized to other functional materials including macromolecules, dyes, and non-spherical plasmonic NPs. <br />We also study the adsorption of Au NPs onto spherical silica surface from quiescent particle suspensions. The surfaces consist of microspheres fabricated from optical fibers and were coated with a polycation, enabling irreversible nanosphere adsorption. Our results fit well with theory, which predicts that particle adsorption rates depend strongly on surface geometry. This is particularly important for plasmonic sensors and other devices fabricated by depositing NPs from suspensions onto surfaces with non-trivial geometries.<br />We use two additional examples to illustrate the potential applications of this approach. First, we explored the possibility of achieving quasi-phase-matching (QPM) in a silica fiber taper coated with nonlinear polymers. Next, we carry out a preliminary investigation of lasing in a silica fiber coated with CdSe/ZnS core/shell quantum dots (QDs).<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:39:24Z (GMT). No. of bitstreams: 2 Kandas_IL_D_2013.pdf: 4199091 bytes, checksum: b015422ac1ed4c7832264b5d5ca3cb9f (MD5) Kandas_IL_D_2013_support_1.pdf: 203362 bytes, checksum: 9038e8f413012398751ad07c1b077d9a (MD5)   Previous issue date: 2013-01-22",
+  "format_medium": "ETD",
+  "handle": "19232",
+  "identifier_other": "vt_gsexam:118",
+  "identifier_uri": "http://hdl.handle.net/10919/19232",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Optical resonator",
+    "Microsphere",
+    "Fiber taper",
+    "Quality factor",
+    "Polymer",
+    "Nanoparticles",
+    "Quantum dots",
+    "Nonlinearity."
+  ],
+  "title": "Silica Microspheres Functionalized  with Self-assembled Nanomaterials",
+  "type": "Dissertation"
+}

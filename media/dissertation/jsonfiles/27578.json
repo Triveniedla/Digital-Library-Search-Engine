@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Fahmy, Sherif Fadel",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Jones, Mark T.",
+    "Plassmann, Paul E.",
+    "Hou, Yiwei Thomas",
+    "Hegazy, Tamir A.",
+    "Jensen, E. Douglas",
+    "Sarin, Subhash C."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:40Z",
+  "date_adate": "2010-06-17",
+  "date_available": "2014-03-14T20:11:40Z",
+  "date_issued": "2010-05-05",
+  "date_rdate": "2010-06-17",
+  "date_sdate": "2010-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation, we consider the problem of scheduling and synchronization of distributable real-time threads --- Real-Time CORBA's first-class abstraction for programming real-time, multi-node sequential behaviors. Distributable real-time threads can be scheduled, broadly, using two paradigms: node independent scheduling, in which nodes independently construct thread schedules, based on node-level decomposition of distributable thread (or DT) scheduling parameters, and collaborative scheduling, in which nodes collaborate to construct system-wide thread schedules, which may or may not involve scheduling parameter decomposition. <p> While significant literature exists on node independent scheduling, little is known about collaborative scheduling and its concomitant tradeoffs. We design three collaborative scheduling algorithms, called ACUA, QBUA, and DQBUA. ACUA uses theory of consensus and QBUA uses theory of quorums for distributable thread schedule construction. DQBUA extends QBUA with lock-based, local and distributed concurrency control. The algorithms consider a model where distributable threads arrive arbitrarily, have time/utility function time constraints, access resources in an arbitrary way (e.g., arbitrary lock acquire/release order, arbitrary nestings), and are subject to arbitrary node crash failures and message losses. <p> We analytically establish several properties of the algorithms including probabilistic end-to-end termination time satisfactions, timeliness optimality during underloads, bounded exception handling time, and correctness of the algorithms in partially synchronous systems. <p> We implement distributable real-time threads in the Linux kernel as a first-class programming and scheduling abstraction. The resulting kernel, called ChronOS, provides application interfaces for creating and manipulating distributable threads, as well as kernel interfaces and mechanisms for scheduling them (using both independent and collaborative approaches). ChronOS also has failure detector mechanisms for detecting and recovering from distributable thread failures. <p> We implement the proposed scheduling algorithms and their competitors in ChronOS and compare their behavior. Our studies reveal that the collaborative scheduling algorithms are superior to independent scheduling algorithms for certain thread sets, in particular, when thread sections have significantly varying execution time. This variability, especially if the variability is not consistent among the threads, may cause each node to make conflicting decisions in the absence of global information. We observe that collaborative schedulers outperform independent schedulers (e.g., EDF augmented with PIP) in terms of accrued utility by as much as 75%.  <p> We identify distributed dependencies as one of the major sources of overhead in collaborative scheduling. In particular, the cost of distributed lock-based concurrency control (e.g., lock management, distributed deadlock detection/resolution) can significantly reduce the problem space for which collaborative scheduling is beneficial. To mitigate this, we consider the use of software transactional memory (or STM), an optimistic, non-blocking synchronization alternative to lock-based concurrency control which has been extensively studied in non real-time contexts. We consider distributable real-time threads with STM concurrency control, and develop techniques for analyzing and bounding their end-to-end response times on distributed single-processor and distributed multiprocessor systems. We also develop contention management techniques, a key component of STM, which are driven by threads' real-time scheduling parameters, and establish their tradeoffs against non-real-time contention managers.",
+  "description_provenance": [
+    "Author Email: fahmy@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: plassmann@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: tamir.hegazy@gmail.com",
+    "Advisor Email: binoy@vt.edu",
+    "Advisor Email: jensen@real-time.org",
+    "Advisor Email: sarins@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:40Z (GMT). No. of bitstreams: 1 Fahmy_SF_D_2010.pdf: 2055441 bytes, checksum: 08200b266099740e46aab0c3b609f7e0 (MD5)   Previous issue date: 2010-05-05"
+  ],
+  "handle": "27578",
+  "identifier_other": "etd-05072010-074318",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072010-074318/",
+  "identifier_uri": "http://hdl.handle.net/10919/27578",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Fahmy_SF_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Time/Utility Functions",
+    "Utility Accrual Scheduling",
+    "Distributed Real-Time Scheduling",
+    "Software Transactional Memory"
+  ],
+  "title": "Collaborative Scheduling and Synchronization of Distributable Real-Time Threads",
+  "type": "Dissertation"
+}

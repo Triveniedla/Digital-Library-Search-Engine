@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Davison, Sneha Patel",
+  "contributor_committeechair": "Case, Scott W.",
+  "contributor_committeemember": [
+    "Reifsnider, Kenneth L.",
+    "Davis, Richey M.",
+    "Hendricks, Scott L.",
+    "Loos, Alfred C."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T18:53:07Z",
+  "date_adate": "2004-01-08",
+  "date_available": "2011-08-22T18:53:07Z",
+  "date_issued": "2003-11-05",
+  "date_rdate": "2004-01-08",
+  "date_sdate": "2003-11-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Carbon/epoxy laminates are receiving greater attention by the infrastructure, marine, and offshore oil industries due to the need for superior performance capabilities. Such applications generally involve subjecting materials to harsh temperature and moisture conditions.  The objective of this study was to provide a greater understanding of how temperature and moisture affect the strength and fatigue behavior of carbon/epoxy composites and the issues involved in modeling these effects.  Results from thermal analysis and quasi-static testing on neat resin and unidirectional laminates as a function of temperature and moisture are presented which provide insight into how material properties vary with temperature and moisture and form the inputs necessary to evaluate composite strength and damage models.  Fatigue life and damage accumulation testing results provide further insight into the effects of temperature and moisture and also provide a means for model validation.   Generally, composite strength was found to be compromised by temperature but enhanced with moisture, while fatigue life was reduced by both temperature and moisture.  Crack density with fatigue cycles was found to decrease with temperature but increase for immersed fatigue.  Testing also revealed discrepancies between the edge replication and radiography methods for determining crack density.   The analytical phase of the work considered a composite strength model and a damage evolution model to predict crack density.  The composite strength model was found to provide an accurate dry, room temperature prediction which could be extended to an accurate prediction of wet specimen strength, but the results at elevated temperature fell conservative.  The validation of the damage model proved inconclusive as it was found that the results are very sensitive to quantities such as thermal residual stresses and first ply failure.  Currently, no reliable methods are available in the literature to determine these values accurately.  However, the model was able to predict the decrease in crack density at elevated temperatures.  The increase in crack density for immersed fatigue was not predicted.  Overall, the study revealed that a more basic understanding of \"in-situ\" ply properties are needed before one can consider the use of predictive models in practical applications, especially in varying environments.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:07Z (GMT). No. of bitstreams: 3  Dissertation2etdb.pdf: 1326590 bytes, checksum: 4d7ff1e3bef00ef40e82e05e72206146 (MD5)  AppendixB.nb: 187496 bytes, checksum: 66e63ab52d1253419c73db2b6b49479e (MD5)  AppendixA.nb: 11844 bytes, checksum: 38057fb71a0887cc8450fa8fcfd6b82a (MD5)    Previous issue date: 2003-11-05",
+    "Author Email: snpatel@vt.edu",
+    "Advisor Email: reifsnid@engr.uconn.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: aloos@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11087",
+  "identifier_other": "etd-11192003-134415",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11192003-134415",
+  "identifier_uri": "http://hdl.handle.net/10919/11087",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "AppendixB.nb",
+    "AppendixA.nb",
+    "Dissertation2etdb.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Polymer Composite",
+    "Strength",
+    "Fatigue",
+    "Durability",
+    "Temperature",
+    "Moisture"
+  ],
+  "title": "Enviro-Mechanical Durability of Graphite/Epoxy Composite Materials",
+  "type": "Dissertation"
+}

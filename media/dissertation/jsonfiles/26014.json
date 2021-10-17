@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Mateescu, Gabriel",
+  "contributor_committeechair": "Ribbens, Calvin J.",
+  "contributor_committeemember": [
+    "Kafura, Dennis G.",
+    "Watson, Layne T.",
+    "Beattie, Christopher A.",
+    "Allison, Donald C. S."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:06:48Z",
+  "date_adate": "1999-01-19",
+  "date_available": "2014-03-14T20:06:48Z",
+  "date_issued": "1998-12-14",
+  "date_rdate": "2000-01-19",
+  "date_sdate": "1999-01-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Accelerating the convergence rate of Krylov subspace methods with parallelizable preconditioners is essential for obtaining effective iterative solvers for very large linear systems of equations. Substructuring provides a framework for constructing robust and parallel preconditioners for linear systems arising from the discretization of boundary value problems. Although collocation is a very general and effective discretization technique for many PDE problems, there has been relatively little work on preconditioners for collocation problems.  <p> This thesis proposes two preconditioning methods for solving linear systems of equations arising from Hermite bicubic collocation discretization of elliptic partial differential equations on square domains with mixed boundary conditions.  The first method, called <i>edge preconditioning</i>,  is based on a decomposition of the domain in parallel strips,   and the second, called  <i>edge-vertex preconditioning</i>,  is based on a two-dimensional decomposition.   The preconditioners are derived in terms of two special rectangular grids -- a coarse grid with diameter <i>H</i> and a hybrid coarse/fine grid -- which together with the fine grid of diameter <i>h</i> provide the framework for approximating the interface problem induced by substructuring.  <p> We show that the proposed methods are effective for nonsymmetric indefinite problems, both from the point of view of the cost per iteration and of the number of iterations. For an appropriate choice of <i>H</i>, the edge preconditioner requires  <i>O(N)</i> arithmetic operations per iteration, while the edge-vertex preconditioner requires  <i>O(N<sup> 4/3 </sup>)</i> operations,  where <i>N</i> is the number of unknowns.  For the edge-vertex preconditioner, the number of iterations is almost constant when <i>h</i> and <i>H</i> decrease such that  <i>H/h</i> is held constant and it  increases very slowly with  <i>H</i> when <i>h</i> is held constant. For both the edge- and edge-vertex preconditioners the number of iterations depends only weakly on <i>h</i> when <i>H</i>  is constant.   The edge-vertex preconditioner outperforms the edge-preconditioner for small enough <i>H</i>. Numerical experiments illustrate the parallel efficiency of the preconditioners which is similar or even better than that provided by the well-known PETSc parallel software library for scientific computing.",
+  "description_provenance": [
+    "Author Email: mateescu@acm.org",
+    "Advisor Email: kafura@cs.vt.edu",
+    "Advisor Email: ltw@cs.vt.edu",
+    "Advisor Email: ribbens@cs.vt.edu",
+    "Advisor Email: beattie@math.vt.edu",
+    "Advisor Email: allison@vtopus.cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:48Z (GMT). No. of bitstreams: 1 thesis.pdf: 1181323 bytes, checksum: 23d7f827ead5338b517eaddbed0a11df (MD5)   Previous issue date: 1998-12-14"
+  ],
+  "handle": "26014",
+  "identifier_other": "etd-011999-204811",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-011999-204811/",
+  "identifier_uri": "http://hdl.handle.net/10919/26014",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Interface Preconditioners",
+    "GMRES",
+    "Schur Complement",
+    "Collocation"
+  ],
+  "title": "Domain Decomposition Preconditioners  for Hermite Collocation Problems",
+  "type": "Dissertation"
+}

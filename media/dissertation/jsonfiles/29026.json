@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Anderson, Christopher Robert",
+  "contributor_committeecochair": [
+    "Reed, Jeffrey Hugh",
+    "Buehrer, Richard Michael"
+  ],
+  "contributor_committeemember": [
+    "Sweeney, Dennis G.",
+    "Brown, Ezra A.",
+    "Ramu, Krishnan",
+    "Athanas, Peter M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:27Z",
+  "date_adate": "2006-11-14",
+  "date_available": "2014-03-14T20:16:27Z",
+  "date_issued": "2006-09-07",
+  "date_rdate": "2006-11-14",
+  "date_sdate": "2006-09-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Impulse Ultra Wideband (UWB) communications is an emerging technology that promises a number of benefits over traditional narrowband or broadband signals:  extremely high data rates, extremely robust operation in dense multipath environments, low probability of intercept/detection, and the ability to operate concurrently with existing users.  Unfortunately, most currently available UWB systems are based on dedicated hardware, preventing researchers from investigating algorithms or architectures that take advantage of some of the unique properties of UWB signals.   This dissertation outlines the development of a general purpose software radio transceiver testbed for UWB signals.  The testbed is an enabling technology that provides a development platform for investigating ultra wideband communication algorithms (e.g., acquisition, synchronization, modulation, multiple access), ranging or radar (e.g., precision position location, intrusion detection, heart and respiration rate monitoring), and could potentially be used in the area of ultra wideband based medical imaging or vital signs monitoring.  As research into impulse ultra wideband expands, the need is greater now than ever for a platform that will allow researchers to collect real-world performance data to corroborate theoretical and simulation results.   Additionally, this dissertation outlines the development of the Time-Interleaved Analog to Digital Converter array which served as the core of the testbed, along with a comprehensive theoretical and simulation-based analysis on the effects of Analog to Digital Converter mismatches in a Time-Interleaved Sampling array when the input signal is an ultra wideband Gaussian Monocycle.  Included in the discussion is a thorough overview of the implementation of both a scaled-down prototype as well as the final version of the testbed.  This dissertation concludes by evaluating the of the transceiver testbed in terms of the narrowband dynamic range, the accuracy with which it can sample and reconstruct a UWB pulse, and the bit error rate performance of the overall system.",
+  "description_provenance": [
+    "Author Email: chanders@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Advisor Email: ezbrown@vt.edu",
+    "Advisor Email: kramu@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:27Z (GMT). No. of bitstreams: 7 Transmitter_Board.zip: 124501 bytes, checksum: 2640355adbca6a4c63619de6a07a0cb6 (MD5) Digital_Board.zip: 1129923 bytes, checksum: 5292bfc63dc9152311fafb2a4ff994b4 (MD5) DC_Power_Board.zip: 134053 bytes, checksum: 6217901408075832d6b16399826e9f37 (MD5) Negative_DC_Power.zip: 24616 bytes, checksum: 5f8ad92116a84f164e9a2cb73c9093af (MD5) Prototype_RX.zip: 367991 bytes, checksum: 393fdb594c6ee6550b9fbb8cca7e7f9f (MD5) Positive_DC_Power.zip: 25028 bytes, checksum: 3f60efe6aff08c96e960926c95a4247d (MD5) Anderson_Final_ETD_Version.pdf: 42248023 bytes, checksum: 3fb8e4a017c95933bb357fba199c2495 (MD5)   Previous issue date: 2006-09-07"
+  ],
+  "handle": "29026",
+  "identifier_other": "etd-09192006-230733",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09192006-230733/",
+  "identifier_uri": "http://hdl.handle.net/10919/29026",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Transmitter_Board.zip",
+    "Digital_Board.zip",
+    "DC_Power_Board.zip",
+    "Negative_DC_Power.zip",
+    "Prototype_RX.zip",
+    "Positive_DC_Power.zip",
+    "Anderson_Final_ETD_Version.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Software Defined Radio (SDR)",
+    "Ultra Wideband",
+    "Time Interleaved Sampling",
+    "FPGA",
+    "Analog to Digital Converter (ADC)",
+    "High Speed Digital Design"
+  ],
+  "title": "A Software Defined Ultra Wideband Transceiver Testbed for Communications, Ranging, or Imaging",
+  "type": "Dissertation"
+}

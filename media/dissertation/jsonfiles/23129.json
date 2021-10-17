@@ -1,0 +1,32 @@
+{
+  "contributor_author": "Wu, Yuchang",
+  "contributor_committeechair": "Asryan, Levon Volodya",
+  "contributor_committeemember": [
+    "Pickrell, Gary R",
+    "Orlowski, Mariusz Kriysztof",
+    "Guido, Louis J"
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2013-06-04T08:00:23Z",
+  "date_available": "2013-06-04T08:00:23Z",
+  "date_issued": "2013-06-03",
+  "degree_discipline": "Materials Science and Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In this dissertation, a theory of modulation response of a semiconductor quantum dot (QD) laser is developed. The effect of the following factors on the modulation bandwidth of a QD laser is studied and the following results are obtained:<br /><br />1) Carrier capture delay from the optical confinement layer into QDs<br /><br />Closed-form analytical expressions are obtained for the modulation bandwidth omega_{-3 dB} of a QD laser in the limiting cases of fast and slow capture into QDs. omega_{-3 dB} is highest in the case of instantaneous capture into QDs, when the cross-section of carrier capture into a QD sigma_n = infinity. With reducing sigma_n, omega_{-3 dB} decreases and becomes zero at a certain non-vanishing sigma_n^{min}. This sigma_n^{min} presents the minimum tolerable capture cross-section for the lasing to occur at a given dc component j_0 of the injection current density. The higher is j_0, the smaller is sigma_n^{min} and hence the direct modulation of the output power is possible at a slower capture. The use of multiple layers with QDs is shown to considerably improve the modulation response of the laser -- the same omega_{-3 dB} is obtained in a multi-layer structure at a much lower j_0 than in a single-layer structure.<br /><br />2) Internal optical loss in the optical confinement layer<br /><br />The internal optical loss, which increases with free-carrier density in the waveguide region, considerably reduces the modulation bandwidth omega_{-3 dB} of a QD laser. With internal loss cross-section sigma_int increasing and approaching its maximum tolerable value, the modulation bandwidth decreases and becomes zero. There exists the optimum cavity length, at which omega_{-3 dB} is highest; the larger is sigma_int, the longer is the optimum cavity.<br /> <br />3) Excited states in QDs<br /><br />Direct and indirect (excited-state-mediated) mechanisms of capture of carriers from the waveguide region into the lasing ground state in QDs are considered, and the modulation response of a laser is calculated. It is shown that, when only indirect capture is involved, the excited-to-ground-state relaxation delay strongly limits the ground-state modulation bandwidth of the laser -- at the longest tolerable relaxation time, the bandwidth becomes zero. When direct capture is also involved, the effect of excited-to-ground-state relaxation is less significant and the modulation bandwidth is considerably higher.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-04T08:00:23Z (GMT). No. of bitstreams: 2 Wu_Y_D_2013.pdf: 1727468 bytes, checksum: ce70d15bcac2580d4e026bb69b20119d (MD5) Wu_Y_D_2013_support_1.zip: 565880 bytes, checksum: 2f5f2407432bc73d0eba74080bd0ae7d (MD5)   Previous issue date: 2013-06-03",
+  "format_medium": "ETD",
+  "handle": "23129",
+  "identifier_other": "vt_gsexam:522",
+  "identifier_uri": "http://hdl.handle.net/10919/23129",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "quantum dot lasers",
+    "semiconductor lasers"
+  ],
+  "title": "Theory of Modulation Response of Semiconductor Quantum Dot Lasers",
+  "type": "Dissertation"
+}

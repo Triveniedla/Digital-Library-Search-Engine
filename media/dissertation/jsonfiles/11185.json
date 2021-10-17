@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Hong, Seong-Jong",
+  "contributor_committeechair": "Bish, Ebru K.",
+  "contributor_committeemember": [
+    "Koelling, Charles Patrick",
+    "Hale, Trevor S.",
+    "Lin, Kyle Y.",
+    "Sherali, Hanif D."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2011-08-22T19:02:11Z",
+  "date_adate": "2004-05-28",
+  "date_available": "2011-08-22T19:02:11Z",
+  "date_issued": "2004-04-30",
+  "date_rdate": "2006-05-28",
+  "date_sdate": "2004-05-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We study the benefits of resource flexibility, considering two different flexibility structures. First, we want to understand the impact of the firm's pricing strategy on its resource investment decision, considering a partially flexible resource. Secondly, we study the benefits of a flexible resource strategic approach, considering a resource flexibility structure that has not been studied in the previous literature.  First, we study the capacity investment decision faced by a firm that offers two products/services and that is a price-setter for both products/services. The products offered by the firm are of varying levels (complexities), such that the resources that can be used to produce the higher level product can also be used to produce the lower level one. Although the firm needs to make its capacity investment decision under high demand uncertainty, it can utilize this limited (downward) resource flexibility, in addition to pricing, to more effectively match its supply with demand. Sample applications include a service company, whose technicians are of different capabilities, such that a higher level technician can perform all tasks performed by a lower level technician; a firm that owns a main plant, satisfying both end-product and intermediate-product demand, and a subsidiary, satisfying the intermediate-product demand only. We formulate this decision problem as a two-stage stochastic programming problem with recourse, and characterize the structural properties of the firm's optimal resource investment strategy when resource flexibility and pricing flexibility are considered in the investment decision.  We show that the firm's optimal resource investment strategy follows a threshold policy. This structure allows us to understand the impact of coordinated decision-making, when the resource flexibility is taken into account in the investment decision, on the firm's optimal investment strategy, and establish the conditions under which the firm invests in the flexible resource. We also study the impact of demand correlation on the firm's optimal resource investment strategy, and show that it may be optimal for the firm to invest in both flexible and dedicated resources when product demand patterns are perfectly positively correlated. Our results offer managerial principles and insights on the firm's optimal resource investment strategy as well as extend the newsvendor problem with pricing, by allowing for multiple resources (suppliers), multiple products, and resource pooling.  Secondly, we study the benefits of a delayed decision making strategy under demand uncertainty, considering a system that satisfies two demand streams with two capacitated and flexible resources. Resource flexibility allows the firm to delay its resource allocation decision to a time when partial information on demands is obtained and demand uncertainty is reduced. We characterize the structure of the firm's optimal delayed resource allocation strategy. This characterization allows us to study how the revenue benefits of the delayed resource allocation strategy depend on demand and capacity parameters, and the length of the selling season. Our study shows that the revenue benefits of this strategy can be significant, especially when demand rates of the different types are close, while resource capacities are much different. Based on our analysis, we provide guidelines on the utilization of such strategies.  Finally, we incorporate the uncertainty in demand parameters into our models and study the effectiveness of several delayed capacity allocation mechanisms that utilize the resource flexibility. In particular, we consider that demand forecasts are uncertain at the start of the selling season and are updated using a Bayesian framework as early demand figures are observed. We propose several heuristic capacity allocation policies that are easy to implement as well as a heuristic procedure that relies on a stochastic dynamic programming formulation and perform a numerical study. Our study determines the conditions under which each policy is effective.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:11Z (GMT). No. of bitstreams: 1  dissertation_final.pdf: 363907 bytes, checksum: 8986c90b1b1f3a237fce5252b76f6085 (MD5)    Previous issue date: 2004-04-30",
+    "Author Email: sehong1@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Advisor Email: thale@bobcat.ent.ohiou.edu",
+    "Advisor Email: kylin@vt.edu",
+    "Advisor Email: hanifs@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11185",
+  "identifier_other": "etd-05232004-072516",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05232004-072516",
+  "identifier_uri": "http://hdl.handle.net/10919/11185",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_final.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Demand Forecast Updating",
+    "Demand Uncertainty",
+    "Pricing Decision",
+    "Capacity Flexibility",
+    "Stochastic Programming"
+  ],
+  "title": "Analysis of the Benefits of Resource Flexibility, Considering Different Flexibility Structures",
+  "type": "Dissertation"
+}

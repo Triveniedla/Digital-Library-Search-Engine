@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Zhang, Yihua",
+  "contributor_committeechair": "Rakha, Hesham Ahmed",
+  "contributor_committeemember": [
+    "Kachroo, Pushkin",
+    "Teodorovic, Dusan",
+    "Tignor, Samuel C.",
+    "El-Shawarby, Ihab"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:12:14Z",
+  "date_adate": "2005-06-27",
+  "date_available": "2014-03-14T20:12:14Z",
+  "date_issued": "2005-05-09",
+  "date_rdate": "2006-06-27",
+  "date_sdate": "2005-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dissertation develops analytical models that estimate the capacity of freeway weaving sections. The analytical models are developed using simulated data that were compiled using the INTEGRATION software. Consequently, the first step of the research effort is to validate the INTEGRATION lane-changing modeling procedures and the capacity estimates that are derived from the model against field observations. The INTEGRATION software is validated against field data gathered by the University of California at Berkeley by comparing the lateral and longitudinal distribution of simulated and field observed traffic volumes categorized by O-D pair on nine weaving sections in the Los Angeles area. The results demonstrate a high degree of consistency between simulated and field observed traffic volumes within the various weaving sections. Subsequently, the second validation effort compares the capacity estimates of the INTEGRATION software to field observations from four weaving sections operating at capacity on the Queen Elizabeth Way (QEW) in Toronto, Canada. Again, the results demonstrate that the capacity estimates of the INTEGRATION software are consistent with the field observations both in terms of absolute values and temporal variability across different days. The error was found to be in the range of 10% between simulated and field observed capacities.    Prior to developing the analytical models, the dissertation presents a systematic analysis of the factors that impact the capacity of freeway weaving sections, which were found to include the length of the weaving section, the weaving ratio (a new parameter that is developed as part of this research effort), the percentage of heavy vehicles, and the speed limit differential between freeway and on- and off-ramps. The study demonstrates that the weaving ratio, which is currently defined as the ratio of the lowest weaving volume to the total weaving volume in the 2000 Highway Capacity Manual, has a significant impact on the capacity of weaving sections. The study also demonstrates that the weaving ratio is an asymmetric function and thus should reflect the source of the weaving volume. Consequently, a new definition for the weaving ratio is introduced that explicitly identifies the source of the weaving volume. In addition, the study demonstrates that the length of the weaving section has a larger impact on the capacity of weaving sections for short lengths and high traffic demands. Furthermore, the study demonstrates that there does not exist enough evidence to conclude that the speed limit differential between mainline freeway and on- and off-ramps has a significant impact on weaving section capacities. Finally, the study demonstrates that the HCM procedures model the heavy duty vehicle impacts reasonably well.    This dissertation presents the development of new capacity models for freeway weaving sections. In these models, a new definition of the weaving ratio that explicitly accounts for the source of weaving volume is introduced. The proposed analytical models estimate the capacity of weaving sections to within 12% of the simulated data, while the HCM procedures exhibit errors in the range of 114%. Among the newly developed models, the Artificial Neural Network (ANN) models performs slightly better that the statistical models in terms of model prediction errors. However, the sensitivity analysis results demonstrate unrealistic behavior of the ANN models under certain conditions. Consequently, the use of a statistical model is recommended because it provides a high level of accuracy while providing accurate model responses to changes in model input parameters (good response to the gradient of the input parameters).",
+  "description_provenance": [
+    "Author Email: yihua@vt.edu",
+    "Advisor Email: hrakha@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:14Z (GMT). No. of bitstreams: 1 dissertation_etd.pdf: 3975390 bytes, checksum: 4f1402f5999ce42a42041525a7e5920c (MD5)   Previous issue date: 2005-05-09"
+  ],
+  "handle": "27779",
+  "identifier_other": "etd-05182005-150531",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182005-150531/",
+  "identifier_uri": "http://hdl.handle.net/10919/27779",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Traffic Modeling",
+    "INTEGRATION Software",
+    "Highway Capacity Manual",
+    "Modeling of Weaving Sections",
+    "Freeway Capacity Analysis"
+  ],
+  "title": "Capacity Modeling of Freeway Weaving Sections",
+  "type": "Dissertation"
+}

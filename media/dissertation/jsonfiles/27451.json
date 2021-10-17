@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Nix, Andrew Carl",
+  "contributor_committeecochair": [
+    "Ng, Fai",
+    "Diller, Thomas E."
+  ],
+  "contributor_committeemember": [
+    "Dancey, Clinton L.",
+    "Thole, Karen A.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:18Z",
+  "date_adate": "2003-05-01",
+  "date_available": "2014-03-14T20:11:18Z",
+  "date_issued": "2003-04-04",
+  "date_rdate": "2004-05-01",
+  "date_sdate": "2003-04-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The influence of freestream turbulence representative of the flow downstream of a modern gas turbine combustor and first stage vane on turbine blade heat transfer has been measured and analytically modeled in a linear, transonic turbine cascade. Measurements were performed on a high turning, transonic turbine blade.  The facility is capable of heated flow with inlet total temperature of 120ÂºC and inlet total pressure of 10 psig.  The Reynolds number based on blade chord and exit conditions (5x106) and the inlet and exit Mach numbers (0.4 and 1.2, respectively) are representative of conditions in a modern gas turbine engine.  High intensity, large length-scale freestream turbulence was generated using a passive turbulence-generating grid to simulate the turbulence generated in modern combustors after it has passed through the first stage vane row.  The grid produced freestream turbulence with intensity of approximately 10-12% and an integral length scale of 2 cm near the entrance of the cascade passages, which is believed to be representative of the core flow entering a first stage gas turbine rotor blade row.  Mean heat transfer results showed an increase in heat transfer coefficient of approximately 8% on the suction surface of the blade, with increases on the pressure surface on the order of two times higher than on the suction surface (approximately 17%).  This corresponds to increases in blade surface temperature of 5-10%, which can significantly reduce the life of a turbine blade.  The heat transfer data were compared with correlations from published literature with good agreement. Time-resolved surface heat transfer and passage velocity measurements were performed to investigate and quantify the effects of the turbulence on heat transfer and to correlate velocity fluctuations with heat transfer fluctuations.  The data demonstrates strong coherence in velocity and heat flux at a frequency correlating with the most energetic eddies in the turbulence flow field (the integral length-scale).  An analytical model was developed to predict increases in surface heat transfer due to freestream turbulence based on local measurements of turbulent velocity fluctuations (u'RMS) and length-scale (Lx).  The model was shown to predict measured increases in heat flux on both blade surfaces in the current data.  The model also successfully predicted the increases in heat transfer measured in other work in the literature, encompassing different geometries (flat plate, cylinder, turbine vane and turbine blade) as well as both laminar and turbulent boundary layers, but demonstrated limitations in predicting early transition and heat transfer in turbulent boundary layers.  Model analyses in the frequency domain provided valuable insight into the scales of turbulence that are most effective at increasing surface heat transfer.",
+  "description_provenance": [
+    "Author Email: anix@vt.edu",
+    "Advisor Email: cld@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: thole@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:18Z (GMT). No. of bitstreams: 1 Nix2003.pdf: 9347531 bytes, checksum: 94cc04e4d496dc20cc1e4c57dca6a66f (MD5)   Previous issue date: 2003-04-04"
+  ],
+  "handle": "27451",
+  "identifier_other": "etd-04302003-115211",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04302003-115211/",
+  "identifier_uri": "http://hdl.handle.net/10919/27451",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Nix2003.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Turbine",
+    "Transonic Cascade",
+    "Freestream Turbulence",
+    "Heat Transfer"
+  ],
+  "title": "Effects of High Intensity, Large-Scale Freestream Combustor Turbulence On Heat Transfer in Transonic Turbine Blades",
+  "type": "Dissertation"
+}

@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Mejia-Ariza, Juan Manuel",
+  "contributor_committeechair": "Lesko, John J.",
+  "contributor_committeemember": [
+    "Dillard, David A.",
+    "Burns, John A.",
+    "Riffle, Judy S.",
+    "Case, Scott W.",
+    "Murphey, Thomas W."
+  ],
+  "contributor_department": "Macromolecular Science and Engineering",
+  "date_accessioned": "2014-03-14T20:12:28Z",
+  "date_adate": "2008-06-25",
+  "date_available": "2014-03-14T20:12:28Z",
+  "date_issued": "2008-01-30",
+  "date_rdate": "2010-06-25",
+  "date_sdate": "2008-05-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research presents a simplified framework for the analysis of deployable trusses using the concentrated strain approach and uses it to provide key insights into the many design decisions to be made in the development of concentrated strain architectures. The framework uses Euler Column Theory to derive closed form solutions to estimate truss performance. The results are compared to a classical solution and shown to give similar results. A range of strut and hinge hierarchy choices are considered. Trusses composed of solid rods with rectangular flexures are shown to have significant axial and bending stiffness reductions due to the smaller cross-sectional areas and lower modulus of the flexures. Trusses composed of tubes are less sensitive to this because the flexure cross-sectional area does not dramatically change from that of the tube. A hinge material metric that properly weights flexure strain and modulus is presented to provide a basis for the comparison and selection of proper hinge materials. However, based on this metric, new materials with higher folding failure strain and higher modulus are needed. Finally, a concentrated strain deployable truss of solid rods was designed, manufactured, and tested. A truss performance index for column loading was used to compare this system with a distributed strain ATK-ABLE GR1 coilable boom system and an articulated ATK-ABLE SRTM boom system. It was demonstrated that the concentrated strain approach has the potential to achieve a higher linear compaction ratio and truss performance index for mass efficient deployable trusses than the distributed strain approach and the articulated approach.",
+  "description_provenance": [
+    "Author Email: juan.mejiaariza@gmail.com",
+    "Advisor Email: dillard@vt.edu",
+    "Advisor Email: burns@silver.icam.vt.edu",
+    "Advisor Email: jriffle@vt.edu",
+    "Advisor Email: scase@exchange.vt.edu",
+    "Advisor Email: Thomas.Murphey@kirtland.af.mil",
+    "Advisor Email: jlesko@exchange.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:28Z (GMT). No. of bitstreams: 2 TitleJuanMejiaAriza.pdf: 8704 bytes, checksum: c1c24e8eabdbc752cd0fe53491abe275 (MD5) DisertationJuanMejiaAriza.pdf: 5800769 bytes, checksum: 537759159e08be97085fa76a50fe89b4 (MD5)   Previous issue date: 2008-01-30"
+  ],
+  "handle": "27850",
+  "identifier_other": "etd-05222008-192805",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05222008-192805/",
+  "identifier_uri": "http://hdl.handle.net/10919/27850",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "TitleJuanMejiaAriza.pdf",
+    "DisertationJuanMejiaAriza.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "concentrated strain approach",
+    "strain requirement",
+    "deployable trusses",
+    "hierarchical geometry",
+    "hinge material metric"
+  ],
+  "title": "Framework for Concentrated Strain Deployable Trusses",
+  "type": "Dissertation"
+}

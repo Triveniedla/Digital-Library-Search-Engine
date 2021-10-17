@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Zhang, Richard S.",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Hua, Guichao",
+    "Boroyevich, Dushan",
+    "Chen, Dan Y."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:29Z",
+  "date_adate": "1998-11-19",
+  "date_available": "2014-03-14T20:17:29Z",
+  "date_issued": "1998-11-17",
+  "date_rdate": "1999-11-19",
+  "date_sdate": "1998-10-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> This dissertation covers three levels of issues and solutions dealing with unbalanced and/or nonlinear situations in power electronic systems, namely power converter level, power converter system level, and large-scale power electronics system level.  <p> At power converter level, after review of traditional PWM methods, especially two-dimensional space vector modulation schemes, three-dimensional space vector modulation schemes are proposed for four-legged voltage source converters, including inverters and rectifiers. The four-legged power converters with three-dimensional space vector modulation schemes have a better DC link voltage utilization and result in a low distortion. It is an effective solution to provide the neutral point for a three-phase four-wire system and to handle the neutral current due to unbalanced load or source and  nonlinear loads. Comprehensive design guidelines for a four-legged inverter are presented. The four-legged rectifier is also presented which allows not only fault tolerant operation, but also provides the flexibility of equal resistance, equal current, or equal power operation under unbalanced source. <p> Average large-signal models of four-legged power converters in both the a-b-c and d-q-o coordinates are derived. Small signal models are obtained in the d-q-o rotating coordinates. Voltage control loops are designed in the d-q-o coordinates for a high power utility power supply. Performance is studied under various load conditions. <p> At the power converter system level, the load conditioner concept is proposed for high power applications. A power converter system structure is proposed which consists of a high-power low-switching frequency main inverter and a low-power high-switching frequency load conditioner. The load conditioner performs multiple functions, such as active filtering, active damping, and active decoupling with a high current control bandwidth. This hybrid approach allows the overall system to achieve high performance with high power and highly nonlinear loads. <p> At the large-scale power electronics system level, the nonlinear loading effect of load converters is analyzed for a DC distribution system. Two solutions to the nonlinear loading effect are presented.  One is to confine the nonlinear load effect with the sub-converter system, the other is to use a DC bus conditioner. The DC bus conditioner is the extension of the load conditioner concept.",
+  "description_provenance": [
+    "Author Email: zhangric@vpec.vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: nelson@vt.edu",
+    "Advisor Email: hua@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:29Z (GMT). No. of bitstreams: 1 ETD.pdf: 7971122 bytes, checksum: 704f9979415f47f9206b45ad01929c30 (MD5)   Previous issue date: 1998-11-17"
+  ],
+  "handle": "29314",
+  "identifier_other": "etd-101998-092318",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-101998-092318/",
+  "identifier_uri": "http://hdl.handle.net/10919/29314",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "nonlinear",
+    "space vector modulation",
+    "unbalance",
+    "rectifier",
+    "inverter"
+  ],
+  "title": "High Performance Power Converter Systems for Nonlinear and Unbalanced Load/Source",
+  "type": "Dissertation"
+}

@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Lin, Tao",
+  "contributor_committeechair": "Midkiff, Scott F.",
+  "contributor_committeemember": [
+    "Jacobs, Ira",
+    "Koelling, Charles Patrick",
+    "Davis, Nathaniel J. IV",
+    "DaSilva, Luiz A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T18:53:36Z",
+  "date_adate": "2004-04-05",
+  "date_available": "2011-08-22T18:53:36Z",
+  "date_issued": "1999-06-11",
+  "date_rdate": "2004-04-05",
+  "date_sdate": "2004-03-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A mobile ad hoc network (MANET) is a wireless network that uses multi-hop peerto- peer routing instead of static network infrastructure to provide network connectivity. MANETs have applications in rapidly deployed and dynamic military and civilian systems. The network topology in a MANET usually changes with time. Therefore, there are new challenges for routing protocols in MANETs since traditional routing protocols may not be suitable for MANETs. For example, some assumptions used by these protocols are not valid in MANETs or some protocols cannot efficiently handle topology changes. Researchers are designing new MANET routing protocols and comparing and improving existing MANET routing protocols before any routing protocols are standardized using simulations. However, the simulation results from different research groups are not consistent with each other. This is because of a lack of consistency in MANET routing protocol models and application environments, including networking and user traffic profiles. Therefore, the simulation scenarios are not equitable for all protocols and conclusions cannot be generalized. Furthermore, it is difficult for one to choose a proper routing protocol for a given MANET application. According to the aforementioned issues, my Ph.D. research focuses on MANET routing protocols. Specifically, my contributions include the characterization of differ- ent routing protocols using a novel systematic relay node set (RNS) framework, design of a new routing protocol for MANETs, a study of node mobility, including a quantitative study of link lifetime in a MANET and an adaptive interval scheme based on a novel neighbor stability criterion, improvements of a widely-used network simulator and corresponding protocol implementations, design and development of a novel emulation test bed, evaluation of MANET routing protocols through simulations, verification of our routing protocol using emulation, and development of guidelines for one to choose proper MANET routing protocols for particular MANET applications. Our study shows that reactive protocols do not always have low control overhead, as people tend to think. The control overhead for reactive protocols is more sensitive to the traffic load, in terms of the number of traffic flows, and mobility, in terms of link connectivity change rates, than other protocols. Therefore, reactive protocols may only be suitable for MANETs with small number of traffic loads and small link connectivity change rates. We also demonstrated that it is feasible to maintain full network topology in a MANET with low control overhead. This dissertation summarizes all the aforementioned methodologies and corresponding applications we developed concerning MANET routing protocols.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:36Z (GMT). No. of bitstreams: 1  Tao_PhD_Dissertation.pdf: 1912830 bytes, checksum: 5bfd7fefc2adaeac132f50ae558badb9 (MD5)    Previous issue date: 1999-06-11",
+    "Author Email: taolin@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: midkiff@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11127",
+  "identifier_other": "etd-03262004-144048",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03262004-144048",
+  "identifier_uri": "http://hdl.handle.net/10919/11127",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Tao_PhD_Dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Emulation",
+    "Connected dominating set",
+    "Simulation",
+    "Framework",
+    "Relay node set",
+    "Routing",
+    "Mobile Ad-hoc Network"
+  ],
+  "title": "Mobile Ad-hoc Network Routing Protocols: Methodologies and Applications",
+  "type": "Dissertation"
+}

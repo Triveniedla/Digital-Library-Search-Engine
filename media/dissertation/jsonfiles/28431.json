@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Henning, Jason Gregory",
+  "contributor_committeechair": "Radtke, Philip J.",
+  "contributor_committeemember": [
+    "Prisley, Stephen P.",
+    "Reynolds, Marion R. Jr.",
+    "Burkhart, Harold E."
+  ],
+  "contributor_department": "Forestry",
+  "date_accessioned": "2014-03-14T20:14:26Z",
+  "date_adate": "2005-08-18",
+  "date_available": "2014-03-14T20:14:26Z",
+  "date_issued": "2005-07-25",
+  "date_rdate": "2005-08-18",
+  "date_sdate": "2005-07-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A commercially available, tripod mounted, ground-based laser scanner was used to assess forest canopies and measure individual tree parameters. The instrument is comparable to scanning airborne light detection and ranging (lidar) technology but gathers data at higher resolution over a more limited scale. The raw data consist of a series of range measurements to visible surfaces taken at known angles relative to the scanner. Data were translated into three dimensional (3D) point clouds with points corresponding to surfaces visible from the scanner vantage point. A 20 m x 40 m permanent plot located in upland deciduous forest at Coweeta, NC was assessed with 41 and 45 scans gathered during periods of leaf-on and leaf-off, respectively. Data management and summary needs were addressed, focusing on the development of registration methods to align point clouds collected from multiple vantage points and minimize the volume of the plot canopy occluded from the scanner's view. Automated algorithms were developed to extract points representing tree bole surfaces, bole centers and ground surfaces. The extracted points served as the control surfaces necessary for registration. Occlusion was minimized by combining aligned point clouds captured from multiple vantage points with 0.1% and 0.34% of the volume scanned being occluded from view under leaf-off and leaf-on conditions, respectively. The point cloud data were summarized to estimate individual tree parameters including diameter at breast height (dbh), upper stem diameters, branch heights and XY positions of trees on the plot. Estimated tree positions were, on average, within 0.4 m of tree positions measured independently on the plot. Canopy height models, digital terrain models and 3D maps of the density of canopy surfaces were created using aligned point cloud data. Finally spatially explicit models of the horizontal and vertical distribution of plant area index (PAI) and leaf area index (LAI) were generated as examples of useful data summaries that cannot be practically collected using existing methods.",
+  "description_provenance": [
+    "Author Email: jhenning@vt.edu",
+    "Advisor Email: prisley@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: burkhart@vt.edu",
+    "Advisor Email: pradtke@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:26Z (GMT). No. of bitstreams: 1 JHenning_Dissertation.pdf: 80130565 bytes, checksum: 73cd07ab0c42b937ac3f48427128f125 (MD5)   Previous issue date: 2005-07-25"
+  ],
+  "handle": "28431",
+  "identifier_other": "etd-07282005-170817",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07282005-170817/",
+  "identifier_uri": "http://hdl.handle.net/10919/28431",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "JHenning_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "terrestrial laser scanning",
+    "stem map",
+    "canopy structure",
+    "lidar",
+    "registration",
+    "range image"
+  ],
+  "title": "Modeling Forest Canopy Distribution from Ground-Based Laser Scanner Data",
+  "type": "Dissertation"
+}

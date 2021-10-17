@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Jensen, Willis Aaron",
+  "contributor_committeechair": "Birch, Jeffrey B.",
+  "contributor_committeemember": [
+    "Vining, G. Geoffrey",
+    "Reynolds, Marion R. Jr.",
+    "Spitzner, Dan J.",
+    "Woodall, William H."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:10:13Z",
+  "date_adate": "2006-04-26",
+  "date_available": "2014-03-14T20:10:13Z",
+  "date_issued": "2006-04-10",
+  "date_rdate": "2008-04-26",
+  "date_sdate": "2006-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The initial portion of this research focuses on appropriate parameter estimators within a general context of multivariate quality control. The goal of Phase I analysis of multivariate quality control data is to identify multivariate outliers and step changes so that the estimated control limits are sufficiently accurate for Phase II monitoring. High breakdown estimation methods based on the minimum volume ellipsoid (MVE) or the minimum covariance determinant (MCD) are well suited to detecting multivariate outliers in data. Because of the inherent difficulties in computation many algorithms have been proposed to obtain them. We consider the subsampling algorithm to obtain the MVE estimators and the FAST-MCD algorithm to obtain the MCD estimators. Previous studies have not clearly determined which of these two estimation methods is best for control chart applications. The comprehensive simulation study here gives guidance for when to use which estimator. Control limits are provided. High breakdown estimation methods such as MCD and MVE can be applied to a wide variety of multivariate quality control data.  The final, lengthier portion of this research considers profile monitoring. Profile monitoring is a relatively new technique in quality control used when the product or process quality is best represented by a profile (or a curve) at each time period. The essential idea is often to model the profile via some parametric method and then monitor the estimated parameters over time to  determine if there have been changes in the profiles.  Because the estimated parameters may be correlated, it is convenient to monitor them using a multivariate control method such as the T-squared statistic. Previous modeling methods have not incorporated the correlation structure within the profiles. We propose the use of mixed models (both linear and nonlinear) to monitor linear and nonlinear profiles in order to account for the correlation structure within a profile. We consider various data scenarios and show using simulation when the mixed model approach is preferable to an approach that ignores the correlation structure. Our focus is on Phase I control chart applications.",
+  "description_provenance": [
+    "Author Email: wajensen@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: dan.spitzner@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:13Z (GMT). No. of bitstreams: 11 Appendices.pdf: 81574 bytes, checksum: 6de1b789af12f87a92ffe5645c319057 (MD5) Chapter5.pdf: 812868 bytes, checksum: f1bd05e86541a426673613d4b43821a9 (MD5) Chapter6.pdf: 195455 bytes, checksum: 238a8a138403135924476001b6e12179 (MD5) BackMatter.pdf: 80819 bytes, checksum: d546dbb09a7b1eac9d75dee987fd3def (MD5) Chapter8.pdf: 62082 bytes, checksum: 595c19b2986ed4d01fc23eecbbd4a42a (MD5) FrontMatter.pdf: 81637 bytes, checksum: 8c18313a4b1d7384704207b041054f54 (MD5) Chapter4.pdf: 224112 bytes, checksum: 483f5f5aea9c4ac81d46a65ed4be8d95 (MD5) Chapter2.pdf: 69065 bytes, checksum: 44c41da617ba53f88247a2c716a8c707 (MD5) Chapter3.pdf: 325270 bytes, checksum: b34b8697015069c1fa5e00b38939cbcb (MD5) Chapter7.pdf: 1051549 bytes, checksum: ca10d2fc61b1a96a8924dd1c6fcfb609 (MD5) Chapter1.pdf: 51119 bytes, checksum: dcb0d84b92e8d2335c786431036bc239 (MD5)   Previous issue date: 2006-04-10"
+  ],
+  "handle": "27054",
+  "identifier_other": "etd-04202006-134123",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202006-134123/",
+  "identifier_uri": "http://hdl.handle.net/10919/27054",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Appendices.pdf",
+    "Chapter5.pdf",
+    "Chapter6.pdf",
+    "BackMatter.pdf",
+    "Chapter8.pdf",
+    "FrontMatter.pdf",
+    "Chapter4.pdf",
+    "Chapter2.pdf",
+    "Chapter3.pdf",
+    "Chapter7.pdf",
+    "Chapter1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "High Breakdown Estimation",
+    "Multivariate Outliers",
+    "Nonlinear Mixed Models",
+    "Multivariate Statistical Process Control",
+    "Linear Mixed Models"
+  ],
+  "title": "Profile Monitoring for Mixed Model Data",
+  "type": "Dissertation"
+}

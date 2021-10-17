@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Cano-Andrade, Sergio",
+  "contributor_committeechair": "von Spakovsky, Michael R",
+  "contributor_committeemember": [
+    "Nelson, Douglas J",
+    "Beretta, Gian Paolo",
+    "Ellis, Michael W",
+    "Hobbs, Benjamin Field",
+    "Mili, Lamine M"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-12T08:00:53Z",
+  "date_available": "2014-03-12T08:00:53Z",
+  "date_issued": "2014-03-11",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In this dissertation, applications of thermodynamics at the macroscopic and quantum levels of description are developed. Within the macroscopic level, an upper-level Sustainability Assessment Framework (SAF) is proposed for evaluating the sustainable and resilient synthesis/design and operation of sets of small renewable and non-renewable energy production technologies coupled to power production transmission and distribution networks via microgrids. The upper-level SAF is developed in accord with the four pillars of sustainability, i.e., economic, environmental, technical and social. A superstructure of energy producers with a fixed transmission network initially available is synthesized based on the day with the highest energy demand of the year, resulting in an optimum synthesis, design, and off-design network configuration. The optimization is developed in a quasi-stationary manner with an hourly basis, including partial-load behavior for the producers. Since sustainability indices are typically not expressed in the same units, multicriteria decision making methods are employed to obtain a composite sustainability index.   Within the quantum level of description, steepest-entropy-ascent quantum thermodynamics (SEA-QT) is used to model the phenomenon of decoherence. The two smallest microscopic composite systems encountered in Nature are studied. The first of these is composed of two two-level-type particles, while the second one is composed of a two-level-type particle and an electromagnetic field. Starting from a non-equilibrium state of the composite and for each of the two different composite systems, the time evolution of the state of the composite as well as that of the reduced and locally-perceived states of the constituents are traced along their relaxation towards stable equilibrium at constant system energy. The modeling shows how the initial entanglement and coherence between constituents are reduced during the relaxation towards a state of stable equilibrium. When the constituents are non-interacting, the initial coherence is lost once stable equilibrium is reached. When they are interacting, the coherence in the final stable equilibrium state is only that due to the interaction. For the atom-photon field composite system, decoherence is compared with data obtained experimentally by the CQED group at Paris. The SEA-QT method applied in this dissertation provides an alternative and comprehensive explanation to that obtained with the \"open system\" approach of Quantum Thermodynamics (QT) and its associated quantum master equations of the Kossakowski-Lindblad-Gorini-Sudarshan type.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-03-12T08:00:53Z (GMT). No. of bitstreams: 2 Cano-Andrade_S_D_2014.pdf: 6984870 bytes, checksum: a59be31e99f0cf99f4c913866e20755b (MD5) Cano-Andrade_S_D_2014_support_1.PDF: 25720603 bytes, checksum: f4d8718e7c5d50a587aae66826e516b4 (MD5)   Previous issue date: 2014-03-11",
+  "format_medium": "ETD",
+  "handle": "25878",
+  "identifier_other": "vt_gsexam:2213",
+  "identifier_uri": "http://hdl.handle.net/10919/25878",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "sustainability",
+    "resiliency",
+    "microgrids",
+    "multiobjective optimization",
+    "entanglement",
+    "decoherence",
+    "quantum thermodynamics",
+    "steepest-entropy-ascent modeling"
+  ],
+  "title": "Thermodynamic Based Framework for Determining Sustainable Electric Infrastructures as well as Modeling of Decoherence in Quantum Composite Systems",
+  "type": "Dissertation"
+}

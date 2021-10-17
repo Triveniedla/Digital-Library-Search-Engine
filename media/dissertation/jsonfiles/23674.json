@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Anguswamy, Reghu",
+  "contributor_committeechair": "Frakes, William B",
+  "contributor_committeemember": [
+    "Chen, Ing Ray",
+    "Kulczycki, Gregory W",
+    "Yilmaz, Okan",
+    "Belli, Gabriella M"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-08-01T08:00:11Z",
+  "date_available": "2013-08-01T08:00:11Z",
+  "date_issued": "2013-07-31",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Designing software components for future reuse has been an important area in software engineering. A software system developed with reusable components follows a \"with\" reuse process while a component designed to be reused in other systems follows a \"for\" reuse process. This dissertation explores the factors affecting design for reuse and design with reusable components through empirical studies. The studies involve Java components implementing a particular algorithm, a stemming algorithm that is widely used in the conflation domain. The method and empirical approach are general and independent of the programming language. Such studies may be extended to other types of components, for example, components implementing data structures such as stacks, queues etc. <br />Design for reuse: In this thesis, the first study was conducted analyzing one-use and equivalent reusable components for the overhead in terms of component size, effort required, number of parameters, and productivity. Reusable components were significantly larger than their equivalent one-use components and had significantly more parameters. The effort required for the reusable components was higher than for one-use components. The productivity of the developers was significantly lower for the reusable components compared to the one-use components. Also, during the development of reusable components, the subjects spent more time on writing code than designing the components, but not significantly so.  A ranking of the design principles by frequency of use is also reported. A content analysis performed on the feedback is also reported and the reasons for using and not using the reuse design principles are identified. A correlation analysis showed that the reuse design principles were, in general, used independently of each other.<br />Design with reuse: Through another empirical study, the effect of the size of a component and the reuse design principles used in building the component on the ease of reuse were analyzed. It was observed that the higher the complexity the lower the ease of reuse, but the correlation is not significant. When considered independently, four of the reuse design principles: well-defined interface, clarity and understandability, generality, and separate concepts from content significantly increased the ease of reuse while commonality and variability analysis significantly decreased the ease of reuse, and documentation did not have a significant impact on the ease of reuse. Experience in the programming language had no significant relationship with the reusability of components. Experience in software engineering and software reuse showed a relationship with reusability but the effect size was small. Testing components before integrating them into a system was found to have no relationship with the reusability of components. A content analysis of the feedback is presented identifying the challenges of components that were not easy to reuse. Features that make a component easily reusable were also identified. The Mahalanobis-Taguchi Strategy (MTS) was employed to develop a model based on Mahalanobis Distance  to identify the factors that can detect if a component is easy to reuse or not. The identified factors within the model are: size of a component, a set of reuse design principles (well-defined interface, clarity and understandability, commonality and variability analysis, and generality), and component testing.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-01T08:00:11Z (GMT). No. of bitstreams: 1 Anguswamy_R_D_2013.pdf: 2645061 bytes, checksum: f31f04d789a28779b7393618eefce56f (MD5)   Previous issue date: 2013-07-31",
+  "format_medium": "ETD",
+  "handle": "23674",
+  "identifier_other": "vt_gsexam:1245",
+  "identifier_uri": "http://hdl.handle.net/10919/23674",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Software Reuse",
+    "Reuse Design Principles",
+    "Reusable Components",
+    "Empirical Study"
+  ],
+  "title": "Factors Affecting the Design and Use of Reusable Components",
+  "type": "Dissertation"
+}

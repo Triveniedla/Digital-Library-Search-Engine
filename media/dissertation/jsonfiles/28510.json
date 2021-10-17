@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Stanley, Lisa Gayle",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeemember": [
+    "King, Belinda B.",
+    "Herdman, Terry L.",
+    "Cliff, Eugene M.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "1999-08-26",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "1999-07-08",
+  "date_rdate": "2000-08-26",
+  "date_sdate": "1999-08-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Sensitivity analysis is a useful mathematical tool for many designers, engineers and mathematicians.  This work presents a study of sensitivity equation methods for elliptic boundary value problems posed on parameter dependent domains. The current focus of our efforts is the construction of a rigorous mathematical framework for sensitivity analysis and the subsequent development of efficient, accurate algorithms for sensitivity computation. In order to construct the framework, we use the classical theory of partial differential equations along with the method of mappings and the Implicit Function Theorem.  Examples are given which illustrate the use of the framework, and some of the shortcomings of the theory are also identified.  An overview of some computational methods which make use of the method of mappings is also included. Numerical results for a specific example show that convergence (energy norm) of the sensitivity approximations can be influenced by the specific structure of the computational scheme.",
+  "description_provenance": [
+    "Author Email: stanley@icam.vt.edu",
+    "Advisor Email: bbking@icam.vt.edu",
+    "Advisor Email: herdman@icam.vt.edu",
+    "Advisor Email: cliff@icam.vt.edu",
+    "Advisor Email: borggajt@icam.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 1 etd.pdf: 12294895 bytes, checksum: c6b1f8b7c2563f639341c9e2e6eabaf8 (MD5)   Previous issue date: 1999-07-08"
+  ],
+  "handle": "28510",
+  "identifier_other": "etd-080399-111602",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080399-111602/",
+  "identifier_uri": "http://hdl.handle.net/10919/28510",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Elliptic Differential Operators",
+    "Finite Element Methods",
+    "Sensitivity Equations",
+    "Sobolev Spaces"
+  ],
+  "title": "Computational Methods for Sensitivity Analysis with Applications to Elliptic Boundary Value Problems",
+  "type": "Dissertation"
+}

@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Gallagher, Timothy M",
+  "contributor_committeechair": "Bostian, Charles W.",
+  "contributor_committeemember": [
+    "Brown, Gary S.",
+    "Sweeney, Dennis G.",
+    "Carstensen, Laurence William Jr.",
+    "Midkiff, Scott F.",
+    "Woerner, Brain D."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:02:26Z",
+  "date_adate": "2004-07-02",
+  "date_available": "2011-08-22T19:02:26Z",
+  "date_issued": "2004-05-13",
+  "date_rdate": "2004-07-02",
+  "date_sdate": "2004-06-29",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Channel impulse responses collected on the Virginia Tech campus show combinations of specular multipath and diffuse scattering at LMDS frequencies.  An algorithm is presented that estimates link performance based on the channel impulse response.  Presented and analyzed are representative impulse responses (one is primarily specular in nature and one shows significant diffuse scattering) to show that the proposed algorithm is appropriate for analyzing channels exhibiting either of these characteristics.  Monte Carlo simulations logged the sequence number of each bit error to gain an understanding of the distribution of errors over time.  The results show that for these static channels the errors occur randomly rather than in bursts, leading to the conclusion that average bit-error rate statistics are appropriate for channel characterization.  Zero-Forcing (Z-F) and Minimum Mean Square Error (MMSE) equalizers employed on these channels had a significant impact on the link quality.  In many cases, the performance of the MMSE equalizer performed only slightly better than the Z-F equalizer.  However, when deep nulls were present in the channel response, the MMSE equalizer performed significantly better.  Algorithms for determining the number of taps necessary to approach an optimum equalization are presented for both types of equalizers and a '98%' rule of thumb is presented.  The algorithm's role in adaptive and cognitive radio systems is discussed and two applications are presented to illustrate its utility.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:26Z (GMT). No. of bitstreams: 1  diss_tmg_2004.pdf: 4162182 bytes, checksum: bd2179f439df1702e982f72da26578cd (MD5)    Previous issue date: 2004-05-13",
+    "Author Email: tgallagh@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Advisor Email: carstens@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: woerner@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11197",
+  "identifier_other": "etd-06292004-145402",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06292004-145402",
+  "identifier_uri": "http://hdl.handle.net/10919/11197",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss_tmg_2004.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "channel sounding",
+    "cognitive radio",
+    "LMDS",
+    "diffuse scattering",
+    "non-line-of-sight"
+  ],
+  "title": "Characterization and Evaluation of Non-Line-of-Sight Paths for Fixed Broadband Wireless Communications",
+  "type": "Dissertation"
+}

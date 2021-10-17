@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Liu, Wenduo",
+  "contributor_committeechair": "van Wyk, Jacobus Daniel",
+  "contributor_committeemember": [
+    "Odendaal, Willem Gerhardus",
+    "Wang, Fei Fred",
+    "Lu, Guo-Quan",
+    "Liu, Yilu"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:12Z",
+  "date_adate": "2006-05-08",
+  "date_available": "2014-03-14T20:11:12Z",
+  "date_issued": "2006-04-19",
+  "date_rdate": "2006-05-08",
+  "date_sdate": "2006-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The demand for high power density keeps driving the development of electromagnetic integration technologies in the field of power electronics. Based on planar homogeneous integrated structures, the mechanism of the electromagnetic integration of passives has been investigated with distributed-parameter models. High order modeling of integrated passives has been developed to investigate the electromagnetic performance. The design algorithm combining electromagnetic design and loss models has been developed to optimize and evaluate the spiral winding structure. High power density of 480 W/in3 has been obtained on the prototype. Due to the structural limitation, the currently applied planar spiral winding structure does not sufficiently utilize the space, and the structure is mechanically vulnerable. The improvement on structures is necessary for further application of integrated passives. The goal of this research is to investigate and evaluate alternative structures for high-power-density integrated passives. The research covers electromagnetic modeling, constructional study, design algorithm, loss modeling, thermal management and implementation technology The symmetric single layer structure and the stacked structure are proposed to overcome the disadvantages of the currently applied planar spiral winding structure. Because of the potential of high power density and low power loss, the stacked structure is selected for further research. The structural characteristics and the processing technologies are addressed.  By taking an integrated LLCT module as the study case, the general design algorithm is developed to find out a set of feasible designs. The obtained design maps are used to evaluate the constraints from spatial, materials and processing technologies for the stacked structure.  Based on the assumption of one-dimensional magnetic filed on the cross-section and linear current distribution along the longitudinal direction of the stacked structure, the electromagnetic field distribution is analyzed and the loss modeling is made. The experimental method is proposed to measure the loss and to verify the calculation.   The power loss in the module leads to thermal issues, which limit the processed power of power electronics modules and thus limit the power density. To further improve the power handling ability of the module, the thermal management is made based on loss estimation. The heat extraction technology is developed to improve the heat removal ability and further improve the power density of integrated passives. The experimental results verify the power density improvement from the proposed stacked structure and the applied heat extraction technology. The power density of 1147 W/in3 (70 W/cm3) is achieved in the implemented LLCT module with the efficiency of 97.8% at output power of 1008W.",
+  "description_provenance": [
+    "Author Email: wdliu@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: wgo@vt.edu",
+    "Advisor Email: fred.wang@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: Yilu.liu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:12Z (GMT). No. of bitstreams: 1 Dissertation-Wenduo_Liu_revised0508.pdf: 9029389 bytes, checksum: 6b53d8edbc2c705e0640f01b6f1f633b (MD5)   Previous issue date: 2006-04-19"
+  ],
+  "handle": "27419",
+  "identifier_other": "etd-04282006-034633",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282006-034633/",
+  "identifier_uri": "http://hdl.handle.net/10919/27419",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-Wenduo_Liu_revised0508.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Alternative structure",
+    "integrated passives",
+    "electromagnetic integration",
+    "asymmetric performance",
+    "high power density",
+    "design approach",
+    "implementation technology",
+    "heat extraction technology",
+    "loss measurement",
+    "stacked structure",
+    "interconnection",
+    "electromagnetic modeling"
+  ],
+  "title": "Alternative structures for integrated electromagnetic passives",
+  "type": "Dissertation"
+}

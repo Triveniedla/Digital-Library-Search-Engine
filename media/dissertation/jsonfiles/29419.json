@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Das Neves, Fernando Adrian",
+  "contributor_committeechair": "Fox, Edward Alan",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Kafura, Dennis G.",
+    "Kriz, Ronald D.",
+    "North, Christopher L."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:17:50Z",
+  "date_adate": "2004-12-08",
+  "date_available": "2014-03-14T20:17:50Z",
+  "date_issued": "2004-09-16",
+  "date_rdate": "2004-12-08",
+  "date_sdate": "2004-11-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The information retrieval (IR) field has been successful in developing techniques to address many types of information needs. However, there are cases in which traditional approaches to IR are not able to produce adequate results. Examples include: when a small set of (2-3) documents is needed as an answer rather than a single document, or when \"query splitting\" is required to satisfactorily explore the document space. We explore an alternative model of building and presenting retrieval results for such cases. In particular, we research effective methods for handling information needs that may: 1.\tInclude multiple topics: A typical query is interpreted by current IR systems as a request to retrieve documents that each discusses all topics included in that query. We propose an alternative interpretation based on query splitting. It allows queries to be interpreted as requests to retrieve sets of documents rather than individual documents, with meaningful relationships among the members of each such set. 2.\tBe interpreted as parts in a chain of relationships: Suppose a query concerns topics t1 and tm. Is there a relation between topics t1 and tm that involves t2 and possibly other topics as in {t1, t2, â ¦ tm}? Thus, we propose an alternative interpretation of user queries and presentation of the results. Our interpretation has the potential to improve retrieval results whenever there is a mismatch between the user's understanding of the collection and the actual collection content. We define and refine a retrieval scheme that enhances retrieval through a framework that combines multiple sources of evidence. Query results in our interpretation are networks of document groups representing topics, each group relating to and connecting to other groups in the network that partially answer the user's information need. We devise new and more effective representations and techniques to visualize results, and incorporate the user as part of the retrieval process. We also evaluate the improvement of the query results based on multiple measures. In particular, we verify the validity of our approach through a study involving a collection of Operating Systems research papers that was specially built for this dissertation.",
+  "description_provenance": [
+    "Author Email: fdasneve@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: kafura@cs.vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: north@cs.vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:50Z (GMT). No. of bitstreams: 1 dissertation.PDF: 1451284 bytes, checksum: 66f141ccf43857b8948a0a96cf6842f9 (MD5)   Previous issue date: 2004-09-16"
+  ],
+  "handle": "29419",
+  "identifier_other": "etd-11012004-003013",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11012004-003013/",
+  "identifier_uri": "http://hdl.handle.net/10919/29419",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.PDF",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Information retrieval",
+    "Literature-based discovery",
+    "Combination of sources of evidence",
+    "Indexing of scientific literature"
+  ],
+  "title": "Stepping Stones and Pathways:Improving Retrieval by Chains of Relationships between Documents",
+  "type": "Dissertation"
+}

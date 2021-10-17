@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Etebari, Ali",
+  "contributor_committeechair": "Vlachos, Pavlos P.",
+  "contributor_committeemember": [
+    "Lee, Yong Woo",
+    "Leo, Donald J.",
+    "Berry, Joel",
+    "Telionis, Demetri P."
+  ],
+  "contributor_department": "Biomedical Engineering and Sciences",
+  "date_accessioned": "2014-03-14T20:10:58Z",
+  "date_adate": "2006-05-11",
+  "date_available": "2014-03-14T20:10:58Z",
+  "date_issued": "2006-04-20",
+  "date_rdate": "2009-05-11",
+  "date_sdate": "2006-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Cardiovascular disease is responsible for the majority of morbidity and mortality in the United States. Physiologically healthy flow rarely displays turbulent behavior, thereby maintaining normal shear levels. The presence of vortical flow structures, however, alters the hemodynamical characteristics within the system, which has significant effect upon shear stress (SS) and wall shear stress (WSS) levels, as well as particle residence times.  The relationship between these hemodynamic parameters and vascular injury response is of great relevance to understanding the cardiovascular disease process. \tIn this work, new methods and algorithms are developed and presented for resolving, both globally and locally, the spatial and temporal variations of shear stress (SS) and WSS for in vitro models of the human cardiovascular system.  Advancements in global measurements are based on improving the accuracy of SS and WSS estimation from time-resolved Digital Particle Image Velocimetry (DPIV) velocity measurements.  A new velocity derivative method, the fourth-order noise-optimized compact-Richardson implicit scheme, has been developed, overcoming the obstacle of minimizing both the bias and random error in temporal/spatial derivative estimations.  The resulting error is on the same order as the velocity measurement error for global measurements which results in an order of magnitude accuracy improvement.  The method has been extended to WSS measurements, and combined with a new method of mirroring/reflecting a flow field over its boundary in order to achieve higher-order estimation.  For moving boundaries an edge detection cross-correlation algorithm has been developed and characterized, yielding sub-pixel accuracy in measuring dynamic wall position prior to estimating WSS. An original microelectromechanical system (MEMS) WSS sensor capable of delivering high sensitivity, frequency response and accurate WSS measurements has been developed and characterized in this work.",
+  "description_provenance": [
+    "Author Email: aetebari@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: ywlee@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: jberry@wfubmc.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:58Z (GMT). No. of bitstreams: 1 FinalRev-Etebari-Dissertation2006.pdf: 6991828 bytes, checksum: 77815709be2c3f01ec5e888bb82da90c (MD5)   Previous issue date: 2006-04-20"
+  ],
+  "handle": "27326",
+  "identifier_other": "etd-04262006-222635",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262006-222635/",
+  "identifier_uri": "http://hdl.handle.net/10919/27326",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "FinalRev-Etebari-Dissertation2006.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "WSS",
+    "vorticity",
+    "turbulence",
+    "DPIV",
+    "stenosis",
+    "sensor"
+  ],
+  "title": "Wall shear measurements in arterial flows",
+  "type": "Dissertation"
+}

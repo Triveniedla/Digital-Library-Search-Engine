@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Chen, Chen",
+  "contributor_committeechair": "Flintsch, Gerardo W.",
+  "contributor_committeemember": [
+    "Al-Qadi, Imadeddin L.",
+    "Trani, Antonio A.",
+    "Wang, Linbing",
+    "Bryant, James W.",
+    "Loulizi, Amara"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:13:45Z",
+  "date_adate": "2007-08-08",
+  "date_available": "2014-03-14T20:13:45Z",
+  "date_issued": "2007-06-07",
+  "date_rdate": "2010-10-08",
+  "date_sdate": "2007-07-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Increasing demands, shrinking financial and human resources, and increased infrastructure deterioration have made the task of maintaining the infrastructure systems more challenging than ever before.  Life-cycle cost analysis (LCCA) is an important tool for transportation infrastructure management, which is used extensively to support project level decisions, and is increasingly being applied to enhance network level analysis.  However, traditional LCCA tools cannot practically and effectively utilize expert knowledge and handle ambiguous uncertainties.</p><p> The main objective of this dissertation was to develop enhanced LCCA models using soft computing (mainly fuzzy logic) techniques.  The proposed models use available \"real-world\" information to forecast life-cycle costs of competing maintenance and rehabilitation strategies and support infrastructure management decisions. A critical review of available soft computing techniques and their applications in infrastructure management suggested that these techniques provide appealing alternatives for supporting many of the infrastructure management functions.  In particular, LCCA often utilizes information that is uncertain, ambiguous and incomplete, which is obtained from both existing databases and expert opinion.  Consequently, fuzzy logic techniques were selected to enhance life-cycle cost analysis of transportation infrastructure investments because they provide a formal approach for the effective treatment of these types of information.  </p><p> The dissertation first proposes a fuzzy-logic-based decision-support model, whose inference rules can be customized according to agency's management policies and expert opinion.  The feasibility and practicality of the proposed model is illustrated by its implementation in a life-cycle cost analysis algorithm for comparing and selecting pavement maintenance, rehabilitation and reconstruction (MR&R) policies. </p><p> To enhance the traditional probabilistic LCCA model, the fuzzy-logic-based model is then incorporated into the risk analysis process.  A fuzzy logic approach for determining the timing of pavement MR&R treatments in a probabilistic LCCA model for selecting pavement MR&R strategies is proposed.  The proposed approach uses performance curves and fuzzy-logic triggering models to determine the most effective timing of pavement MR&R activities.  The application of the approach in a case study demonstrates that the fuzzy-logic-based risk analysis model for LCCA can effectively produce results that are at least comparable to those of the benchmark methods while effectively considering some of the ambiguous uncertainty inherent to the process. Finally, the research establishes a systematic method to calibrate the fuzzy-logic based rehabilitation decision model using real cases extracted from the Long Term Pavement Performance (LTPP) database.  By reinterpreting the model in the form of a neuro-fuzzy system, the calibration algorithm takes advantage of the learning capabilities of artificial neural networks for tuning the fuzzy membership functions and rules.  The practicality of the method is demonstrated by successfully tuning the treatment selection model to distinguish between rehabilitation (light overlay) and do-nothing cases.</p>",
+  "description_provenance": [
+    "Author Email: chchen3@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:45Z (GMT). No. of bitstreams: 1 Dissertation_CC.pdf: 1632543 bytes, checksum: 9ebb1c5b138e327da15a59600bffb76c (MD5)   Previous issue date: 2007-06-07"
+  ],
+  "handle": "28214",
+  "identifier_other": "etd-07052007-234646",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07052007-234646/",
+  "identifier_uri": "http://hdl.handle.net/10919/28214",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_CC.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Life-cycle Costs Analysis (LCCA)",
+    "Fuzzy Logic System",
+    "Project Selection",
+    "Neuro-fuzzy System",
+    "Pavement Management"
+  ],
+  "title": "Soft Computing-based Life-Cycle Cost Analysis Tools for Transportation Infrastructure Management",
+  "type": "Dissertation"
+}

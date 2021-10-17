@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Moore, Jacob Preston",
+  "contributor_committeechair": "Williams, Christopher Bryant",
+  "contributor_committeemember": [
+    "Johri, Aditya",
+    "North, Christopher L",
+    "Paretti, Marie C"
+  ],
+  "contributor_department": "Engineering Education",
+  "date_accessioned": "2013-08-03T08:00:15Z",
+  "date_available": "2013-08-03T08:00:15Z",
+  "date_issued": "2013-08-02",
+  "degree_discipline": "Engineering Education",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The purpose of this study is to explore the feasibility and effectiveness of a scalable concept map based navigation system for a digital textbook. A literature review has been conducted to identify possible methods to promote conceptual understanding in the context of a digital textbook, and these hypothesized solutions will be evaluated through a prototype tool. The primary method that has been selected for this study to promote conceptual understanding in textbooks is the concept map. When concept maps are used as advance organizers or navigation aids for hypermedia documents, they have been shown to promote conceptual understanding. Issues with scalability exist, however. When maps become too large or complicated, a phenomenon labeled \"map-shock\" occurs. Map-shock is a result of cognitive overload that nullifies the positive effects the concept map has on learning. In order to eliminate map-shock, one needs to manage the cognitive load imposed on the learner. This project proposes using information visualization techniques leveraged from the computer science domain to develop an interactive concept map based navigation system that will retain the positive effects of concept maps, and also present the visuals in a way that does not cognitively overload the user. <br /><br />This study seeks to answer the research question: \"How can a large-scale concept map visualization tools be realized in a way that promotes conceptual understanding and manages cognitive load?\" To answer the research question, a prototype tool, labeled the \"Adaptive Map tool\", was developed and populated with engineering statics content. This prototype contains content that is similar to the material in a traditional statics textbook, but the information is accessed through the proposed adaptive concept map visualization. The tool was then given to students in engineering statics class to be used as a supplemental textbook. The effects of the Adaptive Map tool were evaluated through a multiple case study approach that allowed researchers to understand how this tool fit into the larger learning context of a class. Results indicated that some students did integrate the Adaptive Map tool into the learning process, and furthermore that the tool did promote meaningful learning behaviors that lead to better conceptual understanding of the material.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-03T08:00:15Z (GMT). No. of bitstreams: 2 Moore_JP_D_2013.pdf: 3439538 bytes, checksum: e4485385f783cba0df5151301e5979fb (MD5) Moore_JP_D_2013_support_1.pdf: 839212 bytes, checksum: 04ad60bce4eba006a13236a28de158f6 (MD5)   Previous issue date: 2013-08-02",
+  "format_medium": "ETD",
+  "handle": "23678",
+  "identifier_other": "vt_gsexam:1466",
+  "identifier_uri": "http://hdl.handle.net/10919/23678",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Engineering Education",
+    "Conceptual Understanding",
+    "Digital Textbook",
+    "Concept Map",
+    "Information Visualization"
+  ],
+  "title": "Promoting Conceptual Understanding via Adaptive Concept Maps",
+  "type": "Dissertation"
+}

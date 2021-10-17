@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Deng, Haifei",
+  "contributor_committeecochair": [
+    "Thorp, James S.",
+    "Huang, Alex Q."
+  ],
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "Guido, Louis J.",
+    "Chen, Dan Y.",
+    "Lai, Jason"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:34Z",
+  "date_adate": "2005-02-18",
+  "date_available": "2014-03-14T20:07:34Z",
+  "date_issued": "2005-02-02",
+  "date_rdate": "2006-02-18",
+  "date_sdate": "2005-02-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the electronic equipments becoming more and more complicated, the requirements for the power management are more and more strict. Efficient performance, high functionality, small profile, fast transient and low cost are the most wanted features for modern power management ICs, especially for mobile power. In order to reduce profile, the number of external components should be as small as possible, which means that compensator, ramp compensation, current sensor, driver and even power devices should be all implemented on a single chip, i.e. monolithic integration. Comparing with discrete switching DC-DC converter, monolithic integration brings a number of benefits and new design challenges. Besides monolithic integration, high switching frequency is another trend for power management ICs due to its higher bandwidth and the ability to further reduce external passive component size. Comparing with low frequency counterparts, high frequency switching converter design is more difficult in terms of the stability modeling, high switching loss and difficult current sensing etc. The objective of this dissertation is to study the design issues for monolithic integration of high frequency switching DC-DC converter. For this purpose, a high frequency, wide input range monolithic buck converter ASIC with fast transient response is designed based on advanced trench BCD technology.       Stability is the fundamental requirement in designing switching converter ASIC. Achieving this requires an accurate loop gain design, especially for monolithically integrated high frequency switching converter since compensator is fixed on silicon and loop delay is comparable with switching cycle. Since DC-DC switching converters are time-varying system, traditional small signal analysis in SPICE cannot be directly used to simulate the loop gain of this kind of system. A periodic small signal analysis based method is proposed to analyze and simulate DC-DC switching converter inside a SPICE like simulator without the need for averaging. This general method is suitable for any switching regulators. The results are accurate comparing with average modeling and experiment results even at high frequency part.  A general procedure to design loop gain is proposed.      Several novel design concepts are proposed for monolithic integration of high frequency switching DC-DC converter; a novel control scheme-Cotangent Control (Ctg control) is proposed for fast transient response; In order to realize on-chip implementation of the compensator, especially for low frequency zero, active feedback compensator is developed and a general design procedure is proposed. Adaptive compensation concept is proposed to stabilize the whole system for a wide application range. Multi-stage driver and multi-section device concepts are investigated for high efficiency and low noise power stage design. And finally, a new noise insensitive lossless RC sensor is proposed for high speed current sensing.  At the end of this dissertation, the test results of the fabricated chip are presented to verify the correctness of these design concepts.",
+  "description_provenance": [
+    "Author Email: hdeng@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: louis.guido@vt.edu",
+    "Advisor Email: jsthorp@vt.edu",
+    "Advisor Email: chend@cc.ee.ntu.edu.tw",
+    "Advisor Email: aqhuang@ncsu.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:34Z (GMT). No. of bitstreams: 1 Haifei_Deng_dissertation.pdf: 3742012 bytes, checksum: a5742d363e4a529dde890ac6da37c0e6 (MD5)   Previous issue date: 2005-02-02"
+  ],
+  "handle": "26226",
+  "identifier_other": "etd-02172005-001304",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02172005-001304/",
+  "identifier_uri": "http://hdl.handle.net/10919/26226",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Haifei_Deng_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "high frequency",
+    "switching regulator",
+    "fast transient response",
+    "Monolithic integration"
+  ],
+  "title": "Modeling and Design of a Monolithic High Frequency Synchronous Buck with Fast Transient Response",
+  "type": "Dissertation"
+}

@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Zhao, Xiaopeng",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Dankowicz, Harry J.",
+    "Hendricks, Scott L.",
+    "Masoud, Ziyad N.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T19:03:37Z",
+  "date_adate": "2004-08-19",
+  "date_available": "2011-08-22T19:03:37Z",
+  "date_issued": "2004-08-11",
+  "date_rdate": "2004-08-19",
+  "date_sdate": "2004-08-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this dissertation is to present a modeling and simulation methodology for MEMS devices and identify and understand the associated nonlinearities due to large deflections, electric actuation, impacts, and friction.  In the first part of the dissertation, we introduce a reduced-order model of flexible microplates under electric excitation. The model utilizes the von Karman plate equations to account for geometric nonlinearities due to large plate deflections. The Galerkin approach is employed to reduce the partial-differential equations of motion and associated boundary conditions into a finite dimensional system of nonlinearly coupled ordinary-differential equations. We use the reduced-order model to analyze the mechanical behavior of a simply supported microplate and a fully clamped microplate. Effect of various design parameters on both the static and dynamic characteristics of microplates is studied. The second part of the dissertation presents comprehensive modeling and simulation tools for impact microactuators. Nonsmooth dynamics due to impacts and friction are studied, combining various approaches, including direct numerical integration, root-finding technique for periodic motions, continuation of grazing periodic orbits, and local analysis of the near grazing dynamics. The transition between nonimpacting and impacting long term motions, referred to as grazing bifurcations, indicates the transition between on and off states of an impact microactuator. Three different on-off switching mechanisms are identified for the Mita microactuator. These mechanisms also generalize to arbitrary impacting systems with a similar nonlinearity. A local map based on the concept of discontinuity mapping provides an effcient and accurate tool for the grazing bifurcation analysis. Nonlinear impacting dynamics of the microactuator are studied in detail to identify various bifurcations and parameter ranges corresponding to chaotic motions. We find that the frequency-response curves of the impacting dynamics are significantly different from those of the nonimpacting dynamics.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:03:37Z (GMT). No. of bitstreams: 1  dissertation.pdf: 5289059 bytes, checksum: 5bbdd5cd04d353808574e57b986c6d45 (MD5)    Previous issue date: 2004-08-11",
+    "Author Email: xzhao@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: danko@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: zmasoud@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11227",
+  "identifier_other": "etd-08122004-151112",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08122004-151112",
+  "identifier_uri": "http://hdl.handle.net/10919/11227",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Discontinuity Mappings",
+    "Nonsmooth Dynamics",
+    "Reduced-Order Modeling",
+    "Finite Element Method",
+    "MEMS"
+  ],
+  "title": "Modeling and Simulation of MEMS Devices",
+  "type": "Dissertation"
+}

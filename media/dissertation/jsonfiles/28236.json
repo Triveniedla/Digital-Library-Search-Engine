@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Childers, Adam Fletcher",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeemember": [
+    "Ball, Joseph A.",
+    "Cliff, Eugene M.",
+    "Herdman, Terry L."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:13:48Z",
+  "date_adate": "2009-07-24",
+  "date_available": "2014-03-14T20:13:48Z",
+  "date_issued": "2009-06-15",
+  "date_rdate": "2009-07-24",
+  "date_sdate": "2009-07-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mathematical models are useful for simulation, design, analysis, control, and optimization of complex systems.  One important step necessary to create an effective model is designing an experiment from which the unknown model parameter can be accurately identified and then verified.  The strategy which one approaches this problem is dependent on the amount of data that can be collected and the assumptions made about the behavior of the error in the statistical model.  In this presentation we describe how to approach this problem using a combination of statistical and mathematical theory with reliable computation. More specifically, we present a new approach to bounded error parameter validation that approximates the membership set by solving an inverse problem rather than using the standard forward interval analysis methods. For our method we provide theoretical justification, apply this technique to several examples, and describe how it relates to designing experiments. We also address how to define infinite dimensional designs that can be used to create designs of any finite dimension.  In general, finding a good design for an experiment requires a careful investigation of all available information and we provide an effective approach to dthe problem.",
+  "description_provenance": [
+    "Author Email: achldrs@vt.edu",
+    "Advisor Email: jaburns@math.vt.edu",
+    "Advisor Email: joball@math.vt.edu",
+    "Advisor Email: ecliff@vt.edu",
+    "Advisor Email: herdman@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:48Z (GMT). No. of bitstreams: 1 AFC_THESIS.pdf: 1300120 bytes, checksum: 5d6d0afa59f04084c203f86b3e08e182 (MD5)   Previous issue date: 2009-06-15"
+  ],
+  "handle": "28236",
+  "identifier_other": "etd-07092009-104222",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07092009-104222/",
+  "identifier_uri": "http://hdl.handle.net/10919/28236",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "AFC_THESIS.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Sensitivity Functions",
+    "Bounded Error",
+    "Parameter Identification",
+    "D-Optimal"
+  ],
+  "title": "Parameter Identification and the Design of Experiments for Continuous Non-Linear Dynamical Systems",
+  "type": "Dissertation"
+}

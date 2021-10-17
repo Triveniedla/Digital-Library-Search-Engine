@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Khatib, Abdel Rahman Amin",
+  "contributor_committeechair": [
+    "Liu, Yilu",
+    "Phadke, Arun G."
+  ],
+  "contributor_committeemember": [
+    "De La Ree Lopez, Jaime",
+    "Riad, Sedki Mohamed",
+    "Adjerid, Slimane",
+    "Mili, Lamine M."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:57Z",
+  "date_adate": "2002-08-15",
+  "date_available": "2014-03-14T20:14:57Z",
+  "date_issued": "2002-07-18",
+  "date_rdate": "2003-08-15",
+  "date_sdate": "2002-08-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Internet-Based Wide Area Measurement Applications in Deregulated  Power Systems  Abdel-Rahman Amin Khatib Abstract Since the deregulation of power systems was started in 1989 in the UK, many countries have been motivated to undergo deregulation. The United State started deregulation in the energy sector in California back in 1996. Since that time many other states have also started the deregulation procedures in different utilities. Most of the deregulation market in the United States now is in the wholesale market area, however, the retail market is still undergoing changes.   Deregulation has many impacts on power system network operation and control. The number of power transactions among the utilities has increased and many Independent Power Producers (IPPs) now have a rich market for competition especially in the green power market. The Federal Energy Regulatory Commission (FERC) called upon utilities to develop the Regional Transmission Organization (RTO). The RTO is a step toward the national transmission grid. RTO is an independent entity that will operate the transmission system in a large region. The main goal of forming RTOs is to increase the operation efficiency of the power network under the impact of the deregulated market.  The objective of this work is to study Internet based Wide Area Information Sharing (WAIS) applications in the deregulated power system. The study is the first step toward building a national transmission grid picture using information sharing among utilities. Two main topics are covered as applications for the WAIS in the deregulated power system, state estimation and Total Transfer Capability (TTC) calculations. As a first step for building this national transmission grid picture, WAIS and the level of information sharing of the state estimation calculations have been discussed. WAIS impacts to the TTC calculations are also covered. A new technique to update the TTC using on line measurements based on WAIS created by sharing state estimation is presented.",
+  "description_provenance": [
+    "Author Email: akhatib@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: sriad@vt.edu",
+    "Advisor Email: aphadke@vt.edu",
+    "Advisor Email: adjerids@vt.edu",
+    "Advisor Email: lmili@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:57Z (GMT). No. of bitstreams: 1 Khatib_Dissertation_Final.pdf: 5149359 bytes, checksum: b07e2b577927738663f42477673c9ecd (MD5)   Previous issue date: 2002-07-18"
+  ],
+  "handle": "28579",
+  "identifier_other": "etd-08092002-161012",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08092002-161012/",
+  "identifier_uri": "http://hdl.handle.net/10919/28579",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Khatib_Dissertation_Final.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Total transfer capability",
+    "Linear sensitivity analysis",
+    "Deregulation",
+    "State estimation",
+    "Internet",
+    "Wide area information sharing"
+  ],
+  "title": "Internet-based Wide Area Measurement Applications in Deregulated Power Systems",
+  "type": "Dissertation"
+}

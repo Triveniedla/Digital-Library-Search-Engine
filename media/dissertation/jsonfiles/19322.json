@@ -1,0 +1,37 @@
+{
+  "contributor_author": "Ahmad, Husain Abdulrahman",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeemember": [
+    "Sandu, Corina",
+    "Taheri, Saied",
+    "Hajj, Muhammad R.",
+    "Inman, Daniel J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-04-13T08:00:18Z",
+  "date_available": "2013-04-13T08:00:18Z",
+  "date_issued": "2013-03-28",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The application of Model Reference Adaptive Control (MRAC) for train dynamic braking is investigated in order to control dynamic braking forces while remaining within the allowable adhesion and coupler forces.  This control method can accurately determine the train braking distance.  One of the critical factors in Positive Train Control (PTC) is accurately estimating train braking distance under different operating conditions.  Accurate estimation of the braking distance will allow trains to be spaced closer together, with reasonable confidence that they will stop without causing a collision.  This study develops a dynamic model of a train consist based on a multibody formulation of railcars, trucks (bogies), and suspensions.   The study includes the derivation of the mathematical model and the results of a numerical study in Matlab.  A three-railcar model is used for performing a parametric study to evaluate how various elements will affect the train stopping distance from an initial speed.  Parameters that can be varied in the model include initial train speed, railcar weight, wheel-rail interface condition, and dynamic braking force.  Other parameters included in the model are aerodynamic drag forces and air brake forces.  <br />An MRAC system is developed to control the amount of current through traction motors under various wheel/rail adhesion conditions while braking.  Minimizing the braking distance of a train requires the dynamic braking forces to be maximized within the available wheel/rail adhesion.  Excessively large dynamic braking can cause wheel lockup that can damage the wheels and rail.  Excessive braking forces can also cause large buff loads at the couplers.  For DC traction motors, an MRAC system is used to control the current supplied to the traction motors.  This motor current is directly proportional to the dynamic braking force.  In addition, the MRAC system is also used to control the train speed by controlling the synchronous speed of the AC traction motors.  The goal of both control systems for DC and AC traction motors is to apply maximum available dynamic braking while avoiding wheel lockup and high coupler forces.  The results of the study indicate that the MRAC system significantly improves braking distance while maintaining better wheel/rail adhesion and coupler dynamics during braking.  Furthermore, according to this study, the braking distance can be accurately estimated when MRAC is used.  The robustness of the MRAC system with respect to different parameters is investigated, and the results show an acceptable robust response behavior.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-13T08:00:18Z (GMT). No. of bitstreams: 2  Ahmad_HA_D_2013.pdf: 2619741 bytes, checksum: b2e0cb087c80ad9539154b4adddd8f8b (MD5)  Ahmad_HA_D_2013_support_1.pdf: 185041 bytes, checksum: a4c87d51c0b4c364ab0615706b04ffd0 (MD5)    Previous issue date: 2013-03-28",
+  "format_medium": "ETD",
+  "handle": "19322",
+  "identifier_other": "vt_gsexam:406",
+  "identifier_uri": "http://hdl.handle.net/10919/19322",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Dynamic Braking",
+    "Traction Motors",
+    "Wheel/Rail Adhesion",
+    "Train Braking Distance",
+    "Longitudinal Train Dynamics",
+    "Model Reference Adaptive Control"
+  ],
+  "title": "Dynamic Braking Control for Accurate Train Braking Distance Estimation under Different Operating Conditions",
+  "type": "Dissertation"
+}

@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Grymin, David J",
+  "contributor_committeechair": "Farhood, Mazen H",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Sultan, Cornel",
+    "Patil, Mayuresh J"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-12-11T09:00:08Z",
+  "date_available": "2013-12-11T09:00:08Z",
+  "date_issued": "2013-12-10",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation addresses motion planning, modeling, and feedback control for autonomous vehicle systems.  A hierarchical approach for motion planning and control of nonlinear systems operating in obstacle environments is presented. To reduce computation time during the motion planning process, dynamically feasible trajectories are generated in real-time through concatenation of  pre-specified motion primitives. The motion planning task is posed as a search over a directed graph, and the applicability of informed graph search techniques is investigated. Specifically, a  locally greedy algorithm with effective backtracking ability is developed and compared to weighted A* search. The greedy algorithm shows an advantage with respect to solution cost and computation time when larger motion primitive libraries that do not operate on a regular state lattice are utilized. Linearization of the nonlinear system equations about the motion primitive library results in a hybrid linear time-varying model, and an optimal control algorithm using the L2-induced norm as the performance measure is applied to ensure that the system tracks the desired trajectory. The ability of the resulting controller to closely track the trajectory obtained from the motion planner, despite various disturbances and uncertainties, is demonstrated through simulation.   Additionally, an approach for obtaining dynamically feasible reference trajectories and feedback controllers for a small unmanned aerial vehicle (UAV) based on an aerodynamic model derived from flight tests is presented. The modeling approach utilizes the two step method (TSM) with stepwise multiple regression to determine relevant explanatory terms for the aerodynamic models. Dynamically feasible trajectories are then obtained through the solution of an optimal control problem using pseudospectral optimal control software. Discrete-time feedback controllers are then obtained to regulate the vehicle along the desired reference trajectory. Simulations in a realistic operational environment as well as flight testing with the feedback controller demonstrate the capabilities of the approach.   The TSM is also applied for system identification of an aircraft using motion capture data. In this application, time domain system identification techniques are used to identify both linear and nonlinear aerodynamic models of large-amplitude pitching motions driven by control surface deflections. The resulting models are assessed based on both their predictive capabilities as well as simulation results.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-11T09:00:08Z (GMT). No. of bitstreams: 1 Grymin_DJ_D_2013.pdf: 6130491 bytes, checksum: 9cbd57bec2322cced582b1b15c16a753 (MD5)   Previous issue date: 2013-12-10",
+  "format_medium": "ETD",
+  "handle": "24520",
+  "identifier_other": "vt_gsexam:1855",
+  "identifier_uri": "http://hdl.handle.net/10919/24520",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Aircraft",
+    "Motion Primitives",
+    "Parameter Estimation",
+    "Path Planning",
+    "System Identification",
+    "Trajectory Generation"
+  ],
+  "title": "Two-Step System Identification and Primitive-Based Motion Planning for Control of Small Unmanned Aerial Vehicles",
+  "type": "Dissertation"
+}

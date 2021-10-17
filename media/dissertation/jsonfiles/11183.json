@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Estève, Simon J.",
+  "contributor_committeechair": "Johnson, Martin E.",
+  "contributor_committeemember": [
+    "Burdisso, Ricardo A.",
+    "Clark, Robert L.",
+    "Fuller, Christopher R.",
+    "Leo, Donald J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2011-08-22T19:01:59Z",
+  "date_adate": "2004-05-28",
+  "date_available": "2011-08-22T19:01:59Z",
+  "date_issued": "2004-04-22",
+  "date_rdate": "2004-05-28",
+  "date_sdate": "2004-05-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new passive treatment to reduce sound transmission into payload fairing at low frequency is investigated. This new solution is composed of optimally damped vibration absorbers (DVA) and optimally damped Helmholtz resonators (HR). A fully coupled structural-acoustic model of a composite cylinder excited by an external plane wave is developed as a first approximation of the system. A modal expansion method is used to describe the behavior of the cylindrical shell and the acoustic cavity; the noise reduction devices are modeled as surface impedances. All the elements are then fully coupled using an impedance matching method. This model is then refined using the digitized mode shapes and natural frequencies obtained from a fairing finite element model.  For both models, the noise transmission mechanisms are highlighted and the noise reduction mechanisms are explained. Procedures to design the structural and acoustic absorbers based on single degree of freedom system are modified for the multi-mode framework. The optimization of the overall treatment parameters namely location, tuning frequency, and damping of each device is also investigated using genetic algorithm. Noise reduction of up to 9dB from 50Hz to 160Hz using 4% of the cylinder mass for the DVA and 5% of the cavity volume for the HR can be achieved. The robustness of the treatment performance to changes in the excitation, system and devices characteristics is also addressed. The model is validated by experiments done outdoors on a 10-foot long, 8-foot diameter composite cylinder. The excitation level reached 136dB at the cylinder surface comparable to real launch acoustic environment. With HRs representing 2% of the cylinder volume, the noise transmission from 50Hz to160Hz is reduced by 3dB and the addition of DVAs representing 6.5% of the cylinder mass enhances this performance to 4.3dB. Using the fairing model, a HR+DVA treatment is designed under flight constraints and is implemented in a real Boeing fairing. The treatment is composed of 220 HRs and 60 DVAs representing 1.1% and 2.5% of the fairing volume and mass respectively. Noise reduction of 3.2dB from 30Hz to 90Hz is obtained experimentally. As a natural extension, a new type of adaptive Helmholtz resonator is developed. A tuning law commonly used to track single frequency disturbance is newly applied to track modes driven by broadband excitation. This tuning law only requires information local to the resonator simplifying greatly its implementation in a fairing where it can adapt to shifts in acoustic natural frequencies caused by varying payload fills. A time domain model of adaptive resonators coupled to a cylinder is developed. Simulations demonstrate that multiple adaptive HRs lead to broadband noise reductions similar to the ones obtained with genetic optimization. Experiments conducted on the cylinder confirmed the ability of adaptive HRs to converge to a near optimal solution in a frequency band including multiple resonances.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:01:59Z (GMT). No. of bitstreams: 1  Esteve_PhD_dissertation.pdf: 4876724 bytes, checksum: d50719165b96846f4c11b8b47476b2b8 (MD5)    Previous issue date: 2004-04-22",
+    "Author Email: sesteve@vt.edu",
+    "Advisor Email: martyj@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Advisor Email: rclark@duke.edu",
+    "Advisor Email: C.R.Fuller@larc.nasa.gov",
+    "Advisor Email: donleo@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11183",
+  "identifier_other": "etd-05172004-152734",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05172004-152734",
+  "identifier_uri": "http://hdl.handle.net/10919/11183",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Esteve_PhD_dissertation.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "acoustic transmission",
+    "Helmholtz resonator",
+    "vibration absorber",
+    "payload fairing"
+  ],
+  "title": "Control of sound transmission into payload fairings using distributed vibration absorbers and Helmholtz resonators",
+  "type": "Dissertation"
+}

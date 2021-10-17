@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Huang, Daocheng",
+  "contributor_committeechair": "Lee, Fred C",
+  "contributor_committeemember": [
+    "Viehland, Dwight D",
+    "Mattavelli, Paolo",
+    "Boroyevich, Dushan",
+    "De La Reelopez, Jaime"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-01-21T09:00:17Z",
+  "date_available": "2014-01-21T09:00:17Z",
+  "date_issued": "2014-01-20",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "With the fast development of communication systems, computers and consumer electronics, the power supplies for telecoms, servers, desktops, laptops, flat-panel TVs, LED lighting, etc. are required for more efficient power delivery with smaller spaces. The LLC resonant converter has been widely adopted for these applications due to the advantages in high efficiency, high power density and holdup time operation capability.  However, LLC resonant converter meets some issues, especially in high output current applications. Those issues include magnetic design, start-up, short-circuit protection, synchronous rectifier drive, EMI noise and integration, etc.  To solve those issues, like start-up and short-circuit protection, SR driving and EMI, etc., a synthesis method is proposed to find the similar resonant topologies like LLC. Based on this method, lots of multi-element resonant converters are found to solve the issues that LLC resonant converter cannot handle.   To evaluate the performance of found numerous valuable topologies. Thus, a general evaluation system is required. State-plane analysis with new normalization factors is utilized. Based on it, the voltage stress, current stresses and apparent power of resonant converters are easy to compare. This method can help select suitable circuit topology for certain applications. Meanwhile, it also can help resonant converters' design. The important performance factors, like start-up, short-circuit protection, SR driving, integration and EMI performance, are also taken into account for the whole evaluation system.  The high switching frequency is needed recently for high power density requirement. However, LLC resonant converter suffers high transformer loss. Matrix transformer is introduced to reduce winding loss and total volume. Flux cancellation method is utilized to reduce core size and loss. Synchronous Rectifier (SR) devices and output capacitors are integrated into secondary windings to eliminate termination related winding losses, via loss and reduce leakage inductance.   The passive integration is necessary for high power density resonant converter, especially for high order system. Based on stress, suitable passive components are chosen for integration. Then, the magnetic integration method is shown based on multi-winding transformer structure. The passive integration principles are discussed. A novel passive integration method is proposed for multi-elements resonant converters.   In conclusion, this work is focus on the topology analysis and integration of resonant converters. Searching the suitable topologies for certain application, and evaluate the performance of them. Then, improve the system power density by integration techniques.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-21T09:00:17Z (GMT). No. of bitstreams: 2  Huang_D_D_2014.pdf: 5225059 bytes, checksum: e46beb5f34c9c6e97904689ff3c38b1e (MD5)  Huang_D_D_2014_support_1.pdf: 406599 bytes, checksum: 9ff7d83c4204dcf4741dfdf23e4df750 (MD5)    Previous issue date: 2014-01-20",
+  "format_medium": "ETD",
+  "handle": "24909",
+  "identifier_other": "vt_gsexam:1760",
+  "identifier_uri": "http://hdl.handle.net/10919/24909",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Integration",
+    "Topology",
+    "LLC resonant converter"
+  ],
+  "title": "Investigation of Topology and Integration for Multi-Element Resonant Converters",
+  "type": "Dissertation"
+}

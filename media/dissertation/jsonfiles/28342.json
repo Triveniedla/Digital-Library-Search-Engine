@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Chen, Xiaoding",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Shukla, Sandeep K.",
+    "Martin, Thomas L.",
+    "Lu, Guo-Quan",
+    "Edwards, Stephen H."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:09Z",
+  "date_adate": "2006-09-19",
+  "date_available": "2014-03-14T20:14:09Z",
+  "date_issued": "2006-05-26",
+  "date_rdate": "2006-09-19",
+  "date_sdate": "2006-07-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The ever-increasing complexity and size of current circuit designs have made testing and verification major bottlenecks in the design flow of VLSI (Very Large Scale Integrated) circuits. Statistics show that more than 70% of the design effort can be spent on functional verification and manufacturing testing. This percentage is expected to increase in the future if no significant strides in these areas are made. In this dissertation, we target three related problems in simulation-based Design Verification and Testing: Sequential ATPG (Automatic Test Pattern Generation), Unbounded Model Checking (UMC) of safety properties, and low power testing for full-scan sequential circuits. We model these three problems as simulation-based pattern generation problems and exploit novel ATPG algorithms to increase the effectiveness of sequential ATPGs.  <P> The main challenge for fault/error detection in sequential circuits is the large number of flip-flops (FFs) in modern designs. Due to the large number and variable length of test sequences required for such circuits, the existing deterministic ATPG algorithms fail to achieve high test coverages. Such algorithms typically work by first unrolling the sequential circuit and then performing frequent backtracking to generate test vectors for fault detection. For the hard-to-detect faults, these schemes either run out of memory or require a huge computational effort. We show that simulationbased ATPGs, on the other hand, scale very well for large circuits as they perform only forward simulation. A fundamental problem associated with simulation-based ATPGs is to avoid exhaustive circuit simulation, which is impractical for large designs in the real world, by choosing high quality test vectors that achieve a high test coverage within a low simulation time. We tackle this primary problem by exploiting different correlation-based heuristics.  <P> The intuition behind using correlation-based heuristics is to better guide the pattern generation engine such that the specific objective of either fault detection or property verification in UMC or minimizing power consumption during the testing, is achieved in an efficient manner without resorting to exhaustive simulation. In particular, we model and explore the following correlations: (1) temporal correlations, i.e. correlations on each primary input (PI) in different time frames, and (2) spatial correlations, i.e. correlations among different FFs in the same time frame. We employ temporal correlations in the context of pattern generation of a built-in-self-test (BIST) architecture and we explore spatial correlations to guide a logic-simulation-based sequential ATPG and low power scan test generation. Experimental results on ISCAS and ITC benchmark circuits have shown that those correlations can enhance the simulation to discover more faults or design errors in a significantly shorter time.",
+  "description_provenance": [
+    "Author Email: xichen8@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: tlmartin@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:09Z (GMT). No. of bitstreams: 1 xiaoding_dissertation.pdf: 1100512 bytes, checksum: 50395a76d8c866931a8c4a4d263b5239 (MD5)   Previous issue date: 2006-05-26"
+  ],
+  "handle": "28342",
+  "identifier_other": "etd-07202006-181216",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07202006-181216/",
+  "identifier_uri": "http://hdl.handle.net/10919/28342",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "xiaoding_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "BIST",
+    "State Variables",
+    "Correlation",
+    "ATPG",
+    "Simulation"
+  ],
+  "title": "Exploring Temporal and Spatial Correlations on Circuit Variables for Enhancing Simulation-based Test Generation",
+  "type": "Dissertation"
+}

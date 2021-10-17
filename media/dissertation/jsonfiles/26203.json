@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Lee, Sang-Mook",
+  "contributor_committeechair": "Abbott, A. Lynn",
+  "contributor_committeemember": [
+    "Conners, Richard W.",
+    "Athanas, Peter M.",
+    "Schmoldt, Daniel L.",
+    "VanLandingham, Hugh F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:26Z",
+  "date_adate": "2002-02-18",
+  "date_available": "2014-03-14T20:07:26Z",
+  "date_issued": "2002-02-01",
+  "date_rdate": "2003-02-18",
+  "date_sdate": "2002-02-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A height field is a set of height distance values sampled at a finite set of sample points in a two-dimensional parameter domain.  A height field usually contains a lot of redundant information, much of which can be removed without a substantial degradation of its quality.  A common approach to reducing the size of a height field representation is to use a piecewise polygonal surface approximation.  This consists of a mesh of polygons that approximates the surfaces of the original data at a desired level of accuracy.  Polygonal surface approximation of height fields has numerous applications in the fields of computer graphics and computer vision.   Triangular mesh approximations are a popular means of representing three-dimensional surfaces, and multiresolution analysis (MRA) is often used to obtain compact representations of dense input data, as well as to allow surface approximations at varying spatial resolution.  Multiresolution approaches, particularly those moving from coarse to fine resolutions, can often improve the computational efficiency of mesh generation as well as can provide easy control of level of details for approximations. This dissertation concerns the use of wavelet-based MRA methods to produce a triangular-mesh surface approximation from a single height field dataset.  The goal of this study is to obtain a fast surface approximation for a set of height data, using a small number of approximating elements to satisfy a given error criterion.  Typically, surface approximation techniques attempt to balance error of fit, number of approximating elements, and speed of computation.  A novel aspect of this approach is the direct evaluation of wavelet coefficients to assess surface shape characteristics within each triangular element at a given scale. Our approach hierarchically subdivides and refines triangles as the resolution level increases.",
+  "description_provenance": [
+    "Author Email: lsmook@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: athanas@vt.edu",
+    "Advisor Email: dschmoldt@reeusda.gov",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:26Z (GMT). No. of bitstreams: 1 ETD_SangMook.pdf: 6099480 bytes, checksum: 0ac8df054aad167e265504b3c7e74d70 (MD5)   Previous issue date: 2002-02-01"
+  ],
+  "handle": "26203",
+  "identifier_other": "etd-02152002-142527",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02152002-142527/",
+  "identifier_uri": "http://hdl.handle.net/10919/26203",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_SangMook.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "surface approximation",
+    "triangulation",
+    "level-of-detail",
+    "multiresolution analysis",
+    "height field",
+    "wavelet",
+    "templates"
+  ],
+  "title": "Wavelet-Based Multiresolution Surface Approximation from Height Fields",
+  "type": "Dissertation"
+}

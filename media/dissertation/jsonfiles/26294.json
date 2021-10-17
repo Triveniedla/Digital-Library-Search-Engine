@@ -1,0 +1,64 @@
+{
+  "contributor_author": "Moustafa, Iman Saleh",
+  "contributor_committeechair": [
+    "Kulczycki, Gregory W.",
+    "Kulczycki, Gregory W."
+  ],
+  "contributor_committeecochair": [
+    "Blake, M. Brian",
+    "Blake, M. Brian"
+  ],
+  "contributor_committeemember": [
+    "Chen, Ing-Ray",
+    "Egyhazy, Csaba J.",
+    "Frakes, William B.",
+    "Chen, Ing-Ray",
+    "Egyhazy, Csaba J.",
+    "Frakes, William B."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:07:45Z",
+  "date_adate": "2012-04-20",
+  "date_available": "2014-03-14T20:07:45Z",
+  "date_issued": "2012-02-10",
+  "date_rdate": "2012-04-20",
+  "date_sdate": "2012-02-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this thesis, we develop and evaluate a formal model and contracting framework for data-centric Web services. The central component of our framework is a formal specification of a common Create-Read-Update-Delete (CRUD) data store. We show how this model can be used in the formal specification and verification of both basic and transactional Web service compositions. We demonstrate through both formal proofs and empirical evaluations that our proposed framework significantly decreases ambiguity about a service, enhances its reuse, and facilitates detection of errors in service-based implementations.  Web Services are reusable software components that make use of standardized interfaces to enable loosely-coupled business-to-business and customer-to-business interactions over the Web. In such environments, service consumers depend heavily on the service interface specification to discover, invoke, and synthesize services over the Web. Data-centric Web services are services whose behavior is determined by their interactions with a repository of stored data. A major challenge in this domain is interpreting the data that must be marshaled between consumer and producer systems. While the Web Services Description Language (WSDL) is currently the de facto standard for Web services, it only specifies a service operation in terms of its syntactical inputs and outputs; it does not provide a means for specifying the underlying data model, nor does it specify how a service invocation affects the data. The lack of data specification potentially leads to erroneous use of the service by a consumer. In this work, we propose a formal contract for data-centric Web services. The goal is to formally and unambiguously specify the service behavior in terms of its underlying data model and data interactions. We address the specification of a single service, a flow of services interacting with a single data store, and also the specification of distributed transactions involving multiple Web services interacting with different autonomous data stores. We use the proposed formal contract to decrease ambiguity about a service behavior, to fully verify a composition of services, and to guarantee correctness and data integrity properties within a transactional composition of services.",
+  "description_provenance": [
+    "Author Email: imostafa@vt.edu",
+    "Advisor Email: gwk@vt.edu",
+    "Advisor Email: mbblake@gmail.com",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: cegyhazy@vt.edu",
+    "Advisor Email: frakes@cs.vt.edu",
+    "Advisor Email: gwk@vt.edu",
+    "Advisor Email: mbblake@gmail.com",
+    "Advisor Email: irchen@vt.edu",
+    "Advisor Email: cegyhazy@vt.edu",
+    "Advisor Email: frakes@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:45Z (GMT). No. of bitstreams: 2 Moustafa_IS_D_2012.pdf: 1597952 bytes, checksum: 21e746064fcd8214f581b2b0306d84de (MD5) Moustafa_IS_D_2012.pdf: 1597952 bytes, checksum: 21e746064fcd8214f581b2b0306d84de (MD5)   Previous issue date: 2012-02-10"
+  ],
+  "handle": "26294",
+  "identifier_other": "etd-02232012-124413",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02232012-124413/",
+  "identifier_uri": "http://hdl.handle.net/10919/26294",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Moustafa_IS_D_2012.pdf",
+    "Moustafa_IS_D_2012.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Formal Methods",
+    "Data Modeling",
+    "Software Specification and Verification",
+    "Formal Methods",
+    "Data Modeling",
+    "Software Specification and Verification"
+  ],
+  "title": "Formal Specification and Verification of  Data-Centric Web Services",
+  "type": "Dissertation"
+}

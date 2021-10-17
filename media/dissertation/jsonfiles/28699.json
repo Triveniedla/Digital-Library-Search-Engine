@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Pond, Kevin R",
+  "contributor_committeechair": "Borggaard, Jeffrey T.",
+  "contributor_committeemember": [
+    "Cliff, Eugene M.",
+    "Herdman, Terry L.",
+    "Zietsman, Lizette",
+    "Burns, John A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:21Z",
+  "date_adate": "2010-09-02",
+  "date_available": "2014-03-14T20:15:21Z",
+  "date_issued": "2010-08-06",
+  "date_rdate": "2012-08-24",
+  "date_sdate": "2010-08-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this work is the development of novel, efficient and reliable multidi- mensional adaptive quadrature routines defined over simplices (MAQS). MAQS pro- vides an approximation to the integral of a function defined over the unit hypercube and provides an error estimate that is used to drive a global subdivision strategy. The quadrature estimate is based on Lagrangian interpolation defined by using the vertices, edge nodes and interior points of a given simplex. The subdivision of a given simplex is chosen to allow for the reuse of points (thus function evaluations at those points) in successive refinements of the initial tessellation. While theory is developed for smooth functions, this algorithm is well suited for functions with discontinuities in dimensions three through six. Other advantages of this approach include straight-forward parallel implementation and application to integrals over polyhedral domains.",
+  "description_provenance": [
+    "Author Email: kevin.pond@vt.edu",
+    "Advisor Email: ecliff@vt.edu",
+    "Advisor Email: herd88@vt.edu",
+    "Advisor Email: lzietsma@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: jaburns@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:21Z (GMT). No. of bitstreams: 1 Pond_KR_D_2010.pdf: 28043084 bytes, checksum: 4d50ae475b5f3fe373c1f37ac64042df (MD5)   Previous issue date: 2010-08-06"
+  ],
+  "handle": "28699",
+  "identifier_other": "etd-08172010-151435",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08172010-151435/",
+  "identifier_uri": "http://hdl.handle.net/10919/28699",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Pond_KR_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "multidimensional",
+    "quadrature",
+    "adaptive",
+    "simplices"
+  ],
+  "title": "Multidimensional Adaptive Quadrature Over Simplices",
+  "type": "Dissertation"
+}

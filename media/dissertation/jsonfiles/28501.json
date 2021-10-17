@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Bish, Douglas R",
+  "contributor_committeecochair": [
+    "Hobeika, Antoine G.",
+    "Sherali, Hanif D."
+  ],
+  "contributor_committeemember": [
+    "Kachroo, Pushkin",
+    "Trani, Antonio A.",
+    "Baik, Hojong"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:14:41Z",
+  "date_adate": "2006-08-15",
+  "date_available": "2014-03-14T20:14:41Z",
+  "date_issued": "2006-07-31",
+  "date_rdate": "2010-10-12",
+  "date_sdate": "2006-08-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Evacuation planning is an important disaster management tool.  A large-scale evacuation of a region by automobile is a difficult task, especially as demand is often greater than supply.  This is made more difficult as the imbalance of supply and demand actually reduces supply due to congestion.  Currently,  most of the emphasis in evacuation planning is on supply management. The purpose of this dissertation is to introduce and study sophisticated demand management tools, specifically, staging and routing of evacuees. These tools can be used to produce evacuation strategies that reduce or eliminate congestion. A strategic planning model is introduced that accounts for evacuation dynamics and the non-linearities in travel times associated with congestion, yet is tractable and can be applied to large-scale networks.  Objective functions of potential interest in evacuation planning are introduced and studied in the context of this model. Insights into the use of staging and routing in evacuation management are delineated and solution techniques are developed. Two different strategic approaches are studied in the context of this model. The first strategic approach is to control the evacuation at a disaggregate level, where customized staging and routing plans are produced for each individual or family unit. The second strategic approach is to control the evacuation at a more aggregate level, where evacuation plans are developed for a larger group of evacuees, based on pre-defined geographic areas.  In both approaches, shelter requirements and preferences can also be considered. Computational experience using these two strategic approaches, and their respective solution techniques, is provided using a real network pertaining to Virginia Beach, Virginia, in order to demonstrate the efficacy of the proposed methodologies.",
+  "description_provenance": [
+    "Author Email: drb1@vt.edu",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: hanifs@vt.edu",
+    "Advisor Email: pkachroo@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: hbaik@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:41Z (GMT). No. of bitstreams: 1 ETD_Dissertation2.pdf: 758664 bytes, checksum: bc00d06a89357df364932f8d1249485d (MD5)   Previous issue date: 2006-07-31"
+  ],
+  "handle": "28501",
+  "identifier_other": "etd-08032006-135013",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08032006-135013/",
+  "identifier_uri": "http://hdl.handle.net/10919/28501",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_Dissertation2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "staging",
+    "routing",
+    "mixed-integer programming",
+    "demand management",
+    "evacuation management"
+  ],
+  "title": "Demand Management in Evacuation: Models, Algorithms, and Applications",
+  "type": "Dissertation"
+}

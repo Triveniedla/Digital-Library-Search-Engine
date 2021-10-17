@@ -1,0 +1,58 @@
+{
+  "contributor_author": "Hays, Joseph T",
+  "contributor_committeecochair": [
+    "Sandu, Adrian",
+    "Sandu, Corina",
+    "Hong, Dennis W."
+  ],
+  "contributor_committeemember": [
+    "Ross, Shane D.",
+    "Southward, Steve C."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:52Z",
+  "date_adate": "2011-09-02",
+  "date_available": "2014-03-14T20:15:52Z",
+  "date_issued": "2011-08-25",
+  "date_rdate": "2011-09-02",
+  "date_sdate": "2011-09-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research effort develops a comprehensive computational framework to support the parametric optimal design of uncertain dynamical systems. Uncertainty comes from various sources, such as: system parameters, initial conditions, sensor and actuator noise, and external forcing. Treatment of uncertainty in design is of paramount practical importance because all real-life systems are affected by it; not accounting for uncertainty may result in poor robustness, sub-optimal performance and higher manufacturing costs.   Contemporary methods for the quantification of uncertainty in dynamical systems are computationally intensive which, so far, have made a robust design optimization methodology prohibitive. Some existing algorithms address uncertainty in sensors and actuators during an optimal design; however, a comprehensive design framework that can treat all kinds of uncertainty with diverse distribution characteristics in a unified way is currently unavailable. The computational framework uses Generalized Polynomial Chaos methodology to quantify the effects of various sources of uncertainty found in dynamical systems; a Least-Squares Collocation Method is used to solve the corresponding uncertain differential equations. This technique is significantly faster computationally than traditional sampling methods and makes the construction of a parametric optimal design framework for uncertain systems feasible.   The novel framework allows to directly treat uncertainty in the parametric optimal design process. Specifically, the following design problems are addressed: motion planning of fully-actuated and under-actuated systems; multi-objective robust design optimization; and optimal uncertainty apportionment concurrently with robust design optimization. The framework   advances the state-of-the-art and enables engineers to produce more robust and optimally performing designs at an optimal manufacturing cost.",
+  "description_provenance": [
+    "Author Email: joehays@vt.edu",
+    "Advisor Email: sandu@cs.vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: sdross@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:52Z (GMT). No. of bitstreams: 1 Hays_JT_T_2011.pdf: 1606388 bytes, checksum: 520383d3a27d9dc93aa9829f713dae9e (MD5)   Previous issue date: 2011-08-25"
+  ],
+  "handle": "28850",
+  "identifier_other": "etd-09012011-162500",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09012011-162500/",
+  "identifier_uri": "http://hdl.handle.net/10919/28850",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hays_JT_T_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Ordinary Differential Equations (ODEs)",
+    "Trajectory Planning",
+    "Motion Planning",
+    "Generalized Polynomial Chaos (gPC)",
+    "Uncertainty Quantification",
+    "Multi-Objective Optimization (MOO)",
+    "Nonlinear Programming (NLP)",
+    "Dynamic Optimization",
+    "Optimal Control",
+    "Robust Design Optimization (RDO)",
+    "Collocation",
+    "Uncertainty Apportionment",
+    "Tolerance Allocation",
+    "Multibody Dynamics",
+    "Differential Algebraic Equations (DAEs)"
+  ],
+  "title": "Parametric Optimal Design Of Uncertain Dynamical Systems",
+  "type": "Dissertation"
+}

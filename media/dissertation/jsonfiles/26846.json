@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Kamat, Vineet Rajendra",
+  "contributor_committeechair": "Martinez, Julio C.",
+  "contributor_committeemember": [
+    "de la Garza, Jesus M.",
+    "Trani, Antonio A.",
+    "Vorster, Michael C.",
+    "Bowman, Douglas A.",
+    "Songer, Anthony D.",
+    "Wakefield, Ronald R."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:09:35Z",
+  "date_adate": "2003-04-21",
+  "date_available": "2014-03-14T20:09:35Z",
+  "date_issued": "2003-04-14",
+  "date_rdate": "2004-04-21",
+  "date_sdate": "2003-04-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the domain of operations design and analysis, the ability to see a 3D animation of processes that have been simulated allows for three very important things: 1) The developer of a simulation model can ascertain that there are no errors in the coding (Verification); 2) The experts, field personnel, and decision makers can discover differences between the way they understand the operation and the way the model developer understands it (Validation); and 3) A model can be communicated effectively which, coupled with verification and validation, makes it â  credibleâ   and thus used in making decisions. In the case of simulated construction operations, the existent body of knowledge and understanding did not generally permit modeled processes to be accurately visualized in 3D. The purpose of this research was to remedy this situation and find methods of describing animated 3D worlds that show how construction operations modeled using Discrete-Event Simulation were/can be carried out, using simple text statements and references to 3D CAD drawings. The fundamental question the work addressed was how to achieve accurate, dynamic, smooth, and continuous 3D animation of arbitrarily-complex simulated construction processes, based on meager pieces of operational information that can only be communicated when discrete events occur in simulation runs. The end result of this effort is VITASCOPE, an acronym for VIsualizaTion of Simulated Construction OPErations. VITASCOPE is a simple, parametric-text animation description language that is meant to be written out by end-user programmable software such as discrete-event simulation tools. Sequential instructions written in this language allow a computer to create a 3D virtual world that is accurate in time, space, and appearance; and that shows people, machines, and materials interacting as they build constructed facilities.",
+  "description_provenance": [
+    "Author Email: vineet@vt.edu",
+    "Advisor Email: chema@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: mikev@vt.edu",
+    "Advisor Email: julio@vt.edu",
+    "Advisor Email: bowman@vt.edu",
+    "Advisor Email: adsonger@vt.edu",
+    "Advisor Email: ronwak@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:35Z (GMT). No. of bitstreams: 1 VineetRKamat.PhDDissertation.pdf: 11792358 bytes, checksum: 32737bb98c9d1e14b2c057bb22661d40 (MD5)   Previous issue date: 2003-04-14"
+  ],
+  "handle": "26846",
+  "identifier_other": "etd-04142003-222138",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04142003-222138/",
+  "identifier_uri": "http://hdl.handle.net/10919/26846",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "VineetRKamat.PhDDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Verification",
+    "3D Visualization",
+    "Vitascope",
+    "Validation",
+    "Discrete-Event Simulation",
+    "Credibility",
+    "Construction Operations",
+    "Animation"
+  ],
+  "title": "VITASCOPE: Extensible and Scalable 3D Visualization of Simulated Construction Operations",
+  "type": "Dissertation"
+}

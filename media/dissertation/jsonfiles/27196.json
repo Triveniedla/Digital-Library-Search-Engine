@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Lear, Matthew Houck",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Librescu, Liviu",
+    "Prather, Carl L.",
+    "Thangjitham, Surot",
+    "Kapania, Rabesh K."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:10:36Z",
+  "date_adate": "2003-04-24",
+  "date_available": "2014-03-14T20:10:36Z",
+  "date_issued": "2003-04-24",
+  "date_rdate": "2004-04-24",
+  "date_sdate": "2003-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Plane strain deformations of an elastoplastic material are studied using numerical methods. In the first chapter, a meshless formulation of the static small strain elastic-plastic problem is formulated using the meshless local Petrov-Galerkin method. The code is validated against the small strain plasticity routines in the commercial finite element code ABAQUS for two basic configurations with loading, unloading, and reloading. The results are found to agree within 5%. The validated code is then used to analyze the stress intensity factor (SIF) in a double edge-cracked plate. Deformations of the plate are studied both with and without exploiting the symmetry conditions. The penalty method is used to enforce the essential boundary condition in the former case. When analyzing the deformations of the entire plate, the diffraction method is employed in order to introduce the discontinuity in the displacement field across the crack faces. The log-log and a higher order extrapolation technique due to Dally and Berger (1996) are used to calculate the SIF. It is found that the penalty method was inadequate to enforce the essential boundary conditions in the vicinity of the crack tip and that in this region the deformations were oscillatory. Consequently, the SIF calculation using the higher order technique was not accurate. It is also found that for a small plastic zone (3% of the cracked length) the SIFs do not differ significantly from their values for the corresponding linear elastic problem.   In the second chapter, a finite element formulation of the dynamic deformations of a micro-porous thermoviscoplastic solid is formulated. The heat conduction in a material is assumed to be governed by a hyperbolic heat equation; thus thermal and mechanical waves propagate with finite speeds. The formation and propagation of an adiabatic shear band (ASB) inplane strain tensile deformations is studied for eleven materials. The ASB is assumed to form when the maximum shear stress has been reduced to 80% of its peak value at a point and it is deforming plastically. The materials are ranked according their susceptibility to the formation of an ASB. A parametric study of the effect of the initial defect strength where the defect is assumed through an initially inhomogeneous distribution of porosity, the thermal conductivity, the thermal wave speed, and the applied strain-rate upon the ASB initiation and propagation is conducted. It is found that the susceptibility ranking for this configuration differs somewhat from that previously found for simple shear and torsion of thin-walled tubes. It is also found that thermal conductivity influences ASB initiation and propagation only for materials with large values of Â· and that for such materials an adiabatic model may not be adequate. The effects of initial defect strength and the nominal strain-rates are both found to be consistent with simple shearing studies except that the ASB propagation speed was found to decrease with increasing nominal strain-rate. It is found that the criterion employed for ASB initiation accurately predicts the onset of the collapse of the total axial load applied to the body.   In the final chapter, the formulation from the previous chapter is modified to permit the formation and propagation of brittle and ductile fracture. Deformations of the impact loaded double edge-crack specimen of Kalthoff and Winkler (1987) are studied. The brittle to ductile failure mode transition with increasing impact speed was found. Previous studies have focused on identifying the transition speed and did not allow for crack propagation. In this study, crack propagation is achieved through a nodal release algorithm and interpenetration of the crack surfaces is prevented using stiff-spring contact elements. Brittle fracture is assumed to occur when the maximum tensile principal stress achieves a critical value and the ductile fracture is assumed to occur when the effective plastic strain reaches a critical value. It is found that the transition speed for 4340 steel is approximately 54 m/s. For the brittle failure, the stress field is found to be significantly modified by the propagating crack and in the vicinity of the propagating crack the field is mode-I dominant. The crack formed through brittle fracture is found to completely propagate through the plate. For the ductile failure, the distribution of effective plastic strain about the crack tip is not significantly altered by the formation of the crack. The temperature rise in the vicinity of the ductile crack is found to be approximately 45% of the melting temperature of the material.",
+  "description_provenance": [
+    "Author Email: mlear@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: cprather@vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: rkapania@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:36Z (GMT). No. of bitstreams: 1 mlear_etd3b.pdf: 2483203 bytes, checksum: f79006e496f846d4feb41858423f4879 (MD5)   Previous issue date: 2003-04-24"
+  ],
+  "handle": "27196",
+  "identifier_other": "etd-04242003-122053",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242003-122053/",
+  "identifier_uri": "http://hdl.handle.net/10919/27196",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mlear_etd3b.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "dynamic fracture",
+    "MLPG method",
+    "failure mode transition",
+    "adiabatic shear band",
+    "finite element method"
+  ],
+  "title": "Numerical Simulation of Adiabatic Shear Bands and Crack Propagation in Thermoviscoplastic Materials",
+  "type": "Dissertation"
+}

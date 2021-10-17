@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Wang, Lu",
+  "contributor_committeechair": "Pang Du",
+  "contributor_committeecochair": "George R. Terrell",
+  "contributor_committeemember": [
+    "Eric P. Smith",
+    "Chuanhai Liu",
+    "Scotland C. Leman"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:14:11Z",
+  "date_adate": "2010-07-30",
+  "date_available": "2014-03-14T20:14:11Z",
+  "date_issued": "2010-07-13",
+  "date_rdate": "2013-05-21",
+  "date_sdate": "2010-07-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In some survival analysis of medical studies, there are often long term survivors who can be considered as permanently cured. The goals in these studies are to estimate the cure probability of the whole population and the hazard rate of the noncured subpopulation. The existing methods for cure rate models have been limited to parametric and semiparametric models. More specifically, the hazard function part is estimated by parametric or semiparametric model where the effect of covariate takes a parametric form. And the cure rate part is often estimated by a parametric logistic regression model. We introduce a non-parametric model employing smoothing splines. It provides non-parametric smooth estimates for both hazard function and cure rate. By introducing a latent cure status variable, we implement the method using a smooth EM algorithm. Louisâ   formula for covariance estimation in an EM algorithm is generalized to yield point-wise confidence intervals for both functions. A simple model selection procedure based on the Kullback-Leibler geometry is derived for the proposed cure rate model. Numerical studies demonstrate excellent performance of the proposed method in estimation, inference and model selection. The application of the method is illustrated by the analysis of a melanoma study.",
+  "description_provenance": [
+    "Author Email: luwang@vt.edu",
+    "Advisor Email: pangdu@vt.edu",
+    "Advisor Email: terrell@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: chuanhai@purdue.edu",
+    "Advisor Email: leman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:11Z (GMT). No. of bitstreams: 1 thesis.pdf: 5500557 bytes, checksum: 0a90a96cf748d86187c2727d2dc9b0e4 (MD5)   Previous issue date: 2010-07-13"
+  ],
+  "handle": "28359",
+  "identifier_other": "etd-07222010-123652",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07222010-123652/",
+  "identifier_uri": "http://hdl.handle.net/10919/28359",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": "Nonparametric Function Estimation; Smoothing Splin",
+  "title": "Cure Rate Model with Spline Estimated Components",
+  "type": "Dissertation"
+}

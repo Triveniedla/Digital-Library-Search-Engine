@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Kirchner, William",
+  "contributor_committeechair": "Southward, Steve C.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Ahmadian, Mehdi",
+    "Sandu, Corina",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:08:51Z",
+  "date_adate": "2012-05-02",
+  "date_available": "2014-03-14T20:08:51Z",
+  "date_issued": "2012-03-22",
+  "date_rdate": "2013-05-02",
+  "date_sdate": "2012-04-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Human expert drivers have the unique ability to build complex perceptive models using correlated sensory inputs and outputs. In the case of longitudinal vehicle traction, this work will show a direct correlation in longitudinal acceleration to throttle input in a controlled laboratory environment. In fact, human experts have the ability to control a vehicle at or near the performance limits, with respect to vehicle traction, without direct knowledge of the vehicle states; speed, slip or tractive force. Traditional algorithms such as PID, full state feedback, and even sliding mode control have been very successful at handling low level tasks where the physics of the dynamic system are known and stationary. The ability to learn and adapt to changing environmental conditions, as well as develop perceptive models based on stimulus-response data, provides expert human drivers with significant advantages. When it comes to bandwidth, accuracy, and repeatability, automatic control systems have clear advantages over humans; however, most high performance control systems lack many of the unique abilities of a human expert. The underlying motivation for this work is that there are advantages to framing the traction control problem in a manner that more closely resembles how a human expert drives a vehicle. The fundamental idea is the belief that humans have a unique ability to adapt to uncertain environments that are both temporal and spatially varying. In this work, a novel approach to traction control is developed using an anthropomimetic control synthesis strategy. The proposed anthropomimetic traction control algorithm operates on the same correlated input signals that a human expert driver would in order to maximize traction. A gradient ascent approach is at the heart of the proposed anthropomimetic control algorithm, and a real-time implementation is described using linear operator techniques, even though the tire-ground interface is highly non-linear. Performance of the proposed anthropomimetic traction control algorithm is demonstrated using both a longitudinal traction case study and a combined mode traction case study, in which longitudinal and lateral accelerations are maximized simultaneously. The approach presented in this research should be considered as a first step in the development of a truly anthropomimetic solution, where an advanced control algorithm has been designed to be responsive to the same limited input signals that a human expert would rely on, with the objective of maximizing traction. This work establishes the foundation for a general framework for an anthropomimetic control algorithm that is capable of learning and adapting to an uncertain, time varying environment. The algorithms developed in this work are well suited for efficient real time control in ground vehicles in a variety of applications from a driver assist technology to fully autonomous applications.",
+  "description_provenance": [
+    "Author Email: william.kirchner@gmail.com",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Advisor Email: csandu@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:51Z (GMT). No. of bitstreams: 1  Kirchner_WT_D_2012.pdf: 17830367 bytes, checksum: c7d42b7ced94b586a8e71096ab93eda5 (MD5)    Previous issue date: 2012-03-22"
+  ],
+  "handle": "26620",
+  "identifier_other": "etd-04032012-151016",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04032012-151016/",
+  "identifier_uri": "http://hdl.handle.net/10919/26620",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kirchner_WT_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.    I hereby grant to Virginia Tech or its agents the non-exclusive  license to archive and make accessible, under the conditions specified below,  my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Anthropomimetic",
+    "Traction Control",
+    "Discrete Adaptive Filter",
+    "Vehicle Dynamics",
+    "Adaptive Control",
+    "Human in the Loop",
+    "Gradient Estimation"
+  ],
+  "title": "Anthropomimetic Control Synthesis: Adaptive Vehicle Traction Control",
+  "type": "Dissertation"
+}

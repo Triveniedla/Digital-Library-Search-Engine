@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Li, Min",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Schaumont, Patrick Robert",
+    "Shukla, Sandeep K.",
+    "Yang, Yaling",
+    "Fan, Weiguo Patrick"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:52Z",
+  "date_adate": "2012-11-16",
+  "date_available": "2014-03-14T20:16:52Z",
+  "date_issued": "2012-09-17",
+  "date_rdate": "2012-11-16",
+  "date_sdate": "2012-09-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With the advances of very large scale integration (VLSI) technology, the feature size has been shrinking steadily together with the increase in the design complexity of logic circuits. As a result, the efforts taken for designing, testing, and debugging digital systems have increased tremendously. Although the electronic design automation (EDA) algorithms have been studied extensively to accelerate such processes, some computational intensive applications still take long execution times. This is especially the case for testing and validation. In order tomeet the time-to-market constraints and also to come up with a bug-free design or product, the work presented in this dissertation studies the acceleration of EDA algorithms on Graphics Processing Units (GPUs). This dissertation concentrates on a subset of EDA algorithms related to testing and validation. In particular, within the area of testing, fault simulation, diagnostic simulation and reliability analysis are explored. We also investigated the approaches to parallelize state justification on GPUs, which is one of the most difficult problems in the validation area.   Firstly, we present an efficient parallel fault simulator, FSimGP2, which exploits the high degree of parallelism supported by a state-of-the-art graphic processing unit (GPU) with the NVIDIA Compute Unified Device Architecture (CUDA). A novel three-dimensional parallel fault simulation technique is proposed to achieve extremely high computation efficiency on the GPU. The experimental results demonstrate a speedup of up to 4Ã  compared to another GPU-based fault simulator.   Then, another GPU based simulator is used to tackle an even more computation-intensive task, diagnostic fault simulation. The simulator is based on a two-stage framework which exploits high computation efficiency on the GPU. We introduce a fault pair based approach to alleviate the limited memory capacity on GPUs. Also, multi-fault-signature and dynamic load balancing techniques are introduced for the best usage of computing resources on-board.   With continuously feature size scaling and advent of innovative nano-scale devices, the reliability analysis of the digital systems becomes more important nowadays. However, the computational cost to accurately analyze a large digital system is very high. We proposes an high performance reliability analysis tool on GPUs. To achieve highmemory bandwidth on GPUs, two algorithms for simulation scheduling and memory arrangement are proposed. Experimental results demonstrate that the parallel analysis tool is efficient, reliable and scalable.  In the area of design validation, we investigate state justification. By employing the swarm intelligence and the power of parallelism on GPUs, we are able to efficiently find a trace that could help us reach the corner cases during the validation of a digital system.   In summary, the work presented in this dissertation demonstrates that several applications in the area of digital design testing and validation can be successfully rearchitected to achieve maximal performance on GPUs and obtain significant speedups. The proposed algorithms based on GPU parallelism collectively aim to contribute to improving the performance of EDA tools in Computer aided design (CAD) community on GPUs and other many-core platforms.",
+  "description_provenance": [
+    "Author Email: minli@vt.edu, min.li36@gmail.com",
+    "Advisor Email: schaum@exchange.vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:52Z (GMT). No. of bitstreams: 1 Li_M_D_2012.pdf: 1134549 bytes, checksum: 45044aa7ae32c29a8be5efd64833e7a2 (MD5)   Previous issue date: 2012-09-17"
+  ],
+  "handle": "29129",
+  "identifier_other": "etd-09282012-223318",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09282012-223318/",
+  "identifier_uri": "http://hdl.handle.net/10919/29129",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Li_M_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "general purpose computation on graphics processing",
+    "parallel algorithm",
+    "design validation",
+    "fault diagnosis",
+    "Fault simulation"
+  ],
+  "title": "Acceleration of Hardware Testing and Validation Algorithms using Graphics Processing Units",
+  "type": "Dissertation"
+}

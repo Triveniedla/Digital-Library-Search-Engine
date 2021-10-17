@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Faris, Waleed Fekry",
+  "contributor_committeechair": "Nayfeh, Ali H.",
+  "contributor_committeemember": [
+    "Wicks, Alfred L.",
+    "Kohler, Werner E.",
+    "Librescu, Liviu",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2011-08-22T18:53:11Z",
+  "date_adate": "2004-01-27",
+  "date_available": "2011-08-22T18:53:11Z",
+  "date_issued": "2003-12-16",
+  "date_rdate": "2005-01-27",
+  "date_sdate": "2004-01-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The nonlinear static and dynamic response of circular and annular plates under electrostatic, thermal, and combined loading is investigated. The main motivation for the study of these phenomena is providing fundamental insights into the mechanics of micro-electro-mechanical-systems (MEMS). MEMS devices are usually miniaturization of the corresponding macro-scale devices. The basic mechanics of the components of many MEMS devices can be modeled using conventional structural theories. Some of the most used and actively researched MEMS devices- namely pressure sensors and micropumps- use circular or annular diaphragms as principle components. The actuation and sensing principles of these devices are usually electrostatic in nature. Most MEMS devices are required to operate under wide environmental conditions, thus, a study of thermal effects on the performance of these devices is a major design consideration. There exists a wide arsenal of analytic, semi-analytic, and numerical tools for nonlinear analysis of continuous systems. The present work uses different tools for the analysis of different types of problems. The selection of the analysis tools is guided by two principles. The first consideration is that the analysis should reveal the fundamental mechanics and dynamics of the problem rather than simply generating numerical data. The second consideration is numerical efficiency. Guided by the same principles, the basic structural model adopted in this work is the von-Karman plate model. This model captures the basic nonlinear phenomena in the plate with minimal complexity in the equations of motion, thus providing a balance between simplicity and accuracy.  We address a wide array of problems for a variety of loading and boundary conditions. We start by analyzing annular plates under static electrostatic loading including the variation of the plate natural frequencies with the applied voltage. We also analyze parametric resonances in plates subjected to sinusoidally varying thermal loads. We investigate the prebuckling and postbuckling static thermal response and the corresponding variation of the natural frequencies. Finally, we close by investigating the problem of a circular plate under a combination of thermal and electrostatic loading. The results of this investigation demonstrate the importance of including nonlinear phenomena in the modeling of MEMS devices both for correct quantitative predictions and for qualitative description of operations.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T18:53:11Z (GMT). No. of bitstreams: 1  thesis.pdf: 686015 bytes, checksum: 0f8448bddb0f37733552b7f173e80020 (MD5)    Previous issue date: 2003-12-16",
+    "Author Email: wfaris@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: anayfeh@vt.edu",
+    "Advisor Email: kohler@vt.edu",
+    "Advisor Email: llibresc@vt.edu",
+    "Advisor Email: ragab@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11100",
+  "identifier_other": "etd-01142004-134524",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01142004-134524",
+  "identifier_uri": "http://hdl.handle.net/10919/11100",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Thermal",
+    "Electrical",
+    "Annular Plates",
+    "MEMS",
+    "Circualr Plates",
+    "Nonlinaer Dymnamics"
+  ],
+  "title": "Nonlinear Dynamics of Annular and Circular Plates Under Thermal and Electrical Loadings",
+  "type": "Dissertation"
+}

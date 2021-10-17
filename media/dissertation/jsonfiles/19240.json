@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Sonnenburg, Christian R",
+  "contributor_committeechair": [
+    "Woolsey, Craig A.",
+    "Stilwell, Daniel J"
+  ],
+  "contributor_committeemember": [
+    "McCue-Weil, Leigh S",
+    "Farhood, Mazen H"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-02-19T22:39:59Z",
+  "date_available": "2013-02-19T22:39:59Z",
+  "date_issued": "2013-01-16",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation addresses the modeling, identification, and control of an automated planing vessel. To provide motion models for trajectory generation and to enable model-based control design for trajectory tracking, several experimentally identified models are compared over a wide range of speed and planing conditions for the Virginia Tech Ribcraft Unmanned Surface Vehicle. The modeling and identification objective is to determine a model which is sufficiently rich to enable effective model-based control design and trajectory optimization, sufficiently simple to allow parameter identification, and sufficiently general to describe a variety of hull forms and actuator configurations. Beginning with a 6 degree of freedom nonlinear dynamic model, several linear steering and speed models are obtained as well as a thruster model.<br />The Ribcraft USV tracks trajectories generated with the selected maneuvering models by using a back- stepping trajectory controller. A PD cascade trajectory control law is also developed and the performance of the two controllers is compared using aggressive trajectories. The backstepping control law compares favorably to the PD cascade controller. The backstepping control law is then further modified to account for nonlinear sternward dynamics and for a constant or slowly varying fluid flow.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:39:59Z (GMT). No. of bitstreams: 1 Sonnenburg_CR_D_2013.pdf: 5237090 bytes, checksum: 1766f58727c381ae03caa7d3b9fa054f (MD5)   Previous issue date: 2013-01-16",
+  "format_medium": "ETD",
+  "handle": "19240",
+  "identifier_other": "vt_gsexam:151",
+  "identifier_uri": "http://hdl.handle.net/10919/19240",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Parameter Identification",
+    "Trajectory Control",
+    "Field Experimentation",
+    "Unmanned Surface Vehicle"
+  ],
+  "title": "Modeling, Identification, and Control of an Unmanned Surface Vehicle",
+  "type": "Dissertation"
+}

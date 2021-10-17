@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Sole, Joshua David",
+  "contributor_committeechair": "Ellis, Michael W.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Case, Scott W.",
+    "Dillard, David A.",
+    "von Spakovsky, Michael R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:33Z",
+  "date_adate": "2008-05-22",
+  "date_available": "2014-03-14T20:11:33Z",
+  "date_issued": "2008-04-18",
+  "date_rdate": "2008-05-22",
+  "date_sdate": "2008-05-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Constitutive relationships are developed to describe the water transport characteristics of the gas diffusion layer (GDL) of proton exchange membrane fuel cells (PEMFCs). Additionally, experimental fixtures and procedures for the determination of the constitutive relationships are presented. The water transport relationships are incorporated into analytical models that assess the impact of the water transport relations and that make PEMFC performance predictions. The predicted performance is then compared to experimental results.  The new constitutive relationships are significantly different than the currently popular relationships used in PEMFC modeling because they are derived from experiments on actual PEMFC gas diffusion layer materials. In prior work, properties of the GDL materials such as absolute permeability, liquid water relative permeability, porosity, and capillary behavior are often assumed or used as adjustment parameters in PEMFC models to simplify the model or to achieve good fits with polarization data. In this work, the constitutive relations are not assumed but are determined via newly developed experimental techniques.   The experimental fixtures and procedures were used to characterize common GDL materials including carbon papers and carbon cloths, and to investigate common treatments applied to these materials such as the bulk application of a hydrophobic polymer within the porous structure.   A one-dimensional model is developed to contrast results based on the new constitutive relations with results based on commonly used relationships from the PEMFC literature. The comparison reveals that water transport relationships can have a substantial impact on predicted GDL saturation, and consequently a significant impact on cell performance. The discrepancy in saturation between cases can be nearly an order of magnitude. A two-dimensional model is also presented that includes the impact of the compressed GDL region under the shoulder of a bipolar plate. Results show that the compression due to the bipolar plate shoulder causes a significant increase in liquid saturation, and a significant reduction in oxygen concentration and current density for the paper GDL. In contrast, compression under the shoulder has a minimal impact on the cloth GDL. Experimental inputs to the 2-D model include: absolute permeability, liquid water relative permeability, the slope of the capillary pressure function with saturation, total porosity, GDL thickness, high frequency resistance, and appropriate Tafel parameters. Computational polarization curve results are compared to experimental polarization behavior and good agreement is achieved.",
+  "description_provenance": [
+    "Author Email: jsole@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: dillard@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:33Z (GMT). No. of bitstreams: 2 permissions.pdf: 508203 bytes, checksum: 5d11b8b6d1ee5228e925cc96fcf44d8e (MD5) JDS-Dissertation-FINAL.pdf: 3461843 bytes, checksum: 85ebc18138b3f55e28c1c4916c326a5b (MD5)   Previous issue date: 2008-04-18"
+  ],
+  "handle": "27538",
+  "identifier_other": "etd-05042008-161055",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05042008-161055/",
+  "identifier_uri": "http://hdl.handle.net/10919/27538",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "permissions.pdf",
+    "JDS-Dissertation-FINAL.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "fuel cell",
+    "water transport",
+    "two phase flow",
+    "capillary pressure",
+    "relative permeability",
+    "GDL",
+    "gas diffusion layer",
+    "PEM",
+    "PEMFC"
+  ],
+  "title": "Investigation of Water Transport Parameters and Processes in the Gas Diffusion Layer of PEM Fuel Cells",
+  "type": "Dissertation"
+}

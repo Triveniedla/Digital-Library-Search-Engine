@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Haynie, Waddy",
+  "contributor_committeechair": "Hyer, Michael W.",
+  "contributor_committeemember": [
+    "Ragab, Saad A.",
+    "Thangjitham, Surot",
+    "Patil, Mayuresh J.",
+    "Kriz, Ronald D."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:14:50Z",
+  "date_adate": "2007-08-28",
+  "date_available": "2014-03-14T20:14:50Z",
+  "date_issued": "2007-08-02",
+  "date_rdate": "2010-10-08",
+  "date_sdate": "2007-08-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The response of elliptical composite cylindrical shells under torsion is studied. The torsional condition is developed by rotating one end of the cylinder relative to the other. Prebuckling, buckling, and postbuckling responses are examined, and material failure is considered. Four elliptical cross sections, defined by their aspect ratio, the ratio of minor to major radii, are considered: 1.00 (circular), 0.85, 0.70, and 0.55. Two overall cylinder sizes are studied; a small size with a radius and length for the circular cylinder of 4.28 in. and 12.85 in., respectively, and a large size with radii and lengths five times larger, and thicknesses two times larger than the small cylinders. The radii of the elliptical cylinders are determined so the circumference is the same for all cylinders of a given size. For each elliptical cylinder, two lengths are considered. One length is equal to the length of the circular cylinder, and the other length has a sensitivity of the buckling twist to changes in the length-to-radius ratio the same as the circular cylinder. A quasi-isotropic lamination sequence of a medium-modulus graphite-epoxy composite material is assumed. The STAGS finite element code is used to obtain numerical results.  The geometrically-nonlinear static and transient, eigenvalue, and progressive failure analysis options in the code are employed. Generally, the buckling twist and resulting torque decrease with decreasing aspect ratio. Due to material anisotropy, the buckling values are generally smaller for a negative twist than a positive twist. Relative to the buckling torque, cylinders with aspect ratios of 1.00 and 0.85 show little or no increase in capacity in the postbuckling range, while cylinders with aspect ratios of 0.70 and 0.55 show an increase. Postbuckling shapes are characterized by wave-like deformations, with ridges and valleys forming a helical pattern due to the nature of loading. The amplitudes of the deformations are dependent on cross-sectional geometry. Some elliptical cylinders develop wave-like deformations prior to buckling. Instabilities in the postbuckling range result in shape changes and loss of torque capacity. Material failure occurs on ridges and in valleys. Cylinder size and cross-sectional geometry influence the initiation and progression of failure.",
+  "description_provenance": [
+    "Author Email: whaynie@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: surot@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:50Z (GMT). No. of bitstreams: 1 ETD-WTH.pdf: 109966419 bytes, checksum: b2f0087103bdf16159c4001779445e9f (MD5)   Previous issue date: 2007-08-02"
+  ],
+  "handle": "28547",
+  "identifier_other": "etd-08062007-172004",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08062007-172004/",
+  "identifier_uri": "http://hdl.handle.net/10919/28547",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD-WTH.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "progressive failure analysis",
+    "buckling",
+    "postbuckling",
+    "noncircular cylinders",
+    "composite materials",
+    "configuration changes"
+  ],
+  "title": "Torsion of Elliptical Composite Cylindrical Shells",
+  "type": "Dissertation"
+}

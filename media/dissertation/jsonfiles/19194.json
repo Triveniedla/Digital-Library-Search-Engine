@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Ryu, Kun Jin",
+  "contributor_committeechair": "Furukawa, Tomonari",
+  "contributor_committeemember": [
+    "Ferris, John B",
+    "Woolsey, Craig A.",
+    "Hong, Dennis W",
+    "Kurdila, Andrew J"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-02-19T22:31:52Z",
+  "date_available": "2013-02-19T22:31:52Z",
+  "date_issued": "2012-11-16",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation proposes autonomous robotic strategies for urban search and rescue (USAR) which are map-based semi-autonomous robot navigation and fully-autonomous robotic search, tracking, localization and mapping (STLAM) using a team of robots. Since the prerequisite for these solutions is accurate robot localization in the environment, this dissertation first presents a novel grid-based scan-to-map matching technique for accurate simultaneous localization and mapping (SLAM). At every acquisition of a new scan and estimation of the robot pose, the proposed technique corrects the estimation error by matching the new scan to the globally defined grid map. To improve the accuracy of the correction, each grid cell of the map is represented by multiple normal distributions (NDs). The new scan to be matched to the map is also represented by NDs, which achieves the scan-to-map matching by the ND-to-ND matching. In the map-based semi-autonomous robot navigation strategy, a robot placed in an environment creates the map of the environment and sends it to the human operator at a distant location. The human operator then makes decisions based on the map and controls the robot via tele-operation. In case of communication loss, the robot semi-autonomously returns to the home position by inversely tracking its trajectory with additional optimal path planning. In the fully-autonomous robotic solution to USAR, multiple robots communicate one another while operating together as a team. The base station collects information from each robot and assigns tasks to the robots. Unlike the semi-autonomous strategy there is no control from the human operator. To further enhance the<br />efficiency of their cooperation each member of the team specifically works on its own task.<br />A series of numerical and experimental studies were conducted to demonstrate the applicability of the proposed solutions to USAR scenarios. The effectiveness of the scan-to-map matching with the multi-ND representation was confirmed by analyzing the error accumulation and by comparing with the single-ND representation. The applicability of the scan-to-map matching to the real SLAM problem was also verified in three different real environments. The results of the map-based semi-autonomous robot navigation showed the effectiveness of the approach as an immediately usable solution to USAR. The effectiveness of the proposed fully- autonomous solution was first confirmed by two real robots in a real environment. The cooperative performance of the strategy was further investigated using the developed platform- and hardware-in-the-loop simulator. The results showed significant potential as the future solution to USAR.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:31:52Z (GMT). No. of bitstreams: 1 Ryu_K_D_2012.pdf: 3954799 bytes, checksum: c18e9f6d4b8afecff0dfe230fd7d54fa (MD5)   Previous issue date: 2012-11-16",
+  "format_medium": "ETD",
+  "handle": "19194",
+  "identifier_other": "vt_gsexam:28",
+  "identifier_uri": "http://hdl.handle.net/10919/19194",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Simultaneous Localization and Mapping",
+    "Semi-autonomous Robot Navigation",
+    "Cooperative Search and Tracking"
+  ],
+  "title": "Autonomous Robotic Strategies for Urban Search and Rescue",
+  "type": "Dissertation"
+}

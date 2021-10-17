@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Cheng, Danling",
+  "contributor_committeechair": "Broadwater, Robert P.",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Nachlas, Joel A.",
+    "Liu, Yilu",
+    "Tam, Kwa-Sur"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:09Z",
+  "date_adate": "2009-10-14",
+  "date_available": "2014-03-14T20:16:09Z",
+  "date_issued": "2009-09-09",
+  "date_rdate": "2009-10-14",
+  "date_sdate": "2009-09-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A new approach to the evaluation of the reliability of electrical systems is presented.  In this approach a Graph Trace Analysis based approach is applied to integrated system models and reliability analysis. The analysis zones are extended from the traditional power system functional zones. The systems are modeled using containers with iterators, where the iterators manage graph edges and are used to process through the topology of the graph. The analysis provides a means of computationally handling dependent outages and cascading failures. The effects of adverse weather, time-varying loads, equipment age, installation environment, operation conditions are considered. Sequential Monte Carlo simulation is used to evaluate the reliability changes for different system configurations, including distributed generation and transmission lines. Historical weather records and loading are used to update the component failure rates on-the-fly. Simulation results are compared against historical reliability field measurements.   Given a large and complex plant to operate, a real-time understanding of the networks and their situational reliability is important to operational decision support. This dissertation also introduces using an Integrated System Model in helping operators to minimize real-time problems. A real-time simulation architecture is described, which predicts where problems may occur, how serious they may be, and what is the possible root cause.",
+  "description_provenance": [
+    "Author Email: dcheng@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: nachlas@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: ktam@vt.edu",
+    "Advisor Email: dew@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:09Z (GMT). No. of bitstreams: 1 Cheng_Danling_D_2009.pdf: 1588603 bytes, checksum: cde9b6d75525f0dec79ed3cd0358080b (MD5)   Previous issue date: 2009-09-09"
+  ],
+  "handle": "28944",
+  "identifier_other": "etd-09112009-151520",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09112009-151520/",
+  "identifier_uri": "http://hdl.handle.net/10919/28944",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Cheng_Danling_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Real-Time Monitoring and Analysis",
+    "Monte Carlo Simulation",
+    "Distributed Generation",
+    "Time-Varying Load",
+    "Cascading Effect",
+    "Dependent Failure",
+    "Adverse Weather Effect",
+    "Reliability Analysis"
+  ],
+  "title": "Integrated System Model Reliability Evaluation and Prediction for Electrical Power Systems: Graph Trace Analysis Based Solutions",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Shao, Shengnan",
+  "contributor_committeechair": "Rahman, Saifur",
+  "contributor_committeemember": [
+    "Ghandforoush, Parviz",
+    "Centeno, Virgilio A.",
+    "Pipattanasomporn, Manisa",
+    "Xuan, Jianhua Jason"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:32Z",
+  "date_adate": "2011-10-26",
+  "date_available": "2014-03-14T20:17:32Z",
+  "date_issued": "2011-10-17",
+  "date_rdate": "2011-10-26",
+  "date_sdate": "2011-10-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Along with the growth of electricity demand and the penetration of intermittent renewable energy sources, electric power distribution networks will face more and more stress conditions, especially as electric vehicles (EVs) take a greater share in the personal automobile market. This may cause potential transformer overloads, feeder congestions, and undue circuit failures. Demand response (DR) is gaining attention as it can potentially relieve system stress conditions through load management. DR can possibly defer or avoid construction of large-scale power generation and transmission infrastructures by improving the electric utility load factor. This dissertation proposes to develop a planning tool for electric utilities that can provide an insight into the implementation of demand response at the end-user level. The proposed planning tool comprises control algorithms and a simulation platform that are designed to intelligently manage end-use loads to make the EV penetration transparent to an electric power distribution network. The proposed planning tool computes the demand response amount necessary at the circuit/substation level to alleviate the stress condition due to the penetration of EVs. Then, the demand response amount is allocated to the end-user as a basis for appliance scheduling and control. To accomplish the dissertation objective, electrical loads of both residential and commercial customers, as well as EV fleets, are modeled, validated, and aggregated with their control algorithms proposed at the appliance level.  A multi-layer demand response model is developed that takes into account both concerns from utilities for load reduction and concerns from consumers for convenience and privacy. An analytic hierarchy process (AHP)-based approach is put forward taking into consideration opinions from all stakeholders in order to determine the priority and importance of various consumer groups.  The proposed demand response strategy takes into consideration dynamic priorities of the load based on the consumersâ   real-time needs. Consumer comfort indices are introduced to measure the impact of demand response on consumersâ   life style. The proposed indices can provide electric utilities a better estimation of the customer acceptance of a DR program, and the capability of a distribution circuit to accommodate EV penetration. Research findings from this work indicate that the proposed demand response strategy can fulfill the task of peak demand reduction with different EV penetration levels while maintaining consumer comfort levels. The study shows that the higher number of EVs in the distribution circuit will result in the higher DR impacts on consumersâ   comfort. This indicates that when EV numbers exceed a certain threshold in an area, other measures besides demand response will have to be taken into account to tackle the peak demand growth. The proposed planning tool is expected to provide an insight into the implementation of demand response at the end-user level. It can be used to estimate demand response potentials and the benefit of implementing demand response at different DR penetration levels within a distribution circuit. The planning tool can be used by a utility to design proper incentives and encourage consumers to participate in DR programs. At the same time, the simulation results will give a better understanding of the DR impact on scheduling of electric appliances.",
+  "description_provenance": [
+    "Author Email: sshao@vt.edu",
+    "Advisor Email: pghandfo@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: srahman@vt.edu",
+    "Advisor Email: mpipatta@vt.edu",
+    "Advisor Email: xuan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:32Z (GMT). No. of bitstreams: 1 Shao_S_D_2011.pdf: 3493905 bytes, checksum: d96919bee5c337d5aef769cbb6b9f7ab (MD5)   Previous issue date: 2011-10-17"
+  ],
+  "handle": "29335",
+  "identifier_other": "etd-10212011-131915",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10212011-131915/",
+  "identifier_uri": "http://hdl.handle.net/10919/29335",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Shao_S_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Planning tool",
+    "Consumer comfort level",
+    "Electric vehicle",
+    "Smart Grid",
+    "Demand response"
+  ],
+  "title": "An Approach to Demand Response for Alleviating Power System Stress Conditions due to Electric Vehicle Penetration",
+  "type": "Dissertation"
+}

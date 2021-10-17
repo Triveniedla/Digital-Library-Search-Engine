@@ -1,0 +1,56 @@
+{
+  "contributor_author": "Zombori, Balazs Gergely",
+  "contributor_committeechair": "Kamke, Frederick A.",
+  "contributor_committeemember": [
+    "Loferski, Joseph R.",
+    "Watson, Layne T.",
+    "Dolan, James Daniel",
+    "Frazier, Charles E.",
+    "Lang, Elemer M."
+  ],
+  "contributor_department": "Wood Science and Forest Products",
+  "date_accessioned": "2014-03-14T20:10:52Z",
+  "date_adate": "2001-04-27",
+  "date_available": "2014-03-14T20:10:52Z",
+  "date_issued": "2001-04-20",
+  "date_rdate": "2002-04-27",
+  "date_sdate": "2001-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Modeling the Transient Effects during the Hot-Compression of Wood-Based Composites  by  Balazs G. Zombori  Frederick A. Kamke, Chairman  (Abstract)  A numerical model based on fundamental engineering principles was developed and validated to establish a relationship between process parameters and the final properties of wood-based composite boards. The model simulates the mat formation, then compresses the reconstituted mat to its final thickness in a virtual press. The number of interacting variables during the hot-compression process is prohibitively large to assess a wide variety of data by experimental means. Therefore, the main advantage of the model based approach that the effect of the hot-compression parameters on the final properties of wood-based composite boards can be monitored without extensive experimentation. The mat formation part of the model is based on the Monte Carlo simulation technique to reproduce the spatial structure of the mat. The dimensions and the density of each flake are considered as random variables in the model, which follow certain probability density distributions. The parameters of these distributions are derived from data collected on industrial flakes by using an image analysis technique. The model can simulate the structure of a three-layer oriented strandboard (OSB) mat as well as the structure of random fiber networks. A grid is superimposed on the simulated mat and the number of flakes, the thickness, and the density of the mat at each grid point are computed. Additionally, the model predicts the change in several void volume fractions within the mat and the contact area between the flakes during consolidation. The void volume fractions are directly related to the physical properties of the mat, such as thermal conductivity, diffusivity, and permeability, and the contact area is an indicator of the effectively bonded area within the mat. The heat and mass transfer part of the model predicts the change of air content, moisture content, and temperature at designated mesh points in the cross section of the mat during the hot-compression. The water content is subdivided into vapor and bound water components. The free water component is not considered in the model due to the low (typically 6-7 %) initial moisture content of the flakes. The gas phase (air and vapor) moves by bulk flow and diffusion, while the",
+  "description_provenance": [
+    "Author Email: bzombori@vt.edu",
+    "Advisor Email: kamkefa@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:52Z (GMT). No. of bitstreams: 12 5Compression.pdf: 860222 bytes, checksum: b918dbbd451eab2c7b8d7f4142b2e86f (MD5) Profilesfinal.mov: 970483 bytes, checksum: 8cac7cd83e63f7a439faf8e1518228f7 (MD5) 3HeatAndMass.pdf: 897940 bytes, checksum: 3ec5dcd37692b6b00839787eb5d4b640 (MD5) 8AppendixA.pdf: 233241 bytes, checksum: 46109123262101d08c577003841d90dc (MD5) 9Vita.pdf: 43992 bytes, checksum: 2170685dddb29a9bb57d277612576c15 (MD5) 6CompValid.pdf: 437167 bytes, checksum: 7784fb797187acc0cfa05c8a232eaacc (MD5) 1ProjDescr.pdf: 102879 bytes, checksum: 43b330e1303c6b8bf2d243b5b6ee966e (MD5) 4HAndMValid.pdf: 682445 bytes, checksum: 14bae66ac3dc01bf7a8bcc8ed771ab04 (MD5) 2MatForm.pdf: 2427384 bytes, checksum: 0f13999ca848519a3f7458477049ef48 (MD5) 0Abstract.pdf: 121166 bytes, checksum: f0c575f7560c4cca0d650cc888b4f9fd (MD5) 00TitlePage.pdf: 51187 bytes, checksum: b59b27fe1f503a2ac304a3c147ff0dbb (MD5) 7ConclRecomm.pdf: 71809 bytes, checksum: d2237a5b9b1add806d18f701dca85348 (MD5)   Previous issue date: 2001-04-20"
+  ],
+  "handle": "27299",
+  "identifier_other": "etd-04262001-172039",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262001-172039/",
+  "identifier_uri": "http://hdl.handle.net/10919/27299",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "5Compression.pdf",
+    "Profilesfinal.mov",
+    "3HeatAndMass.pdf",
+    "8AppendixA.pdf",
+    "9Vita.pdf",
+    "6CompValid.pdf",
+    "1ProjDescr.pdf",
+    "4HAndMValid.pdf",
+    "2MatForm.pdf",
+    "0Abstract.pdf",
+    "00TitlePage.pdf",
+    "7ConclRecomm.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "heat and mass transfer of porous solids",
+    "wood-based composites",
+    "hot-compression",
+    "process modeling",
+    "Monte Carlo simulation"
+  ],
+  "title": "Modeling the Transient Effects during the Hot-Pressing of Wood-Based Composites",
+  "type": "Dissertation"
+}

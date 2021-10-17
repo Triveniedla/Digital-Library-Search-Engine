@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Patnaik, Debprakash",
+  "contributor_committeechair": "Ramakrishnan, Naren",
+  "contributor_committeemember": [
+    "Murali, T. M.",
+    "Cao, Yang",
+    "Marwah, Manish",
+    "Laxman, Srivatsan"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:14:21Z",
+  "date_adate": "2011-08-19",
+  "date_available": "2014-03-14T20:14:21Z",
+  "date_issued": "2011-08-04",
+  "date_rdate": "2011-08-19",
+  "date_sdate": "2011-07-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation investigates algorithmic techniques for temporal process discovery in many domains. Many different formalisms have been proposed for modeling temporal processes such as motifs, dynamic Bayesian networks and partial orders, but the direct inference of such models from data has been computationally intensive or even intractable. In this work, we propose the mining of frequent episodes as a bridge to inferring more formal models of temporal processes. This enables us to combine the advantages of frequent episode mining, which conducts level wise search over constrained spaces, with the formal basis of process representations, such as probabilistic graphical models and partial orders. We also investigate the mining of frequent episodes in infinite data streams which further expands their applicability into many modern data mining contexts. To demonstrate the usefulness of our methods, we apply them in different problem contexts such as: sensor networks in data centers, multi-neuronal spike train analysis in neuroscience, and electronic medical records in medical informatics.",
+  "description_provenance": [
+    "Author Email: patnaik@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: murali@cs.vt.edu",
+    "Advisor Email: ycao@cs.vt.edu",
+    "Advisor Email: manish.marwah@hp.com",
+    "Advisor Email: slaxman@microsoft.com",
+    "Made available in DSpace on 2014-03-14T20:14:21Z (GMT). No. of bitstreams: 1 Patnaik_D_D_2011.pdf: 10192767 bytes, checksum: a2692fc2fd960834ee679954aa7f14f4 (MD5)   Previous issue date: 2011-08-04"
+  ],
+  "handle": "28413",
+  "identifier_other": "etd-07262011-181503",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07262011-181503/",
+  "identifier_uri": "http://hdl.handle.net/10919/28413",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Patnaik_D_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "motifs",
+    "graphical models",
+    "frequent episodes",
+    "dynamic Bayesian networks",
+    "temporal data mining"
+  ],
+  "title": "Multiple Uses of Frequent Episodes in Temporal Process Modeling",
+  "type": "Dissertation"
+}

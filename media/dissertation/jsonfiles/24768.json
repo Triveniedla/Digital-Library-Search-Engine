@@ -1,0 +1,41 @@
+{
+  "contributor_author": "Kim, Junwhan",
+  "contributor_committeechair": "Ravindran, Binoy",
+  "contributor_committeemember": [
+    "Broadwater, Robert P",
+    "Vullikanti, Anil Kumar S",
+    "Herlihy, Maurice Peter",
+    "Plassmann, Paul E"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-12-21T09:00:06Z",
+  "date_available": "2013-12-21T09:00:06Z",
+  "date_issued": "2013-10-15",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Distributed transactional memory (DTM) is an emerging, alternative concurrency control model that promises to alleviate the difficulties of lock-based distributed synchronization. In DTM, transactional conflicts are traditionally resolved by a contention manager. A complementary approach for handling conflicts is through a transactional scheduler, which orders transactional requests to avoid or minimize conflicts. We present a suite of transactional schedulers: Bi-interval, Commutative Requests First (CRF), Reactive Transactional Scheduler (RTS), Dependency-Aware Transactional Scheduler} (DATS), Scheduling-based Parallel Nesting} (SPN), Cluster-based Transactional Scheduler} (CTS), and Locality-aware Transactional Scheduler} (LTS). The schedulers consider Herlihy and Sun's dataflow execution model, where transactions are immobile and objects are migrated to invoking transactions, relying on directory-based cache-coherence protocols to locate and move objects. Within this execution model, the proposed schedulers target different DTM models.  Bi-interval considers the single object copy DTM model, and categorizes concurrent requests into read and write intervals to maximize the concurrency of read transactions. This allows an object to be simultaneously sent to read transactions, improving transactional makespan. We show that Bi-interval improves the makespan competitive ratio of DTM without such a scheduler to O(log(N)) for the worst-case and (log(N - k) for the average-case, for N nodes and k read transactions. Our implementation reveals that Bi-interval enhances transactional throughput over the no-scheduler case by as much as 1.71x, on average.  CRF considers multi-versioned DTM. Traditional multi-versioned TM models use multiple object versions to guarantee commits of read transactions, but limit concurrency of write transactions. CRF relies on the notion of commutative transactions, i.e., those that ensure consistency of the shared data-set even when they are validated and committed concurrently. CRF detects conflicts between commutative and non-commutative write transactions and then schedules them according to the execution state, enhancing the concurrency of write transactions. Our implementation shows that transactional throughput is improved by up to 5x over a state-of-the-art competitor (DecentSTM).  RTS and DATS consider transactional nesting in DTM, and focus on the closed and open nesting models, respectively. RTS determines whether a conflicting outer transaction must be aborted or enqueued according to the level of contention. If a transaction is enqueued, its closed-nested transactions do not have to retrieve objects again, resulting in reduced communication delays. DATS's goal is to boost the throughput of open-nested transactions by reducing the overhead of running expensive compensating actions and acquiring/releasing abstract locks when the outer transaction aborts. The contribution of DATS is twofold. First, it allows commutable outer transactions to be validated concurrently and allows non-commutable outer transactions -- depending on their inner transactions -- to be committed before others without dependencies. Implementations reveal effectiveness: RTS and DATS improve throughput (over the no-scheduler case), by as much as 1.88x and 2.2x, respectively.  SPN considers parallel nested transactions in DTM. The idea of parallel nesting is to execute the inner transactions that access different objects concurrently, and execute the inner transactions that access the same objects serially, increasing performance. However, the parallel nesting model may be ineffective if all inner transactions access the same object due to the additional overheads needed to identify both types of inner transactions. SPN avoids this overhead and allows inner transactions to request objects and to execute them in parallel. Implementations reveal that SPN outperforms non-parallel nesting (i.e., closed nesting) by up to 3.5x and 4.5x on a micro-benchmark (bank) and the TPC-C transactional benchmark, respectively.  CTS considers the replicated DTM model: object replicas are distributed across clusters of nodes, where clusters are determined based on inter-node distance, to maximize locality and fault-tolerance, and to minimize memory usage and communication overhead. CTS enqueues transactions that are aborted due to early validation over clusters and assigns their backoff times, reducing communication overhead. Implementation reveals that CTS improves throughput over competitor replicated DTM solutions including GenRSTM and DecentSTM by as much as 1.64x, on average.  LTS considers the genuine partial replicated DTM model. In this model, LTS exploits locality by: 1) employing a transaction scheduler, which enables/disables object ownership changes depending on workload fluctuations, and 2) splitting hot-spot objects into multiple replicas for reducing contention. Our implementation reveals that LTS outperforms state-of-the-art competitors (Score and CTS) by up to 2.6x on micro-benchmarks (Linked List and Skip List) and by up to 2.2x on TPC-C.",
+  "description_degree": "PHD",
+  "description_provenance": [
+    "Made available in DSpace on 2013-12-21T09:00:06Z (GMT). No. of bitstreams: 1 Kim_J_D_2013.pdf: 1433185 bytes, checksum: aa4efb140de30c5d4bf8b9c23f9e89c9 (MD5)   Previous issue date: 2013-10-15",
+    "Item withdrawn by Zhiwu Xie (zhiwuxie@vt.edu) on 2013-12-23T02:05:43Z Item was in collections: Doctoral Dissertations (ID: 89) No. of bitstreams: 3 Kim_J_D_2013.pdf.jpg: 1901 bytes, checksum: 96c89ec60317bb79f41619bcefc46914 (MD5) Kim_J_D_2013.pdf.txt: 267126 bytes, checksum: c9c475161b4897deb4abccf37b010295 (MD5) Kim_J_D_2013.pdf: 1433185 bytes, checksum: aa4efb140de30c5d4bf8b9c23f9e89c9 (MD5)",
+    "Item reinstated by Janice Austin (jamarti1@vt.edu) on 2013-12-27T14:27:30Z Item was in collections: Doctoral Dissertations (ID: 89) No. of bitstreams: 3 Kim_J_D_2013.pdf.jpg: 1901 bytes, checksum: 96c89ec60317bb79f41619bcefc46914 (MD5) Kim_J_D_2013.pdf.txt: 267126 bytes, checksum: c9c475161b4897deb4abccf37b010295 (MD5) Kim_J_D_2013.pdf: 1433237 bytes, checksum: 060c4ec9f04d3eca0f210016b1c2ae00 (MD5)",
+    "Item reinstated by Janice Austin (jamarti1@vt.edu) on 2013-12-27T14:27:42Z Item was in collections: Doctoral Dissertations (ID: 89) No. of bitstreams: 3 Kim_J_D_2013.pdf.jpg: 1901 bytes, checksum: 96c89ec60317bb79f41619bcefc46914 (MD5) Kim_J_D_2013.pdf.txt: 267126 bytes, checksum: c9c475161b4897deb4abccf37b010295 (MD5) Kim_J_D_2013.pdf: 1433237 bytes, checksum: 060c4ec9f04d3eca0f210016b1c2ae00 (MD5)"
+  ],
+  "format_medium": "ETD",
+  "handle": "24768",
+  "identifier_other": "vt_gsexam:1672",
+  "identifier_uri": "http://hdl.handle.net/10919/24768",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Software Transactional Memory",
+    "Distributed Systems",
+    "Transactional Scheduling",
+    "Partial Replication",
+    "(Parallel) Nested Transactions"
+  ],
+  "title": "Scheduling Memory Transactions in Distributed Systems",
+  "type": "Dissertation"
+}

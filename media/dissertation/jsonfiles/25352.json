@@ -1,0 +1,35 @@
+{
+  "contributor_author": "Jimenez, Jose Mauricio",
+  "contributor_committeechair": "Kleiner, Brian M",
+  "contributor_committeemember": [
+    "Wernz, Christian",
+    "Slonim, Anthony Daniel",
+    "Robertson, John L",
+    "Eubank, Stephen G"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-02-08T09:00:26Z",
+  "date_available": "2014-02-08T09:00:26Z",
+  "date_issued": "2014-02-07",
+  "degree_discipline": "Industrial and Systems Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Background: In the United States, it is estimated that 1 in 20 patients become infected with a healthcare acquired infection (HAI). Some of the complications of HAIs include increased morbidity and mortality, and drug-resistant infections. Clostridium difficile has replaced methicillin-resistant Staphylococcus aureus (MRSA) as the most important HAI in the United States by doubling its prevalence during the last decade.   Significance of the study: This study is grounded on the subdiscipline of macroergonomics and highly detailed simulation. The Macroergonomic Analysis and Design (MEAD) model is utilized to identify and correct deficiencies in work systems. The MEAD process was applied to develop possible sociotechnical interventions that can be used against HAIs. Highly detailed simulation can evaluate infection exposure, interventions, and individual behavior change for populations in large populations. These two methods provide the healthcare system stakeholders with the ability to test interventions that would otherwise be impossible to evaluate.   Objective/Purpose: The purpose of this study is to identify the factors that reduce HAI infections in healthcare facility populations, and provide evidence-based best practices for these facilities. The central research question is: What type of interventions can help reduce Clostridium difficile infections?   Methods: We collected one year of patient archival information to include activities, locations and contacts through electronic patient records from two Virginia regional hospitals. Healthcare worker activities were obtained through direct observation (shadowing) at the two Virginia regional hospitals. Experiments were designed to test the different types of interventions using EpiSimdemics, a highly-resolved simulation software. A Clostridium difficile disease model was developed to evaluate interventions.   Results: We observed a significant drop in infection cases at a regional Hospital. There is significant evidence to link this drop in HAI infections to a sociotechnical intervention. However, there is not enough information to pinpoint the specific action that caused the drop. We additionally conducted simulation experiments with two hospital simulations. Simulated sociotechnical interventions such as hand washing, room cleaning, and isolation caused significant reductions in the infection rates.  Conclusions: The combined use of macroergonomics and simulation can be beneficial in developing and evaluating interventions against HAIs. The use of statistical control charts as an epidemiology tool can help hospitals detect outbreaks or evaluate the use of interventions. Use of systemic interventions in an in-silico environment can help determine cheaper, more flexible, and more effective actions against HAIs.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-02-08T09:00:26Z (GMT). No. of bitstreams: 2 Jimenez_JM_D_2014.pdf: 5815291 bytes, checksum: c781ad20edc0a421d5b399e0e0edc6be (MD5) Jimenez_JM_D_2014_support_1.pdf: 36455 bytes, checksum: b84e83f7475298db1611d5d0519ac0a2 (MD5)   Previous issue date: 2014-02-07",
+  "format_medium": "ETD",
+  "handle": "25352",
+  "identifier_other": "vt_gsexam:2234",
+  "identifier_uri": "http://hdl.handle.net/10919/25352",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Systems engineering",
+    "healthcare acquired infections",
+    "macro ergonomics",
+    "simulation"
+  ],
+  "title": "The utilization of macroergonomics and highly-detailed simulation to reduce healthcare-acquired infections",
+  "type": "Dissertation"
+}

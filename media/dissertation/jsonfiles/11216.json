@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Abdullah, Redzuan",
+  "contributor_committeechair": "Easterling, William Samuel",
+  "contributor_committeemember": [
+    "Roberts-Wollmann, Carin L.",
+    "Charney, Finley A.",
+    "Cousins, Thomas E.",
+    "Murray, Thomas M."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2011-08-22T19:02:55Z",
+  "date_adate": "2004-08-06",
+  "date_available": "2011-08-22T19:02:55Z",
+  "date_issued": "2004-06-03",
+  "date_rdate": "2004-08-06",
+  "date_sdate": "2004-08-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The strength and behavior of composite slabs are governed by the shear interaction between the concrete and the steel deck.  The interaction property depends on several factors and it is not possible to express the relationship from a purely analytical basis.  As such, analysis and design methods available today use the interaction property derived from full scale performance tests.  In numerical modeling, the interaction property is obtained from a variety of elemental push off tests which, for the most part, do not represent actual slab bending. This research comprises experimental, analytical and numerical investigations of composite slabs.  The central objective of the experimental work is to develop a new small scale test method for evaluating the performance and behavior of composite slabs and also for determining the shear interaction property for use in numerical analysis.  The characteristics of the new test specimen are simple, easy and economical to conduct, as well as comparable in performance and behavior with the more common full slab test.  The analytical study was conducted to determine whether data from small scale tests can be used in the present analytical methods to predict the strength of the actual slabs, to use the same test data for input in the numerical analysis, and to improve the present Partial Shear Connection (PSC) design procedure.  A model that relates the shear bond stress to slab slenderness, which can be used to estimate the shear interaction property for slabs with any slenderness, was developed. Finally, a finite element study was conducted to develop a simple modeling method that is suitable for analyzing composite slabs with variable slenderness.  Parametric analyses to determine the effect of slenderness on the performance and behavior of composite slabs, and on the accuracy of the present design methods were also conducted.  The results of this investigation demonstrate that the small scale test is feasible as a replacement for the full scale test.  Data from the small scale test can be used not only in the analytical methods but also in the numerical analysis, thus eliminating the need for separate push off type tests.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:02:55Z (GMT). No. of bitstreams: 5 05_Appendices.pdf: 1862835 bytes, checksum: 326e698f965cba3b95b21bc0dada58b5 (MD5) 04_Ch5to7.pdf: 838623 bytes, checksum: 8c214799eb448a5e75dd8db11fca0830 (MD5) 03_Ch3to4.pdf: 1364508 bytes, checksum: b68a4f2bf3ad239f434c5a23a5e99a1f (MD5) 02_Ch1to2.pdf: 693426 bytes, checksum: 7d3df06f48f1bbf5d97a10a9564e6f0f (MD5) 01_FrontMatters.pdf: 156927 bytes, checksum: d206d6dc2d286ed8999441a797b85805 (MD5)   Previous issue date: 2004-06-03",
+    "Author Email: rabdulla@vt.edu, due@gawab.com",
+    "Advisor Email: seaster@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11216",
+  "identifier_other": "etd-08012004-185803",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08012004-185803",
+  "identifier_uri": "http://hdl.handle.net/10919/11216",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "01_FrontMatters.pdf",
+    "05_Appendices.pdf",
+    "02_Ch1to2.pdf",
+    "03_Ch3to4.pdf",
+    "04_Ch5to7.pdf"
+  ],
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Composite slabs",
+    "Small scale test",
+    "Elemental test",
+    "Partial shear connection",
+    "Shear bond",
+    "Steel-concrete composite"
+  ],
+  "title": "Experimental Evaluation and Analytical Modeling of Shear Bond in Composite Slabs",
+  "type": "Dissertation"
+}

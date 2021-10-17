@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Gallimore, Scott Douglas",
+  "contributor_committeemember": [
+    "Mahan, James Robert",
+    "Vandsburger, Uri",
+    "Schetz, Joseph A.",
+    "Maurice, Lourdes Q."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:10:02Z",
+  "date_adate": "2001-04-20",
+  "date_available": "2014-03-14T20:10:02Z",
+  "date_issued": "2001-04-13",
+  "date_rdate": "2002-04-20",
+  "date_sdate": "2001-04-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The main goal of this project was to investigate the mixing and chemical phenomena associated with the integration of a low-power, uncooled plasma torch into a fuel injector array.  The potential application was for an integrated scramjet igniter/injector, with the hope of producing superior mixing and flameholding performance for supersonic combustion applications.  To create a knowledge base for integration, several key investigations were made of the anode material, anode geometry, and spectrographic analysis of different light hydrocarbon fuels and inert feedstocks, all aimed at increasing the ignition potential of the plasma torch.  Investigations of the anode material demonstrated the molybdenum provided longer lifetimes than either pure copper or tungsten-copper anodes.  In addition, geometric studies of the anode revealed that anodes with short constrictor lengths and sonic exit nozzles provided superior ignition performance based on higher transfer rates of thermal energy from the arc to the feedstock.  This resulted in the production of higher hydrogen atom concentrations within the plasma jet.  Spectrographic observation of the plasma jets revealed that methane, ethylene, propylene, and propane plasmas all contain excited atomic hydrogen, a radical known to participate in important chain-branching combustion reactions. Based on the knowledge gained, and encouraging results, a candidate scramjet igniter and flameholder was designed.  The design was observed to exhibit a synergistic effect between the plasma igniter and fuel injector in that the fuel injector provides not only a subsonic region for plasma ignition, but also lifts the combustion enhancing radicals out into the fuel-air stream by means of counter-rotating vortices.  Furthermore, under the conditions tested, increases in plasma torch power produced an exponential increase in the intensity of downstream products, indicating an enhancement effect.  Based upon these observations, the integrated igniter/injector design is expected to perform well in supersonic combustion applications.",
+  "description_provenance": [
+    "Author Email: sgallimo@vt.edu",
+    "Advisor Email: jrmahan@vt.edu",
+    "Advisor Email: uri@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: Lourdes.Maurice@pentagon.af.mil",
+    "Made available in DSpace on 2014-03-14T20:10:02Z (GMT). No. of bitstreams: 13 Chapter_1_Lit_Review.pdf: 168222 bytes, checksum: ea94dd83e77fd35203e6b1eb55e1a69a (MD5) Chapter_2_Torch.pdf: 58511 bytes, checksum: 7c9f369e497acf86e4af94424507c550 (MD5) Refs_and_Apps.pdf: 1047264 bytes, checksum: 92f9aa5b65346d77db77915da5e1f46d (MD5) Chapter_9_Integrated.pdf: 600596 bytes, checksum: 61d7114fb12dd23c0dc377803e6b0c45 (MD5) Chapter_8_CFD.pdf: 224238 bytes, checksum: 4d2a09266a0765789f508fda264692f5 (MD5) Chapter_3_Setup.pdf: 95731 bytes, checksum: 1bae08cf35b7e37b4e17fde0dd4bd897 (MD5) Chapter_10_Conclusions.pdf: 21713 bytes, checksum: c3f190120e6009e93016861d184733f6 (MD5) Introduction.pdf: 21674 bytes, checksum: 10b61ef29648460df686bf154f760e40 (MD5) Chapter_5_Spectro.pdf: 300013 bytes, checksum: b5a2a03317b8f7f1cd360bb10e4dfa1d (MD5) Chapter_6_Geometry.pdf: 889748 bytes, checksum: d7a58ab0c94a78912bea7d1e0d50ff9f (MD5) Chapter_4_Erosion.pdf: 214532 bytes, checksum: f9869b1fc5af0a0c641325585431986f (MD5) Chapter_7_Torch_op.pdf: 1890984 bytes, checksum: c894808f9b74ef6c60c4b379f9ed1504 (MD5) Cover_Abstract_TOC.pdf: 43861 bytes, checksum: b9bc1c1616ed6bff8800d19d94179c0c (MD5)   Previous issue date: 2001-04-13"
+  ],
+  "handle": "26988",
+  "identifier_other": "etd-04192001-184610",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04192001-184610/",
+  "identifier_uri": "http://hdl.handle.net/10919/26988",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter_1_Lit_Review.pdf",
+    "Chapter_2_Torch.pdf",
+    "Refs_and_Apps.pdf",
+    "Chapter_9_Integrated.pdf",
+    "Chapter_8_CFD.pdf",
+    "Chapter_3_Setup.pdf",
+    "Chapter_10_Conclusions.pdf",
+    "Introduction.pdf",
+    "Chapter_5_Spectro.pdf",
+    "Chapter_6_Geometry.pdf",
+    "Chapter_4_Erosion.pdf",
+    "Chapter_7_Torch_op.pdf",
+    "Cover_Abstract_TOC.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "title": "A Study of Plasma Ignition Enhancement for Aeroramp Injectors in Supersonic Combustion Applications",
+  "type": "Dissertation"
+}

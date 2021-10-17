@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Chandrasekar, Kameshwar",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "MacKenzie, Allen B.",
+    "Shukla, Sandeep K.",
+    "Brown, Ezra A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:11Z",
+  "date_adate": "2006-04-24",
+  "date_available": "2014-03-14T20:10:11Z",
+  "date_issued": "2006-04-14",
+  "date_rdate": "2007-04-24",
+  "date_sdate": "2006-04-20",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The increasing complexity of VLSI designs, in recent years, poses serious challenges while ensuring the correctness of large designs for functionality and timing. In this dissertation, we  target two related problems in Design Verification  and Testing: Unbounded Model Checking and Path Delay Fault Testing, that commonly suffer from extremely large memory requirements. We propose efficient representations and intelligent learning  techniques that reason on the problem structure and take advantage of the repeated search space, thereby alleviating the memory required and time taken to solve these problems.  In this dissertation, we exploit Automatic Test Pattern Generation (ATPG) for Unbounded Model Checking (UMC). In order to perform unbounded model checking, we need the core image / preimage computation engines that perform forward / backward reachability analysis. First, we develop an ATPG engine, with search-space aware learning, that computes ``all solutions\" for a given target objective and stores it as a decision diagram. We propose efficient decision selection heuristics and derive a suitable cut-set metric to quickly obtain a compact solution set. The solution set that is obtained, with the initial state set as the objective, represents the one-cycle preimage. In order to use the preimage state set as the objective in the subsequent iterations, we propose efficient techniques to convert a decision diagram into clauses/circuit. We propose a node-based conversion scheme that derives the functionality of each node in the decision diagram. The proposed scheme contains the size of the state set and helps to iteratively compute the preimage for many cycles until a fixed point / desired state is reached.  Further, we gear the ATPG engine to directly compute the circuit cofactors, rather than individual solutions. The circuit cofactors contain a large number of solutions and hence capture a larger solution space. We also propose efficient learning techniques to prune the cofactor space and accelerate preimage computation. Then, we develop an exclusive image computation procedure that branches on the combinational inputs of the circuit and projects the values on the next state flip-flops as the image. We perform learning on the input solution space and incrementally store the image obtained as a decision diagram. We consistently show, with our experimental results, that our techniques are better than the existing techniques in terms of both performance and capacity.  In the case of delay testing, we consider the test generation for path delay fault (PDF) model, which is the most accurate in characterizing the cumulative effect of distributed delays along each path in a circuit. The main bottle-neck in the ATPG for PDFs is the exponential number of paths in a circuit. In this work, we use the circuit information to analyze the common segments shared by different paths in a circuit. Based on the common sensitization constraints, we propose to identify the ``untestable core of segments\" that cannot be sensitized together. We use these segments to identify the conflict search space for a huge number of untestable path delay faults apriori and prune them on-the-fly during test generation. Experimental results show that a huge number of untestable path delay faults are identified and it helps to accelerate test generation.",
+  "description_provenance": [
+    "Author Email: kamesh@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:11Z (GMT). No. of bitstreams: 1 chandrasekar_phd.pdf: 483374 bytes, checksum: 3f69264b10597b9307f6de3e414309ea (MD5)   Previous issue date: 2006-04-14"
+  ],
+  "handle": "27048",
+  "identifier_other": "etd-04202006-084050",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04202006-084050/",
+  "identifier_uri": "http://hdl.handle.net/10919/27048",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "chandrasekar_phd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "SAT",
+    "BDD",
+    "Delay Testing",
+    "Model Checking",
+    "ATPG",
+    "Learning"
+  ],
+  "title": "Search-space Aware Learning Techniques for Unbounded Model Checking and Path Delay Testing",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Tan, Roy  Patrick",
+  "contributor_committeechair": "Edwards, Stephen H.",
+  "contributor_committeemember": [
+    "Tegarden, David P.",
+    "Pérez-Quiñones, Manuel A.",
+    "Arthur, James D.",
+    "Ramakrishnan, Naren"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:18Z",
+  "date_adate": "2007-08-27",
+  "date_available": "2014-03-14T20:15:18Z",
+  "date_issued": "2007-08-08",
+  "date_rdate": "2007-08-27",
+  "date_sdate": "2007-08-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Software testing is a necessary and integral part of the software quality process. It is estimated that inadequate testing infrastructure cost the US economy between $22.2 and $59.5 billion. We present Sulu, a programming language designed with automated unit testing specifically in mind, as a demonstration of how software testing may be more integrated and automated into the software development process. Sulu's runtime and tools support automated testing from end to end; automating the generation, execution, and evaluation of test suites using both code coverage and mutation analysis. Sulu is also designed to fully integrate automatically generated tests with manually written test suites. Sulu's tools incorporate pluggable test case generators, which enables the software developer to employ different test case generation algorithms.   To show the effectiveness of this integrated approach, we designed an experiment to evaluate a family of test suites generated using one test case generation algorithm, which exhaustively enumerates every sequence of method calls within a certain bound. The results show over 80\\% code coverage and high mutation coverage for the most comprehensive test suite generated.",
+  "description_provenance": [
+    "Author Email: rtan@vt.edu",
+    "Advisor Email: david.tegarden@vt.edu",
+    "Advisor Email: edwards@cs.vt.edu",
+    "Advisor Email: perez@cs.vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:18Z (GMT). No. of bitstreams: 2 sulu.zip: 4130932 bytes, checksum: b22ff3ccf43e5ae14e1abd23c3020c47 (MD5) thesis.pdf: 13970041 bytes, checksum: 9e561c95b2baf6f2927d61ba3607e983 (MD5)   Previous issue date: 2007-08-08"
+  ],
+  "handle": "28684",
+  "identifier_other": "etd-08162007-161911",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08162007-161911/",
+  "identifier_uri": "http://hdl.handle.net/10919/28684",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "sulu.zip",
+    "thesis.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "programming language",
+    "software engineering",
+    "Sulu",
+    "unit testing",
+    "software testing"
+  ],
+  "title": "Programming Language and Tools for Automated Testing",
+  "type": "Dissertation"
+}

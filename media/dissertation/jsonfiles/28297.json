@@ -1,0 +1,52 @@
+{
+  "contributor_author": "El-Nainay, Mustafa Y.",
+  "contributor_committeechair": "MacKenzie, Allen B.",
+  "contributor_committeemember": [
+    "El-Derini, Mohamed N.",
+    "DaSilva, Luiz A.",
+    "Bostian, Charles W.",
+    "Aly, Hussien H.",
+    "Midkiff, Scott F.",
+    "Marathe, Madhav V."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:02Z",
+  "date_adate": "2009-07-24",
+  "date_available": "2014-03-14T20:14:02Z",
+  "date_issued": "2009-07-01",
+  "date_rdate": "2009-07-24",
+  "date_sdate": "2009-07-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The heterogeneity and complexity of modern communication networks demands coupling network nodes with intelligence to perceive and adapt to different network conditions autonomously. Cognitive Networking is an emerging networking research area that aims to achieve this goal by applying distributed reasoning and learning across the protocol stack and throughout the network. Various cognitive node and cognitive network architectures with different levels of maturity have been proposed in the literature. All of them adopt the idea of coupling network devices with sensors to sense network conditions, artificial intelligence algorithms to solve problems, and a reconfigurable platform to apply solutions. However, little further research has investigated suitable reasoning and learning algorithms.  <p> In this dissertation, we take cognitive network research a step further by investigating the reasoning component of cognitive networks. In a deviation from previous suggestions, we suggest the use of a single flexible distributed reasoning algorithm for cognitive networks. We first propose an architecture for a cognitive node in a cognitive network that is general enough to apply to future networking challenges. We then introduce and justify our choice of the island genetic algorithm (iGA) as the distributed reasoning algorithm.  <p> Having introduced our cognitive node architecture, we then focus on the applicability of the island genetic algorithm as a single reasoning algorithm for cognitive networks. Our approach is to apply the island genetic algorithm to different single and cross layer communication and networking problems and to evaluate its performance through simulation. A proof of concept cognitive network is implemented to understand the implementation challenges and assess the island genetic algorithm performance in a real network environment. We apply the island genetic algorithm to three problems: channel allocation, joint power and channel allocation, and flow routing. The channel allocation problem is a major challenge for dynamic spectrum access which, in turn, has been the focal application for cognitive radios and cognitive networks. The other problems are examples of hard cross layer problems.   <p> We first apply the standard island genetic algorithm to a channel allocation problem formulated for the dynamic spectrum cognitive network environment. We also describe the details for implementing a cognitive network prototype using the universal software radio peripheral integrated with our extended implementation of the GNU radio software package and our island genetic algorithm implementation for the dynamic spectrum channel allocation problem. We then develop a localized variation of the island genetic algorithm, denoted LiGA, that allows the standard island genetic algorithm to scale and apply it to the joint power and channel allocation problem. In this context, we also investigate the importance of power control for cognitive networks and study the effect of non-cooperative behavior on the performance of the LiGA.     <p> The localized variation of the island genetic algorithm, LiGA, is powerful in solving node-centric problems and problems that requires only limited knowledge about network status. However, not every communication and networking problems can be solved efficiently in localized fashion. Thus, we propose a generalized version of the LiGA, namely the K-hop island genetic algorithm, as our final distributed reasoning algorithm proposal for cognitive networks. The K-hop island genetic algorithm is a promising algorithm to solve a large class of communication and networking problems with controllable cooperation and migration scope that allows for a tradeoff between performance and cost. We apply it to a flow routing problem that includes both power control and channel allocation. For all problems simulation results are provided to quantify the performance of the island genetic algorithm variation. In most cases, simulation and experimental results reveal promising performance for the island genetic algorithm.  <p> We conclude our work with a discussion of the shortcomings of island genetic algorithms without guidance from a learning mechanism and propose the incorporation of two learning processes into the cognitive node architecture to solve slow convergence and manual configuration problems. We suggest the cultural algorithm framework and reinforcement learning techniques as candidate leaning techniques for implementing the learning processes. However, further investigation and implementation is left as future work.",
+  "description_provenance": [
+    "Author Email: ymustafa@vt.edu",
+    "Advisor Email: elderini@ieee.org",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: alyh@computer.org",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: marathe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:02Z (GMT). No. of bitstreams: 1 MustafaElNainay_IslandGeneticAlgorithmbasedCognitiveNetworks.pdf: 3181411 bytes, checksum: 167623525abb65355fe6397616f39f18 (MD5)   Previous issue date: 2009-07-01"
+  ],
+  "handle": "28297",
+  "identifier_other": "etd-07142009-101727",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07142009-101727/",
+  "identifier_uri": "http://hdl.handle.net/10919/28297",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MustafaElNainay_IslandGeneticAlgorithmbasedCognitiveNetworks.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "channel allocation",
+    "power control",
+    "flow routing",
+    "cognitive networks",
+    "island genetic algorithm",
+    "distributed reasoning and learning",
+    "dynamic spectrum access"
+  ],
+  "title": "Island Genetic Algorithm-based Cognitive Networks",
+  "type": "Dissertation"
+}

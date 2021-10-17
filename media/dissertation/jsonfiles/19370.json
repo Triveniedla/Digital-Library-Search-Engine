@@ -1,0 +1,39 @@
+{
+  "contributor_author": "Salmanzadehdozdabi, Alireza",
+  "contributor_committeechair": [
+    "Davalos, Rafael V",
+    "Stremler, Mark A"
+  ],
+  "contributor_committeemember": [
+    "Schmelz, Eva Maria",
+    "Lu, Chang",
+    "Puri, Ishwar K"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2013-05-01T08:00:10Z",
+  "date_available": "2013-05-01T08:00:10Z",
+  "date_issued": "2013-04-30",
+  "degree_discipline": "Engineering Mechanics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Applications for lab-on-a-chip devices have been expanding rapidly in the last decade due to their lower required volume of sample, faster experiments, smaller tools, more control, and ease of parallelization compared to their macroscale counterparts. Moreover, lab-on-a-chip devices provide important capabilities, including isolating rare cells from body fluids, such as isolating circulating tumor cells from blood or peritoneal fluid, which are not feasible or at least extremely difficult with macroscale devices. Particles experience different forces (and/or torques) when they are suspended in a fluid in a microdevice. A dominant force is the drag force on the particle as it flows through the fluid.  External forces such as dielectrophoresis, the motion of a particle due to its polarization in the presence of a non-uniform electric field, may also be applied. For instance, well-specified mixing or separation of particles can be achieved by using the combination of drag and dielectrophoretic forces. Two major mechanisms for manipulating particles in a microdevice include control of forces applied to the particles, such as those due to electric and velocity fields, and the geometry of the device that affects the nature of these fields. The coupling between the geometry of the microdevices and applied fields makes the prediction of associated forces inside the microdevice challenging and increasingly difficult when the applied field is time-dependent. Understanding the interaction of external forces and particles and fluid is critical for engineering novel microsystems. Determining this interaction is even more complicated when dealing with bioparticles, especially cells, due to their complex intrinsic biological properties which influence their electrical and mechanical properties. Particles with non-spherical geometries further increase the complexity, making drag and other shape-dependent forces, such as dielectrophoretic force, less predictable and more complicated. In order to introduce more complexity to the system and maintain precise control over particle movement and fluid flow, it is essential to have a comprehensive understanding about the mechanics of particles-fluid interaction and the dynamics of the particle movement. Although microfluidics has been investigated extensively, unanswered questions about the effect of forces on the particle remain. Answering these questions will facilitate designing novel and more practical microdevices for medical, biological, and chemical applications.<br />Microfluidics devices were engineered for differentiation of subpopulations of cells based on their bioelectrical properties. These microdevices were utilized for separating prostate, leukemia, and three different stages of breast cancer cells from hematologic cells with concentrations as low as 1:106 with efficiency of >95%. The microfluidic platform was also utilized to isolate prostate cancer stem cells (CSCs) from normal cancer cells based on their electrical signature. Isolating these cells is the first step towards the development of cancer specific therapies. The signal parameters required to selectively isolate ovarian cancer cells at different cancer stages were also compared with peritoneal cells as the first step in developing an early diagnostic clinical system centered on cell biophysical properties. Moreover, the effect of non-toxic concentrations of two metabolites, with known anti-tumor and pro-tumor properties, on the intrinsic electrical properties of early and late stages of ovarian cancer cells was investigated. This work is the first to show that treatment with non-toxic doses of these metabolites correlate with changes in cells electrical properties.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-05-01T08:00:10Z (GMT). No. of bitstreams: 1 Salmanzadehdozdabi_A_D_2013.pdf: 7287932 bytes, checksum: 102dc3156772f6ccf2905b2ea621791b (MD5)   Previous issue date: 2013-04-30",
+  "format_medium": "ETD",
+  "handle": "19370",
+  "identifier_other": "vt_gsexam:721",
+  "identifier_uri": "http://hdl.handle.net/10919/19370",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Lab on a Chip",
+    "Microfluidics",
+    "Contactless Dielectrophoresis",
+    "Cell Subpopulations Differentiation",
+    "Rare Cell Enrichment",
+    "Cancer E"
+  ],
+  "title": "Microfluidic differentiation of subpopulations of cells based on their bioelectrical signature",
+  "type": "Dissertation"
+}

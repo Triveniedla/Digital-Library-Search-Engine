@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Wang, Zhenxing",
+  "contributor_committeechair": "Achenie, Luke E.",
+  "contributor_committeemember": [
+    "Martin, Stephen M.",
+    "Davis, Richey M.",
+    "Oyama, Shigeo Ted"
+  ],
+  "contributor_department": "Chemical Engineering",
+  "date_accessioned": "2014-03-14T20:16:04Z",
+  "date_adate": "2012-10-02",
+  "date_available": "2014-03-14T20:16:04Z",
+  "date_issued": "2012-09-05",
+  "date_rdate": "2012-10-02",
+  "date_sdate": "2012-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this dissertation the gas permeation process within four hybrid inorganic-organic membranes is modeled at the micro level using molecular dynamics (MD) and at the meso scale level using a diffusion mechanism. The predicted permeances and relative selectivity of CO<sub>2</sub> and CH<sub>4</sub> are compared with the experimental results.  In the MD simulation a single-pore silica crystal framework model with and without inserted phenyl groups are used to define two membrane structures. We designate the two cases as PSPM and SPM respectively. To mimic the diffusion of gas across the membrane, a three-region system with a repulsive wall potential on the edge is employed. Results from the SPM model indicate that the pore size affects the permeance but not the selectivity. In the PSPM model the permeance decreases significantly when the pore size is below a critical value. The extent of decrease varies with the type of gas and this is reflected in the large selectivity in the PSPM model. When the initial diameter is 0.4 nm the model shows a selectivity of 17.3, which is very close to experimental results. At this selectivity the CO<sub>2</sub> permeance is 2.87 Ã  10<sup>-4</sup> mol m<sup>-2</sup>s<sup>-1</sup>Pa<sup>-1</sup> and the CH<sub>4</sub> permeance is 1.66 Ã  10<sup>-5</sup> mol m<sup>-2</sup>s<sup>-1</sup>Pa<sup>-1</sup>. For different gases we also studied the motions of the phenyl groups in the pore during the permeation process. The results show that in CO<sub>2</sub> diffusion the phenyl groups moves in a larger range than in CH<sub>4</sub> diffusion. The density profile of gas molecules that the phenyl groups see is analyzed using double layer phenyl groups . The results show that the number of phenyl groups cannot affect the permeation.  In the meso scale study a mixed mechanism model with a grid framework is developed to model the permeation process. In the model the membrane is assumed to consist of various grids which follow three major diffusion mechanisms. Models with different grid sizes are employed for the four membranes. Parameters in each model are estimated from the permeance results of the two gases. By comparing the estimated parameters in the surface diffusion mechanism with the reported values, the acceptable grid models are determined and the models with the minimum number of grids are studied. The diffusion is dominated by the activated Knudsen diffusion mechanism at lower temperatures and follows the surface diffusion mechanism when the temperature is above a critical value. In the diffusion of both gases within the four membranes the surface diffusion portion is very close but the activated Knudsen diffusion portion is not. This explains why the permeation with high selectivity occurs at lower temperatures.  By comparing the results it shows the two studies can validate each other. On the other hand the two methods can be complementary as the diffusion model is able to predict the permeance within the right range and the MD model is able to predict the selectivity more accurately.",
+  "description_provenance": [
+    "Author Email: zhenxing@vt.edu",
+    "Advisor Email: martinsm@vt.edu",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: oyama@vt.edu",
+    "Advisor Email: achenie@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:04Z (GMT). No. of bitstreams: 1 WANG_Z_D_2012.pdf: 7807195 bytes, checksum: e8f08c293f6405a90e216999ffb44a5d (MD5)   Previous issue date: 2012-09-05"
+  ],
+  "handle": "28912",
+  "identifier_other": "etd-09082012-145620",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082012-145620/",
+  "identifier_uri": "http://hdl.handle.net/10919/28912",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "WANG_Z_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "gas permeation",
+    "silica membrane",
+    "simulation"
+  ],
+  "title": "Simulation study of carbon dioxide and methane permeation in hybrid inorganic-organic membrane",
+  "type": "Dissertation"
+}

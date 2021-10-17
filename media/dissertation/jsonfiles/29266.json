@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Sinha, Ashok",
+  "contributor_committeechair": "Puri, Ishwar K.",
+  "contributor_committeemember": [
+    "Cramer, Mark S.",
+    "Patil, Mayuresh J.",
+    "Hajj, Muhammad R.",
+    "Hyer, Michael W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:17:21Z",
+  "date_adate": "2008-11-17",
+  "date_available": "2014-03-14T20:17:21Z",
+  "date_issued": "2008-09-25",
+  "date_rdate": "2008-11-17",
+  "date_sdate": "2008-10-13",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Magnetic particles with active functional groups offer numerous advantages for use in Î¼-TAS (Micro Total Analytical Systems). The functional site allows chemical binding of the particle with the target species in the fluid sample. Selection of the functional group establishes the target molecule and vice versa under assumptions of highly specific biding. The particles hence act as mobile reaction substrates with high surface to volume ratios owing to their small size. The concept of action at a distance allows their use as agents for separation in microchannels based on relatively simple design. It is possible to manipulate magnetic particles and bound target species using an externally applied magnetic field. Hence, the particles can be effectively separated from the flow of a carrier fluid. Magnetic fields create dipolar interactions causing the particles to form interesting structures and aggregates. Depending upon the applied field, the microstructure evolution of the aggregate is interesting in its own right, e.g. related to improvements in material properties and bottom-up self assembly. The shape of the aggregates can be determined a priori if the interaction between the particles is well characterized. The dominant competing forces that influence magnetic particle dynamics in a flow are magnetic and viscous. There are a number of physical parameters such as viscosity, magnetic susceptibility, fluid velocity, etc. which are varied to study their individual effects.  Initially dilute suspensions are studied experimentally and numerically using a particle based dynamics approach. Once established, a force model for particle interaction is investigated for concentrated suspensions. A Lagrangian particle tracking algorithm that returns positions of the particles is used for this work that focuses on studying the dynamics of these particles. A mathematical model is proposed and investigated for functionalization between magnetic and non-magnetic particles. Having characterized the collection of magnetic particles, the effect of relative concentrations is investigated on the collection of the non-magnetic species.",
+  "description_provenance": [
+    "Author Email: asinha1@vt.edu",
+    "Advisor Email: ikpuri@vt.edu",
+    "Advisor Email: macramer@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:21Z (GMT). No. of bitstreams: 1 PhD_Dissertation_Ashok_Sinha.pdf: 1686982 bytes, checksum: 9fe10b4fba2f0946bfd16e9abcdf70ca (MD5)   Previous issue date: 2008-09-25"
+  ],
+  "handle": "29266",
+  "identifier_other": "etd-10132008-195616",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10132008-195616/",
+  "identifier_uri": "http://hdl.handle.net/10919/29266",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PhD_Dissertation_Ashok_Sinha.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "manipulation",
+    "magnetic separation",
+    "magnetic microparticles",
+    "Microfluidics"
+  ],
+  "title": "Characterizing Magnetic Particle Transport for Microfluidic Applications",
+  "type": "Dissertation"
+}

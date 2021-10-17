@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Mahieux, Celine Agnes",
+  "contributor_committeechair": "Reifsnider, Kenneth L.",
+  "contributor_committeemember": [
+    "Case, Scott W.",
+    "Kampe, Stephen L.",
+    "Lesko, John Jack",
+    "Marand, HervÃ© L."
+  ],
+  "contributor_department": "Materials Science and Engineering",
+  "date_accessioned": "2014-03-14T20:08:21Z",
+  "date_adate": "1999-03-24",
+  "date_available": "2014-03-14T20:08:21Z",
+  "date_issued": "1999-02-26",
+  "date_rdate": "2000-03-24",
+  "date_sdate": "1999-03-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Polymer matrix composites (PMCâ  s) are now being used more and more extensively and over wider ranges of service conditions.  Large changes in pressure, chemical environment or temperature influence the mechanical response of such composites.  In the present effort, we focus on temperature, a parameter of primary interest in almost all engineering applications.  In order to design composite structures without having to perform extensive experiments (virtual design), the necessity of establishing theoretical models that relate the macroscopic response of the structure to the microscopic properties of the constituents arises.  In the first part of the present work, a new stiffness versus temperature model is established. The model is validated using data from the literature.  The influence of the different polymerâ  s properties (Molecular weight, crystallinity, and filler content) on the model are studied by performing experiments on different grades of four polymers PMMA, PEEK, PPS, and PB. This statistical model is proven to be applicable to very different polymers (elastomers, thermoplastics, crystalline, amorphous, cross-linked, linear, filled, unfilledâ ¦) over wide temperature ranges (from the glassy state to the flow region).  The most attractive feature of the proposed model is the capability to enable a description of the polymerâ  s mechanical behavior within and across the property transition regions.  In order to validate the feasibility of using the model to predict the mechanical response of polymer matrix composites, the stiffness-temperature model is used in various micromechanical models (rule of mixtures, compression models for the life prediction of unidirectional PMCâ  s in end-loaded bendingâ ¦).  The model is also inserted in the MRLife prediction code to predict the remaining strength and life of unidirectional PMCâ  s in fatigue bending.  End-loaded fatigue experiments were performed.  A good correlation between theoretical and experimental results is observed.  Finally, the model is used in the Classical Lamination Theory; some laminates were found to exhibit stress reversals with temperature and behaved like thermally activated mechanical switches.",
+  "description_provenance": [
+    "Author Email: cmahieux@vt.edu",
+    "Advisor Email: scase@vt.edu",
+    "Advisor Email: kampe@vt.edu",
+    "Advisor Email: mrl@vt.edu",
+    "Advisor Email: jlesko@vt.edu",
+    "Advisor Email: hmarand@chemserver.chem.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:21Z (GMT). No. of bitstreams: 1 mahieuxetd.pdf: 1507101 bytes, checksum: c4baec71495cc42c5964f555eb207585 (MD5)   Previous issue date: 1999-02-26"
+  ],
+  "handle": "26479",
+  "identifier_other": "etd-032299-161945",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-032299-161945/",
+  "identifier_uri": "http://hdl.handle.net/10919/26479",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mahieuxetd.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "statistical model",
+    "life prediction",
+    "composites",
+    "elevated temperatures",
+    "bending",
+    "polymer matrix composites",
+    "fatigue",
+    "thermally activated switches",
+    "cryogenic temperatures",
+    "polymers",
+    "stiffness",
+    "temperature"
+  ],
+  "title": "A Systematic Stiffness-Temperature Model for Polymers and Applications to the Prediction of Composite Behavior",
+  "type": "Dissertation"
+}

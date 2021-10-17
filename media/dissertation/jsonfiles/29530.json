@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Knill, Duane . L",
+  "contributor_committeechair": "Grossman, Bernard M.",
+  "contributor_committeemember": [
+    "Walters, Robert W.",
+    "Schetz, Joseph A.",
+    "Haftka, Raphael T.",
+    "Watson, Layne T.",
+    "Mason, William H."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:18:25Z",
+  "date_adate": "1997-12-12",
+  "date_available": "2014-03-14T20:18:25Z",
+  "date_issued": "1997-12-01",
+  "date_rdate": "2012-08-14",
+  "date_sdate": "1997-12-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A method to efficiently introduce supersonic drag predictions from  computational fluid dynamics (CFD) calculations in a  combined aerodynamic-structural optimization of a High-Speed Civil Transport (HSCT) is presented. To achieve this goal, the method must alleviate the large computational burden associated with performing CFD analyses and reduce the  numerical noise present in the analyses. This is accomplished through the use of response surface (RS) methodologies, a variation of the variable-complexity modeling (VCM)  technique, and coarse grained parallel computing. Variable-complexity modeling allows one to take advantage of the information gained from inexpensive lower fidelity models while maintaining the  accuracy of the more expensive high fidelity methods. The utility of the method is demonstrated on HSCT design problems of five, ten, fifteen, and twenty design variables. <p> Motivation for including CFD predictions into the HSCT optimization comes from studies detailing the differences in supersonic aerodynamic predictions from linear theory, Euler, and parabolized Navier-Stokes (PNS) calculations for HSCT configurations. The effects of these differences in integrated forces and distributed loads on the aircraft performance and structural weight are investigated. These studies indicate that CFD drag solutions are required for accurate HSCT performance and weight estimates. <p> Response surface models are also used to provide useful information to the designer with minimal computational effort. Investigations into design trade-offs and sensitivities to certain design variables, available at the cost of evaluating a simple quadratic polynomial, are presented. In addition, a novel and effective approach to visualizing high dimensional,  highly constrained design spaces is enabled through the use of RS models.<br><br><i>NOTE: An updated copy of this ETD was added in July 2012 after there were patron reports of problems with the original file.</i>",
+  "description_provenance": [
+    "Author Email: knill@aoe.vt.edu",
+    "Advisor Email: grossman@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:25Z (GMT). No. of bitstreams: 2 phd.pdf: 2838369 bytes, checksum: 484253f1a4db013747cdfbe7f0fc3a0d (MD5) phd_2012.pdf: 8975019 bytes, checksum: d35b548b357cd31879fa7966faa622cc (MD5)   Previous issue date: 1997-12-01"
+  ],
+  "handle": "29530",
+  "identifier_other": "etd-111097-15623",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-111097-15623/",
+  "identifier_uri": "http://hdl.handle.net/10919/29530",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "phd.pdf",
+    "phd_2012.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "MDO",
+    "CFD",
+    "HSCT"
+  ],
+  "title": "Implementing Aerodynamic Predictions from Computational Fluid Dynamics in Multidisciplinary Design Optimization of a High-Speed Civil Transport",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Sundaresan, Vishnu  Baba",
+  "contributor_committeechair": "Leo, Donald J.",
+  "contributor_committeemember": [
+    "Cuppoletti, John",
+    "Weiland, Lisa",
+    "Inman, Daniel J.",
+    "Vlachos, Pavlos P.",
+    "Paul, Mark R."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:35Z",
+  "date_adate": "2007-06-01",
+  "date_available": "2014-03-14T20:12:35Z",
+  "date_issued": "2007-05-15",
+  "date_rdate": "2007-06-01",
+  "date_sdate": "2007-05-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents a new class of engineered devices, fabricated from synthetic materials and protein transporters extracted from cell membranes of plants, that use chemomechanical and chemoelectrical energy conversion processes to perform mechanical and electrical work.  The chemomechanical energy conversion concept is implemented in a protein based actuator.  The chemical energy is applied as an electrochemical gradient of protons across a membrane assembly formed from phospholipids and SUT4 -a proton-sucrose cotransporter.  The membrane assembly forms a physical barrier between two chambers in the actuator.  The SUT4 proteins in the membrane assembly balances the applied electrochemical gradient by a concentration gradient of sucrose across the membrane.  The sucrose gradient simultaneously generates an osmotic flow which deforms a flexible wall in a constrained chamber of the actuator, thus exhibiting mechanical strain.  The sucrose concentration balanced by the protein transporter is used as the control variable for fluid flow through the membrane.  The transport properties of the membrane assembly has been characterized for the control variable in the system.  The reaction kinetics based model for solute transport through the cotransporter is modified to compute the equilibrium constant for solute binding and fluid translocation rate through the membrane.   The maximum initial flux rate through the membrane is computed to be 2.51+/-0.6 ul/ug.cm^2.min for an applied pH4.0/pH7.0 concentration gradient across the membrane.  The flux rate can be modulated by varying the sucrose concentration in the actuator.  The prototype actuator has been fabricated using the characterized membrane assembly.  A maximum deformation of 60microns at steady state is developed by the actuator for 20 mM sucrose concentration in the system.  The chemoelectrical energy conversion concept is based on the electrogenic proton pumps in plasma and vacuolar membranes of a plant cell.  A prototype device referred to as a BioCell demonstrates the chemoelectric energy conversion using V-type ATPase extracted from plant cell membranes.  The enzyme in the bilayer lipid membrane hydrolyzes ATP and converts the chemical energy from the reaction into a charge gradient across the membrane.  Silver-silver chloride electrodes on both the sides of the membrane convert the charge established by the proton pumps into cell voltage.  The redox reactions at the surface of the electrodes result in a current through the external load connected to the terminals of the BioCell.  The single cell behaves like a constant current power source and has an internal resistance of 10-22kOhms. The specific power from the cell of the membrane assembly is estimated to be around 2microwatts/sq/cm.   The demonstration of chemoelectrical energy conversion shows the possibility to use ATP as an alternative source of electrical power to design novel chemo-electro-mechanical devices.",
+  "description_provenance": [
+    "Author Email: vsundare@vt.edu",
+    "Advisor Email: cuppolj@ucmail.uc.edu",
+    "Advisor Email: lweiland@engr.pitt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Advisor Email: pvlachos@vt.edu",
+    "Advisor Email: mrp@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:35Z (GMT). No. of bitstreams: 1 Dissertation_VBS.pdf: 10925939 bytes, checksum: 892b84e8945233f3a3a9d390493c4f71 (MD5)   Previous issue date: 2007-05-15"
+  ],
+  "handle": "27891",
+  "identifier_other": "etd-05252007-123951",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05252007-123951/",
+  "identifier_uri": "http://hdl.handle.net/10919/27891",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_VBS.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Chemomechanical energy conversion",
+    "SUT4 cotransporter",
+    "chemoelectrical energy conversion",
+    "ATPase enzymes",
+    "ATP"
+  ],
+  "title": "Biological Ion Transporters as Gating Devices for Chemomechanical and Chemoelectrical Energy Conversion",
+  "type": "Dissertation"
+}

@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kanner, Howard S",
+  "contributor_committeechair": "Schetz, Joseph A.",
+  "contributor_committeemember": [
+    "Ng, Fai",
+    "Choudhari, Meelan M.",
+    "Marchman, James F. III",
+    "Wlezien, Richard W.",
+    "Barnwell, Richard W."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:48Z",
+  "date_adate": "1999-04-07",
+  "date_available": "2014-03-14T20:08:48Z",
+  "date_issued": "1999-02-22",
+  "date_rdate": "2000-07-04",
+  "date_sdate": "1999-04-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "An experiment has been conducted to examine the generation and subsequent evolution of boundary-layer disturbances on a two-dimensional airfoil up through transition to turbulent flow. The experiment was conducted at the NASA Langley Research Center \"2 ft by 3 ft Low Speed Wind Tunnel Facility.\"  The primary objective of the experiment was to generate a comprehensive database that includes the effect of the external disturbance environment on the transition process and can be used as a benchmark for future transition prediction tools.  The airfoil used for this experiment was custom designed.  The model was a 6% thick, 4-ft chord unswept symmetric wing.  A description of the design procedure, along with the theoretical stability characteristics of the airfoil will be presented in this paper.  The experiment consisted of establishing the mean flow conditions, forcing two-dimensional Tollmien-Schlichting (T-S) waves in the boundary layer using modulated acoustic bursts in the free-stream, and acquiring the mean boundary-layer data and fluctuating disturbance data using hot-wire probes.  The acoustic receptivity due to surface roughness near Branch I has been examined.  The surface roughness consisted of two-dimensional strips of tape applied at and symmetrically spaced about Branch I.  Repeated roughness elements were spaced one wavelength apart based upon the wavelength of the primary forcing frequency as determined by linear-stability theory.  The test conditions consisted of mean flow velocities of 15 and 20 m/s, which correspond to chord Reynolds numbers of 1.25 and 1.68 million, respectively.  Boundary-layer disturbance profiles and constant boundary-layer height chordwise traverses were acquired and examined at individual frequencies and in total energy amplitude / broadband forms.  The experimental results match well with linear stability theory and linear parabolized stability equations, indicating breakdown of disturbances between N-factors of 7 and 11 with surface roughness on the model.  It was observed that when the flow physics change, differences between linear-stability theory and experiment are strongly apparent.  An amplitude-based breakdown criterion was defined for the developing boundary-layer responses, which were burst-type packets like the acoustic forcing signal.  A criterion was defined for the breakdown of both maxima of the T-S-like disturbance profile.  Overall, the effects of surface roughness and free-stream acoustic forcing on boundary-layer receptivity and stability were examined in a well-documented disturbance environment.  These results will be used to validate and refine non-linear flow theories as well as help to provide an improved understanding and improved methods to control flow transition.",
+  "description_provenance": [
+    "Author Email: h.s.kanner@hamptonroads.com",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: meelan@htc-tech.com",
+    "Advisor Email: marchman@vt.edu",
+    "Advisor Email: R.W.WLEZIEN@larc.nasa.gov",
+    "Advisor Email: R.W.BARNWELL@larc.nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:08:48Z (GMT). No. of bitstreams: 1 HSKanner.pdf: 14549383 bytes, checksum: dac985572c07dd687e8b6e063437c768 (MD5)   Previous issue date: 1999-02-22"
+  ],
+  "handle": "26603",
+  "identifier_other": "etd-040299-143904",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-040299-143904/",
+  "identifier_uri": "http://hdl.handle.net/10919/26603",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "HSKanner.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Tollmien-Schlichting",
+    "stability",
+    "boundary layer",
+    "transition"
+  ],
+  "title": "Evolution of an Acoustic Disturbance to Transition in the Boundary Layer on an Airfoil",
+  "type": "Dissertation"
+}

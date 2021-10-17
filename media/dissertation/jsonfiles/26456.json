@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Ellis, Joshua Randolph",
+  "contributor_committeechair": "Hall, Christopher D.",
+  "contributor_committeemember": [
+    "Patil, Mayuresh J.",
+    "Woolsey, Craig A.",
+    "Hendricks, Scott L."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:08:18Z",
+  "date_adate": "2010-04-07",
+  "date_available": "2014-03-14T20:08:18Z",
+  "date_issued": "2010-03-23",
+  "date_rdate": "2010-04-07",
+  "date_sdate": "2010-03-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Tethered satellite systems (TSS) can be utilized for a wide range of space-based applications, such as satellite formation control and propellantless orbital maneuvering by means of momentum transfer and electrodynamic thrusting.  A TSS is a complicated physical system operating in a continuously varying physical environment, so most research on TSS dynamics and control makes use of simplified system models to make predictions about the behavior of the system.  In spite of this fact, little effort is ever made to validate the predictions made by these simplified models.  In an ideal situation, experimental data would be used to validate the predictions made by simplified TSS models.  Unfortunately, adequate experimental data on TSS dynamics and control is not readily available at this time, so some other means of validation must be employed.  In this work, we present a validation procedure based on the creation of a top-level computational model, the predictions of which are used in place of experimental data.  The validity of all predictions made by lower-level computational models is assessed by comparing them to predictions made by the top-level computational model.  In addition to the proposed validation procedure, a top-level TSS computational model is developed and rigorously verified.  A lower-level TSS model is used to study the dynamics of the tether in a spinning TSS.  Floquet theory is used to show that the lower-level model predicts that the pendular motion and transverse elastic vibrations of the tether are unstable for certain in-plane spin rates and system mass properties.  Approximate solutions for the out-of-plane pendular motion are also derived for the case of high in-plane spin rates.  The lower-level system model is also used to derive control laws for the pendular motion of the tether.  Several different nonlinear control design techniques are used to derive the control laws, including methods that can account for the effects of dynamics not accounted for by the lower-level model.  All of the results obtained using the lower-level system model are compared to predictions made by the top-level computational model to assess their validity and applicability to an actual TSS.",
+  "description_provenance": [
+    "Author Email: joellis3@vt.edu",
+    "Advisor Email: mpatil@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: cdhall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:18Z (GMT). No. of bitstreams: 1 Ellis_JR_D_2010.pdf: 2225462 bytes, checksum: 4006bdbdcbe62a1ce11efa1c7a195243 (MD5)   Previous issue date: 2010-03-23"
+  ],
+  "handle": "26456",
+  "identifier_other": "etd-03182010-130812",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03182010-130812/",
+  "identifier_uri": "http://hdl.handle.net/10919/26456",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Ellis_JR_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "sliding mode control",
+    "Floquet theory",
+    "finite element method",
+    "verification and validation",
+    "tethered satellite systems"
+  ],
+  "title": "Modeling, Dynamics, and Control of Tethered Satellite Systems",
+  "type": "Dissertation"
+}

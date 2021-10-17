@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Vlachos, Pavlos P.",
+  "contributor_committeechair": "Telionis, Demetri P.",
+  "contributor_committeemember": [
+    "Tieleman, Henry W.",
+    "Hajj, Muhammad R.",
+    "Zia, Royce K. P.",
+    "Devenport, William J."
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:15:16Z",
+  "date_adate": "2000-08-23",
+  "date_available": "2014-03-14T20:15:16Z",
+  "date_issued": "2000-05-11",
+  "date_rdate": "2001-08-23",
+  "date_sdate": "2000-08-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In order to study three-dimensional unsteady turbulent flow fields such as the wakes of bluff bodies, a Digital Particle Image Velocimetry (DPIV) system was developed. This system allows non-intrusive two-dimensional and time varying velocity measurements. Software and hardware modifications necessary to enhance the capabilities of the system were preformed, resulting in increased frequency resolution. However, due to hardware limitations and limitations inherited from the implementation of the method, space resolution is reduced. Subsequently, digital image processing tools to improve the space resolutions were developed. The advantages and limitations of the method for the study of turbulent flows are presented in detail. <p>The developed system is employed in the documentation of time-varying turbulent flow fields. Initially we study the spanwise variation of the near wake of a low-aspect ratio, surface-mounted, circular cylinder piercing a free surface. The asymmetry of the end conditions combined with the natural unsteadiness of the vortex shedding generates a very complex flow filed which is difficult to study with conventional methods. By employing the aforementioned system we are able to reveal a departure of the two-dimensional character of the flow in the form of oblique vortex shedding. The effect of free surface on the vortex formation length and on the vortex reconnection process is documented. Near the free surface the alternate mode of vortex shedding is suppressed, leading to simultaneous shedding of vortices in the wake. Indications of vortex dislocations and change of the vortex axis in order to reconnect to the free surface are observed. Finally, a novel approach of reconstructing the three-dimensional, time -varying volume of the flow field by obtaining simultaneous measurements of Laser Doppler Velocimetry and Particle Image Velocimetry planes is presented. <p>The same field is investigated with focus on the streamwise structures. Three-dimensional streamwise vortical structures are known to exist due to instabilities of plane shear layers. Similar streamwise vortices, also known as braid vortices have been observed in the past in the wake of circular cylinders with symmetric boundary conditions. The present spatio-temporal analysis demonstrated coexistence of two types of streamwise vortices in the wake, bilge and braid type of vortices. These may be due to the three dimensionality introduced by the free surface. In addition, the sufficient time resolution allowed the detection of the primary Von-Karman vortex through a plane of interrogation normal to the free stream, thus revealing the spanwise variation of the vortex shedding and its evolution at different downstream stations. <p>The combination of the effect of the asymmetric boundary conditions with a free surface is investigated by adding one more source of three-dimensionality in terms of inclination of the cylinder axis. Hydrogen-bubble and particle-flow visualizations are preformed in combination with Laser-Doppler Velocimetry measurements. From both qualitative and quantitative results the effects of inclination and Froude number are documented. It is proved that the vortex shedding is suppressed for high values of the Froude number, however the inclination counteracts the vortex suppression and favors the vortex shedding mechanism. In addition, in the region of the no-slip boundary condition the flow is dominated by the effect of the horseshoe vortex. <p>The case of a three-dimensional separated flow over a surface-mounted prism is investigated using a modified version of the system. The character of the separated from the leading edge corner shear layer and the formed separation bubble are documented in space and time along the mid-plane of symmetry of the body. Three different flows corresponding to different Reynolds numbers are studied. The unsteadiness of the flow is presented indicating a pseudo-periodic character. Large-scale, low-frequency oscillations of the shear layer that have been observed in the past using point measurement methods are now confirmed by means of a whole field velocity measurement, technique allowing a holistic view of the flow. In addition, the unsteadiness of the point of reattachment is associated with the flapping of the shear layer and the shedding of vorticity in the wake. Finally, it is demonstrated that the apparent vortex shedding mechanism of such flows is dependent on the interaction of the primary vortex of the separation bubble with a secondary vortex formed by the separation of the reverse flow boundary layer. By performing measurements with such time and space resolution the inadequacy of time averaged or point measurement methods for the treatment of such complex and unsteady flow fields becomes evident. <p>In final case we employ Particle-Image Velocimetry to show the effect of unsteady excitation on two-dimensional separated flow over a sharp edged airfoil. It is proved that such an approach can be used to effectively control and organize the character of the flow, potentially leading to lift increase and drug reduction of bluff bodies",
+  "description_provenance": [
+    "Author Email: pvlachos@vt.edu",
+    "Advisor Email: telionis@vt.edu",
+    "Advisor Email: tieleman@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: devenport@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:16Z (GMT). No. of bitstreams: 1 diss_master2.pdf: 13763896 bytes, checksum: 580d5b7debb702a8151a647eb177a0a4 (MD5)   Previous issue date: 2000-05-11"
+  ],
+  "handle": "28675",
+  "identifier_other": "etd-08162000-10580045",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08162000-10580045/",
+  "identifier_uri": "http://hdl.handle.net/10919/28675",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss_master2.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "separation bubble",
+    "bluff body wakes",
+    "cylinder wake",
+    "Particle Image Velocimetry",
+    "flow visualization",
+    "free-surface flows",
+    "three-dimensional separation",
+    "separated shear layer"
+  ],
+  "title": "An Experimental Spatio-Temporal Analysis of Separated Flows Over Bluff Bodies Using Quantitative Flow Visualization",
+  "type": "Dissertation"
+}

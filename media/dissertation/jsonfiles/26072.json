@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Nowak, Stephanie Beth",
+  "contributor_committeechair": "Coruh, Cahit",
+  "contributor_committeemember": [
+    "Chapman, Martin C.",
+    "Peavy, Sam",
+    "Kriz, Ronald D.",
+    "Spotila, James A."
+  ],
+  "contributor_department": "Geosciences",
+  "date_accessioned": "2014-03-14T20:07:00Z",
+  "date_adate": "2005-08-04",
+  "date_available": "2014-03-14T20:07:00Z",
+  "date_issued": "2004-11-23",
+  "date_rdate": "2006-08-04",
+  "date_sdate": "2005-01-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Over the past century, a series of large (> 6.5) magnitude earthquakes have struck along the North Anatolian Fault Zone (NAFZ) in Turkey in a roughly East to West progression.  The progression of this earthquake sequence began in 1939 with the Ms 8.0 earthquake near the town of  Erzincan and continued westward, with two of the most recent ruptures occurring near the Sea of Marmara in 1999.  The sequential nature of ruptures along this fault zone implies that there is a connection between the location of the previous rupture and that of the future rupture zones.  This study focuses on understanding how previous rupture events and tectonic influences affect the stress regime of the NAFZ and how these stress changes affect the probability of future rupture along any unbroken segments of the fault zone using a two dimensional finite element modeling program.   \tIn this study, stress changes due to an earthquake are estimated using the slip history of the event, estimations of rock and fault properties along the fault zone (elastic parameters), and the far-field tectonic influence due to plate motions.  Stress changes are not measured directly. The stress regime is then used to calculate the probability of rupture along another segment of the fault zone.   This study found that when improper estimates of rock properties are utilized, the stress changes may be under- or over- estimated by as much as 350% or more.  Because these calculated stress changes are used in probability calculations, the estimates of probability can be off by as much as 20%.  A two dimensional model was built to reflect the interpreted geophysical and geological variations in elastic parameters and the 1939 through 1999 rupture sequence was modeled.  The far-field tectonic influence due to plate motions contributed between 1 and 4 bars of stress to the unbroken segments of the fault zone while earthquake events transferred up to 50 bars of stress to the adjacent portions of the fault zone. The 1999 rupture events near Izmit and DÃ¼zce have increased the probability of rupture during the next ten years along faults in the Marmara Sea to 38% while decreasing the probability of rupture along the faults near the city of Bursa by ~6%.  Large amounts of strain accumulation are interpreted along faults in the Marmara Sea, further compounding the case for a large rupture event occurring in that area in the future.",
+  "description_provenance": [
+    "Author Email: stnowak@vt.edu",
+    "Advisor Email: mcc@vt.edu",
+    "Advisor Email: coruh@vt.edu",
+    "Advisor Email: speavy@canes.gsw.edu",
+    "Advisor Email: rkriz@vt.edu",
+    "Advisor Email: spotila@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:00Z (GMT). No. of bitstreams: 1 SNowakDissertation1.pdf: 6744889 bytes, checksum: ce8a0a1b829e1a034b200c0eab370158 (MD5)   Previous issue date: 2004-11-23"
+  ],
+  "handle": "26072",
+  "identifier_other": "etd-01302005-161019",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01302005-161019/",
+  "identifier_uri": "http://hdl.handle.net/10919/26072",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SNowakDissertation1.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Stress Transfer",
+    "Finite Element Modeling",
+    "Rupture Probability Analysis",
+    "North Anatolian Fault Zone",
+    "Turkey"
+  ],
+  "title": "Understanding Time-Variant Stress-Strain in Turkey: A Numerical Modeling Approach",
+  "type": "Dissertation"
+}

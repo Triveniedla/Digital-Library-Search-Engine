@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Berg, Brian LaRoy",
+  "contributor_committeechair": "Beex, A. A. Louis",
+  "contributor_committeemember": [
+    "Reed, Jeffrey Hugh",
+    "Jacobs, Ira",
+    "VanLandingham, Hugh F.",
+    "Ball, Joseph A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:20Z",
+  "date_adate": "2001-09-11",
+  "date_available": "2014-03-14T20:15:20Z",
+  "date_issued": "2001-07-23",
+  "date_rdate": "2002-09-11",
+  "date_sdate": "2001-08-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A procedure is presented that is capable of extracting various speaker features, and is of particular value for analyzing records containing single words and shorter segments of speech. By taking advantage of the fast convergence properties of adaptive filtering, the approach is capable of modeling the nonstationarities due to both the vocal tract and vocal cord dynamics.  Specifically, the procedure extracts the vocal tract estimate from within the closed glottis interval and uses it to obtain a time-domain glottal signal.  This procedure is quite simple, requires minimal manual intervention (in cases of inadequate pitch detection), and is particularly unique because it derives both the vocal tract and glottal signal estimates directly from the time-varying filter coefficients rather than from the prediction error signal.  Using this procedure, several glottal signals are derived from human and synthesized speech and are analyzed to demonstrate the glottal waveform modeling performance and kind of glottal characteristics obtained therewith.  Finally, the procedure is evaluated using automatic speaker identity verification.",
+  "description_provenance": [
+    "Author Email: brian_berg@agilent.com",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:20Z (GMT). No. of bitstreams: 1 afrif_berg.pdf: 10314688 bytes, checksum: e95c24e7c1ebb4a9d67aac19068e7993 (MD5)   Previous issue date: 2001-07-23"
+  ],
+  "handle": "28691",
+  "identifier_other": "etd-08172001-164442",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08172001-164442/",
+  "identifier_uri": "http://hdl.handle.net/10919/28691",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "afrif_berg.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Speaker Recognition",
+    "Speech Synthesis",
+    "Speech Analysis",
+    "Digital Signal Processing",
+    "Speaker Identity Verification",
+    "Speech Processing"
+  ],
+  "title": "Investigating Speaker Features From Very Short Speech Records",
+  "type": "Dissertation"
+}

@@ -1,0 +1,50 @@
+{
+  "contributor_author": "San, Omer",
+  "contributor_committeechair": "Staples, Anne E.",
+  "contributor_committeemember": [
+    "Stremler, Mark A.",
+    "De Vita, Raffaella",
+    "Iliescu, Traian",
+    "Ragab, Saad A."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:13:00Z",
+  "date_adate": "2012-06-22",
+  "date_available": "2014-03-14T20:13:00Z",
+  "date_issued": "2012-06-11",
+  "date_rdate": "2012-06-22",
+  "date_sdate": "2012-06-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The accurate and efficient numerical simulation of geophysical flows is of great interest in numerical weather prediction and climate modeling as well as in numerous critical areas and industries, such as agriculture, construction, tourism, transportation, weather-related disaster management, and sustainable energy technologies. Oceanic and atmospheric flows display an enormous range of temporal and spatial scales, from seconds to decades and from centimeters to thousands of kilometers, respectively. Scale interactions, both spatial and temporal, are the dominant feature of all aspects of general circulation models in geophysical fluid dynamics. In this thesis, to decrease the cost for these geophysical flow computations, several types of multiscale methods were systematically developed and tested for a variety of physical settings including barotropic and stratified wind-driven large scale ocean circulation models, decaying and forced two-dimensional turbulence simulations, as well as several benchmark incompressible flow problems in two and three dimensions. The new models proposed here are based on two classes of modern multiscale methods: (i) interpolation based approaches in the context of the multigrid/multiresolution methodologies, and (ii) deconvolution based spatial filtering approaches in the context of large eddy simulation techniques. In the first case, we developed a coarse-grid projection method that uses simple interpolation schemes to go between the two components of the problem, in which the solution algorithms have different levels of complexity. In the second case, the use of approximate deconvolution closure modeling strategies was implemented for large eddy simulations of large-scale turbulent geophysical flows. The numerical assessment of these approaches showed that both the coarse-grid projection and approximate deconvolution methods could represent viable tools for computing more realistic turbulent geophysical flows that provide significant increases in accuracy and computational efficiency over conventional methods.",
+  "description_provenance": [
+    "Author Email: omersan@vt.edu",
+    "Advisor Email: stremler@vt.edu",
+    "Advisor Email: staplesa@vt.edu",
+    "Advisor Email: devita@vt.edu",
+    "Advisor Email: iliescu@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:00Z (GMT). No. of bitstreams: 2 San_O_D_2012.pdf: 94269144 bytes, checksum: f5f455d7aa922ac65caf979b3e3e859e (MD5) San_O_D_2012_Copyright.pdf: 87878 bytes, checksum: 4f644d5ae672505436376c49fc117965 (MD5)   Previous issue date: 2012-06-11"
+  ],
+  "handle": "28031",
+  "identifier_other": "etd-06122012-222502",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06122012-222502/",
+  "identifier_uri": "http://hdl.handle.net/10919/28031",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "San_O_D_2012.pdf",
+    "San_O_D_2012_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Geophysical Flows",
+    "Physical Oceanography",
+    "Multiscale Modeling",
+    "Multigrid",
+    "Large Eddy Simulation",
+    "Computational Fluid Dynamics"
+  ],
+  "title": "Multiscale Modeling and Simulation of Turbulent Geophysical Flows",
+  "type": "Dissertation"
+}

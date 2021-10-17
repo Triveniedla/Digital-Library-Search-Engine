@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Dai, Jing",
+  "contributor_committeechair": "Lu, CHang-Tien",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Fox, Edward Alan",
+    "Fan, Weiguo Patrick",
+    "Chen, Ing-Ray"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:16:18Z",
+  "date_adate": "2009-11-16",
+  "date_available": "2014-03-14T20:16:18Z",
+  "date_issued": "2009-09-04",
+  "date_rdate": "2009-11-16",
+  "date_sdate": "2009-09-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "As demanded by applications such as GIS, CAD, ecology analysis, and space research, efficient spatial data access methods have attracted much research. Especially, moving object management and continuous spatial queries are becoming highlighted in the spatial database area. However, most of the existing spatial query processing approaches were designed for single-user environments, which may not ensure correctness and data consistency in multiple-user environments. This research focuses on designing efficient concurrent operations on spatial datasets. Current multidimensional data access methods can be categorized into two types: 1) pure multidimensional indexing structures such as the R-tree family and grid file; 2) linear spatial access methods, represented by the Space-Filling Curve (SFC) combined with B-trees. Concurrency control protocols have been designed for some pure multidimensional indexing structures, but none of them is suitable for variants of R-trees with object clipping, which are efficient in searching. On the other hand, there is no concurrency control protocol designed for linear spatial indexing structures, where the one-dimensional concurrency control protocols cannot be directly applied. Furthermore, the recently designed query processing approaches for moving objects have not been protected by any efficient concurrency control protocols. In this research, solutions for efficient concurrent access frameworks on both types of spatial indexing structures are provided, as well as for continuous query processing on moving objects, for multiple-user environments. These concurrent access frameworks can satisfy the concurrency control requirements, while providing outstanding performance for concurrent queries. Major contributions of this research include: (1) a new efficient spatial indexing approach with object clipping technique, ZR+-tree, that outperforms R-tree and R+-tree on searching; (2) a concurrency control protocol, GLIP, to provide high throughput and phantom update protection on spatial indexing with object clipping; (3) efficient concurrent operations for indices based on linear spatial access methods, which form up the CLAM protocol; (4) efficient concurrent continuous query processing on moving objects for both R-tree-based and linear spatial indexing frameworks; (5) a generic access framework, Disposable Index, for optimal location update and parallel search.",
+  "description_provenance": [
+    "Author Email: daij@vt.edu",
+    "Advisor Email: naren@vt.edu",
+    "Advisor Email: fox@vt.edu",
+    "Advisor Email: wfan@vt.edu",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: irchen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:18Z (GMT). No. of bitstreams: 1 DAI_J_D_2009.pdf: 5060087 bytes, checksum: 04af8979aa27de0e60afeb516c208e23 (MD5)   Previous issue date: 2009-09-04"
+  ],
+  "handle": "28987",
+  "identifier_other": "etd-09152009-071052",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09152009-071052/",
+  "identifier_uri": "http://hdl.handle.net/10919/28987",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "DAI_J_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Indexing",
+    "Query Processing",
+    "Concurrency Control",
+    "Spatial Database"
+  ],
+  "title": "Efficient Concurrent Operations in Spatial Databases",
+  "type": "Dissertation"
+}

@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hopkins, Andrew",
+  "contributor_committeechair": "Simpson, Roger L.",
+  "contributor_committeemember": [
+    "Schetz, Joseph A.",
+    "Mason, William H.",
+    "Devenport, William J.",
+    "Neu, Wayne L."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:09:48Z",
+  "date_adate": "2010-05-03",
+  "date_available": "2014-03-14T20:09:48Z",
+  "date_issued": "2010-02-09",
+  "date_rdate": "2010-05-03",
+  "date_sdate": "2010-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Measurements were made in two-dimensional zero pressure gradient turbulent boundary layers over 5 geometries of three-dimensional densely distributed surface roughness.  A 3-velocity component laser Doppler velocimeter was used to measure instantaneous velocities.  These measurements permitted an independent estimate of skin friction on the surfaces using a momentum balance approach, and the validity of the von Karman constant for rough walls was tested. Five roughness fetches were evaluated: three sandpaper roughness fetches of varying grit size and two cases of uniformly distributed hemispheres of different spacing.  Optical surface profilometry was used to characterize the geometry of the sandgrain surfaces.   It was found that the smooth wall von Karman constant can not be assumed for densely distributed rough wall flows in order to determine the skin friction for these flows.  This requires an independent measure of skin friction using more than a single boundary layer profile.  Near wall flow structure measurements found that the hemispherical elements do not have high TKE or Reynolds shearing stress regions at the trailing edge of elements as had been shown for sparsely spaced cylindrical elements.  This is likely due to the sharp trailing corner of the cylindrical elements, as opposed to an effect of spacing.  Rather, hemispherical roughness has a periodically occurring high stress and TKE region located between two element centers in the stream-wise direction at a height of approximately 1.5 times the roughness element height.  The periodic nature of the near wall flow extends to approximately 4 roughness element heights.  The traditional roughness function f(&#955;) did not correlate well with &#955; or the modified &#923; for the experimental data.  However, it was found that the friction coefficient for the current dense roughness cases is a constant 0.004, within the experimental uncertainty.  Traditional inner wall scalings, outer wall scalings, and roughness scalings were not able to collapse surface pressure fluctuation spectra for the various rough wall surfaces tested.  However, the data do collapse for individual geometries based on Reynolds number.  This gives rise to the ability to predict pressure fluctuation spectra at other Reynolds numbers.",
+  "description_provenance": [
+    "Author Email: anhopki2@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: neu@vt.edu",
+    "Advisor Email: simpson@aoe.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:48Z (GMT). No. of bitstreams: 1 Hopkins_AMR_D_2010.pdf: 8172915 bytes, checksum: 61a5a53a5a4f61d191f279964c5330e6 (MD5)   Previous issue date: 2010-02-09"
+  ],
+  "handle": "26919",
+  "identifier_other": "etd-04162010-155547",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162010-155547/",
+  "identifier_uri": "http://hdl.handle.net/10919/26919",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hopkins_AMR_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "von Karman Constant",
+    "Skin Friction",
+    "Boundary Layer",
+    "Turbulence",
+    "Surface Pressure Fluctuations",
+    "Laser Doppler Velocimetry",
+    "Surface Roughness"
+  ],
+  "title": "Fluid Dynamics and Surface Pressure Fluctuations of Two-Dimensional Turbulent Boundary Layers Over Densely Distributed Surface Roughness",
+  "type": "Dissertation"
+}

@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Koran, Ahmed Mohammed",
+  "contributor_committeechair": "Lai, Jih S",
+  "contributor_committeemember": [
+    "Meehan, Kathleen",
+    "Centeno, Virgilio A",
+    "Nelson, Douglas J",
+    "Yu, Wensong"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-08-03T08:00:35Z",
+  "date_available": "2013-08-03T08:00:35Z",
+  "date_issued": "2013-06-28",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "This dissertation presents various systematic design techniques for photovoltaic (PV) source simulators to serve as a convenient tool for the dynamic performance evaluation of solar power conditioning systems and their maximum power point tracking algorithms. A well-designed PV source simulator should accurately emulate the static and the dynamic characteristic of actual PV generator. Four major design features should be adopted in any PV source simulator: (i) high power-stage efficiency, (ii) fast transient response-time, (iii) output impedance matching with actual PV generator, and (iv) precise reference generation technique. Throughout this research, two different PV source simulator systems are designed, modeled, and experimentally verified. The design of the first system focuses mainly on creating new reference generation techniques where the PV equivalent circuit is used to precisely generate the current-voltage reference curves. A novel technique is proposed and implemented with analog components to simplify the reference signal generator and to avoid computation time delays in digital controllers. A two-stage LC output filter is implemented with the switching power-stage to push the resonant frequency higher and thus allowing a higher control-loop bandwidth design while keeping the same switching ripple attenuation as in the conventional one-stage LC output filter. With typical control techniques, the output impedance of the proposed simulator did not  <br />match the closed-loop output impedance of actual PV generator due to the double resonant peaks of the two-stage LC output filter. Design procedures for both control and power-stage circuits are explained. Experimental results verify the steady-state and transient performance of the proposed PV source simulator at around 2.7 kW output. <br />The design concept of the first simulator system is enhanced with a new type of PV source simulator that incorporates the advantages of both analog and digital based simulators. This simulator is characterized with high power-stage efficiency and fast transient response-time. The proposed system includes a novel three-phase ac-dc dual boost rectifier cascaded with a three-phase dc-dc interleaved buck converter. The selected power-stage topology is highly reliable and efficient. Moreover, the multi-phase dc-dc converter helps improve system transient response-time though producing low output ripple, which makes it adequate for PV source simulators.<br />The simulator circuitry emulates precisely the static and the dynamic characteristic of actual PV generator under different environmental conditions including different irradiance and temperature levels. Additionally, the system allows for the creation of the partial shading effect on PV characteristic. This dissertation investigates the dynamic performance of commercial and non-commercial solar power conditioning systems using the proposed simulator in steady-state and transient conditions. Closed-loop output impedance of the proposed simulator is verified at different operating conditions. The impedance profile --magnitude and phase- matches the output impedance of actual PV generator closely. Mathematical modeling and experimental validation of the proposed system is thoroughly presented based on a 2.0 kW hardware prototype. The proposed simulator efficiency including the active-front-end rectifier and the converter stages at the maximum power point is 96.4%.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-08-03T08:00:35Z (GMT). No. of bitstreams: 1 Koran_AM_D_2013.pdf: 6177657 bytes, checksum: 8b22f7d45add67df0cd2f2725382ed11 (MD5)   Previous issue date: 2013-06-28",
+  "format_medium": "ETD",
+  "handle": "23681",
+  "identifier_other": "vt_gsexam:1342",
+  "identifier_uri": "http://hdl.handle.net/10919/23681",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "ac-dc Power Conversion",
+    "dc-dc Power Conversion",
+    "Maximum Power Point Tracking",
+    "Photovoltaic Cells",
+    "Photovoltaic Equivalent Circuits"
+  ],
+  "title": "Photovoltaic Source Simulators for Solar Power Conditioning Systems: Design Optimization, Modeling, and Control",
+  "type": "Dissertation"
+}

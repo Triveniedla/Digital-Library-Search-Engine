@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Velez-Garcia, Gregorio Manuel",
+  "contributor_committeechair": "Wapperom, Peter",
+  "contributor_committeecochair": "Baird, Donald G.",
+  "contributor_committeemember": [
+    "Renardy, Yuriko Y.",
+    "Zink-Sharp, Audrey G."
+  ],
+  "contributor_department": "Macromolecular Science and Engineering",
+  "date_accessioned": "2014-03-14T20:10:59Z",
+  "date_adate": "2012-05-22",
+  "date_available": "2014-03-14T20:10:59Z",
+  "date_issued": "2012-01-31",
+  "date_rdate": "2012-05-22",
+  "date_sdate": "2012-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Injection molded short fiber reinforced composites have generated commercial interest in the manufacturing of lightweight parts used in semi-structural applications. Predicting these materialsâ   fiber orientation with quantitative accuracy is crucial for technological advancement, but the task is difficult because of the effect of inter-particle interactions at high concentrations of fiber found in parts of commercial interest. <p> A complete sample preparation procedure was developed to obtain optical micrographs with optimal definition of elliptical and non-elliptical footprint borders. Two novel aspects in this procedure were the use of tridimensional markers to identify specific locations for analysis and the use of controlled-etching to produce small shadows where fibers recede into the matrix. These images were used to measure fiber orientation with a customized image analysis tool. This tool contains several modifications that we introduced in the method of ellipses which allow us to determine tridimensional fiber orientation and to obtain measurements in regions with fast changes in orientation. The tool uses the location of the shadow to eliminate the ambiguity problem in orientation and characterizes non-elliptical footprints to obtain the orientation in small sampling areas. <p> Cavitywise measurements in two thin center-gated disks showed the existence of an asymmetric profile of orientation at the gate and an orientation profile that washed out gradually at the entry region until disappearing at about 32 gap widths. This data was used to assess the prediction of cavitywise orientation using a delay model for fiber orientation with model parameters obtained from rheometrical experiments. Model predictions combining slip correction and experimentally determined orientation at the gate are in agreement with experimental data for the core layers near the end-of-fill region. <p> Radialwise measurements of orientation at the shell, transition and core layer, and microtextural description of the advancing front are included in this dissertation. The analysis and assessment of the radial evolution of fiber orientation and advancing front based on comparing the experimental data with simulation results are under ongoing investigation.",
+  "description_provenance": [
+    "Author Email: gvelez@vt.edu",
+    "Advisor Email: renardy@vt.edu",
+    "Advisor Email: agzink@vt.edu",
+    "Advisor Email: wapperom@vt.edu",
+    "Advisor Email: dbaird@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:59Z (GMT). No. of bitstreams: 1 Velez_Garcia_GM_2012.pdf: 7726177 bytes, checksum: 59a4fff9ebf94729eb42080ce8bf964a (MD5)   Previous issue date: 2012-01-31"
+  ],
+  "handle": "27335",
+  "identifier_other": "etd-04262012-100846",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262012-100846/",
+  "identifier_uri": "http://hdl.handle.net/10919/27335",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Velez_Garcia_GM_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "injection molding",
+    "finite element simulation",
+    "enhanced method of ellipses",
+    "sample preparation",
+    "image analysis",
+    "fiber orientation",
+    "short glass fiber composites"
+  ],
+  "title": "Experimental Evaluation and Simulations of Fiber Orientation in Injection Molding of Polymers Containing Short Glass Fibers",
+  "type": "Dissertation"
+}

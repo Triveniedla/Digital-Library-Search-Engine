@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Gaines, Jonathan Elliot",
+  "contributor_committeechair": "Wicks, Alfred L.",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Kurdila, Andrew J.",
+    "Xuan, Jianhua Jason",
+    "Kochersberger, Kevin Bruce"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:16:28Z",
+  "date_adate": "2011-10-03",
+  "date_available": "2014-03-14T20:16:28Z",
+  "date_issued": "2011-09-06",
+  "date_rdate": "2011-10-03",
+  "date_sdate": "2011-09-19",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Mini Rotorcraft Unmanned Aerial Vehicles (MRUAVs) flown at low altitude as a part of a human-robot team are potential sources of tactical information for local search missions.  Traditionally, their effectiveness in this role has been limited by an inability to intelligently perceive unknown environments or integrate with human team members. Human-robot collaboration provides the theory for building cooperative relationships in this context.  This theory, however, only addresses those human-robot teams that are either robot-centered or human-centered in their decision making processes or relationships.  This work establishes a new branch of human-robot collaborative theory, Operator Blending, which creates codependent and cooperative relationships between a single robot and human team member for tactical missions.  Joint Intension Theory is the basis of this approach, which allows both the human and robot to contribute what each does well in accomplishing the mission objectives.  Information processing methods for shared visual information and object tracking take advantage of the human role in the perception process.  In addition, coupling of translational commands and the search process establish navigation as the shared basis of communication between the MRUAV and human, for system integration purposes.  Observation models relevant to both human and robotic collaborators are tracked through a boundary based approach deemed AIM-SHIFT.  A system is developed to classify the semantic and functional relevance of an observation model to local search called the Code of Observational Genetics (COG).  These COGs are used to qualitatively map the environment through Qualitative Unsupervised Intelligent Collaborative Keypoint (QUICK) mapping, created to support these methods.",
+  "description_provenance": [
+    "Author Email: gaines90@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: kurdila@vt.edu",
+    "Advisor Email: xuan@vt.edu",
+    "Advisor Email: kbk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:28Z (GMT). No. of bitstreams: 2 Gaines_Permission_Document.pdf: 1950070 bytes, checksum: da4d47ef8e58b31e41439bd39e1be565 (MD5) Gaines_JE_D_2011.pdf: 21018640 bytes, checksum: aa7461d2dc22aae8367eebaec653bfab (MD5)   Previous issue date: 2011-09-06"
+  ],
+  "handle": "29032",
+  "identifier_other": "etd-09192011-195545",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09192011-195545/",
+  "identifier_uri": "http://hdl.handle.net/10919/29032",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Gaines_Permission_Document.pdf",
+    "Gaines_JE_D_2011.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "human-robot collaboration",
+    "intelligent information gathering",
+    "operator blending",
+    "perception",
+    "integration",
+    "rotorcraft",
+    "local search",
+    "unmanned systems"
+  ],
+  "title": "Remote Operator Blended Intelligence System for Environmental Navigation and Discernment (RobiSEND)",
+  "type": "Dissertation"
+}

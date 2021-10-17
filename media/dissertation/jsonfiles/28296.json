@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Ha, Keunsoo",
+  "contributor_committeechair": "Ramu, Krishnan",
+  "contributor_committeemember": [
+    "Stilwell, Daniel J.",
+    "Lindner, Douglas K.",
+    "De La Ree Lopez, Jaime",
+    "Kohler, Werner E."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:01Z",
+  "date_adate": "2008-08-04",
+  "date_available": "2014-03-14T20:14:01Z",
+  "date_issued": "2008-06-26",
+  "date_rdate": "2009-08-04",
+  "date_sdate": "2008-07-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Position estimation using only active phase voltage and current is presented to perform high accuracy position sensorless control of a SRM drive. By extracting the amplitude of the first switching harmonic terms of phase voltage and current for a PWM period through Fourier analysis, flux-linkage and position are estimated without external hardware circuitry such as a modulator and demodulator, resulting in increasing cost, as well as large position estimation error produced when the motional back emf is ignored near zero speed. Hence the proposed position estimation scheme covers the entire speed range including the standstill under various loads and it has high resolution information depending on switching frequency. Fourier series and Fast Fourier transform are employed to decompose the phase voltage and current into its first switching harmonic. A two-phase SRM drive system, consisting of an asymmetrical converter and a conventional closed-loop PI current controller, is utilized to validate the performance of the proposed position estimation scheme in comprehensive operating conditions. The estimated values very closely track the actual values in dynamic simulations and experiments. It is shown that the proposed position estimation scheme using Fourier analysis is sufficiently accurate and works satisfactorily at various operating points. This research also proposes an accurate self-inductance measurement method. In general, when applying circulating currents within the body of a ferromagnetic material under conditions of a time varying magnetic flux, the effects of eddy current losses and resistance changes due to  heating decrease the magnetic field strength and thereby the reduced magnetic field decreases the magnetic flux-linkage of SRM. These losses make a challenge to the measurement of magnetic characteristics of SRM. These motives lead to propose a measurement methodology based on 60 Hz sinusoidal excitation using a variable AC power supply, which provides an alternative to time domain integration approaches for self-inductance or flux-linkage measurement as well as eliminates error arising from thermal and eddy currents effects. The validation of the proposed method is verified with the correlation between the measurement and FEA results of flux-linkage. Furthermore, this research proposes the solutions for low cost and high efficiency drive systems, consisting of a split AC converter and a two-phase SRM. Its performance is analyzed and verified with experiments at the rated speed under various loads. It is believed that this drive system combined with the proposed position estimation scheme using Fourier analysis is a strong contender to be a low cost motor drive system with single switch per phase having comparable efficiency and acoustic noise level as an asymmetric drive system.",
+  "description_provenance": [
+    "Author Email: ksha@vt.edu",
+    "Advisor Email: stilwell@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: jreelope@vt.edu",
+    "Advisor Email: kramu@vt.edu",
+    "Advisor Email: kohler@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:01Z (GMT). No. of bitstreams: 1 KeunsooHa_Dissertation.pdf: 4666549 bytes, checksum: fb92572eaa47503cbb47a675886366e8 (MD5)   Previous issue date: 2008-06-26"
+  ],
+  "handle": "28296",
+  "identifier_other": "etd-07142008-150831",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07142008-150831/",
+  "identifier_uri": "http://hdl.handle.net/10919/28296",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KeunsooHa_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Flux-linkage Estimation",
+    "First Switching Harmonic",
+    "FFT",
+    "Fourier series",
+    "Low-cost Drive",
+    "High Efficiency",
+    "Acoustic Noise",
+    "Position Estimation",
+    "Switched Reluctance Motor"
+  ],
+  "title": "Position Estimation in Switched Reluctance Motor Drives Using the First Switching Harmonics of Phase Voltage and Current",
+  "type": "Dissertation"
+}

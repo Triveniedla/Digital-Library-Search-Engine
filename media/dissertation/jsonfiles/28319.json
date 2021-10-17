@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Thomas, Ryan William",
+  "contributor_committeechair": "DaSilva, Luiz A.",
+  "contributor_committeemember": [
+    "MacKenzie, Allen B.",
+    "Hou, Yiwei Thomas",
+    "Marathe, Madhav V.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:05Z",
+  "date_adate": "2007-07-27",
+  "date_available": "2014-03-14T20:14:05Z",
+  "date_issued": "2007-06-15",
+  "date_rdate": "2007-07-27",
+  "date_sdate": "2007-07-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "For complex computer networks with many tunable parameters and network performance objectives, the task of selecting the ideal network operating state is difficult.  To improve the performance of these kinds of networks, this research proposes the idea of the cognitive network.  A cognitive network is a network composed of elements that, through learning and reasoning, dynamically adapt to varying network conditions in order to optimize end-to-end performance. In a cognitive network, decisions are made to meet the requirements of the network as a whole, rather than the individual network components.   We examine the cognitive network concept by first providing a definition and then outlining the difference between it and other cognitive and cross-layer technologies.  From this definition, we develop a general, three-layer cognitive network framework, based loosely on the framework used for cognitive radio. In this framework, we consider the possibility of a cognitive process consisting of one or more cognitive elements, software agents that operate somewhere between autonomy and cooperation.  To understand how to design a cognitive network within this framework we identify three critical design decisions that affect the performance of the cognitive network: the selfishness of the cognitive elements, their degree of ignorance, and the amount of control they have over the network.  To evaluate the impact of these decisions, we created a metric called the price of a feature, defined as the ratio of the network performance with a certain design decision to the performance without the feature.  To further aid in the design of cognitive networks, we identify classes of cognitive networks that are structurally similar to one another. We examined two of these classes: the potential class and the quasi-concave class.  Both classes of networks will converge to Nash Equilibrium under selfish behavior and in the quasi-concave class this equilibrium is both Pareto and globally optimal.  Furthermore, we found the quasi-concave class has other desirable properties, reacting well to the absence of certain kinds of information and degrading gracefully under reduced network control.  In addition to these analytical, high level contributions, we develop cognitive networks for two open problems in resource management for self-organizing networks, validating and illustrating the cognitive network approach.  For the first problem, a cognitive network is shown to increase the lifetime of a wireless multicast route by up to 125\\%.   For this problem, we show that the price of selfishness and control are more significant than the price of ignorance.  For the second problem, a cognitive network minimizes the transmission power and spectral impact of a wireless network topology under static and dynamic conditions.  The cognitive network, utilizing a distributed, selfish approach, minimizes the maximum power in the topology and reduces (on average) the channel usage to within 12\\% of the minimum channel assignment.  For this problem, we investigate the price of ignorance under dynamic networks and the cost of maintaining knowledge in the network.  Today's computer networking technology will not be able to solve the complex problems that arise from increasingly bandwidth-intensive applications competing for scarce resources. Cognitive networks have the potential to change this trend by adding intelligence to the network. This work introduces the concept and provides a foundation for future investigation and implementation.",
+  "description_provenance": [
+    "Author Email: rwthomas@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: thou@vt.edu",
+    "Advisor Email: mmarathe@vbi.vt.edu",
+    "Advisor Email: midkiff@vt.edu>",
+    "Made available in DSpace on 2014-03-14T20:14:05Z (GMT). No. of bitstreams: 1 Thomas_CognitiveNetworksDiss4.pdf: 3125304 bytes, checksum: 45d7d072be59035daef8b90c2dff8714 (MD5)   Previous issue date: 2007-06-15"
+  ],
+  "handle": "28319",
+  "identifier_other": "etd-07172007-150149",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07172007-150149/",
+  "identifier_uri": "http://hdl.handle.net/10919/28319",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thomas_CognitiveNetworksDiss4.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "cross-layer optimization",
+    "cognitive network",
+    "cognitive radio",
+    "complex networks",
+    "game theory",
+    "distributed algorithm"
+  ],
+  "title": "Cognitive Networks",
+  "type": "Dissertation"
+}

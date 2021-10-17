@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Fu, Dianbo",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Wang, Fei Fred",
+    "Xu, Ming",
+    "Baumann, William T.",
+    "Reynolds, Marion R. Jr."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:12:14Z",
+  "date_adate": "2010-06-16",
+  "date_available": "2014-03-14T20:12:14Z",
+  "date_issued": "2010-02-04",
+  "date_rdate": "2010-06-16",
+  "date_sdate": "2010-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Over the past several years, energy efficiency and power density have become the top concerns for power conversion. Rising energy intensity leads to a higher cost of delivering power. Meanwhile, the demand for compact power supplies grows significantly. It requires power supplies with high efficiency, low profile and high power density. Dc-dc power conversion has been widely applied for industry, medial, military and airspace applications. Conventional PWM dc-dc converters have relatively low power transfer efficiency and low power density. In contrast, resonant dc-dc converters have numerous advantages for dc-dc power conversions. In this work, topologies and system optimization of resonant converters are investigated to meet challenges of high efficiency, high power density, low EMI, easy startup and over current protection. LLC resonant converters can achieve zero-voltage-switching (ZVS) for primary side devices and zero-current-switching (ZCS) for the secondary side rectifiers. The switching loss is minimized. LLC is very attractive to overcome the issues of conventional circuits. However, challenges still remain. First of all, for low-voltage high-current applications, the synchronous rectifier (SR) with lower conduction loss is a must for high efficiency. To solve the driving issues of SRs, a novel synchronous driving scheme is proposed. Experimental results demonstrate the considerable loss reduction with utilization of the proposed driving scheme. Secondly, dc-dc converters are required to meet EMI standard. This work proposes an EMI mode. Based on the proposed model, EMI analysis and noise attenuation techniques are proposed and verified by experiments. Thirdly, startup and over-load protection are another issues of LLC resonant converters. With proposed multi-element resonant converters, the current limit issues can be resolved. In addition, the proposed multi-element resonant converters can utilize higher-order harmonics to enhance power transfer. Fourthly, for high-current applications, the secondary side structure becomes very critical. An improved secondary side construction is proposed to alleviate ac termination losses and SR paralleling issues. Novel winding structures are proposed to reduce the winding loss. The magnetic integration technique is proposed and analyzed, and an optimal integrated transformer design is proposed, which has low loss and compact size.",
+  "description_provenance": [
+    "Author Email: dfu@vt.edu",
+    "Advisor Email: fred.wang@utk.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: mixu3@vt.edu",
+    "Advisor Email: baumann10@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:14Z (GMT). No. of bitstreams: 1 Fu_D_D_2010.pdf: 7238715 bytes, checksum: 8aa4c0d29b69e97dd4b4de3478d85dca (MD5)   Previous issue date: 2010-02-04"
+  ],
+  "handle": "27783",
+  "identifier_other": "etd-05182010-104553",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182010-104553/",
+  "identifier_uri": "http://hdl.handle.net/10919/27783",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Fu_D_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "multi-element",
+    "high efficiency",
+    "resonant converter",
+    "high power density"
+  ],
+  "title": "Topology Investigation and System Optimization of Resonant Converters",
+  "type": "Dissertation"
+}

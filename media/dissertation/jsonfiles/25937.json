@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Chen, Chen",
+  "contributor_committeechair": "Scales, Wayne A.",
+  "contributor_committeemember": [
+    "Jones, Mark T.",
+    "Sandu, Adrian",
+    "Wang, Joseph J.",
+    "Brown, Gary S."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:05:24Z",
+  "date_adate": "2008-01-31",
+  "date_available": "2014-03-14T20:05:24Z",
+  "date_issued": "2007-11-26",
+  "date_rdate": "2009-01-31",
+  "date_sdate": "2008-01-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recently, experimental observations have shown that Polar Mesospheric Summer Echoes PMSE may be modulated by radio wave heating the irregularity source region with a ground-based ionospheric heating facilities. It is clear from these past investigations that the temporal behavior of PMSE during ionospheric heating shows promise as a diagnostic for the associated dust layer. To investigate the temporal behavior of plasma irregularities thought to produce PMSE, this work describes a new model that incorporates both finite diffusion time effects as well as dust charging. The hybrid model utilizes fluid ions described by continuity and momentum equations, electrons whose behavior is determined from quasi-neutrality, and charged dust described by the standard Particle-In-Cell PIC method. The model has been used to investigate the temporal behavior of charged dust associated electron irregularities during electron temperature enhancement associated with radio wave heating. The model predicts that the temporal behavior of the irregularities depends on the ratio of the electron-ion ambipolar diffusion time to the dust particle charging time Td/Tc. The results indicate that typically for Td/Tc << 1, an enhancement in electron irregularity amplitude occurs for a period after turn-off of the radio wave heating. The work also predicts that for Td/Tc >> 1, an enhancement in electron irregularity amplitude occurs for a time period after the turn-on of the radio wave heating. Due to the dependence of Td on irregularity scale-size, these results have important implications for observations of PMSE modification at different radar frequencies. Both continuous and discrete charging model were embedded into this computational model, the results were compared and analyzed.  It is evident that significant diagnostic information may be available about the dust layer from the temporal behavior of the electron irregularities during the heating process which modifies the background electron temperature. Particularly interesting and important periods of the temporal behavior are during the turn-on and turn-off of the radio wave heating. Although a number of past theoretical and experimental investigations have considered both these on and off period, this dissertation considers further possibilities for diagnostic information available as well as the underlying physical processes. Approximate analytical models are developed and compared to a more accurate full computational model as a reference. Then from the temporal behavior of the electron irregularities during the turn-on and turn-off of the radio wave heating, the analytical models are used to obtain possible diagnostic information for various charged dust and background plasma quantities.  Finally, two experiment campaigns have been performed at HAARP, Gakona, Alaska. Preliminary observation results look promising for the existence of PMSE turn-on overshoot. However, more careful experiments need to be done before firm conclusions can be drawn. The new designed Echotek digital receiver is ready for use now. It will be much superior to the experimental setup used for measurements in the previous campaign.Therefore, future experimental campaigns are planning next year to support the theoretical research.",
+  "description_provenance": [
+    "Author Email: chenc@vt.edu",
+    "Advisor Email: wscales@vt.edu",
+    "Advisor Email: mtj@vt.edu",
+    "Advisor Email: asandu7@vt.edu",
+    "Advisor Email: jowang@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:05:24Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 2533849 bytes, checksum: 73ceb2f282120109e50a9f8394f81082 (MD5)   Previous issue date: 2007-11-26"
+  ],
+  "handle": "25937",
+  "identifier_other": "etd-01022008-021057",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01022008-021057/",
+  "identifier_uri": "http://hdl.handle.net/10919/25937",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Plasma Simulation",
+    "Noctilucent Cloud",
+    "PMSE",
+    "Dusty Plasma"
+  ],
+  "title": "Electron Temperature Enhancement Effects on Plasma Irregularities Associated with Charged Dust in the Earth's Mesosphere",
+  "type": "Dissertation"
+}

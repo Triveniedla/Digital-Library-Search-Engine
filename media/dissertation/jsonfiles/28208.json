@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zahran, Alyaa R",
+  "contributor_committeecochair": [
+    "Myers, Raymond H.",
+    "Anderson-Cook, Christine M.",
+    "Smith, Eric P."
+  ],
+  "contributor_committeemember": [
+    "Ye, Keying",
+    "Morgan, John P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:13:44Z",
+  "date_adate": "2002-07-16",
+  "date_available": "2014-03-14T20:13:44Z",
+  "date_issued": "2002-07-01",
+  "date_rdate": "2003-07-16",
+  "date_sdate": "2002-07-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Design of an experiment involves selection of levels of one or more factor in order to optimize one or more criteria such as prediction variance or parameter variance criteria. Good experimental designs will have several desirable properties. Typically, one can not achieve all the ideal properties in a single design. Therefore, there are frequently several good designs and choosing among them involves tradeoffs.   This dissertation contains three different components centered around the area of optimal design: developing a new graphical evaluation technique, discussing designs for non-regular regions for first order models with interaction for the two- and three-factor case, and using the standard designs in the case of generalized linear models (GLM).  The Fraction of Design Space (FDS) technique is proposed as a new graphical evaluation technique that addresses good prediction. The new technique is comprised of two tools that give the researcher more detailed information by quantifying the fraction of design space where the scaled predicted variance is less than or equal to any pre-specified value. The FDS technique complements Variance Dispersion Graphs (VDGs) to give the researcher more insight about the design prediction capability. Several standard designs are studied with both methods: VDG and FDS.  Many Standard designs are constructed for a factor space that is either a p-dimensional hypercube or hypersphere and any point inside or on the boundary of the shape is a candidate design point. However, some economic, or practical constraints may occur that restrict factor settings and result in an irregular experimental region. For the two- and three-factor case with one corner of the cuboidal design space excluded, three sensible alternative designs are proposed and compared. Properties of these designs and relative tradeoffs are discussed.  Optimum experimental designs for GLM depend on the values of the unknown parameters. Several solutions to the dependency of the parameters of the optimality function were suggested in the literature. However, they are often unrealistic in practice. The behavior of the factorial designs, the well-known standard designs of the linear case, is studied for the GLM case. Conditions under which these designs have high G-efficiency are formulated.",
+  "description_provenance": [
+    "Author Email: azahran@vt.edu",
+    "Advisor Email: candcook@vt.edu",
+    "Advisor Email: Keying@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: jpmorgan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:44Z (GMT). No. of bitstreams: 1 dd_black2.pdf: 651639 bytes, checksum: 275bd3d6c7fc2a42d1d5c0c679591a13 (MD5)   Previous issue date: 2002-07-01"
+  ],
+  "handle": "28208",
+  "identifier_other": "etd-07052002-105725",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07052002-105725/",
+  "identifier_uri": "http://hdl.handle.net/10919/28208",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dd_black2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "non-regulare design spaces",
+    "design optimality",
+    "fraction of design space technique",
+    "gneralized linear models",
+    "linear models"
+  ],
+  "title": "On the Efficiency of Designs for Linear Models in Non-regular Regions and the Use of Standard Desings for Generalized Linear Models",
+  "type": "Dissertation"
+}

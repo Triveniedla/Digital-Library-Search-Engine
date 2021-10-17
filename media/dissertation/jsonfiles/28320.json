@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Le, Bin",
+  "contributor_committeechair": "Bostian, Charles W.",
+  "contributor_committeemember": [
+    "Buehrer, Richard Michael",
+    "Reed, Jeffrey Hugh",
+    "Hsiao, Michael S.",
+    "Smith-Jackson, Tonya L.",
+    "MacKenzie, Allen B."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:05Z",
+  "date_adate": "2007-08-22",
+  "date_available": "2014-03-14T20:14:05Z",
+  "date_issued": "2007-06-11",
+  "date_rdate": "2010-10-08",
+  "date_sdate": "2007-07-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Cognitive radio (CR) technology introduces a revolutionary wireless communication mechanism in terminals and network segments, so that they are able to learn their environment and adapt intelligently to the most appropriate way of providing the service for the user's exact need. By supporting multi-band, mode-mode cognitive applications, the cognitive radio addresses an interactive way of managing the spectrum that harmonizes technology, market and regulation.  </p><p> This dissertation gives a complete story of building a cognitive radio. It goes through concept clarification, architecture definition, functional block building, system integration, and finally to the implementation of a fully-functional cognitive radio node prototype that can be directly packaged for application use. This dissertation starts with a comprehensive review of CR research from its origin to today. Several fundamental research issues are then addressed to let the reader know what makes CR a challenging and interesting research area. Then the CR system solution is introduced with the details of its hierarchical functional architecture called the Egg Model, modular software system called the cognitive engine, and the kernel machine learning mechanism called the cognition cycle.  </p><p> Next, this dissertation discusses the design of specific functional building blocks  which incorporate environment awareness, solution making, and adaptation. These building blocks are designed to focus on the radio domain that mainly concerns the radio environment and the radio platform. Awareness of the radio environment is achieved by extracting the key environmental features and applying statistical pattern recognition methods including artificial neural networks and k-nearest neighbor clustering. Solutions for the radio behavior are made according to the recognized environment and the previous knowledge through case based reasoning, and further adapted or optimized through genetic algorithm solution search. New experiences are gained through the practice of the new solution, and thus the CR's knowledge evolves for future use; therefore, the CR's performance continues improving with this reinforcement learning approach. To deploy the solved solution in terms of the radio's parameters, a platform independent radio interface is designed. With this general radio interface, the algorithms in the cognitive engine software system can be applied to various radio hardware platforms.  </p><p> To support and verify designed cognitive algorithms and cognitive functionalities, a complete reconfigurable SDR platform, called the CWT2 waveform framework, is designed in this dissertation. In this waveform framework, a hierarchical configuration and control system is constructed to support flexible, real-time waveform reconfigurability.  </p><p> Integrating all the building blocks described above allows a complete CR node system. Based on this general CR node structure, a fully-functional Public Safety Cognitive Radio (PSCR) node is prototyped to provide the universal interoperability for public safety communications. Although the complete PSCR node software system has been packaged to an official release including installation guide and user/developer manuals, the process of building a cognitive radio from concept to a functional prototype is not the end of the CR research; on-going and future research issues are addressed in the last chapter of the dissertation. </p>",
+  "description_provenance": [
+    "Author Email: binle@vt.edu",
+    "Advisor Email: buehrer@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:05Z (GMT). No. of bitstreams: 1 BinLe_ETD_submit_version.pdf: 4917563 bytes, checksum: 39d2a190f894d4bf14d0f1e8f3d2141e (MD5)   Previous issue date: 2007-06-11"
+  ],
+  "handle": "28320",
+  "identifier_other": "etd-07172007-222244",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07172007-222244/",
+  "identifier_uri": "http://hdl.handle.net/10919/28320",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "BinLe_ETD_submit_version.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Cognitive Radio",
+    "Radio Environment Recognition",
+    "Software Defined Radio",
+    "Genetic Algorithm",
+    "Machine Learning",
+    "Public Safety Interoperability",
+    "Case-Based Reasoning",
+    "Cognitive Engine"
+  ],
+  "title": "Building a Cognitive Radio: From Architecture Definition to Prototype Implementation",
+  "type": "Dissertation"
+}

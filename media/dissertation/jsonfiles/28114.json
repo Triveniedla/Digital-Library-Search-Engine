@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Pu, Jianfeng",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeemember": [
+    "Broadwater, Robert P.",
+    "Donaghey, Robert J.",
+    "Sun, Shu-Ming",
+    "Vanlandingham, Hugh F."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:13:29Z",
+  "date_adate": "2000-07-07",
+  "date_available": "2014-03-14T20:13:29Z",
+  "date_issued": "2000-04-24",
+  "date_rdate": "2001-07-07",
+  "date_sdate": "2000-06-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Asynchronous Transfer Mode (ATM) protocol was designed to support real-time traffic steams over high quality links like fiber optics where the transmission error is extremely low. ATM performs poorly in an error-prone environment such as wireless communications. The purpose of this research is to investigate error control schemes in wireless ATM (W-ATM) to support real-time service, such that the physical layer error conditions are handled in lower layers under ATM transport layer. Automatic Repeat reQuest schemes (ARQ) and Forward Error Correction (FEC) have been widely used for reliable data transmissions. However, the current existing ARQ schemes can potentially introduce unbounded delay in high error rate environments like W-ATM network due to the lack of delay control mechanism. As a result, they are not appropriate for real-time data communications in which there are strict packet delay requirements. In this dissertation, we explored the issues related to W-ATM area. Adaptation of FEC, specifically Reed-Solomon code, to channel error conditions in W-ATM is investigated. The quality-of-service (QoS)-aware error control algorithm is originated and its performance is evaluated. The algorithm is further simplified to make it more suitable for practical applications.   The requirements of ARQ applicability for real-time communication environment like W-ATM is extensively analyzed. An ARQ scheme, called D-bit protocol, is developed to satisfy the real-time requirements. The scheme supports reliable packet discarding while allowing retransmissions without compromising user-level QoS for real-time stream applications. Simulations show the effectiveness and liveness of the protocol.",
+  "description_provenance": [
+    "Author Email: jpu@astralpoint.com",
+    "Advisor Email: dew@vt.edu",
+    "Advisor Email: sun@math.vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:13:29Z (GMT). No. of bitstreams: 1 PU_Final2.pdf: 965660 bytes, checksum: 9fdb55afbb863e993904d3e02538f0e3 (MD5)   Previous issue date: 2000-04-24"
+  ],
+  "handle": "28114",
+  "identifier_other": "etd-06252000-11030054",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06252000-11030054/",
+  "identifier_uri": "http://hdl.handle.net/10919/28114",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "PU_Final2.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "ARQ",
+    "Wireless",
+    "Error Control",
+    "Nework",
+    "ATM"
+  ],
+  "title": "Error Control in Wireless ATM Network",
+  "type": "Dissertation"
+}

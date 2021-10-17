@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Lucic, Panta",
+  "contributor_committeechair": "Teodorovic, Dusan",
+  "contributor_committeemember": [
+    "Trani, Antoino A.",
+    "VanLandingham, Hugh F.",
+    "Schonfeld, Paul",
+    "Triantis, Konstantinos P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:08:05Z",
+  "date_adate": "2002-03-26",
+  "date_available": "2014-03-14T20:08:05Z",
+  "date_issued": "2002-02-06",
+  "date_rdate": "2003-03-26",
+  "date_sdate": "2002-03-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Many real-world problems could be formulated in a way to fit the necessary form for discrete optimization. Discrete optimization problems can be solved by numerous different techniques that have developed over time. Some of the techniques provide optimal solution(s) to the problem and some of them give â  good enoughâ   solution(s). The fundamental reason for developing techniques capable of producing solutions that are not necessarily optimal is the fact that many discrete optimization problems are NP-complete. Metaheuristic algorithms are a common name for a set of general-purpose techniques developed to provide solution(s) to the problems associated with discrete optimization. Mostly the techniques are based on natural metaphors. Discrete optimization could be applied to countless problems in transportation engineering.  Recently, researchers started studying the behavior of social insects (ants) in an attempt to use the swarm intelligence concept to develop artificial systems with the ability to search a problemâ  s solution space in a way that is similar to the foraging search by a colony of social insects. The development of artificial systems does not entail the complete imitation of natural systems, but explores them in search of ideas for modeling. This research is partially devoted to the development of a new system based on the foraging behavior of bee colonies â   Bee System. The Bee System was tested through many instances of the Traveling Salesman Problem.  Many transportation-engineering problems, besides being of combinatorial nature, are characterized by uncertainty. In order to address these problems, the second part of the research is devoted to development of the algorithms that combine the existing results in the area of swarm intelligence (The Ant System) and approximate reasoning. The proposed approach â   Fuzzy Ant System is tested on the following two examples: Stochastic Vehicle Routing Problem and Schedule Synchronization in Public Transit.",
+  "description_provenance": [
+    "Author Email: plucic@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: pschon@eng.umd.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:05Z (GMT). No. of bitstreams: 1 Panta_Lucic_ED.pdf: 2923359 bytes, checksum: 87a3ac1ab921bebadfc531ea4a25f3aa (MD5)   Previous issue date: 2002-02-06"
+  ],
+  "handle": "26396",
+  "identifier_other": "etd-03092002-231724",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03092002-231724/",
+  "identifier_uri": "http://hdl.handle.net/10919/26396",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Panta_Lucic_ED.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Fuzzy Sets Theory",
+    "Transportation Engineering",
+    "Swarm Intelligence"
+  ],
+  "title": "Modeling Transportation Problems Using Concepts of Swarm Intelligence and Soft Computing",
+  "type": "Dissertation"
+}

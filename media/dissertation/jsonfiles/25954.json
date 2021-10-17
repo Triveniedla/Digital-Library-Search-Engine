@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Sarigul, Erol",
+  "contributor_committeechair": "Abbott, A. Lynn",
+  "contributor_committeemember": [
+    "Wang, Anbo",
+    "Bell, Amy E.",
+    "Schmoldt, Daniel L.",
+    "Conners, Richard W.",
+    "Kline, D. Earl"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:35Z",
+  "date_adate": "2005-01-07",
+  "date_available": "2014-03-14T20:06:35Z",
+  "date_issued": "2004-09-17",
+  "date_rdate": "2005-01-07",
+  "date_sdate": "2005-01-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation concerns the development of an interactive machine learning method for refinement and analysis of segmented computed tomography (CT) images. This method uses higher-level domain-dependent knowledge to improve initial image segmentation results.   A knowledge-based refinement and analysis system requires the formulation of domain knowledge. A serious problem faced by knowledge-based system designers is the knowledge acquisition bottleneck. Knowledge acquisition is very challenging and an active research topic in the field of machine learning and artificial intelligence. Commonly, a knowledge engineer needs to have a domain expert to formulate acquired knowledge for use in an expert system. That process is rather tedious and error-prone. The domain expert's verbal description can be inaccurate or incomplete, and the knowledge engineer may not correctly interpret the expert's intent. In many cases, the domain experts prefer to do actions instead of explaining their expertise.   These problems motivate us to find another solution to make the knowledge acquisition process less challenging. Instead of trying to acquire expertise from a domain expert verbally, we can ask him/her to show expertise through actions that can be observed by the system. If the system can learn from those actions, this approach is called learning by demonstration.  We have developed a system that can learn region refinement rules automatically. The system observes the steps taken as a human user interactively edits a processed image, and then infers rules from those actions. During the system's learn mode, the user views labeled images and makes refinements through the use of a keyboard and mouse. As the user manipulates the images, the system stores information related to those manual operations, and develops internal rules that can be used later for automatic postprocessing of other images. After one or more training sessions, the user places the system into its run mode. The system then accepts new images, and uses its rule set to apply postprocessing operations automatically in a manner that is modeled after those learned from the human user. At any time, the user can return to learn mode to introduce new training information, and this will be used by the system to updates its internal rule set.   The system does not simply memorize a particular sequence of postprocessing steps during a training session, but instead generalizes from the image data and from the actions of the human user so that new CT images can be refined appropriately.   Experimental results have shown that IntelliPost improves the segmentation accuracy of the overall system by applying postprocessing rules. In tests two different CT datasets of hardwood logs, the use of IntelliPost resulted in improvements of 1.92% and 9.45%, respectively. For two different medical datasets, the use of IntelliPost resulted in improvements of 4.22% and 0.33%, respectively.",
+  "description_provenance": [
+    "Author Email: esarigul@vt.edu",
+    "Advisor Email: awang@vt.edu",
+    "Advisor Email: abell@vt.edu",
+    "Advisor Email: dlschmol@wisc.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: kline@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:35Z (GMT). No. of bitstreams: 1 ETD_esarigul.pdf: 3174557 bytes, checksum: f64949de7b849508d66011a9d7816943 (MD5)   Previous issue date: 2004-09-17"
+  ],
+  "handle": "25954",
+  "identifier_other": "etd-01062005-145509",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-01062005-145509/",
+  "identifier_uri": "http://hdl.handle.net/10919/25954",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_esarigul.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "user interface",
+    "image segmentation",
+    "decision trees",
+    "machine learning",
+    "postprocessing"
+  ],
+  "title": "Interactive Machine Learning for Refinement and Analysis of Segmented CT/MRI Images",
+  "type": "Dissertation"
+}

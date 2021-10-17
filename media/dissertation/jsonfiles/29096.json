@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Hong, Sun",
+  "contributor_committeechair": "Davis, William A.",
+  "contributor_committeemember": [
+    "Stutzman, Warren L.",
+    "Safaai-Jazi, Ahmad",
+    "Pratt, Timothy J.",
+    "Adjerid, Slimane"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:46Z",
+  "date_adate": "2012-10-30",
+  "date_available": "2014-03-14T20:16:46Z",
+  "date_issued": "2012-09-12",
+  "date_rdate": "2012-10-30",
+  "date_sdate": "2012-09-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>It is well known that a finite-size scatterer has a set of natural resonances, which are uniquely determined by the physical properties of the scatterer. This is also the case for a breast tumor which can be regarded as a dielectric scatterer. Since the scatterer is naturally â  tunedâ   at the resonances, it is expected that an increased electromagnetic coupling would take place at the resonance frequencies compared to other frequencies. For a breast tumor, this would mean a higher power absorption, indicating a faster temperature increase resulting in more efficient hyperthermia. </p>  <p>In this dissertation, an adaptive microwave concept is demonstrated for breast cancer applications. The general approach is to detect and identify the tumor-specific resonance, determine the electrical location of the tumor, and apply the focused microwave hyperthermia using the identified resonance and the electrical location. The natural resonances vary depending on the tumor size, shape, and breast tissue configuration. Therefore, an adaptive tuning of the microwave source to tumor-specific resonance frequencies could improve the overall efficiency of hyperthermia treatment by allowing for a faster and more effective heating to achieve a desired therapeutic temperature level.</p>   <p>Applying the singularity expansion method (SEM), both the resonances and the electrical location can be obtained from the poles and residues, respectively. This SEM-based approach is computationally inexpensive and can easily be implemented as a combination processing into emerging UWB microwave systems. Alternatively, a relatively simple microwave system based on this concept can potentially be used in conjunction with existing mammography.</p>",
+  "description_provenance": [
+    "Author Email: shong215@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: tipratt@vt.edu",
+    "Advisor Email: adjerids@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:46Z (GMT). No. of bitstreams: 1 Hong_SK_D_2012.pdf: 5621257 bytes, checksum: 2c6ccfa297c9f56157869dca91ded2b3 (MD5)   Previous issue date: 2012-09-12"
+  ],
+  "handle": "29096",
+  "identifier_other": "etd-09252012-132326",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09252012-132326/",
+  "identifier_uri": "http://hdl.handle.net/10919/29096",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Hong_SK_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "natural resonance",
+    "breast cancer",
+    "microwave hyperthermia",
+    "residue",
+    "singularity expansion method",
+    "pole",
+    "ground penetrating radar"
+  ],
+  "title": "Resonance-Based Techniques for Microwave Breast Cancer Applications",
+  "type": "Dissertation"
+}

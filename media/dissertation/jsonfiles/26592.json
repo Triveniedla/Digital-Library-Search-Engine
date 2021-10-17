@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Adams, William Joseph",
+  "contributor_committeecochair": [
+    "Midkiff, Scott F.",
+    "Davis, Nathaniel J. IV"
+  ],
+  "contributor_committeemember": [
+    "Green, Edward L.",
+    "Baumann, William T.",
+    "Park, Jung-Min Jerry"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:45Z",
+  "date_adate": "2006-04-10",
+  "date_available": "2014-03-14T20:08:45Z",
+  "date_issued": "2006-03-31",
+  "date_rdate": "2006-04-10",
+  "date_sdate": "2006-04-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The goal of this research was to create a decentralized trust-based access control (TBAC) system for a dynamic   collaborative environment (DCE).  By building a privilege management infrastructure (PMI) based on trust, user   access was determined using behavior grading without the need for pre-configured, centrally managed role   hierarchies or permission sets.  The PMI provided TBAC suitable for deployment in a rapidly assembled, highly   fluid, collaborative environment.<P> DCEs were assembled and changed membership as required to achieve the goals of the group.  A feature of these   environments was that there was no way of knowing who would join the group, no way of refusing anyone entry   into group, and no way of determining how long members would remain in the group.  DCEs were formed quickly to   enable participants to share information while, at the same time, allowing them to retain control over the   resources that they brought with them to the coalition.<P>   This research progressed the state of the art in the fields of access control and trust management.  The Trust   Management System developed through this research effectively implemented a decentralized access control   scheme.  Each resource owner independently evaluated the reputation and risk of network members to make access   decisions.  Because the PMI system used past behavior as an indication of future performance, no a priori user   or resource configuration was required.<P>",
+  "description_provenance": [
+    "Author Email: wjadams@vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Advisor Email: jungmin@vt.edu",
+    "Advisor Email: Nathaniel.Davis@afit.edu",
+    "Made available in DSpace on 2014-03-14T20:08:45Z (GMT). No. of bitstreams: 1 ADAMS_Decentralized_Trust-based_Access_Control.pdf: 1458309 bytes, checksum: ad31ac1092a1f8253c47554a55a75605 (MD5)   Previous issue date: 2006-03-31"
+  ],
+  "handle": "26592",
+  "identifier_other": "etd-04022006-153418",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04022006-153418/",
+  "identifier_uri": "http://hdl.handle.net/10919/26592",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ADAMS_Decentralized_Trust-based_Access_Control.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Wireless Security",
+    "Trust Management",
+    "Dynamic Collaboration",
+    "Access Control"
+  ],
+  "title": "Decentralized Trust-Based Access Control for Dynamic Collaborative Environments",
+  "type": "Dissertation"
+}

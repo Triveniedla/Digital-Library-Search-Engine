@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Tania, Mutmainna",
+  "contributor_committeechair": [
+    "De La Reelopez, Jaime",
+    "Phadke, Arun G"
+  ],
+  "contributor_committeemember": [
+    "Centeno, Virgilio A",
+    "Kohler, Werner E",
+    "Conners, Richard W"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-02-19T22:40:03Z",
+  "date_available": "2013-02-19T22:40:03Z",
+  "date_issued": "2013-01-21",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The increasing demand for electricity over the last few decades has not been followed by adequate growth in electric infrastructure. As a result, the reliability and safety of the electric grids are facing tremendously growing pressure. Large blackouts in the recent past indicate that sustaining system reliability and integrity turns out to be more and more difficult due to reduced transmission capacity margins and increased stress on the system. Due to the heavy loading conditions that occur when the system is under stress, the protection systems are susceptible to mis-operation. It is under such severe situations that the network cannot afford to lose its critical elements like the main generation units and transmission corridors.<br /><br />In addition to the slow but steady variations in the network structure over a long term, the grid also experiences drastic changes during the occurrence of a disturbance. One of the main reasons why protection relays mis-operate is due to the inability of the relays to adjust to the evolving network scenario. Such failures greatly compound the severity of the disturbance, while diminishing network integrity leading to catastrophic system-wide outages. With the advancement of Wide Area Measurement Systems (WAMS), it is now possible to redesign network protection schemes to make them more adaptive and thus improve the security of the system.<br /><br />Often flagged for exacerbating the events leading to a blackout, the back-up distance protection relay scheme for transmission line protection and the loss-of-field relay scheme for generator unit protection can be greatly improved from an adaptability-oriented redesign. Protection schemes in general would benefit from a power re-distribution technique that helps predict generator outputs immediately after the occurrence of a contingency. <br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:40:03Z (GMT). No. of bitstreams: 1 Tania_M_D_2013.pdf: 6443252 bytes, checksum: dce11a79be23827d8b7c7c8643e3172a (MD5)   Previous issue date: 2013-01-21",
+  "format_medium": "ETD",
+  "handle": "19241",
+  "identifier_other": "vt_gsexam:113",
+  "identifier_uri": "http://hdl.handle.net/10919/19241",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Back-up Distance Protection",
+    "Supervisory Control",
+    "Adaptive Loss-of-Field Protection",
+    "Wide Area Measurement System",
+    "Generation Re"
+  ],
+  "title": "Wide Area Measurement Applications for Improvement of Power System Protection",
+  "type": "Dissertation"
+}

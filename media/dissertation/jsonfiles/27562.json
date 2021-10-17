@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Shaban, Heba Ahmed",
+  "contributor_committeecochair": [
+    "Buehrer, Richard Michael",
+    "El-Nasr, Mohamad Abou"
+  ],
+  "contributor_committeemember": [
+    "Riad, Sedki Mohamed",
+    "Shukla, Sandeep K.",
+    "Reynolds, Marion R. Jr."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:37Z",
+  "date_adate": "2010-06-09",
+  "date_available": "2014-03-14T20:11:37Z",
+  "date_issued": "2010-04-29",
+  "date_rdate": "2010-06-09",
+  "date_sdate": "2010-05-06",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Gait analysis is the systematic study of human walking. Clinical gait analysis is the process by which quantitative information is collected for the assessment and decision-making of any gait disorder. Although observational gait analysis is the therapistâ  s primary clinical tool for describing the quality of a patientâ  s walking pattern, it can be very unreliable. Modern gait analysis is facilitated through the use of specialized equipment. Currently, accurate gait analysis requires dedicated laboratories with complex settings and highly skilled operators. Wearable locomotion tracking systems are available, but they are not sufficiently accurate for clinical gait analysis. At the same time, wireless healthcare is evolving. Particularly, ultra wideband (UWB) is a promising technology that has the potential for accurate ranging and positioning in dense multi-path environments. Moreover, impulse-radio UWB (IR-UWB) is suitable for low-power and low-cost implementation, which makes it an attractive candidate for wearable, low-cost, and battery-powered health monitoring systems. The goal of this research is to propose and investigate a full-body wireless wearable human locomotion tracking system using UWB radios. Ultimately, the proposed system should be capable of distinguishing between normal and abnormal gait, making it suitable for accurate clinical gait analysis.",
+  "description_provenance": [
+    "Author Email: hshaban@vt.edu",
+    "Advisor Email: rbuehrer@vt.edu",
+    "Advisor Email: mnasr@vt.edu",
+    "Advisor Email: sedki@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:37Z (GMT). No. of bitstreams: 1 Shaban_HA_D_2010.pdf: 4299012 bytes, checksum: a47057c7993fc429ee18e6ac57ee66f0 (MD5)   Previous issue date: 2010-04-29"
+  ],
+  "handle": "27562",
+  "identifier_other": "etd-05062010-100653",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05062010-100653/",
+  "identifier_uri": "http://hdl.handle.net/10919/27562",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Shaban_HA_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "and Wireless healthcare",
+    "Ultra wideband (UWB) transceivers",
+    "Sensor-fusion",
+    "Power consumption",
+    "Performance analysis",
+    "Gait analysis",
+    "Body area networks (BAN)"
+  ],
+  "title": "A Novel Highly Accurate Wireless Wearable Human Locomotion Tracking and Gait Analysis System via UWB Radios",
+  "type": "Dissertation"
+}

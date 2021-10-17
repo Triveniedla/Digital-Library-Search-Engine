@@ -1,0 +1,34 @@
+{
+  "contributor_author": "Foliente, Greg C.",
+  "contributor_committeecochair": [
+    "Dolan, James Daniel",
+    "Singh, Mahendra P."
+  ],
+  "contributor_committeemember": [
+    "Holzer, Siegfried M.",
+    "Kline, D. Earl"
+  ],
+  "contributor_department": "Wood Science and Forest Products",
+  "date_accessioned": "2014-03-14T20:11:33Z",
+  "date_adate": "2006-05-04",
+  "date_available": "2014-03-14T20:11:33Z",
+  "date_issued": "1993-12-15",
+  "date_rdate": "2006-05-04",
+  "date_sdate": "2006-05-04",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>Difficulties in characterizing the dynamic behavior of wood structures have hindered investigations into their performance under dynamic loading. Because of this, wood structures are treated unfavorably in seismic design codes, even though past damage assessment surveys after seismic events indicated generally satisfactory performance. To allow investigations into their performance and safety under dynamic loading, the energy dissipation mechanisms of wood joints and structural systems must be known and the hysteretic behavior modeled properly. This  dissertation presents a general hysteresis model for wood joints and structural systems, based on a modification of the Bouc-Wen-Baber-Noori (BWBN) model. The hysteretic constitutive law, based on the endochronic theory of plastidty and characterized by a single mathematical form, produces a versatile, smoothly varying hysteresis that models previously observed behavior of wood joints and structural systems, namely, (1) nonlinear, inelastic behavior, (2) stiffness degradation, (3) strength degradation, (4) pinching, and (5) memory. The constitutive law takes into account the experimentally observed dependence of wood joints' response to their past history (i.e., the input and response at earlier times, or memory). Practical guidelines to estimate the hysteresis parameters of any wood joint or structural system are given. Hysteresis shapes produced by the proposed model are shown to compare favorably with experimental hysteresis of wood joints with; (1) yielding plates, (2) yielding nails, and (3) yielding bolts. To verify its behavior under arbitrary dynamic loadings, the proposed model is implemented in a nonlinear dynamic analysis program for single-degree-of-freedom (SDF) systems. Three SDF wood systems are subjected to the Lama Prieta accelerogram to obtain their response time histories. Advantages of using the proposed model over currently available models in nonlinear dynamic analysis of more complex systems are identified. A multi-degree-of-freedom shear building model incorporating the proposed hysteresis model is formulated but not implemented on a computer.</p> <p> For more realistic loadings, the random characteristics of earthquakes are modeled as a stochastic or random process. Nonlinear response statistics of SDF wood systems are obtained by Monte Carlo simulation and statistical linearization The statistical linearization solutions are shown to give reasonably good estimates of mean-square response, for a range of practical system and model parameter values. An example verification procedure that can be used in applying the method to practical engineering problems is presented. The response analysis technique is general and can be applied not only in random vibration analysis of wood structural systems but also in the analysis of a wide variety of hysteretic systems with general pinching behavior, including reinforced concrete structures, braced steel frames and laterally loaded piles. Potential practical applications of the analysis method and of the response statistics obtained from the analysis are presented. The present work is the first known attempt to use random vibration techniques in studying the response of wood structures under natural hazard loadings.</p>",
+  "description_provenance": "Made available in DSpace on 2014-03-14T20:11:33Z (GMT). No. of bitstreams: 1 LD5655.V856_1993.F655.pdf: 7089424 bytes, checksum: 1849305f8964db2f3fe9a1dabd69833c (MD5)   Previous issue date: 1993-12-15",
+  "format_medium": "BTD",
+  "handle": "27532",
+  "identifier_other": "etd-05042006-164535",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05042006-164535/",
+  "identifier_uri": "http://hdl.handle.net/10919/27532",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "LD5655.V856_1993.F655.pdf",
+  "subject": "Wooden-frame buildings Mathematical models.",
+  "subject_lcc": "LD5655.V856 1993.F655",
+  "title": "Stochastic dynamic response of wood structural systems",
+  "type": "Dissertation"
+}

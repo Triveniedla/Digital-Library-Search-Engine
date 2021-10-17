@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Gyawali, Nabin",
+  "contributor_committeechair": "Burkhart, Harold E",
+  "contributor_committeemember": [
+    "Reynolds, Marion R",
+    "Radtke, Philip J",
+    "Sullivan, Bradley J"
+  ],
+  "contributor_department": "Forest Resources and Environmental Conservation",
+  "date_accessioned": "2013-11-12T09:00:08Z",
+  "date_available": "2013-11-12T09:00:08Z",
+  "date_issued": "2013-11-11",
+  "degree_discipline": "Forestry",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Basal area and dominant height growth and survival models incorporating general response to silvicultural treatments for loblolly pine stands were developed using data from various silvicultural experiments across Southern United States. Growth models for treated stands were developed by multiplying base-line growth models with modifier response functions/multipliers accounting for effects of thinning, fertilization, and control of competing vegetation. Chapman-Richards functions were used to model the base-line growth. Separate response functions to mid-rotation thinning and fertilization effects were developed. The thinning response function was based on duration and rate parameters and is sensitive to stand age at the time of thinning, time since thinning, and intensity of thinning. The fertilization response functions were based on Weibull distribution and the magnitude of responses varies with time since application of fertilizers, type of fertilizer elements applied, and rate of application. Response functions were integrated as a multiplier to base-line models. Response to early control of competing vegetation was incorporated into base-line models through multiplier factors. Multiplier factors were calculated based on growth difference between treated and untreated stands. A difference function, derived from differential equation with age, initial stand density, and site index served as the base-line survival model. The survival model was adjusted for thinning treatment by including an additional independent variable that represents thinning intensity. No adjustment was required for survival model in response to fertilization and competing vegetation control. All growth models were unbiased and had adequate performance in predicting basal area and dominant height following treatments. Models were developed to represent general growth trends in response to treatments. The response functions developed here can be viewed as general response functions.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-11-12T09:00:08Z (GMT). No. of bitstreams: 1 Gyawali_N_D_2013.pdf: 1345019 bytes, checksum: be606ae3cf383ad7259f32e46280bd49 (MD5)   Previous issue date: 2013-11-11",
+  "format_medium": "ETD",
+  "handle": "24010",
+  "identifier_other": "vt_gsexam:1744",
+  "identifier_uri": "http://hdl.handle.net/10919/24010",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Forest Growth Model",
+    "Silvicultural Treatments",
+    "Response Functions"
+  ],
+  "title": "Modeling General Response to Silvicultural Treatments in Loblolly Pine Stands",
+  "type": "Dissertation"
+}

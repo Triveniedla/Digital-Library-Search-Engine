@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Zhong, Zhian",
+  "contributor_committeechair": "Liu, Yilu",
+  "contributor_committeecochair": "Centeno, Virgilio A.",
+  "contributor_committeemember": [
+    "Conners, Richard W.",
+    "Liang, Yao",
+    "Lin, Tao"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:22Z",
+  "date_adate": "2005-08-25",
+  "date_available": "2014-03-14T20:15:22Z",
+  "date_issued": "2005-07-29",
+  "date_rdate": "2006-08-25",
+  "date_sdate": "2005-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recent large-scale blackouts revealed that power systems around the world are far from the stability and reliability requirement as they suppose to be. The post-event analysis clarifies that one major reason of the interconnection blackout is lack of wide area information. Frequency dynamics is one of the most important parameters of an electrical power system. In order to understand power system dynamics effectively, accurately measured wide-area frequency is needed. The idea of building an Internet based real-time GPS synchronized wide area Frequency Monitoring Network (FNET) was proposed to provide the imperative dynamic information for the large-scale power grids and the implementation of FNET has made the synchronized observations of the entire US power network possible for the first time. The FNET system consists of Frequency Disturbance Recorders (FDR), which work as the sensor devices to measure the real-time frequency at 110V single-phase power outlets, and an Information Management System (IMS) to work as a central server to process the frequency data. The device comparison between FDR and commercial PMU (Phasor Measurement Unit) demonstrate the advantage of FNET. The web visualization tools make the frequency data available for the authorized users to browse through Internet.   The research work addresses some preliminary observations and analyses with the field-measured frequency information from FNET. The original algorithms based on the frequency response characteristic are designed to process event detection, localization and unbalanced power estimation during frequency disturbances. The analysis of historical cases illustrate that these algorithms can be employed in real-time level to provide early alarm of abnormal frequency change to the system operator. The further application is to develop an adaptive under frequency load shedding scheme with the processed information feed in to prevent further frequency decline in power systems after disturbances causing dangerous imbalance between the load and generation.",
+  "description_provenance": [
+    "Author Email: zzhong@vt.edu",
+    "Advisor Email: rconners@vt.edu",
+    "Advisor Email: yaliang@vt.edu",
+    "Advisor Email: virgilio@vt.edu",
+    "Advisor Email: yilu@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:22Z (GMT). No. of bitstreams: 1 Dissertation-0824-submittion.pdf: 3966766 bytes, checksum: 25a30f79e275f99e39f4b7e5842427f4 (MD5)   Previous issue date: 2005-07-29"
+  ],
+  "handle": "28707",
+  "identifier_other": "etd-08182005-105558",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182005-105558/",
+  "identifier_uri": "http://hdl.handle.net/10919/28707",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation-0824-submittion.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Phasor Measurement Unit (PMU)",
+    "Under Frequency Load Shedding",
+    "Wide Area Measurement System",
+    "Frequency Monitoring Network (FNET)",
+    "Frequency Disturbance Recorder (FDR)",
+    "GPS"
+  ],
+  "title": "Power Systems Frequency Dynamic Monitoring System Design and Applications",
+  "type": "Dissertation"
+}

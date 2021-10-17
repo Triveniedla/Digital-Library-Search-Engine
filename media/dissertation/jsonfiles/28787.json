@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Xu, Dong",
+  "contributor_committeechair": "Chen, Fengshan Frank",
+  "contributor_committeemember": [
+    "Deisenroth, Michael P.",
+    "Davis, Nathaniel J. IV",
+    "Ellis, Kimberly P.",
+    "Shewchuk, John P."
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:40Z",
+  "date_adate": "2001-08-27",
+  "date_available": "2014-03-14T20:15:40Z",
+  "date_issued": "2001-07-16",
+  "date_rdate": "2002-08-27",
+  "date_sdate": "2001-08-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This research explores a hardware-based parallel simulation mechanism that can dramatically improve the speed of simulating flexible manufacturing systems (FMS) by applying appropriate enabling hardware technologies.  The hardware-based parallel simulation refers to running a simulation on a multi-microprocessor integrated circuit board, called the simulator, which is specifically designed for the purpose of simulating a specific FMS. The board is composed of a collection of micro-emulators capable of mimicking the operation of equipment in FMS such as machining centers, transporters, and load/unload stations. To design possible architectures for the board, a mapping technology is applied by making use of the physical layout information of an FMS. Under such a mapping method, the simulation model is decomposed into a cluster of micro emulator on the board where each workstation is represented by one micro emulator. Three potential architectures for the proposed simulator, namely, the bus-based architecture, the shared-memory based architecture, and the parallel I/O port based architecture, are studied. To provide a suitable parallel computing platform, a prototype simulator based on the combination of the shared-memory and the parallel I/O port architecture is physically built.  Besides the development of the hardware simulator, a time scaling simulation method is also developed for execution on the proposed simulator. The method uses the on-board digital clock to synchronize the parallel simulation being performed on different microprocessors. The advantage of the time scaling technology is that the sequence of simulation events is sorted naturally in consistent with the real events. In this way, no entangled waiting is needed as in the conservative parallel simulation methods so as to reduce the synchronization overhead and the danger of having deadlock. Experiments on the prototype simulator show that the time scaling simulation method, combined with the unique hardware features of the FMS specific simulator, achieves a large speedup compared to conventional software-based simulation methods.",
+  "description_provenance": [
+    "Author Email: dxu@vt.edu",
+    "Advisor Email: deisenroth@vt.edu",
+    "Advisor Email: ndavis@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: shewchuk@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:40Z (GMT). No. of bitstreams: 1 dissertation-dongxu-full.pdf: 3950815 bytes, checksum: 780bc2cc2decebdd23583e179b68aa3c (MD5)   Previous issue date: 2001-07-16"
+  ],
+  "handle": "28787",
+  "identifier_other": "etd-08252001-002803",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08252001-002803/",
+  "identifier_uri": "http://hdl.handle.net/10919/28787",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation-dongxu-full.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": "parallel simulation of flexible manufacturing syst",
+  "title": "Hardware-based Parallel Simulation of  Flexible Manufacturing Systems",
+  "type": "Dissertation"
+}

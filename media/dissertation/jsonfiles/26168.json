@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Wang, Xiaowei",
+  "contributor_committeechair": "Morgan, John P.",
+  "contributor_committeemember": [
+    "Hinkelmann, klaus H.",
+    "Majumdar, Dibyen",
+    "Du, Pang"
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:07:17Z",
+  "date_adate": "2009-03-20",
+  "date_available": "2014-03-14T20:07:17Z",
+  "date_issued": "2009-01-23",
+  "date_rdate": "2010-09-15",
+  "date_sdate": "2009-02-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Design optimality for treatment comparison experiments has been intensively studied by numerous researchers, employing a variety of statistically sound criteria. Their general formulation is based on the idea that optimality functions of the treatment information matrix are invariant to treatment permutation. This implies equal interest in all treatments. In practice, however, there are many experiments where not all treatments are equally important. When selecting a design for such an experiment, it would be better to weight the information gathered on different treatments according to their relative importance and/or interest. This dissertation develops a general theory of weighted design optimality, with special attention to the block design problem. </p><p> Among others, this study develops and justifies weighted versions of the popular A, E and MV optimality criteria. These are based on the weighted information matrix, also introduced here. Sufficient conditions are derived for block designs to be weighted A, E and MV-optimal for situations where treatments fall into two groups according to two distinct levels of interest, these being important special cases of the â  2-weight optimalityâ   problem. Particularly, optimal designs are developed for experiments where one of the treatments is a control.  </p><p> The concept of efficiency balance is also studied in this dissertation. One view of efficiency balance and its generalizations is that unequal treatment replications are chosen to reflect unequal treatment interest. It is revealed that efficiency balance is closely related to the weighted-E approach to design selection. Functions of the canonical efficiency factors may be interpreted as weighted optimality criteria for comparison of designs with the same replication numbers.</p>",
+  "description_provenance": [
+    "Author Email: xiwang3@vt.edu",
+    "Advisor Email: khstat@vt.edu",
+    "Advisor Email: jpmorgan@vt.edu",
+    "Advisor Email: dibyen@uic.edu",
+    "Advisor Email: pangdu@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:17Z (GMT). No. of bitstreams: 1 dissertation_XiaoweiWANG_Feb2009.pdf: 569365 bytes, checksum: ea3c7bcf403447232db99e3f591dbb86 (MD5)   Previous issue date: 2009-01-23"
+  ],
+  "handle": "26168",
+  "identifier_other": "etd-02102009-105759",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02102009-105759/",
+  "identifier_uri": "http://hdl.handle.net/10919/26168",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_XiaoweiWANG_Feb2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Generalized group divisible design",
+    "Weighted A-optimality",
+    "Incomplete block design",
+    "Weighted E-optimality",
+    "Weighted MV-optimality"
+  ],
+  "title": "Weighted Optimality of Block Designs",
+  "type": "Dissertation"
+}

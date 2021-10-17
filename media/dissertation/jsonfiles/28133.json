@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Mefford, Olin Thompson",
+  "contributor_committeechair": "Riffle, Judy S.",
+  "contributor_committeemember": [
+    "McGrath, James E.",
+    "Love, Brian J.",
+    "St. Pierre, Tim",
+    "Davis, Richey M."
+  ],
+  "contributor_department": "Macromolecular Science and Engineering",
+  "date_accessioned": "2014-03-14T20:13:32Z",
+  "date_adate": "2007-08-09",
+  "date_available": "2014-03-14T20:13:32Z",
+  "date_issued": "2007-06-14",
+  "date_rdate": "2007-08-09",
+  "date_sdate": "2007-06-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Magnetic nanoparticles coated with polymers hold great promise as materials for applications in biotechnology.  In this body of work, magnetic fluids for the treatment of retinal detachment are examined closely in three regimes; motion of ferrofluid droplets in aqueous media, size analysis of the polymer-iron oxide nanoparticles, and calculation of interparticle potentials as a means for predicting fluid stability.  The macromolecular ferrofluids investigated herein are comprised of magnetite nanoparticles coated with tricarboxylate-functional polydimethylsiloxane (PDMS) oligomers.  The nanoparticles were formed by reacting stoichiometric concentrations of iron chloride salts with base.  After the magnetite particles were prepared, the functional PDMS oligomers were adsorbed onto the nanoparticle surfaces.   The motion of ferrofluid droplets in aqueous media was studied using both theoretical modeling and experimental verification.  Droplets (~1-2 mm in diameter) of ferrofluid were moved through a viscous aqueous medium by an external magnet of measured field and field gradient.  Theoretical calculations were made to approximate the forces on the droplet.  Using the force calculations, the times required for the droplet to travel across particular distances were estimated.  These estimated times were within close approximation of experimental values. Characterization of the sizes of the nanoparticles was particularly important, since the size of the magnetite core affects the magnetic properties of the system, as well as the long-term stability of the nanoparticles against flocculation.  Transmission electron microscopy (TEM) was used to measure the sizes and size distributions of the magnetite cores.  Image analyses were conducted on the TEM micrographs to measure the sizes of approximately 6000 particles per sample.  Distributions of the diameters of the magnetite cores were determined from this data.  A method for calculating the total particle size, including the magnetite core and the adsorbed polymer, in organic dispersions was established.  These estimated values were compared to measurements of the entire complex utilizing dynamic light scattering (DLS).  Better agreement was found for narrow particle size distributions as opposed to broader distributions.  The stability against flocculation of the complexes over time in organic media were examined via modified Derjaguin-Landau-Verwey-Overbeek (DLVO) calculations.  DLVO theory allows for predicting the total particle-particle interaction potentials, which include steric and electrostatic repulsions as well as van der Waals and magnetic attractions.  The interparticle potentials can be determined as a function of separation of the particle surfaces.  At a constant molecular weight of the polymer dispersion stabilizer, these calculations indicated that dispersions of smaller PDMS-magnetite particles should be more stable than those containing larger particles.   The rheological characteristics of neat magnetite-PDMS complexes (i.e, no solvent or carrier fluid were present) were measured over time in the absence of an applied magnetic field to probe the expected properties upon storage.  The viscosity of a neat ferrofluid increased over the course of a month, indicating that some aggregation occurred.  However, this effect could be removed by shearing the fluids at a high rate.  This suggests that the particles do not irreversibly flocculate under these conditions.",
+  "description_provenance": [
+    "Author Email: mefford@vt.edu",
+    "Advisor Email: jmcgrath@vt.edu",
+    "Advisor Email: blove@vt.edu",
+    "Advisor Email: stpierre@physics.uwa.edu.au",
+    "Advisor Email: rmdavis@vt.edu",
+    "Advisor Email: judyriffle@aol.com",
+    "Made available in DSpace on 2014-03-14T20:13:32Z (GMT). No. of bitstreams: 1 mefforddisertation809.pdf: 8159070 bytes, checksum: 2c27e1705561ca2bc06f3fbf59495bad (MD5)   Previous issue date: 2007-06-14"
+  ],
+  "handle": "28133",
+  "identifier_other": "etd-06262007-152333",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06262007-152333/",
+  "identifier_uri": "http://hdl.handle.net/10919/28133",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "mefforddisertation809.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "SQuID",
+    "TEM",
+    "polydimethylsiloxane",
+    "magnetophoretic mobility",
+    "DLS",
+    "rheology",
+    "DLVO theory",
+    "magnetite",
+    "nanoparticle"
+  ],
+  "title": "Physical Properties of Macromolecule-metal oxide nanoparticle complexes: Magnetophoretic Mobility, Size, and Interparticle Potentials",
+  "type": "Dissertation"
+}

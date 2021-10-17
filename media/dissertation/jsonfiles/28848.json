@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Caiado, Marco Aurelio",
+  "contributor_committeechair": "Heatwole, Conrad D.",
+  "contributor_committeemember": [
+    "Gallagher, Daniel L.",
+    "Dillaha, Theo A. III",
+    "Mostaghimi, Saied",
+    "Wolfe, Mary Leigh"
+  ],
+  "contributor_department": "Biological Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:51Z",
+  "date_adate": "2005-09-14",
+  "date_available": "2014-03-14T20:15:51Z",
+  "date_issued": "2005-07-11",
+  "date_rdate": "2005-09-14",
+  "date_sdate": "2005-09-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Modeling is a very important tool for developing nonpoint source (NPS) pollution control plans. Current NPS models were developed for temperate conditions and, thus, do not appropriately represent tropical conditions. The objective of this research was to develop or adapt a nonpoint source pollution model to simulate transformations and losses of nitrogen (N) and phosphorus (P) in leachate and runoff from crop fields under humid tropical conditions.    An extensive literature synthesis identified appropriate relationships for representing hydrologic and NPS processes in the tropics, as well as soil and climate conditions that differ from temperate conditions and impact NPS pollution. The GLEAMS model was selected for adaptation.  Changes to the model included calculation of potential evapotranspiration (ET); changes in initial and default values of N and P pools, C:N ratio of soil organic matter, and soil P sorption; changes in simulation of transformations between N and P pools, along with the effect of temperature; and inclusion of a nitrate retardation factor (Ncrit) and pH in the calculation of N transformation and movement.   The adapted model, called TROPGLEAMS, was evaluated through model verification, application, and sensitivity analysis. Model verification comprised a mass balance of nutrients and analysis of the variation of variable values in time. Model validation included application of the GLEAMS and TROPGLEAMS to three sites in Brazil: a set of lysimeters planted with sugarcane in Piracicaba, SP; a set of plots planted with sugarcane in Piracicaba; and a set of plots planted in a wheat-soybean rotation in Lages, SC. Model sensitivity to temperature, Ncrit and pH were evaluated in the sensitivity analysis.    Model evaluation indicated that TROPGLEAMS is more accurate than GLEAMS in simulating fate and transport of nutrients under tropical conditions. Prediction of actual ET, effect of tillage on losses of N and P in runoff, and N and P kinetics was improved with TROPGLEAMS compared to GLEAMS. However, based on data from the Lages study, TROPGLEAMS did not simulate losses of nutrients in runoff well. Improvements in the model, especially related to losses in runoff, and application of TROPGLEAMS to different areas of the humid tropics are recommended.",
+  "description_provenance": [
+    "Author Email: mcaiado@vt.edu",
+    "Advisor Email: dang@vt.edu",
+    "Advisor Email: dillaha@vt.edu",
+    "Advisor Email: heatwole@vt.edu",
+    "Advisor Email: smostagh@vt.edu",
+    "Advisor Email: mlwolfe@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:51Z (GMT). No. of bitstreams: 1 Caiado_dissertation.pdf: 3933075 bytes, checksum: 79f6d4104d9b8607cb71258d0821f1b3 (MD5)   Previous issue date: 2005-07-11"
+  ],
+  "handle": "28848",
+  "identifier_other": "etd-09012005-160910",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09012005-160910/",
+  "identifier_uri": "http://hdl.handle.net/10919/28848",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Caiado_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Water resources",
+    "Nitrogen",
+    "Phosphorus",
+    "Nonpoint source pollution modeling",
+    "Tropics"
+  ],
+  "title": "Modeling Fate and Transport of Nitrogen and Phosphorus in Crop Fields Under Tropical Conditions",
+  "type": "Dissertation"
+}

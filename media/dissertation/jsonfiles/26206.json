@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Katsis, Dimosthenis C",
+  "contributor_committeechair": "van Wyk, Jacobus Daniel",
+  "contributor_committeemember": [
+    "Lu, Guo-Quan",
+    "Huang, Alex Q.",
+    "Boroyevich, Dushan",
+    "Lai, Jason"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:31Z",
+  "date_adate": "2003-03-11",
+  "date_available": "2014-03-14T20:07:31Z",
+  "date_issued": "2003-01-16",
+  "date_rdate": "2004-03-11",
+  "date_sdate": "2003-02-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The thermal performance of the power MOSFET module is subject to change over its lifetime. This is caused by the growth of voids and other defects in the die-attach layer. The goal of this dissertation is to develop measurement techniques and finite element simulations that can measure the changes in thermal performance caused by changes in die-attach voided area. These experimental results and simulations can then be used to create predictions of the thermal performance of a particular power semiconductor module at various stages of die-attach fatigue. In the results and simulations presented, a relationship is developed between thermal impedance and void area coverage. This dissertation starts by presenting an analysis of the thermal and mechanical stresses needed for crack and void growth in the power semiconductor die-attach region. Accelerated life testing is then performed for both commercial and prototype power semiconductor devices to generate the stresses needed to precipitate void growth. Representative groups of lead and lead-free solders are then tested to compare levels of die-attach degradation under accelerated life conditions.  Hardware is developed to experimentally measure thermal impedance using temperaturesensitive characteristics of the power MOSFET. The power semiconductor devices that were subjected to accelerated life testing are then measured with this hardware. The results show that die-attach voided area coverage increases thermal impedance.  Representative lumped parameter thermal models that use R-C circuits are derived to demonstrate the ability of the thermal impedance analyzer to determine the differences in the die-attach layer. Finite element modeling (FEM) is then used on representative voided devices to support these results, with additional emphasis on peak temperatures caused by hotspots located over the voided areas. Experimental techniques are further applied to measurement of cooling trends that occur due to the existence of voids in the die-attach layer. These measurements are correlated with finite element thermal simulations to develop a relationship between thermal impedance, hotspot temperature, die-attach void size, and total voided area coverage.",
+  "description_provenance": [
+    "Author Email: dkatsis@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: ahuang@vt.edu",
+    "Advisor Email: daan@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:31Z (GMT). No. of bitstreams: 1 dkatsis_dissertation.pdf: 7898727 bytes, checksum: 930d0aa5016ee85797b7697a6e1f5377 (MD5)   Previous issue date: 2003-01-16"
+  ],
+  "handle": "26206",
+  "identifier_other": "etd-02152003-115529",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02152003-115529/",
+  "identifier_uri": "http://hdl.handle.net/10919/26206",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dkatsis_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Die-attach Fatigue",
+    "Finite Element Thermal Modeling",
+    "Thermal Impedance"
+  ],
+  "title": "Thermal Characterization of Die-Attach Degradation in the Power MOSFET",
+  "type": "Dissertation"
+}

@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Kim, Taegeun",
+  "contributor_committeechair": "Poon, Ting-Chung",
+  "contributor_committeemember": [
+    "Ferrari, Leonard A.",
+    "Abbott, A. Lynn",
+    "Besieris, Ioannis M.",
+    "Indebetouw, Guy J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:12Z",
+  "date_adate": "2000-09-04",
+  "date_available": "2014-03-14T20:14:12Z",
+  "date_issued": "2000-07-19",
+  "date_rdate": "2001-09-04",
+  "date_sdate": "2000-07-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We present a three-dimensional (3-D) optical image matching technique and location extraction techniques of matched 3-D objects for optical pattern recognition. We first describe the 3-D matching technique based on two-pupil optical heterodyne scanning. A hologram of the 3-D reference object is first created and then represented as one pupil function with the other pupil function being a delta function. The superposition of each beam modulated by the two pupils generates a scanning beam pattern. This beam pattern scans the 3-D target object to be recognized. The output of the scanning system gives out the 2-D correlation of the hologram of the reference object and that of the target object. When the 3-D image of the target object is matched with that of the reference object, the output of the system generates a strong correlation peak. This theory of 3-D holographic matching is analyzed in terms of two-pupil optical scanning. Computer simulation and optical experiment results are presented to reinforce the developed theory.  The second part of the research concerns the extraction of the location of a 3-D image matched object. The proposed system basically performs a correlation of the hologram of a 3-D reference object and that of a 3-D target object, and hence 3-D matching is possible.  However, the system does not give out the depth location of matched 3-D target objects directly because the correlation of holograms is a 2-D correlation and hence not 3-D shift invariant. We propose two methods to extract the location of matched 3-D objects directly from the correlation output of the system. One method is to use the optical system that focuses the output correlation pattern along depth and arrives at the 3-D location at the focused location. However, this technique has a drawback in that only the location of 3-D targets that are farther away from the 3-D reference object can be extracted. Thus, in this research, we propose another method in which the extraction of a location for a matched 3-D object is possible without the aforementioned drawback. This method applies the Wigner distribution to the power fringe-adjusted filtered correlation output to extract the 3-D location of a matched object.  We analyze the proposed method and present computer simulation and optical experiment results.",
+  "description_provenance": [
+    "Author Email: takim@ee.vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Advisor Email: ferrari@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: besieris@vt.edu",
+    "Advisor Email: gindebet@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:12Z (GMT). No. of bitstreams: 1 Dis_edt.pdf: 11160297 bytes, checksum: 357917fda661812dad6ac18239afc61c (MD5)   Previous issue date: 2000-07-19"
+  ],
+  "handle": "28362",
+  "identifier_other": "etd-07232000-09480053",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-07232000-09480053/",
+  "identifier_uri": "http://hdl.handle.net/10919/28362",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dis_edt.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Optical Scanning Holography",
+    "Holographic correlation",
+    "Phase-only holographic information",
+    "3-D image recognition"
+  ],
+  "title": "Optical Three-Dimensional Image Matching Using Holographic Information",
+  "type": "Dissertation"
+}

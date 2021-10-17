@@ -1,0 +1,40 @@
+{
+  "contributor_author": "Bird, John Paul",
+  "contributor_committeechair": "Wicks, Alfred L.",
+  "contributor_committeemember": [
+    "Reinholtz, Charles F.",
+    "Kurdila, Andrew J.",
+    "Stilwell, Daniel J.",
+    "Woolsey, Craig A."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:10Z",
+  "date_adate": "2011-10-18",
+  "date_available": "2014-03-14T20:17:10Z",
+  "date_issued": "2011-09-26",
+  "date_rdate": "2011-10-18",
+  "date_sdate": "2011-10-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Multi-robot systems (MRS) offer many performance benefits over single robots for tasks that can be completed by one robot.  They offer potential redundancies to the system to improve robustness and allow tasks to be completed in parallel.  These benefits, however, can be quickly offset by losses in productivity from diminishing returns caused by interference between robots and communication problems.  This dissertation developed and evaluated MRS control architectures to solve the dynamic multi-robot autonomous routing problem.  Dynamic multi-robot autonomous routing requires robots to complete a trip from their initial location at the time of task allocation to an assigned destination.  The primary concern for the control architectures was how well the communication requirements and overall system performance scaled as the number of robots in the MRS got larger.  The primary metrics for evaluation of the controller were the effective robot usage rate and the bandwidth usage.    This dissertation evaluated several different approaches to solving dynamic multi-robot autonomous routing.  The first three methods were based off of common MRS coordination approaches from previous research.  These three control architectures with distributed control without communication (a swarm-like method), distributed control with communication, and centralized control.  An additional architecture was developed to solve the problem in a way that scales better as the number of robots increase.  This architecture, mixed mode autonomy, combines the strengths of distributed control with communication and centralized control.  Like distributed control with communication, mixed mode autonomyâ  s performance degrades gracefully with communication failures and is not dependent on a single controller.  Like centralized control, there is oversight from a central controller to ensure repeatable high performance of the system.  Each of the controllers other than distributed control without communication is based on building world models to facilitate coordination of the routes.  A second variant of mixed mode autonomy was developed to allow robots to share parts of their world models with their peers when their models were incomplete or outdated.  The system performance was evaluated for three example applications that represent different cases of dynamic multi-robot autonomous routing.  These example applications were the automation of open pit mines, container terminals, and warehouses.  The effective robot usage rates for mixed mode autonomy were generally significantly higher than the other controllers with a higher numbers of robots.  The bandwidth usage was also much lower.  These performance trends were also observed across a wide range of operating conditions for dynamic multi-robot autonomous routing.  The original contributions from this work were the development of a new MRS control architecture, development of system model for the dynamic multi-robot autonomous routing problem, and identification of the tradeoffs for MRS design for the dynamic multi-robot autonomous routing problem.",
+  "description_provenance": [
+    "Author Email: jobird@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:10Z (GMT). No. of bitstreams: 1 Bird_JP_D_2011.pdf: 17110610 bytes, checksum: 5027934fee03a3d5199e773ef70bf113 (MD5)   Previous issue date: 2011-09-26"
+  ],
+  "handle": "29218",
+  "identifier_other": "etd-10072011-133540",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10072011-133540/",
+  "identifier_uri": "http://hdl.handle.net/10919/29218",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Bird_JP_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multi-robot systems",
+    "Coordinated Control",
+    "Autonomous Transportation"
+  ],
+  "title": "Mixed Modes of Autonomy for Scalable Communication and Control of Multi-Robot Systems",
+  "type": "Dissertation"
+}

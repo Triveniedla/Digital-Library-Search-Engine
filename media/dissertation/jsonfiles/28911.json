@@ -1,0 +1,44 @@
+{
+  "contributor_author": "McBee, Brian K",
+  "contributor_committeechair": "Burns, John A.",
+  "contributor_committeemember": [
+    "Zietsman, Lizette",
+    "Cliff, Eugene M.",
+    "Borggaard, Jeffrey T."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:16:04Z",
+  "date_adate": "2011-09-23",
+  "date_available": "2014-03-14T20:16:04Z",
+  "date_issued": "2011-08-25",
+  "date_rdate": "2012-09-23",
+  "date_sdate": "2011-09-08",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "With a nation-wide aim toward reducing operational energy costs in buildings, it is important to understand the dynamics of controlled heating, cooling, and air circulation of an individual room, the \"One-Room Model Problem.\"  By understanding how one most efficiently regulates a room's climate, one can use this knowledge to help develop overall best-practice power reduction strategies.  A key toward effectively analyzing the \"One-Room Model Problem\" is to understand the capabilities and limitations of existing commercial tools designed for similar problems.  In this thesis we develop methodology to link commercial Computational Fluid Dynamics (CFD) software COMSOL with standard computational mathematics software MATLAB, and design controllers that apply inlet airflow and heating or cooling to a room and investigate their effects.  First, an appropriate continuum model, the Boussinesq System, is described within the framework of this problem.  Next, abstract and weak formulations of the problem are described and tied to a Finite Element Method (FEM) approximation as implemented in the interface between COMSOL and MATLAB.  A methodology is developed to design Linear Quadratic Regulator (LQR) controllers and associated functional gains in MATLAB which can be implemented in COMSOL.  These \"closed-loop\" methods are then tested numerically in COMSOL and compared against \"open-loop\" and average state closed-loop controllers.",
+  "description_provenance": [
+    "Author Email: bemcbee@vt.edu",
+    "Advisor Email: lzietsma@vt.edu",
+    "Advisor Email: ecliff@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: jaburns@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:04Z (GMT). No. of bitstreams: 1 McBee_BK_D_2011.pdf: 11859448 bytes, checksum: f088dc958cc82d6eda12167b66fa0117 (MD5)   Previous issue date: 2011-08-25"
+  ],
+  "handle": "28911",
+  "identifier_other": "etd-09082011-135058",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09082011-135058/",
+  "identifier_uri": "http://hdl.handle.net/10919/28911",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "McBee_BK_D_2011.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "COMSOL",
+    "Finite Elements",
+    "Building Energy Efficiency",
+    "Boundary Control",
+    "Boussinesq"
+  ],
+  "title": "Computational Approaches to Improving Room Heating and Cooling for Energy Efficiency in Buildings",
+  "type": "Dissertation"
+}

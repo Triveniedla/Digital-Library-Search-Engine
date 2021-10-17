@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Novak, David Christopher",
+  "contributor_committeechair": "Rakes, Terry R.",
+  "contributor_committeemember": [
+    "Houck, Ernest C.",
+    "Rees, Loren Paul",
+    "Matheson, Lance Arthur",
+    "Sumichrast, Robert T."
+  ],
+  "contributor_department": "Management Science and Information Technology",
+  "date_accessioned": "2014-03-14T20:10:42Z",
+  "date_adate": "2001-04-26",
+  "date_available": "2014-03-14T20:10:42Z",
+  "date_issued": "2001-04-18",
+  "date_rdate": "2004-03-07",
+  "date_sdate": "2001-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Network administration has become more difficult as the number of Internet users has grown and customer usage patterns have changed over time. Rapidly increasing subscriber bases, data intensive applications (such as streaming audio and video), heavy Web browsing, and large file downloads require significant resources and may tax existing network bandwidth. Reliability and quality of service are becoming serious issues for service providers across the country. Due to the dynamic nature of the information technology (IT) sector in general, it is difficult to predict future network usage patterns or what types of applications may be available, and how these applications may be used over time.   This research presents a methodology to facilitate capacity planning and to improve the evaluation of network performance for connection-based networks using the Virginia Tech modem pool as a test bed. The abstract research question is can innovative business strategies be employed in lieu of, or in addition to, traditional management practices such as adding capacity in order to improve the performance of a dialup network? Examples of such strategies or business rules may include limiting the duration of an online session or limiting the number of times a given customer can dial into the pool in a specified time period. A complete network traffic characterization is conducted based on service time and interarrival time variables. A longitudinal analysis is performed to examine how traffic patterns have changed over time. Finally, a simulation model is utilized to examine how imposing different business rules during peak-periods of operation can reduce the blocking probability and improve the overall level-of-service. The potential contribution of this research appears to be significant based on the lack of existing literature.",
+  "description_provenance": [
+    "Author Email: dnovak@vt.edu",
+    "Advisor Email: ehouck@vt.edu",
+    "Advisor Email: trakes@vt.edu",
+    "Advisor Email: loren@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: rsumichr@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:42Z (GMT). No. of bitstreams: 1 1dissertation.pdf: 1285331 bytes, checksum: a99c329d618fcfb7bd3bcde98fd8f13a (MD5)   Previous issue date: 2001-04-18"
+  ],
+  "handle": "27236",
+  "identifier_other": "etd-04252001-160258",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252001-160258/",
+  "identifier_uri": "http://hdl.handle.net/10919/27236",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "1dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Connection-based networking",
+    "Modem pool",
+    "Performance analysis",
+    "Simulation",
+    "Dialup networking"
+  ],
+  "title": "A Methodology for Characterization and Performance Analysis of Connection-Based Network Access Technologies",
+  "type": "Dissertation"
+}

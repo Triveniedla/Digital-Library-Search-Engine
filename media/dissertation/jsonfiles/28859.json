@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Dong, Wei",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Chen, Dan Y.",
+    "Nelson, Douglas J.",
+    "Boroyevich, Dushan",
+    "Lai, Jason"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:53Z",
+  "date_adate": "2003-09-08",
+  "date_available": "2014-03-14T20:15:53Z",
+  "date_issued": "2003-04-22",
+  "date_rdate": "2003-09-08",
+  "date_sdate": "2003-09-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation presents the systematic analysis and the critical assessment of the AC side soft-switching inverters in electric vehicle (EV) applications. Although numerous soft-switching inverter techniques were claimed to improve the inverter performance, compared with the conventional hard-switching inverter, there is the lack of comprehensive investigations of analyzing and evaluating the performance of soft-switching inverters. <p>  Starting with an efficiency comparison of a variety of the soft-switching inverters using analytical calculation, the dissertation first reveals the effects of the auxiliary circuit's operation and control on the loss reduction. Three types of soft-switching inverters realizing the zero-voltage-transition (ZVT) or zero-current-transition (ZCT) operation are identified to achieve high efficiency operation. <p>  Then one hard-switching inverter and the chosen soft-switching inverters are designed and implemented with the 55 kW power rating for the small duty EV application. The experimental evaluations on the dynamometer provide the accurate description of the performance of the soft-switching inverters in terms of the loss reductions, the electromagnetic interference (EMI) noise, the total harmonic distortion (THD) and the control complexity. An analysis of the harmonic distortion caused by short pulses is presented and a space vector modulation scheme is proposed to alleviate the effect.<p>  To effectively analyze the soft-switching inverters' performance, a simulation based electrical modeling methodology is developed. Not only it extends the EMI noise analysis to the higher frequency region, but also predicts the stress and the switching losses accurately. Three major modeling tasks are accomplished. First, to address the issues of complicated existing scheme, a new parameter extraction scheme is proposed to establish the physics-based IGBT model. Second, the impedance based measurement method is developed to derive the internal parasitic parameters of the half-bridge modules. Third, the finite element analysis software is used to develop the model for the laminated bus bar including the coupling effects of different phases. Experimental results from the single-leg operation and the three-phase inverter operation verify the effectiveness of the presented systematic electrical modeling approach. With the analytical tools verified by the testing results, the performance analysis is further extended to different power ratings and different bus voltage designs.",
+  "description_provenance": [
+    "Author Email: wedong@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:53Z (GMT). No. of bitstreams: 1 ETD_WeiDong.pdf: 7004558 bytes, checksum: 247aa4dd8c6e04ab2ee03ecf92b76de9 (MD5)   Previous issue date: 2003-04-22"
+  ],
+  "handle": "28859",
+  "identifier_other": "etd-09032003-133902",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09032003-133902/",
+  "identifier_uri": "http://hdl.handle.net/10919/28859",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETD_WeiDong.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "zero-voltage-transition",
+    "soft-switching",
+    "parameter extraction",
+    "electromagnetic interference (EMI)",
+    "electric vehicle"
+  ],
+  "title": "Analysis and Evaluation of Soft-switching Inverter Techniques in Electric Vehicle Applications",
+  "type": "Dissertation"
+}

@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Jiang, Wen",
+  "contributor_committeechair": "Batra, Romesh C.",
+  "contributor_committeemember": [
+    "Librescu, Liviu",
+    "Farkas, Diana",
+    "Hyer, Michael W.",
+    "Lin, Tao",
+    "Case, Scott W."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:07:56Z",
+  "date_adate": "2008-03-31",
+  "date_available": "2014-03-14T20:07:56Z",
+  "date_issued": "2008-01-29",
+  "date_rdate": "2008-03-31",
+  "date_sdate": "2008-03-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The main goal of this work is to determine values of elastic constants of orthotropic, transversely isotropic and cubic materials through indentation tests on thin layers bonded to rigid substrates.  Accordingly, we first use the Stroh formalism to provide an analytical solution for generalized plane strain deformations of a linear elastic anisotropic layer bonded to a rigid substrate, and indented by a rigid cylindrical indenter.  The mixed boundary-value problem is challenging since the deformed indented surface of the layer contacting the rigid cylinder is unknown a priori, and is to be determined as a part of the solution of the problem.  For a rigid parabolic prismatic indenter contacting either an isotropic layer or an orthotropic layer, the computed solution is found to compare well with solutions available in the literature.  Parametric studies have been conducted to delimit the length and the thickness of the layer for which the derived relation between the axial load and the indentation depth is valid.  We then derive an expression relating the axial load, the indentation depth, and the elastic constants of an orthotropic material.  This relation is specialized to a cubic material (e.g., an FCC single crystal).  By using results of three virtual (i.e., numerical) indentation tests on the same specimen oriented differently, we compute values of the elastic moduli, and show that they agree well with their expected values.  The technique can be extended to other anisotropic materials.   We review the literature on relations between deformations at the atomic level and stresses and strains defined at the continuum level.  These are then used to compare stress and strain distributions in mechanical tests performed on atomic systems and their equivalent continuum structures.  Whereas averaged stresses and strains defined in terms of the overall deformations of the atomic system match well with those derived from the continuum description of the body, their local spatial distributions differ.",
+  "description_provenance": [
+    "Author Email: wjiang@vt.edu",
+    "Advisor Email: diana@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Advisor Email: tlin@vt.edu",
+    "Advisor Email: scase@exchange.vt.edu",
+    "Advisor Email: rbatra@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:56Z (GMT). No. of bitstreams: 1 wjiang_dissertation.pdf: 978412 bytes, checksum: cb958f7c377344d22c1ae6480026c035 (MD5)   Previous issue date: 2008-01-29"
+  ],
+  "handle": "26350",
+  "identifier_other": "etd-03032008-141234",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03032008-141234/",
+  "identifier_uri": "http://hdl.handle.net/10919/26350",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "wjiang_dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "continuum equivalence",
+    "nanoindentation",
+    "analytical solution",
+    "FCC",
+    "load-displacement relation",
+    "atomic simulation",
+    "Cylindrical contact"
+  ],
+  "title": "Simulations of Indentation at Continuum and Atomic levels",
+  "type": "Dissertation"
+}

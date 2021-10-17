@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Chabalko, Christopher C.",
+  "contributor_committeechair": "Hajj, Muhammad R.",
+  "contributor_committeemember": [
+    "Hagedorn, George A.",
+    "Mook, Dean T.",
+    "Ragab, Saad A.",
+    "Duke, John C. Jr."
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:08:13Z",
+  "date_adate": "2007-04-03",
+  "date_available": "2014-03-14T20:08:13Z",
+  "date_issued": "2007-03-05",
+  "date_rdate": "2009-04-03",
+  "date_sdate": "2007-03-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Complex nonlinear aspects of aeroelastic phenomena  include unsteady nonlinear aerodynamic loads, structural nonlinearities, as well as nonlinear couplings between the flow and the structural response.  Nonlinearities in aerodynamic loads originate from unsteady shocks and/or flow separation.  Structural nonlinearities are geometric, or a result of free play.  Nonlinear fluid structure couplings result from nonlinear resonance between the aerodynamic load and structural modes.  Under different conditions, one or a combination of these aspects could yield flutter or Limit Cycle Oscillations (LCO).  The overall goal of this work is to develop the capabilities to quantify the role that these different nonlinear mechanisms could play in observed flutter and LCO.  The realization of such a goal would help in providing a benchmark for the detection of nonlinear aeroelastic instabilities and possibly effective means for obtaining improved performance and reduced uncertainties through operation beyond conventional boundaries that are based on linear analysis.  Additionally, this effort will provide a benchmark for the validation of computational methodologies.  In this thesis, wavelet-based higher order spectra are applied to identify different nonlinear aeroelastic phenomena as encountered in two experiments.  First, the analysis is applied to a set of experiments involving a flexible semispan model (FSM) of a High Speed Civil Transport (HSCT) wing configuration conducted by Silva et al. (Experimental Steady and Unsteady Aerodynamic and Flutter Results for HSCT Semispan Models; AIAA/ASME/ASCE/AHS/ASC 41st Structures, Structural Dynamics, and Materials Conference, 2000).  The interest is in the identification of nonlinear aeroelastic phenomena associated with a high dynamic response region which was measured over a large range of dynamic pressures around Mach number 0.98.  At the top of this region is a ``hard'' flutter point that resulted in the loss of the model.  The results show that ``hard'' flutter is related to intermittent nonlinear coupling between the shock motion and large amplitude structural motions.  Second, the analysis is applied to identify nonlinear aspects of LCO encountered during test flights of an F-16 aircraft.  The results show quadratic and cubic couplings in the acceleration signals of the under-wing launchers and high quadratic coupling levels between flaperon motions and wing oscillations.  The implications of applying these techniques in the capacity of a ``flutterometer'' are also discussed.",
+  "description_provenance": [
+    "Author Email: cchabalk@vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Advisor Email: dtmook@vt.edu",
+    "Advisor Email: ragab@vt.edu",
+    "Advisor Email: jcduke@vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:13Z (GMT). No. of bitstreams: 7 1_chap1.pdf: 240528 bytes, checksum: 757949b81927afdaee235b5d4c6f87e1 (MD5) 3_chap3.pdf: 20127633 bytes, checksum: 9534f2bcaff1d850ad149e6abe193bdc (MD5) 0_frontmatter.pdf: 130627 bytes, checksum: 809381416b6a4a9db55d02f6a1e0e90c (MD5) 5_chap5.pdf: 36118 bytes, checksum: 0a859f01303c650a4a2d53d31c81f3cb (MD5) 4_chap4.pdf: 6865539 bytes, checksum: 0933b9d645788308f53d8327780702cf (MD5) 6_backmatter.pdf: 67518 bytes, checksum: 467629ad37cb85bc20101f3094f528e5 (MD5) 2_chap2.pdf: 753873 bytes, checksum: 9d49fe38297a92222a5b558717195a39 (MD5)   Previous issue date: 2007-03-05"
+  ],
+  "handle": "26434",
+  "identifier_other": "etd-03152007-141535",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03152007-141535/",
+  "identifier_uri": "http://hdl.handle.net/10919/26434",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "1_chap1.pdf",
+    "3_chap3.pdf",
+    "0_frontmatter.pdf",
+    "5_chap5.pdf",
+    "4_chap4.pdf",
+    "6_backmatter.pdf",
+    "2_chap2.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Limit Cycle Oscillations",
+    "Higher Order Spectra",
+    "Aeroelasticity",
+    "Flutter",
+    "Wavelets"
+  ],
+  "title": "Identification of Transient Nonlinear Aeroelastic Phenomena",
+  "type": "Dissertation"
+}

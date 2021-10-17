@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Peairs, Daniel Marsden",
+  "contributor_committeechair": "Inman, Daniel J.",
+  "contributor_committeemember": [
+    "Leo, Donald J.",
+    "Robertshaw, Harry H.",
+    "Singh, Mahendra P.",
+    "Park, Gyuhae"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:40Z",
+  "date_adate": "2006-06-23",
+  "date_available": "2014-03-14T20:12:40Z",
+  "date_issued": "2006-05-19",
+  "date_rdate": "2006-06-23",
+  "date_sdate": "2006-06-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A promising structural health monitoring (SHM) method for implementation on real world structures is impedance-based health monitoring.  An in-service system is envisioned to include on board processing and perhaps wireless transfer of data.  Ideally, a system could be produced as a slap-on or automatically installed addition to a structure.  The research presented in this dissertation addresses issues that will help make such a system a reality. Although impedance-based SHM does not typically use an analytical model for basic damage identification, a model is necessary for more advanced features of SHM, such as damage prognosis, and to evaluate system parameters when installing on various structures.  A model was developed based on circuit analysis of the previously proposed low-cost circuit for impedance-based SHM in combination with spectral elements. When a three-layer spectral element representing a piezoceramic bonded to a base beam is used, the model can predict the large peaks in the impedance response due to resonances of the bonded active sensor. Parallel and series connections of distributed sensor systems are investigated both experimentally and with the developed model. Additionally, the distribution of baseline damage metrics is determined to assess how the large quantities of data produced by a monitoring system can be handled statistically. A modification of the RMSD damage metric has also been proposed that is essentially the squared sum of the Z-statistic for each frequency point. Preferred excitation frequencies for macro-fiber composite (MFC) active sensors are statistically determined for a long composite boom under development for use in rigidizable inflatable space structures.",
+  "description_provenance": [
+    "Author Email: dpeairs@vt.edu",
+    "Advisor Email: dinman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:40Z (GMT). No. of bitstreams: 1 Peairs_dissertation_etd2.pdf: 1755783 bytes, checksum: a94a2b1c004eafcb4d7a98f4c4e16bab (MD5)   Previous issue date: 2006-05-19"
+  ],
+  "handle": "27925",
+  "identifier_other": "etd-06012006-140648",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06012006-140648/",
+  "identifier_uri": "http://hdl.handle.net/10919/27925",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Peairs_dissertation_etd2.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "spectral elements",
+    "sensor resonance",
+    "multiplexing",
+    "high frequency vibration",
+    "impedance method",
+    "structural health monitoring",
+    "damage metric"
+  ],
+  "title": "High Frequency Modeling and Experimental Analysis for Implementation of Impedance-based Structural Health Monitoring",
+  "type": "Dissertation"
+}

@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Xu, Peng",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Chen, Dan Y.",
+    "Lai, Jason",
+    "Lu, Guo-Quan",
+    "Huang, Alex Q."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:05Z",
+  "date_adate": "2002-03-15",
+  "date_available": "2014-03-14T20:08:05Z",
+  "date_issued": "2002-01-15",
+  "date_rdate": "2003-03-15",
+  "date_sdate": "2002-03-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Advances in very large scale integration (VLSI) technologies impose challenges for voltage regulator modules (VRM) to deliver high-quality power to modern microprocessors. As an enabling technology, multiphase converters have become the standard practice in VRM industry. The primary objectives of this dissertation are to develop advanced topologies and innovative integrated magnetics for high-efficiency, high-power-density and fast-transient VRMs. The optimization of multiphase VRMs has also been addressed. Todayâ  s multiphase VRMs are almost universally based on the buck topology. With increased input voltage and decreased output voltage, the multiphase buck converter suffers from a very small duty cycle and cannot achieve a desirable efficiency. The multiphase tapped-inductor buck converter is one of the simplest topologies with a decent duty cycle. However, the leakage inductance of its tapped inductors causes a severe voltage spike problem. An improved topology, named the multiphase coupled-buck converter, is proposed. This innovative topology enables the use of a larger duty cycle with clamped device voltage and recovered leakage energy. Under the same transient responses, the multiphase coupled-buck converter has a significantly better efficiency than the multiphase buck converter.  By integrating all the magnetic components into a single core, in which the windings are wound around the center leg and the air gaps are placed on the two outer legs, it is possible for multiphase VRMs to further improve efficiency and cut the size and cost. Unfortunately, this structure suffers from an undesirable core structure and huge leakage inductance. An improved integrated magnetic structure is proposed to overcome these limitations. All the windings are wound around the two outer legs and the air gap is placed on the center leg. The improved structure also features the flux ripple cancellation in the center leg and strongly reverse-coupled inductors. Both core loss and winding loss are reduced. The steady-state current ripples can be reduced without compromising the transient responses. The overall efficiency of the converter is improved. The input inductor can also be integrated in the improved integrated magnetic structure. Currently, selecting the appropriate number of channels for multiphase VRMs is still an empirical trial-and-error process. This dissertation proposes a methodology for determining the right number of channels for the optimal multiphase design. The problem formulation and general method for the optimization are proposed. Two examples are performed step by step to demonstrate the proposed optimization methodology. Both are focused on typical VRM 9.0 designs for the latest Pentium 4Â® microprocessors and their results are compared with the industry practice.",
+  "description_provenance": [
+    "Author Email: pxuny@yahoo.com",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:05Z (GMT). No. of bitstreams: 7 Chapter1.pdf: 187201 bytes, checksum: 9549837d4daf3f7ffae89b13e4e9e874 (MD5) Chapter5.pdf: 18035 bytes, checksum: d394c36020f5b1c6b5b48eb91c1e91f6 (MD5) Chapter2.pdf: 543707 bytes, checksum: b4f4f56970e627a2581f5e31c4766bdf (MD5) ReferenceVita.pdf: 74769 bytes, checksum: d5a60a28d08864b231b2d027e5503ab0 (MD5) Chapter4.pdf: 156333 bytes, checksum: 028a2ddd8e69dc040100e816c6548a0b (MD5) Chapter3.pdf: 574359 bytes, checksum: 311c0f33300d103b7037505ed214f648 (MD5) 0CoverAbstractContentList1.pdf: 37617 bytes, checksum: bcca95d0e80d1312724c649483de7dd4 (MD5)   Previous issue date: 2002-01-15"
+  ],
+  "handle": "26395",
+  "identifier_other": "etd-03092002-004940",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03092002-004940/",
+  "identifier_uri": "http://hdl.handle.net/10919/26395",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Chapter1.pdf",
+    "Chapter5.pdf",
+    "Chapter2.pdf",
+    "ReferenceVita.pdf",
+    "Chapter4.pdf",
+    "Chapter3.pdf",
+    "0CoverAbstractContentList1.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "voltage regulator module",
+    "integrated magnetics",
+    "multiphase converter"
+  ],
+  "title": "Multiphase Voltage Regulator Modules with Magnetic Integration to Power Microprocessors",
+  "type": "Dissertation"
+}

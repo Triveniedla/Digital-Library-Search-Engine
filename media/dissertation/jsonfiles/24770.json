@@ -1,0 +1,37 @@
+{
+  "contributor_author": "De Larquier, Sebastien",
+  "contributor_committeechair": [
+    "Baker, Joseph Benjamin",
+    "Ruohoniemi, John Michael"
+  ],
+  "contributor_committeemember": [
+    "Scales, Wayne A",
+    "Earle, Gregory D",
+    "Kohler, Werner E",
+    "Pratt, Timothy"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-12-24T09:00:14Z",
+  "date_available": "2013-12-24T09:00:14Z",
+  "date_issued": "2013-12-23",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "The Earth's ionosphere is a dynamic environment strongly coupled to the neutral atmosphere, magnetosphere and solar activity. In the context of this research, we restrict our interest to the mid-latitude (a.k.a., sub-auroral) ionosphere during quiet geomagnetic conditions. The Super Dual Auroral Radar Network (SuperDARN) is composed of more than 30 low-power High Frequency (HF, from 8-18 MHz) Doppler radars covering the sub-auroral, auroral and polar ionosphere in both hemispheres. SuperDARN radars rely on the dispersive properties of the ionosphere at HF to monitor dynamic features of the ionosphere. Though originally designed to follow auroral expansion during active periods, mid-latitude SuperDARN radars have observed  ground and ionospheric scatter revealing several interesting features of the mid-latitude ionosphere during periods of moderate to low geomagnetic activity. The past 7 years' expansion of SuperDARN to mid-latitudes, combined with the recent extended solar minimum, provides large-scale continuous views of the sub-auroral ionosphere for the first time. We have leveraged these circumstances to study prominent and recurring features of the mid-latitude ionosphere under quiet geomagnetic conditions. First, we seek to establish a better model of HF propagation effects on SuperDARN observations. To do so, we developed a ray-tracing model coupled with the International Reference Ionosphere (IRI). This model is tested against another well established ray-tracing model, then optimized to be compared to SuperDARN observations (Chapter 2). The first prominent ionospheric feature studied is an anomaly in the standard ionospheric model of photo-ionization and recombination. This type of event provides an ideal candidate for testing the ray-tracing model and analyzing propagation effects in SuperDARN observations. The anomaly was first observed in ground backscatter occurring around sunset for the Blackstone, VA SuperDARN radar. We established that it is related to an unexpected enhancement in electron densities that leads to increased refraction of the HF signals. Using the ray-tracing, IRI model, and measurements from the Millstone Hill Incoherent Scatter Radar (ISR), we showed that this enhancement is part of a global phenomenon in the Northern Hemisphere, and is possibly related to the Southern Hemisphere's Weddell Sea Anomaly. We also tested a potential mechanism involving thermospheric winds and geomagnetic field configuration which showed promising results and will require further modeling to confirm (Chapter 3). The second ionospheric feature was a type of decameter-scale irregularity associated with very low drift velocities. Previous work had established that these irregularities occur throughout the year, during nighttime, and equatorward of both the auroral regions and the plasmapause boundary. An initial analysis suggested that the Temperature Gradient Instability (TGI) was responsible for the growth of such irregularities. We first used our ray-tracing model to distinguish between HF propagation effects and irregularity occurrence in SuperDARN observations. This revealed the irregularities to be widespread within the mid-latitude ionosphere and located in the bottom-side F-region (Chapter 4). A second study using measurements from the Millstone Hill ISR revealed that TGI driven growth was possible but only in the top-side F-region ionosphere. We found that initial growth may occur primarily at larger wavelengths, with subsequent cascade to decameter-scale with coupling throughout the F-region (Chapter 5). In summary, the research conducted during this PhD program has established a robust method to analyze quiet-time SuperDARN observations. It also furthered our physical understanding of some prominent features of the mid-latitude ionosphere. It leaves behind a flexible ray-tracing model, multiple online tools to browse SuperDARN data, and a thorough and growing Space Science API providing access to multiple datasets, models and visualization tools.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-24T09:00:14Z (GMT). No. of bitstreams: 1 De_Larquier_S_D_2013.pdf: 29063374 bytes, checksum: b71fcdb10c2e2cd1c8dca76c6160dec9 (MD5)   Previous issue date: 2013-12-23",
+  "format_medium": "ETD",
+  "handle": "24770",
+  "identifier_other": "vt_gsexam:1939",
+  "identifier_uri": "http://hdl.handle.net/10919/24770",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Space Physics",
+    "Ionosphere",
+    "Radio-wave propagation"
+  ],
+  "title": "The mid-latitude ionosphere under quiet geomagnetic conditions: propagation analysis of SuperDARN radar observations from large ionospheric perturbations",
+  "type": "Dissertation"
+}

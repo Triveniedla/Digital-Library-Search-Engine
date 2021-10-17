@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Appea, Alexander Kwasi",
+  "contributor_committeecochair": [
+    "Flintsch, Gerardo W.",
+    "Al-Qadi, Imadeddin L."
+  ],
+  "contributor_committeemember": [
+    "Brandon, Thomas L.",
+    "Duke, John C. Jr.",
+    "Collura, John"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:09:10Z",
+  "date_adate": "2003-04-21",
+  "date_available": "2014-03-14T20:09:10Z",
+  "date_issued": "2003-01-24",
+  "date_rdate": "2006-04-21",
+  "date_sdate": "2003-04-09",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Falling weight deflectometer (FWD) is currently used by most highway agencies to determine the structural condition of the highway network.  Utilizing the deflections measured by the FWD, the resilient moduli of layers in the flexible pavement is determined using backcalculation software packages.  The moduli can be input into semi-empirical mechanistic equations to estimate the remaining life of the pavement system and aid in informing pavement engineers about timing of maintenance and rehabilitation needs.  There have been concerns among practitioners and the research community about the adequacy of the resilient moduli determined by the backcalculation software.  Some of the backcalculation models have been simplified and field verification may be needed.  Field-measured stresses and strains may be used to quantify the reliability of the backcalculated moduli.  The Virginia Smart Road, which has 12 different flexible pavement designs and was built and instrumented with pressure cells, strain gages, thermocouples, frost probes and moisture sensors.  To validate the backcalculated moduli theoretically and through instrument response, this research was conducted with following objectives: 1) to determine the resilient moduli of the unbound granular materials on the Virginia Smart Road using small and large plates of the FWD; 2) to investigate the extent of spatial and temporal variability of the FWD deflections among pavement sections; 3) to develop a temperature correction model for the backcalculated HMA resilient moduli; 4) to define an appropriate backcalculation approach and compare the four widely used software approaches; and 5) to correlate backcalculated and laboratory measured moduli.  In addition, the FWD measurements were used to establish a comparison between in-situ measured and computed stresses and strains in the pavement.  The analytical approaches used are linear elastic, viscoelastic, and viscoelastic combined with nonlinearity.  Results show that estimation of unbound granular materials moduli using surface deflections is more reliable when 457-mm-diameter loading plate is used.  Analysis of deflections from different sensors showed evidence of spatial and temporal variability.  The lowest coefficient of variation of deflections (7%) within sections occurred at low temperatures (2 to 6 Â°C), while the highest coefficient of variation (42%) occurred at temperatures between 35 to 40 Â°C.  This resulted in the development of a deflection temperature correction model.  The model was validated at different temperature ranges.  A backcalculation procedure was defined to achieve good root mean square error using four selected software packages. This resulted in the selection of the most reliable software to perform moduli backcalculation.  A correlation was established between the nonlinear models produced by backcalculation and laboratory testing of the granular 21-B material.  However, for the HMA materials, difference in loading period between laboratory testing and FWD loading pulse could affect the results.  The study found that when utilizing the backcalculated moduli, computed strains using viscoelastic modeling were comparable to in-situ measured values.  Similarly, calculated stresses compared well with the field-measured stresses; especially at high temperatures.  Mix properties, temperature of testing and loading were found to have an effect on the agreement between the measured and computed strains in the wearing surface.  The study also recommended further validation of FWD measurements using embedded instruments to calibrate analytical models and further analysis of deflection data so that optimum number of testing points can be determined to limit amount of testing performed for determination of deflection variability.",
+  "description_provenance": [
+    "Author Email: Alexander.Appea@dot.state.fl.us",
+    "Advisor Email: alqadi@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:10Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 2788410 bytes, checksum: b817e167c0fc204d5dd23dfb7a918d2c (MD5)   Previous issue date: 2003-01-24"
+  ],
+  "handle": "26715",
+  "identifier_other": "etd-04092003-162026",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04092003-162026/",
+  "identifier_uri": "http://hdl.handle.net/10919/26715",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Backcalculation",
+    "Instrument Response",
+    "FWD",
+    "Pavements"
+  ],
+  "title": "Validation of FWD Testing Results at the Virginia Smart Road: Theoretically and by Instrument Responses",
+  "type": "Dissertation"
+}

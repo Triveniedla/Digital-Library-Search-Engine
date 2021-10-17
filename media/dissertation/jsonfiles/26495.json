@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Newsom, Jerry Russell",
+  "contributor_committeecochair": [
+    "Kapania, Rakesh K.",
+    "Robertshaw, Harry H."
+  ],
+  "contributor_committeemember": [
+    "Inman, Daniel J.",
+    "Hyer, Michael W.",
+    "Leo, Donald J."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:08:29Z",
+  "date_adate": "2002-04-26",
+  "date_available": "2014-03-14T20:08:29Z",
+  "date_issued": "2002-04-17",
+  "date_rdate": "2003-04-26",
+  "date_sdate": "2002-03-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The purpose of this dissertation is to develop a methodology for designing active control laws in a computational aeroelasticity environment.  The methodology involves employing a systems identification technique to develop an explicit state-space model for control law design from the output of a computational aeroelasticity code.  The particular computational aeroelasticity code employed in this dissertation solves the transonic small disturbance equation using a time-accurate, finite-difference scheme.  Linear structural dynamics equations are integrated simultaneously with the computational fluid dynamics equations to determine the time responses of the structural outputs.  These structural outputs are employed as the input to a modern systems identification technique that determines the Markov parameters of an â  equivalent linear systemâ  .   The eigensystem realization algorithm is then employed to develop an explicit state-space model of the equivalent linear system.  Although there are many control law design techniques available, the standard Linear Quadratic Guassian technique is employed in this dissertation.  The computational aeroelasticity code is modified to accept control laws and perform closed-loop simulations.  Flutter control of a rectangular wing model is chosen to demonstrate the methodology.  Various cases are used to illustrate the usefulness of the methodology as the nonlinearity of the computational fluid dynamics system is increased through increased angle-of-attack changes.",
+  "description_provenance": [
+    "Author Email: j.r.newsom@larc.nasa.gov",
+    "Made available in DSpace on 2014-03-14T20:08:29Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 4089211 bytes, checksum: 2f69c6f4082b21542ef56f5cde5102ad (MD5)   Previous issue date: 2002-04-17"
+  ],
+  "handle": "26495",
+  "identifier_other": "etd-03252002-143535",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03252002-143535/",
+  "identifier_uri": "http://hdl.handle.net/10919/26495",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Active Controls",
+    "Computational Fluid Dynamics",
+    "Aeroelasticity",
+    "Flutter"
+  ],
+  "title": "Designing Active Control Laws in a Computational Aeroelasticity Environment",
+  "type": "Dissertation"
+}

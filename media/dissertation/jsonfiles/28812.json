@@ -1,0 +1,52 @@
+{
+  "contributor_author": "Silvius, Mark D.",
+  "contributor_committeecochair": [
+    "Bostian, Charles W.",
+    "MacKenzie, Allen B."
+  ],
+  "contributor_committeemember": [
+    "Smith-Jackson, Tonya L.",
+    "DaSilva, Luiz A.",
+    "Yang, Yaling"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:15:45Z",
+  "date_adate": "2009-09-04",
+  "date_available": "2014-03-14T20:15:45Z",
+  "date_issued": "2009-08-13",
+  "date_rdate": "2009-09-04",
+  "date_sdate": "2009-08-27",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Recent disasters, including the 9/11 terrorist attacks, Hurricane Katrina, the London subway bombings, and the California wildfires, have all highlighted the limitations of current mobile communication systems for public safety first responders.  First, in a point-to-point configuration, legacy radio systems used by first responders from differing agencies are often made by competing manufacturers and may use incompatible waveforms or channels.  In addition, first responder radio systems, which may be licensed and programmed to operate in frequency bands allocated within their home jurisdiction, may be neither licensed nor available in forward-deployed disaster response locations, resulting in an operational scarcity of usable frequencies.  To address these problems, first responders need smart radio solutions which can bridge these disparate legacy radio systems together, can incorporate new smart radio solutions, or can replace these existing aging radios.  These smart radios need to quickly find each other and adhere to spectrum usage and access policies.  Second, in an infrastructure configuration, legacy radio systems may not operate at all if the existing communications backbone has been destroyed by the disaster event.  A communication system which can provide a new, temporary infrastructure or can extend an existing infrastructure into a shaded region is needed.  Smart radio nodes that make up the public safety infrastructure again must be able to find each other, adhere to spectrum usage policies, and provide access to other smart radios and legacy public safety radios within their coverage area. This work addresses these communications problems in the following ways.  First, it applies cognitive radio technology to develop a smart radio system capable of rapidly adapting itself so it can communicate with existing legacy radio systems or other smart radios using a variety of standard and customized waveforms.  These smart radios can also assemble themselves into an ad-hoc network capable of providing a temporary communications backbone within the disaster area, or a network extension to a shaded communications area.  Second, this work analyzes and characterizes a series of rendezvous protocols which enable the smart radios to rapidly find each other within a particular coverage area.  Third, this work develops a spectrum sharing protocol that enables the smart radios to adhere to spectral policies by sharing spectrum with other primary users of the band.  Fourth, the performance of the smart radio architecture, as well as the performance of the rendezvous and spectrum sharing protocols, is evaluated on a smart radio network testbed, which has been assembled in a laboratory setting.  Results are compared, when applicable, to existing radio systems and protocols.  Finally, this work concludes by briefly discussing how the smart radio technologies developed in this dissertation could be combined to form a public safety communications architecture, applicable to the FCCâ  s stated intent for the 700 MHz Band.  In the future, this work will be extended to applications outside of the public safety community, specifically, to communications problems faced by warfighters in the military.",
+  "description_provenance": [
+    "Author Email: msilvius@vt.edu",
+    "Advisor Email: bostian@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: smithjack@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:45Z (GMT). No. of bitstreams: 1 Silvius_MD_D_2009.pdf: 1938760 bytes, checksum: 330b201d374d4b45380c052c54119357 (MD5)   Previous issue date: 2009-08-13"
+  ],
+  "handle": "28812",
+  "identifier_other": "etd-08272009-000216",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08272009-000216/",
+  "identifier_uri": "http://hdl.handle.net/10919/28812",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Silvius_MD_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Protocols",
+    "Cognitive Radio",
+    "Dynamic Spectrum Access",
+    "Rendezvous",
+    "Spectrum Sharing",
+    "GNU Radio",
+    "OMNeT++",
+    "Testbed",
+    "Public Safety"
+  ],
+  "title": "Building a Dynamic Spectrum Access Smart Radio With Application to Public Safety Disaster Communications",
+  "type": "Dissertation"
+}

@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Wieczorek, Christopher John",
+  "contributor_committeechair": "Vandsburger, Uri",
+  "contributor_committeecochair": "Westman, Erik Christian",
+  "contributor_committeemember": [
+    "Novak, Thomas",
+    "Lattimer, Brian Y.",
+    "Floyd, Jason"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:12:55Z",
+  "date_adate": "2003-06-17",
+  "date_available": "2014-03-14T20:12:55Z",
+  "date_issued": "2003-05-23",
+  "date_rdate": "2003-06-17",
+  "date_sdate": "2003-06-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The aim of the present research was to gain a better understanding of the species generation and transport from enclosure fires.  The species generation experiments were conducted with a half-scale ISO 9705 enclosure with three different ventilation conditions and heat release rates ranging from 50 kW to 500 kW.  The transport study was conducted with a 6.1 m long hallway connected to the compartment in a head-on configuration.  All measurements were performed at the compartment or hallway exit plane during the steady-state period of the fire.  Measurements included species mole fractions of oxygen, carbon dioxide, carbon monoxide, and unburned hydrocarbons, along with gas pressure (used to determine gas velocities) and gas temperatures.    Species mappings performed at the exit plane of the compartment indicated that the exiting species are not spatially uniform.  Horizontal and vertical gradients in the species mole fractions were observed for all ventilation conditions and heat release rates examined.    Predictive techniques developed previously were applied to the data obtained in the present study and were determined to be inappropriate for situations were the plume equivalence ratio was not equal to the global equivalence ratio.  A new methodology for predicting species levels at the exit plane of an enclosure was developed.  The proposed methodology correlates the species yields based on the combustion within the compartment as a function of a non-dimensional heat release rate.  The non-dimensional heat release rate is based on the fuel load and geometrical parameters of the enclosure.  The present methodology in applicable to situations where a well-mixed uniform layer is not present and the overall global conditions are of interest.     Species transport to remote locations was also examined.  Experiments were conducted with the baseline ventilation at x = 0 m (the compartment/hallway interface) and three different ventilation conditions at x = 6.1 m (end of hallway).  The three ventilation conditions consisted of the narrow, baseline, and wide doorways.  Experiments were conducted for heat release rates of 85 kW, 127 kW, and 150 kW.  The results from the tests indicated that, for over-ventilated compartment fires, the hallway and hallway ventilation had no impact on the species generation within the compartment.  This allows the correlations developed from the compartment study to be applied to more complex scenarios.  Differences in species mole fractions between x = 0 m and x = 6.1 m were shown to be a result of air entrainment into the upper layer within the hallway, which acted as a dilutent or as a source of oxygen for further oxidation reactions.  For non-dimensional heat release rates less than 1.0, the reduction in carbon monoxide levels along the hallway was a result of dilution, while for non-dimensional heat release rates greater than or equal to 1.0 the reduction in carbon monoxide levels along the hallway was a combination of dilution and further oxidation reactions.",
+  "description_provenance": [
+    "Author Email: firebug@vt.edu",
+    "Advisor Email: ewestman@vt.edu",
+    "Advisor Email: uri@vt.edu",
+    "Advisor Email: tomnovak@vt.edu",
+    "Advisor Email: blattimer@haifire.com",
+    "Advisor Email: jfloyd@haifire.com",
+    "Made available in DSpace on 2014-03-14T20:12:55Z (GMT). No. of bitstreams: 1 Dissertation_06_16_2003.pdf: 4178853 bytes, checksum: 51f0aac58cf1c5750b7618f423044297 (MD5)   Previous issue date: 2003-05-23"
+  ],
+  "handle": "28006",
+  "identifier_other": "etd-06102003-105051",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06102003-105051/",
+  "identifier_uri": "http://hdl.handle.net/10919/28006",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_06_16_2003.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "building fires",
+    "mining fires",
+    "species transport",
+    "species generation",
+    "carbon monoxide"
+  ],
+  "title": "Carbon Monoxide Generation and Transport from Compartment Fires",
+  "type": "Dissertation"
+}

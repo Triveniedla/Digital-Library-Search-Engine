@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Mudaliar, Ashvinikumar",
+  "contributor_committeechair": "Diller, Thomas E.",
+  "contributor_committeecochair": "Scott, Elaine P.",
+  "contributor_committeemember": [
+    "Lanz, Otto I.",
+    "Tafti, Danesh K.",
+    "Vick, Brian L."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:08:13Z",
+  "date_adate": "2007-04-17",
+  "date_available": "2014-03-14T20:08:13Z",
+  "date_issued": "2007-01-23",
+  "date_rdate": "2007-04-17",
+  "date_sdate": "2007-03-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A convenient method for testing and calibrating surface perfusion sensors has been developed. A phantom tissue model is used to mimic the non-directional blood flow of tissue perfusion. A computational fluid dynamics (CFD) model was constructed in Fluent&#61650; to design the phantom tissue and validate the experimental results. The phantom perfusion system was used with a perfusion sensor based on the clearance of thermal energy. A heat flux gage measures the heat flux response of tissue when a thermal event (convective cooling) is applied. The blood perfusion and contact resistance are estimated by a parameter estimation code. From the experimental and analytical results, it was concluded that the probe displayed good measurement repeatability and sensitivity. The experimental perfusion measurements in the tissue were in good agreement with those of the CFD models and demonstrated the value of phantom tissue system.  This simple, cost effective, and noninvasive convective blood perfusion system was then tested in animal models. The perfusion system was evaluated for repeatability and sensitivity using isolated rat liver and exposed rat kidney tests. Perfusion in the isolated liver tests was varied by controlling the flow of the perfusate into the liver, and the perfusion in the exposed kidney tests was varied by temporarily occluding blood flow through the renal artery and vein. The perfusion estimated by the convective perfusion probe was in good agreement with that of the metered flow of perfusate into the liver model.   The liver tests indicated that the probe can be used to detect small changes in perfusion (0.005 ml/ml/s). The probe qualitatively tracked the changes in the perfusion in kidney model due to occlusion of the renal artery and vein.",
+  "description_provenance": [
+    "Author Email: amudalia@vt.edu",
+    "Advisor Email: olanz@vt.edu",
+    "Advisor Email: dtafti@vt.edu",
+    "Advisor Email: bvick@vt.edu",
+    "Advisor Email: scottep@vt.edu",
+    "Advisor Email: tdiller@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:13Z (GMT). No. of bitstreams: 1 dissertation.pdf: 3690390 bytes, checksum: b98dcd030f9028feb41c31bc0407ed24 (MD5)   Previous issue date: 2007-01-23"
+  ],
+  "handle": "26435",
+  "identifier_other": "etd-03152007-144329",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03152007-144329/",
+  "identifier_uri": "http://hdl.handle.net/10919/26435",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Parameter Estimation",
+    "Heat flux",
+    "Contact Resistance",
+    "Phantom Tissue",
+    "Blood Perfusion"
+  ],
+  "title": "Development of a Phantom Tissue for Blood Perfusion Measurements and Noninvasive Blood Perfusion Estimation in Living Tissue",
+  "type": "Dissertation"
+}

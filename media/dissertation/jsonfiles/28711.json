@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Gilmore, Kevin R",
+  "contributor_committeechair": "Love, Nancy G.",
+  "contributor_committeemember": [
+    "Little, John C.",
+    "Stevens, Ann M.",
+    "Smets, Barth F.",
+    "Garland, Jay L."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:15:23Z",
+  "date_adate": "2008-09-17",
+  "date_available": "2014-03-14T20:15:23Z",
+  "date_issued": "2008-08-04",
+  "date_rdate": "2009-09-17",
+  "date_sdate": "2008-08-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Protecting the quality and quantity of our water resources requires advanced treatment technologies capable of removing nutrients from wastewater. This research work investigated the capability of one such technology, a hollow-fiber membrane-aerated biofilm reactor (HFMBR), to achieve completely autotrophic nitrogen removal from a wastewater with high nitrogen content.  Because the extent of oxygenation is a key parameter for controlling the metabolic processes that occur in a wastewater treatment system, the first part of the research investigated oxygen transfer characteristics of the HFMBR in clean water conditions and with actively growing biofilm. A mechanistic model for oxygen concentration and flux as a function of length along the non-porous membrane fibers that comprise the HFMBR was developed based on material properties and physical dimensions. This model reflects the diffusion mechanism of non-porous membranes; namely that oxygen follows a sorption-dissolution-diffusion mechanism. This is in contrast to microporous membranes in which oxygen is in the gas phase in the fiber pores up to the membrane surface, resulting in higher biofilm pore liquid dissolved oxygen concentrations. Compared to offgas oxygen analysis from the HFMBR while in operation with biofilm growing, the model overpredicted mass transfer by a factor of approximately 1.3. This was in contrast to empirical mass transfer coefficient-based methods, which were determined using either bulk aqueous phase dissolved oxygen (DO) concentration or the DO concentration at the membrane-liquid interface, measured with oxygen microsensors. The mass transfer coefficient determined with the DO measured at the interface was the best predictor of actual oxygen transfer under biofilm conditions, while the bulk liquid coefficient underpredicted by a factor of 3. The mechanistic model exhibited sensitivity to parameters such as the initial lumen oxygen concentration (at the entry to the fiber) and the diffusion coefficient and partitioning coefficients of oxygen in the silicone membrane material. The mechanistic model has several advantages over empirical-based methods. Namely, it does not require experimental determination of KL, it is relatively simple to solve without the use of advanced mathematical software, and it is based upon selection of the membrane-biofilm interfacial DO concentration. The last of these is of particular importance when designing and operating HFMBR systems with redox (aerobic/anoxic/anaerobic) stratification, because the DO concentration will determine the nature of the microenvironments, the microorganisms present, and the metabolisms that occur.  During the second phase of the research, the coupling of two autotrophic metabolisms, partial nitrification to nitrite (nitritation) and anaerobic ammonium oxidation, was demonstrated in a single HFMBR. The system successfully treated a high-strength nitrogen wastewater intended to mimic a urine stream from such sources as extended space missions. For the last 250 days of operation, operating with an average oxygen to ammonia flux (JO2/JNH4+) of 3.0 resulted in an average nitrogen removal of 74%, with no external organic carbon added. Control of nitrite-oxidizing bacteria (NOB) presented a challenge that was addressed by maintaining the JO2/JNH4+ below the stoichiometric threshold for complete nitrification to nitrate (4.57 g O2 / g NH4 +). The DO-limiting condition resulted in formation of harmful gaseous emissions of nitrogen oxides (NO, N2O), which could not be prevented by short-term control strategies. Controlling JO2/JNH4+ prevented NOB proliferation long enough to allow an anaerobic ammoniaoxidizing bacteria (AnaerAOB) population to develop and be retained for >250 days. Addition of a supplemental nutrient solution may have contributed to the growth of AnaerAOB by overcoming a possible micronutrient deficiency. Disappearance of the gaseous nitrogen oxide emissions coincided with the onset of anaerobic ammonium oxidation, demonstrating a benefit of coupling these two autotrophic metabolisms in one reactor. Obvious differences in biofilm density were evident across the biofilm depth, with a region of low density in the middle of the biofilm, suggesting that low cell density or exocellular polymeric substances were primarily present in this region, Microbial community analysis using fluorescence in situ hybridization (FISH) did not reveal consistent trends with respect to length along the fibers, but radial stratification of aerobic ammonia-oxidizing bacteria (AerAOB), NOB, and AnaerAOB were visible in biofilm section samples. AerAOB were largely found in the first 25% of the biofilm near the membrane, AnaerAOB were found in the outer 30%, and NOB were found most often in the mid-depth region of the biofilm. This community structure demonstrates the importance of oxygen availability as a determinant of how microbial groups spatially distribute within an HFMBR biofilm.   The combination of these two aspects of the research, predictive oxygen transfer capability and the effect of oxygen control on performance and populations, provides a foundation for future application of HFMBR technology to a broad range of wastewaters and treatment scenarios.",
+  "description_provenance": [
+    "Author Email: kevin.gilmore@bucknell.edu",
+    "Advisor Email: jcl@vt.edu",
+    "Advisor Email: ams@vt.edu",
+    "Advisor Email: bfs@env.dtu.dk",
+    "Advisor Email: jay.l.garland@nasa.gov",
+    "Advisor Email: nglove@umich.edu",
+    "Made available in DSpace on 2014-03-14T20:15:23Z (GMT). No. of bitstreams: 1 KRG_Dissertation_Package_rev3.pdf: 4615089 bytes, checksum: 87528cf162c31528eb9035a37cf72ca6 (MD5)   Previous issue date: 2008-08-04"
+  ],
+  "handle": "28711",
+  "identifier_other": "etd-08182008-093427",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08182008-093427/",
+  "identifier_uri": "http://hdl.handle.net/10919/28711",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "KRG_Dissertation_Package_rev3.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "nitrification",
+    "mass transfer",
+    "modeling",
+    "nitric oxide",
+    "nitrous oxide",
+    "nitrite oxidizing bacteria",
+    "ammonia oxidizing bacteria",
+    "hollow fiber membrane aerated biofilm reactor",
+    "wastewater treatment",
+    "anammox",
+    "oxygen",
+    "anaerobic ammonia oxidation"
+  ],
+  "title": "Treatment of High-Strength Nitrogen Wasetewater With a Hollow-Fiber Membrane-Aerated Biofilm Reactor: A Comprehensive Evaluation",
+  "type": "Dissertation"
+}

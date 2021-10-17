@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Fong, Nga Hin Benjamin",
+  "contributor_committeecochair": [
+    "Sturges, Robert H.",
+    "Shewchuk, John P."
+  ],
+  "contributor_committeemember": [
+    "Robertshaw, Harry H.",
+    "Poon, Ting-Chung",
+    "Chen, Fengshan Frank"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:10:47Z",
+  "date_adate": "2005-04-26",
+  "date_available": "2014-03-14T20:10:47Z",
+  "date_issued": "2005-04-15",
+  "date_rdate": "2005-04-26",
+  "date_sdate": "2005-04-25",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The manufacturing systems operating within todayâ  s global enterprises are invariably dynamic and complicated. Lean manufacturing works well where demand is relatively stable and predictable where product diversity is low. However, we need a much higher agility where customer demand is volatile with high product variety. Frequent changes of product designs need quicker response times in ramp-up to volume. To stay competitive in this 21st century global industrialization, companies must posses a new operation design strategy for responsive manufacturing systems that react to unpredictable market changes as well as to launch new products in a cost-effective and efficient way.   The objective of this research is to develop an alternative method to model, analyze, and design responsive manufacturing systems using classical control theory. This new approach permits industrial engineers to study and better predict the transient behavior of responsive manufacturing systems in terms of production lead time, WIP overshoot, system responsiveness, and lean finished inventory. We provide a one-to-one correspondence to translate manufacturing terminologies from the System Dynamics (SD) models into the block diagram representation and transfer functions. We can analytically determine the transient characteristics of responsive manufacturing systems. This analytical formulation is not offered in discrete event simulation or system dynamics approach. We further introduce the Root Locus design technique that investigates the sensitivity of the closed-loop poles location as they relate to the manufacturing world on a complex s-plane. This subsequent complex plane analysis offers new management strategies to better predict and control the dynamic responses of responsive manufacturing systems in terms of inventory build-up (i.e., leanness) and lead time. We define classical control theory terms and interpret their meanings according to the closed-loop poles locations to assist production management in utilizing the Root Locus design tool. Again, by applying this completely graphic view approach, we give a new design approach that determine the responsive manufacturing parametric set of values without iterative trial-and-error simulation replications as found in discrete event simulation or system dynamics approach.",
+  "description_provenance": [
+    "Author Email: nfong@vt.edu",
+    "Advisor Email: harobert@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: tcpoon@vt.edu",
+    "Advisor Email: ffchen@vt.edu",
+    "Advisor Email: shewchuk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:47Z (GMT). No. of bitstreams: 1 dissertation_fong.pdf: 1139792 bytes, checksum: 49a9c31a19b791e8934ba4e507028992 (MD5)   Previous issue date: 2005-04-15"
+  ],
+  "handle": "27269",
+  "identifier_other": "etd-04252005-122011",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04252005-122011/",
+  "identifier_uri": "http://hdl.handle.net/10919/27269",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_fong.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "System Responsiveness",
+    "Classical Control Theory",
+    "Responsive Manufacturing Systems"
+  ],
+  "title": "Modeling, Analysis,and Design of Responsive Manufacturing Systems Using Classical Control Theory",
+  "type": "Dissertation"
+}

@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Cong, Alexander Xiao",
+  "contributor_committeechair": "Wang, Ge",
+  "contributor_committeemember": [
+    "Xu, Yong",
+    "Santago, Peter",
+    "Wyatt, Chris L",
+    "Rylander, Christopher G"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-02-19T22:40:54Z",
+  "date_available": "2013-02-19T22:40:54Z",
+  "date_issued": "2013-01-25",
+  "degree_discipline": "Computer Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Molecular imaging plays an important role for development of systems biomedicine, which non-invasively extracts pictorial information on physiological and pathological activities at the cellular and molecular levels. Optical molecular tomography is an emerging area of molecular imaging. It locates and quantifies a 3D molecular probe distribution in vivo from data measured on the external surface of a small animal around the visible and infrared range. This approach can facilitate or enable preclinical applications such as cancer studies, involving angiogenesis, tumor growth, cell motility, metastasis, and interaction with a micro-environment. The reconstruction of diffuse light sources is the central task of optical molecular tomography, and generally ill-posed and rather complex. The key element of optical molecular tomography includes the geometrical model, tissue properties, photon characteristics, transport model, and reconstruction algorithm. <br /><br />This dissertation focuses mainly on the development optical molecular tomography methods based on bioluminescence/fluorescence probes to solve some well-known challenges in this field. Our main results are as follows. We developed a new algorithm for estimation of optical parameters based on the phase-approximation model.  Our iterative algorithm takes advantage of both the global search ability of the differential evolution algorithm and the ef\"ciency of the conjugate gradient method. We published the first paper on multispectral bioluminescence tomography (BLT). The multispectral BLT approach improves the accuracy and stability of the BLT reconstruction even if data are highly noisy. We established a well-posed inverse source model for optical molecular tomography. Based on this model, we proposed a differential evolution-based reconstruction algorithm to determine the source locations and strengths accurately and reliably. Furthermore, to enhance the spatial resolution of fluorescence molecular tomography, we proposed fluorescence micro-tomography to image cells in a tissue scaffold based on Monte Carlo simulation on a massive parallel processing architecture. Each of these methods shows better performance in numerical simulation, phantom experiments, and mouse studies than the conventional methods.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-02-19T22:40:54Z (GMT). No. of bitstreams: 1 Cong_A_D_2013.pdf: 2192643 bytes, checksum: d9e48f3de04a2df651240472cd7d340f (MD5)   Previous issue date: 2013-01-25",
+  "format_medium": "ETD",
+  "handle": "19253",
+  "identifier_other": "vt_gsexam:163",
+  "identifier_uri": "http://hdl.handle.net/10919/19253",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Optical molecular imaging",
+    "photon propagation model",
+    "finite element analysis",
+    "inverse source",
+    "reconstruction"
+  ],
+  "title": "Reconstruction Methods for Optical Molecular Tomography",
+  "type": "Dissertation"
+}

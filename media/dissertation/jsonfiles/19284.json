@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Sun, Rui",
+  "contributor_committeechair": "Centeno, Virgilio A",
+  "contributor_committeemember": [
+    "De La Reelopez, Jaime",
+    "Shukla, Sandeep K",
+    "Kohler, Werner E",
+    "Phadke, Arun G",
+    "Thorp, James S"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-03-13T08:00:05Z",
+  "date_available": "2013-03-13T08:00:05Z",
+  "date_issued": "2013-03-12",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "An islanded power system indicates a geographical and logical detach between a portion<br />of a power system and the major grid, and often accompanies with the loss of system<br />observability. A power system islanding contingency could be one of the most severe<br />consequences of wide-area system failures. It might result in enormous losses to both the power utilities and the consumers. Even those relatively small and stable islanding events may largely disturb the consumers\\' normal operation in the island. On the other hand, the power consumption in the U.S. has been largely increasing since 1970s with the respect to the bloom of global economy and mass manufacturing, and the daily increased requirements from the modern customers. Along with the extreme weather and natural disaster factors, the century old U.S. power grid is under severely tests for potential islanding disturbances. After 1980s, the invention of synchronized phasor measurement units (PMU) has broadened the horizon for system monitoring, control and protection. Its real time feature and reliable measurements has made possible many online system schemes. The recent revolution of computers and electronic devices enables the implementation of complex methods (such as data mining methods) requiring large databases in power system analysis. The proposed method presented in this dissertation is primarily focused on two studies: one power system islanding contingency detection, identification, classification and state evaluation algorithm using a decision tree algorithm and topology approach, and its application in Dominion Virginia power system; and one optimal PMU placement strategy using a binary integral programming algorithm with the consideration of system islanding and redundancy issues.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-03-13T08:00:05Z (GMT). No. of bitstreams: 1 Sun_R_D_2013.pdf: 2943998 bytes, checksum: 1e892c739a78afe0f1f627578b3baf28 (MD5)   Previous issue date: 2013-03-12",
+  "format_medium": "ETD",
+  "handle": "19284",
+  "identifier_other": "vt_gsexam:145",
+  "identifier_uri": "http://hdl.handle.net/10919/19284",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "islanding",
+    "detection & identification",
+    "state evaluation",
+    "wide area measurements",
+    "data mining",
+    "decision trees."
+  ],
+  "title": "Wide Area System Islanding Detection, Classification, and State Evaluation Algorithm",
+  "type": "Dissertation"
+}

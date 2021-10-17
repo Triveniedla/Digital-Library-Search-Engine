@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Janeski, John",
+  "contributor_committeechair": [
+    "Hall, Christopher D",
+    "Scales, Wayne A"
+  ],
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Earle, Gregory D"
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2013-10-25T08:00:12Z",
+  "date_available": "2013-10-25T08:00:12Z",
+  "date_issued": "2013-10-24",
+  "degree_discipline": "Aerospace Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Electrodynamic tethers have a wide range of proposed applications in the fields of satellite propulsion and space plasma research. The fundamental purpose of this dissertation is to improve the understanding of the behavior of an electrodynamic tether (EDT) system in Earth's ionosphere.  An electrodynamic tether system consists of two satellites connected by a long tether that generates current to produce either power or thrust via the system's electromagnetic interaction with the space environment. Previous electrodynamic tether investigations decouple the interaction between the tether and the constantly changing plasma environment.  The limiting factor inhibiting the development of a full system model that has an accurate characterization of the tether/plasma interaction is that the understanding of that interaction is not well developed over a wide range of system parameters. The EDT system model developed in this study uses a high fidelity dynamics model that includes a tether current described by an analytical current collection model whose plasma parameters are determine by the International Reference Ionosphere. It is first shown that new instabilities are induced in the system dynamics under a basic analytical current model versus a constant current model.   A 2-D3$v$ Particle-in-Cell (PIC) code has been developed to study the plasma dynamics near a positively charged EDT system end-body and their impact on the current collected.  Simulations are run over a range of system parameters that occur throughout a LEO orbit. The azimuthal current structures observed during the TSS-1R mission are found to enhance the current collected by the satellite when the magnetic field is slightly off of perpendicular to the orbital velocity. When the in-plane component of the magnetic field becomes large, the electrons are not able to easily cross the field lines causing plasma lobes form above and below the satellite. The lobes limit the current arriving to the satellite and also cause an enhanced wake to develop.  A high satellite bias causes a stable bow-shock structure to form in the ram region of the satellite, which limits the number of electrons entering the sheath region and thus limiting the current collected. Electron-neutral collisions are found to destabilize the bow-shock structure and remove its current limiting effects. Additionally, as the magnetization of the plasma is increased, the current becomes limited by the charged particle's inability to cross magnetic field lines. Analytical curve fits based on the simulation results are presented that characterize the dependence of the average current collected on the local magnetic field orientations, space plasma magnetization and satellite potential.  The results from the PIC simulations characterizing the magnetic field's influence on the tether's current are incorporated into the system dynamics model to study the behavior of the EDT system over a range of inclinations.  The magnetic field is found to limit the diurnal variations in the current collected by the system throughout its orbit. As the inclination of the system's orbit is increased, the impact of the magnetic field becomes more pronounced as its orientation sweeps through a larger range of angles. The impact of the magnetic field on the collected current is, therefore, found to limit the ability of an EDT system to boost the system's orbit as the orbit's inclination is increased. In summary, new system dynamics have been observed due to the previously unobserved behavior of the current over a range of end-body configurations.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-25T08:00:12Z (GMT). No. of bitstreams: 1 Janeski_J_D_2013.pdf: 18063799 bytes, checksum: f335ae50c7104c8df9cc231a4202741b (MD5)   Previous issue date: 2013-10-24",
+  "format_medium": "ETD",
+  "handle": "23922",
+  "identifier_other": "vt_gsexam:1693",
+  "identifier_uri": "http://hdl.handle.net/10919/23922",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Electrodynamic Tether",
+    "Current Collection",
+    "Spacecraft Charging",
+    "Particle-In-Cell Simulations"
+  ],
+  "title": "Dynamics of an Electrodynamic Tether System in a Varying Space-Plasma Environment",
+  "type": "Dissertation"
+}

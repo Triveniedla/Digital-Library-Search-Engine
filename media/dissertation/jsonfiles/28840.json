@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Templeton, Brian Andrew",
+  "contributor_committeechair": "Ahmadian, Mehdi",
+  "contributor_committeecochair": "Southward, Steve C.",
+  "contributor_committeemember": [
+    "Woolsey, Craig A.",
+    "Leo, Donald J.",
+    "Sandu, Adrian"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:15:50Z",
+  "date_adate": "2009-09-11",
+  "date_available": "2014-03-14T20:15:50Z",
+  "date_issued": "2009-08-17",
+  "date_rdate": "2009-09-11",
+  "date_sdate": "2009-08-31",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A method utilizing H2 control concepts and the numerical method of Polynomial Chaos was developed in order to create a novel robust probabilistically optimal control approach. This method was created for the practical reason that uncertainty in parameters tends to be inherent in system models. As such, the development of new methods utilizing probability density functions (PDFs) was desired.  From a more theoretical viewpoint, the utilization of Polynomial Chaos for studying and designing control systems has not been very thoroughly investigated. The current work looks at expanding the H2 and related Linear Quadratic Regulator (LQR) control problems for systems with parametric uncertainty. This allows solving deterministic linear equations that represent probabilistic linear differential equations. The application of common LTI (Linear Time Invariant) tools to these expanded systems are theoretically justified and investigated. Examples demonstrating the utilized optimization process for minimizing the H2 norm and parallels to LQR design are presented.  The dissertation begins with a thorough background section that reviews necessary probability theory. Also, the connection between Polynomial Chaos and dynamic systems is explained. Next, an overview of related control methods, as well as an in-depth review of current Polynomial Chaos literature is given. Following, formal analysis, related to the use of Polynomial Chaos, is provided. This lays the ground for the general method of control design using Polynomial Chaos and H2. Then an experimental section is included that demonstrates controller synthesis for a constructed probabilistic system. The experimental results lend support to the method.",
+  "description_provenance": [
+    "Author Email: batemple@vt.edu",
+    "Advisor Email: cwoolsey@vt.edu",
+    "Advisor Email: donleo@vt.edu",
+    "Advisor Email: sandu@cs.vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:50Z (GMT). No. of bitstreams: 1 Templeton_BA_D_2009.pdf: 11332500 bytes, checksum: 29c5360fa3033edee364853b10407e13 (MD5)   Previous issue date: 2009-08-17"
+  ],
+  "handle": "28840",
+  "identifier_other": "etd-08312009-163449",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08312009-163449/",
+  "identifier_uri": "http://hdl.handle.net/10919/28840",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Templeton_BA_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Parametric Uncertainty",
+    "Polynomial Chaos",
+    "Optimal Control",
+    "Robust Control",
+    "Control Design"
+  ],
+  "title": "A Polynomial Chaos Approach to Control Design",
+  "type": "Dissertation"
+}

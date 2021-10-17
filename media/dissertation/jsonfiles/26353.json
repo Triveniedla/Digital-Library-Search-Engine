@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Li, Yanfeng",
+  "contributor_committeechair": "Terpenny, Janis P.",
+  "contributor_committeemember": [
+    "Sarin, Subhash C.",
+    "Sahin-Sariisik, Asli",
+    "Koelling, Charles Patrick"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:07:57Z",
+  "date_adate": "2010-04-15",
+  "date_available": "2014-03-14T20:07:57Z",
+  "date_issued": "2010-02-22",
+  "date_rdate": "2012-09-18",
+  "date_sdate": "2010-03-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The application of product families and platforms has gained attention as a promising approach to achieving organizational objectives that provide customers with mass customized products while allowing for significant savings from commonality and reuse strategies. While the single-platform strategy has been widely studied, it may lead to the over expansion of the product family. Designers have to either continuously extend the exiting platform and/or impose strict constraints on new variants in order that there is a fit. On the one hand, continuously â  extendingâ   or â  stretchingâ   the platform forces the platform to become overburdened and less efficient. On the other hand, imposing strict constraints on new variants will force new variants to compromise performances. <p> In this research, the concept of a multi-platform strategy has been put forward to reduce or eliminate negative effects of the single-platform strategy by coordinating products in a complex product family into two or more platforms to provide enough product variety as well as commonality. The method is developed by adopting and synthesizing various tools and concepts from different research areas, such as design management tools, clustering analysis, statistics, decision analysis, mathematical programming, and engineering costing.  The product assets that can be shared by the products are determined through product asset value analysis and redesign effort analysis. The number of platforms is flexibly determined by a hierarchical clustering method based on product similarity/dissimilarity. The product-platform assignment problem is simultaneously solved during the clustering process. A multi-objective optimization model is formulated to determine the design specifications and address the product positioning. A Consistent Aggregate Function Formation Method (CAF2M) is put forward to convert the multi-objective optimization model into a single-dimension problem that can quantitatively balance the tradeoff among the multiple objectives. To evaluate the economic benefit from the platform-based product development, an adjusted Activity-Based Costing approach is utilized to identify the cost savings with the consideration of learning effects.     A case application with seven automobile models is utilized to illustrate the proposed multi-platform strategy. The method was found helpful for determining and integrating critical design information into the design of product families and platforms.",
+  "description_provenance": [
+    "Author Email: liyf@vt.edu",
+    "Advisor Email: sarins@vt.edu",
+    "Advisor Email: asahin@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: terpenny@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:57Z (GMT). No. of bitstreams: 1 Li_Yanfeng_D_2010.pdf: 1510925 bytes, checksum: a95208445242121b1b60ecf6024df57b (MD5)   Previous issue date: 2010-02-22"
+  ],
+  "handle": "26353",
+  "identifier_other": "etd-03032010-231532",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03032010-231532/",
+  "identifier_uri": "http://hdl.handle.net/10919/26353",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Li_Yanfeng_D_2010.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Costing",
+    "Optimization",
+    "Product Design",
+    "Platform"
+  ],
+  "title": "Multi-platform strategy and product family design",
+  "type": "Dissertation"
+}

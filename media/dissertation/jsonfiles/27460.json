@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Pan, Zhengzheng",
+  "contributor_committeechair": "Giles, Robert H. Jr.",
+  "contributor_committeemember": [
+    "Ashley, Richard A.",
+    "Ge, Suqin",
+    "Haller, Hans H.",
+    "Orden, David R."
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2014-03-14T20:11:19Z",
+  "date_adate": "2009-05-28",
+  "date_available": "2014-03-14T20:11:19Z",
+  "date_issued": "2009-04-24",
+  "date_rdate": "2009-05-28",
+  "date_sdate": "2009-04-30",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "I study information dissemination and opinion formation in a framework of evolving social networks. Individuals take weighted averages repeatedly to update their opinions. They also update their assessments on others' opinions, represented by an influence weight matrix. It is proven that both opinions and the influence weights are convergent. In the steady state, consensus is reached where all individuals hold the same opinion. Convergence occurs with an extended model as well, which indicates the tremendous influential power possessed by a minority group. Then I impose a dual network structure, where individuals not only collect information, but also use the information to play a coordination game with a selected group of opponents that one is connected with. All individuals update their strategies based on a naive learning process within a separate influence network in which information is disseminated. The selection of opponents also gets updated over time. I calculate the critical values of costs associated with connections for different network structures and strategies to occur in the steady state. Finally, I investigate the outcomes of social learning under various exogenous network structures. Individuals use an algorithm that takes into account both proximity of opinions and impact of neighbors. Results also show consensus, with convergence speed correlated with the network structure. In addition, an endogenous network formation in two stages that utilizes network and distance between agents' opinions is proposed. The resulting networks show power-law patterns in degree distribution.",
+  "description_provenance": [
+    "Author Email: zzpan@vt.edu",
+    "Advisor Email: ashleyr@vt.edu",
+    "Advisor Email: ges@vt.edu",
+    "Advisor Email: rgilles@vt.edu",
+    "Advisor Email: haller@vt.edu",
+    "Advisor Email: orden@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:19Z (GMT). No. of bitstreams: 1 Dissertation_PAN09.pdf: 1189859 bytes, checksum: 54c443bd4a39325fcbb2aa97a5ecee1e (MD5)   Previous issue date: 2009-04-24"
+  ],
+  "handle": "27460",
+  "identifier_other": "etd-04302009-020951",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04302009-020951/",
+  "identifier_uri": "http://hdl.handle.net/10919/27460",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_PAN09.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "social learning",
+    "evolving networks",
+    "consensus",
+    "coordination",
+    "simulation"
+  ],
+  "title": "Learning, Game Play, and Convergence of Behavior in Evolving Social Networks",
+  "type": "Dissertation"
+}

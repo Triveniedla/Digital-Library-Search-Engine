@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Li, Yong",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Chen, Dan Y.",
+    "Boroyevich, Dushan",
+    "Lai, Jason",
+    "Lu, Guo-Quan"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:34Z",
+  "date_adate": "2002-04-18",
+  "date_available": "2014-03-14T20:09:34Z",
+  "date_issued": "2002-03-29",
+  "date_rdate": "2003-04-18",
+  "date_sdate": "2002-04-14",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation is devoted to a unified and comprehensive study of zero-current-transition (ZCT) soft-switching techniques for high-power three-phase PWM inverter applications. Major efforts in this study are as follows: 1) Conception of one new ZCT scheme and one new ZCT topology; 2) Systematic comparison of a family of ZCT inverters; 3) Design, implementation and experimental evaluation of two 55-kW prototype inverters for electric vehicle (EV) motor drives that are developed based on the proposed ZCT concepts; and 4) Investigation of the ZCT concepts in megawatts high-frequency power conversions. The proposed ZCT techniques are also applicable to three-phase power-factor-correction (PFC) rectifiers.  In order to minimize switching losses, this work first proposes a new control scheme for an existing three-phase ZCT inverter circuit that uses six auxiliary switches. The proposed scheme, called the six-switch ZV/ZCT, enables all main switches, diodes and auxiliary switches to be turned off under zero-current conditions, and in the meantime provides an opportunity to achieve zero-voltage turn-on for the main switches. Meanwhile, it requires no modification to normal PWM algorithms. Compared with existing ZCT schemes, the diode reverse-recovery current is reduced significantly, the switching turn-on loss is reduced by 50%, the resonant capacitor voltage stress is reduced by 30%, and the current and thermal stresses in the auxiliary switches are evenly distributed.   However, a big drawback of the six-switch ZV/ZCT topology, as well as of other types of soft-switching topologies using six auxiliary switches, is the high cost and large space associated with the auxiliary switches. To overcome this drawback, this work further proposes a new three-phase ZCT inverter topology that uses only three auxiliary switches-- the three-switch ZCT. The significance of the proposed three-switch ZCT topology is that, among three-phase soft-switching inverters developed so far, this is the only one that uses fewer than six auxiliary switches and still has the following three features: 1) soft commutation for all main switches, diodes and auxiliary switches in all operation modes; 2) no modification to normal PWM algorithms; and 3) in practical implementations, no need for extra resonant current sensing, saturable cores, or snubbers to protect the auxiliary switches.   The proposed six-switch ZV/ZCT and three-switch ZCT inverters, together with existing ZCT inverters, constitute a family of three-phase ZCT inverters. To explore the fundamental properties of these inverters, a systematic comparative study is conducted. A simplified equivalent circuit is developed to unify common traits of ZCT commutations. With the visual aid of state planes, the evolution of the family of ZCT inverters is examined, and their differences and connections are identified. Behaviors of individual inverters, including switching conditions, circulating energy, and device/component stresses, are compared.  Based on the proposed six-switch ZV/ZCT and three-switch ZCT techniques, two 55-kW prototype inverters for EV traction motor drives have been built and tested to the full-power level with a closed-loop controlled induction motor dynamometer. The desired ZCT soft-switching features are realized together with motor drive functions. A research effort is carried out to develop a systematic and practical design methodology for the ZCT inverters, and an experimental evaluation of the ZCT techniques in the EV motor drive application is conducted. The design approach integrates system optimization with characterizations of the main IGBT device under the ZCT conditions, selection, testing and characterization of the auxiliary devices, design and selection of the resonant inductors and capacitors, inverter loss modeling and numerical analysis, system-level operation aspects, and layout and parasitic considerations. Different design aspects between these two ZCT inverters are compared and elaborated. The complexity of the 55-kW prototype implementations is compared as well. Efficiencies are measured and compared under a group of torque/speed points for typical EV drive cycles.  Megawatts high-frequency power conversion is another potential application of the ZCT techniques. The integrated gate commutated thyristor (IGCT) device is tested and characterized under the proposed six-switch ZV/ZCT condition, and the test shows promising results in reducing switching losses and stresses. Improvements in the IGCT switching frequency and simplification of the cooling requirements under ZCT operations are discussed. In addition, a generalized ZCT cell concept is developed based on the proposed three-switch ZCT topology. This concept leads to the discovery of a family of simplified multilevel soft-switching inverters that reduce the number of auxiliary switches by half, and still maintain desirable features.",
+  "description_provenance": [
+    "Author Email: yongli@vpec.vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: gqlu@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:34Z (GMT). No. of bitstreams: 1 Yongli_PhD_update.pdf: 6288057 bytes, checksum: 0cf63396544e892ff0874fa089b8f936 (MD5)   Previous issue date: 2002-03-29"
+  ],
+  "handle": "26843",
+  "identifier_other": "etd-04142002-024444",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04142002-024444/",
+  "identifier_uri": "http://hdl.handle.net/10919/26843",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Yongli_PhD_update.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "motor drives",
+    "zero-current transition",
+    "soft switching",
+    "three-phase PWM inverters"
+  ],
+  "title": "Unified zero-current-transition techniques for high-power three-phase PWM inverters",
+  "type": "Dissertation"
+}

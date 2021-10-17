@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Monajemy, Ramin",
+  "contributor_committeechair": "Ramu, Krishnan",
+  "contributor_committeemember": [
+    "Matheson, Lance Arthur",
+    "VanLandingham, Hugh F.",
+    "Nunnally, Charles E.",
+    "Baumann, William T."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2011-08-22T19:05:34Z",
+  "date_adate": "2000-10-30",
+  "date_available": "2011-08-22T19:05:34Z",
+  "date_issued": "2000-06-27",
+  "date_rdate": "2001-10-30",
+  "date_sdate": "2000-10-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Variable speed motor drives are being rapidly deployed for a vast range of applications in order to increase efficiency and to allow for a higher level of control over the system.  One of the important areas within the field of variable speed motor drives is the system's operational boundary.  Presently, the operational boundaries of variable speed motor drives are set based on the operational boundaries of single speed motors, i.e. by limiting current and power to rated values.  This results in under-utilization of the system, and places the motor at risk of excessive power losses.  The constant power loss (CPL) concept is introduced in this dissertation as the correct basis for setting and analyzing the operational boundary of variable speed motor drives.  The control and dynamics of the permanent magnet synchronous motor (PMSM) drive operating with CPL are proposed and analyzed.  An innovative implementation scheme of the proposed method is developed.  It is shown that application of the CPL control system to existing systems results in faster dynamics and higher utilization of the system.  The performance of a motor drive with different control strategies is analyzed and compared based on the CPL concept.  Such knowledge allows for choosing the control strategy that optimizes a motor drive for a particular application.  Derivations for maximum speed, maximum current requirements, maximum torque and other performance indices, are presented based on the CPL concept.  High performance drives require linearity in torque control for the full range of operating speed.  An analysis of concurrent flux weakening and linear torque control for PMSM is presented, and implementation strategies are developed for this purpose.  Implementation strategies that compensate for the variation of machine parameters are also introduced.  A new normalization technique is introduced that significantly simplifies the analysis and simulation of a PMSM drive's performance.  The concepts presented in this dissertation can be applied to all other types of machines used in high performance applications.  Experimental work in support of the key claims of this dissertation is provided.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:05:34Z (GMT). No. of bitstreams: 1  MASTER.pdf: 1402027 bytes, checksum: 8514f071f8ba3b16909a20fb6a2ef796 (MD5)    Previous issue date: 2000-06-27",
+    "Author Email: rmona@vt.edu",
+    "Advisor Email: lance@vt.edu",
+    "Advisor Email: hugh@vt.edu",
+    "Advisor Email: kramu@vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11247",
+  "identifier_other": "etd-10242000-20300005",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10242000-20300005",
+  "identifier_uri": "http://hdl.handle.net/10919/11247",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "MASTER.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "control strategies",
+    "power losses",
+    "PMSM",
+    "motor drives",
+    "operational boundary"
+  ],
+  "title": "Control Strategies and Parameter Compensation for Permanent Magnet Synchronous Motor Drives",
+  "type": "Dissertation"
+}

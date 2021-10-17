@@ -1,0 +1,47 @@
+{
+  "contributor_author": "He, Nannan",
+  "contributor_committeechair": "Hsiao, Michael S.",
+  "contributor_committeemember": [
+    "Abbott, A. Lynn",
+    "Yang, Yaling",
+    "Mackenzie, Allen B.",
+    "Arthur, James D.",
+    "Gao, David Y."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:11:58Z",
+  "date_adate": "2009-06-01",
+  "date_available": "2014-03-14T20:11:58Z",
+  "date_issued": "2009-05-01",
+  "date_rdate": "2009-06-01",
+  "date_sdate": "2009-05-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p> Conventional testing has become inadequate to satisfy rigorous reliability requirements of embedded software that is playing an increasingly important role in many safety critical applications.  Automatic formal verification is a viable avenue for ensuring the reliability of such software. Recently, more and more formal verification techniques have begun modeling a non-Boolean data variable as a bit-vector with bounded width (i.e. a vector of multiple bits like 32- or 64- bits) to implement bit-precise verification.  One major challenge in the scalable application of such bit-precise verification on real- world embedded software is that the state space for verification can be intractably large. </p> <p>   In this dissertation, several abstraction techniques are explored to deal with this scalability challenge in the bit-precise verification of embedded software. First, we propose a tight integration of program slicing, which is an important static program analysis technique, with bounded model checking (BMC). While many software verification tools apply program slicing as a separate preprocessing step, we integrate slicing operations into our model construction and reduction process and enhance them with compilation optimization techniques to compute accurate program slices. We also apply a proof-based abstraction-refinement framework to further remove those program segments irrelevant to the property being verified.   Next, we present a method of using symbolic simulation for scalable formal verification. The simulation involves distinguishing X as symbolic values to abstract concrete variablesâ   values. Also, the method embeds this symbolic simulation in a counterexample-guided abstraction-refinement framework to automatically construct and verify an abstract model, which has a smaller state space than that of the original concrete program. </p> <p>  This dissertation also presents our efforts on using two common testability metrics â   controllability metric (CM) and observability metric (OM) â   as the high-level structural guidance for scalable bit-precise verification. A new abstraction approach is proposed based on the concept of under- and over-approximation to efficiently solve bit-vector formulas generated from embedded software verification instances. These instances include both complicated arithmetic computations and intensive control structures. Our approach applies CM and OM to assist the abstraction refinement procedure in two ways: (1) it uses CM and OM to guide the construction of a simple under-approximate model, which includes only a subset of execution paths in a verification instance, so that a counterexample that refutes the instance can be obtained with reduced effort, and (2) in order to reduce the cost of using proof-based refinement alone, it uses OM heuristics to guide the restoration of additional verification-relevant formula constraints with low computational cost for refinement. Experiments show a significant reduction of the solving time compared to state-of-the-art solvers for the bit-vector arithmetic. </p> <p>  This dissertation finally proposes an efficient algorithm to discover non-uniform encoding widths of individual variables in the verification model, which may be smaller than their original modeling width but sufficient for the verification. Our algorithm distinguishes itself from existing approaches in that it is path-oriented; it takes advantage of CM and OM values to guide the computation of the initial, non-uniform encoding widths, and the effective adjustment of these widths along different paths, until the property is verified. It can restrict the search from those paths that are deemed less favorable or have been searched in previous steps, thus simplifying the problem. Experiments demonstrate that our algorithm can significantly speed up the verification especially in searching for a counterexample that violates the property under verification.</p>",
+  "description_provenance": [
+    "Author Email: nhe@vt.edu",
+    "Advisor Email: abbott@vt.edu",
+    "Advisor Email: yyang8@vt.edu",
+    "Advisor Email: mackenab@vt.edu",
+    "Advisor Email: arthur@vt.edu",
+    "Advisor Email: hsiao@vt.edu",
+    "Advisor Email: gao@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:58Z (GMT). No. of bitstreams: 1 dissertation_nannan.pdf: 2170894 bytes, checksum: 46991d9894e7d88d6d497e6dc94ab845 (MD5)   Previous issue date: 2009-05-01"
+  ],
+  "handle": "27683",
+  "identifier_other": "etd-05122009-103206",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05122009-103206/",
+  "identifier_uri": "http://hdl.handle.net/10919/27683",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation_nannan.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bounded Model Checking",
+    "Program Analysis",
+    "Abstraction and Refinement",
+    "SAT"
+  ],
+  "title": "Exploring Abstraction Techniques for Scalable Bit-Precise Verification of Embedded Software",
+  "type": "Dissertation"
+}

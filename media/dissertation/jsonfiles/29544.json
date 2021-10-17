@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Mahmoud, Mahmoud A",
+  "contributor_committeechair": "Woodall, William H.",
+  "contributor_committeemember": [
+    "Birch, Jeffrey B.",
+    "Vining, G. Geoffrey",
+    "Reynolds, Marion R. Jr.",
+    "Smith, Eric P."
+  ],
+  "contributor_department": "Statistics",
+  "date_accessioned": "2014-03-14T20:18:27Z",
+  "date_adate": "2004-11-17",
+  "date_available": "2014-03-14T20:18:27Z",
+  "date_issued": "2004-11-10",
+  "date_rdate": "2004-11-17",
+  "date_sdate": "2004-11-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The Phase I analysis of data when the quality of a process or product is characterized by a linear function is studied in this dissertation.  It is assumed that each sample collected over time in the historical data set consists of several bivariate observations for which a simple linear regression model is appropriate, a situation common in calibration applications. Using a simulation study, the researcher compares the performance of some of the recommended approaches used to assess the stability of the process.  Also in this dissertation, a method based on using indicator variables in a multiple regression model is proposed.    This dissertation also proposes a change point approach based on the segmented regression technique for testing the constancy of the regression parameters in a linear profile data set. The performance of the proposed change point method is compared to that of the most effective Phase I linear profile control chart approaches using a simulation study. The advantage of the proposed change point method over the existing methods is greatly improved detection of sustained step changes in the process parameters.   Any control chart that combines sample information over time, e.g., the cumulative sum (CUSUM) chart and the exponentially weighted moving average (EWMA) chart, has an ability to detect process changes that varies over time depending on the past data observed.  The chart statistics can take values such that some shifts in the parameters of the underlying probability distribution of the quality characteristic are more difficult to detect.  This is referred to as the \"inertia problem\" in the literature. This dissertation shows under realistic assumptions that the worst-case run length performance of control charts becomes as informative as the steady-state performance. Also this study proposes a simple new measure of the inertial properties of control charts, namely the signal resistance. The conclusions of this study support the recommendation that Shewhart limits should be used with EWMA charts, especially when the smoothing parameter is small.  This study also shows that some charts proposed by Pignatiello and Runger (1990) and Domangue and Patch (1991) have serious disadvantages with respect to inertial properties.",
+  "description_provenance": [
+    "Author Email: mamahmou@vt.edu",
+    "Advisor Email: jbbirch@vt.edu",
+    "Advisor Email: vining@vt.edu",
+    "Advisor Email: mrr@vt.edu",
+    "Advisor Email: epsmith@vt.edu",
+    "Advisor Email: bwoodall@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:27Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 1125497 bytes, checksum: 193a647780fe55cb9ea4bfb2f7c356a2 (MD5)   Previous issue date: 2004-11-10"
+  ],
+  "handle": "29544",
+  "identifier_other": "etd-11122004-212051",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-11122004-212051/",
+  "identifier_uri": "http://hdl.handle.net/10919/29544",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Segmented regression",
+    "Likelihood ratio",
+    "Statistical process control",
+    "Calibration",
+    "Multivariate charts",
+    "Functional data"
+  ],
+  "title": "The Monitoring of Linear Profiles and the Inertial Properties of Control Charts",
+  "type": "Dissertation"
+}

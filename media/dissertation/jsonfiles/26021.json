@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Lin, Ta-Cheng",
+  "contributor_committeechair": "Cyre, Walling R.",
+  "contributor_committeemember": [
+    "Gray, Festus Gail",
+    "Kafura, Dennis G.",
+    "Armstrong, James R.",
+    "Abbott, A. Lynn"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:06:49Z",
+  "date_adate": "1999-01-21",
+  "date_available": "2014-03-14T20:06:49Z",
+  "date_issued": "1998-12-01",
+  "date_rdate": "1999-01-21",
+  "date_sdate": "1999-01-21",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The transistor count for todays VLSI technology reaches 40 million transistors on one chip. In order to successfully design a system with such complexity, new computer-aided design (CAD) tools are needed. This dissertation shows approaches for coping with the problem of increasing complexity of VLSI design in three aspects: 1) capturing a higher level of abstraction, 2) using a new target architecture, and 3) using a new optimization technique. <p> The advantage of working at a higher level of abstraction is that the number of objects that designers have to manipulate is reduced so that more complex systems can be delivered in shorter periods of time. The functions that can be used to capture higher levels of abstraction are surveyed and categorized into an is-a hierarchy. A partitioned-bus architecture that consists of complex functional units used to realize complex functions is proposed. The issues of synthesizing the complex functions to the partitioned-bus architecture are addressed. These issues are focused on the functional partitioning problem which is a known NP-complete problem. Algorithms used to optimize several metrics that affect the solution qualities of functional partitioning are presented. The metrics include communication buffer size, register file size, system delay, the number of buses, the number of links, and the number of multiplexers. These metrics are used to form a cost function, which is utilized by the Problem Space Genetic Partitioning algorithm (PSGP) to search for a good solution. Test cases with known optimal solutions are used to evaluate the solution qualities that PSGP can attain under run time and memory space constraints. The experimental results show that PSGP can reach  an average about 87% of the optima for two-way partitioning. Another study also shows that PSGP outperforms the widely used Simulated Annealing algorithm.",
+  "description_provenance": [
+    "Author Email: tclin1998@hotmail.com",
+    "Advisor Email: cyre@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:06:49Z (GMT). No. of bitstreams: 4 LINVITA.PDF: 4211 bytes, checksum: cdf3988d8685a4d4fdfe436d17e6a0f9 (MD5) Contents.pdf: 477157 bytes, checksum: 014a5f67a3332445a754c1611db9a172 (MD5) Title.pdf: 5240 bytes, checksum: 182297d6f8fd7804998761f3b95f6a48 (MD5) Toc.pdf: 15690 bytes, checksum: 9e41274c80313de67102b7486d070e63 (MD5)   Previous issue date: 1998-12-01"
+  ],
+  "handle": "26021",
+  "identifier_other": "etd-012199-181338",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-012199-181338/",
+  "identifier_uri": "http://hdl.handle.net/10919/26021",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "LINVITA.PDF",
+    "Contents.pdf",
+    "Title.pdf",
+    "Toc.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Digital System Synthesis",
+    "Genetic Algorithm",
+    "Communication Buffer",
+    "Partitioned-Bus Architecture",
+    "Complex Functional Unit"
+  ],
+  "title": "Digital System Synthesis with Complex Functional Units",
+  "type": "Dissertation"
+}

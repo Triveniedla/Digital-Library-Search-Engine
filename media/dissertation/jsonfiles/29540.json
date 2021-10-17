@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Jilani, Adel Benhaj",
+  "contributor_committeechair": "Hyer, Michael W.",
+  "contributor_committeemember": [
+    "Hendricks, Scott L.",
+    "Renardy, Yuriko Y.",
+    "Hajj, Muhammad R.",
+    "Librescu, Liviu"
+  ],
+  "contributor_department": "Engineering Mechanics",
+  "date_accessioned": "2014-03-14T20:18:26Z",
+  "date_adate": "2000-01-06",
+  "date_available": "2014-03-14T20:18:26Z",
+  "date_issued": "1999-11-11",
+  "date_rdate": "2001-01-06",
+  "date_sdate": "1999-11-11",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In the past few years a new class of layered piezoceramic and piezoceramic-composite actuators, known as RAINBOW and GRAPHBOW, respectively, that are capable of achieving 100 times greater out-of-plane displacements than previously available has been developed. Prior to the development of RAINBOW and GRAPHBOW, large stacks of piezoelectric actuators, requiring complicated electronic drive circuits, were necessary to achieve the displacement now possible through the use of a single RAINBOW actuator. The major issues with both RAINBOW and GRAPHBOW are the prediction of their room-temperature shapes after processing, and their deformation response under application of electric field. In this research, a methodology for predicting the manufactured shapes of rectangular and disk-style RAINBOW and GRAPHBOW is developed. All of the predictive analyses developed are based on finding approximate displacement responses that minimize the total potential energy of the devices through the use of variational methods and the Rayleigh-Ritz technique. These analyses are based on classical layered plate theory and assumed the various layers exhibited linear elastic, temperature-independent behavior. Geometric nonlinearities are important and are included in the strain-displacement relations. Stability of the predicted shapes  is determined by examining the second variation of the total potential energy. These models are easily modified to account for the deformations induced by actuation of the piezoceramic. The results indicate that for a given set of material properties, rectangular RAINBOW  can have critical values of sidelength-to-thickness ratio (Lx/H or Ly/H) below which RAINBOW  exhibits unique, or single-valued, spherical or domed shapes when cooled from the processing temperature to room temperature. For values of sidelength-to-thickness ratio greater than the critical value, RAINBOW exhibits multiple room-temperature shapes. Two of the shapes are stable and are, in general, near-cylindrical. The third shape is spherical and is unstable. Similarly, disk-style RAINBOW can have critical values of radius-to-thickness ratios (R/H) below which RAINBOW exhibits axisymmetric room-temperature shapes. For values of R/H greater than the critical value, disk-style RAINBOW exhibits two stable near-cylindrical shapes and one unstable axisymmetric shape. Moreover, it is found that for the set of material properties used in this study, the optimal reduced layer thickness would be at 55%, since the maximum change in curvature is achieved under the application of an electric field, while the relationship between the change in curvatures and the electric field is kept very close to being linear. In general, good agreement is found for comparisons between the predicted and manufactured shapes of RAINBOW. A multi-step thermoelastic analysis is developed to model the addition of the fiber-reinforced composite layer to RAINBOW to make GRAPHBOW. Results obtained for rectangular RAINBOW indicate that if the bifurcation temperature in the temperature-curvature relation is lower than the composite cure temperature, then a unique stable GRAPHBOW shape can be obtained. If the RAINBOW bifurcation temperature is above the composite cure temperature, multiple room-temperature GRAPHBOW shapes are obtained and saddle-node bifurcations can be encountered during the cooling to room temperature of [0Â°/RAINBOW], [RAINBOW/0o], and [0o2/RAINBOW]. Rectangular  [RAINBOW/0o/90o] seems to be less likely to encounter saddle-node bifurcations. Furthermore, the unstable spherical RAINBOW configuration is converted to a stable near-cylindrical configuration. For the case considered of disk-style GRAPHBOW, three stable room-temperature shapes are obtained and the unstable axisymmetric RAINBOW configuration is also converted to a stable near-cylindrical configuration. For both rectangular and disk-style GRAPHBOW, the relationship between the major curvature and the electric field is shown to be very close to being linear. This characteristic would aid any dynamic analysis of RAINBOW or GRAPHBOW.",
+  "description_provenance": [
+    "Author Email: ajilani@vt.edu",
+    "Advisor Email: hndrxsl@vt.edu",
+    "Advisor Email: renardyy@yuriko.narnia.math.vt.edu",
+    "Advisor Email: mhajj@vt.edu",
+    "Advisor Email: librescu@vt.edu",
+    "Advisor Email: hyerm@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:18:26Z (GMT). No. of bitstreams: 1 Dissertation.pdf: 11417664 bytes, checksum: 9b3939173aaf343b5539195707e7faa5 (MD5)   Previous issue date: 1999-11-11"
+  ],
+  "handle": "29540",
+  "identifier_other": "etd-111199-214954",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-111199-214954/",
+  "identifier_uri": "http://hdl.handle.net/10919/29540",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known. I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Rayleigh-Ritz Method",
+    "Benders",
+    "Stability",
+    "Fiber-Reinforced Composites",
+    "Geometric Nonlinearities",
+    "Thermal Effects"
+  ],
+  "title": "Deformations of Piezoceramic-Composite Actuators",
+  "type": "Dissertation"
+}

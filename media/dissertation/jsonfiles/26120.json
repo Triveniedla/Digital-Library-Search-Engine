@@ -1,0 +1,53 @@
+{
+  "contributor_author": "Hildreth, John C.",
+  "contributor_committeechair": "Vorster, Michael C.",
+  "contributor_committeemember": [
+    "de la Garza, Jesus M.",
+    "Songer, Anthony D.",
+    "Dymond, Randel L.",
+    "Martinez, Julio C.",
+    "Ahmadian, Mehdi"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:07:09Z",
+  "date_adate": "2003-03-05",
+  "date_available": "2014-03-14T20:07:09Z",
+  "date_issued": "2003-01-29",
+  "date_rdate": "2004-03-05",
+  "date_sdate": "2003-02-05",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The global positioning system (GPS) makes use of extremely accurate measures of the time to determine position.  The times required for electronic signals to travel at the speed of light from at least four orbiting satellites to a receiver on earth is measured precisely and used to calculate the distances from the satellites to the receiver.  The calculated distances are used to determine the position of the receiver through triangulation. This research takes an approach opposite the original GPS research, focusing on the use of position to determine the time at which events occur.  Specifically, this work addresses the question: Can the information pertaining to position and speed contained in a GPS record be used to autonomously identify the times at which critical events occur within a production cycle? The research question was answered by determining the hardware needs for collecting the desired data in a useable format an developing a unique data collection tool to meet those needs.  The tool was field evaluated and the data collected was used to determine the software needs for automated reduction of the data to the times at which key events occurred.  The software tools were developed in the form of Time Identification Modules (TIMs).  The TIMs were used to reduce data collected from a load and haul earthmoving operation to duration measures for the load, haul, dump, and return activities. The value of the developed system was demonstrated by investigating correlations between performance times in construction operations and by using field data to verify the results obtained from productivity estimating tools.  Use of the system was shown to improve knowledge and provide additional insight into operations analysis studies.",
+  "description_provenance": [
+    "Author Email: hildreth@vt.edu",
+    "Advisor Email: mikev@vt.edu",
+    "Advisor Email: chema@vt.edu",
+    "Advisor Email: ansonger@vt.edu",
+    "Advisor Email: dymond@vt.edu",
+    "Advisor Email: julio@vt.edu",
+    "Advisor Email: ahmadian@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:09Z (GMT). No. of bitstreams: 3 Pics.zip: 11244712 bytes, checksum: 09355b1803a349be5fa89af97f55c0b9 (MD5) TIM.xls: 1501184 bytes, checksum: cd6319d59f250c73b09d18854e89a3b7 (MD5) Final_Disseratation.pdf: 2614808 bytes, checksum: 14927f98b8ac9987a6789b544727fc66 (MD5)   Previous issue date: 2003-01-29"
+  ],
+  "handle": "26120",
+  "identifier_other": "etd-02052003-172157",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02052003-172157/",
+  "identifier_uri": "http://hdl.handle.net/10919/26120",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Pics.zip",
+    "TIM.xls",
+    "Final_Disseratation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Construction Operations",
+    "Data Collection",
+    "Data Reduction",
+    "Field Verification",
+    "Correlation",
+    "GPS"
+  ],
+  "title": "The Use of Short-Interval GPS Data for Construction Operations Analysis",
+  "type": "Dissertation"
+}

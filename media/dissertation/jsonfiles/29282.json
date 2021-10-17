@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Vogler, Terry Richard",
+  "contributor_committeechair": "Davis, William A.",
+  "contributor_committeemember": [
+    "DaSilva, Luiz A.",
+    "Renardy, Yuriko Y.",
+    "Brown, Gary S.",
+    "Stutzman, Warren L."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:17:23Z",
+  "date_adate": "2010-11-16",
+  "date_available": "2014-03-14T20:17:23Z",
+  "date_issued": "2010-09-10",
+  "date_rdate": "2010-11-16",
+  "date_sdate": "2010-10-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this research is to design well-tuned, wideband elements for thin planar or cylindrically conformal arrays of balanced elements fed over ground. These arrays have closely spaced elements to achieve wide bandwidths through mutual coupling. This dissertation develops two wideband designs in infinite, semi-infinite, and finite array configurations. The infinite array is best for element tuning. This research advances a concept of a distributed, parallel capacitance between elements and across feeds that must be mutually altered for tuning.      Semi-infinite techniques limit the problem space and determine the proper resistive loads to control the low-frequency array-guided surface wave (AGSW). The tight physical placement also forms a periodic structure that, along with the array boundary, launches a wave across the array surface. Options to suppress this surface wave are resistive loading and cylindrical conformations. AGSW control is necessary to achieve a maximum bandwidth, but lower radiation or aperture efficiency results. Conformation is shown to be an ineffective method for AGSW control alone.     The Wrapped Bowtie design emerges as a novel design offering nearly a 10:1 bandwidth as a finite array over ground. Some bandwidth comes from the losses in radiation efficiency, which is necessary to control the AGSW; however, its simulated VSWR < 3 bandwidth in an infinite array is 7.24:1 with full efficiency. Less than perfect efficiency is required to mitigate surface wave effects, unless bandwidth is to be compromised. That loss may be as radiation or aperture efficiency, but it is unavoidable if the infinite array bandwidth is to be maintained in finite array designs.     Lastly, this research articulates a development path for tightly-coupled arrays that extends in stages from infinite to semi-infinite, and thence finite layouts. Distinctions are explained and defended for the design focus at each stage. Element design, tuning, and initial feed design occur at the infinite array stage; AGSW suppression occurs at the semi-infinite stage; and design confirmation occurs only with the finite array.",
+  "description_provenance": [
+    "Author Email: tvogler@vt.edu",
+    "Advisor Email: ldasilva@vt.edu",
+    "Advisor Email: renardy@vt.edu",
+    "Advisor Email: randem@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:23Z (GMT). No. of bitstreams: 2 Vogler_TR_D_2010_Copyright.pdf: 571223 bytes, checksum: d59c333679db2ce62aeb2665c8d1a773 (MD5) Vogler_TR_D_2010.pdf: 8593192 bytes, checksum: 15a7ea43ae348cbc14ee841da08fbeba (MD5)   Previous issue date: 2010-09-10"
+  ],
+  "handle": "29282",
+  "identifier_other": "etd-10152010-173302",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10152010-173302/",
+  "identifier_uri": "http://hdl.handle.net/10919/29282",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Vogler_TR_D_2010_Copyright.pdf",
+    "Vogler_TR_D_2010.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "tuning",
+    "array",
+    "wideband",
+    "coupling"
+  ],
+  "title": "Analysis of the Radiation Mechanisms in and Design of Tightly-Coupled Antenna Arrays",
+  "type": "Dissertation"
+}

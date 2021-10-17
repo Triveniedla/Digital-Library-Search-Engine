@@ -1,0 +1,55 @@
+{
+  "contributor_author": "Zhang, Yuji",
+  "contributor_committeechair": "Jason J. Xuan",
+  "contributor_committeecochair": "Habtom W. Ressom",
+  "contributor_committeemember": [
+    "Lu, Chang-Tien",
+    "Christopher L. Wyatt",
+    "William T. Baumann",
+    "Wang, Yue J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:14:38Z",
+  "date_adate": "2010-08-25",
+  "date_available": "2014-03-14T20:14:38Z",
+  "date_issued": "2010-07-20",
+  "date_rdate": "2013-05-21",
+  "date_sdate": "2010-08-01",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Systems biology comprises the global, integrated analysis of large-scale data encoding  different levels of biological information with the aim to obtain global insight into the cellular  networks. Several studies have unveiled the modular and hierarchical organization inherent in  these networks. In this dissertation, we propose and develop innovative systems approaches to  integrate multi-source biological data in a modular manner for network inference and biomarker  discovery in complex diseases such as breast cancer.  <p> The first part of the dissertation is focused on gene module identification in gene expression  data. As the most popular way to identify gene modules, many cluster algorithms have been  applied to the gene expression data analysis. For the purpose of evaluating clustering algorithms  from a biological point of view, we propose a figure of merit based on Kullback-Leibler  divergence between cluster membership and known gene ontology attributes. Several benchmark  expression-based gene clustering algorithms are compared using the proposed method with  different parameter settings. Applications to diverse public time course gene expression data  demonstrated that fuzzy c-means clustering is superior to other clustering methods with regard to  the enrichment of clusters for biological functions. These results contribute to the evaluation of  clustering outcomes and the estimations of optimal clustering partitions. <p> The second part of the dissertation presents a hybrid computational intelligence method to  infer gene regulatory modules. We explore the combined advantages of the nonlinear and  dynamic properties of neural networks, and the global search capabilities of the hybrid genetic  algorithm and particle swarm optimization method to infer network interactions at modular level. <p> The proposed computational framework is tested in two biological processes: yeast cell cycle,  and human Hela cancer cell cycle. The identified gene regulatory modules were evaluated using  several validation strategies: 1) gene set enrichment analysis to evaluate the gene modules  derived from clustering results; (2) binding site enrichment analysis to determine enrichment of the gene modules for the cognate binding sites of their predicted transcription factors; (3)  comparison with previously reported results in the literatures to confirm the inferred regulations. <p> The proposed framework could be beneficial to biologists for predicting the components of gene  regulatory modules in which any candidate gene is involved. Such predictions can then be used  to design a more streamlined experimental approach for biological validation. Understanding the  dynamics of these gene regulatory modules will shed light on the related regulatory processes.  Driven by the fact that complex diseases such as cancer are â  diseases of pathwaysâ  , we  extended the module concept to biomarker discovery in cancer research. In the third part of the  dissertation, we explore the combined advantages of molecular interaction network and gene  expression profiles to identify biomarkers in cancer research. The reliability of conventional  gene biomarkers has been challenged because of the biological heterogeneity and noise within  and across patients. In this dissertation, we present a module-based biomarker discovery  approach that integrates interaction network topology and high-throughput gene expression data  to identify markers not as individual genes but as modules. To select reliable biomarker sets  across different studies, a hybrid method combining group feature selection with ensemble  feature selection is proposed. First, a group feature selection method is used to extract the  modules (subnetworks) with discriminative power between disease groups. Then, an ensemble  feature selection method is used to select the optimal biomarker sets, in which a double-  validation strategy is applied. The ensemble method allows combining features selected from  multiple classifications with various data subsampling to increase the reliability and  classification accuracy of the final selected biomarker set. The results from four breast cancer  studies demonstrated the superiority of the module biomarkers identified by the proposed  approach: they can achieve higher accuracies, and are more reliable in datasets with same  clinical design.   Based on the experimental results above, we believe that the proposed systems approaches  provide meaningful solutions to discover the cellular regulatory processes and improve the  understanding about disease mechanisms. These computational approaches are primarily  developed for analysis of high-throughput genomic data. Nevertheless, the proposed methods  can also be extended to analyze high-throughput data in proteomics and metablomics areas.",
+  "description_provenance": [
+    "Author Email: researchesnote@gmail.com",
+    "Advisor Email: ctlu@vt.edu",
+    "Advisor Email: clwyatt@vt.edu",
+    "Advisor Email: baumann@vt.edu",
+    "Advisor Email: yuewang@vt.edu",
+    "Advisor Email: hwr@georgetown.edu",
+    "Advisor Email: xuan@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:38Z (GMT). No. of bitstreams: 6 Figure4_2_FairUseEvaluation.pdf: 41397 bytes, checksum: 586b1f7b6a815a11a9d24828314fdafc (MD5) Zhang_Y_D_2010_R.pdf: 3113158 bytes, checksum: d8167cb42bd887d874981855e05c6e3a (MD5) Figure1_6_FairUseEvaluation.pdf: 41238 bytes, checksum: 500a546d194f52126c309740f9f037d9 (MD5) Figure1_3_FairUseEvaluation.pdf: 41389 bytes, checksum: 6cdbe68bfe529575df578cd70664d583 (MD5) Figure1_2_FairUseEvaluation.pdf: 41611 bytes, checksum: d1cf3ce385244e0492cc88544789ecb2 (MD5) Figure1_5_FairUseEvaluation.pdf: 41198 bytes, checksum: 2855fff88f72618c225be6a023b556c8 (MD5)   Previous issue date: 2010-07-20"
+  ],
+  "handle": "28482",
+  "identifier_other": "etd-08012010-204209",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08012010-204209/",
+  "identifier_uri": "http://hdl.handle.net/10919/28482",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Figure4_2_FairUseEvaluation.pdf",
+    "Zhang_Y_D_2010_R.pdf",
+    "Figure1_6_FairUseEvaluation.pdf",
+    "Figure1_3_FairUseEvaluation.pdf",
+    "Figure1_2_FairUseEvaluation.pdf",
+    "Figure1_5_FairUseEvaluation.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Network Modeling",
+    "Data Integration",
+    "Gene Module  Identification",
+    "Gene Regulatory Module",
+    "Biomarker Discovery"
+  ],
+  "title": "Module_based Analysis of Biological Data for Network Inference and Biomarker Discovery",
+  "type": "Dissertation"
+}

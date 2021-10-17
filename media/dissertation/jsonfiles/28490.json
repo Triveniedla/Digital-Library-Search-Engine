@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Dimitrova, Elena Stanimirova",
+  "contributor_committeechair": "Laubenbacher, Reinhard C.",
+  "contributor_committeemember": [
+    "Beattie, Christopher A.",
+    "Mendes, Pedro J. P.",
+    "Burns, John A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:14:39Z",
+  "date_adate": "2006-09-12",
+  "date_available": "2014-03-14T20:14:39Z",
+  "date_issued": "2006-08-01",
+  "date_rdate": "2006-09-12",
+  "date_sdate": "2006-08-02",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Systems biology aims at system-level understanding of biological systems, in particular cellular networks. The milestones of this understanding are knowledge of the structure of the system, understanding of its dynamics, effective control methods, and powerful prediction capability. The complexity of biological systems makes it inevitable to consider mathematical modeling in order to achieve these goals.   The enormous accumulation of experimental data representing the activities of the living cell has triggered an increasing interest in the reverse engineering of biological networks from data. In particular, construction of discrete models for reverse engineering of biological networks is receiving attention, with the goal of providing a coarse-grained description of such networks. In this dissertation we consider the modeling framework of polynomial dynamical systems over finite fields constructed from experimental data. We present and propose solutions to two problems inherent in this modeling method: the necessity of appropriate discretization of the data and the selection of a particular polynomial model from the set of all models that fit the data.  Data discretization, also known as binning, is a crucial issue for the construction of discrete models of biological networks. Experimental data are however usually continuous, or, at least, represented by computer floating point numbers. A major challenge in discretizing biological data, such as those collected through microarray experiments, is the typically small samples size. Many methods for discretization are not applicable due to the insufficient amount of data. The method proposed in this work is a first attempt to develop a discretization tool that takes into consideration the issues and limitations that are inherent in short data time courses. Our focus is on the two characteristics that any discretization method should possess in order to be used for dynamic modeling: preservation of dynamics and information content and inhibition of noise.  Given a set of data points, of particular importance in the construction of polynomial models for the reverse engineering of biological networks is the collection of all polynomials that vanish on this set of points, the so-called ideal of points. Polynomial ideals can be represented through a special finite generating set, known as Gr&ouml;bner basis, that possesses some desirable properties. For a given ideal, however, the Gr&ouml;bner basis may not be unique since its computation depends on the choice of leading terms for the multivariate polynomials in the ideal. The correspondence between data points and uniqueness of Gr&ouml;bner bases is studied in this dissertation. More specifically, an algorithm is developed for finding all minimal sets of points that, added to the given set, have a corresponding ideal of points with a unique Gr&ouml;bner basis. This question is of interest in itself but the main motivation for studying it was its relevance to the construction of polynomial dynamical systems.  This research has been partially supported by NIH Grant Nr. RO1GM068947-01.",
+  "description_provenance": [
+    "Author Email: elena@vt.edu",
+    "Advisor Email: beattie@vt.edu",
+    "Advisor Email: mendes@vbi.vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: burns@icam.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:39Z (GMT). No. of bitstreams: 1 Thesis.pdf: 646564 bytes, checksum: 6425a0f8e419b1f7060366b75c73bc34 (MD5)   Previous issue date: 2006-08-01"
+  ],
+  "handle": "28490",
+  "identifier_other": "etd-08022006-165518",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08022006-165518/",
+  "identifier_uri": "http://hdl.handle.net/10919/28490",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Thesis.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Biochemical Networks",
+    "Polynomial Rings",
+    "Polynomial Dynamical Systems",
+    "Gr\\\"{o}bner Bases",
+    "Systems Biology",
+    "Discrete Modeling",
+    "Data Discretization",
+    "Finite Fields"
+  ],
+  "title": "Polynomial Models for Systems Biology: Data Discretization and Term Order Effect on Dynamics",
+  "type": "Dissertation"
+}

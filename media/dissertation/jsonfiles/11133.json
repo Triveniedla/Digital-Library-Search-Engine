@@ -1,0 +1,50 @@
+{
+  "contributor_author": "Garcia-Puente, Luis David",
+  "contributor_committeechair": "Laubenbacher, Reinhard C.",
+  "contributor_committeemember": [
+    "Brown, Ezra A.",
+    "Farkas, Daniel R.",
+    "Green, Edward L.",
+    "Shimozono, Mark M."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2011-08-22T19:00:00Z",
+  "date_adate": "2004-04-19",
+  "date_available": "2011-08-22T19:00:00Z",
+  "date_issued": "2004-01-30",
+  "date_rdate": "2004-04-19",
+  "date_sdate": "2004-04-16",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "We develop the necessary theory in algebraic geometry to place Bayesian networks into the realm of algebraic statistics. This allows us to create an algebraic geometry--statistics dictionary. In particular,  we study the algebraic varieties defined by the conditional independence statements of Bayesian networks. A complete algebraic classification, in terms of  primary decomposition of polynomial ideals, is given for Bayesian networks on at most five random variables. Hidden variables are related to the geometry of  higher secant varieties. Moreover, a complete algebraic classification, in terms of  generating sets of polynomial ideals,   is given for Bayesian networks on at most three random variables and one hidden variable. The relevance of these results for  model selection is discussed.",
+  "description_degree": "PhD",
+  "description_provenance": [
+    "ETDs_20110726_kdweeks",
+    "unrestricted",
+    "Made available in DSpace on 2011-08-22T19:00:00Z (GMT). No. of bitstreams: 1  thesis.pdf: 410101 bytes, checksum: 510904ed6e8bf80b776ce392a299de99 (MD5)    Previous issue date: 2004-01-30",
+    "Advisor Email: brown@math.vt.edu",
+    "Advisor Email: reinhard@vbi.vt.edu",
+    "Advisor Email: farkas@math.vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Advisor Email: mshimo@math.vt.edu",
+    "Author Email: lgarcia@math.vt.edu"
+  ],
+  "format_medium": "ETD",
+  "handle": "11133",
+  "identifier_other": "etd-04162004-172816",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04162004-172816",
+  "identifier_uri": "http://hdl.handle.net/10919/11133",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "thesis.pdf",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "statistical modelling",
+    "algebraic geometry",
+    "bayesian networks",
+    "computational commutative algebra",
+    "statistics"
+  ],
+  "title": "Algebraic Geometry of Bayesian Networks",
+  "type": "Dissertation"
+}

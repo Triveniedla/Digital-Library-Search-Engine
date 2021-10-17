@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Park, Hyunhang",
+  "contributor_committeechair": "Pleimling, Michel Jean",
+  "contributor_committeemember": [
+    "Heremans, Jean Joseph",
+    "Tauber, Uwe C",
+    "Mather, William"
+  ],
+  "contributor_department": "Physics",
+  "date_accessioned": "2013-04-13T08:00:21Z",
+  "date_available": "2013-04-13T08:00:21Z",
+  "date_issued": "2013-03-22",
+  "degree_discipline": "Physics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Among the many non-equilibrium processes encountered in nature we deal with two different but related aspects. One is the non-equilibrium relaxation process that is at the origin of \\'aging phenomena••, and the other one is a non-equilibrium phase transition, called ••dynamic phase transition••. One of the main purposes of our research is to explore more realistic situations than studied previously. Indeed, in the study of aging phenomena certain kinds of disorder effects are considered, and we introduce the ••surface•• as a spatial boundary to the system undergoing the dynamic phase transition. In order to observe these processes as clearly as possible, we study in both cases simple spin systems.<br />      Using Monte Carlo simulations we first investigate aging in three-dimensional Ising spin<br />glasses as well as in two-dimensional Ising models with disorder quenched to low temperatures. The time-dependent dynamical correlation length L(t) is determined numerically and the scaling behavior of various two-time quantities as a function of L(t)/L(s) is discussed where t and s are two different times. For disordered Ising models deviations of L(t) from algebraic growth law show up. The generalized scaling forms as a function of L(t)/L(s)<br />reveal a generic simple aging scenario for Ising spin glasses as well as for disordered Ising<br />ferromagnets.<br />      We also study the local critical phenomena at a dynamic phase transition by means of numerical simulations of kinetic Ising models with surfaces subjected to a periodic oscillating field. We examine layer-dependent quantities, such as the period-averaged magnetization per layer Q(z) and the layer susceptibility ¥ö(z), and determine local critical exponents through finite size scaling. Both for two and three dimensions, we find that the values of the surface exponents differ from those of the equilibrium critical surface. It is revealed that the surface phase diagram of the non-equilibrium system is not identical to that of the equilibrium system in three dimensions.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-13T08:00:21Z (GMT). No. of bitstreams: 4 Park_H_D_2013.pdf: 1549767 bytes, checksum: 5aebad593a866acbab46124827735646 (MD5) Park_H_D_2013_support_1.pdf: 104551 bytes, checksum: 1d60582e84d3174c96d7808b4db2c969 (MD5) Park_H_D_2013_support_2.pdf: 31339 bytes, checksum: a5f80f5c5eee1a82dffcbd992736dd53 (MD5) Park_H_D_2013_support_3.pdf: 47543 bytes, checksum: a8fce945a722cb29d40498b5bd85481d (MD5)   Previous issue date: 2013-03-22",
+  "format_medium": "ETD",
+  "handle": "19323",
+  "identifier_other": "vt_gsexam:425",
+  "identifier_uri": "http://hdl.handle.net/10919/19323",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Aging Phenomena",
+    "Disordered Ferromagnets",
+    "Dynamical Scaling",
+    "Dynamic Phase Transition",
+    "Surface Critical Phenomena",
+    "Surface Phase Diagram"
+  ],
+  "title": "Spin Systems far from Equilibrium : Aging and Dynamic Phase Transition",
+  "type": "Dissertation"
+}

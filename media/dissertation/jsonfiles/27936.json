@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Kim, Junhyuk",
+  "contributor_committeechair": "Teodorovic, Dusan",
+  "contributor_committeemember": [
+    "Hoopes, Barbara J.",
+    "Triantis, Konstantinos P.",
+    "Trani, Antonio A.",
+    "Collura, John"
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:12:41Z",
+  "date_adate": "2005-07-07",
+  "date_available": "2014-03-14T20:12:41Z",
+  "date_issued": "2005-05-25",
+  "date_rdate": "2008-07-07",
+  "date_sdate": "2005-06-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The air transportation system has grown significantly during the past few decades.  The demand for air travel has increased tremendously as compared to the increase in the supply.  The air transportation system can be divided into four subsystems: airports, airlines, air traffic control, and passengers, each of them having different interests. These subsystems interact in a very complex way resulting in various phenomena.  On the airport side, there is excessive flight demand during the peak hours that frequently exceeds the airport capacity resulting in serious flight delays.  These delays incur costs to the airport, passengers, and airlines.  The air traffic pattern is also affected by the characteristics of the air transportation network.  The current network structure of most major airlines in United States is a hub-and-spoke network.  The airports are interested in reducing congestion, especially during the peak time.  The airlines act as direct demand to the airport and as the supplier to the passengers.  They sometimes compete with other airlines on certain routes and sometimes they collaborate to maximize revenue.  The flight schedule of airlines directly affects the travel demand.  The flight schedule that minimizes the schedule delay of passengers in directed and connected flights will attract more passengers.  The important factors affecting the airline revenue include ticket price, departure times, frequency, and aircraft type operated on each route.  The revenue generated from airline depends also on the behavior of competing airlines, and their flight schedules.  The passengers choose their flight based on preferred departure times, offered ticket prices, and willingness of airlines to minimize delay and cost.  Hence, all subsystems of air transportation system are inter-connected to each other, meaning, strategy of each subsystem directly affects the performance of other subsystems.  This interaction between the subsystems makes it more difficult to analyze the air transportation system.  Traditionally, analytical top-down approach has been used to analyze the air transportation problem. In top-down approach, a set of objectives is defined and each subsystem is fixed in the overall scheme. On the other hand, in a bottom-up approach, many issues are addressed simultaneously and each individual system has greater autonomy to make decisions, communicate and to interact with one another to achieve their goals when considering complex air transportation system. Therefore, it seems more appropriate to approach the complex air traffic congestion and airline competition problems using a bottom-up approach.  In this research, an agent-based model for the air transportation system has been developed.  The developed model considers each subsystem as an independent type of agent that acts based on its local knowledge and its interaction with other agents.  The focus of this research is to analyze air traffic congestion and airline competition in a hub-and-spoke network.  The simulation model developed is based on evolutionary computation.  It seems that the only way for analyzing emergent phenomenon (such as air traffic congestion) is through the development of simulation models that can simulate the behavior of each agent. In the agent-based model developed in this research, agents that represent airports can increase capacity or significantly change landing fee policy, while the agents that represent airlines learn all the time, change their markets, fare structure, flight frequencies, and flight schedules. Such a bottom-up approach facilitates a better understanding of the complex nature of congestion and gains more insights into the competition in air transportation, hence making it easier to understand, predict and control the overall performance of the complex air transportation system.",
+  "description_provenance": [
+    "Author Email: jukim3@vt.edu",
+    "Advisor Email: bhoopes@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Advisor Email: vuela@vt.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: collura@ecs.umass.edu",
+    "Made available in DSpace on 2014-03-14T20:12:41Z (GMT). No. of bitstreams: 1 Dissertation_Kim.pdf: 1116293 bytes, checksum: 2a9cb9d3655424a2aced8383ebcd4e3a (MD5)   Previous issue date: 2005-05-25"
+  ],
+  "handle": "27936",
+  "identifier_other": "etd-06032005-165152",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-06032005-165152/",
+  "identifier_uri": "http://hdl.handle.net/10919/27936",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dissertation_Kim.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Airport Congestion",
+    "Air Transportation",
+    "Multi-Agent System",
+    "Agent-based Modeling",
+    "Airline Simulation"
+  ],
+  "title": "An Agent-based Model for Airline Evolution, Competition, and Airport Congestion",
+  "type": "Dissertation"
+}

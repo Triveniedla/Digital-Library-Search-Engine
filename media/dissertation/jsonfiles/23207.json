@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Ragan, Eric Dennis",
+  "contributor_committeechair": "Bowman, Douglas Andrew",
+  "contributor_committeemember": [
+    "Quek, Francis",
+    "North, Christopher L",
+    "Mayer, Richard Reinhart",
+    "Smith-Jackson, Tonya L"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-06-12T08:01:05Z",
+  "date_available": "2013-06-12T08:01:05Z",
+  "date_issued": "2013-06-11",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Though many researchers have suggested that 3D virtual environments (VEs) could provide advantages for conceptual learning, few studies have attempted to evaluate the validity of this claim. While many educational VEs share the challenge of providing learners with information within 3D spaces, few researchers have investigated what approaches are used to help learn new information from 3D spatial representations. It is not understood how well learners can take advantage of 3D layouts to help understand information. Additionally, although complex arrangements of information within 3D space can potentially allow for large amounts of information to be presented within a VE, accessing this information can become more difficult due to the increased navigational challenges.<br />Complicating these issues are details regarding display types and interaction devices used for educational applications. Compared to desktop displays, more immersive VE systems often provide display features (e.g., stereoscopy, increased field of view) that support improved perception and understanding of spatial information. Additionally, immersive VE often allow more familiar, natural interaction methods (e.g., physical walking or rotation of the head and body) to control viewing within the virtual space. It is unknown how these features interact with the types of spatial information presentations to affect learning.<br />The research presented in this dissertation investigates these issues in order to further the knowledge of how to design VEs to support learning. The research includes six studies (five empirical experiments and one case study) designed to investigate how spatial information presentations affect learning effectiveness and learner strategies. This investigation includes consideration for the complexity of spatial information layouts, the features of display systems that could affect the effectiveness of spatial strategies, and the degree of navigational control for accessing information. Based on the results of these studies, we created a set of design guidelines for developing VEs for learning-related activities. By considering factors of virtual information presentation, as well as those based on the display-systems, our guidelines support design decisions for both the software and hardware required for creating effective educational VEs.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-06-12T08:01:05Z (GMT). No. of bitstreams: 2 Ragan_ED_D_2013.pdf: 3586731 bytes, checksum: 67d18c5ebd174c9407546a818b72eea1 (MD5) Ragan_ED_D_2013_support_1.pdf: 355370 bytes, checksum: 670454af12e212d42c7e70ab4ff848d5 (MD5)   Previous issue date: 2013-06-11",
+  "format_medium": "ETD",
+  "handle": "23207",
+  "identifier_other": "vt_gsexam:673",
+  "identifier_uri": "http://hdl.handle.net/10919/23207",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    ": virtual reality",
+    "visualization",
+    "large-display systems",
+    "educational software",
+    "spatial information presentations",
+    "learning",
+    "memo"
+  ],
+  "title": "Supporting Learning through Spatial Information Presentations in Virtual Environments",
+  "type": "Dissertation"
+}

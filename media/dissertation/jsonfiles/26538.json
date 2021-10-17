@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Kronprasert, Nopadon",
+  "contributor_committeechair": "Kikuchi, Shinya",
+  "contributor_committeemember": [
+    "Buehler, Ralph",
+    "Talvitie, Antti P.",
+    "Triantis, Konstantinos P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:08:35Z",
+  "date_adate": "2012-04-04",
+  "date_available": "2014-03-14T20:08:35Z",
+  "date_issued": "2012-03-16",
+  "date_rdate": "2012-04-04",
+  "date_sdate": "2012-03-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Policy-makers of todayâ  s public transportation investment projects engage in debates in which the reasonableness and clarity of their judgment are tested many times.  How to recommend the transportation system that achieves projectâ  s goals and different stakeholdersâ   needs in a most logical and justifiable manner is the main question of this dissertation.   This study develops a new decision-making approach, Belief Reasoning method, for evaluating public transportation systems in the planning process. The proposed approach applies a reasoning map to model how experts perceive and reason transportation alternatives to lead to the projectâ  s goals. It applies the belief measures in the Dempster-Shafer theory of evidence as the mathematical mechanism to represent knowledge under uncertainty and ambiguity and to analyze the degree of achievement of stated goals.    Three phases are involved in implementing the Belief Reasoning method.  First, a set of goals, a set of characteristics of the alternatives, a set of performances and impacts are identified and the reasoning map, which connects the alternatives to the goals through a series of causal relations, is constructed. Second, a knowledge base is developed through interviewing the experts their degree of belief associated with individual premises and relations, and then aggregating the expert opinions. Third, the model is executed and the results are evaluated in three ways: (i) the transportation alternatives are evaluated based on the degree of belief for achieving individual goals; (ii) the integrity of the reasoning process is evaluated based on the measures of uncertainty associated with information used; and (iii) the critical reasoning chains that significantly influence the outcome are determined based on the sensitivity analysis.   The Belief Reasoning method is compared with the Bayesian reasoning, which uses the probability measures as the measure of uncertainty. Also it is compared with the Analytical Hierarchy Process method, which uses a hierarchical tree structure and a weighting scheme. The numerical examples in transit planning are developed for comparison. The proposed Belief Reasoning method has advantages over these traditional evaluation and reasoning methods in several ways.    â ¢ Use of a reasoning map structure together with an inference process, instead of a tree structure together with a weighting scheme, allows modeling interdependency, redundancy and interactions among variables, usually found in transportation systems.   â ¢ Use of belief measures in Dempster-Shafer theory can preserve non-deterministic nature of inputs and performances as well as handle incomplete or partial knowledge of experts or citizens, i.e. â  I donâ  t knowâ   type opinion. The â  degrees of beliefâ   measures allow experts to express their strength of opinions in the conservative and optimistic terms. Such operation is not possible by the probability-based approach.  â ¢ Dempster-Shafer theory can avoid the scalability issue encountered in Bayesian reasoning. It can also measure uncertainty in the reasoning chains, and identify information needed for improving the reasoning process.  â ¢ Use of Dempsterâ  s rule of combination, instead of the average operator in probability theory, to merge expert opinions about inputs or relations is a better way for combining conflicting and incomplete opinions.   In the dissertation, the Belief Reasoning method is applied in real-world Alternatives Analysis of a transit investment project. The results show its potential to analyze and evaluate the alternatives and to provide reasons for recommending a preferred alternative and to measure the uncertainty in the reasoning process.    In spite of some shortcomings, discussed in the dissertation, the Belief Reasoning method is an effective method for transportation planning compared with the existing methods. It provides means for the planners and citizens to present their own reasons and allows review and analysis of reasoning and judgments of all participating stakeholders. The proposed method can promote focused discourse among different groups of stakeholders, and enriches the quality of the planning process.",
+  "description_provenance": [
+    "Author Email: nopkron@vt.edu, nopkron@gmail.com",
+    "Advisor Email: kikuchi@vt.edu",
+    "Advisor Email: ralphbu@vt.edu",
+    "Advisor Email: apt41@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:08:35Z (GMT). No. of bitstreams: 1 Kronprasert_Nopadon_D_2012.pdf: 4757666 bytes, checksum: ce93eaee98852cabbdcfda2c86e7b34a (MD5)   Previous issue date: 2012-03-16"
+  ],
+  "handle": "26538",
+  "identifier_other": "etd-03282012-205754",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03282012-205754/",
+  "identifier_uri": "http://hdl.handle.net/10919/26538",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kronprasert_Nopadon_D_2012.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dempster-Shafer Theory",
+    "Uncertainty",
+    "Reasoning",
+    "Decision-Making",
+    "Urban Transportation Planning"
+  ],
+  "title": "Reasoning for Public Transportation Systems Planning: Use of Dempster-Shafer Theory of Evidence",
+  "type": "Dissertation"
+}

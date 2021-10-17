@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Wong, Pit-Leong",
+  "contributor_committeechair": "Lee, Fred C.",
+  "contributor_committeemember": [
+    "Nelson, Douglas J.",
+    "Chen, Dan Y.",
+    "Boroyevich, Dushan",
+    "Huang, Alex Q."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:30Z",
+  "date_adate": "2001-04-25",
+  "date_available": "2014-03-14T20:10:30Z",
+  "date_issued": "2001-03-28",
+  "date_rdate": "2002-04-25",
+  "date_sdate": "2001-04-23",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The emergence of the Intel Pentium TM processor necessitates that a dedicated converter, the voltage regulator module (VRM), be physically located very close to the processor in computer power systems. The efficiency and transient response specifications of the VRM place contradictory requirements on the inductance. This dissertation discusses possible VRM inductor designs to improve efficiency without compromising transient responses. <p> The multi-channel interleaving buck converter is the most popular topology for present VRMs. Analysis in this work shows that the small-signal model of an n-channel interleaving buck can be simplified as a single buck converter. The equivalent inductance is 1/n of the inductance in the interleaving channel. The equivalent switching frequency is n times the switching frequency in each channel.  <P> Through the transient response analysis, the critical inductance of the VRM is identified. The critical inductance is a tradeoff point between transient response and efficiency. The inductances smaller than the critical inductance have equal transient responses. For the inductances larger than the critical inductance, the VRM transient voltage spikes increase with the inductance. The critical inductance is the largest inductance that gives the fastest transient responses. The critical inductance is a function of the control bandwidth and the load transient steps. <P> Although multi-channel interleaving reduces the current ripple stress on the output capacitors, it cannot reduce the current ripples in each channel. The large current ripples reduce the efficiency of the VRM. With the proposed concept of integrated coupling inductors between channels, the converters have larger equivalent inductances in steady-state operation and smaller equivalent inductances in transient response. The steady-state current ripples can be reduced without compromising the transient response. The overall efficiency of the converter is improved.  <P> In order to evaluate the application of the coupling inductor concept in multi-channels, an appropriate magnetic model is required. This dissertation proposes a flux reluctance model for the core and winding structures. With this reluctance model and mathematical transformations, the coupled inductors can be decoupled in the electric circuit simulation model. This reduces the complexity of the model when a large number of inductors are coupled. The model can be easily scaled to model the structures that involve more inductors. Examples are presented to show the application of this proposed model.",
+  "description_provenance": [
+    "Author Email: pwong@vt.edu",
+    "Advisor Email: Doug.Nelson@vt.edu",
+    "Advisor Email: chen@vt.edu",
+    "Advisor Email: dushan@vt.edu",
+    "Advisor Email: alexhuan@vt.edu",
+    "Advisor Email: fclee@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:30Z (GMT). No. of bitstreams: 1 ETS_pwong.pdf: 2002853 bytes, checksum: 6a20d28c0d23ae40f5976b8039c31def (MD5)   Previous issue date: 2001-03-28"
+  ],
+  "handle": "27148",
+  "identifier_other": "etd-04232001-140307",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04232001-140307/",
+  "identifier_uri": "http://hdl.handle.net/10919/27148",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "ETS_pwong.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "channel coupling",
+    "critical inductance",
+    "voltage regulator module",
+    "flux source reluctance model"
+  ],
+  "title": "Performance Improvements of Multi-Channel Interleaving Voltage Regulator Modules with Integrated Coupling Inductors",
+  "type": "Dissertation"
+}

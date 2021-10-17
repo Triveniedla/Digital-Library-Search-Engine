@@ -1,0 +1,54 @@
+{
+  "contributor_author": "Aboelkassem, Yasser",
+  "contributor_committeechair": "Staples, Anne E.",
+  "contributor_committeemember": [
+    "Stremler, Mark A.",
+    "Socha, John J.",
+    "Jung, Sunghwan",
+    "Davalos, Rafael V.",
+    "De Vita, Raffaella"
+  ],
+  "contributor_department": "Engineering Science and Mechanics",
+  "date_accessioned": "2014-03-14T20:15:15Z",
+  "date_adate": "2012-09-11",
+  "date_available": "2014-03-14T20:15:15Z",
+  "date_issued": "2012-08-01",
+  "date_rdate": "2012-09-11",
+  "date_sdate": "2012-08-15",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Bioinspiration and biomimetics are two increasingly important fields in applied science and mechanics that seek to imitate systems or processes in nature to design improved engineering devices. Here, we are inspired and motivated by microscale internal flow transport phenomena in insect tracheal networks, which  are observed to be induced by the rhythmic tracheal wall contractions.  These networks have been shown to mange fluid very efficiently compared to current state-of-the-art microfluidic devises.  This dissertation presents two versions of a novel bioinspired pumping mechanism that is neither peristaltic nor belongs to impedance mismatch class of pumping mechanisms. The insect-inspired pumping models presented here are expected to function efficiently in the microscale flow regime in a simple channel/tube geometries or a complex network of channels. The first pumping approach shows the ability of inducing a unidirectional net flow by using an inelastic tube or channel with at least two moving contractions. The second pumping approach presents a new concept for directional pumping, namely ``selective pumping in a network.\". The results presented here might help in mimicking features of physiological systems in insects and guide efforts to fabricate novel microfluidic devices with improved efficiency.  In this study, both theoretical analysis and Stokeslets-meshfree computational methods are used to solve for the 2D and 3D viscous flow transport in several micro-geometries (tubes, channels and networks) with prescribed moving wall contractions. The derived theoretical analysis is based on both lubrication theory and quasi-steady approximations at low Reynolds numbers. The meshfree numerical method is based on the method of fundamental solutions (MFS) that uses a set of singularized force elements ``Stokeslets'' to induce the flow motions. Moreover, the passive particle tracking simulation approach in the Lagrangian frame of reference is also used to strengthen and support our pumping paradigm developed in this dissertation.",
+  "description_provenance": [
+    "Author Email: yasser@vt.edu",
+    "Advisor Email: stremler@vt.edu",
+    "Advisor Email: jjsocha@vt.edu",
+    "Advisor Email: staplesa@vt.edu",
+    "Advisor Email: sunnyjsh@vt.edu",
+    "Advisor Email: davalos@vt.edu",
+    "Advisor Email: devita@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:15Z (GMT). No. of bitstreams: 2 Aboelkassem_Y_D_2012.pdf: 43190716 bytes, checksum: d70b46f8743c12da7d3822a564fb047a (MD5) Aboelkassem_Y_D_2012_permissions.pdf: 185297 bytes, checksum: f11efa92262e131d48c03bbeb505cc81 (MD5)   Previous issue date: 2012-08-01"
+  ],
+  "handle": "28674",
+  "identifier_other": "etd-08152012-043900",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08152012-043900/",
+  "identifier_uri": "http://hdl.handle.net/10919/28674",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Aboelkassem_Y_D_2012.pdf",
+    "Aboelkassem_Y_D_2012_permissions.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Bioinspiration",
+    "Biomimetics",
+    "Physiological System in Insects",
+    "Stokeslets",
+    "Meshfree",
+    "Microscale Flow Transport",
+    "Collapsible Tubes",
+    "Microfluidics"
+  ],
+  "title": "Novel Bioinspired Pumping Models for Microscale Flow Transport",
+  "type": "Dissertation"
+}

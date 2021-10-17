@@ -1,0 +1,49 @@
+{
+  "contributor_author": "Dadson, Daniel K",
+  "contributor_committeecochair": [
+    "Weyers, Richard E.",
+    "de la Garza, Jesus M."
+  ],
+  "contributor_committeemember": [
+    "Al-Qadi, Imadeddin L.",
+    "Hinkelmann, Klaus H.",
+    "Lefter, James",
+    "Barker, Richard M."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:12:13Z",
+  "date_adate": "2001-05-23",
+  "date_available": "2014-03-14T20:12:13Z",
+  "date_issued": "2001-05-14",
+  "date_rdate": "2002-05-23",
+  "date_sdate": "2001-05-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "State Departments of Transportation (DOT's) have established Bridge Management Systems (BMS) with procedures to aid in estimating service lives of bridge components and elements.  Service life estimates, together with cost information, are used to develop life-cycle costs of bridges.  These estimates are necessary to prioritize and optimize bridge improvement programs within budgetary constraints.  Several factors, including age, traffic, and environment have been identified in current BMS literature as being directly responsible for the deterioration of bridge components or elements.  However, no formal methodology exists to determine the effects of the environment.  Estimating bridge elements service lives, without considering the effect of environmental factors, could potentially lead to biased estimates.  A methodology is proposed using statistical analysis to determine the effects of environmental regions on service life estimates of steel girder bridge component (concrete deck) and element/protective system (girder paint) using bridge inspection field data collected by bridge inspectors.  Further, existing deterioration models are incapable of using the non-numeric element level inspection data, which most state DOT's have been collecting for nearly thirty years per Federal Highway Administration guidelines.  The data format used were the numerical condition appraisal scale (9 through 0) for concrete deck component, and the letter condition appraisal (G-F-P-C) for steel girder paint element.  The methodology proposed an environmental classification system for use in BMS programs.  In addition, least squares mean and corresponding standard errors and also means and corresponding standard deviations of service lives at the component and element/protective system levels were estimated.  The steel girder paint estimated service lives can be used in scheduling maintenance, repair and rehabilitation operations, and also in life-cycle costs analysis at the project and network levels.  Because of limitations in the concrete deck data sets, the estimated concrete deck service lives are not true estimates of their service lives but do reflect the influence of environmental exposure characteristics on their performance.",
+  "description_provenance": [
+    "Author Email: ddadson@vt.edu",
+    "Advisor Email: rweyers@vt.edu",
+    "Advisor Email: alqadi@vt.edu",
+    "Advisor Email: khstat@vt.edu",
+    "Advisor Email: chema@vt.edu",
+    "Advisor Email: lefter@vt.edu",
+    "Advisor Email: barker@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:12:13Z (GMT). No. of bitstreams: 1 Dadson.pdf: 778839 bytes, checksum: 0ff8aff23955689684815e62be00e9bf (MD5)   Previous issue date: 2001-05-14"
+  ],
+  "handle": "27772",
+  "identifier_other": "etd-05182001-144700",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05182001-144700/",
+  "identifier_uri": "http://hdl.handle.net/10919/27772",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Dadson.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "bridge management",
+    "element",
+    "environmental",
+    "service life"
+  ],
+  "title": "Impact of Environmental Classification on Steel Girder Bridge Elements Using Bridge Inspection Data",
+  "type": "Dissertation"
+}

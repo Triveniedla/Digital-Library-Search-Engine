@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Tebben, Daniel James",
+  "contributor_committeechair": "Jacobs, Ira",
+  "contributor_committeemember": [
+    "Tranter, William H.",
+    "Safaai-Jazi, Ahmad",
+    "Xu, Yong",
+    "Shaw, John Kenneth"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:09:57Z",
+  "date_adate": "2006-04-24",
+  "date_available": "2014-03-14T20:09:57Z",
+  "date_issued": "2006-04-17",
+  "date_rdate": "2006-04-24",
+  "date_sdate": "2006-04-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Optical coherent techniques are used to eliminate the power fading found in optical subcarrier multiplexed systems.  In a double-side band optical subcarrier system the signal experiences a periodic power fading that is dependent on the fiber dispersion and subcarrier frequency.  This power fading is manifested during the direct detection of the subcarrier system using a square-law photodetector.  Using a modified optical local oscillator to coherently detect the subcarrier channel this power fading can be eliminated.<br><br>        An optical local oscillator is centered at the optical carrier in order to perform homodyne detection.  However, the local oscillator is modulated by a term equal the subcarrier frequency of interest.  This is then a dual-frequency optical local oscillator.  By controlling the phases of the local oscillator and the local subcarrier oscillator independently in the homodyne detection scheme, both the phase error and power fading of the detected subcarrier channel can be eliminated.  This technique also allows the subcarrier to be selected optically, before the optical-to-electrical conversion. <br><br>      Analytical and simulation results are given to show the benefits of optical coherent detection in double-sideband subcarrier systems.  By eliminating the periodic power loss found in the double-sideband subcarrier system the signal becomes dispersion limited and not power limited.  A comparison of double-sideband and single-sideband subcarrier systems is presented.  Multiple subcarriers and subcarrier spacing are also investigated for both double sideband and single sideband subcarrier systems.<br><br>     Optical phase and modulator noise are also considered in the analysis and simulation of coherent detection using a dual frequency optical local oscillator.  Since the implementation used to eliminate the power fading is a phase correction based process, the phase noise of both the source and local oscillator lasers must be considered and the technique compared to typical direct and coherent detection techniques.  Also, the effects of modulator nonlinearity are simulated for multichannel subcarrier multiplexed systems and comparisons made between the performance of using the dual-frequency local oscillator and typical detection techniques.  It is shown that the advantages of the dual-frequency LO are retained in the presence of both phase noise and modulator nonlinearity.",
+  "description_provenance": [
+    "Author Email: dtebben@vt.edu",
+    "Advisor Email: btranter@vt.edu",
+    "Advisor Email: ajazi@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: yong@vt.edu",
+    "Advisor Email: shawk@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:09:57Z (GMT). No. of bitstreams: 1 Tebben_Dissertation_4-21-2006.pdf: 3207898 bytes, checksum: cbec0589f028d44e1b495a923eb2272d (MD5)   Previous issue date: 2006-04-17"
+  ],
+  "handle": "26968",
+  "identifier_other": "etd-04182006-143821",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04182006-143821/",
+  "identifier_uri": "http://hdl.handle.net/10919/26968",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Tebben_Dissertation_4-21-2006.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dispersion",
+    "Coherent Detection",
+    "Subcarrier Multiplexing",
+    "Optical Networks"
+  ],
+  "title": "Limitations and Improvement of Subcarrier Multiplexed Systems over Optical Fiber",
+  "type": "Dissertation"
+}

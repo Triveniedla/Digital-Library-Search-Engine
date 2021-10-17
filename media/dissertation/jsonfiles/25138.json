@@ -1,0 +1,33 @@
+{
+  "contributor_author": "Oremland, Matthew Scott",
+  "contributor_committeechair": "Laubenbacher, Reinhard C",
+  "contributor_committeemember": [
+    "Lawrence, Christopher B",
+    "Hoops, Stefan",
+    "Ciupe, Mihaela Stanca"
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-01-24T09:00:20Z",
+  "date_available": "2014-01-24T09:00:20Z",
+  "date_issued": "2014-01-23",
+  "degree_discipline": "Mathematics",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Agent-based models are computer simulations in which entities (agents) interact with each other and their environment according to local update rules. Local interactions give rise to global dynamics. These models can be thought of as in silico laboratories that can be used to investigate the system being modeled. Optimization problems for agent-based models are problems concerning the optimal way of steering a particular model to a desired state. Given that agent-based models have no rigorous mathematical formulation, standard analysis is difficult, and traditional mathematical approaches are often intractable.  This work presents techniques for the analysis of agent-based models and for solving optimization problems with such models. Techniques include model reduction, simulation optimization, conversion to systems of discrete difference equations, and a variety of heuristic methods. The proposed strategies are novel in their application; results show that for a large class of models, these strategies are more effective than existing methods.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2014-01-24T09:00:20Z (GMT). No. of bitstreams: 1 Oremland_MS_D_2014.pdf: 5094083 bytes, checksum: 9778c4d3828198bb60491269fd8c191d (MD5)   Previous issue date: 2014-01-23",
+  "format_medium": "ETD",
+  "handle": "25138",
+  "identifier_other": "vt_gsexam:2057",
+  "identifier_uri": "http://hdl.handle.net/10919/25138",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Agent-based modeling",
+    "optimization",
+    "heuristic algorithms"
+  ],
+  "title": "Techniques for mathematical analysis and optimization of agent-based models.",
+  "type": "Dissertation"
+}

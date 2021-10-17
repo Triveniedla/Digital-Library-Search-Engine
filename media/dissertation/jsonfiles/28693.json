@@ -1,0 +1,43 @@
+{
+  "contributor_author": "Rothstein, Ivan",
+  "contributor_committeechair": "Hagedorn, George A.",
+  "contributor_committeemember": [
+    "Greenberg, William",
+    "Klaus, Martin",
+    "Schmittmann, Beate",
+    "Ball, Joseph A."
+  ],
+  "contributor_department": "Mathematics",
+  "date_accessioned": "2014-03-14T20:15:20Z",
+  "date_adate": "2004-08-20",
+  "date_available": "2014-03-14T20:15:20Z",
+  "date_issued": "2004-08-12",
+  "date_rdate": "2004-08-20",
+  "date_sdate": "2004-08-17",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Semiclassical scattering theory can be summarized as the study of connections between classical mechanics and quantum mechanics in the limit $\\hbar\\to 0$ over the infinite time domain $-\\infty < t < \\infty$. After a brief discussion of Semiclassical Analysis and Scattering Theory we provide a rigorous result concerning the time propogation of a semiclassical wavepacket over the time domain $-\\infty< t<\\infty$. This result has long been known for dimension $n\\geq 3$, and we extend it to one and two space dimensions. Next, we present a brief mathematical discussion of the three body problem, first in classical mechanics and then in quantum mechanics. Finally using an approach similar to the semiclassical wave-packet construction we form a semiclassical approximation to the solution of the Schr\\\"{o}dinger equation for the three-body problem over the time domain $-\\infty < t< \\infty$. This technique accounts for clustering at infinite times and should be applicable for researchers studying simple recombination problems from quantum chemistry.",
+  "description_provenance": [
+    "Author Email: irothste@math.vt.edu",
+    "Advisor Email: greenberg@vt.edu",
+    "Advisor Email: klaus@math.vt.edu",
+    "Advisor Email: schmittm@vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: hagedorn@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:20Z (GMT). No. of bitstreams: 1 diss.pdf: 402928 bytes, checksum: 0b4a3ec169d46bea41c691421eff1c12 (MD5)   Previous issue date: 2004-08-12"
+  ],
+  "handle": "28693",
+  "identifier_other": "etd-08172004-122051",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08172004-122051/",
+  "identifier_uri": "http://hdl.handle.net/10919/28693",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "diss.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Semiclassical",
+    "Scattering"
+  ],
+  "title": "Semiclassical Scattering for Two and Three Body Systems",
+  "type": "Dissertation"
+}

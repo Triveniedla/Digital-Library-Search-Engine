@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Milo, Michael William",
+  "contributor_committeechair": "Roan, Michael J",
+  "contributor_committeemember": [
+    "Burdisso, Ricardo A",
+    "Johnson, Martin E",
+    "Du, Pang",
+    "Wicks, Alfred L"
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2013-12-15T18:55:51Z",
+  "date_available": "2013-12-15T18:55:51Z",
+  "date_issued": "2013-11-08",
+  "degree_discipline": "Mechanical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Anomaly detection is a relevant problem in the field of Mechanical Engineering, because the analysis of mechanical systems often relies on identifying deviations from what is considered \"normal\".  The mechanical sciences are represented by a heterogeneous collection of data types: some systems may be highly dimensional, may contain exclusively spatial or temporal data, may be spatiotemporally linked, or may be non-deterministic and best described probabilistically.  Given the broad range of data types in this field, it is not possible to propose a single processing method that will be appropriate, or even usable, for all data types.  This has led to human observation remaining a common, albeit costly and inefficient, approach to detecting anomalous signals or patterns in mechanical data.    The advantages of automated anomaly detection in mechanical systems include reduced monitoring costs, increased reliability of fault detection, and improved safety for users and operators.  This dissertation proposes a hierarchical framework for anomaly detection through machine learning, and applies it to three distinct and heterogeneous data types: state-based data, parameter-driven data, and spatiotemporal sensor network data.  In time-series data, anomaly detection results were robust in synthetic data generated using multiple simulation algorithms, as well as experimental data from rolling element bearings, with highly accurate detection rates (>99% detection, <1% false alarm).  Significant developments were shown in parameter-driven data by reducing the sample sizes necessary for analysis, as well as reducing the time required for computation.  The event-space model extends previous work into a geospatial sensor network and demonstrates applications of this type of event modeling at various timescales, and compares the model to results obtained using other approaches.    Each data type is processed in a unique way relative to the others, but all are fitted to the same hierarchical structure for system modeling.  This hierarchical model is the key development proposed by this dissertation, and makes both novel and significant contributions to the fields of mechanical analysis and data processing. This work demonstrates the effectiveness of the developed approaches, details how they differ from other relevant industry standard methods, and concludes with a proposal for additional research into other data types.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-12-15T18:55:51Z (GMT). No. of bitstreams: 1  Milo_MW_D_2013.pdf: 18630914 bytes, checksum: 74f21788c83bc7f01c90b7d1e5fb23b9 (MD5)    Previous issue date: 2013-11-08",
+  "format_medium": "ETD",
+  "handle": "23962",
+  "identifier_other": "vt_gsexam:1710",
+  "identifier_uri": "http://hdl.handle.net/10919/23962",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Anomaly Detection",
+    "Hierarchical Modeling",
+    "Bayesian Statistics",
+    "Statistics",
+    "Mechanical Systems"
+  ],
+  "title": "Anomaly Detection in Heterogeneous Data Environments with Applications to Mechanical Engineering Signals & Systems",
+  "type": "Dissertation"
+}

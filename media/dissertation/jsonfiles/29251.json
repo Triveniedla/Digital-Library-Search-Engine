@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Munoz Guevara, Jules Ricardo",
+  "contributor_committeechair": "von Spakovsky, Michael R.",
+  "contributor_committeemember": [
+    "Olsommer, Benoit",
+    "King, Peter S.",
+    "Ellis, Michael W.",
+    "O'Brien, Walter F. Jr."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:17:19Z",
+  "date_adate": "2000-10-13",
+  "date_available": "2014-03-14T20:17:19Z",
+  "date_issued": "2000-09-29",
+  "date_rdate": "2001-10-13",
+  "date_sdate": "2000-10-12",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "In this work several decomposition strategies for the synthesis / design optimization of highly coupled, highly dynamic energy systems are formally presented and their implementation illustrated. The methods are based on the autonomous optimization of the individual units (components, sub-systems or disciplines), while maintaining energy and cost links between all units, which make up the overall system. All of the approaches are designed to enhance current engineering synthesis / design practices in that: they support the analysis of systems and optimization in a modular way, the results at every step are feasible and constitute an improvement over the initial design state, the groups in charge of the different unit designs are allowed to work concurrently, and permit any level of complexity as to the modeling and optimization of the units. All of the decomposition methods use the Optimum Response Surface (ORS) of the problem as a basis for analysis. The ORS is a representation of the optimum objective function for various values of the functions that couple the system units1. The complete ORS or an approximation thereof can be used in ways, which lead to different methods. The first decomposition method called the Local Global Optimization (LGO) method requires the creation of the entire ORS by carrying out multiple unit optimizations for various combinations of values of the coupling functions. The creation of the ORS is followed by a system-level optimization in which the best combination of values for the coupling functions is sought The second decomposition method is called the Iterative Local Global Optimization (ILGO) scheme. In the ILGO method an initial point on the ORS is found, i.e. the unit optimizations are performed for initial arbitrary values of the coupling functions. A linear approximation of the ORS about that initial point is then used to guide the selection of new values for the coupling functions that guarantee an improvement upon the initial design. The process is repeated until no further improvement is achieved. The mathematical properties of the methods depend on the convexity of the ORS, which in turn is affected by the choice of thermodynamic properties used to charecterize the couplings. Examples in the aircraft industry are used to illustrate the application and properties of the methods.",
+  "description_provenance": [
+    "Author Email: jmunoz@vt.edu",
+    "Advisor Email: OlsommBC@utrc.utc.com",
+    "Advisor Email: pking@vt.edu",
+    "Advisor Email: vonspako@vt.edu",
+    "Advisor Email: mwellis@vt.edu",
+    "Advisor Email: walto@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:17:19Z (GMT). No. of bitstreams: 1 etdmunoz.pdf: 1174591 bytes, checksum: b9c36c4f44cba20001be4dd8feb6a70e (MD5)   Previous issue date: 2000-09-29"
+  ],
+  "handle": "29251",
+  "identifier_other": "etd-10122000-14360059",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-10122000-14360059/",
+  "identifier_uri": "http://hdl.handle.net/10919/29251",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etdmunoz.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "decomposition",
+    "MDO",
+    "optimization",
+    "exergy",
+    "thermoeconomics"
+  ],
+  "title": "Optimization Strategies for the Synthesis / Design of Hihgly Coupled, Highly Dynamic Energy Systems",
+  "type": "Dissertation"
+}

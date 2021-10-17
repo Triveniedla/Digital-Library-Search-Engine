@@ -1,0 +1,34 @@
+{
+  "contributor_author": "York Jr, John Benson",
+  "contributor_committeechair": "Lai, Jih S",
+  "contributor_committeemember": [
+    "Meehan, Kathleen",
+    "Nelson, Douglas J",
+    "Centeno, Virgilio A",
+    "Yu, Wensong"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2013-04-20T08:00:07Z",
+  "date_available": "2013-04-20T08:00:07Z",
+  "date_issued": "2013-04-19",
+  "degree_discipline": "Electrical Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Photovoltaic (PV) systems are a rapidly growing segment in the renewable energy industry.  Though they have humble origins and an uncertain future, the commercial viability of PV has significantly increased, especially in the past decade.  In order to make PV useful, however, significant effort has to go into the power conditioning systems that take the low-voltage dc from the panel and create utility compatible ac output.  Popular architectures for this process include the centralized inverter and the distributed micro-inverter, each with its own advantages and disadvantages.  One attempt to retain the advantages of both architectures is to centralize the inverter function but construct PV panel-level micro-converters which optimize the panel output and condition the power for the inverter.  The main focus of this work is to explore the technical challenges that face the evolution of the dc-dc micro-converter and to use them as a template for a vertically integrated design procedure. <br /><br />The individual chapters focus on different levels of the process:  topology, modulation and control, transient mitigation, and steady-state optimization.  Chapter 2 introduces a new dc-dc topology, the Integrated Boost Resonant (IBR) converter, born out of the natural design requirements for the micro-converter, such as high CEC efficiency, simple structure, and inherent Galvanic isolation.  The circuit is a combination of a traditional PWM boost converter and a discontinuous conduction mode (DCM), series resonant circuit.  The DCM operation of the high-frequency transformer possesses much lower circulating energy when compared to the traditional CCM behavior.  When combined with  zero-current-switching (ZCS) for the output diode, it results in a circuit with a high weighted efficiency of 96.8%.  Chapter 3 improves upon that topology by adding an optimized modulation scheme to the control strategy.  This improves the power stage efficiency at nominal input and enhances the available operating range.  The new, hybrid-frequency method utilizes areas where the modulator operates in constant-on, constant-off, and fixed-frequency conditions depending on duty cycle, the resonant period length, and the desired input range.  The method extends the operating range as wide as 12-48V and improves the CEC efficiency to 97.2% in the 250-W prototype.  Chapter 4 considers the soft-start of the proposed system, which can have a very large capacitive load from the inverter.  A new capacitor-transient limited (CTL) soft-start method senses the ac transient across the resonant capacitor, prematurely ending the lower switch on-time in order to prevent an excessive current spike.  A prototype design is then applied to the IBR system, allowing safe system startup with a range of capacitive loads from 2Î¼F to 500Î¼F and a consistent peak current without the need for current sensing.  Chapter 5 further investigates the impact of voltage ripple on the PV output power.  A new method for analyzing the maximum power point tracking (MPPT) efficiency is proposed based on panel-derived models.  From the panel model, an expression demonstrating the MPPT efficiency is derived, along with a ripple â \"budgetâ \" for the harmonic sources.  These ripple sources are then analyzed and suggestions for controlling their contributions are proposed that enable circuit designers to make informed and cost-effective design decisions.  Chapter 6 illustrates how results from a previous iteration can provide a basis for the next generation\\'s design.  A zero-voltage-switching (ZVS) version of the circuit in Chapter 2 is proposed, requiring only two additional MOSFETs and one inductor on the low-voltage side.  The maximum switching frequency is then increased from 70kHz to 170kHz, allowing for a 46% reduction in converter volume (from 430cm3 to 230cm3) while retaining greater than 97% weighted efficiency.<br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-20T08:00:07Z (GMT). No. of bitstreams: 1 York_JB_D_2013.pdf: 6343424 bytes, checksum: ee06099853cedce68109b36dcc71bdb5 (MD5)   Previous issue date: 2013-04-19",
+  "format_medium": "ETD",
+  "handle": "19326",
+  "identifier_other": "vt_gsexam:643",
+  "identifier_uri": "http://hdl.handle.net/10919/19326",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Power Electronics",
+    "Photovoltaic",
+    "dc-dc converter"
+  ],
+  "title": "An Isolated Micro-Converter for Next-Generation Photovoltaic Infrastructure",
+  "type": "Dissertation"
+}

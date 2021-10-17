@@ -1,0 +1,38 @@
+{
+  "contributor_author": "Poirel, Christopher L",
+  "contributor_committeechair": "Murali, T M",
+  "contributor_committeemember": [
+    "Vullikanti, Anil Kumar S",
+    "Grama, Ananth",
+    "Tyson, John J",
+    "Ramakrishnan, Narendran"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-10-17T08:00:17Z",
+  "date_available": "2013-10-17T08:00:17Z",
+  "date_issued": "2013-10-16",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Functioning of the living cell is controlled by a complex network of interactions among genes, proteins, and other molecules. A major goal of systems biology is to understand and explain the mechanisms by which these interactions govern the cell's response to various conditions. Molecular interaction networks have proven to be a powerful representation for studying cellular behavior. Numerous algorithms have been developed to unravel the complexity of these networks. Our work addresses the drawbacks of existing techniques. This thesis includes three related research efforts that introduce network-based approaches to bridge current methodological gaps in systems biology.  i. Functional enrichment methods provide a summary of biological functions that are overrepresented in an interesting collection of genes (e.g., highly differentially expressed genes between a diseased cell and a healthy cell). Standard functional enrichment algorithms ignore the known interactions among proteins. We propose a novel network-based approach to functional enrichment that explicitly accounts for these underlying molecular interactions. Through this work, we close the gap between set-based functional enrichment and topological analysis of molecular interaction networks.  ii. Many techniques have been developed to compute the response network of a cell. A recent trend in this area is to compute response networks of small size, with the rationale that only part of a pathway is often changed by disease and that interpreting small subnetworks is easier than interpreting larger ones. However, these methods may not uncover the spectrum of pathways perturbed in a particular experiment or disease. To avoid these difficulties, we propose to use algorithms that reconcile case-control DNA microarray data with a molecular interaction network by modifying per-gene differential expression p-values such that two genes connected by an interaction show similar changes in their gene expression values.  iii. Top-down analyses in systems biology can automatically find correlations among genes and proteins in large-scale datasets. However, it is often difficult to design experiments from these results. In contrast, bottom-up approaches painstakingly craft detailed models of cellular processes. However, developing the models is a manual process that can take many years. These approaches have largely been developed independently. We present Linker, an efficient and automated data-driven method that analyzes molecular interactomes. Linker combines teleporting random walks and k-shortest path computations to discover connections from a set of source proteins to a set of target proteins. We demonstrate the efficacy of Linker through two applications: proposing extensions to an existing model of cell cycle regulation in budding yeast and automated reconstruction of human signaling pathways. Linker achieves superior precision and recall compared to state-of-the-art algorithms from the literature.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-10-17T08:00:17Z (GMT). No. of bitstreams: 1 Poirel_CL_D_2013.pdf: 3822137 bytes, checksum: 24c4f28e96d3fecd3b203d75ccefcb50 (MD5)   Previous issue date: 2013-10-16",
+  "format_medium": "ETD",
+  "handle": "23899",
+  "identifier_other": "vt_gsexam:1625",
+  "identifier_uri": "http://hdl.handle.net/10919/23899",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "Computational Biology",
+    "Functional Enrichment",
+    "Graph Theory",
+    "Network",
+    "Random Walk",
+    "Signaling Pathways",
+    "Top-Down Analysis"
+  ],
+  "title": "Bridging Methodological Gaps in Network-Based Systems Biology",
+  "type": "Dissertation"
+}

@@ -1,0 +1,42 @@
+{
+  "contributor_author": "Struble, Craig Andrew",
+  "contributor_committeecochair": [
+    "Heath, Lenwood S.",
+    "Green, Edward L."
+  ],
+  "contributor_committeemember": [
+    "Allison, Donald C. S.",
+    "Gupta, Sanjay",
+    "Farkas, Daniel R."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:11:08Z",
+  "date_adate": "2000-04-30",
+  "date_available": "2014-03-14T20:11:08Z",
+  "date_issued": "2000-04-24",
+  "date_rdate": "2001-04-30",
+  "date_sdate": "2000-04-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "<p>   A fundamental task   of algebraists   is to classify   algebraic structures.   For example,   the classification   of finite groups has been widely   studied and has benefited   from the use of computational tools.   Advances   in computer power   have allowed researchers   to attack problems   never possible before. </p>  <p>   In this dissertation,   algorithms   for <I>noncommutative</I>   algebra,   when <I>ab</I>   is not necessarily equal   to <I>ba</I>,   are examined   with practical implementations   in mind.   Different encodings   of <I>associative algebras</I>   and <I>modules</I>   are also considered.   To effectively   analyze these algorithms and encodings,   the <I>encoding neutral</I>   analysis framework is introduced.   This framework builds   on the ideas used   in the arithmetic complexity framework   defined by Winograd.   Results in this dissertation   fall into three categories:   analysis of algorithms,   experimental results,   and novel algorithms. </p>  <p>   Known algorithms   for calculating   the Jacobson radical   and Wedderburn decomposition   of associative algebras   are reviewed and analyzed.   The algorithms are compared   experimentally   and a recommendation   for algorithms   to use in computer algebra systems   is given based   on the results.                              </p>  <p>   A new algorithm   for constructing the Drinfel'd double   of finite dimensional Hopf algebras   is presented.   The performance   of the algorithm is analyzed   and experiments are performed   to demonstrate its practicality.   The performance of the algorithm   is elaborated upon   for the special case   of group algebras   and shown   to be very efficient. </p>  <p>   The <tt>MeatAxe</tt> algorithm   for determining whether a module   contains a proper submodule is reviewed.   Implementation issues   for the <tt>MeatAxe</tt>   in an encoding neutral environment   are discussed.   A new algorithm   for constructing endomorphism rings   of modules defined   over path algebras is presented.   This algorithm is shown   to have better performance   than previously used algorithms. </p>  <p>   Finally,   a linear time algorithm,   to determine whether   a quotient   of a path algebra,   with a known Gr&ouml;bner basis,   is finite or infinite dimensional   is described.   This algorithm is based   on the Aho-Corasick pattern matching automata.   The resulting automata   is used to efficiently determine   the dimension of the algebra,   enumerate a basis   for the algebra,   and reduce elements   to normal forms. </p>",
+  "description_provenance": [
+    "Author Email: cstruble@vt.edu",
+    "Advisor Email: allison@cs.vt.edu",
+    "Advisor Email: heath@cs.vt.edu",
+    "Advisor Email: sanjay@cs.vt.edu",
+    "Advisor Email: farkas@math.vt.edu",
+    "Advisor Email: green@math.vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:08Z (GMT). No. of bitstreams: 1 dissertation.pdf: 1416646 bytes, checksum: 183c5c5c417249edb4cc45f04c2cd602 (MD5)   Previous issue date: 2000-04-24"
+  ],
+  "handle": "27393",
+  "identifier_other": "etd-04282000-13520019",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04282000-13520019/",
+  "identifier_uri": "http://hdl.handle.net/10919/27393",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "dissertation.pdf",
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": "computer algebra",
+  "title": "Analysis and Implementation of Algorithms for Noncommutative Algebra",
+  "type": "Dissertation"
+}

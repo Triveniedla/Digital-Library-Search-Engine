@@ -1,0 +1,44 @@
+{
+  "contributor_author": "Tong, Xiangshang",
+  "contributor_committeechair": "Kimberly P. Ellis",
+  "contributor_committeemember": [
+    "Cook, Deborah F.",
+    "Koelling, Charles Patrick",
+    "Ebru K. Bish"
+  ],
+  "contributor_department": "Industrial and Systems Engineering",
+  "date_accessioned": "2014-03-14T20:15:39Z",
+  "date_adate": "2009-09-09",
+  "date_available": "2014-03-14T20:15:39Z",
+  "date_issued": "2009-08-11",
+  "date_rdate": "2013-05-20",
+  "date_sdate": "2009-08-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The less-than-truckload (LTL) transportation industry is highly competitive with low profit margins.  Carriers in this industry strive to reduce costs and improve customer service to remain profitable.  LTL carriers rely on a network of hubs and service centers to transfer freight.  A hub is typically a cross docking terminal in which shipments from inbound trailers are unloaded and reassigned and consolidated onto outbound trailers going to the correct destinations.  Freight handling in a hub is labor intensive, and workers must quickly transfer freight during a short time period to support customer service levels.  Reducing shipment transfer time in hubs offers the opportunity to reduce labor costs, improve customer service, and increase competitive advantages for carriers.    <p> This research focuses on improving the efficiency of hub operations in order to decrease the handling costs and increase service levels for LTL carriers.  Specifically, the following two decision problems are investigated:  (1) assigning trailers to dock doors to minimize the total time required to transfer shipments from inbound trailers to destination trailers and (2) sequencing unloading and loading of freight to minimize the time required by dock employees.   The trailer-to-door assignment problem is modeled as a Quadratic Assignment Problem (QAP).  Both semi-permanent and dynamic layouts for the trailer-to-door assignment problem are evaluated.  Improvement based heuristics, including pair-wise exchange, simulated annealing, and genetic algorithms, are explored to solve the trailer-to-door assignment problem.  The freight sequencing problem is modeled as a Rural Postman Problem (RPP).   A Balance and Connect Algorithm (BCA) and an Assign First and Route Second Algorithm (AFRSA) are investigated and compared to Balanced Trailer-at-a-Time (BTAAT), Balanced Trailer-at-a-Time with Offloading (BTAATWO), and Nearest Neighbor (NN).   <p> The heuristics are evaluated using data from two LTL carriers.  For these data sets, both the total travel distance and the transfer time of hub operations are reduced using a dynamic layout with efficient freight sequencing approaches, such as the Balance and Connect Algorithm (BCA), the Balanced Trailer-at-a-Time with Offloading (BTAATWO), and the Nearest Neighbor (NN).  Specifically, with a dynamic layout, the BCA reduces travel distance by 10% to 27% over BTAAT and reduces the transfer time by 17% to 68% over BTAAT.   <p> A simulation study is also conducted for hub operations in a dynamic and stochastic environment.  The solutions from the door assignment and freight sequencing approaches are evaluated in a simulation model to determine their effectiveness in this environment.  The simulation results further demonstrate that the performance measures of hub operations are improved using a dynamic layout and efficient freight sequencing approaches.   <p> The main contributions of this research are the integer programming models developed for the freight sequencing problem (FSP), based on the Rural Postman Problem (RPP).  This is the first known application of the RPP for the FSP.  Efficient heuristics are developed for the FSP for a single worker and for multiple workers.  These heuristics are analyzed and compared to previous research using industry data.",
+  "description_provenance": [
+    "Author Email: tongx@vt.edu",
+    "Advisor Email: kpellis@vt.edu",
+    "Advisor Email: dcook@vt.edu",
+    "Advisor Email: koelling@vt.edu",
+    "Advisor Email: ebru@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:39Z (GMT). No. of bitstreams: 1 Tong_XS_D_2008.pdf: 1851532 bytes, checksum: 80eaf52e7b112fa89b723796978e3728 (MD5)   Previous issue date: 2009-08-11"
+  ],
+  "handle": "28782",
+  "identifier_other": "etd-08242009-203222",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08242009-203222/",
+  "identifier_uri": "http://hdl.handle.net/10919/28782",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Tong_XS_D_2008.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Trailer-to-door Assignment Problem",
+    "Cross-dock Operations",
+    "Less-than-Truckload",
+    "Freight Sequencing Problem",
+    "Simulation"
+  ],
+  "title": "Analysis and Improvement of Cross-dock Operations in Less-than-Truckload Freight Transportaion Industry",
+  "type": "Dissertation"
+}

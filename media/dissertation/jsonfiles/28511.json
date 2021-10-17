@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Danielson, Jared Andrew",
+  "contributor_committeechair": "Burton, John K.",
+  "contributor_committeemember": [
+    "Bender, Holly S.",
+    "Cennamo, Katherine S.",
+    "Holmes, Glen A.",
+    "Lockee, Barbara B.",
+    "Sherman, Gregory P."
+  ],
+  "contributor_department": "Teaching and Learning",
+  "date_accessioned": "2014-03-14T20:14:43Z",
+  "date_adate": "1999-08-13",
+  "date_available": "2014-03-14T20:14:43Z",
+  "date_issued": "1999-07-07",
+  "date_rdate": "2000-08-13",
+  "date_sdate": "1999-08-03",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Veterinary students face the difficult task of learning to classify clinical laboratory data. In an effort to make this task easier, a computer and web based tool known as the Problem List Generator (PLG) was designed based on current literature dealing with learning theory and medical education which are reviewed in chapter 1. Chapter 2 describes the design and the development process for the PLG. The PLG allows the students to access any number of cases (determined by the professor) of increasing complexity which provide signalment, history, physical exam, and laboratory data for a number of patients. Using the PLG, students analyze the data, identify data abnormalities and mechanisms, arrange them in a problem list, diagnose the problem, and compare their problem list and diagnosis to an expert problem list and diagnosis. The PLG was evaluated using a four step evaluation process involving an expert review, one-to-one evaluations, small group evaluations, and a two-part field trial, and was evaluated in terms of clarity, feasibility, and impact. The PLG is usable, in terms of clarity and feasibility, though fixes are recommended. There is no evidence to infer, statistically, that the PLG has any effect on learning outcomes. However, trends in the quantitative data and logical inference based on the context of the evaluation suggest that the PLG might help students, particularly those of low and average ability to produce more accurate problem lists.",
+  "description_provenance": [
+    "Author Email: jadaniel@vt.edu",
+    "Advisor Email: jburton@vt.edu",
+    "Advisor Email: hbender@vt.edu",
+    "Advisor Email: cennamo@vt.edu",
+    "Advisor Email: gholmes@vt.edu",
+    "Advisor Email: lockeebb@vt.edu",
+    "Advisor Email: shermang@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:14:43Z (GMT). No. of bitstreams: 2 DanielsonDiss.pdf: 843953 bytes, checksum: f8f966fdaa361dc97db48b96a1372bf3 (MD5) danielsonvita.pdf: 20724 bytes, checksum: 175ee6c3382ea0d00b1724d52fd3a891 (MD5)   Previous issue date: 1999-07-07"
+  ],
+  "handle": "28511",
+  "identifier_other": "etd-080399-152508",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-080399-152508/",
+  "identifier_uri": "http://hdl.handle.net/10919/28511",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "DanielsonDiss.pdf",
+    "danielsonvita.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Web based Instruction",
+    "Clinical Pathology",
+    "Expert Scheme",
+    "Distance Education",
+    "Applied Learning Theory"
+  ],
+  "title": "The Design, Development and Evaluation of a Web-based Tool for Helping Veterinary Students Learn How to Classify Clinical Laboratory Data",
+  "type": "Dissertation"
+}

@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Soo, Houng Y.",
+  "contributor_committeecochair": [
+    "Teordorovic, Dusan",
+    "Collura, John"
+  ],
+  "contributor_committeemember": [
+    "Tignor, Samuel C.",
+    "Hobeika, Antoine G.",
+    "Gifford, Jonathan",
+    "Triantis, Konstantinos P."
+  ],
+  "contributor_department": "Civil Engineering",
+  "date_accessioned": "2014-03-14T20:10:37Z",
+  "date_adate": "2004-05-06",
+  "date_available": "2014-03-14T20:10:37Z",
+  "date_issued": "2004-04-19",
+  "date_rdate": "2005-05-06",
+  "date_sdate": "2004-04-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Advances in microprocessor and communications technologies are making it possible to deploy advanced traffic signal controllers capable of integrating emergency vehicle preemption and transit priority operations.  However, investment planning for such an integrated system is not a trivial task.  Investment planning for such a system requires a holistic approach that considers institutional, technical and financial issues from a systems perspective. Two distinct service providers, fire and rescue providers and transit operators, with separate operational functions, objectives, resources and constituents are involved.   Performance parameters for the integrated system are not well defined and performance data are often imprecise in nature.   Transportation planners and managers interested in deploying integrated emergency vehicle preemption and traffic priority systems do not have an evaluation approach or a common set of performance metrics to make an informed decision.  There is a need for a simple structured analytical approach and tools to assess the impacts of an integrated emergency vehicle preemption and transit priority system as part of investment decision making processes.  This need could be met with the assistance of a decision support system (DSS) developed to provide planners and managers a simple and intuitive analytical approach to assist in making investment decisions regarding emergency vehicle preemption and transit signal priority. This dissertation has two research goals: (1) to develop a decision support system framework to assess the impacts of advanced traffic signal control systems capable of integrating emergency vehicle preemption and transit signal priority operations for investment planning purposes; and (2) to develop selected analytical tools for incorporation into the decision support system framework.  These analytical tools will employ fuzzy sets theory concepts, as well as cost and accident reduction factors.  As part of this research, analytical tools to assess impacts on operating cost for transit and fire and rescue providers have been developed. In addition, an analytical tool was developed and employs fuzzy multi-attribute decision making methods to rank alternative transit priority strategies.  These analytical tools are proposed for incorporation into the design of a decision support system in the future.",
+  "description_provenance": [
+    "Author Email: houng.soo@sycoleman.com",
+    "Advisor Email: STignor@aol.com",
+    "Advisor Email: hobeika@vt.edu",
+    "Advisor Email: jgifford@gmu.edu",
+    "Advisor Email: duteodor@vt.edu",
+    "Advisor Email: jcollura@vt.edu",
+    "Advisor Email: triantis@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:37Z (GMT). No. of bitstreams: 1 SooDissertation.pdf: 1128740 bytes, checksum: 1463b7b96849a65765f7d42b68b88773 (MD5)   Previous issue date: 2004-04-19"
+  ],
+  "handle": "27204",
+  "identifier_other": "etd-04242004-164709",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04242004-164709/",
+  "identifier_uri": "http://hdl.handle.net/10919/27204",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "SooDissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Transportation Investment Planning",
+    "ITS Evaluation",
+    "Fuzzy Sets Theory Concepts",
+    "Decision Support Systems",
+    "Multi-attribute Decision Making",
+    "Traffic Signal Priority"
+  ],
+  "title": "Towards the Development of a Decision Support System for Emergency Vehicle Preemption and Transit Signal Priority Investment Planning",
+  "type": "Dissertation"
+}

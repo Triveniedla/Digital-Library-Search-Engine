@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Kim, Rae-Young",
+  "contributor_committeechair": "Lai, Jih-Sheng Jason",
+  "contributor_committeemember": [
+    "Lindner, Douglas K.",
+    "Liu, Yilu",
+    "Meehan, Kathleen",
+    "Nelson, Douglas J."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:16:06Z",
+  "date_adate": "2009-09-28",
+  "date_available": "2014-03-14T20:16:06Z",
+  "date_issued": "2009-08-28",
+  "date_rdate": "2009-09-28",
+  "date_sdate": "2009-09-10",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The dissertation presents a generalized control structure for two-stage power converters operated in a renewable energy power system for smart grid and micro grid systems. The generalized control structure is based on the two-loop average-mode-control technique, and created by reconstructing the conventional control structure and feedback configuration. It is broadly used for both dc-dc and dc-ac power conversion based on the two-stage converter architecture, while offering several functionalities required for renewable energy power systems. The generalized control structure improves the performance and reliability of renewable energy power systems with multiple functionalities required for consistent and reliable distributed power sources in the applications of the smart grid and micro grid system. The dissertation also presents a new modeling approach based on a modification of the subsystem-integration approach. The approach provides continuous-time small-signal models for all of two-stage power converters in a unified way. As a result, a modeling procedure is significantly reduced by treating a two-stage power converter as a single-stage with current sinking or sourcing. The difficulty of linearization caused by time-varying state variables is avoided with the use of the quasi-steady state concept. The generalized control structure and modeling approach are demonstrated using the two-stage dc-dc and dc-ac power conversion systems. A battery energy storage system with a thermoelectric source and a grid-connected power system with a photovoltaic source are examined. The large-signal averaged model and small-signal model are developed for the two demonstrated examples, respectively. Based on the modeling results, the control loops are designed by using frequency domain analysis. Various simulations and experimental tests are carried out to verify the compensator designs and to evaluate the generalized control structure performance.   From the simulation and experimental results, it is clearly seen that the generalized control structure improves the performance of a battery energy storage system due to the unified control concept. The unified control concept eliminates transient over-voltage or over-current, extra energy losses, power quality issues, and complicated decision processes for multiple-mode control. It is also seen that the generalized control structure improves the performance of a single-phase grid-connected system through increased voltage control loop bandwidth of the active ripple current reduction scheme. As a result of the increased loop bandwidth, the transient overshoot or undershoot of the dc-link voltage are significantly reduced during dynamic load changes.",
+  "description_provenance": [
+    "Author Email: rykim@vt.edu",
+    "Advisor Email: laijs@vt.edu",
+    "Advisor Email: lindner@vt.edu",
+    "Advisor Email: yilu.liu@vt.edu",
+    "Advisor Email: kameehan@vt.edu",
+    "Advisor Email: nelsondj@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:06Z (GMT). No. of bitstreams: 1 Kim_R_D_2009.pdf: 4231699 bytes, checksum: 17a33fbef7c6b940c7b7b7965031cf90 (MD5)   Previous issue date: 2009-08-28"
+  ],
+  "handle": "28932",
+  "identifier_other": "etd-09102009-004948",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09102009-004948/",
+  "identifier_uri": "http://hdl.handle.net/10919/28932",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Kim_R_D_2009.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "converter modeling",
+    "two-stage power converter",
+    "grid connected system",
+    "battery energy storage",
+    "smart grid",
+    "renewable energy power system"
+  ],
+  "title": "Improved renewable energy power system using a generalized control structure for two-stage power converters",
+  "type": "Dissertation"
+}

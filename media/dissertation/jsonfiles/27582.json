@@ -1,0 +1,51 @@
+{
+  "contributor_author": "D'Angio, Paul Christopher",
+  "contributor_committeecochair": [
+    "Leonessa, Alexander",
+    "Hong, Dennis W."
+  ],
+  "contributor_committeemember": [
+    "Cooper, Robin K. Panneton",
+    "Sturges, Robert H.",
+    "Southward, Steve C."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:11:41Z",
+  "date_adate": "2012-05-31",
+  "date_available": "2014-03-14T20:11:41Z",
+  "date_issued": "2012-04-30",
+  "date_rdate": "2012-05-31",
+  "date_sdate": "2012-05-07",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This work proposes a series of driver assistance technologies that enable blind persons to safely and independently operate an automobile on standard public roads. Such technology could additionally benefit sighted drivers by augmenting vision with suggestive cues during normal and low-visibility driving conditions. This work presents a non-visual human-computer interface system with passive and adaptive controlling software to realize this type of driver assistance technology. The research and development behind this work was made possible through the Blind Driver ChallengeÂ® initiative taken by the National Federation of the Blind.  The instructional technologies proposed in this work enable blind drivers to operate an automobile through the provision of steering wheel angle and speed cues to the driver in a non-visual method. This paradigm imposes four principal functionality requirements: Perception, Motion Planning, Reference Transformations, and Communication. The Reference Transformation and Communication requirements are the focus of this work and convert motion planning trajectories into a series of non-visual stimuli that can be communicated to the human driver.  This work proposes two separate algorithms to perform the necessary reference transformations described above. The first algorithm, called the Passive Non-Visual Interface Driver, converts the planned trajectory data into a form that can be understood and reliably interacted with by the blind driver. This passive algorithm performs the transformations through a method that is independent of the driver. The second algorithm, called the Adaptive Non-Visual Interface Driver, performs similar trajectory data conversions through methods that adapt to each particular driver. This algorithm uses Model Predictive Control supplemented with Artificial Neural Network driver models to generate non-visual stimuli that are predicted to induce optimal performance from the driver. The driver models are trained online and in real-time with a rapid training approach to continually adapt to changes in the driverâ  s dynamics over time.  The communication of calculated non-visual stimuli is subsequently performed through a Non-Visual Interface System proposed by this work. This system is comprised of two non-visual human computer interfaces that communicate driving information through haptic stimuli. The DriveGrip interface is pair of vibro-tactile gloves that communicate steering information through the driverâ  s hands and fingers. The SpeedStrip interface is a vibro-tactile cushion fitted on the driverâ  s seat that communicates speed information through the driverâ  s legs and back. The two interfaces work simultaneously to provide a continuous stream of directions to the driver as he or she navigates the vehicle.",
+  "description_provenance": [
+    "Author Email: pcdangio@vt.edu",
+    "Advisor Email: aleoness@vt.edu",
+    "Advisor Email: dhong@vt.edu",
+    "Advisor Email: panneton@vt.edu",
+    "Advisor Email: sturges@vt.edu",
+    "Advisor Email: scsouth@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:11:41Z (GMT). No. of bitstreams: 2 DAngio_PC_D_2012_1.pdf: 9753491 bytes, checksum: 48e54eab6f378d7fc22fd9108a201b9e (MD5) DAngio_PC_D_2012_Copyright.pdf: 734696 bytes, checksum: e41c938e4f59854a821ac3aebed8df92 (MD5)   Previous issue date: 2012-04-30"
+  ],
+  "handle": "27582",
+  "identifier_other": "etd-05072012-161514",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-05072012-161514/",
+  "identifier_uri": "http://hdl.handle.net/10919/27582",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "DAngio_PC_D_2012_1.pdf",
+    "DAngio_PC_D_2012_Copyright.pdf"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Real-Time Neural Network Driver Modeling",
+    "Driver Assistive Technologies",
+    "Model Predictive Control",
+    "Quazi-Newton Optimization",
+    "Non-Visual Human Computer Interfaces"
+  ],
+  "title": "Adaptive and Passive Non-Visual Driver Assistance Technologies for the Blind Driver ChallengeÂ®",
+  "type": "Dissertation"
+}

@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Schafrik, Steven J",
+  "contributor_committeechair": "Luxbacher, Kramer Davis",
+  "contributor_committeemember": [
+    "Luttrell, Gerald H",
+    "Karmis, Michael E",
+    "Agioutantis, Zacharias",
+    "Westman, Erik Christian"
+  ],
+  "contributor_department": "Mining and Minerals Engineering",
+  "date_accessioned": "2013-04-26T08:00:19Z",
+  "date_available": "2013-04-26T08:00:19Z",
+  "date_issued": "2013-04-25",
+  "degree_discipline": "Mining Engineering",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "In an underground coal mine, the measure of a communication system is the coverage area it can provide at a quality that ensures a miner can communicate with other miners in and out of the mine during normal and emergency operations.  The coverage area of a wireless mesh communication system can be calculated using the tool, COMMs, developed and discussed in this document.  This tool can also be used to explore emergency operations, or operations where the mesh infrastructure is degraded or destroyed.  Most often, the communication system is also capable of transmitting data from sensors including a set of sensors, such as Radio Frequency Identification readers, described as the tracking system.<br />An underground tracking system is described as a system that calculates a location in a useful coordinate when a tracked device is underground.  The tracked device is a representative of a miner, group of miners or equipment, depending on state law and the mine\\'s deployment.  The actual location of the miner or equipment being tracked is the Ground Truth Position (GTP) and the tracking system\\'s representation in the same coordinate system at the same time is the Tracking System Position (TSP).  In an excellent tracking system the actual location, GTP, and TSP will be very close to each other.  This work also develops a set of calculated metrics that describe tracking system performance.<br />The Tracking Coverage Area metric refers to the area within the mine that the tracking system either actively measures a tracked device\\'s location or infers it based on the spatial limitations of the mine and information other than active measurements. Average Accuracy is the arithmetic mean of a set of distances from the TSP to the GTP associated with a tracking system. The Average Cluster Radius metric is the average distance a set of TSPs are from their center point, which is determined by the average location of a TSP relative to the GTP.  A 90% Confidence Distance is the distance from a tracked device\\'s actual location (i.e., GTP) that is greater than 90% of the collected distance from GTP to TSP magnitudes (\"90th percentile\").<br />Regulatory guidelines in the United States currently define different tracking qualities at locations in the mine.  These can be classified in location categories of Working Face, Strategic Areas, and Escapeways and Travel-ways.<br />All direct paths via escapeway or travel-way from the mine portal to the working face should be simplified into a one-dimensional path that is subdivided by the three regulatory categories.  Each of these subdivisions should be described using the metrics defined above.<br />These metrics can be predicted using COMMs for a tracking system that is utilizing an underground wireless mesh system that uses Received Signal Strength Indicators (RSSI) to calculate the TSP.  Because the tracking system\\'s algorithm to convert RSSI into a TSP is proprietary to the manufacturer, in order to develop predictions the engineer must collaborate with the manufacturer.  In this document, the predictions and calculations were obtained in conjunction with the manufacturer and proved to be accurate describing the tracking system that was designed and tested.",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-26T08:00:19Z (GMT). No. of bitstreams: 2 Schafrik_SJ_D_2013.pdf: 1907575 bytes, checksum: 4dea230c837c2fa23eadf69404600497 (MD5) Schafrik_SJ_D_2013_support_1.pdf: 85173 bytes, checksum: ab78696e9db90a5d6e689d9e0cc5a6a0 (MD5)   Previous issue date: 2013-04-25",
+  "format_medium": "ETD",
+  "handle": "19363",
+  "identifier_other": "vt_gsexam:691",
+  "identifier_uri": "http://hdl.handle.net/10919/19363",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "mine design",
+    "wireless communication",
+    "wireless tracking",
+    "computer simulation",
+    "regulations"
+  ],
+  "title": "Evaluation and Simulation of Wireless Communication and Tracking in Underground Mining Applications",
+  "type": "Dissertation"
+}

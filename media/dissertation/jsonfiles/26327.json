@@ -1,0 +1,48 @@
+{
+  "contributor_author": "Leifsson, Leifur Thor",
+  "contributor_committeechair": "Mason, William H.",
+  "contributor_committeemember": [
+    "Haftka, Raphael T.",
+    "Grossman, Bernard M.",
+    "Devenport, William J.",
+    "Schetz, Joseph A."
+  ],
+  "contributor_department": "Aerospace and Ocean Engineering",
+  "date_accessioned": "2014-03-14T20:07:51Z",
+  "date_adate": "2006-04-04",
+  "date_available": "2014-03-14T20:07:51Z",
+  "date_issued": "2005-08-19",
+  "date_rdate": "2006-04-04",
+  "date_sdate": "2006-02-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The objective of this research is to examine how to design low-noise transport aircraft using Multidisciplinary Design Optimization (MDO). The subject is approached by designing for low-noise both implicitly and explicitly.  The explicit design approach involves optimizing an aircraft while explicitly constraining the noise level. An MDO framework capable of optimizing both a cantilever wing and a Strut-Braced-Wing (SBW) aircraft was developed. The framework employs aircraft analysis codes previously developed at the Multidisciplinary Design and Analysis (MAD) Center at Virginia Tech (VT). These codes have been improved here to provide more detailed and realistic analysis. The Aircraft Noise Prediction Program (ANOPP) is used for airframe noise analysis. The objective is to use the MDO framework to design aircraft for low-airframe-noise at the approach conditions and quantify the change in weight and performance with respect to a traditionally designed aircraft.  The results show that reducing airframe noise by reducing approach speed alone, will not provide significant noise reduction without a large performance and weight penalty. Therefore, more dramatic changes to the aircraft design are needed to achieve a significant airframe noise reduction. Another study showed that the trailing-edge (TE) flap can be eliminated, as well as all the noise associated with that device, without incurring a significant weight and performance penalty. To achieve approximately 10 EPNdB TE flap noise reduction the flap area was reduced by 82% while the wing reference area was increased by 12.4% and the angle of attack increased from 7.6 degrees to 12.1 degrees to meet the required lift at approach. The wing span increased by approximately 2.2%. Since the flap area is being minimized, the wing weight suffers only about a 2,000 lb penalty. The increase in wing span provides a reduction in induced drag to balance the increased parasite drag due to a lower wing aspect ratio. As a result, the aircraft has been designed to have minimal TE flaps without any significant performance penalty. If noise due to the leading-edge (LE) slats and landing gear are reduced, which is currently being pursued, the elimination of the flap will be very significant as the clean wing noise will be the next 'noise barrier'. Lastly, a comparison showed that SBW aircraft can be designed to be 10% lighter and require 15% less fuel than cantilever wing aircraft. Furthermore, an airframe noise analysis showed that SBW aircraft with short fuselage-mounted landing gear could have similar or potentially a lower airframe noise level than comparable cantilever wing aircraft.  The implicit design approach involves selecting a configuration that supports a low-noise operation, and optimizing for performance. A Blended-Wing-Body (BWB) transport aircraft has the potential for significant reduction in environmental emissions and noise compared to a conventional transport aircraft. A BWB with distributed propulsion was selected as the configuration for the implicit low-noise design in this research. An MDO framework previously developed at the MAD Center at Virginia Tech has been refined to give more accurate and realistic aircraft designs. To study the effects of distributed propulsion, two different BWB configurations were optimized. A conventional propulsion BWB with four pylon mounted engines and two versions of a distributed propulsion BWB with eight boundary layer ingestion inlet engines. A 'conservative' distributed propulsion BWB design with a 20% duct weight factor and a 95% duct efficiency, and an 'optimistic' distributed propulsion BWB design with a 10% duct weight factor and a 97% duct efficiency were studied.  The results show that 65% of the possible savings due to 'filling in' the wake are required for the 'optimistic' distributed propulsion BWB design to have comparable $TOGW$ as the conventional propulsion BWB, and 100% savings are required for the 'conservative' design. Therefore, considering weight alone, this may not be an attractive concept. Although a significant weight penalty is associated with the distributed propulsion system  presented in this study, other characteristics need to be considered when evaluating the overall effects. Potential benefits of distributed propulsion are, for example, reduced propulsion system noise, improved safety due to engine redundancy, a less critical engine-out condition, gust load/flutter alleviation, and increased affordability due to smaller, easily-interchangeable engines.",
+  "description_provenance": [
+    "Author Email: leifur@vt.edu",
+    "Advisor Email: whmason@vt.edu",
+    "Advisor Email: haftka@ufl.edu",
+    "Advisor Email: grossman@nianet.org",
+    "Advisor Email: devenport@vt.edu",
+    "Advisor Email: ptiger@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:51Z (GMT). No. of bitstreams: 1 Leifsson-PhD.pdf: 11183487 bytes, checksum: ae5a67a93878ee7586aa7c18c2d0c09b (MD5)   Previous issue date: 2005-08-19"
+  ],
+  "handle": "26327",
+  "identifier_other": "etd-02282006-164934",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02282006-164934/",
+  "identifier_uri": "http://hdl.handle.net/10919/26327",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Leifsson-PhD.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Conceptual Aircraft Design",
+    "Multidisciplinary Design Optimization",
+    "Aircraft Noise",
+    "Distributed Propulsion",
+    "Blended-Wing-Body",
+    "Strut-Braced Wing",
+    "Cantilever Wing"
+  ],
+  "title": "Multidisciplinary Design Optimization of Low-Noise Transport Aircraft",
+  "type": "Dissertation"
+}

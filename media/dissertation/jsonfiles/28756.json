@@ -1,0 +1,51 @@
+{
+  "contributor_author": "Mukherjee, Joy",
+  "contributor_committeechair": "Varadarajan, Srinidhi",
+  "contributor_committeemember": [
+    "Ramakrishnan, Naren",
+    "Arthur, James D.",
+    "Ribbens, Calvin J.",
+    "Midkiff, Scott F."
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2014-03-14T20:15:32Z",
+  "date_adate": "2006-09-25",
+  "date_available": "2014-03-14T20:15:32Z",
+  "date_issued": "2006-08-16",
+  "date_rdate": "2006-09-25",
+  "date_sdate": "2006-08-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation proposes the Weaves runtime framework for the execution of large scale parallel programs over lightweight intra-process threads. The goal of the Weaves framework is to help process-based legacy parallel programs exploit the scalability of threads without any modifications. The framework separates global variables used by identical, but independent, threads of legacy parallel programs without resorting to thread-based re-programming. At the same time, it also facilitates low-overhead collaboration among threads of a legacy parallel program through multi-granular selective sharing of global variables.  <br><br> Applications that follow the tenets of the Weaves framework can load multiple identical, but independent, copies of arbitrary object files within a single process. They can compose the runtime images of these object files in graph-like ways and run intra-process threads through them to realize various degrees of multi-granular selective sharing or separation of global variables among the threads. Using direct runtime control over the resolution of individual references to functions and variables, they can also manipulate program composition at fine granularities. Most importantly, the Weaves framework does not entail any modifications to either the source codes or the native codes of the object files. The framework is completely transparent. <br><br> Results from experiments with a real-world process-based parallel application show that the framework can correctly execute a thousand parallel threads containing non-threadsafe global variables on a single machine - nearly twice as many as the traditional process-based approach can - without any code modifications. On increasing the number of machines, the application experiences super-linear speedup, which illustrates scalability. Results from another similar application, chosen from a different software area to emphasize the breadth of this research, show that the framework's facilities for low-overhead collaboration among parallel threads allows for significantly greater scales of achievable parallelism than technologies for inter-process collaboration allow. Ultimately, larger scales of parallelism enable more accurate software modeling of real-world parallel systems, such as computer networks and multi-physics natural phenomena.",
+  "description_provenance": [
+    "Author Email: jmukherj@vt.edu",
+    "Advisor Email: srinidhi@cs.vt.edu",
+    "Advisor Email: naren@cs.vt.edu",
+    "Advisor Email: arthur@cs.vt.edu",
+    "Advisor Email: ribbens@cs.vt.edu",
+    "Advisor Email: midkiff@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:15:32Z (GMT). No. of bitstreams: 3 Dissertation_Mukherjee_2006.pdf: 955907 bytes, checksum: d413e47a03f4dd3af484369f40d53010 (MD5) Tex.zip: 70000 bytes, checksum: 6557ffeb6b1563bc9219ea178a9b982f (MD5) Graphics.zip: 531296 bytes, checksum: 7b9120fb68c391a5352a180ffe435aaa (MD5)   Previous issue date: 2006-08-16"
+  ],
+  "handle": "28756",
+  "identifier_other": "etd-08222006-002829",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-08222006-002829/",
+  "identifier_uri": "http://hdl.handle.net/10919/28756",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "Dissertation_Mukherjee_2006.pdf",
+    "Tex.zip",
+    "Graphics.zip"
+  ],
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Dynamic Adaptation",
+    "Runtime Linking and Loading",
+    "Lightweight Threads",
+    "Component Composition",
+    "Parallel Programs",
+    "Legacy Procedural codes"
+  ],
+  "title": "A Runtime Framework for Parallel Programs",
+  "type": "Dissertation"
+}

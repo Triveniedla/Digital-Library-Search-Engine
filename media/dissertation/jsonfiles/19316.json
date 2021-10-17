@@ -1,0 +1,36 @@
+{
+  "contributor_author": "Song, Shuaiwen",
+  "contributor_committeechair": "Cameron, Kirk W",
+  "contributor_committeemember": [
+    "Ribbens, Calvin J",
+    "Rountree, Barry L",
+    "Vishnu, Abhinav Dr.",
+    "Ge, Rong",
+    "Butt, Ali Raza Ashraf"
+  ],
+  "contributor_department": "Computer Science",
+  "date_accessioned": "2013-04-11T08:00:06Z",
+  "date_available": "2013-04-11T08:00:06Z",
+  "date_issued": "2013-04-10",
+  "degree_discipline": "Computer Science and Applications",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PHD",
+  "description_abstract": "Massive parallelism combined with complex memory hierarchies and heterogeneity in high-performance computing (HPC) systems form a barrier to efficient application and architecture design. The performance achievements of the past must continue over the next decade to address the needs of scientific simulations. However, building an exascale system by 2022 that uses less than 20 megawatts will require significant innovations in power and performance efficiency.<br />    A key limitation of past approaches is a lack of power-performance policies allowing users to quantitatively bound the effects of power management on the performance of their applications and systems. Existing controllers and predictors use policies fixed by a knowledgeable user to opportunistically save energy and minimize performance impact. While the qualitative effects are often good and the aggressiveness of a controller can be tuned to try to save more or less energy, the quantitative effects of tuning and setting opportunistic policies on performance and power are unknown. In other words, the controller will save energy and minimize performance loss in many cases but we have little understanding of the quantitative effects of controller tuning. This makes setting power-performance policies a manual trial and error process for domain experts and a black art for practitioners. To improve upon past approaches to high-performance power management, we need to quantitatively understand the effects of power and performance at scale.<br />    In this work, I have developed theories and techniques to quantitatively understand the relationship between power and performance for high performance systems at scale. For instance, our system-level, iso-energy-efficiency model analyzes, evaluates and predicts the performance and energy use of data intensive parallel applications on multi-core systems. This model allows users to study the effects of machine and application dependent characteristics on system energy efficiency. Furthermore, this model helps users isolate root causes of energy or performance inefficiencies and develop strategies for scaling systems to maintain or improve efficiency.  I have also developed methodologies which can be extended and applied to model modern heterogeneous architectures such as GPU-based clusters to improve their efficiency at scale. <br />",
+  "description_degree": "PHD",
+  "description_provenance": "Made available in DSpace on 2013-04-11T08:00:06Z (GMT). No. of bitstreams: 1 Song_S_D_2013.pdf: 5051977 bytes, checksum: 7adcd7e563aa4d0f90a1be3e86711ca0 (MD5)   Previous issue date: 2013-04-10",
+  "format_medium": "ETD",
+  "handle": "19316",
+  "identifier_other": "vt_gsexam:381",
+  "identifier_uri": "http://hdl.handle.net/10919/19316",
+  "publisher": "Virginia Tech",
+  "rights": "This Item is protected by copyright and/or related rights. Some uses of this Item may be deemed fair and permitted by law even without permission from the rights holder(s), or the rights holder(s) may have licensed the work for use under certain conditions. For other uses you need to obtain permission from the rights holder(s).",
+  "subject": [
+    "High performance computing",
+    "power-aware computing",
+    "performance/energy modeling and optimization",
+    "runtime system"
+  ],
+  "title": "Power, Performance and Energy Models and Systems for Emergent Architectures",
+  "type": "Dissertation"
+}

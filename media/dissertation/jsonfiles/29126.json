@@ -1,0 +1,45 @@
+{
+  "contributor_author": "Heracleous, Maria S.",
+  "contributor_committeechair": "Spanos, Aris",
+  "contributor_committeemember": [
+    "Ashley, Richard A.",
+    "McGuirk, Anya M.",
+    "Yang, Dennis T.",
+    "Kumar, Raman"
+  ],
+  "contributor_department": "Economics",
+  "date_accessioned": "2014-03-14T20:16:52Z",
+  "date_adate": "2003-10-02",
+  "date_available": "2014-03-14T20:16:52Z",
+  "date_issued": "2003-08-29",
+  "date_rdate": "2004-10-02",
+  "date_sdate": "2003-09-28",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "Over the last twenty years or so the Dynamic Volatility literature has produced a wealth of univariate and multivariate GARCH type models. While the univariate models have been relatively  successful in empirical studies, they suffer from a number ofweaknesses, such as unverifiable parameter  restrictions, existence of moment conditions and the retention of Normality. These problems  are naturally more acute in the multivariate GARCH type models, which in addition have the problem of overparameterization.  <p> This dissertation uses the Student's t distribution and follows the Probabilistic Reduction (PR)  methodology to modify and extend the univariate and multivariate volatility models viewed as  alternative to the GARCH models. Its most important advantage is that it gives rise to internally  consistent statistical models that do not require ad hoc parameter restrictions unlike the GARCH  formulations. <p> Chapters 1 and 2 provide an overview of my dissertation and recent developments in the volatility  literature. In Chapter 3 we provide an empirical illustration of the PR approach for modeling  univariate volatility. Estimation results suggest that the Student's t AR model is a parsimonious  and statistically adequate representation of exchange rate returns and Dow Jones returns data.  Econometric modeling based on the Student's t distribution introduces an additional variable -  the degree of freedom parameter. In Chapter 4 we focus on two questions relating to the `degree of  freedom' parameter. A simulation study is used to examine:(i) the ability of the kurtosis coefficient  to accurately capture the implied degrees of freedom, and (ii) the ability of Student's t GARCH model to estimate the true degree of freedom parameter accurately. Simulation results reveal that  the kurtosis coefficient and the Student's t GARCH model (Bollerslev, 1987) provide biased and inconsistent estimators of the degree of freedom parameter. <p> Chapter 5 develops the Students' t Dynamic Linear Regression (DLR) }model  which allows us to explain univariate volatility in terms of: (i) volatility in the past history of the series itself and  (ii) volatility in other relevant exogenous variables. Empirical results of this chapter suggest that  the Student's t DLR model provides a promising way to model volatility. The main advantage of  this model is that it is defined in terms of observable random variables and their lags, and not the errors as is the case with the GARCH models. This makes the inclusion of relevant exogenous variables  a natural part of the model set up. <p> In Chapter 6 we propose the Student's t VAR model which deals effectively with several key  issues raised in the multivariate volatility literature. In particular, it ensures positive definiteness of the variance-covariance matrix without requiring any unrealistic coefficient restrictions and provides a parsimonious description of the conditional variance-covariance matrix by jointly modeling the  conditional mean and variance functions.",
+  "description_provenance": [
+    "Author Email: mheracle@vt.edu",
+    "Advisor Email: ashleyr@vt.edu",
+    "Advisor Email: aris@vt.edu",
+    "Advisor Email: mcguirk@vt.edu",
+    "Advisor Email: deyang@vt.edu",
+    "Advisor Email: rkumar@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:16:52Z (GMT). No. of bitstreams: 1 etd.pdf: 1462739 bytes, checksum: 0e4150050227a41cea928b92cd5d71fa (MD5)   Previous issue date: 2003-08-29"
+  ],
+  "handle": "29126",
+  "identifier_other": "etd-09282003-131505",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-09282003-131505/",
+  "identifier_uri": "http://hdl.handle.net/10919/29126",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "etd.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Multivariate GARCH",
+    "Student's t distribution",
+    "Exchange Rates",
+    "VAR"
+  ],
+  "title": "Volatility Modeling Using the Student's t Distribution",
+  "type": "Dissertation"
+}

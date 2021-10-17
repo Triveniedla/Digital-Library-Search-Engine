@@ -1,0 +1,60 @@
+{
+  "contributor_author": "Zakaria, Gaguk",
+  "contributor_committeechair": "Beex, A. A. Louis",
+  "contributor_committeemember": [
+    "Moose, Richard L.",
+    "VanLandingham, Hugh F.",
+    "Reed, Jeffrey Hugh",
+    "Ball, Joseph A."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:07:46Z",
+  "date_adate": "2000-02-26",
+  "date_available": "2014-03-14T20:07:46Z",
+  "date_issued": "2000-02-14",
+  "date_rdate": "2001-02-26",
+  "date_sdate": "2000-02-24",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "CASCADE RLS WITH SUBSECTION ADAPTATION <p> <p>by <p>Gaguk Zakaria <p>Prof. A. A. (Louis) Beex, Chairman <p>The Bradley Department of Electrical and Computer Engineering <p> <p>(ABSTRACT)  <p>Speech coding or speech compression is one of the important aspects of speech  communications nowadays. By coding the speech, the speed needed to transmit the digitized  speech, called the bit rate, can be reduced. This means that for a certain speech communications  channel, the lower the bit rate of the speech coding, the more communicating parties can be  carried on that channel. This research has as its main application the extraction of the parameters  of human speech for speech coding purposes. <p>We propose an RLS-based cascade adaptive filter structure that can significantly reduce  the computational effort required by the RLS algorithm for inverse filtering types of applications.  We named it the Cascade RLS with Subsection Adaptation (CRLS-SA) algorithm. The reduction  in computational effort comes from the fact that, for inverse filtering applications, the gradients  of each section in the cascade are almost uncorrelated with the gradients in other sections.  Hence, the gradient autocorrelation matrix is assumed to be block diagonal. Since we use a  second order filter for each section, the computation of the adaptation involves only the 2x2- gradient autocorrelation matrix for that section, while still being based on a global minimization  criterion. The gradient signal of a section itself is defined as the derivative of the overall output  error with respect to the coefficients of the particular section, which can be computed efficiently  by passing the overall output of the cascade to a filter with coefficients that are derived from the  coefficients of that section. The computational effort of the CRLS-SA algorithm is  approximately 20*L*N/2, where L is the data record length and N is the order of the filter.  <p>We analyze the convergence rate of the CRLS-SA algorithm based on the convergence  time constant concept, which is the ratio of the condition number and the sensitivity. The CRLS- SA structure is shown to satisfy the DeBrunner-Beex conjecture which says that a structure with  a smaller convergence time constant converges faster than a structure with a larger convergence  time constant. We show that CRLS-SA converges faster than the Direct Form RLS (DFRLS)  algorithm and that its convergence time constant is lower than that of the direct form. The  convergence behavior is verified by looking at how fast the estimated system approaches the true  system. Here we use the Itakura distance as the measure of closeness between the estimated and  the true system. We show that the Itakura distance associated with the CRLS-SA algorithm  approaches zero faster than that associated with the direct form RLS algorithm.  <p>The CRLS-SA algorithm is applied in this dissertation to general linear prediction, to the  direct adaptive computation of the LSF and their representation in quantized form using a split  vector quantization (VQ) approach, and to the detection and tracking of the frequencies in  signals consisting of multiple sinusoids in noise.",
+  "description_provenance": [
+    "Author Email: gzakaria@hns.com",
+    "Advisor Email: mooser@vt.edu",
+    "Advisor Email: hughv@vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Advisor Email: ball@math.vt.edu",
+    "Advisor Email: beex@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:07:46Z (GMT). No. of bitstreams: 15 chapter2.PDF: 716021 bytes, checksum: 9cc5e179833f5b77574b4734d0b31af4 (MD5) chapter4.PDF: 154720 bytes, checksum: d90884ed262def33e61ba9358b0f5fd8 (MD5) abstract.PDF: 13161 bytes, checksum: 1b02a2f7c7a7cfdd8ed676b8ef60069f (MD5) table_of_contents.PDF: 16778 bytes, checksum: 2f43c9002849e68c8319d26ce2c87e75 (MD5) Biography.PDF: 16187 bytes, checksum: b24766e1ba58b439b8a946a7fff17397 (MD5) chapter6.PDF: 12728 bytes, checksum: 873ae3f01a79fc54ee9f4386a784a8cf (MD5) chapter7.PDF: 62248 bytes, checksum: 8b79f1370b9439d8ebbf3dcbd2175e79 (MD5) list_of_tables.PDF: 7816 bytes, checksum: 3a92a96f9a920b08327f527be6b814f3 (MD5) chapter5.PDF: 355261 bytes, checksum: e48ea4c497fdcd6e7b311d7a690b5a0b (MD5) chapter3.PDF: 210970 bytes, checksum: 06888bdb70210dbf24f767bde68cb5e9 (MD5) Acknowledgements.pdf: 6549 bytes, checksum: f62881334587ba03291564651ef9cc14 (MD5) title_page.pdf: 6145 bytes, checksum: 72c7e732ee5ebe0830604037c5260be6 (MD5) chapter1.PDF: 27299 bytes, checksum: aedf4205461cd75f0e7e4ad275cb9b29 (MD5) list_of_figures.PDF: 25152 bytes, checksum: 80e27444d78b3b94f9959ef9091c57df (MD5) list_of_abbreviations.PDF: 9047 bytes, checksum: 6e84f7fd354a9d0a203875ff398648bf (MD5)   Previous issue date: 2000-02-14"
+  ],
+  "handle": "26295",
+  "identifier_other": "etd-02242000-10250027",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-02242000-10250027/",
+  "identifier_uri": "http://hdl.handle.net/10919/26295",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "chapter2.PDF",
+    "chapter4.PDF",
+    "abstract.PDF",
+    "table_of_contents.PDF",
+    "Biography.PDF",
+    "chapter6.PDF",
+    "chapter7.PDF",
+    "list_of_tables.PDF",
+    "chapter5.PDF",
+    "chapter3.PDF",
+    "Acknowledgements.pdf",
+    "title_page.pdf",
+    "chapter1.PDF",
+    "list_of_figures.PDF",
+    "list_of_abbreviations.PDF"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Adaptive Filtering",
+    "AR Process",
+    "Cascade Structure"
+  ],
+  "title": "Cascade RLS with Subsection Adaptation",
+  "type": "Dissertation"
+}

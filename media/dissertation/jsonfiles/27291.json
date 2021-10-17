@@ -1,0 +1,59 @@
+{
+  "contributor_author": "Dietrich, Jr., Carl B.",
+  "contributor_committeechair": "Stutzman, Warren L.",
+  "contributor_committeemember": [
+    "Sweeney, Dennis G.",
+    "Davis, William A.",
+    "Robertshaw, Harry H.",
+    "Reed, Jeffrey Hugh"
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:10:51Z",
+  "date_adate": "2000-04-28",
+  "date_available": "2014-03-14T20:10:51Z",
+  "date_issued": "2000-02-15",
+  "date_rdate": "2001-04-28",
+  "date_sdate": "2000-04-26",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "This dissertation reports results of an investigation into the performance of adaptive beamforming and diversity combining using antenna arrays that can be mounted on handheld radios.  Handheld arrays show great promise for improving the coverage, capacity, and power efficiency of wireless communication systems.<p> Diversity experiments using a handheld antenna array testbed (HAAT) are reported here.  These experiments indicate that signals received by the antennas in two-element handheld antenna arrays with spacing of 0.15 wavelength or greater can be combined to provide 7-9 dB diversity gain against fading at the 99% reliability level in non line-of-sight multipath channels.  Thus, peer-to-peer systems of handheld transceivers that use antenna arrays can achieve reliability comparable to systems of single-antenna handheld units, with only one-fifth the transmitter power, resulting in lower overall power consumption and increased battery life.  Similar gains were observed for spatial, polarization, and pattern diversity.<p> Adaptive beamforming with single- and multi-polarized four-element arrays of closely spaced elements was investigated by experiment using the HAAT, and by computer simulation using a polarization-sensitive vector multipath propagation simulator developed for this purpose.  Small and handheld adaptive arrays were shown to provide 25 to 40 dB or more of interference rejection in the presence of a single interferer in rural, suburban, and urban channels including line-of-sight and non line-of-sight cases.  In multipath channels, these performance levels were achieved even when there was no separation between the transmitters in azimuth angle as seen from the receiver, and no difference in the orientations of the two transmitting antennas.  This interference rejection capability potentially allows two separate spatial channels to coexist in the same time/frequency channel, doubling system capacity.<p>",
+  "description_provenance": [
+    "Author Email: cdietric@vt.edu",
+    "Advisor Email: dsweeney@vt.edu",
+    "Advisor Email: stutzman@vt.edu",
+    "Advisor Email: wadavis@vt.edu",
+    "Advisor Email: model@vtvm1.cc.vt.edu",
+    "Advisor Email: reedjh@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:51Z (GMT). No. of bitstreams: 14 vita.pdf: 42434 bytes, checksum: 67af1e92102550e4a75338cfb78be786 (MD5) etd.pdf: 71690 bytes, checksum: d71333523c4274758d1b4e0cc96f7d2d (MD5) ch10.pdf: 45454 bytes, checksum: 15328dd7c3e444e764198fb585c02acc (MD5) ch9.pdf: 1888156 bytes, checksum: 740b3eb65b2b7db6ab76c7e87a4817a9 (MD5) ch8.pdf: 367288 bytes, checksum: a3e09a9d88f3bb84ff3ee31f88ca97d3 (MD5) ch7.pdf: 381773 bytes, checksum: ce2811fcc5f0449c903264876172fc1e (MD5) ch6.pdf: 576570 bytes, checksum: 62e89cbd82e44fe26a6cbdd9234df673 (MD5) ch5.pdf: 174562 bytes, checksum: 3b4cc2b5e9305bd2c17d87f5fb76cc53 (MD5) ch4.pdf: 253524 bytes, checksum: 8c6005d8a9b8aedf0734871299506456 (MD5) ch3.pdf: 404886 bytes, checksum: f3721958f0609f0817834994f3ba47c1 (MD5) ch2.pdf: 305006 bytes, checksum: 22c848a37ac5a5e200b913550928e88f (MD5) ch1.pdf: 37520 bytes, checksum: ad9546e2e594c072d0eaebb339d363f9 (MD5) appB.pdf: 70517 bytes, checksum: dd7d230f97065493d79cf40ea7811a9a (MD5) appA.pdf: 233085 bytes, checksum: d81845988d865fb9626cc3ad3f62214b (MD5)   Previous issue date: 2000-02-15"
+  ],
+  "handle": "27291",
+  "identifier_other": "etd-04262000-15330030",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04262000-15330030/",
+  "identifier_uri": "http://hdl.handle.net/10919/27291",
+  "publisher": "Virginia Tech",
+  "relation_haspart": [
+    "vita.pdf",
+    "etd.pdf",
+    "ch10.pdf",
+    "ch9.pdf",
+    "ch8.pdf",
+    "ch7.pdf",
+    "ch6.pdf",
+    "ch5.pdf",
+    "ch4.pdf",
+    "ch3.pdf",
+    "ch2.pdf",
+    "ch1.pdf",
+    "appB.pdf",
+    "appA.pdf"
+  ],
+  "rights": "I hereby grant to Virginia Tech or its agents the right to archive and to make available my thesis or dissertation in whole or in part in the University Libraries in all forms of media, now or hereafter known.  I retain all proprietary rights, such as patent rights. I also retain the right to use in future works (such as articles or books) all or part of this thesis or dissertation.",
+  "subject": [
+    "Adaptive arrays",
+    "diversity",
+    "smart antennas"
+  ],
+  "title": "Adaptive Arrays and Diversity Antenna Configurations for Handheld Wireless Communication Terminals",
+  "type": "Dissertation"
+}

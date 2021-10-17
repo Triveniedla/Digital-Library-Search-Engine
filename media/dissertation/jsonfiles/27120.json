@@ -1,0 +1,47 @@
+{
+  "contributor_author": "Anderson, Jason Mitchell",
+  "contributor_committeecochair": [
+    "Ng, Fai",
+    "Burdisso, Ricardo A."
+  ],
+  "contributor_committeemember": [
+    "Borggaard, Jeffrey T.",
+    "Saunders, William R.",
+    "Wicks, Alfred L."
+  ],
+  "contributor_department": "Mechanical Engineering",
+  "date_accessioned": "2014-03-14T20:10:26Z",
+  "date_adate": "2003-04-23",
+  "date_available": "2014-03-14T20:10:26Z",
+  "date_issued": "2003-04-16",
+  "date_rdate": "2004-04-23",
+  "date_sdate": "2003-04-22",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "A technique to infer circumferential total pressure distortion intensity found in serpentine inlet airflow was established using wall-pressure fluctuation measurements.  This sensing technique was experimentally developed for aircraft with serpentine inlets in a symmetric, level flight condition.  The turbulence carried by the secondary flow field that creates the non-uniform total pressure distribution at the compressor fan-face was discovered to be an excellent indicator of the distortion intensity.  A basic understanding of the secondary flow field allowed for strategic sensor placement to provide a distortion estimate with a limited number of sensors.  The microphone-based distortion estimator was validated through its strong correlation with experimentally determined circumferential total pressure distortion parameter intensities (DPCP).     This non-intrusive DPCP estimation technique was then used as a DPCP observer in a distortion feedback control system.  Lockheed Martin developed the flow control technique used in this control system, which consisted of jet-type vortex generators that injected secondary flow to counter the natural secondary flow inherent to the serpentine inlet.  A proportional-integral-derivative (PID) based control system was designed that achieved a requested 66% reduction in DPCP (from a DPCP of 0.023 down to 0.007) in less than 1 second.  This control system was also tested for its ability to maintain a DPCP level of 0.007 during a quick ramp-down and ramp-up engine throttling sequence, which served as a measure of system robustness.  The control system allowed only a maximum peak DPCP of 0.009 during the engine ramp-up.  The successful demonstrations of this automated distortion control system showed great potential for applying this distortion sensing scheme along with Lockheed Martinâ  s flow control technique to military aircraft with serpentine inlets.                A final objective of this research was to broaden the non-intrusive sensing capabilities in the serpentine inlet.  It was desired to develop a sensing technique that could identify control efforts that optimized the overall inlet aerodynamic performance with regards to both circumferential distortion intensity DPCP and average pressure recovery PR.  This research was conducted with a new serpentine inlet developed by Lockheed Martin having a lower length-to-diameter ratio and two flow control inputs.  A cost function based on PR and DPCP was developed to predict the optimal flow control efforts at several Mach numbers.  Two wall-mounted microphone signals were developed as non-intrusive inlet performance sensors in response to the two flow control inputs.  These two microphone signals then replaced the PR and DPCP metrics in the original cost function, and the new non-intrusive-based cost function yielded extremely similar optimal control efforts.",
+  "description_provenance": [
+    "Author Email: jaander4@vt.edu",
+    "Advisor Email: jborggaard@vt.edu",
+    "Advisor Email: wng@vt.edu",
+    "Advisor Email: wills@vt.edu",
+    "Advisor Email: awicks@vt.edu",
+    "Advisor Email: rburdiss@vt.edu",
+    "Made available in DSpace on 2014-03-14T20:10:26Z (GMT). No. of bitstreams: 1 serpentine.pdf: 2185513 bytes, checksum: fb1e2d6780efc806a8d7e1fc476b0df0 (MD5)   Previous issue date: 2003-04-16"
+  ],
+  "handle": "27120",
+  "identifier_other": "etd-04222003-144211",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-04222003-144211/",
+  "identifier_uri": "http://hdl.handle.net/10919/27120",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "serpentine.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Inlet Flow Distortion",
+    "Wall-Pressure Fluctuations",
+    "Adaptive Filtering",
+    "Active Flow Control"
+  ],
+  "title": "Non-Intrusive Sensing and Feedback Control of Serpentine Inlet Flow Distortion",
+  "type": "Dissertation"
+}

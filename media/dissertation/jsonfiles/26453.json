@@ -1,0 +1,46 @@
+{
+  "contributor_author": "Bhaduri, Debayan",
+  "contributor_committeechair": "Shukla, Sandeep K.",
+  "contributor_committeemember": [
+    "Ha, Dong Sam",
+    "Hsiao, Michael S.",
+    "Jacobs, Ira",
+    "Shockley, James E.",
+    "Graham, Paul P."
+  ],
+  "contributor_department": "Electrical and Computer Engineering",
+  "date_accessioned": "2014-03-14T20:08:17Z",
+  "date_adate": "2007-04-11",
+  "date_available": "2014-03-14T20:08:17Z",
+  "date_issued": "2007-02-19",
+  "date_rdate": "2007-04-11",
+  "date_sdate": "2007-03-18",
+  "degree_grantor": "Virginia Polytechnic Institute and State University",
+  "degree_level": "doctoral",
+  "degree_name": "PhD",
+  "description_abstract": "The steady downscaling of CMOS technology has led to the development of devices with nanometer dimensions. Contemporaneously, maturity in technologies such as chemical self-assembly and DNA scaffolding has influenced the rapid development of non-CMOS nanodevices including vertical carbon nanotube (CNT) transistors and molecular switches. One main problem in manufacturing defect-free nanodevices, both CMOS and non-CMOS, is the inherent variability in nanoscale fabrication processes. Compared to current CMOS devices, nanodevices are also more susceptible to signal noise and thermal perturbations. <p>  One approach for developing robust digital systems from such unreliable nanodevices is to introduce defect- and fault-tolerance at the architecture level. Structurally redundant architectures, reconfigurable architectures and architectures that are a hybrid of the previous two have been proposed as potential defect- and fault-tolerant nanoscale architectures. Hence, the design of reliable nanoscale digital systems will require detailed architectural exploration. In this dissertation, we develop probabilistic methodologies and CAD tools to expedite the exploration of defect- and fault-tolerant architectures. These methodologies and tools will provide nanoscale system designers with the capability to carry out trade-off analysis in terms of area, delay, redundancy and reliability. <p>  During execution, the next state of a digital system is only dependent on the present state and the digital signals propagate in discrete time. Hence, we have used Markov processes to analyze the reliability of nanoscale digital architectures. Discrete Time Markov Chains (DTMCs) have been used to analyze logic architectures and Markov Decision processes (MDPs) have been used to analyze memory architectures. Since structurally redundant and reconfigurable nanoarchitectures may consist of millions of nanodevices, we have applied state space partitioning techniques and Belief propagation to scale these techniques. <p>  We have developed three toolsets based on these Markovian techniques. One of these toolsets has been specifically developed for the architectural exploration of molecular logic systems. The toolset can generate defect maps for isolating defective nanodevices and provide capabilities to organize structurally redundant fault-tolerant architectures with the non-defective devices. Design trade-offs for each of these architectures can be computed in terms of signal delay, area, redundancy and reliability. Another tool called HMAN (Hybrid Memory Analyzer) has been developed for analyzing molecular memory systems. Besides analyzing reliability-redundancy trade-offs using MDPs, HMAN provides a very accurate redundancy-delay trade-off analysis using HSPICE. SETRA (Scalable, Extensible Tool for Reliability Analysis) has been specifically designed for analyzing nanoscale CMOS logic architectures with DTMCs. SETRA also integrates well with current industry-standard CAD tools. <p>  It has been shown that multimodal computational models capture the operation of emerging nanoscale devices such as vertical CNT transistors, instead of the bimodal Boolean computational model that has been used to understand the operation of current electronic devices. We have extended an existing multimodal computational model based on Markov Random Fields (MRFs) for analyzing structurally redundant and reconfigurable architectures. Hence, this dissertation develops multiple probabilistic methodologies and tools for performing nanoscale architectural exploration. It also looks at different defect- and fault-tolerant architectures and explores different nanotechnologies.",
+  "description_provenance": [
+    "Author Email: dbhaduri@vt.edu",
+    "Advisor Email: shukla@vt.edu",
+    "Advisor Email: ha@vt.edu",
+    "Advisor Email: mhsiao@vt.edu",
+    "Advisor Email: ijacobs@vt.edu",
+    "Advisor Email: jashockl@vt.edu",
+    "Advisor Email: grahamp@lanl.gov",
+    "Made available in DSpace on 2014-03-14T20:08:17Z (GMT). No. of bitstreams: 1 Bhaduri_Debayan_Dissertation.pdf: 2444225 bytes, checksum: dfa7431a5ab419dfb7a7ae73dad3c446 (MD5)   Previous issue date: 2007-02-19"
+  ],
+  "handle": "26453",
+  "identifier_other": "etd-03182007-194734",
+  "identifier_sourceurl": "http://scholar.lib.vt.edu/theses/available/etd-03182007-194734/",
+  "identifier_uri": "http://hdl.handle.net/10919/26453",
+  "publisher": "Virginia Tech",
+  "relation_haspart": "Bhaduri_Debayan_Dissertation.pdf",
+  "rights": "I hereby certify that, if appropriate, I have obtained and attached hereto a written permission statement from the owner(s) of each third party copyrighted matter to be included in my thesis, dissertation, or project report, allowing distribution as specified below.  I certify that the version I submitted is the same as that approved by my advisory committee.  I hereby grant to Virginia Tech or its agents the non-exclusive license to archive and make accessible, under the conditions specified below, my thesis, dissertation, or project report in whole or in part in all forms of media, now or hereafter known.  I retain all other ownership rights to the copyright of the thesis, dissertation or project report.  I also retain the right to use in future works (such as articles or books) all or part of this thesis, dissertation, or project report.",
+  "subject": [
+    "Reliability driven design",
+    "Nanotechnology",
+    "Reliability analysis techniques"
+  ],
+  "title": "Design and Analysis of Defect- and Fault-tolerant Nano-Computing Systems",
+  "type": "Dissertation"
+}
